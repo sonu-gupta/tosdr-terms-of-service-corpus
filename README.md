@@ -3,6 +3,7 @@
 <p align="center">
   <a href="#usage">Usage</a> •
   <a href="#contributors">Contributors</a> •
+   <a href="#acknowledgment">Acknowledgment</a> •
   <a href="#license">License</a>
 </p>
 
@@ -21,6 +22,10 @@ To use the dataset, simply download the files from this repository and import th
 ## Contributors
 
 This dataset was created by Sonu Gupta. Contributions to the dataset and repository are welcome and encouraged. To contribute, please fork this repository, make your changes, and submit a pull request.
+
+## Acknowledgment
+
+We would like to acknowledge the TOSDR team for their good work and the valuable resource they have created in the form of the TOSDR website. Their efforts in creating a platform that summarizes and rates the terms of service of various online services has been invaluable in raising awareness about online privacy and user rights.
 
 ## License
 
