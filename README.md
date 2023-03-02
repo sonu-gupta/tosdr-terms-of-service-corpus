@@ -29,4 +29,9 @@ We would like to acknowledge the TOSDR team for their good work and the valuable
 
 ## License
 
-This dataset is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). By downloading and using this dataset, you agree to give attribution to the original source and to share any modifications under the same license.
+This dataset is based on data from the Terms of Service; Didn't Read (TOS;DR) project, which is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license. As such, this dataset is also released under the CC BY-SA 3.0 license. You are free to use, distribute, and modify this dataset for any purpose, as long as you give appropriate credit to the original creator (i.e., TOS;DR) and share any modifications you make to the dataset under the same license. 
+
+<!-- For more information, please see the [license file](./LICENSE.md). -->
+
+<!-- This dataset is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). By downloading and using this dataset, you agree to give attribution to the original source and to share any modifications under the same license.
+ -->
