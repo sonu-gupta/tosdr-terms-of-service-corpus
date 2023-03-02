@@ -8,8 +8,7 @@ txt_dir = "text_files/"
 for filename in os.listdir(html_dir):
     filepath = os.path.join(html_dir, filename)
     if os.path.getsize(filepath) < 2:
-        # Remove the file if its size is less than 2KB
-        #os.remove(filepath)
+        # Skip the file if its size is less than 2B
         continue
     try:
         with open(filepath, "r", encoding="ISO-8859-1", errors="ignore") as f:
