@@ -1,0 +1,169 @@
+
+         Acceptable Use Policy
+
+To report junk email or abuse issues please email abuse@mkcomputing.uk
+
+This acceptable use policy governs your use of the services we provide (âHosting Servicesâ).
+Your use of the Hosting Services means that you accept, and agree to abide by, all the policies in this acceptable use policy, which supplement our terms and conditions.
+MKComputing may modify this Acceptable Use Policy at any time without notice.
+
+You must not allow a third party to access or use the Hosting Services.
+If you have purchased one of our reseller hosting packages, you can allow a third party (a âThird Partyâ) to access or use the Hosting Services.
+If you do so, they will also be regulated by this acceptable use policy.
+As such, you will monitor the use of the Hosting Services by a Third Party and you will procure that they abide by this acceptable use policy.
+A breach of this acceptable use policy by a Third Party will be deemed to be a breach of this acceptable use policy by you.
+
+A.
+RESOURCE USAGE
+
+
+1.
+The Shared Hosting Services comprise the provision of web space on our servers to enable you to upload pages and files for the purpose of publishing websites.
+
+2.
+The Shared Hosting Services allow you âunlimitedâ server space for normal routine ânon-file-distributionâ web usage.
+For websites that allow downloading of video, audio or other files we reserve the right to impose a bandwidth limit of two hundred (200) gigabytes per calendar month.
+
+3.
+Non-file-distribution usage will remain unaffected by any limit imposed on downloading of video, audio or other files
+
+4.
+In your use of the Shared Hosting Services (other than where you are using your own virtual private server), you may not:
+
+--- a.
+use more than 10% of our platform's processing capacity.
+There are numerous activities that could cause such problems, including (but not limited to) CGI scripts and intensive FTP, PHP or HTTP operations
+--- b.
+run stand-alone, unattended server-side processes or any daemons.
+including (but not limited to) IRCd
+--- c.
+run any type of web spider or indexer
+--- d.
+run any software that interfaces with an Internet Relay Chat network
+--- e.
+run any bit torrent application, tracker, or client.
+You may link to legal torrent files off-site, but may not host or store them on our servers
+--- f.
+participate in any file-sharing/peer-to-peer activities
+--- g.
+run any gaming servers
+--- h.
+run entries or other scheduled tasks other than by configuring them through our control panel
+--- i.
+give away web space under a domain (including Resellers giving away free websites)
+--- j.
+operate a proxy website or service
+--- k.
+as a remote file host for other websites
+--- l.
+operate self-hosted file sync or similar âcloud storageâ based services including (but not limited to) OwnCloud, Pydio and Sparkleshare.
+
+5.
+You must not use the Hosting Services as an offsite backup facility.
+Therefore, all files uploaded to our servers as part of your usage of the Hosting Services must be visible and accessible to the outside world (web-visible) unless they are needed to operate the website of which they form part.
+We reserve the right to delete files or directories that are not web-visible without giving notice to you.
+
+6.
+All pages of website stored on our servers as part of the Hosting Services will be available to search engines unless you take action to prevent this.
+If you wish to optimise your web pages for search engines you agree to use coding and techniques which comply fully with the guidelines issued by Google, Bing, Yahoo and other large search engines.
+
+7.
+MySQL Databases are limited to 1024 megabytes in size, when they reach this size we will notify you.
+
+8.
+If you are a Reseller and deactivate a resold web hosting account we will delete it after 50 days.
+
+B.
+PROHIBITED USES
+1.
+You may use the Hosting Services only for lawful purposes.
+You may not use the Hosting Services:
+
+--- a.
+in any way that breaches any applicable local, national or international law or regulation
+--- b.
+in any way that is unlawful or fraudulent, or has any unlawful or fraudulent purpose or effect
+--- c.
+for the purpose of harming or attempting to harm minors in any way
+--- d.
+to send, knowingly receive, upload, download, use or re-use any material which does not comply with our content standards (see below)
+--- e.
+to transmit, or procure the sending of, any unsolicited or unauthorised advertising or promotional material or any other form of similar solicitation (also known as SPAM - see below)
+-- to knowingly transmit any data, send or upload any material that contains viruses, Trojan horses, worms, time-bombs, keystroke loggers, spyware, adware or any other harmful programs or similar computer code designed to adversely affect the operation of any computer software or hardware
+
+C.
+CONTENT STANDARDSC.
+CONTENT STANDARDS
+
+
+1.
+These content standards apply to any and all material that you allow to be hosted through the Hosting Services and to any interactive services associated with it.
+
+2.
+You must comply with the spirit of the following standards.
+The standards apply to each part of any Material as well as to its whole.
+
+3.
+Material must:
+
+- a.
+be accurate (where they state facts)
+- b.
+be genuinely held (where they state opinions)
+- c.
+comply with applicable law in the UK and in any country from which they are posted
+
+4.
+Material must not:
+
+- a.
+contain any material which is defamatory of any person
+- b.
+contain any material which is obscene, offensive, hateful or inflammatory
+- c.
+contain any material that is pornographic
+- d.
+promote violence
+- e.
+promote discrimination based on race, sex, religion, nationality, disability, sexual orientation or age
+- f.
+infringe any copyright, database right or trade mark of any other person
+- g.
+be likely to deceive any person
+- h.
+be made in breach of any legal duty owed to a third party, such as a contractual duty or a duty of confidence
+- i.
+promote any illegal activity
+- j.
+be threatening, abuse or invade anotherâs privacy, or cause annoyance, inconvenience or needless anxiety
+- k.
+be likely to harass, upset, embarrass, alarm or annoy any other person
+- l.
+be used to impersonate any person, or to misrepresent your identity or affiliation with any person
+- m.
+give the impression that they emanate from us, if this is not the case
+- n.
+advocate, promote or assist any unlawful act such as (by way of example only) copyright infringement or computer misuse
+
+D.
+ZERO TOLERANCE SPAM POLICY
+
+
+1.
+We take a zero tolerance stance against the sending of unsolicited email, bulk emailing and spam.
+We may terminate the account of any user who send out spam with or without notice
+
+2.
+Websites advertised as spam may not be hosted on our servers.
+This provision includes, but is not limited to, spam sent via fax, phone, postal mail, email, instant messaging or newsgroups.
+Any user account which results in our IP space being blacklisted will be immediately suspended and/or terminated.
+
+3.
+MKComputing reserves the right to require changes or disable as necessary any website, account, database or component that does not comply with our policy
+
+4.
+MKComputing reserves the right to charge the holder of the account used to send any unsolicited email, a clean-up fee or any charges incurred for blacklist removal at our sole discretion
+
+
+
+

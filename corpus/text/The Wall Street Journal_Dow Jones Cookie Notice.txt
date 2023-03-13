@@ -1,0 +1,191 @@
+
+THE DOW JONES COOKIE NOTICE
+
+Effective Date: January 8, 2021
+
+1.
+INTRODUCTION
+Dow Jones &amp.
+Company, Inc., and its subsidiaries ("Dow Jones") want you to be familiar with how we collect, use and disclose information from and about you because we respect your concerns about privacy, and we want to maintain your trust.
+We and our service providers collect information by automated means when you visit, access, or use our websites, mobile sites, applications (âappsâ), electronic newsletters or widgets (collectively the âDow Jones Servicesâ) that link to this Cookie Notice.
+We collect information through cookies (including Flash cookies), web beacons, pixels, server calls, web server logs, JavaScript, and other tracking technologies (collectively âCookiesâ) to deliver and improve the Dow Jones Services, and to display relevant content, products, services and advertising.
+A list of Dow Jones subsidiaries is available in annual reports accessible here.
+This Cookie Notice describes the information we obtain from Cookies, how we use Cookies, and how you can manage them.
+By using the Dow Jones Services, you acknowledge you have read and accept this Cookie Notice.
+We may periodically update this Cookie Notice without prior notice to reflect changes in our practices.
+Please take a look at the Effective Date at the top of this page to see when this Cookie Notice was last revised.
+Our use of Cookies may involve the processing of Personal Data (i.e., any information relating to an identified or identifiable individual, such as IP addresses, or other online mobile identifiers).&nbsp.
+For more information about our data protection practices, see our Privacy Notice.
+2.
+WHAT ARE COOKIES?
+A cookie is a small text file that is sent to and stored on your computer or other internet connected device to identify your browser or store information.
+They are widely used in order to make websites work, or work in a better, more efficient way.
+A web beacon links web pages to servers and may be used to transmit information collected through cookies back to a web server.
+Other tracking technologies such as pixels, JavaScript, server calls or web server logs allow us to use invisible images or code on the Dow Jones Services, or data from our server calls or web server logs, to gain analytics insights.
+3.
+INFORMATION WE OBTAIN THROUGH COOKIES
+The information we obtain through the use of Cookies may include information about your computer, device, and browser, such as your IP address, browser, operating system and device characteristics, language preferences, mobile device or advertising ID, referring URLs, and actions taken by you on the Dow Jones Services such as what content you visited, whether you have used the Dow Jones Services before, dates and times you access the Dow Jones Services, email and advertising views and click-throughs, frequent article searches on the Dow Jones Services, and other software or hardware information.
+If you access the Dow Jones Services from a mobile or other device, we may collect information for that device such as a unique device identifier ("UDID"), mobile phone number, and details about your mobile carrier.
+4.
+HOW WE USE COOKIE INFORMATION
+The Dow Jones Services use Cookies to function effectively.
+For example, Cookies allow us to display relevant content, provide advertising, and enhance your online experience.
+In addition, Cookies can recognize you and remember important information that will make your use of a website more convenient such as by remembering your login status and user preferences.
+We use information we obtain through the use of Cookies to enhance our products and services, such as by learning which content is popular.
+We may also use Cookies to link your use of the Dow Jones Services to Personal Data we have about you.
+For example, if you have asked us to provide you information about our upcoming products or promotions, Cookies will enable us to customize the materials we provide to you based on your online interests and preferences.
+Through the Cookies of third party analytics providers, ad networks, and advertisers, we can track your online activities over time and across third party websites, apps and devices, by obtaining information through automated means.
+This information, along with information we gather when you log in, can be used to understand use across sites and devices to help improve our products, remember your preferences, provide content recommendations, and show you advertisements on the Dow Jones Services or other third party websites and apps that may be tailored to your individual interests.
+The information these third parties may obtain on our behalf includes data about your visits to websites and use of apps that serve our advertisements, such as the pages, articles or ads you view and the actions you take on those websites or apps.
+This data collection takes place both on our sites, apps and emails, and on third party websites and apps.&nbsp.
+For more information, including how to opt out of Analytics and Advertising Cookies, see Cookies We Use and How You Can Manage Cookies below.
+5.
+COOKIES WE USE
+Below we list the different types of Cookies we may use on the Dow Jones Services.
+5.1 Strictly Necessary Cookies
+These Cookies are essential to the Dow Jones Services in order to facilitate our authentication, registration or log-in process and enable you to navigate and use the features of the Dow Jones Services.
+Without these Cookies, you may not be able to take full advantage of our services or features, and the Dow Jones Services will not perform as smoothly for you as we would like.
+The Strictly Necessary Cookies on the Dow Jones Services may include:
+
+ Cookie Name
+Further information djcs_session
+Tracks current user session.
+djcs_group
+Tracks group user sessions.
+djcs_route
+Device tracking identifier.
+djcs_sid or oidc_session
+Session identifiers.
+LPLogin
+Last log-in identifier.
+LSLogin
+Keeps track of last user log-in.
+ 
+5.2 Functionality Cookies
+In some circumstances, we may use Functionality Cookies to allow us to remember the choices you make while browsing the Dow Jones Services, to provide enhanced and more personalized content and features (such as customizing a certain webpage or remembering if we have asked you to participate in a promotion) and for other services you request, like watching a video or commenting on a blog.
+In order to permit your connection to the Dow Jones Services, we receive and record information about your computer, device, and browser, potentially including your IP address, browser type, and other software or hardware information.
+If you access the Dow Jones Services from a mobile or other device, we may collect a unique device identifier assigned to that device ("UDID"), geolocation data obtained with your consent where required by applicable law, or other traffic information for that device.
+All of these features help us, for example, improve your visit to the Dow Jones Services. Cookie Name
+Further information DJSESSION
+Some Dow Jones Services use this to store session-specific application feature information.
+For example, messages that should appear to the user once in a session are controlled here.
+Some Dow Jones Services also use this cookie to determine the approximate geographic location of the device for the session.
+DJCOOKIE
+Some Dow Jones Services use this to store application feature information across sessions.
+For example, messages that should appear to the user once a week or once a month are stored here.
+auth0
+Some Dow Jones Services use this to enable access to multiple Dow Jones Services.
+Cxense ASA (Piano)
+Some Dow Jones Services use this to enable paywall functionality and/or to deliver relevant content recommendations.
+
+https://www.cxense.com/about-us/platform-privacy-policy login_avc
+Some Dow Jones Services use this to count number of articles viewed.
+persistent_lang
+Some Dow Jones Services use this to store interface language setting.
+kmli or djcs_kli
+Some Dow Jones Services use one of these when a user selects the âKeep Me Signed Inâ feature.
+djvideovol, djvideolang
+Some Dow Jones Services use these for video volume and caption language.
+ 
+5.3 Flash Cookies
+We may use Adobe Flash Player to deliver special content, such as video clips or animation.
+To improve your user experience, local shared objects (known as âFlash Cookiesâ) are employed to provide functions such as remembering your settings and preferences. Cookie Name
+Further information org.osmf.strobemediaplayback.lso
+Used by video Flash player to store the average download bytes per second.
+So_WSJ_Volume
+Identifies the volume for the video player.
+Ad_freq_key
+Used for video ad frequency.
+ 
+5.4 Analytics Cookies
+We and our service providers may use Analytics Cookies (or performance cookies) to collect information about your use of the Dow Jones Services to help create reports and statistics on the performance of the Dow Jones Services which enable us to improve the way they work.
+Analytics Cookies collect information such as your IP address, type of device, operating system, referring URLs, country information, date and time of page visits, and pages visited.
+The information allows us to count our audience size, see the overall patterns of usage on the Dow Jones Services, help us record any difficulties you have with the Dow Jones Services and show us whether our advertising is effective or not.
+Analytics cookies on the Dow Jones Services may include: Cookie Name
+Further information, including how to opt out Adobe Analytics
+https://oms.dowjoneson.com/optout.html and https://www.d1.sc.omtrdc.net/optout.html Google Analytics
+https://www.google.com/intl/en/analytics/learn/privacy.html Nielsen
+https://www.nielsen-online.com/about_privacy.jsp comScore
+https://www.scorecardresearch.com/privacy.aspx Parse.ly
+https://www.parse.ly/privacy-policy/  
+5.5 Advertising Cookies
+We and our service providers may use Advertising Cookies to deliver ads that we believe are relevant to you and your interests.
+For example, we may use Advertising Cookies to customize the advertising and content you receive on the Dow Jones Services, to conduct interest-based advertising, to limit the number of times you see the same ad on the Dow Jones Services to help measure the effectiveness of our advertising campaigns, and to conduct market research.
+These Cookies remember what you have looked at or purchased on the Dow Jones Services and other sites, and may be combined with other information acquired from third parties such as demographics, offline purchases, and other marketing segment information, and we may share this information with other organizations, such as advertisers, in accordance with applicable law.
+Advertising Cookies on the Dow Jones Services may include: Cookie Name
+Further information, including how to opt out Salesforce Audience Studio (Krux)
+https://www.salesforce.com/products/marketing-cloud/sfmc/audience-studio-consumer-choice/ Google Ad Manager
+https://www.google.com/intl/en/policies/privacy/partners/ News IQ
+https://ncaudienceexchange.com/privacy/
+https://ncaudienceexchange.com/about/
+https://ncaudienceexchange.com/opt-out/  
+5.6 Social Networking Cookies
+Our products may have social plug-in capabilities which may include Cookies used to allow you to register with or sign in to the Dow Jones Services using your social network account, and track both members and non-members of social networks for additional purposes such as behavioral advertising, analytics, and market research. Cookie Name
+Further information, including how to opt out Facebook Social Plugin
+https://www.facebook.com/help/www/443483272359009
+https://www.facebook.com/help/www/213802165366955 LinkedIn
+https://www.linkedin.com/legal/privacy-policy Twitter
+https://twitter.com/privacy  
+6.
+THIRD PARTY COOKIES
+We work with third parties to support the Dow Jones Services by serving advertisements or providing services, such as providing users with the ability to comment on content, allowing users to share content, customizing content based on usage, or tracking aggregate site usage statistics (including actions taken on the Dow Jones Services, and dates and times you access the Dow Jones Services).&nbsp.
+These third parties use their Cookies to collect information on the Dow Jones Services and on other websites.
+For example, we use analytics services supported by third parties who generate Analytics Cookies on our behalf.
+We may not have access to these Cookies, although we may use statistical information arising from the Cookies provided by these third parties to customize content and for the other purposes described above.
+These companies may also transfer this information to other parties where required to do so by law, or where such other parties process the information on their behalf.
+Third party advertisers and other organizations may also use their own Cookies to collect information about your activities on the Dow Jones Services and/or the advertisements you have clicked on.
+This information, which may be combined with other information acquired from third parties such as demographics and other marketing segment information, may be used by them to serve advertisements on the Dow Jones Services and third party sites that they believe are most likely to be of interest to you based on content you have viewed.
+Third party advertisers may also use this information to measure the effectiveness of their advertisements and to track aggregate usage statistics.
+You can learn how to manage cookies in section 7 below.
+However, we may not control these third party Cookies and their use may be governed by the policies of the third parties employing these Cookies.
+To learn about these third party Cookies and how to manage them, please refer to the relevant policies on the third partyâs website.
+7.
+HOW YOU CAN MANAGE COOKIES
+You can stop Cookies from being downloaded to your device from the Dow Jones Services at any time by selecting the appropriate settings in your browser.&nbsp.
+Most browsers will tell you how to change your browser settings to notify you when a Cookie is being set or updated, or to restrict or block certain types or all Cookies.
+Please consult the "Help" section of your browser for more information or by visiting www.allaboutcookies.org.
+Your device settings may also allow you to prohibit mobile app platforms (such as Apple or Google) from sharing certain information obtained by automated means with us.
+You can refuse to accept Flash Cookies from the Dow Jones Services using Adobeâs Flash management tools available at https://www.adobe.com/security/flashplayer (it is not possible to manage Flash Cookies at the browser level).
+Sections 5.4, 5.5 and 5.6 above include links with information on how to opt out of specific Analytics, Advertising, and Social Networking Cookies on the Dow Jones Services.
+For more information on managing Analytics Cookies, please use the following links:
+
+https://www.google.com/intl/en/analytics/learn/privacy.html
+https://oms.dowjoneson.com/optout.html
+https://www.d1.sc.omtrdc.net/optout.html
+https://www.nielsen-online.com/about_privacy.jsp
+https://www.scorecardresearch.com/privacy.aspx
+https://www.parse.ly/privacy-policy/
+
+ 
+For more information on how to opt out of Advertising Cookies, visit:
+
+click here or here in the U.S.
+
+
+click here in Canada
+
+
+
+Note that opting out of Advertising Cookies is a device-based action, and it will not remove advertising from the pages you visit.
+instead it means the ads you will see may not be matched to your interests.
+If you make updates to your browser or device settings, or use an online link to opt out of Cookies, those updates apply to the device where you made the changes.&nbsp.
+Please note that by disabling or blocking any or all Cookies, some features of the Dow Jones Services may not operate as intended, or you may not have access to features or personalization available through the Dow Jones Services.&nbsp.
+For example, if you disable or reject Flash Cookies for the Dow Jones Services, you may not be able to access certain features such as video content or services that require you to sign in.
+In Europe, we participate in the IAB Europe Transparency &amp.
+Consent Framework and operate a consent management platform that helps us to comply with the frameworkâs specifications and policies.
+The platformâs notice explains the use of cookies by us and our partners, and how to control them.
+8.
+CONTACT US
+If you have questions about this Cookie Notice, please contact our Chief Privacy Officer and Data Protection Officers at privacypolicy@dowjones.com.
+Or you may write to:
+Attention: Privacy
+Dow Jones &amp.
+Company, Inc.
+4300 U.S.
+Route 1 North
+Monmouth Junction, NJ 08852
+If you are located in the EEA, the entity responsible for the collection and processing of Personal Data in connection with the Dow Jones Services is Dow Jones &amp.
+Company, Inc.
+(U.S.) (contact information provided above).&nbsp.
+If you have a corporate or group subscription agreement, the entity responsible for the collection and processing of your Personal Data is the entity with whom your company, professor or school has a direct relationship.
+Please do not disclose any sensitive Personal Data (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, or trade union membership), social security numbers, or criminal background information when contacting us.

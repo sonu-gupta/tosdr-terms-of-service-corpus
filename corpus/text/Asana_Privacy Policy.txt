@@ -1,0 +1,665 @@
+
+        Asana Privacy Policy
+Effective Date: January 1, 2020
+Asana offers a variety of team productivity, collaboration, and organizational tools available online, including via a mobile application (collectively, the âServiceâ), and websites, including but not limited to www.asana.com, wavelength.com, blog.asana.com, community.asana.com (the âWebsitesâ).
+As you use the Service and interact with the Websites, Asana collects and processes information from and about you in order to provide you with access to the Service, enhance your experience while using the Service, and interact with you.
+This Privacy Policy (the âPolicyâ) describes how Asana collects, uses, and discloses information collected through the Service and Websites, and what choices you have with respect to such information.
+The first section below explains which privacy terms are applicable to you depending on what type of user you are.
+References to âAsanaâ throughout the Policy mean the Asana entity that acts as the data controller or data processor of your information, as explained in more detail below.
+By accessing or using the Service and Websites, you acknowledge and agree that you have read, understand, and agree to be bound by this Policy.
+If you do not agree with this Policy, do not access or use the Service, Websites, or any other part of Asanaâs business.
+If you have any questions about this Privacy Policy, please contact Asana at: 1550 Bryant Street, Suite 200, San Francisco, CA 94103 or by emailing us at privacy@asana.com.
+
+This Privacy Policy contains the following sections:
+
+
+I What Type of User am I and What Privacy Terms are Applicable to Me?
+II Privacy Terms for Subscribers
+III Privacy Terms for Free Users
+IV Privacy Terms for Site Visitors
+V Additional Privacy Terms for All Users
+VI Privacy Information for California Residents
+VII Privacy Information for Nevada Residents
+VIII Asana Contact Info
+
+I.
+What Type of User am I and Which Privacy Terms Are Applicable to Me?
+Asana has three different types of users depending on the Asana products used.
+Please see the bullets below to determine which type of user you are, and then click the internal link to visit the privacy terms applicable to you.
+It is possible that you may use Asana in different ways.
+If so, please review all applicable privacy terms.
+Also, donât forget to review Section V, which contains privacy terms applicable to all users.
+
+
+Subscribers.
+We call users who use the Service as part of any tier of a paid Asana subscription plan âSubscribers.â The Service features and functionalities available to Subscribers are determined by the specific terms agreed to between Asana and the organization (e.g., your employer or another entity or person, called the âCustomerâ) that entered into a separate agreement that governs delivery, access, and use of the Service (for purpose of this Policy, the âCustomer Agreementâ).
+The Customer controls its instance of the Service and is the data controller of the information collected through the Service about Subscribers, and Asana is a data processor of such information.
+To go directly to the terms applicable to Subscribers, please click here.
+
+Free Users.
+We call users who use a non-paid version of the Service âFree Users.â While Free Users can access and use the Service, they have access to a more limited set of Service features and functionality than Subscribers.
+Asana is the data controller of the information collected through the Service about Free Users.
+To go directly to the terms applicable to Free Users, please click here.
+
+Site Visitors.
+We call users of the Websites âSite Visitors.â Site Visitors can be individuals who are simply browsing the Websites but who do not use the Asana Service.
+or, Site Visitors can be Free Users or Subscribers who visit the Websites to seek additional information about Asana.
+Asana is the data controller of the information collected through the Website about Site Visitors.
+To go directly to the terms applicable to Site Visitors please click here.
+
+II.
+Privacy Terms for Subscribers
+
+A.
+Overview
+
+Section II of this Policy applies only to Subscribers.
+If you are a Subscriber, the âCustomer Agreementâ governs the collection and processing of information collected from you through the Customerâs instance of the Service (e.g.
+a Customer's organization or workspace, but for purposes of this Policy referred to as the âWorkspaceâ), including all associated messages, attachments, files, tasks, projects and project names, team names, channels, conversations, and other content submitted through the Service (âWorkspace Contentâ).
+In the event of a conflict between this Privacy Policy and the Customer Agreement, the Customer Agreement governs.
+Because the Customer controls the Workspace used by Subscribers, if you have any questions about the Customerâs specific Workspace settings and privacy practices, please contact the Customer whose Workspace you use.
+If you are a Subscriber located in the European Union, please note that the Customer is the data controller with respect to the processing of your Workspace Content pursuant to the EU General Data Protection Regulation (âGDPRâ).
+When processing Workspace Content of EU data subjects governed by the Customer Agreement, Asana is the data processor, meaning that we collect and process such information solely on behalf of the Customer.
+
+B.
+Collection and Use of Subscriber Information
+
+This section explains the information we collect from Subscribers.
+We do not require Subscribers to provide us with information.
+However, certain information, such as account log-in data, is required to provide you with access to the Service, and other information may be collected automatically as you use the Service.
+
+
+Workspace Content.
+Workspace Content is collected, used, and shared by Asana in accordance with the Customerâs instructions, including any applicable terms in the Customer Agreement, or as required by applicable law.
+The Customer, and not Asana, determines its own, internal policies regarding storage, access, modification, deletion, sharing, and retention of Workspace Content which may apply to your use of the Service.
+For example, a Customer may provide or remove access to the Service, enable or disable third party integrations, manage permissions, retention and export settings, transfer or assign teams, or share projects.
+Please check with the Customer about the policies and settings that they have instituted with respect the Workspace Content that you provide when using the Service.
+
+Account Information.
+To set up your Asana account, you or the Customer will provide us with basic information about you which may include your name, address, telephone number, email address, and password.
+You will then have the ability to provide optional profile information, such as a photograph or basic demographic data.
+With your permission, we may also upload calendar information stored on your mobile device to your account.
+If you submit payment information in connection with your use of the Service, we utilize a third party credit card payment processing company to collect payment information, including your credit card number, billing address, and phone number.
+In such circumstances, the third party service provider, and not Asana, stores your payment information on our behalf.
+
+Service Usage Information.
+As you use the Service, we collect information about how you use and interact with the Service (âService Usage Informationâ).
+Such information includes:
+
+
+Device information â when you access the Service using a mobile device, we collect certain device information, including the type of device you are using, its operating system, and mobile network information, which may include your mobile phone number.
+We may also collect your MAC address and other unique device identifiers.
+Log files â when you use the Service, our servers automatically record information in server log files.
+These log files may include information such as your web request, IP address, browser type and settings, referring/exit pages and URLs, number of clicks, date and time stamp information, language preferences, data from cookies and similar technologies, and other such information.
+Location information â we collect and process general information about the location of the device from which you are accessing the Service (e.g., approximate geographic location inferred from an IP address).
+Workspace Use Metadata â when you interact with the Service, metadata is generated that provides high-level (non-content) information about the way you work in your Workspace.
+For example, we may log the number of Workspaces you work in.
+the number of tasks to which you are assigned.
+the features and embedded Service content you interact with.
+the types of files you share.
+and what, if any, third party services and integrations you use.
+
+
+
+Other Information.
+You may provide us with information when you interact with us in other ways, such as when you submit requests or questions to us via forms or email (e.g., support forms, sales forms, user research participation forms).
+information you provide in connection with Asana sweepstakes, contests, or research studies in which you choose to participate.
+beta testing.
+and requests for customer support and technical assistance (collectively, âOther Informationâ).
+
+Information Collected from Third-Party Integrations.
+If you choose to use or connect to third-party integrations (e.g., OneDrive, Unito, Wufoo, Slack) through the Service, or if you are required or permitted to do so by a Customer, such third parties may allow us to have access to and store additional information about your interaction with those services as it relates to your use of the Service.
+If you initiate these connections, you also understand that we will share information about you that is required to enable your use of the third-party integration through the Service.
+If you do not wish to have this information shared, do not initiate these connections.
+By enabling these connections, you authorize us to connect and access the information provided through these connections, and you understand that the privacy policies of these third parties govern such connections.
+
+
+C.
+How Does Asana Use Subscriber Information?
+
+This section explains how Asana uses information collected from Subscribers.
+
+
+Workspace Content.
+Asana may view and use Workspace Content collected from and about Subscribers only as necessary:
+
+
+To maintain, provide and improve the Service
+To prevent or address technical or security issues and resolve support requests
+To investigate when we have a good faith belief, or have received a complaint alleging, that such Workspace Content is in violation of the Customer Agreement or our User Terms of Service
+To comply with a valid legal subpoena, request, or other lawful process that meets the requirements of the Customer Agreement and our Law Enforcement Guidelines
+As otherwise set forth in our Customer Agreement or as expressly permitted in writing by the Customer
+
+
+
+Account Information, Service Usage Information, Information from Third Party Integrations, and Other Information.
+Asana may use these categories of information collected from and about Subscribers to:
+
+
+
+Maintain, provide, and improve the Service
+
+
+Respond to your requests for information
+
+
+Prevent or address technical or security issues and resolve support requests
+
+
+Investigate in good faith alleged violations of our User Terms of Service
+
+
+Comply with a valid legal subpoena, request, or other lawful process that meets the requirements of our Law Enforcement Guidelines
+
+
+Help us better understand user interests and needs, and customize the Service for our users
+
+
+Engage in analysis, research, and reports regarding use of the Service
+
+
+Protect the Service and our users
+
+
+Communicate with you via email and through the Service about important notices and updates regarding the Service, such as to inform you about changes in the Service, our service offerings, and important services-related notices, such as about security and fraud.
+Because these communications are an important part of the Service, you may not opt out of them
+
+
+In accordance with applicable legal obligations, communicate with you about promotions, offers, and news about Asana.
+You have the ability to unsubscribe from such promotional communications
+
+
+Provide cross-device management of your account.
+For example, we may locate or try to locate the same unique users across multiple browsers or devices (such as smartphones or tablets), or work with service providers that do this, in order to save your preferences across devices and analyze usage of the Service.
+If you wish to opt out of the ability of one our service providers, Google Analytics, to locate you across devices in this way, you may install the Google Analytics Opt-out Browser Add-on by clicking here
+
+
+
+D.
+Sharing of Subscriber Information
+
+In accordance with the applicable Customer Agreement, we may share the information we collect from Subscribers as follows:
+
+Affiliates and Subsidiaries.
+We may share the information we collect within the Asana family of companies.
+Service Providers.
+We may provide access to or share your information with select third parties that use the information only to perform services on our behalf.
+These third parties provide a variety of services to us, including without limitation sales, marketing, provision of content and features, analytics, data storage, security, fraud prevention, and other services.
+Business Transactions.
+If the ownership of all or substantially all of our business changes, we may transfer your information to the new owner so that the Service can continue to operate.
+In such case, your information would remain subject to the promises and commitments contained in this Policy until such time as the acquiring party modifies it.
+If such transfer is subject to additional mandatory restrictions under applicable laws, Asana will comply with such restrictions.
+Consistent with your settings within the Service.
+Please note that the Workspace Content you submit through the Service may be viewable by other users in your Workspace and within your organization, depending on the specific settings you and your organization have selected.
+
+
+E.
+Aggregate De-Identified Data
+
+We may aggregate and/or de-identify information collected through the Service so that such information can no longer be linked to you or your device (âAggregate/De-Identified Informationâ).
+We may use Aggregate/De-Identified Information for any purpose, including without limitation for research and analytics, and may also share such data with any third parties, including partners, affiliates, services providers, and others.
+
+F.
+Combined Information
+
+We may combine the information that we collect through the Service with information that we receive from other sources, both online and offline, and use such combined information in accordance with this Policy and the Customer Agreement.
+
+G.
+Data Retention
+
+We will retain your information for the period necessary to fulfill the purposes outlined in this Policy unless a longer retention period is required or permitted by law, or where the Customer Agreement requires or permits specific retention or deletion periods.
+
+H.
+Data Subject Rights
+
+Please contact your Workspace owner(s) or administrator(s) to exercise any data subject rights you have under applicable local laws, including your ability to access, delete, rectify, transfer, or object under the GDPR.
+III.
+Privacy Terms for Free Users
+
+A.
+Overview
+
+Section III of this Policy applies only to Free Users of the Service.
+If you are a Free User located in the European Union, Asana is the data controller with respect to the processing of your personal data pursuant to the GDPR.
+
+B.
+Collection and Use of Free User Information
+
+This section explains how we collect, process, and use the information collected from Free Users.
+We do not require Free Users to provide us with information.
+However, certain information, such as account log-in data, is required to provide you with access to the Service, and other information may be collected automatically as discussed below.
+
+
+Information You Provide to Asana.
+Asana collects the following information submitted directly through the Service by Free Users:
+
+
+The messages, attachments, files, tasks, project names, team names, channels, conversations, and other content submitted through the Service (collectively, the âWorkspace Contentâ);
+Information you provide as part of your account registration with Asana, which may include your name, organization name, address, telephone number, email address, username and password.
+optional information that you may choose to provide, such as a photograph or basic demographic data.
+and, with your permission, calendar information stored on your mobile device that you may elect to upload to your account (collectively, the âAccount Informationâ).
+and
+Information you provide in other interactions with us, such as requests or questions you submit to us via forms or email (e.g., support forms, sales forms, user research participation forms), information you provide in connection with Asana sweepstakes, contests, or research studies in which you choose to participate.
+beta testing.
+and requests for customer support and technical assistance (collectively, âOther Informationâ).
+
+
+
+Service Usage Information.
+As you use the Service, we collect a variety of information about how you use and interact with the Service (âService Usage Informationâ).
+Such information includes:
+
+
+Device information â when you access the Service using a mobile device, we collect certain device information, including the type of device you are using, its operating system, and mobile network information, which may include your mobile phone number.
+We may also collect your MAC address and other unique device identifiers.
+Log files â when you use the Service, our servers automatically record certain information in server log files.
+These log files may include information such as your web request, IP address, browser type and settings, referring / exit pages and URLs, number of clicks, date and time stamp information, language preferences, data from cookies and similar technologies, and other such information.
+Location information â we collect and process general information about the location of the device from which you are accessing the Service (e.g., approximate geographic location inferred from an IP address).
+Workspace Use Metadata â when you interact with the Service, metadata is generated that provides high-level (non-content) information about the way you work in your Workspace.
+For example, we may log the number of Workspaces you work in.
+the number of tasks to which you are assigned.
+the features and embedded Service content you interact with.
+the types of files you share.
+and what, if any, third party services and integrations you use.
+
+
+
+Information Collected from Third Party Integrations.
+If you choose to use or connect to third-party integrations (e.g., OneDrive, Unito, Wufoo, Slack) through the Service, such third parties may allow us to have access to and store additional information about your interaction with those services as it relates to your use of the Service.
+Moreover, if you initiate these connections, you also understand that we will share information about you that is required to enable your use of the third-party integration through the Service.
+If you do not wish to have this information shared, do not initiate these connections.
+By enabling these connections, you authorize us to connect and access the information provided through these connections, and you understand that the privacy policies of these third parties govern such connections.
+
+Information Collected from Other Third Parties.
+Asana may receive additional information about you, such as demographic information, from affiliates under common ownership and control, and from third parties, such as business partners, marketers, researchers, analysts, and other parties that we may use to supplement the information that we collect directly from you.
+
+
+C.
+Use of Free User Information
+
+Asana may use the information collected from Free Users to:
+
+Maintain, provide, and improve the Service
+Respond to your requests for information
+Prevent or address technical or security issues and resolve support requests
+Investigate in good faith alleged violations of our User Terms of Service
+Comply with a valid legal subpoena, request, or other lawful process that meets the requirements of our Law Enforcement Guidelines
+Help us better understand user interests and needs, and customize the Service for our users
+Engage in analysis, research, and reports regarding use of the Service
+Protect the Service and our users
+Communicate with you via email and through the Service about important notices and updates regarding the Service, such as to inform you about changes in the Service, our service offerings, and important services-related notices, such as about security and fraud.
+Because these communications are an important part of the Service, you may not opt out of them
+In accordance with applicable legal obligations, communicate with you about promotions, offers, and news about Asana.
+You have the ability to unsubscribe from such promotional communications
+Provide cross-device management of your account.
+For example, we may locate or try to locate the same unique users across multiple browsers or devices (such as smartphones or tablets), or work with service providers that do this, in order to save your preferences across devices and analyze usage of the Service.
+If you wish to opt out of the ability of one our service providers, Google Analytics, to locate you across devices in this way, you may install the Google Analytics Opt-out Browser Add-on by clicking here
+
+
+D.
+Legal Bases for Use of Your Information
+
+If you are located in the EU, please note that the legal bases under the EU General Data Protection Regulation (âGDPRâ) for using the information we collect through your use of the Service as a Free User are as follows:
+
+Where use of your information is necessary to perform our obligations under a contract with you (for example, to comply with the User Terms of Service which you accept by using the Service)
+Where use of your information is necessary for our legitimate interests or the legitimate interests of others (for example, to provide security for our Service.
+operate our Service.
+prevent fraud, analyze use of and improve our Service, and for similar purposes)
+Where use of your information is necessary to comply with a legal obligation
+Where we have your consent to process data in a certain way
+
+
+E.
+Sharing of Free User Information
+
+We share the information we collect through the Service about Free Users with the following:
+
+Affiliates and Subsidiaries.
+We may share the information we collect within the Asana family of companies.
+Service Providers.
+We may provide access to or share your information with select third parties that use the information only to perform services on our behalf.
+These third parties provide a variety of services to us, including without limitation sales, marketing, provision of content and features, advertising, analytics, research, data storage, security, fraud prevention, and other services.
+Business Transfers.
+If the ownership of all or substantially all of our business changes, we may transfer your information to the new owner so that the Websites can continue to operate.
+In such case, your information would remain subject to the promises and commitments contained in this Policy until such time as this Policy is updated or amended by the acquiring party upon notice to you.
+If such transfer is subject to additional mandatory restrictions under applicable laws, Asana will comply with such restrictions.
+Consent.
+We may also disclose your information to third parties with your consent to do so.
+Consistent with your settings within the Service.
+Please note that the Workspace Content you submit through the Service may be viewable by other users in your Workspace, depending on the specific settings you have selected.
+
+
+F.
+Aggregate De-Identified Data
+
+We may aggregate and/or de-identify information collected through the Service so that such information can no longer be linked to you or your device (âAggregate/De-Identified Informationâ).
+We may use Aggregate/De-Identified Information for any purpose, including without limitation for research and marketing purposes, and may also share such data with any third parties, including advertisers, promotional partners, sponsors, event promoters, and/or others.
+
+G.
+Combined Information
+
+For the purposes discussed in this Policy, we may combine the information that we collect through the Service with information that we receive from other sources, both online and offline, and use such combined information in accordance with this Policy.
+
+H.
+Data Retention
+
+We will retain your information for the period necessary to fulfill the purposes outlined in this Policy unless a longer retention period is required or permitted by law.
+
+I.
+Data Subject Rights
+
+Local legal requirements (such as those in the EU) may afford you additional rights.
+If you would like further information in relation to your legal rights under applicable law or would like to exercise any of them, please contact us at any time using this form.
+Your local laws (such as those in the EU) may permit you to request that we:
+
+provide access to and/or a copy of certain information we hold about you
+prevent the processing of your information for direct-marketing purposes (including any direct marketing processing based on profiling)
+update information which is out of date or incorrect
+delete certain information which we are holding about you
+restrict the way that we process and disclose certain of your information
+transfer your information to a third party provider of services
+revoke your consent for the processing of your information
+
+We will consider all requests and provide our response within the time period stated by applicable law.
+Please note, however, that certain information may be exempt from such requests in some circumstances, which may include if we need to keep processing your information for our legitimate interests or to comply with a legal obligation.
+We may request you provide us with information necessary to confirm your identity before responding to your request.
+IV.
+Privacy Terms for Site Visitors
+
+A.
+Overview
+
+Section IV of this Policy applies only to Site Visitors.
+If you visit the Websites, regardless of whether you are also a user of the Service, the following rules apply to you.
+To eliminate any confusion, please note that the terms in this section apply only to use of Asanaâs Websites, not to use of the Service.
+If you are a Site Visitor located in the European Union, Asana is the data controller with respect to the processing of your personal data pursuant to the EU General Data Protection Regulation (âGDPRâ).
+
+B.
+Collection and Use of Site Visitor Information
+
+
+
+Information Collected from Site Visitors
+When you use the Websites, we collect the following information about you:
+
+
+
+Contact Information â if you submit a request for information or a question through the Websites, you may be asked to provide us with basic information including your name, email address, phone number, and postal address.
+We will also keep records of the communication, the question/request you raised, and how it was resolved.
+If you choose to participate in an Asana sweepstakes, contest, or research study offered through the Websites, we will also collect basic contact information from you in connection with such activity.
+Websites Usage Information â as you browse the Websites, we and our service providers (which are third party companies that work on our behalf to provide and enhance the Websites) use a variety of technologies, including cookies and similar tools, to assist in collecting information about how you use the Websites.
+For example, our servers automatically record certain information in server logs.
+These server logs may include information such as your web request, IP address, browser type and settings, referring / exit pages and URLs, number of clicks and how you interact with links on the Websites, domain names, landing pages, pages viewed, mobile carrier, mobile device identifiers and information about the device you are using to access the Websites, date and time stamp information and other such information.
+Location Information â We collect and process general information about the location of the device from which you are accessing the Service (e.g., approximate geographic location inferred from an IP address).
+
+
+
+Cookies and Similar Technologies
+To collect the Websites Usage Information discussed above, we and our service providers use Internet server logs, cookies, tags, SDKs, tracking pixels, and other similar tracking technologies.
+A web server log is a file where website activity is stored.
+An SDK is a section of code that we embed in our applications and software to allow third parties to collect information about how users interact with the Websites.
+A cookie is a small text file that is placed on your computer or mobile device when you visit a site, that enables us to: (i) recognize your computer and login session.
+(ii) store your preferences and settings.
+(iii) understand which pages of the Websites you have visited.
+(iv), enhance your user experience by delivering and measuring the effectiveness of content and advertising tailored to your interests.
+(v) perform analytics.
+and (vi) assist with security and administrative functions.
+Tracking pixels (sometimes referred to as web beacons or clear GIFs) are tiny electronic tags with a unique identifier embedded in websites, online ads and/or email, and that are designed to provide usage information like ad impressions or clicks, email open rates, measure popularity of the Websites and associated advertising, and to access user cookies.
+As we adopt additional technologies, we may also gather information through other methods.
+Please note that you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether.
+Please consult the âHelpâ section of your browser for more information (e.g., Internet Explorer.
+Google Chrome.
+Mozilla Firefox.
+or Apple Safari).
+
+
+Use of Information Collected from Site Visitors
+We use the information collected from Site Visitors for a variety of purposes including to:
+
+
+
+Maintain, provide, and improve the Websites and the Service
+Respond to your requests for information
+In accordance with applicable legal obligations, communicate with you about promotions, offers, and news about Asana.
+You have the ability to unsubscribe from such promotional communications
+Prevent or address technical or security issues
+Investigate in good faith alleged violations of our User Terms of Service
+Help us better understand Site Visitor interests and needs, and customize the advertising and content you see on the Websites
+Engage in analysis and research regarding use of the Websites and the Service
+
+
+C.
+Legal Bases
+
+If you are located in the EU, please note that the legal bases under the GDPR for using the information we collect through your use of the Websites as a Site Visitor are as follows:
+
+Where use of your information is necessary to perform our obligations under a contract with you (for example, to comply with the User Terms of Service which you accept by browsing the Websites)
+Where use of your information is necessary for our legitimate interests or the legitimate interests of others (for example, to provide security for our Websites.
+operate our Websites.
+prevent fraud, analyze use of and improve our Websites, and for similar purposes)
+Where use of your information is necessary to comply with a legal obligation
+Where we have your consent to process data in a certain way
+
+
+D.
+Aggregate/De-Identified Data
+
+We may aggregate and/or de-identify information collected through the Websites so that such information can no longer be linked to you or your device (âAggregate/De-Identified Informationâ).
+We may use Aggregate/De-Identified Information for any purpose, including without limitation for research and marketing purposes, and may also share such data with any third parties, including advertisers, promotional partners, sponsors, event promoters, and/or others.
+
+E.
+Combined Information
+
+You agree that, for the purposes discussed in this Policy, we may combine the information that we collect through the Websites with information that we receive from other sources, both online and offline, and use such combined information in accordance with this Policy.
+If, however, the collection of any information about you is governed by a Customer Agreement, information will only be combined and used in accordance with such Customer Agreement and the sections of this Policy applicable to Subscribers.
+
+F.
+Website Analytics and Advertising
+
+
+
+Website Analytics
+We may use third-party web analytics services on our Websites to collect and analyze usage information through cookies and similar tools.
+engage in auditing, research, or reporting.
+and provide certain features to you.
+To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by clicking here.
+
+
+Online Advertising
+The Websites may integrate third-party advertising technologies that allow for the delivery of relevant content and advertising on the Websites, as well as on other websites you visit.
+The ads may be based on various factors such as the content of the page you are visiting, information you enter such as your age and gender, your searches, demographic data, and other information we collect from you.
+These ads may be based on your current activity or your activity over time and across other websites and online services and may be tailored to your interests.
+Third parties, whose products or services are accessible or advertised via the Websites, may also place cookies or other tracking technologies on your computer, mobile phone, or other device to collect information about you as discussed above.
+We also allow other third parties (e.g., ad networks and ad servers such as Google Analytics, DoubleClick and others) to serve tailored ads to you on our Websites and other websites and to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the Websites.
+We sometimes provide Site Visitor information (such as email addresses) to service providers, who may âmatchâ this information in de-identified form to cookies (or mobile ad identifiers) and other proprietary IDs, in order to provide you with more relevant ads when you visit other websites.
+We neither have access to, nor does this Policy govern, the use of cookies or other tracking technologies that may be placed on your device you use to access the Websites by such non-affiliated third parties.
+If you are interested in more information about tailored browser advertising and how you can generally control cookies from being put on your computer to deliver tailored advertising, you may visit the Network Advertising Initiativeâs Consumer Opt-Out link, the Digital Advertising Allianceâs Consumer Opt-Out link, or Your Online Choices to opt-out of receiving tailored advertising from companies that participate in those programs.
+To opt out of Google Analytics for display advertising or customize Google display network ads, visit the Google Ads Settings page.
+We do not control these opt-out links or whether any particular company chooses to participate in these opt-out programs.
+We are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms.
+Please note that if you exercise the opt-out choices above, you will still see advertising when you use the Websites, but it will not be tailored to you based on your online behavior over time.
+
+
+Notice Concerning Do Not Track
+Do Not Track (âDNTâ) is a privacy preference that users can set in certain web browsers.
+We are committed to providing you with meaningful choices about the information collected on our Websites for third party purposes, and that is why we provide the variety of opt-out mechanisms listed above.
+However, we do not currently recognize or respond to browser-initiated DNT signals.
+To learn more about Do Not Track, you can do so here.
+
+
+
+G.
+Sharing of Site Visitor Information
+
+We share the information we collect through the Websites with the following:
+
+Affiliates and Subsidiaries.
+We may share the information we collect within the Asana family of companies.
+Service Providers.
+We may provide access to or share your information with select third parties that use the information only to perform services on our behalf.
+These third parties provide a variety of services to us, including without limitation sales, marketing, provision of content and features, advertising, analytics, research, data storage, security, fraud prevention, and other services.
+Business Transfers.
+If the ownership of all or substantially all of our business changes, we may transfer your information to the new owner so that the Websites can continue to operate.
+In such case, your information would remain subject to the promises and commitments contained in this Policy until such time as this Policy is updated or amended by the acquiring party upon notice to you.
+If such transfer is subject to additional mandatory restrictions under applicable laws, Asana will comply with such restrictions.
+Public Forums.
+The Websites makes it possible for you to upload and share comments or feedback publicly with other users, such as on the Asana community forum.
+Any information that you submit through such public features is not confidential, and Asana may use it for any purpose (including in testimonials or other Asana marketing materials).
+Any information you post openly in these ways will be available to the public at large and potentially accessible through third-party search engines.
+Such information can be read, collected and/or used by other users, and it could be used to send you unsolicited messages.
+Accordingly, please take care when using these features of the Websites.
+Consent.
+We may also disclose your information to third parties with your consent to do so.
+
+
+H.
+Retention of Your Information
+
+We will retain your information for the period necessary to fulfill the purposes outlined in this Policy unless a longer retention period is required or permitted by law.
+
+I.
+Data Subject Rights
+
+Local legal requirements (such as those in the EU) may afford you additional rights.
+If you would like further information in relation to your legal rights under applicable law or would like to exercise any of them, please contact us at any time using this form.
+Your local laws (such as those in the EU) may permit you to request that we:
+
+provide access to and/or a copy of certain information we hold about you
+prevent the processing of your information for direct-marketing purposes (including any direct marketing processing based on profiling)
+update information which is out of date or incorrect
+delete certain information which we are holding about you
+restrict the way that we process and disclose certain of your information
+transfer your information to a third party provider of services
+revoke your consent for the processing of your information
+
+We will consider all requests and provide our response within the time period stated by applicable law.
+Please note, however, that certain information may be exempt from such requests in some circumstances, which may include if we need to keep processing your information for our legitimate interests or to comply with a legal obligation.
+We may request you provide us with information necessary to confirm your identity before responding to your request.
+
+J.
+Third Party Links And Services
+
+The Websites may contain links to third-party websites and functionalities.
+If you choose to use these third party services, you may disclose your information not just to those third-parties, but also to their users and the public more generally depending on how their services function.
+Because these third-party websites and services are not operated by Asana, Asana is not responsible for the content or practices of those websites or services.
+The collection, use, and disclosure of your information will be subject to the privacy policies of the third party websites or services, and not this Policy.
+We urge you to read the privacy and security policies of these third-parties.
+V.
+Additional Privacy Terms for All Users
+The following additional information about Asanaâs privacy practices apply to all users of Asana (Subscribers, Free Users, and Site Visitors).
+
+A.
+International Users
+
+Asana complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the U.S.
+Department of Commerce regarding the collection, use, and retention of personal data from the European Union and Switzerland to the United States, respectively.
+Asana has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access and Recourse, Enforcement and Liability.
+If there is any conflict between the policies in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/.
+In compliance with the EU-US Privacy Shield and Swiss-US Privacy Shield Principles, Asana commits to resolve complaints about your privacy and our collection or use of your personal data.
+European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Asana at: privacy@asana.com.
+Asana has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU Privacy Shield, operated by the Council of Better Business Bureaus.
+If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Asana, please visit the BBB EU Privacy Shield web site at https://www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+Asana is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) with respect to its compliance with the provisions of the EU-US and Swiss-US Privacy Shield.
+We may transfer information that we collect about you to third party processors across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
+If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S.
+law, please note that you are transferring information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
+Asana will take reasonable and appropriate steps necessary to ensure that any third party who is acting as a âdata processorâ under EU and Swiss terminology is processing the personal data we entrust to them in a manner that is consistent with the EU-US and Swiss-US Privacy Shield Principles.
+Asana is potentially liable in cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the EU-US and Swiss-US Privacy Shield, respectively.
+
+B.
+Changes To Our Privacy Policy
+
+We reserve the right to amend this Policy at any time to reflect changes in the law, our data collection and use practices, the features of our Service or Websites, or advances in technology.
+We will make the revised Policy accessible through the Service and Websites, so you should review the Policy periodically.
+If we make a material change to the Policy, we will comply with applicable legal requirements regarding providing you with notice and/or consent.
+
+C.
+How We Protect Your Information
+
+Asana takes technical and organizational measures to protect your information against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access.
+However, no method of transmission over the Internet, and no means of electronic or physical storage, is absolutely secure, and thus we cannot ensure or warrant the security of that information.
+
+D.
+Marketing Practices and Choices
+
+If you receive email from us, we may use certain analytics tools, such as clear GIFs, to capture data such as when you open our message or click on any links or banners our email contains.
+This data allows us to gauge the effectiveness of our communications and marketing campaigns.
+You may instruct us not to use your contact information to contact you by email, postal mail, or phone regarding products, services, promotions and special events that might appeal to your interests by contacting us at the âAsana Contact Infoâ section below.
+In commercial email messages, you can also opt out by following the instructions located at the bottom of such emails.
+Please note that, regardless of your request, we may still use and share certain information as permitted by this Policy or as required by applicable law.
+For example, you may not opt out of certain operational or service-related emails, such as those reflecting our relationship or transactions with you.
+VI.
+Privacy Information for California Residents If you are a California resident, California law requires us to provide you with some additional information regarding how we collect, use, and share your âpersonal informationâ (as defined in the California Consumer Privacy Act (âCCPAâ)).
+
+A.
+Categories of personal information we collect
+
+Throughout this Policy, we discuss in detail the specific pieces of personal information we collect from and about our users.
+Under the CCPA, we are also required to provide you with the âcategoriesâ of personal information we collect.
+The categories we collect are:
+
+identifiers (such as name, address, email address);
+commercial information (such as transaction data);
+financial data (such as credit card information collected by our payment processors on our behalf);
+internet or other network or device activity (such as browsing history or Service usage);
+general geolocation information (e.g., your approximate location based on IP address);
+professional or employment related data (e.g., your business contact information);
+biometric information (e.g., if you participate in a sales call and do not opt out of call recording);
+inference data about you (e.g., the additional Service features we think would be of most interest to you);
+legally protected classifications (such as gender);
+physical characteristics or description (e.g., if you voluntarily submit a photo when creating your profile on the Service).
+and
+other information that identifies or can be reasonably associated with you.
+
+
+B.
+How we use and share these categories of personal information
+
+We use and share the categories of personal information we collect from and about you consistent with the various business purposes we discuss throughout this Policy, and depending on which type of Asana user you are (i.e., Subscriber, Free User, or Site Visitor).
+See the relevant section(s) above for more information.
+Please note that the CCPA sets forth certain obligations for businesses that âsellâ personal information to third parties.
+We do not engage in such activity and have not engaged in such activity in the past twelve months from the effective date of this Policy.
+
+C.
+Your California Privacy Rights
+
+
+CCPA Rights Disclosure. If you are a California resident, the CCPA allows you to make certain requests about your personal information.
+Specifically, the CCPA allows you to request us to:
+
+Inform you about the categories of personal information we collect or disclose about you.
+the categories of sources of such information.
+the business or commercial purpose for collecting your personal information.
+and the categories of third parties with whom we share/disclose personal information.
+Such information is also set forth in this Policy.
+Provide access to and/or a copy of certain personal information we hold about you.
+Delete certain personal information we have about you.
+Provide you with information about the financial incentives that we offer to you, if any.
+
+The CCPA further provides you with the right to not be discriminated against (as provided for in applicable law) for exercising your rights.
+Please note that certain information may be exempt from such requests under California law.
+For example, we need certain information in order to provide the Service to you.
+We also will take reasonable steps to verify your identity before responding to a request, which may include, at a minimum, verifying your name and email address.
+You are also permitted to designate an authorized agent to submit certain requests on your behalf.
+We may also follow up with you to verify your identity before processing the authorized agentâs request.
+
+If you are a Free User or a Site Visitor, and you would like to exercise any of your rights under California law with respect to your personal information, please submit your request by completing Asanaâs CCPA Consumer Rights Form or by contacting us at privacy@asana.com.
+If you are a Subscriber, please contact your Workspace owner(s) or administrator(s) for more information about exercising these rights.
+
+
+Shine the Light Disclosure. The California âShine the Lightâ law gives residents of California the right under certain circumstances to request information from us regarding the manner in which we share certain categories of personal information (as defined in the Shine the Light law) with third parties for their direct marketing purposes.
+We do not share your personal information with third parties for their own direct marketing purposes.
+
+VII.
+Privacy Information for Nevada Residents
+Under Nevada law, certain Nevada consumers may opt out of the sale of âpersonally identifiable informationâ for monetary consideration (as such terms are defined under Nevada law) to a person for that person to license or sell such information to additional persons.
+We do not engage in such activity.
+however, if you are a Nevada resident and also an Asana Subscriber, you may submit a request to opt out of any potential future sales under Nevada law by completing Asanaâs Nevada Opt-out Form.
+Please note we may take reasonable steps to verify your identity and the authenticity of the request.
+Once verified, we will maintain your request in the event our practices change.
+VIII.
+Asana Contact Info
+Asana is located at 1550 Bryant Street, Suite 200, San Francisco, CA 94103.
+If you wish to contact us or have any questions about or complaints in relation to this Policy, please contact us at privacy@asana.com.

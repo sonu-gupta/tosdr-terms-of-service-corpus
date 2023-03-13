@@ -1,0 +1,87 @@
+
+         Security Guilded Support 
+1 month ago
+Updated
+ Policy
+Guilded appreciates the security community to find vulnerabilities to keep our customers and our business safe.
+Response
+Guilded will make a best effort to respond to and triage problems brought to our attention.
+Our goal is to respond to reports within four days and then triage within an additional four days.
+We'll do our best to keep you informed throughout the process.
+Disclosure
+The goal of this program is to help keep our users and their data safe so when disclosing a vulnerability please follow the rules set out here.&nbsp.
+Additionally, make sure to respect our usersâ privacy and ensure your actions do not harm our users.
+On our end, we will make an effort to prioritize security and not take punitive action towards researchers that abide by our guidelines to make sure that we encourage reports.
+Guidelines
+
+Please provide detailed, reproducible steps to construct the vulnerability.
+When we receive multiple reports for the same issue, we will not necessarily be able to respond to all reports but will respond to the first report received. 
+If a single underlying problem causes multiple vulnerabilities, we will consider that a single vulnerability.
+Any social engineering (e.g.
+phishing) is prohibited.
+During your investigations make a reasonable effort to avoid:
+
+privacy violations
+destruction of data
+interruption or degradation of our service
+
+Only interact with accounts you own or with the explicit permission of the owner.
+
+Recognition and Reward
+We will recognize those that help us here and, in some cases, provide a modest reward depending on the scope and severity of the discovered vulnerability.&nbsp.
+A report must be the first report we receive for a specific issue to be eligible.
+Out of scope vulnerabilities
+When reporting vulnerabilities, please consider both the attack scenario and the security impact of the bug.
+The following issues are not in scope:
+
+Exposing Session Tokens in URLs without proof of exploitability.
+Clickjacking on pages with no sensitive actions
+Cross-Site Request Forgery (CSRF) on unauthenticated forms or forms with no sensitive actions
+Attacks requiring MITM or physical access to a user's device.
+Previously known vulnerable libraries without a working Proof of Concept.
+Comma Separated Values (CSV) injection without demonstrating a vulnerability.
+Missing best practices in SSL/TLS configuration.
+Any activity that could lead to the disruption of our service (DoS).
+Content spoofing and text injection issues without showing a code execution attack vector
+Rate limiting or brute force issues on non-authentication endpoints
+Missing best practices in Content Security Policy.
+Missing HttpOnly or Secure flags on cookies
+Missing email best practices (Invalid, incomplete or missing SPF/DKIM/DMARC records, etc.)
+Vulnerabilities only affecting users of outdated or unpatched browsers [Less than 2 stable versions behind the latest released stable version]
+Software version disclosure / Banner identification issues / Descriptive error messages or headers (e.g.
+stack traces, application, or server errors).
+Public Zero-day vulnerabilities that have had an official patch for less than 1 month will be awarded on a case by case basis.
+Tabnabbing
+Open redirect - unless an additional security impact can be demonstrated
+Issues that require unlikely user interaction
+
+Safe Harbor
+Any activities conducted in a manner consistent with this policy will be considered authorized conduct.
+If legal action is initiated by a third party against you in connection with activities conducted under this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.
+Reports can be submitted to security@guilded.gg
+Thank you for helping keep our users safe!
+Thank You
+We would like to thank the following for helping to improve the safety and security of our community:
+
+Cameron Dawe and Spam404
+Yoshinori Hayashi
+wa1m3im
+atom0s
+Agung Saputra Ch Lages
+Bryce
+Mahmoud Osama from Secare.io 
+Nitin Gavhane 
+Swapnil Patil
+NULLYUKI
+Sheikh Rishad
+Bryce
+
+ 
+
+ Was this article helpful?  31 out of 43 found this helpful  Have more questions? Submit a request Return to top Related articles 
+ Privacy 
+ Attribution 
+ Community guidelines 
+ Terms of Use 
+ Contact 
+

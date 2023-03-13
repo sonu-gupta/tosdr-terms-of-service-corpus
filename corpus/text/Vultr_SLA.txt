@@ -1,0 +1,201 @@
+
+
+ Products 
+
+
+ Cloud Compute  Powerful compute instances.
+
+
+Compute
+High Frequency Compute
+
+
+ Bare Metal  Dedicated servers with no virtualization.
+
+
+ Object Storage  Flexible, scalable storage 
+
+ Block Storage  Fast SSD-backed storage.
+
+
+ Dedicated Cloud  No noisy neighbors.
+
+
+ Load Balancers  Horizontal scaling.
+Simplified.
+
+
+
+
+ Features 
+
+
+ Data Center Locations  17 server locations worldwide.
+
+
+ Advanced Network  High speed public and private networking.
+
+
+ Control Panel  Expand and manage your infrastructure.
+
+
+ Operating Systems  Deploy instance with preferred OS.
+
+
+ One-Click Apps  Deploy popular applications and games.
+
+
+ Upload ISO  Upload your own operating system.
+
+
+
+
+ Resources 
+
+
+ APIs and Developer Tools  Automation resources &amp.
+more 
+
+ Frequently Asked Questions  Learn about the Vultr platform 
+
+ Server Status  Real-time availability dashboard 
+
+ Vultr Docs  Search our documentation library 
+
+
+
+ Company 
+
+
+ About Us  We are simplifying infrastructure! 
+
+ Our Team  Meet the team behind our services.
+
+
+ Careers  Join our team of professionals.
+
+
+ News  What's new? 
+
+ SLA  Enterprise-class stability and performance.
+
+
+ Contact  Have questions? Reach out to us.
+
+
+
+
+ Log in 
+ Sign up 
+ English 
+
+
+ PortuguÃªs 
+ EspaÃ±ol 
+ ç®ä½ä¸­æ 
+ Deutsch 
+ æ¥æ¬èª 
+
+
+
+
+ Log In 
+ Sign Up 
+ Legal 
+ Terms Of Service 
+ Privacy 
+ CCPA 
+ GDPR 
+ Acceptable Use 
+ Anti-Spam 
+ Cookies 
+ SLA 
+ Last Modified: May 21, 2018 100% Uptime Guarantee Vultr offers a 100% uptime guarantee via this Service Level Agreement based on network and host node availability.
+Collectively, these guarantees may be referred to as the "SLA." This SLA is provided as a supplement to the Hosting Terms and Conditions You agreed to in becoming a Vultr customer, which is hereby incorporated by reference as an indispensable part of this SLA.
+
+ This uptime guarantee is applicable on a per-service-item basis and is not applied to Your entire invoice.
+For example, if You have fifty (50) servers with Us, and one (1) of those servers experiences downtime, any credit due to You under this uptime guarantee would be proportional to that one (1) server's downtime and not Your entire account with Us.
+This uptime guarantee does not apply to the accessibility of Vultr's web property, DNS servers, API, or control panel.
+ More simply put:  Our platform is extremely reliable, guaranteed!
+
+ You will receive a credit for instances experiencing an outage.
+ Packet Loss and Latency Vultr does not proactively monitor the packet loss or transmission latency of specific customers.
+Vultr does, however, proactively monitor the aggregate packet loss and transmission latency within its LAN and WAN.
+In the event that Vultr discovers (either from its own efforts or after being notified by You) that You are experiencing packet loss in excess of one percent (1%) ("Excess Packet Loss") between your instance and one hop from Vultr's border router(s) (first hop of egress providers router) and You notify Vultr via a support ticket (or Vultr has notified You of an event), Vultr will take all actions necessary to determine the source of the Excess Packet Loss/Latency.
+More simply put:  Our network operates with 0% packetloss.
+If you notice packetloss on Vultr's network, notify us! The SLA applies to packets from Vultr's network to it's providers network.
+If the packetloss occurs within a third party providers network outside of Vultr's control this SLA does not cover that.
+ Limitations The uptime guarantee ONLY applies to network and instance availability during normal operation.
+The uptime guarantee does NOT apply to server-side software uptime.
+Any outage due to server software, operating systems, improper configurations, denial of service attack against your instance, instance suspension, instance paused/halted for any reason, or any other non-network or non-"host node" outage, for any reason and whether or not such outage is caused by Us due to upgrading, troubleshooting or performing any other tasks, is not subject to this uptime guarantee.
+The guarantee does NOT apply when a scheduled maintenance occurs with a minimum of twenty-four (24) hour notice or in the event a time critical patch/update must be applied as long as the outage/packetloss does not exceed ten (10) minutes.
+ Furthermore, none of the guarantees in this SLA may be combined.
+For example, a hardware outage that also disrupts network activity will not qualify You for two (2) separate credits.
+If for example, a hardware outage was the basis for the connectivity loss, the entire event will count as one single outage for the purpose of determining applicable credit.
+More simply put:  The SLA applies to the infrastructure in Vultr's control.
+If you misconfigure your servers, we are not responsible.
+If Vultr needs to perform scheduled maintenance on your node, this is exempt, unless of course it takes us more than 10 minutes!  Outage Credits In accordance with the procedure outlined below, you must initiate a support ticket and request that a credit be applied to your account.
+Merely initiating a support ticket related to an outage will not result in any credit to your account.
+Initiating a support ticket and requesting a credit is what triggers an event for any potential credits.
+however, Vultr must still determine, in its sole discretion, whether or not an eligible outage has occurred.
+If Vultr determines that an eligible outage has occurred, then the ticket you generated will be used to generate a credit using the table below:
+ Outage Time Frame Credit Amount Less than 9 minutes 12 Hours 10 â 59 minutes 24 Hours 60 â 119 minutes 48 Hours 120 â 239 minutes 120 Hours 240 â 419 minutes 240 Hours 420+ minutes 672 Hours (1 Month)
+ How To Obtain Your Credit In order to receive any credit offered under this SLA, You must initiate a support ticket related to the event AND expressly request that We issue a credit.
+DO NOT ASSUME THAT WE ARE AWARE OF YOUR OUTAGE.
+Your outage may be wholly unrelated to Vultr's services, so unless You contact Us via a support ticket, We may not be aware any problem exists.
+Outages related to hardware or other services or events not under Vultr's control are not eligible for any guarantee or credit offered under this SLA.
+ You may initiate such support ticket via e-mail to support [at] vultr [dot] com, or the my.vultr.com interface.
+Whichever method You choose, You MUST obtain a Vultr ticket number as proof that you initiated a support ticket related to the outage, and the support ticket MUST ask for a credit related to the outage.
+As stated herein, the timestamp on the support ticket will mark the beginning of an outage should Vultr determine that an eligible outage occurred.
+If Vultr was aware of the issue before You were, Vultr may notify You of the outage.
+In such instance, You must still initiate a support ticket to confirm that You are aware of the outage, and such support ticket must still also request a credit.
+To be clear, You must have a support ticket number in order to receive any credits under this SLA.
+ You agree and acknowledge that all other terms, limitations, exclusions, disclaimers and requirements contained in Vultr's Hosting Terms and Conditions apply to this SLA.
+More simply put:  Open a support ticket to report outages and request SLA credits.
+ Products 
+ Cloud Compute 
+ High Frequency Compute 
+ Bare Metal 
+ Object Storage 
+ Block Storage 
+ Dedicated Instances 
+ DDoS Protection 
+ Direct Connect 
+ Load Balancers 
+ Features 
+ Data Center Locations 
+ Advanced Network 
+ Control Panel 
+ Operating Systems 
+ Upload ISO 
+ One-click Apps 
+ Bring your IP space 
+ Resources 
+ FAQ 
+ Developers / APIs 
+ Vultr Docs 
+ Benchmarks 
+ Server Status 
+ Bug Bounty 
+ Coupons 
+ Company 
+ Our Team 
+ News 
+ Brand Assets 
+ Referral Program 
+ Careers 
+ SLA 
+ Legal 
+ Contact 
+
+Over 40,000,000 Cloud Servers Launched Â© Vultr 2021  VULTR is a registered trademark of The Constant Company, LLC.
+
+ Terms of Service 
+ AUP/DMCA 
+ Privacy Policy 
+ Cookie Policy 
+ This website uses first and third party cookies for advertising purposes, to better understand your preferences, to offer you an optimal user experience, to keep track of statistics and to be able to collect your feedback.
+By clicking "Accept", you consent to the use of cookies.
+Read more about these cookies and how to configure them.
+ Continue 
+      

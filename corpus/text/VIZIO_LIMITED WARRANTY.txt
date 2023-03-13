@@ -1,0 +1,390 @@
+
+         Need help with your new VIZIO product? Contact VIZIO Support.
+Sign in / Sign up Hello Hello My Account Log out 
+ TVs  D-Series
+Dependability &amp.
+value
+Dependability &amp.
+value
+24" â 43"
+From $129.99 V-Series
+Affordable performance
+Affordable performance
+40" â 75"
+From $229.99 M-Series
+A quantum leap in color
+A quantum leap in color
+50" â 70"
+From $439.99 P-Series
+Our biggest &amp.
+best LED
+Our biggest &amp.
+best LED
+65" - 85"
+From $1199.99 OLED
+The perfect picture
+The perfect picture
+55" - 65"
+From $1299.99 Compare TVs 
+
+ D-Series Dependability &amp.
+value 24" â 43" From $129.99 Shop 
+ V-Series Affordable performance 40" â 75" From $229.99 Shop 
+ M-Series A quantum leap in color 50" â 70" From $439.99 Shop 
+ P-Series Our biggest &amp.
+best LED 65" - 85" From $1199.99 Shop 
+ OLED The perfect picture 55" - 65" From $1299.99 Shop 
+ Compare TVs 
+
+
+ Compare Series Not sure which Smart TV fits your needs?
+No worries, weâll guide you to the right model: Compare TVs 
+
+
+ V-Series Smart &amp.
+affordable performance 40" â 75" Starting at: $229.99
+
+ M-Series A quantum leap in color 40" â 70" Starting at: $439.99
+
+ P-Series Our biggest and best LED 65" - 85" Starting at: $1199.99
+
+ OLED The perfect picture 55" â 65â Starting at: $1,299.99
+
+ Compare Series Not sure which Smart TV fits your needs?
+No worries, weâll guide you to the right model: Compare TVs 
+
+
+ Sound Bars  V-Series
+Big sound at a small price
+Big sound at a small price
+2.1 &amp.
+5.1
+From $179.99 M-Series
+A step up to surround sound
+A step up to surround sound
+AIO &amp.
+5.1 &amp.
+5.1.2
+From $149.99 Elevate
+The pinnacle of audio excellence
+The pinnacle of audio excellence
+5.1.4
+From $999.99 Additional Sound Bars
+Americaâs #1 Sound Bar Brand
+Americaâs #1 Sound Bar Brand
+2.1 &amp.
+5.1
+From $179.99 Compare Sound Bars 
+
+ V-Series Big sound at a small price 2.1 &amp.
+5.1 From $179.99 Shop 
+ M-Series A step up to surround sound AIO &amp.
+5.1 &amp.
+5.1.2 From $149.99 Shop 
+ Elevate The pinnacle of audio excellence 5.1.4 From $999.99 Shop 
+ Additional Sound Bars Americaâs #1 Sound Bar Brand 2.1 &amp.
+5.1 From $179.99 Shop 
+ Compare Sound Bars 
+
+
+ Compare Series Not sure which soundbar fits your needs?
+No worries, weâll guide you to the right model: Compare SoundBars 
+
+
+ V-Series Big sound at a small price 2.1 &amp.
+5.1 Starting at: $179.99
+
+ M-Series A step up to surround sound AIO &amp.
+5.1 &amp.
+5.1.2 Starting at: $149.99
+
+ Elevate The pinnacle of audio excellence 5.1.4 Starting at: $999.99
+
+ Compare Series Not sure which soundbar fits your needs?
+No worries, weâll guide you to the right model: Compare SoundBars 
+
+
+ SmartCastâ¢  SmartCastâ¢
+Discover everything you love all in one place
+Discover everything you love all in one place Smart TV Apps
+Enjoy endless entertainment from your favorite apps
+Enjoy endless entertainment from your favorite apps WatchFreeâ¢
+Stream hundreds of free channels
+Stream hundreds of free channels 
+
+ SmartCastâ¢ Discover everything you love all in one place 
+ Visit 
+ Smart TV Apps Enjoy endless entertainment from your favorite apps 
+ Visit 
+ WatchFreeâ¢ Stream hundreds of free channels 
+ Visit 
+ Explore SmartCast 
+
+
+ SmartCastâ¢ Get everything you love in all in one place 
+
+
+ Smart TV Apps Entertainment from an endless selection of apps 
+
+
+ WatchFreeâ¢ Stream over 150 TV channels for free 
+
+
+ Explore SmartCast 
+
+
+ Shop 
+ Support 
+ {{#ifEquals lineItems.length 0}} {{else}} {{#each lineItems}} {{{shoppingCartImageLink url name imagePath }}} {{{shoppingCartLink url description}}} {{{promotionalMessage}}} QTY: {{quantity}} {{#ifEquals savings 0}} {{lineItemTotal}} {{else}} {{lineItemPrice}} {{lineItemTotal}} {{/ifEquals}} {{#ifEquals available 0}} *This product is currently out of stock.
+{{/ifEquals}} {{#ifGreater available 0}} {{#ifGreater quantity available}} Weâre sorry, the requested quantity is not available.
+{{/ifGreater}} {{/ifGreater}} {{/each}} {{/ifEquals}} {{#ifEquals lineItems.length 0}} {{else}} Cart Subtotal:{{cartTotal}} Edit Cart Checkout {{/ifEquals}} 1 item added to your cart . You have been logged out successfully.
+Close No Results Found.
+
+ Terms of Service 
+ Privacy Policy 
+ Viewing Data Supplement 
+ Viewing Data Regions 
+ Website Terms of Use 
+ myVIZIO Terms of Use 
+ Warranty &amp.
+Returns 
+ Shipping Policy 
+ Your California Privacy Rights 
+ Privacy Policy Addendum for California Residents 
+ VIZIO PRODUCTS
+LIMITED WARRANTY
+The warranty posted here may not apply to your product.
+Any changes to the warranty posted here will not affect your original warranty.
+The applicable warranty for your product is included in your product documentation.
+United States and Canada
+BY USING YOUR VIZIO PRODUCT YOU AGREE TO BE BOUND BY ALL THE TERMS OF THIS WARRANTY.
+BEFORE USING YOUR VIZIO PRODUCT, PLEASE READ THIS WARRANTY CAREFULLY.
+IF YOU DO NOT AGREE TO THE TERMS OF THIS WARRANTY, DO NOT USE THE VIZIO PRODUCT AND, WITHIN THIRTY (30) DAYS OF THE DATE OF PURCHASE, RETURN IT FOR A REFUND TO THE AUTHORIZED RETAILER WHERE YOU PURCHASED IT.
+
+This warranty contains a binding arbitration agreement and a class action waiver for United States residents.
+If you live in the United States, the binding arbitration agreement and class action waiver affect your rights under this warranty.
+Please read the text under the section titled âBinding Arbitration Agreement.
+Class Action Waiver (U.S.
+Residents Only)â carefully.
+
+How Long This Warranty Lasts
+For non-commercial use, VIZIO warrants the product on the terms set forth below for one (1) year from the date of original purchase.
+For commercial use, VIZIO warrants this product on the terms set forth below for ninety (90) days from the date of original purchase.
+What This Warranty Covers
+VIZIO warrants the product against defects in materials and workmanship when the product is used normally in accordance with VIZIOâs user guides and manuals.
+Except where restricted by law, this warranty applies only to the original purchaser of a new product.
+The purchase must have been made from an authorized retailer in the United States (including Puerto Rico) or Canada.
+The product must also be located in the country where it was purchased at the time of warranty service.
+Zero Bright Pixel Defect Guarantee (Displays Only)
+Your product may qualify for a warranty against âzero bright pixelâ defects for the duration of the warranty on select new product purchases.
+To determine if this guarantee applies to your product, refer to the modelâs product information page at www.vizio.com, look for the âzero bright pixelâ guarantee on the box, or contact VIZIO Technical Support at the email address or telephone number below.
+How to Get Service
+Before obtaining warranty service, you may visit www.vizio.com for additional help and troubleshooting.
+To obtain warranty service, contact VIZIO Customer Support by going to support.
+vizio.com and selecting Contact Us.
+You can also call Customer Support:
+US â (855) 209-4106
+Canada â (877) 878-4946 
+Your Obligations Before Service
+You must obtain pre-authorization before sending your product to a VIZIO service center.
+You may be required to supply a purchase receipt (or copy) to show that the product is within the warranty period.
+When you return a product to a VIZIO service center, you must ship the product in its original packaging or in packaging that affords an equal degree of protection.
+VIZIO Technical Support will provide instructions for packing and shipping the product to the VIZIO service center.
+ALL USER DATA AND DOWNLOADED APPLICATIONS STORED ON A PRODUCT WILL BE DELETED IN THE COURSE OF SOME IN-HOME AND ALL SHIP-IN WARRANTY SERVICE.
+If this occurs, your product will be restored to its original state.
+You will be responsible for restoring all applicable user data and downloaded applications.
+Recovery and reinstallation of user data and downloaded applications is not covered under this warranty.
+In order to protect your personal information, VIZIO recommends that you always clear all personal information from the product before it is serviced, regardless of the servicer.
+VIZIOâs Responsibilities
+If VIZIO determines that a product is covered by this warranty, VIZIO will (at its option) repair or replace it, or refund the purchase price to you.
+There will be no charge for parts or labor during the warranty period.
+Replacement parts may be new or recertified at VIZIOâs option and sole discretion.
+Replacement parts and VIZIOâs labor are warranted for the remaining portion of the original warranty or for ninety (90) days from warranty service, whichever is longer.
+Types of Service
+Displays that are 30 inches or larger will usually be serviced in-home.
+In-home service requires complete and easy access to the product and does not include de-installation or re-installation of the product.
+In-home service is subject to availability.
+VIZIO will provide other service options when in-home service is not available.
+All other VIZIO products must be sent to a VIZIO service center to obtain warranty service.
+VIZIO is not responsible for transportation costs to the service center, but VIZIO will cover return shipping to the customer.
+What This Warranty Does Not Cover
+This warranty does not cover: (a) cosmetic damage.
+(b) normal wear and tear.
+(c) improper operation.
+(d) improper voltage supply or power surges.
+(e) signal issues.
+(f) damage from shipping.
+(g) acts of God.
+(h) customer misuse, modifications or adjustments.
+(i) installation, set-up, or repairs attempted by anyone other than by a VIZIO authorized service center.
+(j) products with unreadable or removed serial numbers.
+(k) products requiring routine maintenance.
+or (l) products sold âAS ISâ, âCLEARANCEâ, âFACTORY RECERTIFIEDâ, or by a non-authorized reseller.
+What to Do If You Are Not Satisfied With Service
+If you feel VIZIO has not met its obligations under this warranty, you may attempt to resolve the issue informally with VIZIO.
+If you are unable to resolve the issue informally and wish to file a formal claim against VIZIO, and if you are a resident of the United States, you must submit your claim to binding arbitration according to the procedures described below, unless an exception applies.
+Submitting a claim to binding arbitration means that you do not have the right to have your claim heard by a judge or jury.
+Instead your claim will be heard by a neutral arbitrator.
+Binding Arbitration Agreement.
+Class Action Waiver (U.S.
+Residents Only)
+UNLESS YOU HAVE BROUGHT AN ELIGIBLE CLAIM IN SMALL CLAIMS COURT OR HAVE OPTED OUT AS DESCRIBED BELOW, ANY CONTROVERSY OR CLAIM RELATING IN ANY WAY TO YOUR VIZIO PRODUCT, INCLUDING ANY CONTROVERSY OR CLAIM ARISING OUT OF OR RELATING TO THIS WARRANTY, A BREACH OF THIS WARRANTY, OR THE VIZIO PRODUCTâS SALE, CONDITION OR PERFORMANCE, WILL BE SETTLED BY BINDING ARBITRATION ADMINISTERED BY THE AMERICAN ARBITRATION ASSOCIATION AND CONDUCTED BY A SINGLE ARBITRATOR APPOINTED BY THE AMERICAN ARBITRATION ASSOCIATION, IN ACCORDANCE WITH ITS COMMERCIAL ARBITRATION RULES AND ITS SUPPLEMENTARY PROCEDURES FOR CONSUMER-RELATED DISPUTES.
+You may learn more about the American Arbitration Association and its rules for arbitration by visiting www.adr.org or by calling 800-778-7879.
+Since this warranty concerns a transaction in interstate or international commerce, the Federal Arbitration Act will apply.
+The filing fees to begin and carry out arbitration will be shared between you and VIZIO, but in no event will your fees ever exceed the amount allowable by the American Arbitration Association, at which point VIZIO will cover all additional administrative fees and expenses.
+VIZIO waives its right to recover attorneysâ fees in connection with any arbitration under this warranty.
+If you are the prevailing party in an arbitration to which the Supplementary Procedures for Consumer-Related Disputes applies, then you are entitled to recover attorneysâ fees as the arbitrator may determine.
+The dispute will be governed by the laws of the state or territory in which you resided at the time of your purchase (if in the United States).
+The place of arbitration will be Irvine, California, or your county of residence (if in the United States).
+The arbitrator will have no authority to award punitive or other damages not measured by the prevailing party's actual damages, except as may be required by statute.
+The arbitrator will not award consequential damages, and any award will be limited to monetary damages and will include no equitable relief, injunction, or direction to any party other than the direction to pay a monetary amount.
+Judgment on the award rendered by the arbitrator will be binding and final, except for any right of appeal provided by the Federal Arbitration Act, and may be entered in any court having jurisdiction.
+Except as may be required by law, neither you nor VIZIO nor an arbitrator may disclose the existence, content, or results of any arbitration under this warranty without the prior written consent of you and VIZIO.
+ANY DISPUTE, WHETHER IN ARBITRATION, IN COURT, OR OTHERWISE, WILL BE CONDUCTED SOLELY ON AN INDIVIDUAL BASIS.
+VIZIO AND YOU AGREE THAT NO PARTY WILL HAVE THE RIGHT OR AUTHORITY FOR ANY DISPUTE TO BE ARBITRATED AS A CLASS ACTION, A PRIVATE ATTORNEY GENERAL ACTION, OR IN ANY OTHER PROCEEDING IN WHICH EITHER PARTY ACTS OR PROPOSES TO ACT IN A REPRESENTATIVE CAPACITY.
+NO ARBITRATION OR PROCEEDING WILL BE JOINED, CONSOLIDATED, OR COMBINED WITH ANOTHER ARBITRATION OR PROCEEDING WITHOUT THE PRIOR WRITTEN CONSENT OF ALL PARTIES TO ANY SUCH ARBITRATION OR PROCEEDING.
+Exceptions to Binding Arbitration Agreement and Class Action Waiver
+
+IF YOU DO NOT WISH TO BE BOUND BY THE BINDING ARBITRATION AGREEMENT AND CLASS ACTION WAIVER, THEN: (1) you must notify VIZIO in writing within sixty (60) days of the date that you purchased the product.
+(2) your written notification must be mailed to VIZIO at 39 Tesla, Irvine, CA 92618, Attn: Legal Department.
+and (3) your written notification must include (a) your name, (b) your address, (c) the date you purchased the product, and (d) a clear statement that you wish to opt out of the binding arbitration agreement and class action waiver.
+In addition, you may pursue a claim in small claims court in your county of residence (if in the United States) or in Orange County, California.
+In such case the provisions of the section titled âBinding Arbitration Agreement.
+Class Action Waiver (U.S.
+Residents)â will not apply.
+Exclusions and Limitations
+TO THE GREATEST EXTENT PERMITTED BY APPLICABLE LAW, THERE ARE NO EXPRESS WARRANTIES OTHER THAN THOSE DESCRIBED ABOVE.
+ANY IMPLIED WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, WILL BE LIMITED IN DURATION TO THE WARRANTY PERIOD SET FORTH ABOVE.
+SOME STATES AND PROVINCES DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+VIZIO WILL NOT BE RESPONSIBLE FOR LOSS OF USE, LOSS OF INFORMATION OR DATA, COMMERCIAL LOSS, LOST REVENUE OR LOST PROFITS, OR OTHER INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, EVEN IF VIZIO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND EVEN IF THE REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+SOME STATES AND PROVINCES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+IN LIEU OF ANY OTHER REMEDY FOR ANY AND ALL LOSSES AND DAMAGES RESULTING FROM ANY CAUSE WHATSOEVER (INCLUDING VIZIOâS NEGLIGENCE, ALLEGED DAMAGE, OR DEFECTIVE GOODS, NO MATTER WHETHER SUCH DEFECTS ARE DISCOVERABLE OR LATENT), VIZIO MAY, AT ITS SOLE AND EXCLUSIVE OPTION AND IN ITS DISCRETION, REPAIR OR REPLACE YOUR PRODUCT, OR REFUND ITS PURCHASE PRICE.
+AS NOTED, SOME STATES AND PROVINCES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+How the Law Applies
+This warranty gives you specific legal rights, and you may also have other rights, which vary from state to state and province to province.
+This warranty applies to the greatest extent permitted by applicable law.
+General
+No employee or agent of VIZIO may modify this warranty.
+If any term of this warranty, other than the class action waiver, is found to be unenforceable, that term will be severed from this warranty and all other terms will remain in effect.
+If the class action waiver is found to be unenforceable, then the entire section titled âBinding Arbitration Agreement.
+Class Action Waiver (U.S.
+Residents Only)â will not apply.
+This warranty applies to the maximum extent not prohibited by law.
+Changes to Warranty
+This warranty may change without notice, but any change will not affect your original warranty.
+Check www.vizio.com/en/home for the most current version.
+Return Policy for Direct VIZIO Sales
+VIZIO's return policy allows for products purchased directly from VIZIO to be returned by the original purchaser during the initial thirty (30) day period following the date of purchase.
+A VIZIO return authorization number must first be obtained as provided below.
+The refund will be the purchase price actually paid by the purchaser less a ten percent (10%) restocking fee per each item returned.
+Shipping and handling are not refundable.
+The return authorization number must first be obtained from VIZIO's Customer Service by emailing CustomerSupport@VIZIO.com or by calling (855) 472-8817, 6:00AM to 9:00PM Pacific Time, Monday through Friday, and 8:00AM to 4:00PM Pacific Time, Saturday and Sunday.
+Please note that holiday hours may vary.
+For up to date information, please visit www.VIZIO.com/en/home.
+Products must be returned to the address specified by VIZIO Customer Service and must be shipped in the original packaging, with freight prepaid to VIZIO, and must be received in new and unused condition.
+The return authorization number must be included in the packaging.
+VIZIO reserves the right to assess fees for any damaged or missing parts in addition to the ten percent (10%) restocking fee.
+Return authorization numbers are valid for only fifteen (15) days from issuance.
+The customer is responsible for and must prepay all shipping charges and shall assume all risk of loss or damage to the product while in transit to VIZIO.
+If the product is returned to VIZIO (i) without a VIZIO return authorization number, and/or (ii) beyond the fifteen (15) day period, and/or (iii) without proper packaging, VIZIO retains the right to refuse delivery of such return or may return the unit to the customer at the customer's expense and with no refund issued.
+VIZIO.comâs Price Adjustment Policy
+If an item you previously purchased from VIZIO.com is now listed at a lower price on our site, and the item is within the eligible return period, then you may contact Customer Support to request an adjustment for the price difference.
+The item must currently be in stock at VIZIO.com.
+There is a limit of one price match per identical item, per customer.
+Price adjustments are not available for VIZIO Fandemonium rewards points redemptions, bundled items, items included in bundle offers, limited quantity or clearance promotions, pricing errors, refurbished items, or for prices shown from the Friday before Thanksgiving through Cyber Monday.
+For defective products, please see VIZIO's "ONE-YEAR LIMITED WARRANTY" terms and conditions.
+ 
+PLEASE DO NOT RETURN YOUR UNIT TO VIZIO WITHOUT PRIOR AUTHORIZATION.
+Be the first to receive VIZIO news, promotions, special offers, and more
+Join the Millions of VIZIO subscribers. Enter your email to join...
+
+ Sign Up Submit 
+View our Privacy Policy
+ Get to Know Us 
+ About VIZIO 
+ Careers 
+ VIZIO News 
+ VIZIO and the Environment 
+ Accessibility 
+ Official Retailers 
+ Our Products 
+ TVs 
+ Sound Bars 
+ SmartCastâ¢ 
+ Shop 
+ Customer Reviews 
+ Get Help 
+ Support Center 
+ Product Registration 
+ myVIZIO 
+ Safety Notice 
+ Check Order Status 
+ Community 
+ Facebook 
+ Twitter 
+ YouTube 
+ Instagram 
+ For Business 
+ Investors 
+ Content Partners 
+ Reseller 
+ Commercial 
+ Inscape 
+ VIZIO Advertising 
+
+
+Explore our full line of products.
+Shop online.
+
+ Â© 2021 VIZIO, Inc.
+All rights reserved.
+
+ Privacy Policy 
+ Terms of Service 
+ Website Terms of Use 
+ Shipping Terms &amp.
+Conditions 
+ Site Map 
+ Do Not Sell My Personal Information 
+ United States Select your location Close Select Your Location.
+
+
+
+ United States 
+ Canada 
+ loop focus Privacy Preference SettingsWhen you visit our website, we store cookies on your browser to collect information.
+The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience.
+However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer.
+Click on the different category headings to find out more and change our default settings according to your preference.
+You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.).
+For more information please follow this link.
+More informationAllow AllManage Cookie PreferencesStrictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems.
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
+&nbsp.
+ You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+These cookies do not store any personally identifiable information.Performance Cookies Performance CookiesThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.
+They help us to know which pages are the most and least popular and see how visitors move around the site.
+&nbsp.
+ All information these cookies collect is aggregated and therefore anonymous.
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.Targeting Cookies Targeting CookiesThese cookies may be set through our site by our advertising partners.
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.
+&nbsp.
+ They do not store directly personal information, but are based on uniquely identifying your browser and internet device.
+If you do not allow these cookies, you will experience less targeted advertising.Confirm My ChoicesBack ButtonBack Performance CookiesVendor Search Search Icon Filter IconClear Fliters Information storage and accessApplyAll Consent Allowed Select All Vendors Select All Hosts
+33Acrosshost descriptionView Cookies REPLACE-WITH-DYANMIC-HOST-ID
+Namecookie nameHostcookie hostDurationcookie durationTypecookie typeCategorycookie categoryDescriptioncookie category
+
+
+
+
+33AcrossView Privacy Notice3 Purposes REPLACE-WITH-DYANMIC-VENDOR-IDArrowConsent Purposes
+Location Based Ads
+Consent Allowed
+Legitimate Interest Purposes
+PersonalizeRequire Opt-Out Features
+Location Based Ads
+
+Confirm My ChoicesWe use cookies on this site to improve and optimize site functionality, secure the site, analyze site activity, and personalize your experience on the site and the ads that you receive.
+Click on the link to change your cookie settings or visit VIZIO's privacy page to learn more.
+By continuing to browse, you agree to our use of cookies.Privacy PolicyCustomize Settings Accept and Continue 
+      

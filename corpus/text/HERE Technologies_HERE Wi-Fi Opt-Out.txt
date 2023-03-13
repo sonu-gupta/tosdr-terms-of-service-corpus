@@ -1,0 +1,10 @@
+
+         HERE Wi-Fi Opt-Out Wi-Fi Opt-Out To provide location services, HERE assembles and maintains a database that records the location of mobile cell towers and Wi-Fi access points.
+If you would like your Wi-Fi access point to be excluded from supporting location services, submit the MAC address of the hardware that broadcasts your Wi-Fi signal.
+It can take up to 5 days for this address to be added to the block list.
+The MAC address for a Wi-Fi access point (such as a wireless router) is a 12 character code that you can usually find on a sticker located on the bottom of the device.
+If no sticker is present, you can also find the MAC address through the utility used to manage your wireless network.
+HERE takes measures to protect our services, including the block list for Wi-Fi devices, from fraudulent requests and security attacs.
+If a request seems problematic, it may not be added to the block list. MAC Address * CAPTCHASecurity check What code is in the image? * Enter the characters shown in the image.
+Generate a new captcha 
+      

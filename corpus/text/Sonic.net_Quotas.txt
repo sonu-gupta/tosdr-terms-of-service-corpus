@@ -1,0 +1,113 @@
+
+         CALL 1-888-766-4233 
+Support
+Blog
+Webmail
+Member Tools
+ Check Availability Toggle navigation 
+ Residential 
+ Business 
+ Gigabit Fiber Internet 
+
+
+ Sonic 
+ General 
+ Hosting 
+ Related articles 
+ Bandwidth Reduction Tips 
+ Sonic.net Policies 
+ Billing Policy 
+ Equipment Policy 
+ Welcome To Fiber 
+ Table of Contents
+1 Hosted website and media bandwidth usage at Sonic.net
+2 Disk usage at Sonic.net
+3 Definitions
+4 See Also
+ Bandwidth and Disk Quotas CES Updated December 10, 2020 20:59 Follow 1.
+Hosted website and media bandwidth usage at Sonic.net
+Each Sonic.net service type has an associated hosted website and media bandwidth quota.
+Accounts with multiple services will gain the benefit of each service's quota combined (they are cumulative).
+Usage during the month that is trending above the total quota (i.e.
+is projected to exceed the quota by the end of the month based upon the current portion of the month already passed) will generate a warning email.
+
+Additional bandwidth transfer usage beyond the quota will be billed at $4.95 per gigabyte in 1GB increments. The bandwidth quota includes bandwidth used for content you host here at Sonic.net, including web, FTP and multimedia.
+It does not apply to content you download to your PC via your dialup, DSL, or other Sonic.net connection.
+This hosted website and media bandwidth quota is applied across all of your sites as a group, so you receive significant benefit if you have multiple sites hosted on your Sonic.net account.
+It is not required that bandwidth be used equally by your sites.
+this means that if you have one site that's more popular or larger, it receives the benefit of the leftover quota for the smaller or less popular sites.
+To view your current bandwidth and disk quota usage please see Disk Usage Monitoring in the Member Tools.
+We also support some forms of bandwidth quota protection for hosting usage.
+
+
+2.
+Disk usage at Sonic.net
+Each Sonic.net service on an account which comes with a disk quota will increase the amount of disk storage available on our servers by a set amount.
+Usage during the month that is trending above the quota (that is, is projected to exceed the quota by the end of the month based upon the current portion of the month which has passed) will generate a warning email.
+
+Additional disk usage beyond the quota will be billed at $10 per 250 megabytes. The disk quota includes disk space used for content you host here at Sonic.net, including web, FTP, unix home directory, streaming multimedia servers, MySQL and SSL.
+Disk quotas are cumulative and applied across all of your services as a group, so you receive significant benefit if you have multiple sites or services hosted on your Sonic.net account.
+It is not required that disk space be used equally by your sites.
+this means that if you have one site that's more popular or larger, it receives the benefit of the leftover quota for the smaller or less popular sites.
+To view your current bandwidth and historical disk quota usage please see Bandwidth Monitoring and Historical Disk Usage in the Member Tools. 
+For information regarding email disk usage see this article
+3.
+Definitions
+For the purposes of disk and bandwidth usage, Sonic.net uses the IEEE compliant definition of "megabyte" and "gigabyte." One megabyte consists of 1,000,000 (one million) bytes, one gigabyte consists of 1,000,000,000 (one US billion) bytes.
+Information on the IEEE standard can be found at http://physics.nist.gov/cuu/Units/binary.html.
+4.
+See Also
+Bandwidth Reduction
+
+
+
+Facebook
+Twitter
+LinkedIn
+ Was this article helpful?  14 out of 73 found this helpful  Return to top Related articles 
+ Bandwidth Reduction Tips 
+ Sonic.net Policies 
+ Billing Policy 
+ Equipment Policy 
+ Welcome To Fiber 
+
+0 comments
+
+
+Please sign in to leave a comment. Articles in this section 
+ SPF Records &amp.
+Returned or Rejected Mail 
+ Allow URL Include 
+ PHP5 
+ Shell Access 
+ Bandwidth Reduction Tips 
+ Colo Tools 
+ WHOIS Domain Privacy Service 
+ Secondary DNS Service 
+ Mod rewrite 
+ Webalizer Web Statistics FAQ 
+ See more HOME Phone
+Internet
+BUSINESS Phone
+Internet SPREAD THE WORD Share a review on Yelp
+Recommend Sonic on Nextdoor MEMBERS Member Tools
+Webmail
+ SUPPORT Knowledge Base
+Forums
+Setup Guides &
+Product Info
+Sonic Speed Test
+Message Of The Day
+International Calling Rates ABOUT SONIC Mission and Vision Transparency
+Newsroom
+Careers
+Meet Sonic
+Privacy Policy
+Agency Partner Program CONNECT WITH US 
+
+Contact Us
+Call: 1-888-766-4233
+Blog
+
+
+Â©2020 All rights reserved.

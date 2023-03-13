@@ -1,0 +1,227 @@
+
+We use cookies to make our site work correctly, to help understand how it is used and to provide more relevant ads on Jagex websites and others.
+By continuing to use the site you consent to the use of first and third-party cookies and other similar technologies.
+To learn more please visit our privacy policy and our cookies policy. Got It 
+
+
+ Menu English FranÃ§ais Deutsch PortuguÃªs do Brasil Cookies Policy
+Version 0.2
+Date September 3rd, 2018.
+Jagex uses âCookiesâ and other similar technologies to tailor content and marketing, and to improve and adjust user experiences.
+To find out more about âCookiesâ, other similar technologies and the options available to manage them, please see below.
+
+Cookies and other similar technologies
+
+We use cookies and other similar technologies on our website, products and services.
+Cookies are small text files that are stored on your computer that hold information that a website can read.
+For example, cookies can be used to authenticate your visit and prevent you from having to log in every time you visit the website.
+We collect both personal and non-personal information from you when you use our websites, products and services.
+For more information on how we deal with your information, please see our Privacy Policy.
+We and our partners also use other technologies, including data stored on your web browser or device, identifiers associated with your device and other software for similar purposes.
+In this policy, we refer to âCookiesâ and other similar technologies as âCookies.â These technologies can be used to recognise your device as it interacts with our services.
+For instance, we can recognise when you visit pages on our or othersâ sites, use parts of an app or when you open emails we send you.
+These technologies include the following:
+
+
+
+Pixel tags:
+ Pixel tags are small blocks of code we install on our webpages, emails or advertisements.
+These are used to relay information about how you interact with our services and may contain information about your device and browser.
+For example, information about your device type, operating system, browser type and version, website visited, time of visit, referring website, IP address, whether youâve opened an email or clicked on an advertisement.
+Pixels also provide the means by which third parties can set and read browser cookies from our websites.
+
+
+Local storage:
+ Where other types of cookies cannot be used, local storage allows us to store additional data to help improve your experience while using our services.
+
+
+IP address:
+ Every device that is connected to the internet has an Internet Protocol address.
+When you interact with our services, we and our partners use your IP address for security purposes, for example, to prevent fraud.
+We may also use your IP address to identify your location and display content that is more appropriate to you.
+
+
+Device identifiers:
+ We may also create or collect a unique device identifier so we can understand how you use your devices to access our services.
+
+You can use your browser settings to allow or disallow Cookies.
+If you disallow Cookies, your use of our website, products or services may be impaired.
+
+Types of Cookies
+
+There are four categories of Cookies that may be served through our website, products or services:
+
+
+
+Necessary:
+ These Cookies are required in order for our services to operate.
+For example, maintaining a logged in session.
+Our websites cannot function without these cookies.
+
+
+Performance:
+ These Cookies are used to help us understand how our services are being used so that we can improve your experience using our services.
+
+
+Functionality:
+ These Cookies are used to enable additional functionalities in our services.
+For example, remembering your preferred language for your next visit.
+
+
+Targeting:
+ These Cookies are used to offer you more relevant advertising on other websites and to limit the number of times you see an advertisement.
+Our partners serve advertisements about our products and services and measure the effectiveness of our marketing campaigns.
+
+
+Who sets Cookies on your device
+
+Cookies we place on your device when you are using our services are referred to as âfirst party Cookiesâ.
+Our partners can also place Cookies on your device while you are using our services, and these are referred to as âthird party Cookiesâ.
+We do not control third party cookies and cannot access them due to the way that cookies work, as cookies can only be accessed by the party who originally set them.
+We encourage you to review the privacy and cookies polices of the third parties we work with for more information about cookies they set and how to manage them.
+
+Managing Cookies
+
+You can review your options to manage Cookies by opening the âHelpâ menu on the browser menu bar.
+Most browsers will tell you how you can disable or delete Cookies or set your browser to alert you when Cookies are being sent to your computer.
+You can also limit interest-based advertising by opting out at www.aboutads.info/choices/ or www.networkadvertising.org/choices/ or https://tools.google.com/dlpage/gaoptout/.
+If you are in Europe, more information is available at www.youronlinechoices.eu/.
+If you reject all Cookies, you may not be able to use certain features of our websites and other products and services (including signing in to your account or completing a purchase on your shopping basket).
+
+Policy Updates
+
+We may update our Cookie Policy from time to time to reflect changes in technology, legislation, our operations, or as we otherwise determine is necessary or appropriate.
+Any such changes will become effective when we make the revised policy available on our website.
+We encourage you to review the date above frequently to ensure you are aware of when our policy was last revised, and to help you better understand the nature of your interactions with us.
+
+First party Cookies list
+
+Our website, products or services may contain, but are not limited to, the following Cookies.
+Type
+Name
+Purpose Necessary
+JAG_SSO
+Server session ID that keeps you logged in while using some of our services.
+Necessary
+XSRF-TOKEN
+A security feature preventing malicious activity between your device and our servers.
+Necessary
+SESSION
+An identifier used while you are logged in to associate your browser session with your account on our servers.
+Necessary
+session
+An identifier used while you are logged in to associate your browser session with your account on our servers.
+Necessary
+JSESSIONID
+An identifier used while you are logged in to associate your browser session with your account on our servers.
+Performance
+JXDOB
+Stores the date of birth chosen when creating an account.
+Performance
+cookieconsent_dismissed
+Set to let us know you have seen our cookie message.
+Performance
+cookies
+Set to let us know you have seen our cookie message when making a payment.
+Performance
+settings
+Stores details about services accessed and how/where they were accessed from â for example if you clicked a link to our site from an affiliate.
+Performance
+usrdob
+Temporarily stores the date of birth you enter when creating an account.
+Functionality
+rs_splash_count
+We store this to remember the number of times you have seen our RuneScape âsplashâ page.
+Having this cookie set means you will be redirected to the main RuneScape page when visiting www.runescape.com.
+Functionality
+IDCHECKCOOKIE
+Used to ensure we can successfully process payments.
+Functionality
+rs_langpref
+We use this cookie to know your preferred language for viewing our website.
+Functionality
+slangpref
+We use this cookie to know your preferred language for viewing our website.
+Functionality
+serverlist_order
+We use this to remember the order you wish to view lists of game worlds in.
+Functionality
+JXRSLAUNCHING
+Prevents duplicate launch requests of our game clients.
+Functionality
+openJdkInstalled
+We use this to determine if you have previously installed our game client.
+Functionality
+is_returning
+We use this cookie to know if you have visited our website before and to customise what content you see.
+Functionality
+global__user-visited
+We use this cookie to know if you have visited our website before and to customise what content you see.
+Functionality
+rs_poll_en
+Used to determine if you have voted in a poll on our website.
+Functionality
+rs_poll_de
+Used to determine if you have voted in a poll on our website.
+Functionality
+rs_poll_fr
+Used to determine if you have voted in a poll on our website.
+Functionality
+rs_poll_pt
+Used to determine if you have voted in a poll on our website.
+Functionality
+rs_poll_vote_iden
+Used to determine what you voted for in a poll on our website.
+Functionality
+rs_poll_vote_idde
+Used to determine what you voted for in a poll on our website.
+Functionality
+rs_poll_vote_idfr
+Used to determine what you voted for in a poll on our website.
+Functionality
+rs_poll_vote_idpt
+Used to determine what you voted for in a poll on our website.
+Functionality
+rememberme
+Stores your username to make it easier to log in on future visits.
+Functionality
+sameday
+Used to deliver content specific to new accounts.
+Functionality
+sn-integration___ga-id
+Used to identify if you created an account using a social network.
+Targeting
+JXFLOWCONTROL
+Allows us to test improvements to our website on limited numbers of users.
+Targeting
+JXFRONTUID
+A unique identifier we use to track the pages you visit on our websites.
+We use the information to make improvements to the website.
+Targeting
+JXTEMPSESSIONID
+A unique identifier we use to track the pages you visit on our websites.
+We use the information to make improvements to the website.
+Targeting
+JXADDINFO
+Stores the identifiers of affiliates used when creating an account.
+Targeting
+JXTAG
+Stores an account identifier that allows us to display more relevant content to you.
+Targeting
+JXTRACKING
+An identifier we use to track the pages you visit on our websites.
+We use the information to make improvements to the website.
+Targeting
+JXWEBUID
+Helps us identify previous visits to our websites.
+Targeting
+jagex_accept_cookies
+Set to let us know you have seen our cookie message.
+Targeting
+JXSESSIONTRACKID
+This cookie represents your session on the website both before and after you log in in the same browser session.
+Copyright Â© 1999 - 2020 Jagex Ltd.
+220 Science Park, Cambridge, CB4 0WA, United Kingdom
+Contact Us | Gender Pay Gap Report | Modern Slavery Act Transparency Statement
+Use of this website is subject to our Terms &amp.
+Conditions, Privacy Policy and Cookie Policy.

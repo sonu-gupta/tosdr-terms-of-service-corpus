@@ -1,0 +1,38 @@
+
+
+1.
+What is your Privacy Policy?
+
+This policy covers how we use your personal information.
+We take your privacy seriously and will take all reasonable measures to protect your personal information.
+Furthermore, depending on the payment method, all that is required is a valid e-mail address and a username when signing up.
+You are free to provide any additional information at your discretion (for e.g.
+a name if you donât want us to refer to you as Mr/Ms X).
+Our customer database maintained by our company records your e-mail, your order date and the date and method of payment and any other additional information you have chosen to provide upon signup.
+Any personal information received will only be used to fill your order.
+We will not sell or redistribute your information to anyone unless required by law.
+We may use analytics on our website to help us to understand where our customers are coming from however no personally identifiable information is captured (such as a name, email address or billing information).
+We do not condone criminal or illegal activities especially when it relates to crimes such as terrorist activities, child pornography, blackmail, online harassment/bullying or any other activities that threaten peopleâs personal safety or ruin peopleâs lives.
+Please do not use our service if you intend to do any of the above.
+
+2.
+Do you take Logs?
+
+No we do not keep logs of user activity including user access, DNS requests, timestamps, bandwidth usage or userâs IP addresses.
+We do monitor general overall traffic of the server and number of connections in which the server is pushing through but not on an individual level.
+However as per our policy, if we do notice any unusual activity on our servers via our general monitoring (high bandwidth loading, high number of connections or cpu usage) or receive a specific complaint (hacking/spam) we may turn on logs temporarily to identify abuse of our services (such as DoS or spamming through our servers).
+Once the user is identified, we will terminate the offending user, issue him an e-mail for the reason of termination and wipe the logs from our system.
+Turning on logs for troubleshooting is a very last resort and is necessary to ensure the integrity of our services.
+It has happened very rarely (only a handful of times in our many years of operation) and such information was not disclosed to third parties but merely used to terminate the offending user.
+In any case logs were usually enabled for not more than few hours and only for the particular server that was experiencing abuse.
+This does not mean we condone criminal or illegal activities especially when it relates to crimes such as terrorist activities, child pornography, blackmail, online harassment/bullying or any other activities that threaten peopleâs personal safety or ruin peopleâs lives.
+Please do not use our service if you intend to do any of the above.
+
+3.
+Under what jurisdictions does your company operate and under what exact circumstances will you share the information you hold with a 3rd party?
+
+Weâre a Seychelles incorporated company which is not subject to any mandatory data retention laws.
+As we donât keep logs, there is not much information to share even when requested.
+We also have a warrant canary active here.
+However, please note that although we do not log user activity including user access, DNS requests, timestamps, bandwidth usage or userâs IP addresses, if you have used a non-anonymous payment method (such as credit cards, Paypal, etc), details being recorded by the payment processor (which may include personal information) may be made available in the event if required by law and as such we recommend anonymous payment methods such as Bitcoin and Dash if privacy is of paramount importance to you.
+Such payment details do not tie you to your activities on the VPN but only show that you have purchased a VPN subscription from us.

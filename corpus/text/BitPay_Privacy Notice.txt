@@ -1,0 +1,386 @@
+
+        Privacy Notice Updated May 19, 2020 
+Scope and consent
+ What kind of information we collect 
+ How we use cookies 
+ Why we collect personal information 
+ How we protect and store personal information 
+ How we share data with third parties 
+ Your choices 
+ California Consumer Privacy Act Addendum 
+ Changes to this notice 
+ Contact information 
+ Scope and consent  This Privacy Notice (âNoticeâ) describes the ways BitPay Inc.
+(âBitPayâ, âweâ, âusâ, âourâ) collects, stores, uses and protects information.
+BitPayâs services include merchant processing services, websites, mobile applications, products, and any other features, technologies or functionalities, including customer support (âServicesâ) offered by us.
+This Notice applies to www.bitpay.com and all other BitPay sites on which it appears (the âSitesâ).
+
+ Our privacy practices may vary among the countries or territories in which we operate to reflect local practices and legal requirements.
+For California residents, please review our California Consumer Privacy Act Addendum.
+For EU residents, please review our EU Privacy Notice.
+
+We may process information from the following types of users:
+
+ Visitors of our Sites.
+
+ Merchants who sign up for our Services (âMerchantsâ means any business that uses our Services to process payments, including non-profits that use our Services to accept donations and âAggregatorsâ that use our Services as a payment services platform for their own Merchants).
+
+ Shoppers of Merchants (âShoppersâ means individuals who indirectly interface with BitPay when paying a Merchantâs invoice that is forwarded by BitPay to a Merchant during checkout, when requesting a refund from a Merchant, when creating a BitPay account, or when making a donation to a non-profit).
+BitPay card holders who have signed up for a BitPay debit card.
+
+ BitPay wallet holders who have downloaded and installed the BitPay app on their mobile device.
+and 
+ Payees (e.g., employees, contractors, vendors or exchange customers) who request a payment (âPayoutâ) via cryptocurrency from a Merchant and create a BitPay account.
+
+ What kind of information do we collect?  We collect different kinds of information when users interact with us.
+The information we collect depends on the type of user.
+We collect information you choose to provide to us when interacting with our Services.
+We may also collect information automatically from your devices.
+The following sections provide you with some more information.
+ 1.
+Visitors of Our Sites  We may collect the following information relating to visitors of our Sites: 
+
+Technical information, including IP address.
+the type of browser, devices and operating systems you use.
+identifiers associated with the device(s) you use to access our Sites.
+the pages you visit and the features you use.
+access dates and times.
+and if you navigated from or navigate to another website, the address of that website.
+and information regarding your internet service provider 
+Email address (e.g., when you subscribe to our blog or opt in to receive other marketing materials) 
+Phone number (e.g., when you contact our sales team or media team or opt in to our media list) 
+Full name (e.g., when you submit a support request)
+Country
+
+ We may also collect information about a visitorâs computer or other access devices for purposes including fraud prevention.
+The information we collect may be collected automatically using cookies or other similar technologies.
+For more information about our use of cookies, please see our Cookie Policy.
+ 2.
+Merchants (including businesses such as nonprofits and Aggregators)  During the onboarding process, we may collect the following information of the beneficial owner or any user that is added to an account of a Merchant (including nonprofits and Aggregators that use our Services as a payment services platform for their own Merchants).
+In the case of Aggregators, we may collect the information of that Aggregatorâs Merchants.
+The elements we collect depend on our compliance analysis and your risk profile.
+
+
+Full name of beneficial owner
+Full names of authorized users
+Merchant email address (business domain preferred but non-business domain accepted)
+Full physical address (no post office boxes)
+Business phone number
+ID of beneficial owner and authorized user(s)
+Tax ID (if applicable in specific country)
+Proof of business
+Proof of address, if not evident in above documents
+3 most recent bank statements or bank letter of good standing
+Bank account details
+
+ We may use this information for risk management purposes (i.e.
+to verify Merchantâs identity or address) or to comply with laws and regulations, including those applicable to financial services institutions.
+We may also obtain information about our Merchants from third parties that provide identity verification and fraud prevention services, such as Bureau Van Dijk, and from relevant Aggregators.
+ 3.
+Shoppers of Merchants  We may collect information when a Shopper indirectly interfaces with BitPay to pay a Merchantâs invoice, request a refund and/or make donations.
+
+
+When you pay a BitPay invoice, we collect: 
+Technical information including IP addresses used to view the BitPay invoice.
+the type of browser, devices and operating systems you use.
+identifiers associated with the device(s) you use to access our sites.
+the pages you visit and the features you use.
+access dates and times.
+and if you navigated from or navigate to another website, the address of that website.
+and information regarding your internet service provider 
+Products purchased and price at the relevant Merchant
+Email address
+Crypto wallet address
+
+
+When you request a refund, we collect: 
+Amount
+Currency
+Email address
+Crypto wallet address
+Invoice ID
+
+
+When you make a donation, we may collect, depending on the circumstances: 
+Amount
+Currency
+Email address
+Full name
+Address
+Phone number
+Employer
+Job title
+City of employment
+
+
+Certain Shoppers may choose to or may be required to create a BitPay account.
+
+When you create a BitPay account, we may collect additional information from you.
+
+
+
+ We may collect this information either from the Merchant or directly from the Shopper.
+Collecting this information supports our ability to provide our Services.
+This enables our system to send an email to Shoppers directly to obtain a cryptocurrency refund address in case of a payment exception (e.g.
+overpayments, underpayments, etc.).
+This also creates a more seamless payment experience for both the Merchant and the Shopper.
+
+ Additionally, upon the Merchantâs explicit request, we may collect and store information for the Merchantâs benefit only and as a service through our invoicing service.
+Information that Merchants may request about Shoppers may include: 
+
+Name
+Address
+ 4.
+Cardholders  We may offer or process payments through BitPay payment cards.
+When doing so, we may collect additional information in connection with such activities.
+For example, the following information may be collected: 
+
+Name
+Address
+Date of birth
+Technical information, including IP address.
+the type of browser, devices and operating systems you use.
+identifiers associated with the device(s) you use to access our sites.
+the pages you visit and the features you use.
+access dates and times.
+and if you navigated from or navigate to another website, the address of that website.
+and information regarding your internet service provider 
+Phone number
+Email address
+Social Security Number
+ 5.
+BitPay Wallet Holders  BitPay offers a non-custodial wallet that permits individuals to manage payments in different currencies.
+We may collect the following information when you create a BitPay wallet: 
+
+Email address
+Wallet name
+Copayer name
+Wallet public key
+Wallet extended public key
+Wallet coin
+Wallet multi-sig setup
+Transaction details
+Type of phone, OS and version, App version, IP address
+Wallet ID (Client ID)
+App Token
+API Authentication Token
+ 6.
+Payees of Merchant  BitPay offers a service for Merchants to pay individuals (employees, contractors, vendors, and exchange customers) via cryptocurrency (âPayeesâ).
+The following information may be collected from Payees in certain instances: 
+
+Name
+Email address
+Wallet address/provider
+Identification documents (such as a passport or a driverâs license)
+Proof of address document (such as a bank statement or a utility bill)
+ 7.
+Additional Collection  BitPay may collect additional information in connection with its efforts to combat fraud, illegal activity, or comply with laws and regulations.
+Additionally, BitPay may collect information regarding the effectiveness of our email and other communications.
+For example, we may know if you follow a link in an email we send to you.
+We may also obtain information about you from other third parties.
+This information may include information about your use of this Site or our Services.
+We may also collect information about former, existing and prospective vendors and customers (âPartnersâ).
+This includes limited personal information about employees and agents of such Partners (âPartner Employeesâ) at the beginning and throughout the course of the Partner relationships, such as professional contact information.
+ How we use cookies  We may collect information about your activities on our sites via first and third-party cookies, clear GIFs or web beacons, or through other identifiers or technologies, including similar technologies as they may evolve over time.
+We refer to these technologies collectively as cookies.
+
+ We may allow third parties to use cookies on our sites.
+The information collected by cookies may be shared with and used by us, by others acting on our behalf, or by third parties subject to their own privacy policies.
+Information collected by cookies may be used on this site or on other websites or services, including those that may not be operated by us.
+Other parties may collect personally identifiable information about an individual consumerâs online activities over time and across different websites when a consumer uses our websites or online services.
+For more information about our use of cookies, please see our Cookie Policy.
+ Why we collect personal information  We use the information we collect to operate our business, provide our Services, for other purposes as permitted or required by law, and to provide you with a smooth, efficient, and customized experience.
+Specifically, we may use your information to: 
+
+
+Provide our Services (including customer support).
+
+
+Process transactions and send notices about your transactions.
+
+
+Resolve disputes, collect fees, and troubleshoot problems;
+
+
+Communicate with you about our Services and business and to inform you of matters that are important for your account and/or use of the Sites.
+We also use your personal data to respond to any questions, comments or requests you filed with us and the handling of any complaints.
+
+
+Comply with applicable laws and regulations;
+
+ Establish, exercise and defend legal claims.
+
+
+Monitor and report compliance issues.
+
+
+Customize, measure, and improve our business, the Services, and the content and layout of our website and applications (including developing new products and services.
+managing our communications.
+determining the effectiveness of our sales, marketing and advertising.
+analyzing and enhancing our products, services, websites and apps.
+ensuring the security of our networks and information systems.
+performing accounting, auditing, invoicing, reconciliation and collection activities.
+and improving and maintaining the quality of our customer services).
+
+
+Preform data analysis;
+
+
+Deliver targeted marketing, service update notices, and promotional offers based on your communication preferences, and measure the effectiveness of it.
+To approach you via email for marketing purposes, we request your consent, unless it is not required by law.
+You always have the option to unsubscribe from our mailings, e.g., via the unsubscribe link in our newsletter.
+
+
+Perform risk management, including comparing information for accuracy and verify it with third parties and protect against, identify and prevent fraud and other prohibited or illegal activity, claims and other liabilities.
+and 
+
+Enforce our contractual terms.
+
+ How we protect and store personal information  We take the security of our information seriously.
+We use administrative, technical, and physical security designed to safeguard personal information in our possession, and we maintain internal policies and procedures to address our data security.
+We have been audited and received a SOC 2 report addressing the security, confidentiality, and availability of our Services.
+However, we cannot guarantee the security of the information that we collect and store.
+We will notify relevant authorities and users in the event of a data breach, if required under applicable law.
+
+ We retain data as required or permitted by law.
+For example, as a regulated financial institution, we may retain identification for 5 years or more after an account has been closed or become dormant.
+ How we share data with third parties  We may disclose the information we gather with our affiliates and third parties.
+For example, we may share information with: 
+
+ Other BitPay entities, including to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about our products, services and communications.
+
+ Service providers who help with our business operations and to deliver our Services, such as cloud service providers providing cloud infrastructure.
+providers of ID verification solutions and other due diligence solutions.
+providers of customer service solutions.
+providers of website analytics.
+and providers of marketing automation platforms.
+
+ Law enforcement, government officials, regulatory agencies, our banks, and other third parties pursuant to a subpoena, court order or other legal process or requirement if applicable to BitPay.
+or when we believe, in our sole discretion, that the disclosure of information is necessary to report suspected illegal or fraudulent activity or to investigate violations of our Terms of Use.
+and 
+ We may also share certain Shopper information with our Merchants, for example, in cases of suspected fraud or in connection with an ongoing investigation.
+
+
+ Please note that these third parties may be in other countries where the laws on processing information may be less stringent than in your country.
+Transfer of EU data may be subject to additional legal protections we have put in place.
+For more information, please see the "How we share personal data with third parties and transfers outside the EEA" section of our EU Privacy Notice.
+ Your choices  You can control the use of cookies at the individual browser level.
+If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
+You may control how your browser accepts cookies.
+For more information, please consult your browserâs help documentation.
+You may also manage your cookie preferences using our Cookie Preference Center.
+For more information about our use of cookies, please see our Cookie Policy.
+
+ As of the last updated date of this Notice, there is no commonly accepted response for Do Not Track signals initiated by browsers.
+Therefore, we do not respond to such signals or to other mechanisms that provide the ability to exercise choice regarding the collection of personally identifiable information regarding your online activities over time and across third-party web sites or online services.
+
+ If you do not wish to receive marketing communications from us, you can click the âunsubscribeâ link usually found at the bottom of the e-mail, or you can send an email to marketing@bitpay.com.
+However, you may still receive other communications from us as permitted or required by law.
+ California Consumer Privacy Act Addendum  At BitPay, we take our responsibilities under the California Consumer Privacy Act (âCCPAâ) seriously.
+If you are a California resident, the following provisions apply to our processing of information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household subject to the CCPA.
+For such residents, the provisions of this CCPA Addendum prevail over any conflicting provisions in our BitPay Privacy Notice.
+ California Personal Information We Collect  We have collected the following categories of California Personal Information within the last 12 months:  Category Examples A.
+Identifiers Identifiers such as a real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, social security number, driverâs license number, passport number, or other similar identifiers B.
+Information under the California Customer Records statute Personal information described in subdivision (e) of Section 1798.80 (California Customer Records statute).
+This means any information that identifies, relates to, describes, or is capable of being associated with, a particular individual, including, but not limited to, his or her name, social security number, address, telephone number, passport number, driverâs license or state identification card number, bank account number, credit card number, debit card number, or any other financial information C.
+Commercial information Commercial information, including records of products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies on our site D.
+Internet or other similar network activity Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumerâs interaction with an Internet website, application, or advertisement E.
+Geolocation data Geolocation data F.
+Professional or employment-related information Current or past job history or performance evaluations G.
+Inferences drawn from other personal information Inferences drawn from any of the information identified in this subdivision to create a profile about a consumer reflecting the consumerâs preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes  For each of these categories, we obtain California Personal Information from a variety of sources.
+These sources include: yourself, with respect to both online and offline interactions you may have with us or our service providers.
+other entities with whom you transact.
+others with whom you maintain relationships who may deal with us on your behalf.
+the devices you use to access our websites, mobile applications, and online services.
+identity verification and fraud prevention services.
+marketing and analytics providers.
+public databases.
+social media platforms.
+and others consistent with this CCPA Addendum.
+For more information, please see the âWhy we collect personal informationâ section of our Privacy Notice.
+
+ For each of these categories, we share personal information with a variety of third parties.
+These third parties include: other BitPay entities.
+service providers.
+marketing and advertising providers.
+analytics providers.
+law enforcement, government officials, or other third parties pursuant to a subpoena, court order, or other applicable legal process or requirement.
+and merchants in cases of suspected fraud or in connection with an ongoing investigation.
+ Sale and Disclosure of California Personal Information  We do not disclose personal information of individuals to third parties for monetary or other valuable consideration.
+
+ Within the last 12 months, within the meaning of âsaleâ under the California Consumer Privacy Act, we have disclosed California Personal Information identified in the above categories (A-G) for business purposes.
+This includes the use of cookies on our website, including those placed by third parties.
+You can configure your browser to prevent the placement of cookies when using our site.
+To learn more about cookies, please see our Cookie Policy or your browser help documentation for more information.
+To learn more about the categories of third parties with whom we share such information, please see the âHow we share data with third partiesâ section of our Privacy Notice.
+ Use of California Personal Information  For each of the above categories, we use the California Personal Information we collect for the business purposes disclosed within this CCPA Addendum.
+Please note that the business purposes for which we may use your information include: 
+
+ Audits and reporting relating to particular transactions and interactions, including online interactions, you may have with us or others on our behalf.
+
+ Detecting and protecting against security incidents, and malicious, deceptive, fraudulent or illegal activity, and prosecuting the same.
+
+ Debugging to identify and repair errors in our systems.
+
+ Short-term, transient use including contextual customization of ads or website.
+
+ Providing services on our behalf or on behalf of another, including maintaining or servicing accounts, providing customer service, fulfilling transactions, verifying identity information, processing payments, and other services.
+
+ Conducting internal research to develop and demonstrate technology.
+and 
+ Conducting activity to verify, enhance, and maintain the quality or safety of services or devices which we may own, control, or provide.
+
+
+ We may also use the information we collect for our own or our service providersâ other operational purposes, purposes for which we provide you additional notice, or for purposes compatible with the context in which the California Personal Information was collected.
+ Your California Rights  If you are a California resident, you have certain rights related to your California Personal Information.
+You may exercise these rights free of charge except as otherwise permitted under applicable law.
+If you wish to submit a request under the CCPA, please do so by visiting our Data Subject Request Portal or call us toll-free at +1 (888) 914-9661 (PIN: 910 593).
+
+
+Right to Access/Know. You have the right to request that we disclose to you: 
+
+the categories of California Personal Information we have collected about you
+the categories of sources from which the California Personal Information is collected;
+our business or commercial purpose for collecting or selling California Personal Information;
+the categories of third parties with whom we share California Personal Information.
+and
+the specific pieces of information we have collected about you.
+
+ To the extent that we sell your California Personal Information within the meaning of the California Consumer Privacy Act or disclose such information for a business purpose, you may request that we disclose to you: 
+
+ the categories of California Personal Information that we have collected about you.
+
+ the categories of California Personal Information about you that we have sold within the meaning of the California Consumer Privacy Act and the categories of third parties to whom the California Personal Information was sold, by category or categories of personal information for each third party to whom the California personal information was sold.
+and 
+ the categories of California Personal Information about you that we disclosed for a business purpose.
+
+
+
+Right to Delete. You have the right to request that we delete California Personal Information about you which we have collected from you.
+
+
+Right to Opt-Out and Right to Opt-In. You have the right to direct us to not sell your personal information at any time (the âright to opt-outâ) by managing your cookie preferences in our Cookie Preference Center.
+
+
+Verification. As required under applicable law, we may take steps to verify your identity before granting you access to information or acting on your request to exercise your rights.
+We may require you to provide information to verify your identity in response to exercising requests of the above type, including name and account information.
+We may limit our response to your exercise of the above rights as permitted under applicable law.
+
+
+Nondiscrimination. Subject to applicable law, we may not discriminate against you because of your exercise of any of the above rights, or any other rights under the California Consumer Privacy Act, including by: 
+
+ Denying you goods or services.
+
+ Charging different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties.
+
+ Providing you a different level or quality of goods or services.
+or 
+ Suggesting that you will receive a different price or rate for goods or services or a different level or quality of goods or services.
+
+ Changes to this Notice  We may amend this Notice at any time by posting a revised version on our website.
+The revised version will be effective at the time we post it.
+You are responsible for periodically reviewing this Notice.
+ Contact Information  You may contact us with questions or concerns about our privacy policies or practices at dpo@bitpay.com.
+If you wish to submit a data privacy rights request, you may do so by visiting our Data Subject Request Portal.
+Please click here to submit a GDPR rights request if you are a resident of the European Economic Area, click here to submit a CCPA rights request or call us toll-free at +1 (888) 914-9661 (PIN: 910 593) if you are a resident of California, click here to submit a LGPD rights request if you are a resident of Brazil, or click here to submit a rights request under other regulations that may be applicable in your country or state of residence other than the European Economic Area, California or Brazil.
+

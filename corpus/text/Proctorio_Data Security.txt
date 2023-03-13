@@ -1,0 +1,52 @@
+
+         Three Layers are Better Than One
+
+Our Test-Takerâs data (including all video, screen and audio recordings) is secured and processed through three layers of encryption:
+
+
+
+Transmission into the datacenter is only over TLS 1.2 or 1.3 and, if the client supports it, we use Perfect Forward Secrecy (PFS).
+
+
+Data at rest within the data center is encrypted using AES-256 and is FIPS 140-2 compliant.
+All data centers are ISO 27001 certified, SOC 2 attested.
+
+
+Lastly, the zero-knowledge layer is secured using AES-GCM, using encryption keys never shared with Proctorio.
+
+
+
+Letâs breakdown that last and most important layer: zero-knowledge encryption.
+ Zero-Knowledge Encryption
+
+Proctorio utilizes zero-knowledge encryption, which means we have zero access to the encrypted data on our own servers.
+This unique design allows nothing to leave your computer until after it is encrypted.
+Data never becomes unencrypted until it's unlocked by an authorized school official.
+Itâs not just end-to-end encryption, itâs a zero-knowledge system.
+ Daily Vulnerability Tests
+
+Our platform goes through daily vulnerability and penetration tests to assess the strength of our systems against a potential attack.
+Partnered institutions can see these daily vulnerability scans under an NDA.
+This creates a security system you can trust.
+ A Friendly Reminder
+
+Proctorio never requires test-takers to provide additional personal information (PII) to access an exam.
+Students simply sign in their LMS with their institutionâs credentials and access their assessment.
+For third party platforms, a unique passcode is generated and managed by Proctorio, so that the students can access the exam effortlessly even when taking the exam outside of their LMS and/ or testing platform.
+
+
+The exam data is transferred and stored with zero-knowledge encryption, and can only be accessed by your exam administrators.
+
+
+Learn more about Proctorioâs Privacy standards and measures.
+
+
+Questions regarding data storage, recovery, and deletion should be directed to:
+
+
+Proctorio
+6840 E.
+Indian School Road
+Scottsdale, Arizona 85251
+Email: security@proctorio.com
+

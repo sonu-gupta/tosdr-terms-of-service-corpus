@@ -1,0 +1,26 @@
+
+         Privacy From Riverside Rocks Wiki Jump to navigation Jump to search When you use our services and our site, we don't want to know a whole lot about you! That is why we collect limited information about you when you use our services.
+We log the following via Apache HTTP logs:
+
+- User agent (your computer OS, browser, and possibly language) 
+- IP address (can be used to locate you within a 20-70 mile radius) 
+- Request time 
+- Referrer (how you found the site)
+
+More about this can be found at the logging page.
+Logs are deleted after 30 days.
+If you don't want your IP to be collected, consider using our Onion services.
+
+This information is collected for debugging, basic metrics (ie.
+using an automated tool to display stats such as number of unique visitors), and blocking bots.
+It is never shared or sold to third parties.
+We do not track you.
+
+For analytics, we use the open source program Plausible.
+If you would like to learn more about their privacy, please visit their website.
+
+(as of 1/17/21 we no longer use Simple Analytics)
+
+For document updates, please see the "last updated" text in the footer.
+ Retrieved from "https://wiki.riverside.rocks/index.php?title=Privacy&oldid=169" 
+      

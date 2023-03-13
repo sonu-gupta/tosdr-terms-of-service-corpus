@@ -1,0 +1,14 @@
+
+        
+1.1 Project goals
+Open Trade Statistics is an independent project that values reproducible research and provides tidy trade data.
+We are heavily inspired by R community values and Open Licenses views on freedom.
+We focus on commodities data and our added value, unlike many other good trade data projects, is that we focus on data processing and reproducibility instead of data visualization.
+We advocate for openness and collaboration, so our contribution is focused on:
+
+Releasing all of our source code on GitHub
+Releasing snapshots of the software we use
+Sharing curated data (direct download and API)
+
+Besides open data we donât track users, we donât want your personal information and we use https to protect your navigation and our service.
+Our goal is to ease data analysis, promote a reproducibility culture, and do something towards a better internet.

@@ -1,0 +1,384 @@
+
+         Need help with your new VIZIO product? Contact VIZIO Support.
+Sign in / Sign up Hello Hello My Account Log out 
+ TVs  D-Series
+Dependability &amp.
+value
+Dependability &amp.
+value
+24" â 43"
+From $129.99 V-Series
+Affordable performance
+Affordable performance
+40" â 75"
+From $229.99 M-Series
+A quantum leap in color
+A quantum leap in color
+50" â 70"
+From $439.99 P-Series
+Our biggest &amp.
+best LED
+Our biggest &amp.
+best LED
+65" - 85"
+From $1199.99 OLED
+The perfect picture
+The perfect picture
+55" - 65"
+From $1299.99 Compare TVs 
+
+ D-Series Dependability &amp.
+value 24" â 43" From $129.99 Shop 
+ V-Series Affordable performance 40" â 75" From $229.99 Shop 
+ M-Series A quantum leap in color 50" â 70" From $439.99 Shop 
+ P-Series Our biggest &amp.
+best LED 65" - 85" From $1199.99 Shop 
+ OLED The perfect picture 55" - 65" From $1299.99 Shop 
+ Compare TVs 
+
+
+ Compare Series Not sure which Smart TV fits your needs?
+No worries, weâll guide you to the right model: Compare TVs 
+
+
+ V-Series Smart &amp.
+affordable performance 40" â 75" Starting at: $229.99
+
+ M-Series A quantum leap in color 40" â 70" Starting at: $439.99
+
+ P-Series Our biggest and best LED 65" - 85" Starting at: $1199.99
+
+ OLED The perfect picture 55" â 65â Starting at: $1,299.99
+
+ Compare Series Not sure which Smart TV fits your needs?
+No worries, weâll guide you to the right model: Compare TVs 
+
+
+ Sound Bars  V-Series
+Big sound at a small price
+Big sound at a small price
+2.1 &amp.
+5.1
+From $179.99 M-Series
+A step up to surround sound
+A step up to surround sound
+AIO &amp.
+5.1 &amp.
+5.1.2
+From $149.99 Elevate
+The pinnacle of audio excellence
+The pinnacle of audio excellence
+5.1.4
+From $999.99 Additional Sound Bars
+Americaâs #1 Sound Bar Brand
+Americaâs #1 Sound Bar Brand
+2.1 &amp.
+5.1
+From $179.99 Compare Sound Bars 
+
+ V-Series Big sound at a small price 2.1 &amp.
+5.1 From $179.99 Shop 
+ M-Series A step up to surround sound AIO &amp.
+5.1 &amp.
+5.1.2 From $149.99 Shop 
+ Elevate The pinnacle of audio excellence 5.1.4 From $999.99 Shop 
+ Additional Sound Bars Americaâs #1 Sound Bar Brand 2.1 &amp.
+5.1 From $179.99 Shop 
+ Compare Sound Bars 
+
+
+ Compare Series Not sure which soundbar fits your needs?
+No worries, weâll guide you to the right model: Compare SoundBars 
+
+
+ V-Series Big sound at a small price 2.1 &amp.
+5.1 Starting at: $179.99
+
+ M-Series A step up to surround sound AIO &amp.
+5.1 &amp.
+5.1.2 Starting at: $149.99
+
+ Elevate The pinnacle of audio excellence 5.1.4 Starting at: $999.99
+
+ Compare Series Not sure which soundbar fits your needs?
+No worries, weâll guide you to the right model: Compare SoundBars 
+
+
+ SmartCastâ¢  SmartCastâ¢
+Discover everything you love all in one place
+Discover everything you love all in one place Smart TV Apps
+Enjoy endless entertainment from your favorite apps
+Enjoy endless entertainment from your favorite apps WatchFreeâ¢
+Stream hundreds of free channels
+Stream hundreds of free channels 
+
+ SmartCastâ¢ Discover everything you love all in one place 
+ Visit 
+ Smart TV Apps Enjoy endless entertainment from your favorite apps 
+ Visit 
+ WatchFreeâ¢ Stream hundreds of free channels 
+ Visit 
+ Explore SmartCast 
+
+
+ SmartCastâ¢ Get everything you love in all in one place 
+
+
+ Smart TV Apps Entertainment from an endless selection of apps 
+
+
+ WatchFreeâ¢ Stream over 150 TV channels for free 
+
+
+ Explore SmartCast 
+
+
+ Shop 
+ Support 
+ {{#ifEquals lineItems.length 0}} {{else}} {{#each lineItems}} {{{shoppingCartImageLink url name imagePath }}} {{{shoppingCartLink url description}}} {{{promotionalMessage}}} QTY: {{quantity}} {{#ifEquals savings 0}} {{lineItemTotal}} {{else}} {{lineItemPrice}} {{lineItemTotal}} {{/ifEquals}} {{#ifEquals available 0}} *This product is currently out of stock.
+{{/ifEquals}} {{#ifGreater available 0}} {{#ifGreater quantity available}} Weâre sorry, the requested quantity is not available.
+{{/ifGreater}} {{/ifGreater}} {{/each}} {{/ifEquals}} {{#ifEquals lineItems.length 0}} {{else}} Cart Subtotal:{{cartTotal}} Edit Cart Checkout {{/ifEquals}} 1 item added to your cart . You have been logged out successfully.
+Close No Results Found.
+
+ Terms of Service 
+ Privacy Policy 
+ Viewing Data Supplement 
+ Viewing Data Regions 
+ Website Terms of Use 
+ myVIZIO Terms of Use 
+ Warranty &amp.
+Returns 
+ Shipping Policy 
+ Your California Privacy Rights 
+ Privacy Policy Addendum for California Residents 
+ TERMS OF SERVICE
+Introduction
+THESE TERMS OF SERVICE (âTERMS OF SERVICEâ) DESCRIBE THE TERMS THAT APPLY TO YOUR USE OF INTERNET-CONNECTED âSMARTâ VIZIO PRODUCTS, INCLUDING RELATED SOFTWARE, HARDWARE/EQUIPMENT, DOCUMENTS AND CONTENT.
+BY USING YOUR VIZIO PRODUCT, YOU AGREE TO BE BOUND BY THESE TERMS OF SERVICE.
+ALL REFERENCES IN THESE TERMS OF SERVICE TO âVIZIOâ MEAN VIZIO, INC., 39 TESLA, IRVINE CA 92618.
+BEFORE USING YOUR VIZIO PRODUCT, PLEASE READ THIS DOCUMENT CAREFULLY.
+IF YOU DO NOT AGREE TO THESE TERMS OF SERVICE, DO NOT USE THE VIZIO PRODUCT AND, WITHIN THIRTY (30) DAYS OF THE DATE OF PURCHASE, RETURN IT FOR A REFUND TO THE AUTHORIZED RETAILER WHERE YOU PURCHASED IT.
+These Terms of Service contain a binding arbitration agreement and a class action waiver for United States residents.
+If you live in the United States, the binding arbitration agreement and class action waiver affect your rights under these Terms of Service.
+Please read the text under the section titled âBinding Arbitration Agreement.
+Class Action Waiver (U.S.
+Residents Only)â carefully.
+Privacy Policy and Limited Warranty
+VIZIOâs Privacy Policy explains how VIZIO collects, uses, shares and protects VIZIO customer information.
+By agreeing to these Terms of Service, you consent to VIZIOâs collection, use, sharing and protection of your information as described in the Privacy Policy.
+Please review the current version of the Privacy Policy at https://www.vizio.com/en/terms/privacy-policy.
+The Smart Products are also governed by the VIZIO Limited Warranty.
+Please review the current version of the Limited Warranty at https://www.vizio.com/en/terms/warranty-and-returns.
+Platforms and Platform Services
+The VIZIO Platforms, including the VIZIO Internet AppsÂ® and VIZIO Internet AppsÂ® Plus (âVIAâ and âVIA+â) and the Google Cast Platform (collectively âPlatformsâ), provide access to third party services (âPlatform Servicesâ) on certain VIZIO televisions, displays and other internet-connected devices (each a âSmart Productâ).
+VIZIO provides access to the Platform Services based on its agreements with those third parties.
+These agreements are subject to change, interruption, suspension or termination at any time for various reasons.
+VIZIO makes no promises, warranties or representations that any particular Platform Service will be accessible, available, function in any particular manner, be error-free or function at all.
+Google and Yahoo Terms
+Your access to and use of the Platforms and Platform Services is subject to Googleâs (https://policies.google.com/terms?hl=en-US), Youtubeâs (https://www.youtube.com/t/terms)  and Yahooâs (https://policies.yahoo.com/us/en/yahoo/terms/index.htm) Terms of Service and Privacy Policies, as applicable.
+Internet Access Is Required for Platform Services
+To use the Platform Services, you must have or obtain access to high-speed internet, either directly or through devices that are internet accessible, and you are responsible for paying all internet-access service fees.
+Also, you must provide all of the equipment necessary to connect to the internet, such as a modem.
+Each Platform Service may require a different minimum internet-connection speed.
+The availability of a Smart Productâs internet-connected features and functions may be highly dependent on your connection speed, bandwidth, other equipment, third party applications, firmware updates and other factors outside of VIZIO's control and responsibility.
+These other factors may also operate independently of the operation of the Smart Product.
+Updates to the Platform Services
+The Platform Services are constantly being improved.
+VIZIO may, or the third parties offering the Platform Services may, update or change the Platform Services, in whole or in part, at any time and without notice to you.
+These updates may be required in order to use certain features or to continue to connect to certain Platform Services.
+The Platforms may also be updated from time to time by VIZIO or its third party providers.
+Other Changes to the Platform Services
+VIZIO or the third parties providing the Platform Services reserve the right to (1) delete content from an application, (2) prevent access to the Platform Service(s), or (3) change content categories, products or service offerings for any reason at any time, without notice.
+VIZIO may also impose additional or different limits on use or access to certain Platform Services, without notice or incurring any liability to you.
+The use, content or functionality of the Platform Service(s) may require additional payment and/or a subscription by you.
+However, you will not be charged for any Platform Services unless those charges are made known to you in advance.
+VIZIO makes no promises, warranties or representations of any kind as to the accuracy, availability or completeness of any information or content from the third party providers of the Platform Services.
+Please note that VIZIO does not review, control or endorse any content, products or services provided as part of the Platform Services.
+VIZIO Software
+Unless governed by a separate license, the software, documentation and any fonts that accompany your Smart Product or are later downloaded or updated, in any media or in any other form (collectively âVIZIO Softwareâ) are licensed, not sold, to you by VIZIO for use only as permitted by these Terms of Service.
+VIZIO reserves all rights to the VIZIO Software not expressly granted to you.
+The rights granted herein are limited to VIZIO's and its third party providers' intellectual property rights in the VIZIO Software and do not include any other patents or intellectual property rights.
+You may own the equipment or media on which the VIZIO Software resides but VIZIO and/or its licensor(s) retain ownership of the VIZIO Software.
+Except to the extent expressly permitted by applicable law, you may not copy, decompile, reverse engineer, disassemble, modify or create derivative works of the VIZIO Software or any part thereof.
+Through features found within your Smart Product, you may use the VIZIO Software and install upgrades subject to these Terms of Service.
+The VIZIO Software may be used to access the Platform and Platform Services so long as such use is authorized and legally permitted.
+These Terms of Service will govern any software upgrades provided by VIZIO that replace or supplement the original VIZIO Software, unless such upgrade is accompanied by a separate license, in which case the terms of that license will govern.
+THE VIZIO SOFTWARE, PLATFORMS AND PLATFORM SERVICES ARE NOT INTENDED FOR USE IN ANY EQUIPMENT OR ENVIRONMENT IN WHICH THE FAILURE OF THE VIZIO SOFTWARE, PLATFORMS OR PLATFORM SERVICES COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE.
+You may not rent, lease, lend, redistribute or sublicense the VIZIO Software.
+You may, however, make a one-time permanent transfer of all of your license rights to the VIZIO Software to another party, provided that: (a) the transfer must include the Smart Product, including all its component parts, original media, printed materials and these Terms of Service.
+(b) you do not retain any copies of the VIZIO Software, full or partial, including copies stored on a computer or other storage device.
+and (c) the party receiving the Smart Product and VIZIO Software reads and agrees to accept these Terms of Service.
+Export Control
+You may not use or otherwise export or re-export the VIZIO Software except as authorized by United States law and the laws of the jurisdiction in which the VIZIO Software was obtained.
+In particular, but without limitation, the VIZIO Software may not be exported or re-exported (a) into any U.S.
+embargoed countries or (b) to anyone on the U.S.
+Treasury Department's list of Specially Designated Nationals or the U.S.
+Department of Commerce Denied Person's List or Entity List.
+By using the VIZIO Software, you represent and warrant that you are not located in any such country or on any such list.
+You also agree that you will not use the Smart Products for any purposes prohibited by United States law, including, without limitation, the development, design, manufacture or production of missiles, or nuclear, chemical or biological weapons.
+Support
+VIZIO or its third party providers may elect, but shall be under no obligation, to provide you with customer support and/or software upgrades, enhancements, or modifications to the VIZIO Software, Platform or Platform Services (collectively, âSupportâ), in their sole discretion, and may terminate such Support at any time without notice to you.
+VIZIO and its third party providers reserve the right to charge you for any Support.
+Charges will be made available to you prior to your incurring any costs.
+VIZIO may update the firmware of your Smart Product automatically at any time without notice to you.
+Warranty Disclaimer
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE PLATFORMS, PLATFORM SERVICES AND VIZIO SOFTWARE IS MADE AVAILABLE TO YOU WITHOUT WARRANTY AS DESCRIBED BELOW, TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+VIZIO AND VIZIO'S THIRD PARTY PROVIDERS (COLLECTIVELY REFERRED TO AS âVIZIOâ FOR THE PURPOSES OF THIS SECTION AND THE LIMITATION OF LIABILITY SECTION BELOW) HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE PLATFORMS, PLATFORM SERVICES, AND VIZIO SOFTWARE.
+THE PLATFORMS, PLATFORM SERVICES AND VIZIO SOFTWARE ARE PROVIDED âAS IS,â WITH ALL FAULTS AND âAS AVAILABLE,â WITHOUT WARRANTY OF ANY KIND EITHER EXPRESS, STATUTORY OR IMPLIED (INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, NON-INFRINGEMENT OR FITNESS FOR A PARTICULAR PURPOSE), TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+USE OF THE PLATFORM(S), PLATFORM SERVICES AND VIZIO SOFTWARE IS AT YOUR OWN RISK.
+THIS MEANS, FOR EXAMPLE, THAT VIZIO DOES NOT GUARANTEE THAT THE PLATFORMS, PLATFORMS SERVICES OR VIZIO SOFTWARE WILL ALWAYS WORK PROPERLY OR WILL WORK AT ALL, WILL BE ERROR-FREE, WILL OPERATE UNINTERRUPTED OR WILL MEET YOUR REQUIREMENTS.
+THIS ALSO MEANS THAT VIZIO DOES NOT GUARANTEE THAT THE PLATFORMS, PLATFORM SERVICES, OR VIZIO SOFTWARE WILL BE FREE FROM VIRUSES, HACKS OR OTHER POTENTIALLY HARMFUL INTRUSIONS OR THAT DEFECTS WILL BE CORRECTED.
+NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY VIZIO OR A VIZIO AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY.
+PLEASE NOTE THAT SOME STATES DO NOT ALLOW SUCH WARRANTY LIMITATIONS, SO THESE LIMITATIONS MAY NOT APPLY TO YOU.
+THIS PROVISION WILL NOT AFFECT YOUR RIGHTS UNDER THE VIZIO LIMITED WARRANTY.
+Platform Services and Third Party Materials Disclaimer
+Certain Platform Services and VIZIO Software may include third party materials or links to third party materials, such as applications, content or websites.
+VIZIO is not responsible for examining or evaluating the content or accuracy of the Platform Services or of any included or linked third party materials.
+VIZIO does not endorse any of the Platform Services or third party materials.
+VIZIO does not assume any responsibility for and will not have any liability for the Platform Services or any third party materials.
+Links are provided solely as a convenience to you.
+Descriptions of the Platform Services are provided for general informational purposes, without any guarantee of accuracy.
+You understand that by using any of the Platform Services, you may encounter content that may be deemed offensive, indecent, or objectionable, and such content may or may not be initially identified as being explicit.
+VIZIO shall have no liability to you for content that may be found to be offensive, indecent, or objectionable.
+You agree that you will not use any third party materials in a manner that would infringe or violate the rights of any other party, and VIZIO is not in any way responsible for any such use by you.
+Changes to the Terms of Service
+VIZIO may change the terms and conditions of these Terms of Service at any time without prior notice.
+By continuing to use your Smart Product, you agree to the changed terms.
+The current version of these Terms of Service will be available at https://www.vizio.com/en/terms.
+Termination
+These Terms of Service are effective until terminated or until you cease to use the Smart Product.
+Your rights under these Terms of Service will terminate automatically without notice from VIZIO if you fail to comply with any term(s) of these Terms of Service.
+Upon the termination of these Terms of Service, you must cease all use of the Smart Product, VIZIO Software, Platform and Platform Services.
+Limitation of Liability
+TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL VIZIO BE LIABLE FOR PERSONAL INJURY, OR ANY INCIDENTAL, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OR INABILITY TO USE THE SMART PRODUCTS, VIZIO SOFTWARE, PLATFORMS OR PLATFORM SERVICES, HOWEVER CAUSED, REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT, TORT OR OTHERWISE) AND EVEN IF VIZIO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OF LIABILITY FOR PERSONAL INJURY, OR OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS LIMITATION MAY NOT APPLY TO YOU.
+In no event shall VIZIO's total liability to you for all damages (other than as may be required by applicable law in cases involving personal injury) exceed the amount of twenty-five dollars ($25.00).
+The foregoing limitations will apply even if the above stated remedy fails of its essential purpose.
+THIS PROVISION WILL NOT AFFECT YOUR RIGHTS UNDER THE VIZIO LIMITED WARRANTY.
+Binding Arbitration Agreement.
+Class Action Waiver (U.S.
+Residents Only)
+UNLESS YOU HAVE BROUGHT AN ELIGIBLE CLAIM IN SMALL CLAIMS COURT OR HAVE OPTED OUT AS DESCRIBED BELOW, ANY CONTROVERSY OR CLAIM RELATING IN ANY WAY TO YOUR VIZIO PRODUCT, INCLUDING ANY CONTROVERSY OR CLAIM ARISING OUT OF OR RELATING TO THESE TERMS OF SERVICE, ANY WARRANTY, THE COLLECTION, USE OR SHARING OF CUSTOMER OR VIEWING INFORMATION COLLECTED FROM A VIZIO PRODUCT, A BREACH OF THESE TERMS OF SERVICE, OR THE VIZIO PRODUCTâS SALE, CONDITION OR PERFORMANCE, WILL BE SETTLED BY BINDING ARBITRATION ADMINISTERED BY THE AMERICAN ARBITRATION ASSOCIATION AND CONDUCTED BY A SINGLE ARBITRATOR APPOINTED BY THE AMERICAN ARBITRATION ASSOCIATION, IN ACCORDANCE WITH ITS COMMERCIAL ARBITRATION RULES AND ITS SUPPLEMENTARY PROCEDURES FOR CONSUMER-RELATED DISPUTES.
+You may learn more about the American Arbitration Association and its rules for arbitration by visiting www.adr.org or by calling 800-778-7879.
+Since these Terms of Service concern a transaction in interstate or international commerce, the Federal Arbitration Act will apply.
+The filing fees to begin and carry out arbitration will be shared between you and VIZIO, but in no event will your fees ever exceed the amount allowable by the American Arbitration Association, at which point VIZIO will cover all additional administrative fees and expenses.
+VIZIO waives its right to recover attorneysâ fees in connection with any arbitration under these Terms of Service.
+If you are the prevailing party in an arbitration to which the Supplementary Procedures for Consumer-Related Disputes applies, then you are entitled to recover attorneysâ fees as the arbitrator may determine.
+The dispute will be governed by the laws of the state or territory in which you resided at the time of your purchase (if in the United States).
+The place of arbitration will be Irvine, California, or your county of residence (if in the United States).
+The arbitrator will have no authority to award punitive or other damages not measured by the prevailing party's actual damages, except as may be required by statute.
+The arbitrator will not award consequential damages, and any award will be limited to monetary damages and will include no equitable relief, injunction, or direction to any party other than the direction to pay a monetary amount.
+Judgment on the award rendered by the arbitrator will be binding and final, except for any right of appeal provided by the Federal Arbitration Act, and may be entered in any court having jurisdiction.
+Except as may be required by law, neither you nor VIZIO nor an arbitrator may disclose the existence, content or results of any arbitration under these Terms of Service without the prior written consent of you and VIZIO.
+ANY DISPUTE, WHETHER IN ARBITRATION, IN COURT, OR OTHERWISE, WILL BE CONDUCTED SOLELY ON AN INDIVIDUAL BASIS.
+VIZIO AND YOU AGREE THAT NO PARTY WILL HAVE THE RIGHT OR AUTHORITY FOR ANY DISPUTE TO BE ARBITRATED AS A CLASS ACTION, A PRIVATE ATTORNEY GENERAL ACTION, OR IN ANY OTHER PROCEEDING IN WHICH EITHER PARTY ACTS OR PROPOSES TO ACT IN A REPRESENTATIVE CAPACITY.
+NO ARBITRATION OR PROCEEDING WILL BE JOINED, CONSOLIDATED, OR COMBINED WITH ANOTHER ARBITRATION OR PROCEEDING WITHOUT THE PRIOR WRITTEN CONSENT OF ALL PARTIES TO ANY SUCH ARBITRATION OR PROCEEDING.
+Exceptions to Binding Arbitration Agreement and Class Action Waiver
+IF YOU DO NOT WISH TO BE BOUND BY THE BINDING ARBITRATION AGREEMENT AND CLASS ACTION WAIVER, THEN: (1) you must notify VIZIO in writing within sixty (60) days of the date that you purchased the product.
+(2) your written notification must be mailed to VIZIO at 39 Tesla, Irvine, CA 92618, Attn: Legal Department.
+and (3) your written notification must include (a) your name, (b) your address, (c) the date you purchased the product, and (d) a clear statement that you wish to opt out of the binding arbitration agreement and class action waiver.
+In addition, you may pursue a claim in small claims court in your county of residence (if in the United States) or in Orange County, California.
+In such case the provisions of the section titled âBinding Arbitration Agreement.
+Class Action Waiver (U.S.
+Residents)â will not apply.
+Alternate Governing Law
+If the foregoing section does not apply, these Terms of Service will be governed and construed in accordance with the laws of the State of California and the United States, without reference to conflict of laws principles.
+General
+These Terms of Service constitute the entire agreement between you and VIZIO with respect to your use of the VIZIO Software, Platforms and Platform Services made available hereunder and supersede all prior or contemporaneous understandings, with the exception of any additional Platform or Platform Servicesâ licenses or terms and conditions that you are required to accept if you choose to access such Platform Services.
+If any term of these Terms of Service, other than the class action waiver, is found to be unenforceable, that term will be severed from these Terms of Service and all other terms will remain in effect.
+If the class action waiver is found to be unenforceable, then the entire section titled âBinding Arbitration Agreement.
+Class Action Waiver (U.S.
+Residents Only)â will not apply.
+Any translation of these Terms of Service is done for local requirements and in the event of a dispute between the English and any non-English versions, the English version of these Terms of Service will govern. Be the first to receive VIZIO news, promotions, special offers, and more
+Join the Millions of VIZIO subscribers. Enter your email to join...
+
+ Sign Up Submit 
+View our Privacy Policy
+ Get to Know Us 
+ About VIZIO 
+ Careers 
+ VIZIO News 
+ VIZIO and the Environment 
+ Accessibility 
+ Official Retailers 
+ Our Products 
+ TVs 
+ Sound Bars 
+ SmartCastâ¢ 
+ Shop 
+ Customer Reviews 
+ Get Help 
+ Support Center 
+ Product Registration 
+ myVIZIO 
+ Safety Notice 
+ Check Order Status 
+ Community 
+ Facebook 
+ Twitter 
+ YouTube 
+ Instagram 
+ For Business 
+ Investors 
+ Content Partners 
+ Reseller 
+ Commercial 
+ Inscape 
+ VIZIO Advertising 
+
+
+Explore our full line of products.
+Shop online.
+
+ Â© 2021 VIZIO, Inc.
+All rights reserved.
+
+ Privacy Policy 
+ Terms of Service 
+ Website Terms of Use 
+ Shipping Terms &amp.
+Conditions 
+ Site Map 
+ Do Not Sell My Personal Information 
+ United States Select your location Close Select Your Location.
+
+
+
+ United States 
+ Canada 
+ loop focus Privacy Preference SettingsWhen you visit our website, we store cookies on your browser to collect information.
+The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience.
+However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer.
+Click on the different category headings to find out more and change our default settings according to your preference.
+You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.).
+For more information please follow this link.
+More informationAllow AllManage Cookie PreferencesStrictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems.
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
+&nbsp.
+ You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+These cookies do not store any personally identifiable information.Performance Cookies Performance CookiesThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.
+They help us to know which pages are the most and least popular and see how visitors move around the site.
+&nbsp.
+ All information these cookies collect is aggregated and therefore anonymous.
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.Targeting Cookies Targeting CookiesThese cookies may be set through our site by our advertising partners.
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.
+&nbsp.
+ They do not store directly personal information, but are based on uniquely identifying your browser and internet device.
+If you do not allow these cookies, you will experience less targeted advertising.Confirm My ChoicesBack ButtonBack Performance CookiesVendor Search Search Icon Filter IconClear Fliters Information storage and accessApplyAll Consent Allowed Select All Vendors Select All Hosts
+33Acrosshost descriptionView Cookies REPLACE-WITH-DYANMIC-HOST-ID
+Namecookie nameHostcookie hostDurationcookie durationTypecookie typeCategorycookie categoryDescriptioncookie category
+
+
+
+
+33AcrossView Privacy Notice3 Purposes REPLACE-WITH-DYANMIC-VENDOR-IDArrowConsent Purposes
+Location Based Ads
+Consent Allowed
+Legitimate Interest Purposes
+PersonalizeRequire Opt-Out Features
+Location Based Ads
+
+Confirm My ChoicesWe use cookies on this site to improve and optimize site functionality, secure the site, analyze site activity, and personalize your experience on the site and the ads that you receive.
+Click on the link to change your cookie settings or visit VIZIO's privacy page to learn more.
+By continuing to browse, you agree to our use of cookies.Privacy PolicyCustomize Settings Accept and Continue 
+      

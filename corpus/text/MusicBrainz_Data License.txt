@@ -1,0 +1,35 @@
+
+
+Any user that contributes to MusicBrainz should be aware that their contributions will be made available to the public under the licenses described below.
+Furthermore, MusicBrainz users give the MetaBrainz Foundation the right to license this data for commercial use. The income from these licenses keeps MusicBrainz running and covers the paychecks of paid MusicBrainz developers.
+Contents
+1 MusicBrainz Database
+2 Live Data Feed
+3 MusicBrainz Server
+4 MusicBrainz Documentation
+5 Cover art
+MusicBrainz DatabaseThe MusicBrainz Database is split into two components for licensing purposes.
+
+
+Core data
+The core data of the database is licensed under the CC0, which is effectively placing the data into the Public Domain.
+This means that anyone can download and use the core data in any way they see fit.
+No restrictions, no worries!
+
+
+Supplementary data
+The remaining portions of the database are released under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license.
+This allows for non-commercial use of the data as long as MusicBrainz is given credit and that derivative works (works based on the CC licensed data) are also made available under the same license.
+
+For a breakdown of what constitutes core/supplementary data, view the MusicBrainz Database page.
+Live Data FeedThe Live Data Feed replication packets are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license.
+MusicBrainz ServerThe MusicBrainz Server source code is licensed under the GPLv2.
+MusicBrainz DocumentationThe MusicBrainz documentation on http://wiki.musicbrainz.org/ (and mirrored on http://musicbrainz.org/doc/) is released under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license.
+This allows non commercial use of the documentation as long as MusicBrainz is given credit and that derivative works (works based on the CC licensed data) are also made available under the same license.
+
+The documentation uses content from the following sources: 
+
+The nuoveXT icon theme made by Alexandre Moore and available under the GPL license.
+Cover artThe MusicBrainz dataset does not contain cover art.
+Cover art is provided by the Cover Art Archive.
+

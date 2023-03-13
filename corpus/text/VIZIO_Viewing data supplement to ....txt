@@ -1,0 +1,328 @@
+
+         Need help with your new VIZIO product? Contact VIZIO Support.
+Sign in / Sign up Hello Hello My Account Log out 
+ TVs  D-Series
+Dependability &amp.
+value
+Dependability &amp.
+value
+24" â 43"
+From $129.99 V-Series
+Affordable performance
+Affordable performance
+40" â 75"
+From $229.99 M-Series
+A quantum leap in color
+A quantum leap in color
+50" â 70"
+From $439.99 P-Series
+Our biggest &amp.
+best LED
+Our biggest &amp.
+best LED
+65" - 85"
+From $1199.99 OLED
+The perfect picture
+The perfect picture
+55" - 65"
+From $1299.99 Compare TVs 
+
+ D-Series Dependability &amp.
+value 24" â 43" From $129.99 Shop 
+ V-Series Affordable performance 40" â 75" From $229.99 Shop 
+ M-Series A quantum leap in color 50" â 70" From $439.99 Shop 
+ P-Series Our biggest &amp.
+best LED 65" - 85" From $1199.99 Shop 
+ OLED The perfect picture 55" - 65" From $1299.99 Shop 
+ Compare TVs 
+
+
+ Compare Series Not sure which Smart TV fits your needs?
+No worries, weâll guide you to the right model: Compare TVs 
+
+
+ V-Series Smart &amp.
+affordable performance 40" â 75" Starting at: $229.99
+
+ M-Series A quantum leap in color 40" â 70" Starting at: $439.99
+
+ P-Series Our biggest and best LED 65" - 85" Starting at: $1199.99
+
+ OLED The perfect picture 55" â 65â Starting at: $1,299.99
+
+ Compare Series Not sure which Smart TV fits your needs?
+No worries, weâll guide you to the right model: Compare TVs 
+
+
+ Sound Bars  V-Series
+Big sound at a small price
+Big sound at a small price
+2.1 &amp.
+5.1
+From $179.99 M-Series
+A step up to surround sound
+A step up to surround sound
+AIO &amp.
+5.1 &amp.
+5.1.2
+From $149.99 Elevate
+The pinnacle of audio excellence
+The pinnacle of audio excellence
+5.1.4
+From $999.99 Additional Sound Bars
+Americaâs #1 Sound Bar Brand
+Americaâs #1 Sound Bar Brand
+2.1 &amp.
+5.1
+From $179.99 Compare Sound Bars 
+
+ V-Series Big sound at a small price 2.1 &amp.
+5.1 From $179.99 Shop 
+ M-Series A step up to surround sound AIO &amp.
+5.1 &amp.
+5.1.2 From $149.99 Shop 
+ Elevate The pinnacle of audio excellence 5.1.4 From $999.99 Shop 
+ Additional Sound Bars Americaâs #1 Sound Bar Brand 2.1 &amp.
+5.1 From $179.99 Shop 
+ Compare Sound Bars 
+
+
+ Compare Series Not sure which soundbar fits your needs?
+No worries, weâll guide you to the right model: Compare SoundBars 
+
+
+ V-Series Big sound at a small price 2.1 &amp.
+5.1 Starting at: $179.99
+
+ M-Series A step up to surround sound AIO &amp.
+5.1 &amp.
+5.1.2 Starting at: $149.99
+
+ Elevate The pinnacle of audio excellence 5.1.4 Starting at: $999.99
+
+ Compare Series Not sure which soundbar fits your needs?
+No worries, weâll guide you to the right model: Compare SoundBars 
+
+
+ SmartCastâ¢  SmartCastâ¢
+Discover everything you love all in one place
+Discover everything you love all in one place Smart TV Apps
+Enjoy endless entertainment from your favorite apps
+Enjoy endless entertainment from your favorite apps WatchFreeâ¢
+Stream hundreds of free channels
+Stream hundreds of free channels 
+
+ SmartCastâ¢ Discover everything you love all in one place 
+ Visit 
+ Smart TV Apps Enjoy endless entertainment from your favorite apps 
+ Visit 
+ WatchFreeâ¢ Stream hundreds of free channels 
+ Visit 
+ Explore SmartCast 
+
+
+ SmartCastâ¢ Get everything you love in all in one place 
+
+
+ Smart TV Apps Entertainment from an endless selection of apps 
+
+
+ WatchFreeâ¢ Stream over 150 TV channels for free 
+
+
+ Explore SmartCast 
+
+
+ Shop 
+ Support 
+ {{#ifEquals lineItems.length 0}} {{else}} {{#each lineItems}} {{{shoppingCartImageLink url name imagePath }}} {{{shoppingCartLink url description}}} {{{promotionalMessage}}} QTY: {{quantity}} {{#ifEquals savings 0}} {{lineItemTotal}} {{else}} {{lineItemPrice}} {{lineItemTotal}} {{/ifEquals}} {{#ifEquals available 0}} *This product is currently out of stock.
+{{/ifEquals}} {{#ifGreater available 0}} {{#ifGreater quantity available}} Weâre sorry, the requested quantity is not available.
+{{/ifGreater}} {{/ifGreater}} {{/each}} {{/ifEquals}} {{#ifEquals lineItems.length 0}} {{else}} Cart Subtotal:{{cartTotal}} Edit Cart Checkout {{/ifEquals}} 1 item added to your cart . You have been logged out successfully.
+Close No Results Found.
+
+ Terms of Service 
+ Privacy Policy 
+ Viewing Data Supplement 
+ Viewing Data Regions 
+ Website Terms of Use 
+ myVIZIO Terms of Use 
+ Warranty &amp.
+Returns 
+ Shipping Policy 
+ Your California Privacy Rights 
+ Privacy Policy Addendum for California Residents 
+
+VIEWING DATA SUPPLEMENT TO THE PRIVACY POLICY
+
+Viewing Data -- Overview
+
+Like many internet-connected TVs, VIZIO Smart TVs or other display units are equipped with Automated Content Recognition (ACR) technology that (when enabled) is able to use video and audio data to recognize what is playing on the TV and send information back to VIZIO about what is showing (âViewing Dataâ).
+
+This feature was formerly called âSmart Interactivity,â but we are referring to the feature in our policies and settings today and in the future as âVIEWING DATA.â
+
+At any time, you may change your Viewing Data settings within the Settings menu of your VIZIO TV or display.
+Turning it off will not affect the performance of your VIZIO TV or display or any online services.
+Prior to collecting Viewing Data, each unit will receive (i) a notification, explaining the nature and purpose of the feature, separate and apart from this Privacy Policy and (ii) an opportunity to choose whether to turn on Viewing Data. 
+Viewing Data will only be collected from units that choose to âACCEPTâ to collection and use of Viewing Data.
+Thereafter, at that time, and any time after, you will have the option to change the setting for the ACR feature/Viewing Data collection off or on.
+Disabling Viewing Data will not, however, affect or limit Activity Data collection through the SmartCast Product.
+Please review the Privacy Policy for further information.
+
+This Privacy Policy may be modified from time to time as new features and functionality become available.
+
+What is Viewing Data?
+
+For VIZIO devices that have agreed to Viewing Data collection, VIZIO will use ACR technology to collect information about the audio and video programming content playing on the display unit including broadcast television, advertisements and other commercially available content (including volume, channel information, picture controls, and inputs), and other information, like when the device is off/on or if the content was viewed live or at a later time.
+VIZIO will also collect the identity of an Over the Top (OTT) device and third party services or applications, such as streaming service providers, (including stream and launch events for movies, TV shows, episodes and channels) that you connect to.
+Video and audio analysis and data collection using ACR is referred to as âViewing Data.â
+Viewing Data is associated with the IP address for the unit and a unique device number we assign.
+However, VIZIO will combine and associated your Viewing Data with your myVIZIO account name if you create such an account or link to it to provide you with a more personalized experience on your SmartCast TV or display.
+The ACR software also periodically collects other information about the TV or display, including IP address and the media access control (âMACâ) addresses of available access points.
+Viewing Data is maintained and used in an unidentified format, and VIZIO does not attempt to re-identify the data to associate it with individual customers and prohibits its authorized data partners from attempting to do so as well.
+At any time you may turn this ACR functionality on or off from the Settings menu of your VIZIO TV or display.
+Turning it off will not affect the performance of your VIZIO TV or display or any online services.
+For specific instructions on how to turn off or on the ACR feature that collects Viewing Data, see the text below under the heading âHow you can control the collection of Viewing Data."
+
+How Is Viewing Data Used and Shared?
+
+VIZIO associates Viewing Data with other data about the performance, settings, or features of particular VIZIO devices to support services and to help marketers deliver more relevant advertising.
+Our authorized cloud service providers, may store this data solely on our behalf and for no other purposes.&nbsp.
+We may share Viewing Data with vendors, consultants and service providers who work on our behalf and make our business-to-business activities in digital advertising possible.
+VIZIO also licenses Viewing Data to analytics companies, media companies, advertisers, ad agencies, and other ad technology companies who measure ad effectiveness or aid personalization of ads, through written agreements which strictly prohibit attempts at identification or re-identification of shared information.
+Viewing Data is used for the purposes listed below:
+
+
+Summary Analytics and Reports. VIZIOâs select data partners may analyze Viewing Data in order to create summary reports and analysis to help deliver relevant information and advertising to interested groups of customers.
+These summary reports are built from automated analysis of data elements, without connecting the information to any known natural person.&nbsp.
+For example, a data partner who is an advertiser may want to measure the effectiveness of their promotions, in the aggregate.&nbsp.
+Thus, the&nbsp.
+data partner may identify another device that shares an IP address with the VIZIO TV or display and analyze: (a) whether a particular website was viewed or commercial location was visited by a device with location tracking enabled (e.g., a smartphone) after a related promotion was viewed, and (b) whether a particular program was viewed following exposure to a promotion for that program.&nbsp.
+In addition, some data partners are authorized to use a third-party data aggregator to identify demographic traits (such as gender or age range or income range) associated with the IP addresses that VIZIO collects, and then send to the data partners the demographic information associated with those IP addresses.
+
+Audience Measurement. VIZIO and these select data partners also use Viewing Data to understand what customers watch in order to deliver more relevant content and advertising, for example, by determining which programs are most popular, how many people watch a program to its conclusion, and whether and how often people are watching commercials.
+VIZIO and these select data partners may also combine Viewing Data with other demographic and similar information, including by working with data aggregators.
+
+Tailored Advertisements. VIZIO also licenses Viewing Data to select data partners for the purpose of targeting advertising to other digital devices that share the IP address of VIZIO TVs, based on viewing history collected from that TV.
+VIZIO or its data partners are sometimes authorized to enhance Viewing Data with household demographic data and data about digital actions (e.g.
+digital purchases, location, and other consumer behavior taken by devices associated with the IP Address we collect), for the purpose of delivering advertising that are likely to be useful or timely, including during broadcast, cable, satellite, or internet based television programming.
+
+VIZIO does not permit data partners to combine or associate the Viewing Data with Personal Information.
+VIZIO may combine information (including Activity Data or Viewing Data) collected with other information so that VIZIO can provide, market, and improve VIZIOâs products and services â such as by enhancing popular product functionality and by modifying services to better meet VIZIOâs customersâ needs.
+VIZIO may also match your data with VIZIOâs partnersâ data to help market VIZIOâs products or services to you and provide advertising tailored to your individual interests based on how you browse and shop online.
+
+REMINDER: You always have the option to control the collection of Viewing Data in your TV or displayâs Settings menu.
+Viewing Data collection is only enabled if a user AGREES to this collection.&nbsp.
+However, for a period of time you may continue to see tailored ads on other devices that were targeted on the basis of Viewing Data that was shared before you turned off collection.
+Disabling the Video ACR (Viewing Data) feature in the Settings Menu will not, however, affect or limit Activity Data collection through SmartCast Products, which is used to personalize and recommend content within the SmartCast Product or SmartCast Mobile App.
+If you intend to sell or otherwise give away your VIZIO TV or display, you should perform a âfactory reset.â  
+
+
+How Does VIZIO Protect Viewing Data?
+
+VIZIO uses reasonable and appropriate measures to protect information within VIZIOâs organization.&nbsp.
+Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure.&nbsp.
+To help protect your information, we recommend consumers follow best practices for internet activities, including proactive password management and router security protocols.
+How Can I Turn Off or On the Viewing Data (ACR) Feature?
+
+At any time you may turn Viewing Data (ACR) collection off or on directly from the menu of your VIZIO TV or display.
+Turning Viewing Data (ACR)off will disable all future Viewing Data collection.
+For textual as well as graphical instructions on how to turn Viewing Data (ACR) off or on, visit http://www.vizio.com/viewingdata.
+If you are unable to locate the Viewing Data setting on your VIZIO TV or display, contact VIZIO customer service by emailing privacy@vizio.com or calling (855) 472-8817.
+Please note that if your TV or display is ever reset to factory settings, the device will return to its default settings, and Viewing Data will be reset to the âOFFâ position.
+You may again turn the feature on by following the procedure described above.
+Turning the Viewing Data (ACR) feature off or on will affect only the TV or display where you have made that selection.
+When you turn off collection of Viewing Data (if it was previously turned on), logs of Viewing Data will be deleted from our database.
+However, even if it is turned off, VIZIO may still collect other information when you separately provide such information to VIZIO, such as when you submit a support request or participate in a promotion, and VIZIO may still collect information from other sources as described in the VIZIO Privacy Policy. 
+  Be the first to receive VIZIO news, promotions, special offers, and more
+Join the Millions of VIZIO subscribers. Enter your email to join...
+
+ Sign Up Submit 
+View our Privacy Policy
+ Get to Know Us 
+ About VIZIO 
+ Careers 
+ VIZIO News 
+ VIZIO and the Environment 
+ Accessibility 
+ Official Retailers 
+ Our Products 
+ TVs 
+ Sound Bars 
+ SmartCastâ¢ 
+ Shop 
+ Customer Reviews 
+ Get Help 
+ Support Center 
+ Product Registration 
+ myVIZIO 
+ Safety Notice 
+ Check Order Status 
+ Community 
+ Facebook 
+ Twitter 
+ YouTube 
+ Instagram 
+ For Business 
+ Investors 
+ Content Partners 
+ Reseller 
+ Commercial 
+ Inscape 
+ VIZIO Advertising 
+
+
+Explore our full line of products.
+Shop online.
+
+ Â© 2021 VIZIO, Inc.
+All rights reserved.
+
+ Privacy Policy 
+ Terms of Service 
+ Website Terms of Use 
+ Shipping Terms &amp.
+Conditions 
+ Site Map 
+ Do Not Sell My Personal Information 
+ United States Select your location Close Select Your Location.
+
+
+
+ United States 
+ Canada 
+ loop focus Privacy Preference SettingsWhen you visit our website, we store cookies on your browser to collect information.
+The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience.
+However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer.
+Click on the different category headings to find out more and change our default settings according to your preference.
+You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.).
+For more information please follow this link.
+More informationAllow AllManage Cookie PreferencesStrictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems.
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
+&nbsp.
+ You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+These cookies do not store any personally identifiable information.Performance Cookies Performance CookiesThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.
+They help us to know which pages are the most and least popular and see how visitors move around the site.
+&nbsp.
+ All information these cookies collect is aggregated and therefore anonymous.
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.Targeting Cookies Targeting CookiesThese cookies may be set through our site by our advertising partners.
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.
+&nbsp.
+ They do not store directly personal information, but are based on uniquely identifying your browser and internet device.
+If you do not allow these cookies, you will experience less targeted advertising.Confirm My ChoicesBack ButtonBack Performance CookiesVendor Search Search Icon Filter IconClear Fliters Information storage and accessApplyAll Consent Allowed Select All Vendors Select All Hosts
+33Acrosshost descriptionView Cookies REPLACE-WITH-DYANMIC-HOST-ID
+Namecookie nameHostcookie hostDurationcookie durationTypecookie typeCategorycookie categoryDescriptioncookie category
+
+
+
+
+33AcrossView Privacy Notice3 Purposes REPLACE-WITH-DYANMIC-VENDOR-IDArrowConsent Purposes
+Location Based Ads
+Consent Allowed
+Legitimate Interest Purposes
+PersonalizeRequire Opt-Out Features
+Location Based Ads
+
+Confirm My ChoicesWe use cookies on this site to improve and optimize site functionality, secure the site, analyze site activity, and personalize your experience on the site and the ads that you receive.
+Click on the link to change your cookie settings or visit VIZIO's privacy page to learn more.
+By continuing to browse, you agree to our use of cookies.Privacy PolicyCustomize Settings Accept and Continue 
+      

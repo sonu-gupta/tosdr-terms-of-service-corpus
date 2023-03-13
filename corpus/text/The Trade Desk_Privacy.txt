@@ -1,0 +1,392 @@
+
+This page is about the privacy practices on our Trade Desk Platform and the data it uses for delivering advertising.
+If you are interested in our corporate and website privacy policy, click here.
+
+Last updated: April 19, 2021
+
+
+
+
+OVERVIEW
+
+
+AT A GLANCE
+
+
+FULL PRIVACY POLICY
+
+
+THE PLATFORM
+
+
+THE DATA THE PLATFORM COLLECTS AND PROCESSES
+
+
+HOW THE PLATFORM COLLECTS DATA
+
+
+COOKIES
+
+
+THE PURPOSES FOR WHICH THE PLATFORM PROCESSES DATA
+
+
+MORE ABOUT PERSONALISATION
+
+
+EUROPEAN UNION CONTROLLER/PROCESSOR DESIGNATION AND LEGAL BASES
+
+
+SHARING AND TRANSFER
+
+
+INTERNATIONAL TRANSFERS
+
+
+SECURITY AND DATA RETENTION
+
+
+YOUR CHOICES
+
+
+YOUR RIGHTS
+
+
+CHANGES TO OUR POLICIES
+
+
+CONTACT US
+
+
+Overview
+
+The Trade Desk offers what is known in the industry as a Demand Side Platform (âDSPâ or âPlatformâ).
+We provide technology that helps advertisers and their advertising agencies manage digital advertising campaigns across many channels, such as websites, apps, audio, smart TVs, and other video.
+The advertising campaigns run by our clients help pay for the content you enjoy.
+
+We, and our clients, collect and use data both to help ensure that the ads you see are relevant and to measure and report on their effectiveness.
+Our AdBrain product, which is part of our Platform, uses data to produce a mapping of devices that might be related to each other, meaning that they might be used by the same person or by people within the same household.
+This helps advertisers better target and measure their campaigns, as well as limiting the number of times the same person or household sees an ad.
+
+Our references to our Platform in this policy only refer to the Trade Deskâs own advertising technology platform and systems and do not include the technology or systems of clients or partners that use or integrate with us.
+They are bound by our policies when they use our Platform.
+The Trade Desk is a member of the Network Advertising Initiative (NAI) and adheres to the NAIâs 2020 Code of Conduct.
+The Trade Desk also follows the industry self-regulatory guidelines of the Digital Advertising Alliance, the Digital Advertising Alliance of Canada, and the European Digital Advertising Alliance.
+The Trade Desk also implements and adheres to the specifications and policies of the IAB EU Transparency &amp.
+Consent Framework as part of our compliance with EU data protection law.
+The Trade Deskâs identification number within the Framework is 21.
+See http://advertisingconsent.eu for more information.
+If you want to go directly to our Opt Out, please visit http://www.adsrvr.org.
+
+At A Glance
+
+
+Read the table for a quick overview.
+See below the table for detailed information.
+
+
+Who we are:
+
+Email: privacy ((at)) thetradedesk ((dot)) com
+
+
+Global HQ: The Trade Desk, Inc.
+42 N.
+Chestnut St Ventura, CA 93001 USA
+
+EEA and Switzerland: The UK Trade Desk Ltd.
+10th Floor, 1 Bartholomew Close London EC1A 7BL United Kingdom
+
+What we do:
+
+Advertising technology platform for managing digital advertising campaigns.
+
+The data our Platform collects and processes:
+
+Pseudonymous data such as:
+
+unique cookie and device identifiers
+mobile device advertising identifiers
+IP addresses
+web browsing history from advertising impressions we see
+interest information inferred by us from web browsing history
+interest information stored and/or used on the Platform by clients and partners
+location information
+browser and device type, version and settings
+hashed email addresses and other identifying information (or information derived from such)
+
+
+How the Platform collects data:
+
+Some of the ways the Platform collects data include:
+
+from partners sending us requests for ads on websites, mobile applications, smart televisions, video devices, and other media
+using cookies and pixels
+from clients and partners uploading data to our platform
+from clients and partners using our technology to collect data
+through the delivery of advertising
+
+
+The purposes for which the Platform processes data:
+
+The Platform processes data both on our behalf and on behalf of clients and partners for advertising purposes such as:
+
+personalizing ads
+delivering ads
+limiting the number of times you see an ad
+measuring effectiveness of ads
+reporting on ad campaigns
+maintaining ad transaction records
+attributing purchases or other actions to ads
+associating devices that might be related to each other
+preventing malicious or invalid activity
+
+
+Sharing and transfer:
+
+We share data with other parties such as:
+
+clients and partners to help improve the effectiveness of their, and their clientsâ advertising
+service providers who perform certain services on our behalf 
+if we think it is required by law
+
+In addition, much of the data collected on the Platform belongs to our clients and partners.
+We may transfer data from the country of origin to the US or other countries.
+We do so under a valid legal framework.
+We may also disclose personal information in response to lawful requests from public authorities, including to meet security or law enforcement requirements.
+
+Security and Data Retention:
+
+We maintain generally accepted security methods to protect data on the Platform.
+We retain pseudonymous data up to 18 months before we aggregate it or remove pseudonymous identifers.
+
+Your rights and choices:
+
+You have rights and choices with respect to the personal data on the Platform.
+More detailed information is available below.
+
+Full Privacy Policy
+
+Below, we explain in detail the type of data we collect, how we collect it, how we use it, and how we disclose it, as well as the choices available to you.
+If after reading this policy you still have questions, please feel free to contact us at privacy ((at)) thetradedesk ((dot)) com.
+
+THE PLATFORM
+
+The Platform allows advertisers and advertising agencies to manage digital advertising campaigns.
+We operate as a Demand Side Platform.
+meaning, we represent the demand side of the digital advertising marketplace, in which advertisers and agencies with ads to display are the âdemandâ and publishers with space for such ads on web pages, apps, smart TVs and other digital properties are the âsupplyâ.
+Digital advertising uses data to make ads more effective and to measure their effectiveness.
+Without data our advertiser clients wouldnât know, for example, if 100 different users each saw an ad, or if one user saw the same ad 100 times.
+This data is crucial to online and mobile content.
+Without data like this, advertisers would pay publishers much less, forcing publishers to either show more ads or make users pay for their content.
+Advertisers and their agencies collect and use data on the Platform in different ways.
+They may bring their own data to the Platform, collect data using the Platform, or remove their data from the Platform.
+
+
+THE DATA THE PLATFORM COLLECTS AND PROCESSES
+
+The Platform collects and processes pseudonymous data about users, devices, and ads and where theyâre shown.
+This includes:
+
+unique cookie identifiers
+mobile device advertising identifiers
+IP addresses
+interest information stored and/or used on the platform by clients and partners
+interest information we create
+other information about browsers and devices, such as type, version and settings
+location information based on IP address or latitude/longitude coordinates, if provided to us
+information about ads that are shown, such as which ads are shown to a device or user, where (which web page or app) they are shown, and at what time
+hashed email addresses and other identifying information (or information derived from such)
+
+The Platform collects and processes Unified ID 2.0.
+To learn more click here.
+
+HOW THE PLATFORM COLLECTS DATA
+
+The Platform receives data in several ways, including the following:
+
+
+Advertisers and agencies may bring or collect their own information via features on our Platform (for example, that they collect on their own websites) that we then store and use on their behalf to enhance their advertising campaigns.
+Bid requests, which are sets of information that describe an ad space that is available to be filled.
+We get these requests from the âsupplyâ side of the advertising ecosystem, meaning websites, apps, smart TVs, and others, as well as their agents.
+The requests contain information about the ad space, the device, and sometimes the user, including location information.
+They also usually have an ID that enables us to match the request with information we may already have.
+Third-party suppliers of information used to target and optimize advertising campaigns (for example, by personalizing ads).
+Purveyors of connected TV devices and apps can send us information about the video content viewed on the device or app.
+
+Pixels and cookies, which allow us to recognize web browsers across sites and over time, and therefore to record information about them over time.
+Mobile device IDs, which are provided by the device operating systems, like Appleâs iOS and Googleâs Android, for purposes of allowing mobile apps and their advertising partners to recognize a device over time.
+We use these IDs the same way we use cookies.
+Mobile SDKs are bits of code that some of our partners enable to be placed in mobile apps.
+This enables our partners to send us data about the mobile app and device in association with the mobile device ID.
+After an ad serves, our servers receive a network request from the device on which the ad was shown in order to confirm that the ad was delivered and provide information for us to measure the ad.
+
+
+
+
+
+
+
+COOKIES
+
+Cookies help us by enabling our ability to distinguish between, recognize, and store data about unique web browsers and devices, and to store data on our servers for the advertising purposes described here.
+Our cookie domain is adsrvr.org.
+The Trade Desk ID (TDID) is the main cookie and ID used to recognize web-browser profiles over time across sites.
+The TDID has a lifespan of 1 year from the time you last received an ad from the Platform.
+This lifespan may be updated each time you interact with the Platform.
+In order to be able to transmit requests for ads, and other data about users or devices, between sellers and buyers, and to help show you ads that match your likely interests, we engage in cookie syncing, meaning that we match our cookie IDs to clientsâ and partnersâ cookie IDs.
+We also use non-unique cookies to store cookie-based opt-out choices, when users opt out of targeted advertising.
+
+
+
+THE PURPOSES FOR WHICH THE PLATFORM PROCESSES DATA
+
+The Platform processes data both on our own behalf and on behalf of clients and partners for purposes related to targeting, delivering, measuring and reporting on advertising.
+
+Personalizing ads: We use data to increase advertising relevancy and effectiveness.
+Ad delivery: We may use data to technically deliver an ad and measure success of delivery.
+Frequency and other reporting: We use data to keep track of how many times an ad was shown, as well as where and when.
+Measurement and analytics: We use data to measure how well ads perform, such as whether users clicked on the ad or went to a clientâs store after their ad campaign was shown.
+Reporting: We may use data to measure, attribute, and report on the performance and success of campaigns.
+This includes transaction reporting and verification.
+Clicks and conversions: We may use data to measure actions taken by a user with respect to a particular ad, i.e., a click on an ad, or a download of an app.
+Attribution: We may use data to match particular ad views to subsequent actions taken by a user.
+For example, a car advertiser might be able to see that someone who saw an ad for a car four times, purchased that car.
+This would be done by stitching together data collected from our Platform with the advertiserâs own data and data from other companies.
+In doing so, we donât receive any data that allows us to directly identify the purchaser of the car.
+Cross device graphing: We may use data and algorithms to associate devices that might be related to each other, such as devices used by the same person or in the same household.
+Detection of malicious or invalid activity: We process information in an attempt to prevent malicious activity or invalid ad traffic.
+This may include identifying and preventing purveyors of malware or bots that try to take advertising dollars for ads that arenât shown to real users or that try to harm usersâ devices.
+
+
+
+
+MORE ABOUT PERSONALISATION
+
+As part of our Platform, we may create and use user profiles associated with unique IDs.
+This means that we look at the information associated with the IDs and with the requests for ads, such as the content in which the ad is shown, the time, the geographic location, and the type of device.
+Sometimes we use information about whether or how users responded to ads to find other users who would respond to ads.
+We apply various computational methods on this information to find groupings of IDs that may have certain common interests or characteristics, such as âclothing,â âsports,â âtravel,â âmale,â â25-54,â and so on.
+Our Platform also enables data suppliers to bring data to the Platform that our clients can use on the Platform to improve their ad campaigns.
+Clients can bring their own data to the Platform for their own personalisation.
+Their sources and methods for acquiring this data vary and are subject to our clientsâ own policies and legal obligations.
+We contractually prohibit certain types of data from being introduced onto the Platform, such as sensitive data, as further described below.
+As required under the NAI Code, the Trade Desk discloses standard interest segments that are based on health related information or interests and political information or interests.
+that it makes available in the Platform where permitted by law and self-regulatory rules.
+Data that is considered âsensitiveâ or in special categories according to local rules, including data about children, is subject to restrictions on the Platform.
+Some examples of sensitive data may include your social security number and financial account numbers, and may also include information related to your health, such as information on certain past, present, or future medical conditions.
+Our contracts prohibit clients and partners from using data on the Platform that is from or about users that they know are children or that is considered sensitive or special.
+We do not knowingly use such data on the Platform.
+
+
+
+EUROPEAN UNION CONTROLLER/PROCESSOR DESIGNATION AND LEGAL BASES
+
+If you are based in the European Economic Area (EEA) or Switzerland, The UK Trade Desk Ltd.
+is responsible for processing your personal information.
+Under the definitions of âControllerâ and âProcessorâ in EU law, this processing is in some cases as a Controller of data and in some cases as a Processor.
+The Trade Desk is a Controller, for example, of personalised user interest segments that we create for our Platform, when we have appropriate permissions to do so.
+When we collect data for personalisation from requests for ads that we receive as described above, under EU law, we will use consent as our legal basis for doing so.
+We process data for other purposes when we have a legitimate interest in doing so and that interest is not outweighed by the rights or freedoms of individual data subjects.
+
+
+
+SHARING AND TRANSFER
+
+We will share your information with third parties only in the ways that are described in this policy.
+
+Some of the data processed on the Platform belongs to our clients.
+When this is the case, our clients can take this data, such as records of advertising impressions, off of the Platform.
+We also may share this data with third parties on their behalf pursuant to their instructions.
+We share pseudonymous IDs that we think might be related to other pseudonymous IDs with clients and partners that use our AdBrain product.
+Some of our clients and partners receive bid request data through the Platform for advertising purposes.
+We may share data in order to investigate or prevent reasonably suspected malicious activity, fake traffic, or other activity that may be harmful to us or our clients.
+We may share data with our service providers that store or process data in furtherance of the services we offer on the Platform on our behalf.
+We may transfer data to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
+
+We may share aggregated data that does not include individual-level records with any party or publicly.
+We may disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+We transfer personal data to countries other than the country in which it was collected.
+We do so under a valid legal framework.
+If we receive data and transfer it on to a third party acting as an agent on our behalf, we will take appropriate measures to ensure that the third partyâs processing of the data is in accordance with the framework.
+
+INTERNATIONAL TRANSFERS
+
+We transfer data from the EEA or Switzerland to the US under a valid transfer mechanism.
+If there is any conflict between the terms in this policy and such mechanism, the terms of the transfer mechanism shall govern.
+We commit to resolve complaints about our collection or use of your personal data and are subject to enforcement by the US Federal Trade Commission.
+EU and Swiss individuals with inquiries or complaints regarding our privacy policy should first contact us at privacy ((at)) thetradedesk ((dot)) com or at the address listed in the âContactâ section of this policy.
+If you have unresolved privacy or data use concerns that we have not addressed satisfactorily, please contact our U.S.
+based third-party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+Note on Privacy Shield: On July 16, 2020, the European Court of Justice issued a judgement declaring Privacy Shield invalid.
+We now rely on other transfer mechanisms for the cross-border transfer of data.
+However, The Trade Desk continues to live up to its obligations under the program.
+Under certain conditions specified by the Privacy Shield Principles, you may also be able to invoke binding arbitration to resolve your complaint.
+Please click here for more information or to submit a complaint.
+
+SECURITY AND DATA RETENTION
+
+We retain the pseudonymous data collected on our Platform for up to 18 months.
+After 18 months (often sooner) the data is de-identified or aggregated and stored for up to 3 additional years.
+This retention policy does not apply to client or partner data.
+We have implemented security measures, including physical, electronic and administrative safeguards, to prevent the unauthorized access to, loss, misuse, or alteration of the information that our Platform collects.
+We believe these measures are appropriate given the nature of the data and our systems, but we make no assurances in this policy about our ability to prevent any such event or the possible harm to you or any third party that could arise from it.
+
+YOUR CHOICES
+
+
+Industry opt-out pages.
+The online advertising industry provides websites from which you may opt out of interest-based advertising from the Trade Desk and other companies that participate in industry self-regulatory programs.
+The US-based opt out pages are www.aboutads.info/choices and www.networkadvertising.org/choices.
+The European based page is www.youronlinechoices.com.
+In Canada, use youradchoices.ca/choices.
+
+For mobile apps.
+You can opt out of the Trade Desk using information about your usage of mobile apps that are targeted to your interests by using your device settings, for most devices.
+We are not able to directly access the Mobile App Opt Out on devices that offer it.
+To learn how to use the mobile app opt out, consult your device instructions.
+To find information on Opting out on Mobile Devices please visit http://www.networkadvertising.org/mobile-choice
+
+For Internet Connected TVs. Many connected TVs and related devices offer a choice mechanism similar to those offered by mobile devices.
+When received, the Trade Desk will honor these signals.
+To find out more, including device specific instructions, please visit visit https://www.networkadvertising.org/internet-connected-tv-choices/
+
+The Trade Deskâs Data Control Page.
+You are able to opt out of having new data associated with your device and to request that we disassociate from your device data we already have.
+You can directly access the Trade Deskâs opt out, which will cease data collection and disassociate data from your device, by visiting http://www.adsrvr.org
+.
+
+
+YOUR RIGHTS
+
+You may have certain legal rights with respect to data the Trade Desk collects and processes in association with your device.
+These rights may include the right of access, deletion and correction of personal data.
+These rights may be limited, for example if fulfilling your request would reveal personal data about another person, if they would infringe the rights of a third party (including our rights) or if you ask us to delete information which we are required by law to keep or have compelling legitimate interests in keeping.
+We will inform you of any relevant exemptions we rely upon when responding to any request you make.
+To make a request to exercise any of these rights, please email dsr ((at)) thetradedesk ((dot)) com.
+We may take reasonable steps to confirm your identity.
+You will not be discriminated against for the exercise of such rights (for example, we will not provide you with a different level or quality of goods or services).
+For further information relevant to California residents, please click here.
+
+CHANGES TO OUR POLICIES
+
+We may revise this policy at any time.
+However, if we make material changes, we will not apply them retroactively.
+
+
+
+CONTACT US
+
+You may contact us regarding privacy.
+Email: privacy ((at)) thetradedesk ((dot)) com
+
+
+Global Data Protection Officer (DPO) The Trade Desk, Global Privacy Office 42 N.
+Chestnut St., Ventura, CA 93001 Email: dpo ((at)) thetradedesk ((dot)) com
+If you have a concern regarding our privacy practices, please contact us via the contacts above.
+If after reasonable efforts you believe your concern has not been satisfactorily addressed by us:
+
+In the US, our privacy practices are regulated by the Federal Trade Commission.
+In the EU, we recommend you contact the Information Commissionerâs Office (ICO) of the United Kingdom.
+

@@ -1,0 +1,277 @@
+
+         Ã  We use cookies to improve the functionality of our products and services, and enhance your experience on our website.
+If you continue without changing your cookie settings, we assume you are happy to receive all cookies on the website.
+However, you can change your cookie settings anytime.
+Read our Cookie Policy for more information..
+
+
+ Products 
+
+
+Buy/Sell Cryptocurrency
+Coinbase Pro
+Coinbase Prime
+Developer Platform
+Coinbase Commerce
+
+
+Help
+
+
+ Prices 
+Sign In
+Sign Up
+ Legal 
+User Agreement
+Privacy Policy
+Cookie Policy
+Licenses
+Insurance
+ Market Data 
+Trading Rules
+FAQ
+ Coinbase Markets Trading Rules Coinbase Markets is Coinbase's set of limit order books that are accessed by clients through the Coinbase Pro and Coinbase Prime trading platforms.
+The following set of Trading Rules governs orders placed via these trading platforms. 1.
+Trading on Coinbase Pro and Coinbase Prime 1.1 Coinbase operates a central limit order book trading platform, and settles trades in a number of Digital Asset and Fiat Currency Trading Pairs.
+Each Traderâs Account will list which Order Books are available to the Trader. 1.2 Orders 1.21 To place an Order on an Order Book, a Trader must have an Available Balance of the relevant Asset in their Account which is sufficient to cover the total value of the Order plus any applicable fees.
+1.22 When a Trader places an Order, that quantity of the relevant Asset becomes subject to a Hold.
+1.23 A Trader can place an Order as either a Limit Order, a Market Order, or a Stop Order.
+1.24 A Trader may cancel an open Maker Order or Stop Order at any time before it is Filled.
+No fees are charged for canceled Orders. 1.3 Limit Orders 1.31 A Limit Order is an Order to buy or sell a specified quantity of an Asset at a specified price.
+1.32 A Limit Order will only ever Fill at the specified price or a better price.
+1.33 A Limit Order with âpost-onlyâ selected will only be posted to the Order Book if it would not be posted at the same price as an existing Order on the Order Book.
+A Limit Order with âpost-onlyâ selected will always be a Maker Order.
+1.34 A Limit Order without âpost-onlyâ selected will be immediately posted to the Order Book (subject to any Time in Force Instructions) and can result in a Maker Order or a Taker Order, or an Order that is partially a Maker Order and partially a Taker Order.
+1.35 Limit Orders may be placed with one of the following Time in Force Instructions.
+
+Good til canceled: if posted, the Order will remain on the Order Book until canceled by the Trader.
+This is the default Time in Force Instruction.
+Immediate or Cancel: the Order will only be posted to the Order Book to the extent that it would be immediately Filled.
+any remaining quantity is canceled.
+This results in a Taker Order.
+Fill or Kill: the Order will only be posted to the Order Book if it would be immediately and completely Filled.
+This results in a Taker Order.
+ 1.4 Market Orders 1.41 A Market Order is an Order to buy or sell a specified quantity of an Asset at the best available price of existing Orders on the Order Book.
+1.42 There is no guarantee that a Market Order will Fill at the price specified.
+A Market Order may Fill at a number of different prices, based on the quantity of the Market Order and the quantities of the existing Orders on the Order Book at the time.
+1.43 Depending on the volume and prices of Orders on the Order Book at the time when a Market Order is posted, the Market Order may Fill at a price less favorable than the most recent trade price, in some cases significantly so.
+This is commonly referred to as âslippageâ.
+1.44 A valid Market Order will be immediately posted to the Order Book.
+A Market Order is always a Taker Order. 1.5 Stop Orders 1.51 A Stop Order is an instruction to post an Order to buy or sell a specified quantity of an Asset but only if and when the last trade price on the Order Book equals or surpasses the Stop Price.
+1.52 Once a Stop Order has been placed, it is considered âactiveâ until it executes by posting the relevant Order when the Stop Price is triggered.
+1.53 A Stop Order is not posted to the Order Book and is not visible to other Traders, but any resulting Order is posted and visible.
+All Stop Orders are placed without 'post-only' enabled.
+1.54 A Stop Order must be placed as a Stop Limit Order which posts a Limit Order when the Stop Price is triggered.
+1.55 A Stop Limit Order is not guaranteed to Fill.
+The Web Interface will display a warning each time a Trader attempts to place a Stop Order.
+1.56 Stop Orders may be placed with one of the following Time in Force Instructions.
+
+Good til canceled: if posted, the Order will remain on the Order Book until canceled by the Trader.
+This is the default Time in Force Instruction.
+Good til time: if posted, the Order will remain on the order book until a certain time is reached or the Order is canceled by the trader.
+ Warnings The Web Interface will display a warning to Traders who attempt to place an Order which would completely or partially fill at a price which is more than 2% away from the last trade price (slippage warning). 1.6 Posting of Orders to the Order Book 1.61 (Taker Order) If an Order is posted to the Order Book at the same price as one or more existing Orders, it is a Taker Order which will result in an immediate Fill at that price, to the extent of the total quantity of those existing Orders.
+1.62 (Maker Order) To the extent that an Order is posted to the Order Book at a different price to all existing Orders, it is a Maker Order which will remain open at that price on the Order Book until:
+
+It is canceled by the Trader;
+It expires due to a Time in Force Instruction.
+or
+It is completely Filled by one or more Taker Orders placed by another Trader at the same price.
+ Order Protections 1.63 Market Orders and Limit Orders are subject to a 10% protection point.
+Market and Limit orders will fill at prices up to 10% from the mid-point price between the best bid and best offer on the Order Book at the time the order was placed.
+If a Market or Limit Order would fill against orders beyond the protection point, the Order will partially fill up to the 10% price level and the matching engine will cancel all remaining portions of the Order. Order Minimums/Maximums 1.64 Order Minimums: All Market Orders, Limit Orders, and Stop Orders placed on Coinbase Markets are subject to the minimum order size requirements listed at https://pro.coinbase.com/markets.
+1.65 Order Maximums: All Market Orders, Limit Orders without 'post-only' selected, and Stop Orders placed on Coinbase Markets are subject to the maximum order sizes listed at https://pro.coinbase.com/markets.
+1.66 'Post-only' Limit Orders do not have a maximum order size.
+The size can be in any increment of the base currency above the minimum order size requirements.
+1.67 Updating Order Parameters: Coinbase Markets will periodically update these Order Minimums, Order Maximums, and total number of Orders allowed per Order Book to reflect the current state of our marketplace and the notional value of the assets.
+https://pro.coinbase.com/market 1.7 Matching Engine and Order Priority 1.71 Coinbase Markets matches Taker Orders with Open Maker Orders on each Order Book based on Price-Time Priority.
+1.72 Price-Time Priority means that each time a Taker Order is posted:
+The Taker Order is matched with the earliest in time Maker Order at the best price on the Order Book.
+and
+To the extent that the Taker Order is not completely Filled by that Maker Order, it is matched with any subsequent Maker Orders at that price, in the sequence those Maker Orders were posted.
+and
+To the extent that the Taker Order is not completely Filled by one or more Maker Orders described above, it is matched with one or more Maker Orders at the next best price, in the sequence those Maker Orders were posted, and this process is repeated until the Taker Order is completely Filled.
+1.73 All Traders on accessing Coinbase Markets are subject to the same Price-Time Priority.
+1.74 Subject to Time in Force Instructions, an Order may be matched with a number of corresponding Orders at the same price.
+1.75 Taker Orders are matched with the best available existing Maker Orders.
+This means that a Limit Order placed outside the market (i.e.
+a sell Order below the highest existing buy Order, or a buy Order above the lowest existing Sell Order) will be Filled by the best available existing Order rather than an existing Order with the same price as the Limit Order. 1.8 Fills and Settlement 1.81 When a Maker Order is matched with a Taker Order, those Orders are Filled.
+An Order may be matched with and Filled by one or more Orders at the same price.
+1.82 Coinbase Markets settles all Filled Orders immediately, by debiting and crediting the relevant balances of Assets in both Tradersâ Accounts.
+1.83 Subject to daily withdrawal limits a Trader may immediately withdraw all Assets in their Account. 1.9 Trading Fees 1.91 Coinbase Pro and Coinbase Prime charge a Maker fee for each Maker Order and a Taker fee for each Taker Order that is posted to the Order Book.
+The fee is charged in the Quote Asset and is calculated as a percentage of the Order quantity.
+1.92 A fee is charged by debiting the Traderâs Available Balance for the amount of the fee at the time that the Order is posted.
+1.93 If an Order is posted to the Order Book partially as a Maker Order and partially as a Taker Order, a Maker fee applies to the portion posted as a Maker Order and a Taker fee applies to the portion posted as a Taker Order.
+1.94 Fees may vary between Order Books.
+The current fee rates can be found at pro.coinbase.com/fees and prime.coinbase.com/fees.
+1.95 Volume-based fee discounts are available to all traders based on trades over the trailing 30 day period across all order books. 2.
+Market Integrity 
+All Trades are Final
+
+2.1 All Fills are final and will not be reversed unless:
+
+Coinbase is compelled to do so by any applicable law or regulation.
+or
+Due to a serious technical error, Orders or Fills do not occur as specified in these Rules - in which case Coinbase will make all reasonable efforts to restore all Traders to the position they would have been in had the error not occurred.
+
+2.12 Coinbase may cancel Open Orders in the following circumstances:
+
+Orders placed by Traders who, in our sole discretion, have engaged in abusive use of the platform, for example, Market Manipulation, or using the API in a manner which unreasonably burdens the platform.
+Orders which under the circumstances involve an obvious error with respect to price, quantity, or other parameters - a âclearly erroneous transactionâ.
+If required by any applicable law or regulation, including specifically where Coinbase is required to suspend or terminate a Traderâs Coinbase Pro Account, Coinbase Prime Account or Coinbase Account.
+If required for technical reasons.
+ 2.2 Access to Coinbase Pro and Coinbase Prime 2.21 All Traders have equal access to the Coinbase APIs and Web Interfaces.
+Coinbase does not provide prioritized access to any Trader.
+2.22 Coinbase Market Operations has the authority to take any action deemed appropriate to preserve market integrity.
+Such actions include, but are not limited to, the halting of trading, modifying risk-mitigating parameters, restricting Trader access to Coinbase Pro or Coinbase Prime, restricting order types to post-only or limit only, canceling orders resting in the order book, or any other actions deemed to be in the best interest of the Exchange. 2.3 Interruptions 2.31 If technical reasons prevent or degrade Tradersâ ability to place or cancel Orders, or prevent or degrade access to Coinbase APIs or the Web Interfaces or affect the operation of Coinbase Markets Order Books or matching engines, then Coinbase may, in its discretion, take one or more of the following actions in respect of one or more Order Books;
+
+Temporarily disable depositing or withdrawing Assets.
+Cancel Open Orders.
+Disable the ability to place new Orders (Cancel-Only Mode).
+Disable sign-in.
+Disable the Coinbase Pro or Prime APIs.
+Disable access to the Web Interface.
+
+2.32 If access to Coinbase Pro or Prime through the Web Interface is unavailable for 5 minutes or longer, Coinbase will move Coinbase Pro and Prime to Cancel-Only Mode as soon as possible.
+2.33 If Coinbase Pro or Prime is in Cancel-only Mode, it will be restored to fully operational only after access through the Web Interface becomes available for at least 5 minutes and Coinbase deems is it safe to restore Coinbase Pro and Prime to fully operational.
+2.34 Coinbase will notify Traders of the move to or from Cancel-Only Mode via @CoinbaseMarkets on Twitter or status.pro.coinbase.com and status.prime.coinbase.com 2.4 Self-trade Prevention 2.41 Traders are not able to place an Order which would result in self-executionâi.e., where the same Trader would act as both the maker and taker for the trade.
+2.42 If two Orders of the same quantity would result in self-execution, both Orders are canceled.
+2.43 If two Orders of different quantities would result in self-execution, the smaller Order is canceled and the larger order is decremented by an amount equivalent to the smaller quantity.
+The remainder of the larger order remains Open. 2.5 Flash Crashes and Circuit Breakers 2.51 Coinbase Markets does not use circuit breakers or automated trading halts based on predetermined price bands.
+As provided in Section 2.22 and 2.31, Coinbase Markets Market Operations may, in its discretion, halt trading. 2.6 Market Manipulation Prohibited 2.61 Traders are prohibited from engaging in Market Manipulation.
+2.62 Market Manipulation of any kind is strictly prohibited.
+Market Manipulation is defined as actions taken by any market participant or a person acting in concert with a participant which are intended to:
+
+Deceive or mislead other Traders;
+Artificially control or manipulate the price or trading volume of an Asset.
+or
+Aid, abet, enable, finance, support, or endorse either of the above.
+This may include actions on Coinbase Pro/Prime and/or outside of Coinbase Pro/Prime.
+
+2.63 Market Manipulation specifically includes, without limitation: front-running, wash trading, spoofing, layering, churning, and quote stuffing. 3.
+Access to Information 3.1 All Traders have full and equal real-time access to Market Data.
+Market Data is made available through the Web Interface or the Coinbase Pro or Prime APIs.
+3.12 Market Data comprises the following:
+
+All Limit Orders placed on the Order Book (price, quantity, and time).
+All canceled Orders on the Order Book (price, quantity, and time).
+All Fills or Executions (price, quantity, and time).
+
+3.13 Market Data does not include the following:
+
+Resting Stop Orders (Stop Orders that have been placed but not triggered)
+Any information about which Trader placed or canceled an order.
+ 3.2 Coinbase Corporate Operations 3.21 Coinbase, Inc., which owns and operates Coinbase Pro and Prime, also trades its own corporate funds on Coinbase Pro and Prime.
+3.22 Coinbase does not have any special priority and is subject to the same Price/Time/Priority and fee structure as all other Traders.
+3.23 The Coinbase application which trades on Coinbase Markets only trades based on Market Data and does not have access to inside information.
+It does not engage in any front-running. 3.3 Coinbase Employee Access 3.31 Coinbase policies prohibit all Coinbase employees from using inside, corporate or proprietary information to trade Digital Assets.â¨
+3.32 Coinbase Employees are required to trade Coinbase supported assets on Coinbase products (either Coinbase Consumer or Pro), subject to Coinbaseâs employee trading policy and trade surveillance program. 4.
+Scheduled Downtime 4.1 From time to time, Coinbase Pro or Prime may suspend trading temporarily for maintenance or upgrades.
+Absent extenuating circumstances, Coinbase Pro and Prime will follow this process for closing and re-opening trading;
+
+Step 1: Announce Scheduled Downtime
+
+Announce scheduled downtime via status.pro.coinbase.com, status.prime.coinbase.com, or Twitter
+
+
+Step 2: Scheduled Downtime Begins
+
+Step 3: Immediately after Scheduled Downtime is Completed
+
+All books enter 'post-only' mode
+Announce the above via status.pro.coinbase.com or status.prime.coinbase.com
+To ensure a fair and orderly marketplace, Coinbase Market Operations may in its discretion cancel all resting limit orders in an order book before moving the market to post-only mode or to limit-only mode
+
+
+Step 4: At least 1 minutes after Step 3.
+or longer if necessary
+
+All books enter Limit-Only mode
+Announce the above via status.pro.coinbase.com, status.prime.coinbase.com, or Twitter
+
+
+Step 5: At least 10 minutes after Step 4.
+or longer if necessary
+
+All books enter Full-trading mode
+Announce the above via status.pro.coinbase.com
+ 5.
+Definitions In these Coinbase Markets Trading Rules, the following words and phrases have the corresponding meanings.
+
+
+Account means a Traderâs Coinbase Pro or Prime Account.
+
+Asset means a Digital Asset or Fiat Currency.
+
+Available Balance means a Traderâs Total Asset Value less any amounts held for Open Orders and fees.
+
+Base Asset means the Asset being traded on the Order Book.
+the first Asset in the Trading Pair.
+For example, on the BTC-USD Order Book, BTC is the Base Asset and USD is the Quote Asset.
+
+Cancel-only Mode means that Traders cannot place new Orders.
+Traders are able to cancel open Orders.
+No Orders will be filled.
+
+Digital Asset means a blockchain-based digital currency, app coin or protocol token which is offered for trading on Coinbase Pro or Prime.
+
+Fiat Currency means a government-issued currency.
+
+Fill means a match of two Orders.
+Also referred to as an execution.
+
+Full Trading Mode means normal operation of Coinbase Pro and Prime.
+Traders can place Market Orders and Limit orders and can cancel Orders.
+â
+
+Hold means the setting aside of Assets allocated to an Order.
+
+Limit Order means an Order to buy or sell a specified quantity of an Asset at a specified price.
+
+Limit-only Mode means that Traders can only place and cancel Limit Orders but any Market Order will be rejected.
+During this mode, Limit Orders can be filled.
+
+Market Order means an Order to buy or sell a specified quantity of an Asset at the best available price of existing Orders on the Order Book.
+
+Order means an instruction to buy or sell a specified quantity of the Base Asset at a specified price in the Quote Asset.
+
+Order Book means each order book on which Orders are placed for trading in a Trading Pair.
+
+Open Order means a Maker Order which has been posted but not Filled, canceled or expired, or a Stop Order which is currently active.
+
+Post-only Mode means that Traders can only place an Order if it would be posted to the Order Book as a Maker Order.
+An Order which would be posted as a Taker Order will be rejected.
+No Market Orders may be placed and no Orders will be filled.
+Resting orders may be canceled in post-only mode.
+
+Price-Time Priority means that earlier in time Orders have priority over later Orders.
+See sections 1.23 and 1.24.
+
+Quote Asset means the Asset in which trading is denominated on the Order Book.
+the second Asset in the Trading Pair.
+For example, on the BTC/USD Order Book, BTC is the Base Asset and USD is the Quote Asset.
+
+Scheduled Downtime means a planned temporary outage for maintenance or upgrades.
+See section 4.
+
+Stop Order means an instruction to post an Order to buy or sell a specified quantity of an Asset but only if and when the last trade price on the Order Book equals or surpasses the Stop Price.
+
+Stop Price means the price specified in a Stop Order.
+
+Total Asset Value means the gross value of all of a Traderâs Assets for the relevant Order Book, expressed in the Quote Asset based on the last trade price.
+This includes all Assets allocated to Open Orders.
+
+Trader means each customer trading on Coinbase Pro and Prime.
+Trading Halt means that Traders cannot place or cancel any Orders.
+
+Trading Pair means each pair of a Base Asset and a Quote Asset offered on Coinbase Pro and Prime.
+Web Interface means the user interface available through https://pro.coinbase.com and https://prime.coinbase.com.
+
+
+Â© 2020 Coinbase Products Buy/Sell Cryptocurrency Coinbase Pro Coinbase Prime Developer Platform Coinbase Commerce Learn Buy Bitcoin Buy Bitcoin Cash Buy Ethereum Buy Litecoin Supported Countries Status Company About Careers Press Legal &amp.
+Privacy 
+User Agreement
+Privacy Policy
+Licenses &amp.
+Disclosures
+ Support Social Blog Twitter Facebook Language 
+

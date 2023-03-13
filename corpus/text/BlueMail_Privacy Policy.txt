@@ -1,0 +1,195 @@
+
+        Privacy PolicyBlueMail is a mobile, web and desktop application (âApplicationâ) made with love by Blix Inc.
+The Application helps you manage your email and calendar using various functionalities and features (the âServicesâ we provide through the Application).
+In order to facilitate the Services, we also have our server-side operations (our âCloudâ).
+This Privacy Policy explains how we collect, store, use and otherwise process personal information and maintain your privacy and security.
+Capitalized terms that are not otherwise defined in this Privacy Policy have the meaning given them in our Terms of Service.
+If you do not agree with the Terms of Service or with any of the provisions of this Privacy Policy, please do not install the Application, and do not access or use the Services, including the Website.
+We are committed to protecting and respecting data privacy.
+As explained below, we do not store your emails on our servers, and we do not sell your data.
+This Privacy Policy contains the following information.
+
+
+
+What information do we collect?
+How do we use the information we collect?
+Whether and how the information is shared
+Communications
+Your rights as a data subject
+Data Retention
+Security
+Transfers of information across boundaries
+ Google API Services - Usage Disclosure
+Children
+Updates to Privacy Policy
+Contact us
+
+
+1.
+What Information do we collect?1.1 Information that you provide to us:
+
+
+When you install or access the Application and set up your account, you provide us with your email account addresses (for the accounts you wish to manage through the Application), your display name of each of your email accounts (Optional) â this could be your actual name, or a nickname you choose, Your Photo (Optional) â if you choose to upload it as your account avatar.
+You may choose to upload another photo, but you need to make sure you have the appropriate rights to use this photo.
+When you contact us to seek our customer support, we may obtain and maintain any information you choose to provide, including your name, your email addresses, as well as information about your mobile device such as its device type OS type and any information concerning your use of the Application.
+Sync Services â you may use the optional Sync Services to allow synchronization of data such as your Application settings, contacts, remarks and tasks which are securely stored on our Cloud.
+We may ask you to provide your phone number to send SMS text message verification.
+When you create a group, we save on our Cloud the group name, avatar, notes and email addresses of the group members.
+When you use the Smart Filter feature, you provide us with the email addresses you interact with.
+You can disable Smart Filter at any time from the Application settings.
+You can report emails whether misclassified, safe or malicious, to our Cloud for analysis, sharing, debugging and classification.
+You can share a link to an email by uploading it to a Cloud sharing service.
+Instant Push Services (Optional) for iOS and OAuth supported email accounts â if you are using imap and exchange email accounts on iOS, or OAuth supported email accounts and configure your settings to allow push notifications (BlueMail Cloud sends push notifications to your mobile device when you have a new email), we will we keep either the OAuth token or encrypted credentials.
+When using the Instant Push Services for those accounts, we receive the email headers including to, from, subject and a small portion of the body.
+The information will be deleted immediately after sending the Push notification.
+Advanced Features for iOS only (Optional) â If you enable VIP Notifications feature for iOS, our Push Services will need access to the VIP email addresses which accordingly will be stored on Cloud.
+When using the Send Later feature for iOS â the outgoing email (its content, header, emails of recipients) is temporarily stored encrypted on our Cloud.
+We will then attempt to send the email at the requested time and will delete the email once it is sent successfully.
+
+
+Are you obligated to provide us with this private data?You are not obligated to provide us with any of the above information.
+However, we will not be able to provide you with the Application and Services or part of them, as applicable, if you do not agree, or withdraw your consent, or request to object (all as detailed under section 5 with respect to your rights) to our processing of these data items.1.2 Information that we collect from third parties:Analytics for Web and MobileWe use web and mobile analytics software to measure traffic and usage patterns and to help us better understand the functionality of the Application on your device or general information regarding how users use the Application.
+When using our Website, the web analytic tools collect information sent by your browser, including the pages you visit and other information that assists us in improving the Website.
+The Application on your device may collect information such as what kind of device you are using, how often you use the Application, the way you use the Application (what functions are used for example) performance data (technical issues concerning crashes, operation metrics, memory consumption and that type of information), and which store the Application was downloaded from and send this information Cloud.
+We use this information only to administer, improve, monitor and analyze the use of the Application.Cookie InformationWe use cookies and similar technologies in our Website that help us collect information.
+The Website may also include cookies and similar tracking technologies of third parties such as Google Analytics which may collect information about you via the Website.
+For more details please see our Cookie Policy.Non-Hardware IdentifiersWhen you provision or access BlueMail on a mobile device (like a smart-phones or tablet), we may access, create, monitor or remotely store identifiers such as Instance ID or GUID which uniquely identify our app.
+Only BlueMail can access these identifiers.
+We do not use any hardware identifiers such as Unique Device Identifier (UDID), SSAID (Android ID) and IMEI and we have no way to identify the specific hardware you use.
+These identifiers persist on your device and our Cloud to help you log in faster and enhance your navigation through the Application.
+Some features of the Application may not function properly if these identifiers are impaired or disabled.
+We frequently and securely check the Application version with our Cloud to recommend an upgrade.
+We also securely check for licenses and premium features to allow or prohibit functionalities.2.
+How do we use the information we collect?
+
+
+We use all of the above information to operate, maintain, and provide to you with Application features and functionality.
+We use the email address to establish the accounts you wish to use within the Application, and let you manage your email account through the Application.
+We use your display name to display the different account names as you assigned them.
+We use your information to send you emails with regards to your operation of the Application (e.g., account verification, notify you of changes/updates to features, credentials change, technical and security notices), as well as to send you marketing communications (please see more details regarding this under chapter 4, âCommunicationsâ).
+We may use the above information to respond to your requests and messages, including with respect to your rights as data subject, as well as to initiate contact with you on issues related to the Services or support and maintenance issues.
+We may use the information you provide to allow certain functions to perform as intended.
+For instance, for the Smart Filter â to compare your email contacts with spam email lists we have on our Cloud.
+for the Sync service to be able to perform the requested synchronizations.
+for the send later feature to be able to save and send the email at a later time you defined, etc.
+To prevent, detect and fight fraud or other illegal or unauthorized activities.
+We use anonymized, aggregate data, in order to gain insight on how you and other users use the Services and try and improve our Service, as well as to plan our marketing and advertisements.
+To ensure legal compliance â from our side (to legal requirements that apply to us and to our obligations under the Terms of Use) and from your side (Compliance with laws applicable to you and with the Terms of Use).
+
+
+
+
+Our Legal Bases for Processing
+
+The following are the legal bases under which we process your information in the manners specified above:
+
+
+
+Performance of a contract to which BlueMail and you, the data subject, are parties.
+Many of the uses described above are actions that involve processing of your information in order to meet our undertakings to you and respond to your requests and indications within the Services.
+Legitimate interests: We may use your information where we have legitimate interests to do so.
+For instance, we analyze usersâ behavior on our services to continuously improve our offerings, and we process information for administrative, fraud detection and other legal purposes.
+Consent â some of the information you provide is based on your agreement and will to provide it.
+In addition, we may ask you from time to time, through the Service interface, to provide your consent for specific uses.
+
+
+3.
+Whether and How Your Information is Shared?We will never share, rent or sell your information to third parties outside BlueMail and its group companies (including subsidiaries and affiliates) without your consent, or except as noted below:
+
+
+
+
+Service Providers: We engage third-party business partners to help us provide you with the Services, for instance, Amazon AWS (Cloud hosting and related services) and Google Analytics for usage analytics and statistics.
+Those business partners will be given limited access to your information according to our specific instructions as necessary to provide Services to you.
+
+Compliance with the Law: We may disclose your information if we believe it is necessary in order to comply with the law, such as to comply with a subpoena, regulation or legal request, respond to a government request, to address fraud or security issues, to protect the safety of any person, to enforce our agreements with you.
+to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing or to protect our own rights or property.
+If you are located in the EU, we may only do so based on legal requirements specified above of EU authorities.
+This includes sharing such information with our legal counsels.
+
+Business Transfers: If BlueMail is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be transferred as part of that transaction to a successor in interest and to the applicable legal authorities as well as legal counsels and other professional counsels involved such as accountants, and other officers of the government or of the applicable judiciary instance.
+
+
+
+
+Links to Third Party Websites
+
+This section does not relate to information that we directly convey to third parties.
+We may place links on the Website.
+When you click on a link to a third party website from our website, you will be redirected to such third party site, and your activity and use on the linked website is governed by that websiteâs terms of use, privacy policies and other policies, not by those of BlueMail.
+We encourage you to review their privacy and use policies.4.
+CommunicationsIf you are located in the EU, the following shall apply only if you marked your consent to receive such communications.
+If you are located in the US or elsewhere in the world, the following shall apply for as long as you have not opted-out of this activity:
+We may use the information we collect or receive to communicate with you directly.
+For example, you may receive emails from us containing company updates, promotions, marketing, or special offers.
+We do this to be sure our communications and our products get better over time.
+If youâd rather not receive these emails, you may opt-out of receiving them by following the unsubscribe link located at the bottom of each communication or by emailing us at privacy@bluemail.me.
+Even after you opt-out from receiving communications messages from us, you will continue to receive administrative messages from us regarding our services (such as requirement to upgrade the Application).5.
+Your rights as a data subject
+
+
+You may access and update your information by visiting your account settings within the Application or by emailing us at the email address listed below.
+You can use the panel tool here to view or remove information stored on our Cloud about your email account.
+In case our processing is based on your consent, you have the right to withdraw your consent at any time, by contacting us via email.
+You have the right to object to the processing of your personal data for direct marketing purposes at any time.
+You have the right to object to our processing of your personal data if processing is based on our legitimate interests.
+You have the right of portability with respect to your personal data, in case it is processed by automatic means, and if processing is based on your consent.
+You have the right to request that we erase all of your personal data that we keep, without undue delay, unless processing is necessary as further detailed under âData Retentionâ
+In certain countries, you have a right to lodge a complaint with the appropriate supervisory authority in charge of data protection, in case you think that we are breaching any of your right relating to your personal data.
+If you are located in the EEA, The complaint may be lodged at the country which is your place of residence, your place of work or place of the alleged infringement.
+
+
+
+If you have questions on how to exercise your rights, please contact privacy@bluemail.me.
+We will respond to your access request without undue delay, or within 30 days at the latest (as the law may require)6.
+Data RetentionWe will retain your information for as long as we need it for legitimate business purposes (as laid out in chapter (âHow we use your informationâ) and as permitted by applicable law.
+Once no longer used as stated herein, it will be either deleted or completely de-identified in a manner that does not allow re-identification thereof.
+We will also retain and use your information in the following instances:
+
+
+
+Keep evidence to our compliance with applicable law (for instance, records of consents to our Terms, Privacy Policy and other similar consents are kept for five years).
+If there is an outstanding issue, claim or dispute requiring us to keep the relevant information until it is resolved.
+The information must be kept for our legitimate business interests, such as fraud prevention and enhancing usersâ safety and security.
+For example, information may need to be kept to prevent a user who was banned for unsafe behavior or security incidents from opening a new account.
+
+
+
+Specifically, the following information items are retained for the following time periods:Optional FunctionalityData ItemRetention periodInstant Push Services for iOS and OAuth supported accounts (optional)Email header (to, from, title, portion of the body)Deleted immediately upon push completionSettings Backup (optional)Your phone numberAs long as required to perform the ServicesSynch contacts/tasks (optional)Your contact information, calendar itemsAs long as required to perform the ServicesReport an email (optional)Reported email As long as required to perform the ServicesSend Later for iOS (optional)Email to be sent laterDeleted immediately following the email is sent successfully7.
+SecuritySecurity is extremely important to us.
+We use industry leading security practices to preserve the integrity of all your data.
+For example, when you transmit sensitive information and when you send and receive emails, BlueMail encrypts the transmission of that information using secure socket layer technology (SSL).
+However, no method of electronic transmission or storage is 100% secure, so we cannot guarantee absolute security.
+BlueMail is not responsible for the functionality or security measures of any third party.
+If you have questions about this feel free to contact us at privacy@bluemail.me.8.
+Transfer of PII across boundariesYour information collected through BlueMail may be stored and processed in the United States or any other countries in which we or our affiliates operate.
+To provide the service to you, we may transfer personal information to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
+If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S.
+law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S.
+or any other country in which we or our parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+
+Our legal basis for performing such transfer across boundaries are:
+
+
+
+
+Model Clauses.
+With some of our processors, we use standard contract clauses, that are binding standards of processing of personal data committed to contractually by third parties processing information for us and on our behalf, approved by the European Commission.
+In the absence of Model Clauses, Your consent.
+By using the Service, you agree and understand that your information may be transferred from the EEA or other countries in which you may be using the Services, to other countries outside your own location (including outside the EEA), and specifically to the USA.
+You agree to such transfer, and you understand that data processed in the USA is subject to different data protection laws, which may sometimes grant lesser degree of protection that the privacy laws and regulations applicable within the EEA for example.
+
+
+9.
+Google API Services - Usage DisclosureBlueMail's use and transfer to any other app of information received from Google Accounts will adhere to Google API Services User Data Policy, including the Limited Use requirements.10.
+ChildrenOur Services are not directed to persons under 13.
+We do not knowingly collect personal information from children under 13.
+If we become aware that a child under 13 has provided us with personal information, we will take steps to remove such information and terminate the childâs account.
+If you learn that your child has provided us with personal information without your consent, please contact us at privacy@bluemail.me.11.
+Updates to Privacy PolicyWe may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and to keep up with any new compliance requirements.
+When we change the policy in a material manner, we will update the âlast modifiedâ date at the bottom of this page, post a notice to the Website or Application and/or reach out to you via email or otherwise.
+The most up-to-date version can always be found at bluemail.me/privacy12.
+Contact UsIf you have any questions, please send your inquiries to privacy@bluemail.me support via Privacy Policy.
+We will aim to respond to you within 30 days from receipt of the request.
+Last Modified: December 1, 2020
+Â© 2021 Blix Inc.

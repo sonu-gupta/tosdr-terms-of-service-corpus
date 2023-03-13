@@ -1,0 +1,289 @@
+
+         Policies Open Internet 
+
+ Just looking for the quick facts?
+
+ Looking for information about a different brand in the T-Mobile family?&nbsp.
+Customers on Sprint-branded plans should see Sprintâs Open Internet page for the network management practices that may apply to their service (except for the speeds, coverage, and data prioritization they will experience while receiving service from the T-Mobile network, which are described here).
+Customers on Metro by T-Mobile or Assurance Wireless-branded plans should see their brandâs network disclosure pages for applicable network management practices and expected speeds. Internet Service
+Important information about T-Mobile's Broadband Internet Access Services and T-Mobile's Open Internet Disclosures
+This page provides information about T-Mobile's Broadband Internet Access Services.
+"Broadband Internet Access Services" refers to services that provide the capability to transmit data to and receive data from all or substantially all Internet endpoints.
+The network practices, performance characteristics, and commercial terms applicable to T-Mobile-branded customers on T-Mobile's Broadband Internet Access Services over our 2G, 3G, 4G, and 5G networks are described below.
+This page does not describe the practices, characteristics, or terms that apply when using roaming partner networks.
+domestic data roaming information is available here.
+This page also includes links to other T-Mobile documents containing further information applicable to our Broadband Internet Access Services.
+
+
+This information applies to postpaid and prepaid services, including our government and enterprise services (which may have contractual terms), as well as Broadband Internet Access Services purchased through the Schools and Libraries (E-Rate) program.
+T-Mobile and Sprint are now part of the same family.
+While T-Mobile is working to build a combined network, the Sprint network continues to operate.
+Sprint customersâ traffic may be carried in some areas by the T-Mobile network (e.g., where T-Mobile's network is available and Sprintâs is not).
+These Sprint customers will continue to experience the network management practices disclosed on Sprintâs Open Internet page, but while on the T-Mobile network can expect to experience the speeds, coverage, and data prioritization disclosed on this page.
+For questions or concerns not addressed here, please contact our Customer Care department at www.T-Mobile.com, through the T-Mobile app, by calling 1-800-937-8997 or 611 from your device, or by writing to: T-Mobile Customer Relations, P.O.
+Box 37380, Albuquerque, NM 87176-7380.
+Puerto Rico customers must direct written notices to: T-Mobile Customer Relations, B7 Tabonuco Street, Suite 700, Guaynabo, Puerto Rico 00968-3349, Attn: Customer Care Manager.
+
+What terms and conditions apply to T-Mobile's Broadband Internet Access Services?
+
+Broadband Internet Access Services are subject to the T-Mobile Terms and Conditions at https://www.t-mobile.com/responsibility/legal/terms-and-conditions.
+Specific information about our Broadband Internet Access Services can be found under the heading "Using Our Network." Certain uses of our network are also prohibited as described in our Terms and Conditions under the heading "Examples of Permitted and Prohibited Uses of the Services and Your Device." Features of E-Rate and other government or enterprise customers' use of T-Mobile's Broadband Internet Access Services, including data prioritization, may also be governed by an applicable rate plan terms sheet, government contract, or Major Account Agreement.
+
+What data plans and pricing does T-Mobile offer?
+
+T-Mobile offers mobile Broadband Internet Access Services for smartphones, basic phones, tablets, netbooks, USB modems, mobile hotspot devices and other wireless devices over our 2G, 3G, 4G, and 5G broadband networks.
+Your data plan may feature a designated allotment of high-speed data, after which your data speed may be reduced or your data access may be suspended for the remainder of the billing cycle.
+If your data plan features a designated allotment of high-speed data, certain uses of the network may not count against that allotment.
+
+Your plan includes access to the technologies, features, and services that were available and that you purchased when you first activated your current rate plan.&nbsp.
+You may have temporary access to new services while they are being tested or made available for purchase.&nbsp.
+Temporary access to some new technologies, services, or features (e.g.
+advanced 5G use cases) may provide noticeable network experience benefits, like significantly increased speeds, lower latency, or other performance improvements.&nbsp.
+Your temporary access may end at any time, but we may begin offering access for purchase.&nbsp.
+For example, T-Mobile is leading the industry in introducing new messaging capabilities which allow you to send larger file attachments and have bigger chat groups.&nbsp.
+T-Mobile initially gave some users access to this new messaging service whether they had a data plan or not.
+but going forward, you may need to have a data plan or feature to use this new type of messaging and the data used to send and receive them may count towards your data allotments and the prioritization threshold for heavy data users.&nbsp.
+
+
+Many of our plans include video optimization features which, when connected to the cellular network, deliver a DVD-quality (up to 1.5 Mbps, typically 480p) video experience with minimal buffering while streaming.
+Customers may choose a plan where DVD-quality is always enabled (Magenta), with the option to add on a feature where video streams at speeds that provide HD video capability (typically 1080p) on-device (HD Day Pass).
+We also offer a feature or rate plan with up to Ultra HD video capability (max 4K) both on-device and via tethering (MagentaÂ® MAX).
+Customers may also have plans that offer HD video capability (typically 1080p), or that have video optimization as a customer-controlled feature that can toggle on or off DVD-quality video at any time ("Binge On"), so that when enabled, their high-speed data lasts longer.
+Some qualifying video providers may choose to self-optimize their video content or opt-out of the Binge On program, see listing.
+The Binge On optimization technology is not applied to the video services of these providers and high-speed data consumption will continue as if Binge On were not enabled.
+In some instances, video optimization may also identify and treat downloads of video files as if they were real-time video streams.
+However, T-Mobile offers content providers a way to opt-in to a protocol to help identify video downloads and ensure they are not treated as streaming video.
+Additional information, including technical criteria for content provider participation in the Binge On program or video file download protocol, is found here.
+Customers who have plans that are no longer for sale may have different video features available, and should check www.myT-Mobile.com for more information.
+For more information about our current data plans for our services, including prices, terms and conditions, high-speed data allotments and other features, please see the following:
+Customer Plans&nbsp.
+(https://www.t-mobile.com/cell-phone-plans and http://prepaid.t-mobile.com/prepaid-plans)
+Rate Card (https://www.t-mobile.com/ratecard)
+Business and Government Plans&nbsp.
+(https://business.t-mobile.com)
+Schools and libraries seeking to participate in the E-Rate program may be eligible to purchase Broadband Internet Access Services under existing contracts between T-Mobile and government agencies.
+Schools and libraries interested in learning about eligibility to purchase under these contracts and the Broadband Internet Access Services available under these contracts should contact their account representative.
+
+What speeds and performance can T-Mobile-branded Broadband Internet Access Services customers expect? Where are these speeds available?
+
+Many factors affect the speed and performance that customers experience, including the programs running on the device, proximity to a cell site, the capacity of the cell site, weather, the surrounding terrain, use inside a building or moving vehicle, radio frequency interference, how many other customers are attempting to use the same spectrum resources, any high-speed data allotment, the rate plans or features you select, and uses that affect your network prioritization, such as whether you are using Smartphone Mobile HotSpot (tethering) or if you are a Heavy Data User.
+For most T-Mobile-branded rate plans, a "Heavy Data User" is defined as a customer using more than 50GB of data (100GB of data for new Magenta plans activated beginning February 24, 2021) in a billing cycle.
+The threshold number is periodically evaluated across our rate plans and brands to manage network traffic and deliver a good experience to all customers while offering a range of customer choices.
+You can always check the threshold amount for a rate plan by speaking with a representative, review our rate cards or T-Mobile.com,  or by logging in to my.t-mobile.com, or the T-Mobile app.
+The term "Heavy Data User" does not apply to customers on Magenta MAX, a new customer choice we are offering as we explore the expanding capacity of our 5G network, or on a small number of T-Mobile-branded business and government-oriented plans, which are not subject to a threshold.
+In addition, many T-Mobile plans use video streaming optimization when connected to the cellular network to deliver a DVD-quality (up to 1.5 Mbps, typically 480p) video experience with minimal buffering while streaming. T-Mobile plans optimize data streams that are identified by our packet-core network as video.
+video providers may also choose to establish protocols to self-optimize their video. As described above, customers may also have selected other video experiences, up to and including the Ultra HD video capability (max 4K)  on Magenta MAX. 
+Additionally, we prioritize network data by plan and brand to deliver a range of customer choice points at great values.&nbsp.
+Data for customers on most T-Mobile-branded plans (and for customers on Sprint-branded plans while using the T-Mobile network), is prioritized before the data of customers on Essentials plans and Metro by T-Mobile or Assurance Wireless-branded plans.&nbsp.
+Mobile internet plans offered after December 12, 2020 with 30GB or more data per month, and Project 10Million and some other education-focused mobile internet plans, are prioritized next.&nbsp.
+The vast majority of customers on T-Mobile-branded, Sprint-branded, Metro by T-Mobile-branded, and Assurance Wireless-branded plans receive higher priority than the small fraction of customers who are Heavy Data Users on their rate plan, who are prioritized last on the network after exceeding the relevant threshold for the current billing cycle.&nbsp.
+T-Mobile Home Internet (available in select locations) customers receive the same network prioritization as Heavy Data Users, but should be less likely to experience congestion because the equipment is stationary and available in limited areas.
+ 
+
+What is the impact of network prioritization?
+
+As described in more detail below, customers may notice reduced speeds in comparison to customers with a higher priority during network congestion.
+Customer devices also have varying speed capabilities and may connect to different networks depending on technology.
+Even within coverage areas and with broadband-capable devices, network changes, traffic volume, outages, technical limitations, signal strength, obstructions, weather, and other conditions may impact speeds and service availability.
+Your network experience and access may also be impacted if you fail to pay amounts you owe T-Mobile.
+Additionally, T-Mobile offers other services to its customers that use the same network infrastructure and resources as its broadband internet access services and are given priority over other traffic on the network.
+These other services currently include calling-related services: Voice over Internet Protocol (VOIP), Voice over LTE (VoLTE), and Video over LTE (ViLTE).
+more may be added, e.g., to serve public safety needs.
+These services may affect the availability of network resources for consumer or enterprise broadband internet access services, which may be noticeable in times of congestion.
+Similarly, Wireless Priority Service traffic may preempt other traffic during times of extreme congestion, which means that in rare cases we may interrupt an active data or voice session to support public safety needs. Speed and Latency Speed
+The term "speed" is commonly used as a shorthand way to describe the rate at which a particular broadband Internet access service can transmit data.
+This rate (or speed) is typically measured in the number of kilobits or megabits transmitted in one second (Kbps or Mbps).
+Some applications like email or basic web browsing do not require a high-data speed to function very well, while other activities like high-definition video streaming or transferring large data files are better experienced with higher data speeds.
+Latency
+Latency, also known as delay, is the amount of time from when a data packet is sent to when it is received.
+For Broadband Internet Access Services, latency is usually expressed as the round-trip time in milliseconds ("ms") that it takes for a data packet to travel between two end points on the Internet (from point A to point B and then back to point A).
+Some applications, such as email, can tolerate a substantial amount of latency without any noticeable impact on the application's performance, while other applications, such as real-time video conferencing, require lower latency to function properly.
+Based on internal analysis and projections from third-party, crowd-sourced data and subject to the factors described above and below, T-Mobile expects T-Mobile-branded customers (and Sprint-branded customers roaming on the T-Mobile network) with broadband-capable devices and qualifying service will experience the following speeds and latency on our 5G and 4G LTE networks.
+These ranges are projections based on roughly the 25th and 75th percentiles of network tests.
+5G Network (On-Device):
+
+Download speeds: Typically between 38 â 111 Mbps
+Upload speeds: Typically between 10 â 34 Mbps
+Latency: Typically between 21 â 35 ms
+
+5G Network (Wireless Home Internet):
+
+
+Download speeds: Typically between 37 â 110 Mbps
+Upload speeds: Typically between 8 â 24 Mbps
+Latency: Typically between 21 â 35 ms
+
+T-Mobile will provide additional information here regarding speed and latency percentiles as the 5G network is further deployed and more crowd-sourced user data is collected.
+Please review this page for updated information as the 5G rollout is ongoing.
+4G LTE Network (On-Device):
+
+Download Speed: Typically between 9 â 47 Mbps
+Upload Speed: Typically between 4 â 20 Mbps
+Latency: Typically between 30 â 50 ms
+
+ 
+4G LTE Network (Via Smartphone Mobile HotSpot/Tethering, for Plans Including 4G LTE Tethering, and for our Mobile Internet plans offered after December 12, 2020 with 30GB or more per month, and Project 10Million and some of other education Mobile Internet plans):
+
+Download Speed: Typically between 5 â 31 Mbps
+Upload Speed: Typically between 3 â 15 Mbps
+Latency: Typically between 30 â 50 ms
+
+4G LTE Network (Wireless Home Internet):
+
+Download speeds: Typically between 30 â 115 Mbps
+Upload speeds: Typically between 6 â 23 Mbps
+Latency: Typically between 26 â 45 ms
+
+
+These ranges represent network performance nationally and may differ from future network conditions or from what you purchased as part of your current rate plan when you first activated it.
+As described above, your experience may also differ based on, e.g., your choice of rate plan and device, or the number of devices connected to the router in the case of Home Internet.
+You may occasionally experience speeds, latency, or other network capabilities outside the ranges available as part of your service.
+T-Mobile constantly works to improve performance on its network and to pursue advanced and next-generation technologies and services.
+For example, T-Mobile is in the process of deploying its 5G network, including layering millimeter wave, mid-band, and low-band spectrum over the LTE network, and rolling out and low-band 5G. Currently, T-Mobile's 5G millimeter wave network is available in select areas (see https://www.t-mobile.com/devices/samsung-galaxy-s10-5g#maps).
+The low-band 5G network is available nationwide, although coverage may not be available in some areas (see https://www.t-mobile.com/coverage/5g-coverage-map).
+Devices operating on T-Mobile's nationwide 5G network may use multi-band dual connectivity.
+customers with 5G-compatible devices may receive service via both T-Mobile's 4G LTE network and its 5G network to support their connectivity.
+In recent years, T-Mobile has aggressively built out its high-speed data networks so nearly all customers have regular access to high speeds.&nbsp.
+In those rare instances where customers are not able to receive an LTE/5G signal, T-Mobile provides other connections (2G, 3G, and 4G HSPA+) in many areas.&nbsp.
+These connections are used by the small percentage of customers without LTE/5G-capable devices or, in limited cases, when customers with LTE/5G-capable devices are unable to connect to the LTE network. T-Mobile may limit activations of new devices on these older technologies as we transition our network to newer technologies.
+see a sales representative for the latest options.
+Based on internal and crowd-sourced testing, we expect T-Mobile-branded customers (and Sprint-branded customers roaming on the T-Mobile network) with broadband-capable devices during use of these older technologies to typically experience average download speeds of 1.5 Mbps, average upload speeds of 230 Kbps, and latency between 60 and 180 ms.
+The typical customer experience on T-Mobile's older networks is good for streaming audio, email, and web browsing.
+Some plans may include maximum speeds for some services.
+The Magenta plan includes a set amount of high-speed tethering, after which tethering usage continues at a maximum of 600kbps (3G speeds).
+The T-Mobile Essentials plan includes tethering at a maximum of 600 kbps.
+Customers may choose to activate an add-on feature for a set amount of high-speed tethering data.
+Wearables plans provide a maximum of 600 kbps.
+See your plan for details.
+For coverage information relating to specific geographic areas, see our coverage map.
+Note
+To access a given network technology (e.g., low-band 5G), you must have a compatible device and be within the coverage area for that service (e.g., a low-band 5G device in a low-band 5G coverage area).
+Learn more about device capabilities by reviewing your user manual or find information about devices here (https://www.t-mobile.com/cell-phones).
+Additionally, a 5G-compatible SIM card may be required to access the T-Mobile 5G network.
+As noted above, devices operating on T-Mobile's nationwide 5G network may in some areas use both 4G LTE and 5G signals and dynamically route traffic between the signals to support your connectivity.&nbsp.
+The network architecture providing dual connectivity could result in instances where your device indicates a 5G connection even though you are temporarily utilizing only 4G LTE.
+As 5G technology develops, devices will be able to experience direct and continuous 5G in more places.
+How can I measure my data speeds on the network?
+&nbsp.
+If your data plan features a designated allotment of high-speed data, data used by certain speed measurement applications will not count against that high-speed data allotment to provide accurate and reliable information about network performance without consuming large amounts of your data. See the full list here.
+If your data plan includes data use at reduced speed after you have used your plan's monthly allotment of high-speed data, your data speed will be limited (typically to 64 kbps or 128 kbps) for the remainder of your billing cycle once you have used your allotted high-speed data.
+The results from some speed measuring applications may show current network speeds, rather than the reduced speed that is currently available to you.
+Speed measurement applications other than the ones listed here will show your reduced speed.
+If you use speed tests other than the ones listed here prior to reaching your monthly high-speed data allotment, use of those applications may count against your data allotment.
+How does T-Mobile manage the flow of data on its network?
+&nbsp.
+We engineer our network to provide consistent high-speed data service, but at times and at locations where the number of customers using the network exceeds available network resources, customers will experience reduced data speeds.
+To provide the best possible experience for the most possible customers on their T-Mobile-branded plans, we implement network management practices on a content-agnostic basis, such as caching less data, prioritizing data usage of non-Heavy Data Users, and video optimization. These practices do not discriminate against offerings that might compete against those offered by T-Mobile or any T-Mobile affiliate on the basis of such competition.  
+T-Mobile also addresses the priority needs of emergency communications, law enforcement, public safety, or national security authorities, consistent with or as permitted by applicable law.
+this may impact other usersâ service during times of congestion such as during a natural disaster or other emergency.  
+For additional information on network practices, see the discussion below in Network management for extremely high data usage and tethering and How does T-Mobile address network priority for its plans and brands?
+ Video Optimization
+T-Mobile uses streaming video optimization technology.
+Streaming video optimization improves overall data usage management of the network, resulting in greater network speeds and throughput for other customers using data because less network payload is dedicated to video.
+For customers on limited high-speed plans, optimization also helps customers stretch their high-speed data while streaming video.
+For video that is not self-optimized by the video provider, we adjust the delivery rate for streaming video, which causes the video to be delivered in lower resolutions and to use less data.Choice of high-speed data
+
+Video optimization occurs only for data streams that are identified by our packet-core network as video or where the video provider has chosen to establish protocols to self-optimize its video.
+Some videos, like those consumed via VPN or while tethering, may be difficult to identify as video and therefore cannot be optimized.
+The streaming video optimization process applies to content identified as video regardless of the content itself or the website that provides it.
+While many changes to streaming video files are likely to be indiscernible, the optimization process may impact the appearance of the streaming video as displayed on a user's device. In some instances, video optimization may also identify and treat downloads of video files as if they were real-time video streams.
+However, T-Mobile offers content providers a way to opt-in to a protocol to help identify video downloads to ensure they are not treated as streaming video.
+Video streaming optimization, when connected to the cellular network, delivers a DVD-quality (up to 1.5 Mbps, typically 480p) video experience instead of a higher resolution version (e.g.
+HD or Ultra HD), which is better suited for larger screens.
+Video optimization is not applied when a device is using Wi-Fi to connect to a non-T-Mobile network.
+Customers on our Magenta plan, where DVD-quality video optimization is always enabled, may choose to activate and enable a feature or plan where video streams at speeds that provide up to UHD video capability (max 4K), in the United States, e.g., with Magenta Max.
+
+Some of our customers are on data plans which include video optimization as a customer-controlled feature called "Binge On," which customers may choose to disable and re-enable at any time.
+Some video providers may choose to opt-out of the Binge On program, see listing.
+The Binge On optimization technology is not applied to the video services of these providers and high-speed data consumption will continue as if Binge On were not enabled.
+Network management for extremely high data usage and tethering
+ 
+Some of our plan options feature a customer-chosen high-speed data allotment with reduced speeds on our network after the high-speed allotment is exhausted, so customers can choose the combination of high-speed data and price that is right for their needs.
+Unlimited high-speed data customers do not have a specific high-speed data allotment on their device, however, and customers on some limited high-speed plans may have extremely high data usage under certain circumstances, including if their plan enables access to significant amounts of data that does not count against their high-speed data allotment.
+While T-Mobile continues to expand its network capacity, at this time, some network management for these scenarios is required, because very heavy data usage at times and places of competing network demands can affect the network performance for other customers.
+To provide the best possible experience for the most possible customers on their T-Mobile-branded plans, and to minimize capacity issues and degradation in network performance, we manage significant high-speed data usage on the vast majority of our plans through prioritization.
+Heavy Data Users (as defined by a customerâs rate plan) will have their data usage prioritized below the data usage (including tethering) of other customers at times and at locations where there are competing customer demands for network resources, which may result in slower data speeds.
+At the start of the next bill cycle, the customer's usage status is reset, and this data traffic is no longer prioritized below other traffic.
+Customers who use data in violation of their Rate Plan terms or T-Mobile's Terms and Conditions may be excluded from this calculation.
+Data features that may not count against the high-speed data allotment for some plans, such as certain data associated with Music Freedom, or Binge On, still count towards all customers' usage for this calculation.
+Smartphone Mobile HotSpot (tethering) data is also included in this calculation.
+Data used for customer service applications such as the T-Mobile My Account app does not count towards customers' usage for this calculation.
+To help avoid application of this practice, and reduce mobile data consumption, customers can set automatic updating of apps, podcasts and file downloads to run off Wi-Fi (making sure to connect to Wi-Fi to update applications and system periodically).
+Similarly, while we permit tethering pursuant to the terms, conditions and allotments of your data plan, significant Smartphone Mobile HotSpot (tethering) usage can affect on-device network performance for all customers.
+To ensure the best possible on-device experience, and to minimize capacity issues and degradation in network performance, we prioritize on-device data (except that of our mobile internet plans 30GB or higher offered after December 12, 2020, our Project 10Million and some other education-focused mobile internet plans, home broadband, and Heavy Data Users, as described above) over tethering data at times and at locations where there are competing customer demands for network resources, which may result in slower tethering speeds.
+Where the network is lightly loaded in relation to available capacity, a customer whose data is prioritized higher than other traffic will notice little, if any, effect from having higher priority.
+This will be the case in the vast majority of times and locations.
+Customers may notice reduced speeds in comparison to customers with a higher priority during network congestion.
+At times and at locations where the network is heavily loaded in relation to available capacity, these customers will likely see significant reductions in data speeds, especially if they are engaged in data-intensive activities.
+Customers should be aware that these practices may occasionally result in speeds below those typically experienced on our 5G or LTE networks, including a greater likelihood of reduced speeds in the lower end of the speed ranges.&nbsp.
+Depending on the extent of network congestion, these customers may notice more frequent impacts to some video streaming, file downloads, and other high-bandwidth activities. T-Mobile constantly works to improve network performance and capacity, but there are physical and technical limits on how much capacity is available, and in constrained locations the frequency of heavy loading in relation to available capacity may be greater than in other locations.
+When network loading goes down or the customer moves to a location that is less heavily loaded in relation to available capacity, the customer's speeds will likely improve.
+You can check your data plan usage at any time by signing in to my.t-mobile.com and clicking on the usage tab or by dialing #web# from your T-Mobile phone.
+Your total "on-network data" is the number used for purposes of heavy data usage prioritization.
+Choice of high-speed data
+Customers select how much high-speed data they receive under their service plan.
+Certain features, such as Music Freedom, some Binge On content, data used by certain T-Mobile customer service applications, such as the T-Mobile App, and the federal telehealth VA Video Connect app, do not count against your high-speed data allotment.
+If your total high-speed data usage exceeds your selected high-speed allotment during a billing cycle, we reduce your data speed to 2G speeds (for most plans, 128 kbps) for the remainder of that billing cycle.
+Some high-speed smartphone data plans include a data allotment for Smartphone Mobile HotSpot (tethering).
+after that allotment is used, tethering is slowed to up to 2G speeds (128 kbps) for the rest of the billing cycle.
+The Magenta plan includes a set amount of high-speed tethering, and then continues at up to 3G speeds (600kbps).
+The T-Mobile Essentials plan includes tethering at up to 3G speeds (600 kbps).
+Customers may choose to activate an add-on feature for a set amount of high-speed tethering.
+Depending on the capability of your device, tethering your device to other lawful devices is permitted up to 10 devices, pursuant to the terms, conditions and allotments of your data plan.
+Some video consumed while tethering may be difficult to identify as video and therefore cannot be optimized.
+T-Mobile Fair Usage commitment to on-device usage
+The T-Mobile Fair Usage commitment is how we ensure that the highest number of customers have the best possible experience for the most common uses on our network.
+Specifically, to ensure that smartphones and tablets have fair access to the network, we will monitor mobile hotspot/tethering usage on a regular basis to ensure that mobile hotspot usage is both reasonable and fair. T-Mobile mobile service is designed to be used primarily on smartphones and tablets. T-Mobile mobile hotspot (tethering) features are intended for personal mobile connectivity, not intended to be a complete broadband replacement for multiple users over an extended period of time.
+If you are a Heavy Data User and use a device as a mobile hotspot for the majority of your use over an extended period of time, we may contact you to discuss your plan and your options.
+Other network management
+If you use your data plan in a manner that could interfere with other customers' service, affect our ability to allocate network capacity among customers, or degrade service quality for other customers, we may suspend, terminate, or restrict your data session, or switch you to a more appropriate data plan, or terminate your service.
+Finally, certain uses of our network are also prohibited as described in our Terms and Conditions under the heading "Examples of Permitted and Prohibited Uses of the Services and Your Device." For example, applications which automatically consume unreasonable amounts of available network capacity or are designed for unattended use are prohibited as they may interfere with our ability to provide a good service experience for the majority of our customers, cause capacity issues, and/or degrade network performance.
+See our Terms and Conditions for a list of prohibited uses.
+
+For additional important Open Internet disclosures, including our Privacy Statement, please review the Frequently Asked Questions.
+ Frequently Asked Questions Whatâs the network experience for customers who select a lower network priority plan or brand? As discussed above, we offer a range of network priorities by rate plan and brand.
+Where the network is lightly loaded, customers will notice little, if any, effect from selecting a plan with lower network priority.
+This will be the case in the vast majority of times and locations.
+At times and at locations where the network is heavily loaded in relation to available capacity, however, those customers will likely see reductions in data speeds, especially if they are engaged in data-intensive activities.
+Depending on the extent of network congestion, these customers may notice more frequent impacts to some video streaming, file downloads, and other high-bandwidth activities.
+T-Mobile constantly works to improve network performance and capacity, but there are physical and technical limits on how much capacity is available, and at constrained locations, the frequency of heavy loading in relation to available capacity may be greater than at other locations.
+When network loading goes down or those customers move to a location that is less heavily loaded in relation to available capacity, those customers' speeds will likely improve.
+Does data traffic from T-Mobile products preloaded on a user's device or otherwise available from T-Mobile have precedence over data traffic from other applications? No.
+They are treated just like any other data application on the network, and traffic from these applications is subject to the same reasonable network management practices as other data on the network.
+What security measures does T-Mobile use to protect its Broadband Internet Access Services? We use a variety of physical, electronic, and procedural safeguards to protect our network from events that may negatively impact our customers' ability to use our Broadband Internet Access Services.
+We monitor our network to protect against security threats, including spam, viruses, automated attacks, worms, distributed denial of service attacks, and other potentially malicious activity.
+When we detect a threat, we may attempt to prevent it from spreading across our network using a variety of security measures, which may include, among other things, requiring device software updates and rerouting, prohibiting, or limiting some traffic over our network, typically until the threat is resolved.
+
+ Unless part of an opted-in customer service, T-Mobile does not block lawful traffic based on content or subject.
+Occasionally, cases arise where T-Mobile must make a judgment, determining that the value of protecting our customer base from malicious or other adverse, network-impacting traffic outweighs access issues experienced by a few.
+Examples include Internet sources or destinations that are major sources of spam and sources that aggressively scan Internet addresses or those that have attempted attacks against T-Mobile infrastructure or customer end-points.
+
+ T-Mobile blocks a limited number of Internet addresses that are disruptive or malicious and typically persistent, based on our review of third party industry-wide intelligence.
+T-Mobile does not block sites based on content or subject, unless the Internet address hosts unlawful content or is blocked as part of an opted-in customer service.
+
+ For our Wi-Fi services, which are accessible in a wide range of commercial establishments and public venues, T-Mobile prevents the use of certain ports that are commonly used to spread malware and engage in other malicious activity.
+Does T-Mobile allow customers to use non- T-Mobile devices and applications for its Broadband Internet Access Services? T-Mobile customers may use any compatible GSM, UMTS, LTE, or 5G device, such as a tablet or smartphone, to access our Broadband Internet Access Services, as long as they do not cause harm to our network.
+T-Mobile may limit activations of compatible devices on older technologies as we transition our network to newer technologies..
+
+ If you did not purchase your device from T-Mobile, please be aware that T-Mobile has not made any determination as to the call quality, performance, or other functionality provided by the device.
+
+ Our customers may use our Broadband Internet Access Services to access any lawful application, including real-time applications, in a manner consistent with our Terms and Conditions.
+T-Mobile reserves the right to take whatever measures are necessary to protect our network from potentially harmful devices and applications.
+The performance of a real-time application on our network depends on the speed and latency of the subscriber's connection, as well as their chosen data plan (see above for details).
+
+ In most markets the T-Mobile 3G / 4G network operates in the Advanced Wireless Services (AWS) 1700/2100 MHz band and/or the Personal Communications Services (PCS) 1900 MHz band using Universal Mobile Telecommunications System (UMTS) and High Speed Packet Access (HSPA) technology.
+T-Mobile also operates in the 600 MHz and 700 MHz band in some markets.
+5G devices on T-Mobile's network must support either 600 MHz (low-band), 2.5GHz (mid-band) or 28/39 GHz (mmWave).
+In order to connect to the T-Mobile 3G / 4G network a device must support UMTS and HSPA technology in the AWS 1700/2100 MHz band and PCS (1900) band.
+The T-Mobile 2G network operates in the Personal Communications Services (PCS) (1900) band.
+To connect to this network a device must support GSM technology in the PCS 1900 band.
+How can customers manage their experience on the Broadband Internet Access Services provided by T-Mobile? You may block use of certain Internet sites or the Internet generally on individual lines, e.g., for privacy or child safety reasons.
+Additional information on blocking Internet sites is available at https://support.t-mobile.com/docs/DOC-2144 and https://www.t-mobile.com/offers/t-mobile-family-mode.
+How does T-Mobile protect the privacy of customers using its mobile Broadband Internet Access Services? T-Mobile is committed to protecting the privacy and security of our customers' personal information.
+Please review our Privacy Statement to learn more..
+How can customers who have concerns or questions about their Broadband Internet Access Services contact T-Mobile? Customers with questions or concerns should contact our Customer Care department at www.T-Mobile.com, in the T-Mobile app, by calling 1-800-937-8997 or 611 from your Device, or by writing to: T-Mobile Customer Relations, P.O.
+Box 37380, Albuquerque, NM 87176-7380.
+Puerto Rico customers must direct written notices to: T-Mobile Customer Relations, B7 Tabonuco Street, Suite 700, Guaynabo, Puerto Rico 00968-3349, Attn: Customer Care Manager.
+For information on resolving disputes with T-Mobile, please review our Terms and Conditions under the heading "Dispute Resolution and Arbitration." Complaints or questions by end-users or edge providers regarding the approval of devices should be mailed to the relevant address above.
+
+      

@@ -1,0 +1,27 @@
+
+
+
+
+About
+Latest post
+All posts
+Privacy
+Contact
+Privacy policy Information regarding this site and its vendors
+
+August 2, 2020
+Last modified May 31, 2021
+This site and its owner do NOT store your personal information in any way.
+However, the site does use certain externally hosted services, each of which has its own privacy policies and methods of complying with applicable privacy regulations.Notes about external servicesFathom AnalyticsThis site uses Fathom Analytics, which does not store your personal data in any way.
+Please refer also to my article, âFathom Analytics: count on it.âGoogle FontsWhen I learned that the use of Google Fonts served from Google will transmit a visitorâs apparently not anonymized IP address1 to Google, I quit using this product (and suggesting to others that they use it) and, instead, served from my own site any typefaces that arenât part of the so-called âsystem fonts stack.âTwitterThis site uses eleventy-plugin-embed-tweet to embed tweets as purely static content with no cookies, and the siteâs Content Security Policy blocks any images (typically, one per embedded tweet) that Twitter otherwise could use to track you.Other considerationsEmbedded videosI no longer embed YouTube or other sitesâ videos, since they can and do transmit personal information through cookies.
+In the two instances where I formerly didââSome curmudgeonish thoughtsâ and âCoherence and COVID-19ââI replaced them with clearly identified links to their original locations, and footnoted each link with a reference and link to this privacy policy.
+
+
+For the discussion that convinced me to go this route after my initial skepticism about its necessity, see the Google Fonts GitHub issue, âGDPR compliance.â â©ï¸
+
+
+        
+Â© 2018â2021 Bryce Wray.Site built and managed with the Jamstack, Eleventy, macOS, iOS, Markdown, Sass, time, and love.
+Images hosted and processed by Cloudinary.
+Analytics by Fathom Analytics.
+View this siteâs privacy policy.Sitemaps: HTML â¢ XML.

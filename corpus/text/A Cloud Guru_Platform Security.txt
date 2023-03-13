@@ -1,0 +1,142 @@
+
+        We use cookies to ensure you get the best experience on our website.
+If you agree to our use of cookies, please continue to use our site.
+For more information, see our privacy policy.Continue 
+Sign In
+
+
+A Cloud Guru
+Blog
+Resources
+Forum
+Careers
+ Close 
+Browse Learning
+For Business
+For Individuals
+Learn by Doing
+Pricing
+ Close 
+Get Started
+
+
+ BackBrowse Learning CoursesBuild your modern tech skills with our comprehensive course library
+
+ Hands-on LabsGet your hands cloudy and build skills on demand with 1,500+ guided labs
+
+ Learning PathsGo from novice to guru in your chosen specialty
+
+Browse All Learning >
+
+
+
+
+ BackBrowse Platforms AWSLearn from an AWS Advanced Consulting Partner
+
+ AzureLearn Azure from our Microsoft MVP-led team
+
+ GCPPrep for in-demand certs or go deep into advanced topics
+
+ LinuxLevel up with 1,400+ hours of Linux learning
+
+Browse AllSAVE 20%!
+
+Hands-on Labs Top Hands-on LabsFind our most popular Hands-on Labs
+
+ By PlatformFind labs filtered by your preferred platform
+
+ By SpecialtyFind labs focused on security, data, and other specialties
+
+Browse AllSAVE 20%!
+
+
+ AWS DeveloperTake your dev skills from novice to guru
+
+ AWS ArchitectGo from novice to guru as a cloud architect
+
+ AWS DataBecome a guru in all things data
+
+ AWS DevOpsLearn the time warping skills a DevOps guru needs
+
+ AWS SecurityBecome a master of defense and secure your cloud
+
+ AWS ExecutiveBuild your cloud foundation to better define strategies and priorities
+
+Browse AllSAVE 20%!
+
+
+Sign In
+ Close 
+Get Started
+ ACG PoliciesPlatform and Operational Security Policies 
+ Privacy Policy
+ Code of Conduct
+ Terms of Use
+ Platform Sub-processors
+ Platform and Operational Security
+ Technical and Organisational Measures (TOM)
+ A Cloud Guru Hands-On Feature Terms
+ Master Services Agreement
+ Data Processing Addendum
+Platform and Operational SecurityLast updated: March 19, 2021OverviewA Cloud Guru is committed to protecting your information.
+This document outlines the technical and procedural measures A Cloud Guru employs to protect Customer Data.
+If you have any additional questions, please feel free to contact us at security@acloud.guru.Platform SecurityInfrastructurePhysical accessA Cloud guru is primarily a serverless environment, entirely hosted in the cloud and uses the shared cloud security model.
+We do not run our own routers, load balancers, DNS servers, or physical servers.
+A list of all cloud providers used to maintain security and provide services on our platform can be found on our Platform Sub-processors pageInfrastructure as CodeWe manage our infrastructure as code, allowing us to audit and peer review any changes, and to provide a secure and automated process for applying these changes.System Administration and Patch ManagementA Cloud Guru leverages fully managed, ie âserverlessâ, services to deliver the platform such as AWS Lambda.
+The provider is responsible for administering and patching the servers for in such cases.
+In cases where we run cloud based servers, we actively scan for security and configuration vulnerabilities and patch those servers according to the risks presented.Application securitySecure Software DevelopmentA Cloud Guru uses automation and reviews to ensure we develop software in a consistent, reliable and secure way.Threat ModelingNew initiatives are required to develop threat models prior to application development.
+Those threat models result in in-depth risk analyses which are reviewed by our security teamCode reviewsAll changes to the A Cloud Guru codebase are reviewed by peers.
+Code reviews are designed to ensure the security, performance and quality of code released to production.
+Code changes are staged or tested prior to deployment to production systems.End User Login ProtectionsWe protect our user login against a number or attack vectors including brute force attacks by utilising third party services.
+Passwords are cryptographically hashed and salted by our authorisation provider based on industry best practises.
+Our authorization provider generates user authorisation tokens to manage connections to the platform.Deployment&nbsp.
+ProcessThe deployment of the A Cloud Guru platform is entirely automated.
+Changes to both infrastructure and code are subject to automated testing using our Continuous Integration (CI) tool before being released to production.
+A change that passes our review and testing process is then deployed to production using our CI tool.Penetration TestingA Cloud Guru engages an independent organisation to perform regular penetration tests to assess the security of our platform.
+The security of our platform is reviewed on a 6 monthly basis.
+The team works quickly to mitigate potential issues identified by these reviews.Data encryption and transferA Cloud Guru encrypts data both at rest and in transit.
+All external network communication uses TLS encryption to protect it in transit.
+We leverage the encryption tools included in public cloud data stores to encrypt data at rest.MonitoringActivity on A Cloud Guruâs systems is logged and monitored.
+We capture and store logs generated by our infrastructure, application code and vendors.
+This includes but is not limited to, Amazon Web Services (AWS), Auth0, GSuite and Github.
+Logs from these systems are stored and analysed for unusual activity. Operational SecuritySecurity CouncilWe have established a collaborative security council for surfacing security concerns across the business.
+Representatives from the various business units participate in regular discussions about security and compliance issues, and executive participants make high level decisions.Security TeamA Cloud Guru has a dedicated security team.
+Our security team works with all teams at A Cloud Guru to ensure security is built into everything we do.People and ProcessAll members of the A Cloud Guru team, including full-time employees and contractors are required to comply with internal security policies and practices.
+These policies and practices are designed to ensure compliance with law and security best practices.Employee Access to DataA Cloud Guru restricts access to systems and infrastructure to A Cloud Guru personnel (or, at limited times, consultants who are bound by confidentiality and data protection standards) who require access as part of their job responsibilities.
+Access removal processes are used to revoke access to personnel who no longer need it.Passwords and AuthenticationA Cloud Guru enforces a password policy and a requirement for multi-factor authentication to protect sensitive systems.Business Continuity and Disaster RecoveryA Cloud Guru maintains a Business Continuity plan for the A Cloud Guru organization.
+Backups are a central part of our Disaster Recovery strategy.
+Customer data is stored in Cloud storage services.
+All data is backed-up on at least a daily basis.ComplianceOverviewA Cloud Guru is committed to protecting your information.
+While A Cloud Guru has not yet undergone a 3rd party security audit for SOC-2 or ISO27001, 27018, we utilize the security controls present in those frameworks and have chosen cloud hosting providers that are SOC and ISO compliant.PCI ObligationsA Cloud Guru uses certified third-party payment providers (such as, Chargebee, Braintree, Stripe, and Authorize.Net) to comply with applicable PCI standards.
+A copy of our compliance certification can be found here.Notification of Security BreachA Cloud Guru adheres to GDPR and applicable U.S.
+state requirements for data breach notification standards.
+In the event of a security breach A Cloud Guru will take actions to contain, investigate and mitigate the breach.
+A Cloud Guru will notify affected customers in the event of a breach in the manner and within the time frames required by applicable law.
+An unsuccessful security incident will not be subject to notification.
+An unsuccessful security incident is one that results in no unauthorised access to Personal Data or to any of ACGâs equipment or facilities storing Personal Data, and may include, without limitation, pings and other broadcast attacks on firewalls or edge servers, port scans, unsuccessful log-on attempts, denial of service attacks, packet sniffing (or other unauthorised access to traffic data that does not result in access beyond headers) or similar incidents.Contact UsIf you have concerns, donât hesitate to contact our team.
+Email: security@acloud.guru
+
+Learning
+For Business
+For Individuals
+Hands-on Labs
+
+
+Resources
+Blog
+Webinars
+Case Studies
+eBooks
+Forum
+
+
+About Us
+Contact Us
+Careers
+ACG News
+Support
+ facebook twitter linkedin instagram youtube RSS Â© 2021 Serverless Heroes, Inc.
+Code of Conduct
+Privacy Policy
+Terms of Use
+

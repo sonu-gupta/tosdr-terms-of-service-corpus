@@ -1,0 +1,231 @@
+
+         Description
+Our data security principles
+
+We try to reduce the amount of collected data to what is necessary for providing our services
+We communicate internally only via encrypted communication
+Unsafe communication (like email) is switched to secure communication as quickly as possible
+All our mobile hard drives are encrypted
+Unencrypted USB-sticks are used sparingly and only for public data (e.g.
+presentations).
+If technically possible, all our mobile devices are encrypted.
+Anything which cannot be encrypted is locked away and inaccessible to anyone outside of the company.
+
+Controller
+Ing. Philipp Neurohr, BSc, MSc
+
+Neurohr Bytes Software e.U.
+
+Web: neurohr.bytes.software
+Email: neurohr@bytes.software
+Styria GÃ¶sting: Josef-Pock-StraÃe 19/6/25, 8051 Graz, Austria
+Burgenland: Mogersdorf 6, 8382 Mogersdorf, Austria
+Tel: +43-680-2311-673
+UID: ATU70020158 | FN: 443581a
+Court of jurisdiction Graz, Austria
+Controller's Data Protection Officer
+
+
+
+KITTL4web | Inh.
+Udo B.
+S.
+KITTL
+
+Web: www.kittl4web.at
+E-mail: office@kittl4web.at
+Hammer-Purgstall-Gasse 39
+8020 Graz-GÃ¶sting
+Telephone: +43 660 232 82 27
+FAX/TEL.: +43 316 49 28 56
+Processor
+Ing. Philipp Neurohr, BSc, MSc
+
+Neurohr Bytes Software e.U.
+
+Web: neurohr.bytes.software
+Email: neurohr@bytes.software
+Styria GÃ¶sting: Josef-Pock-StraÃe 19/6/25, 8051 Graz, Austria
+Burgenland: Mogersdorf 6, 8382 Mogersdorf, Austria
+Tel: +43-680-2311-673
+UID: ATU70020158 | FN: 443581a
+Court of jurisdiction Graz, Austria
+
+
+
+Next to our company internal servers Neurohr Bytes Software e.U.
+has servers with following providers:
+
+
+
+
+internex GmbH
+
+AlserbachstraÃe 30
+1090 Wien
+Ãsterreich
+Firmenbuchnummer: 342171v
+UID: ATU65604535
+
+
+
+
+Ledl.net GmbH
+
+
+Domaintechnik.at
+
+Lederergasse 6
+5204 StraÃwalchen
+Ãsterreich
+Firmenbuchnummer: FN 258818s
+UID: ATU 61529037
+Processor's Data Protection Officer
+
+KITTL4web | Inh.
+Udo B.
+S.
+KITTL
+
+Web: www.kittl4web.at
+E-mail: office@kittl4web.at
+Hammer-Purgstall-Gasse 39
+8020 Graz-GÃ¶sting
+Telephone: +43 660 232 82 27
+FAX/TEL.: +43 316 49 28 56
+
+
+
+
+internex GmbH:
+
+dataprotection@internex.at
+
+
+
+
+Ledl.net GmbH:
+
+Franz ReischenbÃ¶ck
+Stv: Fabian Ledl
+Capture
+Your data is captured personally by our employees, or provided by you via this portal.
+Access and usage
+Our employees can access your data via access controlled portal interfaces.
+Storage
+
+On production environments your data is stored on servers in our control.
+
+
+
+
+On backup systems your data is stored on encrypted hard drives and locked servers.
+Our employees have no direct access to these storages during regular operation.
+Disposal
+
+In production environments your data is deleted on request.
+Your data is automatically deleted if you close your account.
+
+
+
+
+In backup systems your data cannot be deleted due to technical limitations.
+However only technical personnel of the data processors have access to these backups.
+
+After one year this access is further limited.
+Only the management of Neurohr Bytes Software e.U.
+has access on backups aged one year and older.
+The management of Neurohr Bytes Software e.U.
+is obliged to access this data only with the consent of Neurohr Bytes Software e.U.'s
+Data Protection Officer
+Transmission within member states of the European Union
+Your data is transmitted for following reasons:
+
+
+
+
+Communication: e.g.
+letters, emails, telephone
+
+Contract fulfilment: e.g.
+bank account
+
+Demands from public offices and courts of justice if valid in law: We will comply with demands valid in law.
+Transmission to non-member countries
+There is no planed transmission of your data to non-member countries or international organisations, with the exception of your personal demands (e.g.
+contact address in a non-member country).
+Cookies
+
+Information regarding the EU directive 2009/136/EC
+
+This online tool uses Cookies, Google Fonts and hCaptcha to provide the best possible functionality,
+to improve the service and to protect the portal from attacks.
+
+
+
+
+When you visit our portal you will receive some cookies necessary for the provision of the portal's services
+
+
+
+
+XSRF-TOKEN: This cookie helps us to battle Cross-Site-Request-Forgery (Wikipedia)
+.
+
+
+
+
+
+laravel_token: This cookie is also used to battle Cross-Site-Request-Forgery (Technical reference)
+.
+
+
+
+
+
+
+portal_name_session: This is a secure and encrypted cookie storing all volatile data of your session.
+
+
+
+
+
+remember_web_random_string: This cookie is set if you check the "Remember login" button during login.
+
+
+
+
+
+browser_authentication: This cookie is set to reduce the amount of CAPTCHA-challenges in the current browser.
+
+
+
+
+
+Several cookies for hcaptcha.com: These cookies are set by hCaptcha at the latest if the login form is shown.
+hCaptcha are the picture challenges you have to solve before being able to login.
+This prevents attackers from accessing your account just by testing random password until one matches.
+hCaptcha data security notice 
+
+
+
+
+Several cookies for youtube.com: This cookies are set when a youtube video or preview is loaded on the page.
+YouTube data security notice 
+
+
+
+
+gsScrollPos-random_number (legacy): This cookie is set by reCAPTCHA at the latest if the login form is shown.
+reCAPTCHA are the picture challenges you have to solve before being able to login.
+This prevents attackers from accessing your account just by testing random password until one matches.
+reCAPTCHA data security notice 
+
+
+
+
+TIP:
+In order to block so-called tracking-cookies we suggest that you use
+DuckDuckGo,
+both the app, as well as the browser extention.
+

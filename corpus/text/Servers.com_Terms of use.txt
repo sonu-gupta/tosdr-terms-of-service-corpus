@@ -1,0 +1,122 @@
+
+        LegalSectionsPublic API terms of use
+Agreement on the Storage of the Cardholderâs Credentials
+Personal Data Processing Agreement
+Refund Policy And Terms Of Delivery
+Internet Service Master Agreement
+Security Capabilities and Policy For Transmission Of Payment
+LEGAL NOTICE FOR SERVERS
+FAQ Abuse
+Digital Millennium Copyright Act
+Support and Service Level Agreement
+Website Terms of Use
+Services Specification
+Policies
+Servers General Terms and Conditions 
+Basic Legal Information by ServersPublic API terms of usePublic API terms of useBy using the Servers.com Public API, you confirm that you agree to the terms and conditions ('Terms') described below.
+It forms part of a legally binding license agreement between you and the relevant SERVERS entity that provides its services to you ('we', 'our', 'us', 'SERVERS' or 'Servers.com').
+Terms take effect from the moment of a token request for using Servers.com Public API and are applied additionally to our terms of service found at https://www.servers.com/about-us/legal.
+When you access or use the Servers.com Public API, we can be sure you are lawfully able to take part in the agreement. By entering into these Terms for a legal person, you warrant and represent a presence of legal authority to bind such legal entity.
+The right to update and change the Terms by making updates and changes is reserved by us.1.
+Using the Servers.com Public API
+1.1 First of all, you must make sure you are a registered user having an account in the Servers.com Customer Portal and obtaining a token received there to use Servers.com Public API.
+
+1.2 All the login information for Servers.com Customer Portal, including token, should be kept confidential and secure.
+You must not share your credentials with any third party except for cases when you need to disclose such information to the agents or employees of organizations working on your behalf.
+
+1.3 Subject to these Terms, SERVERS hereby grants you and accept a non-exclusive, royalty free, non-transferable, non-sublicensable, revocable license to use the Servers.com Public API only according to the restrictions described in detail at https://developers.servers.com.2.
+Servers.com Public API Restrictions. 
+2.1 When using the Servers.com Public API, you will (and ensure that involved employees, agents, and associated organizations will):
+a)
+restrict disclosure of your Servers.com Public API credentials and tokens;
+b) not provide any rights granted by the Terms to third parties;
+c) not use or access the Servers.com Public API or our services for benchmarking purposes: monitoring the availability, performance, or functionality of the Servers.com Public API;
+d) keep unchanged and not remove or destroy confidentiality or copyright notices, proprietary labels provided within the Servers.com Public API;
+e) not take part in any activity that can make a negative impact on our servers, security, networks, data, applications, services or other properties or any third party;
+f) not develop independently, modify, redesign, decompile, duplicate, copy the Servers.com Public API beyond the extent expressly prohibited by applicable law;
+g) not bypass Servers.com Public API restrictions and technological measures which prevent access to our internal services and infrastructure under no circumstances;
+h) not build applications that generate a high load on our system, spread spyware, advertising supported software or other unacceptable programs and content;
+i) not breach the rules stated at the https://developers.servers.com/index.html using the Servers.com Public API;
+j) not exceed the rate limit fixed at the https://developers.servers.com/index.html;
+It is mandatory to comply with the foregoing restrictions.
+The usage beyond the restrictions can be allowed by obtaining the written consent from SERVERS. You may request such consent by contacting us at&nbsp.
+https://portal.servers.com/.
+
+2.2 We reserve the right to monitor your Servers.com Public API, audit your applications and tools using the Servers.com Public API, appoint an independent auditor to perform such an inspection to ensure your compliance with the Terms.3.
+Changes to the Servers.com Public APIWe have the right to change or cease the Servers.com Public API partly or entirely anytime and because of any reason by providing you with reasonable prior notice.
+Changes may lead some features to be removed or become fee-based.
+Access to some or all features and services of the Servers.com Public API may be restricted or limited. You confirm to accept modifications by subsequent using of the Servers.com Public API.4.
+Privacy and Data SecurityAccording to the General Data Protection Regulation (EU) 2016/679, we do not provide you with any Personal Data via the Servers.com Public API usage. You as well as your employees, agents, and associated organizations will comply with local or international laws, regulations, and policies of regulatory authorities, including (i) the European Union General Data Protection Regulation (Regulation 2016/679).
+(ii) the ePrivacy Directive (Directive 2002/58/EC) or any analogical law or regulation.5.
+Disclaimer of WarrantiesWe provide the Servers.com Public API on an "as-is" basis.
+We make no warranties and disclaim them except for cases prohibited by law.
+We do not guarantee the Servers.com Public API will be appropriate for the particular purposes, non-infringing, commercially beneficial, and with satisfactory quality. In addition to the above said, we disclaim all warranties the Servers.com Public API will meet your requirements and expectations, will not be interrupted, free from errors, failures, and harmful components.
+will be secure, fully available, functioning, and remain unchanged.6.
+Limitation of Liability
+6.1 We assume no liability for any kind of damages and losses in any way from the Terms or the Servers.com Public API.
+
+6.2 The limitations of liability shall apply as full as possible and be permitted by relevant law.7.
+IndemnificationYou agree to indemnify and defend SERVERS, its employees, associated organizations with respect to any claims that derive from or arise out of: (a) your breach of the Terms.
+(b) your gross carelessness, negligence, or intentional misconduct.
+(c) any obligations or warranty granted by you.
+(d) any access to or use of the Servers.com Public API.
+(e) any intellectual property claims.
+(f) inappropriate performance of your services by breaching the Terms.8.
+Confidentiality
+8.1 The parties confirm awareness of and accept that one party (the "Receiving Party") may get information regarding another party (the "Disclosing Party") determined as confidential at the moment of disclosure or explicitly recognized by the Receiving Party as confidential whether it is marked as confidential or proprietary information (further, "Confidential Information") or not regarding Disclosing Party.
+The Servers.com Public API and API credentials make part of our Confidential Information.
+Information is not deemed as confidential if the Receiving Party can prove at least one of the following: (a) information is received from a third party by the Receiving Party in a proper way without confidentiality obligations.
+(b) information is publicly available without the Receiving Party's fault or carelessness.
+(c) information was already possessed by the Receiving Party before being obtained from the Disclosing Party.
+(d) the Receiving Party got this information independently without using or referring to the Disclosing Partyâs Confidential Information, and without breaching the Terms.
+
+8.2 Confidential Information is allowed for use by the Receiving Party only to the extent necessary to comply with the Terms.
+The Receiving Party agrees on taking all possible actions to protect the Confidential Information and prevent its duplication, disclosure, and use, other than (a) to or by its employees and associated organization that must have access to such Confidential Information and have obligations to comply the Terms or (b) cases when the Confidential Information is requested by law, regulations and is legally permitted.
+By request, all complete or incomplete copies of the Confidential Information will be removed, erased, or destroyed, excluding archived copies that must be kept in compliance with the Terms.9.
+TerminationWe may terminate or suspend access to the Servers.com Public API at any time and at our sole discretion.
+The use or access may be terminated if you breached the Terms, or we have reasons to suppose you may or will breach the Terms or any document incorporated with the Terms.
+The termination implies the following: (a) each party shall return all property (including Confidential Information) of another party under its control or in its possession or destroy the property.
+(b) all rights granted to you, your employees, or associated organizations are terminated immediately.10.
+General
+10.1 Independent Contractors.
+The parties that apply the Terms are independent contractors, including cases when the party is (a) agent, related or associated entity of another party, (b) has any right or authority to conclude any agreement on behalf of another party.
+The Terms exclude all the association, agency, joint venture, or partner relationships upon another party.
+
+10.2 Non-Exclusivity.
+The Terms completely block any exclusive arrangement between the parties.
+You can enter into any similar arrangements with other companies if it does not breach your obligations under the Terms.
+
+10.3 Notice.
+Any communication within the Terms, including notices, approvals, and requests, is carried out in a written form. The notice is considered as delivered (a) on the date of delivery if delivered personally, or by an email to support@servers.com.
+(b) after two (2) business days by certified, international courier service with a written receipt confirmation.
+(c) five (5) business days by mail with "return receipt requested" to one of the addresses listed at https://www.servers.com/about-us/about-servers-com.
+
+10.4 No Waiver.
+If one of the parties is unable to insist or enforce strict compliance with the Terms of another party, it shall not be construed as a waiver.
+Each waiver shall be presented in a written document signed by the waiving party.
+
+10.5 Entire Agreement.
+The Terms and all other linked and referenced documents herein present the entire agreement and supersede all prior agreements relating to the subject of the Terms.
+
+10.6 Assignment.
+We reserve the right to assign these Terms without any prior notice and your consent.
+You are not permitted to transfer and assign your rights and obligations under the Terms without our prior written consent.
+
+10.7 Applicable Laws.
+The Terms shall be regulated by the laws of the SERVERS entity providing you with services or SERVERS entity you have signed a contract with.
+For Servers.com BV, the Terms are regulated by the laws of the Netherlands.
+When services are provided by Servers.com Inc, they apply to the laws of the Delaware state.
+When we provide services by our Russian entity, the laws of Russia shall be applied.
+The parties irrevocably and unconditionally regulate all claims in the jurisdiction of the courts of the countries identified herein.
+
+10.8 Force Majeure.
+We and our affiliates shall not have any liability for any inability to perform obligations under the Terms which was caused or arises from events or actions beyond our control, including natural or industrial disasters, fire, man-made or technological catastrophes, labor disputes, strikes, war, riots, governmental actions, shortage of energy supplies, internet or telecommunication failures.
+
+10.9 Surviving Provisions.
+This Section 10, as well as sections 4 to 9 (both inclusive), shall survive any termination or expiration of the Terms, including any provisions of the Terms that by their nature are intended to survive and will survive termination.
+
+10.10 Feedback.
+We welcome any and all suggestions regarding our API.
+Should you choose to provide us with feedback regarding our API, please be aware that by providing us with such feedback, you are granting us an unlimited, irrevocable, perpetual, sublicensable, transferable, royalty-free license to process and use this information.
+We have the right to use any feedback or suggestions regarding Servers.com Public API provided by you for any purpose and without any obligation or compensation towards you.
+When using such feedback or suggestions, we will not use or process any personal data. 

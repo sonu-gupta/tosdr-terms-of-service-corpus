@@ -1,0 +1,51 @@
+
+At BrowserStack, we believe in complete transparency when it comes to how we collect and use data related to you.
+This policy offers detailed information about how and when we use cookies.Does BrowserStack use Cookies?Yes.
+As mentioned in our Privacy Policy, we use cookies to help us deliver the best possible user experience.
+By continuing to visit or use our services, you are agreeing to the use of cookies.What is a Cookie?A cookie is a small file placed onto your browser that enables us to enhance your experience on BrowserStack by remembering your preferences.What types of cookies does BrowserStack use?We use two types: persistent cookies and session cookies.
+A persistent cookie helps us recognize you as an existing user, so itâs easier to return to BrowserStack or interact with our products without signing in again.
+After you sign in, a persistent cookie stays in your browser and will be read by us when you return to one of our products.
+Session cookies only last for as long as the session (usually the current visit to a website or a browser session).What are cookies used for?Cookies can be used to recognize you when you visit BrowserStack, remember your preferences, and give you a personalized experience thatâs in line with your settings.
+Cookies also make your interactions with BrowserStack faster and more secure.
+Additionally, cookies allow us to bring you advertising off the BrowserStack website, and bring customized features.
+As of today, BrowserStack does not generally respond to âdo not trackâ signals.How are cookies used for advertising purposes?Cookies and other ad technology such as beacons, pixels, and tags help us serve relevant ads to you more effectively.
+They also help us provide aggregated auditing, research, and reporting for advertisers, understand and improve our service, and know when content has been shown to you.
+Your web browser may request advertisements and beacons directly from third party ad network servers, these networks can view, edit, or set third party cookies, just as if you had requested a web page from their site.
+Ads served by BrowserStack may also set third party cookies.
+Unless you clear these cookies from your browser, we may use this information to:
+
+provide more relevant, interest-based advertising
+provide aggregate reports of ads activity to advertisers and websites hosting the ads
+improve our products
+How can I opt out of targeted advertising?We use the following services for targeted advertising, you can use the links below to opt out.
+
+Google Analytics
+Twitter
+Facebook
+LinkedIn
+Reddit
+Quora
+
+Further, Our cookie table lists some of the cookies on our website (set by our products or third parties).
+Please note that the names of cookies, pixels and other technologies may change over time.
+You can opt-out of our advertising cookies here. Cookie NameDescriptionExpirationtracking_idWe set this when user visits BrowserStack.
+Used to log any activity related to Pricing.5 yearsscreensizeSetWe set this cookie if user tries to set the screen size when using the Responsive product.1 yearscreensizeWe set this cookie when user tries to start the Live Session on a Real Mobile for the first time.
+Here, all we ask the user is to feed in the screen size, so that later, we can use it render the real devices in real size to enhance the userâs testing experience.1 yearbs_force_localWe set this if user enables force-local option from the live dashboard.1 year_session_idSession cookie set by Rails.Never expiresbs_local, bs_local_hostPort, bs_local_originalUrl, bs_local_val, bs_local_nameWe set these Cookies for storing information used for Local Testing.previous_session_osWe set this cookie when user starts a session on Live.
+We set the OS name which user recently started the session on, to enhance the userâs testing experience.1 yearhistoryWe set this cookie when user starts a session on Live.
+We set the the following parameters to enhance userâs testing experience, which are later used to set some default configurations when user visits the Live product next time.1 yeardockPositionWe set this cookie when user tries to drag the dock in Live session.
+The value of this cookie is used to enhance userâs testing experience.
+We position the dock where the user had dragged in the previous session when he starts a new live session.Never expiresdowntime_notifiedWe set this cookie to remember if we showed the scheduled downtime message to the users.
+Once the user seeâs the message, we set this cookie so that we do not show the same notification to the user again on his next visit.24 hourscmd_tunnel, cmd_tunnel_kind, cmd_tunnel_typeWe set these cookies when user connects Local Binary or Local app.quick_launch_extension_installedWe set this cookie once the user installs our Quick Launch Extension.1 yearextension_startedWe set if the Local extension is installed.1 yearfirefox_extension_just_installedWe set the cookie if the user installed our Firefox extension1 yearskipped_extension_install_*We set this cookie if user visits the Live dashboard and he skips the Local Extension installation modal.
+We store the user ID in the place of (*) in the cookie name.1 yearclear-extension-cacheWe set this cookie when user adds a new browser to the quick launch.
+This enables us to clear the cached browsers from the Quick Launch extension and request for the updated ones.1 yearbs_deviceIdWe use this for Analytics purpose30 daysinvite_usersWe store the product names when user tries to invite other users.1 yearutm_paramsWe use this for analytics related to ads.90 dayshideFloatingBannerWe set this cookie to show and hide floating banners from some of our pages.1 daywindow-widthIt is set when user visits BrowserStack dashboard.
+Userâs device screen width is used in determining the header variation.1 daycard-update-blocker-interactedIt is set when user interacts with payment update blocker on dashboard.5 minscountExitModal, countExitModal-2We set this cookie to count Exit Intent modal window from some of our pages.30 dayscloseExitModal, closeExitModal-2We set this cookie to close Exit Intent modal window some of our pages.30 daysclosePromoNotificationWe set this cookie to hide the promo bar appearing above the header on some of our pages.5 daysp_list, p_buy, bs_logging_idWe set this cookie for analytics purpose.90 daysshow_freshchatWe set this cookie whenever a user sees our chat implementation.
+This is used to track whether the chat was loaded for the user.5 yearsshow_freshchat_automate_dashboardWe set this cookie whenever a user sees our chat implementation.
+This is used to track whether the chat was loaded for the user.1 yeareventsForm_numberWe set this cookie to improve user experience after registering the events forms.90 daysclose_plan_bannerWe set this cookie to improve user experience after interacting with the Team Lead Banner.30 dayscontacted_for_plan_bannerWe set this cookie to improve user experience after interacting with the Team Lead Banner.365 daysab_usersThis cookie generates a unique ID for every visitor and is used for the report segmentation feature in our Experiment Framework.180 days Third-party CookiesCookie NameDescriptionExpirationOwnership__stripe_midThis cookie is set by the third party service â Strip, which we use for the payments.
+More on this at https://stripe.com/cookies-policy/legal1 yearStripe_gaThis is set by the third party service â Google Analytics for identifying unique sessions.Google Analytics_gidThis is set by third party library of Google Analytics.
+More on use case: Refer here (last answer)Google Analyticsxs, sb, c_user, datr, pl, dpr, fr, wd, _fbc, _fbpFacebook social plugin which is integrated using Google Tag Manager.
+It sets these cookies for tracking user conversions on the website.Facebook1P_JAR, APISID, CONSENT, HSID, NID, OTZ, SAPISID, SID, SSID, SIDCCThis is set by Google using Google Tag Manager to track conversions.Google_vis_opt_test_cookieThis is a session (temporary) cookie generated to detect if the cookies are enabled on the browser of the user or not.VWO_vis_opt_sThis cookie detects if the user is new or returning to a particular campaign.100 daysVWO_vis_opt_outThis cookie indicates that the visitor is not a part of the campaign.10 yearsVWO_vis_opt_exp_EXPERIMENT_ID_goal_GOAL_IDThis cookie is generated when a goal is made.100 daysVWO_vis_opt_exp_EXPERIMENT_ID_combiThis cookie is generated when users reach a particular combination.
+This makes sure that users see the same variation that they saw earlier when they visited the page.100 daysVWO_vis_opt_exp_EXPERIMENT_ID_excludeThis cookie is generated when a user is excluded from a campaign.100 daysVWO_vis_opt_exp_EXPERIMENT_ID_splitThis cookie is generated during a Split URL test.100 daysVWO_vwo_uuidThis cookie generates a unique ID for every visitor and is used for the report segmentation feature in VWO.
+Also, this cookie allows you to view data in a more refined manner.
+If you have the campaign running on multiple domains, you will notice campaign-specific UUID values.100 daysVWOamplitude_idatlasbiomed.comThis is set by the third party service â Amplitude to analyze the user behavior within our website and our own products and services.10 yearsAmplitudeLinkedIn Insights TagLinked Insights Tag which is integrated using Google Tag Manager.
+It sets these cookies for tracking user conversions on the website.LinkedIn_uetmsclkidBing UET tag which is integrated using Google Tag Manager.
+It sets this cookie for tracking user conversions on the website.90 daysMicrosoft BingIDEDoubleClick sets this cookie for tracking user conversions on the website.2 yearsStackOverflow, DoubleClickreddaidReddit sets this cookie for tracking user conversions on the website.2 yearsRedditm-bQuora sets this cookie to authenticate users identity to Quora.2 yearsQuora 

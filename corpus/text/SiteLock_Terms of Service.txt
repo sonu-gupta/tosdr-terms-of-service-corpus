@@ -1,0 +1,177 @@
+
+        We have updated our Privacy Policy
+This website uses cookies
+
+We use cookies to personalize content and ads, to provide social media features and to analyze our traffic.
+We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that youâve provided to them or that theyâve collected from your use of their services.
+You consent to our cookies if you continue to use our website.
+  Do not sell or share my personal informationUse necessary cookies only OKShow detailsOKUse necessary cookies only Allow selection Allow all cookies Necessary Preferences Statistics MarketingShow detailsCookie declaration [#IABV2SETTINGS#] AboutâNecessary (68) âPreferences (23) âStatistics (106) âMarketing (68) âUnclassified (20)Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website.
+The website cannot function properly without these cookies.NameProviderPurposeExpiryTypeAWSELB [x2]JazzHRwww.codeguard.comUsed to distribute traffic to the website on several servers in order to optimise response times.SessionHTTPAWSELBCORS [x2]JazzHRwww.codeguard.comRegisters which server-cluster is serving the visitor.
+This is used in context with load balancing, in order to optimize user experience.
+1 dayHTTPSF_PHPSESSIDJazzHRNecessary for third-party recruitment app.SessionHTTPAUTH_SESSION_IDui.scm.sectigo.comThis cookie is necessary for the login function on the website.
+SessionHTTPAUTH_SESSION_ID_LEGACYui.scm.sectigo.comThis cookie stores visitor credentials in an encrypted cookie in order to allow the visitor to stay logged in on reentry, if the visitor has accepted the 'stay logged in'-button.SessionHTTPKC_RESTARTui.scm.sectigo.comIdentifies the logged in user.
+A unique session ID is linked to the user so that he/she is identified while navigating the website.
+The user is logged out when the cookie expires.SessionHTTPCookieConsent [x17]CookiebotStores the user's cookie consent state for the current domain1 yearHTTPspcsrf [x5]Comodowww.enterprisessl.comwww.hackerguardian.comSectigosectigo.comEnsures visitor browsing-security by preventing cross-site request forgery.
+This cookie is essential for the security of the website and visitor.
+1 dayHTTPSPSE [x5]Comodowww.enterprisessl.comwww.hackerguardian.comSectigosectigo.comEnsures visitor browsing-security by preventing cross-site request forgery.
+This cookie is essential for the security of the website and visitor.
+SessionHTTPCookieConsentPolicy [x3]Salesforcecomodoca--c.documentforce.comsupport.sectigo.comStores the user's cookie consent state for the current domain1 yearHTTPLSKey-c$CookieConsentPolicy [x3]Salesforcecomodoca--c.documentforce.comsupport.sectigo.comDetermines whether the user has accepted the cookie consent box.
+1 yearHTTPtest_cookieGoogleUsed to check if the user's browser supports cookies.1 dayHTTPembed/v3/counters.gif [x2]HubspotUsed to implement forms on the website.SessionPixel_GRECAPTCHAGoogleThis cookie is used to distinguish between humans and bots.
+This is beneficial for the website, in order to make valid reports on the use of their website.179 daysHTTPCONSENT [x2]GoogleYouTubeUsed to detect if the visitor has accepted the marketing category in the cookie banner.
+This cookie is necessary for GDPR-compliance of the website.
+2 yearsHTTPrc::aGoogleThis cookie is used to distinguish between humans and bots.
+This is beneficial for the website, in order to make valid reports on the use of their website.PersistentHTMLrc::bGoogleThis cookie is used to distinguish between humans and bots.
+SessionHTMLrc::cGoogleThis cookie is used to distinguish between humans and bots.
+SessionHTMLrc::d-15#GoogleThis cookie is used to distinguish between humans and bots.
+PersistentHTML__cf_bm [x2]HubspotVimeoThis cookie is used to distinguish between humans and bots.
+This is beneficial for the website, in order to make valid reports on the use of their website.1 dayHTTPhas_jswww.iconlabs.comRegisters whether or not the user has activated JavaScript in the browser.SessionHTTPli_gcLinkedInStores the user's cookie consent state for the current domain179 daysHTTPmStripeDetermines the device used to access the website.
+This allows the website to be formatted accordingly.
+2 yearsHTTPJSESSIONIDNew RelicPreserves users states across page requests.SessionHTTPcf_use_obSiteLockUsed to detect if the website is inaccessible, in case of maintenance of content updates - The cookie allows the website to present the visitor with a notice on the issue in question.1 dayHTTP__stripe_mid [x3]StripeThis cookie is necessary for making credit card transactions on the website.
+The service is provided by Stripe.com which allows online transactions without storing any credit card information.1 yearHTTP__stripe_sid [x3]StripeThis cookie is necessary for making credit card transactions on the website.
+The service is provided by Stripe.com which allows online transactions without storing any credit card information.1 dayHTTPSameSite [x2]Comodowww.ssl247.comEnsures visitor browsing-security by preventing cross-site request forgery.
+This cookie is essential for the security of the website and visitor.
+SessionHTTPSESS# [x2]www.xolphin.comwww.xolphin.nlPreserves users states across page requests.SessionHTTPPreference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.NameProviderPurposeExpiryTypelang [x2]LinkedInRemembers the user's selected language version of a websiteSessionHTTPCookieConsentBulkSetting-#CookiebotEnables cookie consent across multiple websitesPersistentHTMLwistia-video-progress-#WistiaContains a timestamp for the websiteâs video-content.
+This allows the user to resume watching without having to start over, if the user leaves the video or website.
+PersistentHTMLDRIFT_SESSION_ID [x4]DriftAllows the website to recoqnise the visitor, in order to optimize the chat-box functionality.
+SessionHTMLDRIFT_SESSION_STARTED [x4]DriftStores a unique ID string for each chat-box session.
+This allows the website-support to see previous issues and reconnect with the previous supporter.
+SessionHTMLDRIFT_visitCounts [x4]DriftDetermines the number of visits of the specific visitor.
+This is used in order to make the chat-box function more relevant.PersistentHTMLdriftt_aid [x4]DriftNecessary for the functionality of the website's chat-box function.
+399 daysHTTPi18n_redirected [x2]SiteLockwww.ssl247.comDetermines the preferred language of the visitor.
+Allows the website to set the preferred language upon the visitor's re-entry.
+1 yearHTTPDRIFT_ALWAYS_SEND_IDSDriftNecessary for the functionality of the website's chat-box function.
+SessionHTMLStatistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.NameProviderPurposeExpiryTypehttps://#.#/SleeknoteRegisters statistical data on users' behaviour on the website.
+Used for internal analytics by the website operator.
+SessionPixelevents/1/#New RelicUsed to monitor website performance for statistical purposes.SessionPixeljserrors/1/#New RelicPendingSessionPixel_ga [x7]GoogleComodoRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.399 daysHTTP_ga_# [x5]GoogleComodoUsed by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.
+399 daysHTTP_gat [x7]GoogleComodoSiteLockUsed by Google Analytics to throttle request rate1 dayHTTP_gid [x7]GoogleComodoRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.1 dayHTTP_vwo_uuid_v2VWOThis cookie is set to make split-tests on the website, which optimizes the website's relevance towards the visitor â the cookie can also be set to improve the visitor's experience on a website.1 yearHTTPundefinedWistiaCollects data on visitor interaction with the website's video-content - This data is used to make the website's video-content more relevant towards the visitor.
+PersistentHTMLwistiaWistiaUsed by the website to track the visitor's use of video-content - The cookie roots from Wistia, which provides video-software to websites.PersistentHTML__hssc [x2]Comodojs.hs-banner.comIdentifies if the cookie data needs to be updated in the visitor's browser.1 dayHTTP__hssrc [x2]Comodojs.hs-banner.comUsed to recognise the visitor's browser upon reentry on the website.SessionHTTP__hstc [x2]Comodojs.hs-banner.comSets a unique ID for the session.
+This allows the website to obtain data on visitor behaviour for statistical purposes.179 daysHTTPhubspotutk [x2]Comodojs.hs-banner.comSets a unique ID for the session.
+This allows the website to obtain data on visitor behaviour for statistical purposes.179 daysHTTPSPSI [x5]Comodowww.enterprisessl.comwww.hackerguardian.comSectigosectigo.comSets a unique ID for the session.
+This allows the website to obtain data on visitor behaviour for statistical purposes.SessionHTTPBrowserIdcomodoca--c.documentforce.comRegisters a unique ID that identifies the user's device for return visits.1 yearHTTPBrowserId_sec [x2]comodoca--c.documentforce.comSalesforceRegisters statistical data on users' behaviour on the website.
+Used for internal analytics by the website operator.
+1 yearHTTPloglevelWistiaCollects data on visitor interaction with the website's video-content - This data is used to make the website's video-content more relevant towards the visitor.
+PersistentHTMLcollectGoogleUsed to send data to Google Analytics about the visitor's device and behavior.
+Tracks the visitor across devices and marketing channels.SessionPixelAnalyticsSyncHistoryLinkedInUsed in connection with data-synchronization with third-party analysis service.
+29 daysHTTPsn_global_countdown_last_reset_timestamp [x4]qa.whmcs.sectigodev.comSiteLockComodoSleeknoteSets a timestamp for when the visitor entered the website.
+This is used for analytical purposes on the website.
+PersistentHTMLSNS [x4]qa.whmcs.sectigodev.comSleeknoteComodoSets a unique ID for the session.
+This allows the website to obtain data on visitor behaviour for statistical purposes.SessionHTTP_dc_gtm_UA-#GoogleUsed by Google Tag Manager to control the loading of a Google Analytics script tag.1 dayHTTP_fs_cid [x2]SiteLockwww.ssl247.comRegisters statistical data on users' behaviour on the website.
+Used for internal analytics by the website operator.
+PersistentHTML_fs_uid [x2]SiteLockwww.ssl247.comThis cookie contains an ID string on the current session.
+This contains non-personal information on what subpages the visitor enters â this information is used to optimize the visitor's experience.PersistentHTML_hjAbsoluteSessionInProgress [x2]HotjarThis cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.1 dayHTTP_hjFirstSeen [x2]HotjarThis cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website.1 dayHTTP_hjIncludedInPageviewSample [x2]HotjarUsed to detect whether the user navigation and interactions are included in the websiteâs data analytics.
+1 dayHTTP_hjIncludedInSessionSample [x2]HotjarRegisters data on visitors' website-behaviour.
+This is used for internal analysis and website optimization.
+1 dayHTTP_hjRecordingLastActivity [x2]HotjarSets a unique ID for the session.
+This allows the website to obtain data on visitor behaviour for statistical purposes.SessionHTML_hjSession_# [x2]HotjarCollects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.1 dayHTTP_hjSessionUser_# [x2]HotjarCollects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.1 yearHTTP_hjTLDTest [x2]HotjarRegisters statistical data on users' behaviour on the website.
+Used for internal analytics by the website operator.
+SessionHTTPcalltrk-_gacdn.callrail.comThis cookie is necessary for the call-tracking functionality used by the website operator â The cookie sets an ID for the specific user, which allows the website's support team to recognize the user when calling their support, as well as seeing the userâs navigation on the website.
+PersistentHTMLcalltrk_landingcdn.callrail.comThis cookie is necessary for the call-tracking functionality used by the website operator â The cookie sets an ID for the specific user, which allows the website's support team to recognize the user when calling their support, as well as seeing the userâs navigation on the website.
+1 yearHTTPcalltrk_nearest_tldcdn.callrail.comThis cookie is necessary for the call-tracking functionality used by the website operator â The cookie sets an ID for the specific user, which allows the website's support team to recognize the user when calling their support, as well as seeing the userâs navigation on the website.
+399 daysHTTPcalltrk_referrercdn.callrail.comThis cookie is necessary for the call-tracking functionality used by the website operator â The cookie sets an ID for the specific user, which allows the website's support team to recognize the user when calling their support, as well as seeing the userâs navigation on the website.
+1 yearHTTPcalltrk_session_idcdn.callrail.comThis cookie is necessary for the call-tracking functionality used by the website operator â The cookie sets an ID for the specific user, which allows the website's support team to recognize the user when calling their support, as well as seeing the userâs navigation on the website.
+1 yearHTTPcalltrk-calltrk_landingcdn.callrail.comThis cookie is necessary for the call-tracking functionality used by the website operator â The cookie sets an ID for the specific user, which allows the website's support team to recognize the user when calling their support, as well as seeing the userâs navigation on the website.
+PersistentHTMLcalltrk-calltrk_referrercdn.callrail.comThis cookie is necessary for the call-tracking functionality used by the website operator â The cookie sets an ID for the specific user, which allows the website's support team to recognize the user when calling their support, as well as seeing the userâs navigation on the website.
+PersistentHTMLcalltrk-calltrk_session_idcdn.callrail.comThis cookie is necessary for the call-tracking functionality used by the website operator â The cookie sets an ID for the specific user, which allows the website's support team to recognize the user when calling their support, as well as seeing the userâs navigation on the website.
+PersistentHTMLfs_cid [x2]edge.fullstory.comRegisters statistical data on users' behaviour on the website.
+Used for internal analytics by the website operator.
+1 yearHTTPfs_uid [x2]edge.fullstory.comThis cookie contains an ID string on the current session.
+This contains non-personal information on what subpages the visitor enters â this information is used to optimize the visitor's experience.1 yearHTTPhjViewportId [x2]HotjarSets a unique ID for the session.
+This allows the website to obtain data on visitor behaviour for statistical purposes.SessionHTMLln_orLinkedInRegisters statistical data on users' behaviour on the website.
+Used for internal analytics by the website operator.
+1 dayHTTP_gaclientidGoogleRegisters statistical data on users' behaviour on the website.
+Used for internal analytics by the website operator.
+1 dayHTTP_gasessionidGoogleSets a unique ID for the session.
+This allows the website to obtain data on visitor behaviour for statistical purposes.1 dayHTTP_fs_swan_songwww.ssl247.comThis cookie contains an ID string on the current session.
+This contains non-personal information on what subpages the visitor enters â this information is used to optimize the visitor's experience.PersistentHTML_dd_sui.scm.sectigo.comRegisters the website's speed and performance.
+This function can be used in context with statistics and load-balancing.1 dayHTTPdd_cookie_test_#ui.scm.sectigo.comRegisters data on visitors' website-behaviour.
+This is used for internal analysis and website optimization.
+1 dayHTTPvuidVimeoCollects data on the user's visits to the website, such as which pages have been read.399 daysHTTPv.gifVWOThis cookie is set to make split-tests on the website, which optimizes the website's relevance towards the visitor â the cookie can also be set to improve the visitor's experience on a website.SessionPixel_pk_id# [x2]www.xolphin.comcdn.xolphin.comCollects statistics on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.1 yearHTTP_pk_ses# [x2]www.xolphin.comcdn.xolphin.comUsed by Piwik Analytics Platform to track page requests from the visitor during the session.1 dayHTTPMarketing cookies are used to track visitors across websites.
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.NameProviderPurposeExpiryTypeexternal_referrer_urlJazzHRRegisters how the user has reached the website to enable pay-out of referral commission fees to partners.1 dayHTTPMUIDMicrosoftUsed widely by Microsoft as a unique user ID.
+The cookie enables user tracking by synchronising the ID across many Microsoft domains.1 yearHTTP_fs_tab_id [x3]edge.fullstory.comTracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits.
+This data can also be used to create leads for marketing purposes.SessionHTML_gcl_au [x4]GoogleComodoUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+3 monthsHTTPfbssls_# Meta Platforms, Inc.Collects data on the visitorâs use of the comment system on the website, and what blogs/articles the visitor has read.
+This can be used for marketing purposes.
+SessionHTMLIDEGoogleUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.1 yearHTTPpagead/landing [x2]GoogleCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+SessionPixelads/ga-audiencesGoogleUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.SessionPixelNIDGoogleRegisters a unique ID that identifies a returning user's device.
+The ID is used for targeted ads.6 monthsHTTPpagead/1p-user-list/#GoogleTracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites.
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.SessionPixel__ptq.gifHubspotSends data to the marketing platform Hubspot about the visitor's device and behaviour.
+Tracks the visitor across devices and marketing channels.SessionPixelbcookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 yearHTTPbscookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 yearHTTPlidcLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 dayHTTPUserMatchHistoryLinkedInEnsures visitor browsing-security by preventing cross-site request forgery.
+This cookie is essential for the security of the website and visitor.
+29 daysHTTP_sn_a [x4]qa.whmcs.sectigodev.comSleeknoteComodoImplements pop-up advertisement on the website.
+1 yearHTTP_sn_m [x4]qa.whmcs.sectigodev.comSleeknoteComodoImplements pop-up advertisement on the website.
+1 yearHTTP_sn_n [x4]qa.whmcs.sectigodev.comSleeknoteComodoImplements pop-up advertisement on the website.
+1 yearHTTP_fbp Meta Platforms, Inc.Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.3 monthsHTTP_hjRecordingEnabled [x2]HotjarThis cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites â this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.SessionHTML_uetsidMicrosoftCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+1 dayHTML_uetsid_expMicrosoftContains the expiry-date for the cookie with corresponding name.
+PersistentHTML_uetvidMicrosoftUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+1 yearHTML_uetvid_expMicrosoftContains the expiry-date for the cookie with corresponding name.
+PersistentHTMLcalltrk-#-assigns-#GUID#cdn.callrail.comPendingPersistentHTMLdrift_aid [x4]DriftSets a unique ID for the specific user.
+This allows the website to target the user with relevant offers through its chat functionality.
+399 daysHTTPdrift_campaign_refresh [x4]DriftSets a unique ID for the specific user.
+This allows the website to target the user with relevant offers through its chat functionality.
+1 dayHTTPDRIFT_SESSION_CAMPAIGNS [x4]DriftUsed to determine when and where certain pop-ups on the website should be presented for the user and remember whether the user has closed these, to keep them from showing multiple times.PersistentHTMLIR_gbdd.impactradius-event.comRegisters a unique ID that identifies the user's device during return visits across websites that use the same ad network.
+The ID is used to allow targeted ads.SessionHTTPpendo_tabIdPendoCollects data on the user across websites - This data is used to make advertisement more relevant.SessionHTMLNRBA_SESSION_IDVimeoCollects user data through quiz/survey-like content.
+This allows the website to promote relevant products or services.
+SessionHTMLVISITOR_INFO1_LIVEYouTubeTries to estimate the users' bandwidth on pages with integrated YouTube videos.179 daysHTTPYSCYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.SessionHTTPyt.innertube::nextIdYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.PersistentHTMLyt.innertube::requestsYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.PersistentHTMLytidb::LAST_RESULT_ENTRY_KEYYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-cast-availableYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-cast-installedYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-connected-devicesYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-device-idYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-fast-check-periodYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-appYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-nameYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLUnclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.NameProviderPurposeExpiryTypeinternal_navigation_countJazzHRPending1 dayHTTP_codeguard_sessionwww.codeguard.comPendingSessionHTTPaffiliate_page_userwww.codeguard.comPending1 dayHTTPWHMCSy551iLvnhYt7 [x4]qa.whmcs.sectigodev.comstore.hackerguardian.comComodowww.ssl247.comPendingSessionHTTPcalltrk_fcidjs.callrail.comPending1 yearHTTPcalltrk-calltrk_fcidjs.callrail.comPendingPersistentHTMLIR_9940d.impactradius-event.comPendingSessionHTTPsitelock_currencySiteLockPendingPersistentHTMLcurrency_id [x2]Comodowww.ssl247.comPending1 yearHTTPannouncement-67c8c22d-b010-478d-8656-99107d2cb61dwww.ssl247.comPending1 yearHTTPmelding [x2]cdn.xolphin.comPendingSessionHTMLstats [x2]www.xolphin.comwww.xolphin.nlPendingSessionPixelxolphin_session [x2]www.xolphin.comwww.xolphin.nlPending1 dayHTTPâ[#IABV2_LABEL_PURPOSES#] â[#IABV2_LABEL_FEATURES#] â[#IABV2_LABEL_PARTNERS#][#IABV2_BODY_PURPOSES#][#IABV2_BODY_FEATURES#][#IABV2_BODY_PARTNERS#]Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site.
+For all other types of cookies we need your permission.
+This site uses different types of cookies.
+Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Your consent applies to the following domains: www.xolphin.nl, ui.scm.sectigo.com, www.sitelock.com, www.xolphin.com, www.ssl247.com, qa.whmcs.sectigodev.com, iconlabs.com, store.hackerguardian.com, codeguard.com, sectigo.com, www.comodoca.com, www.hackerguardian.com, www.trustlogo.com, www.enterprisessl.com, www.positivessl.com, www.instantssl.com, ssl.comodoca.com
+Cookie declaration last updated on 12/5/22 by Cookiebot SALES: (866) 218 4302 SUPPORT: (877) 563 2832 Resources About Help Center USD Solutions Pricing How it works Partners I've Been Hacked Log In SiteLock Terms of Service ACCEPTABLE USE POLICY ("AUP")
+General Information.
+As a provider of Internet/World Wide Web-related services, SITELOCK, LLC, an Arizona limited liability company (the "Company") offers its customers, the means to acquire and disseminate a wealth of public, private, commercial, and non-commercial information.
+ SiteLock AUP PRIVACY POLICY
+Your privacy is very important to SITELOCK, LLC, an Arizona limited liability company (the "Company").
+We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence. SiteLock Privacy Policy CUSTOMER AGREEMENT
+The Customer Agreement (âAgreementâ) is an agreement between SITELOCK, LLC, an Arizona limited liability company (âthe Companyâ) and the party set forth in the related Registration Form (âCustomerâ) incorporated herein by reference (together with any subsequent Registration Forms or other online signup, acceptance or order form submitted by Customer, the âRegistration Formâ). SiteLock Customer Agreement RESPONSIBLE DISCLOSURE POLICY
+The SiteLock Responsible Disclosure Policy details the process by which SiteLock publicly discloses vulnerabilities found during research and malware cleaning processes.
+The Policy reflects SiteLock's dedication to a secure web for all site owners and developers, and stresses privacy and the protection of sensitive data. SiteLock Responsible Disclosure Policy SITELOCK TRADEMARKS
+When using these trademarks in publications that will be distributed only within the United States, include the appropriate TM, SM, or Â® symbol.
+For publications distributed outside the United States, use an appropriate trademark attribution notice, for example: SecureSiteÂ® is a trademark of SiteLock, LLC, registered in the U.S. SiteLock Trademarks Notice Connect Sign up for SiteLock news and announcements Sales Team (866) 218-4302 Solutions Team (866) 219 4587 Billing Team (844) 217 0577 Support Team (877) 563 2832 International +1 (415) 390 2500 
+ Solutions 
+ WordPress 
+ WooCommerce 
+ Drupal 
+ Magento 
+ .NET / IIS 
+ Business and eCommerce Sites 
+ Partners 
+ Log In 
+
+
+ I've Been Hacked 
+ Pricing 
+ SiteLock Basic Plan 
+ SiteLock Pro Plan 
+ SiteLock Business Plan 
+ Help Center 
+ Resources 
+ Blog 
+ Case Studies 
+ eCommerce Guide 
+ Security Report 
+ Webinars &amp.
+Events 
+
+
+ How it works 
+ Malware Detection 
+ Malware Removal 
+ Vulnerability Patching 
+ Website Backup 
+ Web Application Firewall 
+ Content Delivery Network 
+ About 
+ News 
+ Awards 
+ Contact 
+
+
+Â© 2022 SiteLock
+ Terms of Service 
+ Privacy Policy 
+
+Use of this Site is subject to express Terms and Conditions.
+By using this site, you signify that you agree to be bound by our terms of service.

@@ -1,0 +1,83 @@
+
+         In this document 
+ 1.
+Login 
+ 2.
+Permitted Use 
+ 3.
+Privacy 
+ 4.
+Security 
+ 5.
+License 
+ 6.
+Ownership 
+ 7.
+Use of Marks 
+ 8.
+Disclaimer 
+ 9.
+Updates 
+ 10.
+Confidentiality 
+ 11.
+Indemnification 
+ 12.
+The Rest 
+
+Thank you for using the Mailchimp application program interfaces (âAPIsâ).
+By accessing the APIs, you agree to this API Use Policy (the âPolicyâ) and our Terms.
+Mailchimp has open APIs that you can access at https://mailchimp.com/developer/ and https://mandrillapp.com/api/docs/.
+We provide these APIs to allow people to build on and benefit from our Service by creating software, services, or modules that connect to our platform or have access to the data within our platform via our APIs (an âIntegrationâ).
+This Policy is and will be treated as part of our Terms.
+Capitalized terms used and not otherwise defined in this Policy have the meanings given to them in our Terms. 1.
+Login Youâll only access the API using OAuth or an API key.
+If you have an Integration, then users must have the option to log in via OAuth or their API key.
+You wonât prompt users to provide their Mailchimp username, password, or security questions. 2.
+Permitted Use You wonât use the API to send spam or take any actions that violate our Acceptable Use Policy and our Standard Terms of Use.
+You will comply with all applicable laws (including privacy laws and United States export control laws and regulations and economic sanctions laws and regulations).
+Youâll follow all documentation we provide for the APIs.
+You wonât attempt to hack or change the way the Service functions.
+We may throttle your use of the APIs at any time.
+We may monitor your use of the APIs for compliance with these rules, and we may deny you access to the API if you violate this Policy. 3.
+Privacy Youâll respect the privacy of our users.
+You must obtain express permission from each user before you access their Mailchimp account.
+Your Integration must display a privacy policy for users detailing the information youâll collect from them when they use the Integration.
+You will only access a userâs data to the extent permitted by the user and explained in your privacy policy.
+You must immediately delete a userâs data if the user requests deletion or terminates their account with you.
+Any user data which is collected by Mailchimp via your Integration will be treated in accordance with our Privacy Policy. 4.
+Security You will implement and maintain appropriate technical and organizational security measures to protect and to preserve the security, integrity and confidentiality of the data of your users.
+These security measures shall prevent the unauthorized access or disclosure of personal or confidential data that you process.
+You must promptly report any security deficiencies or security incidents that may impact or compromise our users, APIs, or Service in writing to legal@mailchimp.com.
+And, if there is a security incident, you will work with us to immediately correct the incident or deficiency.
+We reserve the right to review or audit your books, records, agreements, access logs, third-party audit and examination reports, systems, networks, facilities (including physical and remote access to data centers and cloud facilities), controls, policies and procedures related to your Integration to ensure compliance with this Policy.
+You will promptly correct any security flaws or deficiencies.
+Upon remediation, you will certify in writing that you are now in compliance. 5.
+License We grant you a non-exclusive, non-transferable, non-sublicensable, revocable, limited right to access and use the APIs to develop, test and support your Integration and to distribute or allow access to your Integration to users of your service, provided that you comply with this Policy and all applicable laws.
+You have no right to distribute or allow access to our stand-alone APIs.
+We may terminate your access to our APIs at any time for any reason. 6.
+Ownership We own all rights, titles, and interest in the Service and the APIs, including all intellectual property rights, marks, code, and features.
+You wonât infringe, reverse engineer, or copy our code, design, or content.
+You will not access our APIs in order to compete with our Service.
+Any rights not expressly granted by this Policy are withheld, so if you donât see it here, then itâs not a right weâre giving you.
+You own all rights, titles, and interest in the Integration, except for the APIs, our marks, and the Service.
+If you provide feedback about the APIs or the Service, we may copy, modify, create derivative works, display, disclose, distribute, or use that feedback without any obligation to you. 7.
+Use of Marks You may only use our name and marks (meaning our logos, mascots, and copyrighted images) according to our Brand Guidelines.
+You may not alter or remove any proprietary notices in our marks.
+You wonât use our name or marks in your Integration name or logo, or in any way that implies an endorsement by us (that includes putting your logo on Freddie).
+If you use our marks to create your logo or name, youâll immediately assign those rights to us at no expense. 8.
+Disclaimer To the maximum extent permitted by law, we provide the APIs as-is.
+That means we donât provide warranties of any kind, either express or implied, including but not limited to merchantability and fitness for a particular purpose. 9.
+Updates We may update or modify the APIs and this Policy from time to time by posting the changes on this site or notifying you via email.
+These changes may affect your use of the APIs or the way your Integration interacts with the API.
+If we make a change thatâs unacceptable to you, you should stop using the APIs. 10.
+Confidentiality You may have access to confidential, proprietary, and non-public information specific to the APIs (âConfidential Informationâ).
+You may use this information only to build with the APIs.
+You wonât disclose the Confidential Information to anyone without our written consent, and youâll protect the Confidential Information from unauthorized use and disclosure in the same way youâd protect your own confidential information. 11.
+Indemnification Youâll indemnify and hold us and our Team harmless from any losses (including attorney fees) that result from third-party claims that relate to your use of the API. 12.
+The Rest This Policy doesnât create or imply any partnership, agency, or joint venture.
+This Policy will apply for as long as you use the APIs or until terminated in accordance with our Terms.
+In the event of a conflict between this Policy and the Standard Terms of Use, the Standard Terms of Use shall control.
+
+Updated May 27, 2020
+

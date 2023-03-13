@@ -1,0 +1,456 @@
+
+
+ wheelofnames.com 
+ Feedback 
+
+ Welcome
+ Ads
+ Behavior
+ Business
+ Changelog
+ Constraints
+ Credits
+ Embed
+ How to
+ Randomness
+ Saving
+ Sharing
+ Sound
+ Sustainability
+ Terms
+ &nbsp.
+
+
+ Welcome to the wheelofnames.com FAQ! 
+ Wheel of Names is a free, easy to use, and highly customizable website that you can use to pick a random item from a list.
+It is used by teachers and for raffles.
+Enter names, and spin the wheel to pick a random winner.
+You can customize the look and feel, and save and share your wheels with others.
+
+ To learn more, click one of the tabs to the left or links below: 
+
+Use the wheel
+User reviews and tutorials
+How to use the wheel in the classroom
+
+
+ Why do I see ads on wheelofnames.com?  We show ads on wheelofnames.com to keep the site running and pay for hosting, testing tools, analytics, among other things.
+ Can I pay or donate to get rid of the ads?  We do not take any form of payments or donations from users.
+This includes paying to remove ads.
+Instead, we allow you to remove ads for the duration of your session with the Close ad button, or enter fullscreen mode where they do not appear.
+ Can I use an adblocker on wheelofnames.com?  Feel free to use an adblocker on the site.
+However, we have received reports that adblockers occassionally interfere with saving and opening wheels.
+If you encounter these issues whilst using an adblocker, try disabling it temporarily.
+ Can I change how long the wheel spins?  Yes.
+Click 
+ Customize and a dialog box will come up where you can set the spin time.
+ Can I change the text in the winner pop-up window to something else?  Yes.
+Click 
+ Customize and a dialog box will come up where you can set what the message in this pop-up will be.
+ Can I change the size of the text?  Sorry, the app does not support this.
+Instead, the text is rendered as large as possible while still fitting inside the wheel.
+In other words, the shorter your entries are, the larger the text will be.
+ How can I display more than one wheel running at the same time?  Create two browser windows side-by-side and point them both to wheelofnames.com.
+ I made a lot of settings changes, how do I save all of them for next time?  Your settings (like colors and sounds) are saved on your device.
+When you reopen the web page on the same device, the settings you last used are loaded again.
+
+ To make sure you don't lose your settings, or to use them on another device, click 
+ Save and give your wheel a name.
+ When I remove a winning name from the wheel, does it get removed from my saved wheel as well?  No, it doesnât.
+For example, letâs say you save a wheel of dishes as âComfort foodâ: Pasta, Hamburger, Noodles.
+You open âComfort foodâ, spin and Pasta comes up the winner.
+If you click âRemove winnerâ, Pasta will disappear from the wheel.
+But if you click 
+ Open to open âComfort foodâ again, the wheel will reappear with all dishes, including Pasta.
+ Can I advertise on Wheel of Names?  Please submit the Feedback form and we can talk.
+ Can you customize the app for my organization?  No, but I would be interested in hearing what customization youâd like.
+Please submit the Feedback form.
+If enough people request something, I will build it for all users and everyone wins.
+ Is the website for sale?  No, I run it as a hobby project.
+I don't want to lose my hobby :-)  Is it open-source?  Yes it is! Check it out here.
+
+ You can follow the detailed instructions in the README file to set up a Google Cloud Platform account and host the app yourself.
+You are also free to make any modifications you want.
+If you'd like to contribute your code back to the project, please read the CONTRIBUTING file.
+
+ Are the instructions too daunting? Remember that you can always: 
+
+Embed wheelofnames.com in your website.
+Create a wheel with no textbox, toolbar, and buttons by clicking 
+ Share followed by Continue, and then selecting "They should only be able to spin the wheel".
+Here is an example of a wheel created that way: wheelofnames.com/jmj-a7b.
+
+
+ Version Date Changes v187 17 January 2022 Wheels with image backgrounds can now take advantage of the advanced editor.
+Added wheel background images of the moon and the Year of the Tiger.
+v186 9 January 2022 You can now weight entries differently in the advanced editor! This will make slices different sizes and thus more or less likely to be picked.
+v185 5 January 2022 You can now set different winner messages and sounds per entry in the advanced editor.
+Added Kazakh translation.
+v184 30 December 2021 Spreadsheets with an empty top row can now be imported.
+The drum roll sound (and all other music) now lasts until the wheel stops spinning.
+Added three more after spin sounds.
+Can you spot them? v183 25 December 2021 There is now one button to edit both wheel title and description.
+Added new during and after spin sounds.
+Fixed a bug with automatically removing the winner after 5 seconds by preventing users from spinning until the removal has occurred.
+UI improvements and bug fixes.
+v182 11 December 2021 Wheels can now have a description up to 200 characters long! You can now add and remove images to and from existing entries in the advanced editor.
+v181 27 November 2021 You can now make copies of shared wheels unless the creator chose to disable that functionality when sharing.
+Hidden entries are now grayed out in the advanced editor.
+Added 19 new music tracks.
+v179 19 November 2021 Added more music tracks and the new music category of Hip hop.
+Sound can now be muted on shared wheels.
+The 'Hide' button no longer appears on noneditable advanced shared wheels.
+v178 14 November 2021 Added more music tracks and the new music category of Folk music.
+You can now pick random spin music from a music genre.
+Entries can be duplicated in the advanced editor.
+UI improvements to the Customize dialog.
+v177 7 November 2021 Added 39 new music tracks for a total of 89, sorted by genre.
+Added an option for randomized spin music.
+UI improvements to the Customize dialog.
+v176 1 November 2021 Added the ability to enable or disable individual entries in the advanced editor.
+Added 48 new country flag themes (we now have the 71 most populous countries), and a few Pride flags.
+Security and stability updates.
+v175 23 October 2021 Added buttons to move entries up and down in the advanced editor.
+Added flag themes for China and Japan.
+v174 19 October 2021 Added image thumbnails to the advanced editor.
+Fixed a fullscreen bug for atypical resolutions.
+v173 17 October 2021 Added an advanced editor that allows setting colors per entry.
+Theme selector now shows color previews in the dropdown.
+Wheel titles now show in fullscreen mode.
+v172 3 October 2021 Added Macedonian translation v171 2 October 2021 Added a button that allows you to edit the title of a wheel without having to save or share it v170 28 September 2021 Reverted to the instant shuffle and sort behavior used in v168 and earlier, based on feedback from you all.
+Thank you for helping us build a better app! v169 26 September 2021 Make shuffling and sorting of wheel entries more visual.
+Change deletion policy, so wheels are deleted after a year of inactivity instead of six months.
+v168 19 September 2021 Warn Windows RT users that they may not be able to open or save wheels v167 12 September 2021 Improved performance v166 28 August 2021 Reduced the frequency of draw calls when the wheel is still to improve idle GPU and battery usage.
+Added Tamil translation.
+v165 26 August 2021 Security fix v163 21 August 2021 Added FAQs and the number of wheel spins to the homepage v162 18 August 2021 Improved performance v161 11 August 2021 Added a carousel below the wheel entries box.
+It displays various messages, including a poll that we want you to vote in! The browser tab now displays the title of your wheel, to make life easier when you have multiple wheels open at once.
+v160 7 August 2021 Added a page in the Share dialog where you can see any wheels you shared after July 12th 2021.
+Reverted a change to the wheel deceleration behavior because of community feedback (y'all hated the change we made to it in v159).
+v159 6 August 2021 Added the ability to upload your own wheel background images.
+Fixed an issue causing images on the wheel to not display.
+v157 30 July 2021 Added wheel background images.
+You can now set the entire background of your wheel to be a single large image, instead of only the center.
+v153 25 July 2021 Removed grey contours around sections of the wheel.
+They can be re-enabled under the Appearance tab of the Customize dialog.
+v151 22 July 2021 Added the ability to input a short text in the wheel center from the Customize menu v150 18 July 2021 Added a customization option for displaying or hiding the wheel title v149 17 July 2021 You can now name shared wheels.
+Started displaying wheel title on saved and shared wheels.
+Added Bosnian translation.
+v148 14 July 2021 Added a Hide tab that lets you get a less cluttered UI v146 11 July 2021 Fixed issue causing some users to be unable to share wheels.
+Updated favicon to use our new logo.
+v145 9 July 2021 Added Armenian translation.
+Performance and security updates.
+v144 7 July 2021 Added Welcome page to the FAQ v143 6 July 2021 Added Lao translation.
+Added flags to the language dropdown menu for non-Windows platforms.
+v141 5 July 2021 Added an Account dialog that can be accessed from the More menu, from which you can sign in or out, as well as export data and delete your account.
+Moved Dark mode to the More menu.
+Added Lithuanian flag theme.
+v140 4 July 2021 Added a page for user-created reviews and tutorials.
+Added a Sort button to the Results tab.
+v139 2 July 2021 Added a page about how to use the wheel in the classroom v138 27 June 2021 Added warning to the Save and Share dialogs regarding lifetime of saved and shared wheels v137 20 June 2021 Previewing the 'Read out the winning name' option in After Spin settings now reads the first entry on the wheel v136 13 June 2021 Fixed a bug preventing Facebook mobile app users from loading the page v135 12 June 2021 Added the option to select a different speech synthesizer voice where available v131 18 May 2021 Fixed bug: if you entered only images and unchecked "Allow duplicates", only the first image would appear on the wheel.
+v130 15 May 2021 Reworked hat to cover plate for when there are too many entries to display.
+Entries now appear in order on the wheel rather than randomly, text doesn't change sizes mid-spin, and a bug regarding randomness has been resolved.
+v129 8 May 2021 Added new after spin sounds v128 4 May 2021 Added Hanna as an eighth default name v127 29 April 2021 Added Bangladesh, Brazil, Colombia, Greece, and Iraq flag themes v126 24 April 2021 Added changelog, and Egypt, Morocco, Saudi Arabia, and South Africa flag themes v125 23 April 2021 Added FAQ tab on ads v124 22 April 2021 Added volume sliders to during and after spin sounds v120 21 April 2021 Added play and stop buttons to the after spin sounds tab of the customization menu v116 15 February 2021 Added email and password login v114 9 February 2021 Made links in winning entries clickable v113 3 February 2021 Added new spin music v111 17 January 2021 Added results tab v110 15 January 2021 Added play and stop buttons to the during spin sounds tab of the customization menu v109 14 January 2021 Increased maximum displayed names to 1000 from 500 How many names/items can I put on the wheel?  The wheel can display up to 1000 names at one time.
+We added this limit, as the names become too small to read if more are displayed.
+If you enter more than 1000 names in the text box, new names are randomly picked from the text box and put on the wheel as it spins.
+The result is that all names in the text box have the same chance of winning, even if only 1000 are displayed on the wheel at any one time.
+
+ Also, note that if you want to put thousands of names on the wheel, importing them from a Google Sheet (click More, then Link Google Spreadsheet) is faster than pasting them into the textbox.
+But both approaches work.
+ Can the wheel display non-Latin characters?  Yes, just enter the characters you want in the text box.
+See here for a wheel showing the word for water in Arabic, Chinese, Hindi, Korean, Latin, Russian, Thai and Vietnamese.
+ Can the wheel display symbols instead of text?  Yes, you can copy special characters like smileys from other websites and paste them into the text box.
+They will then appear on the wheel.
+See this wheel for an example.
+Emojipedia is a great place to find characters to copy.
+ Can the wheel display images instead of text?  Yes, click the 
+ Add image button and you can upload an image.
+If you write text next to the image in the text box, that text will appear on top of the image.
+
+ Images with uniform background color work the best.
+Each slice with an image gets the same background color as the image.
+Some example wheels: 
+
+Yes, no, maybe
+Cartoon monsters
+Gaming icons
+
+
+ Is there a mobile app?  No, but the wheel has been optimized to run well on most mobile phones and tablets.
+As a matter of fact, about half of the people who use the wheel do so from mobile phones or tablets.
+ Who has created the media? Media License Creator Falafel image Attribution 2.0 Generic Marco Verch Professional Photographer and Speaker Chow mein image Public domain Engin Akyurt Fish and chips image CC0 Public Domain George Hodan Hamburger image Creative Commons CC0 1.0 Universal Public Domain Dedication Evan Amos Tortilla espaÃ±ola image Creative Commons Zero - CC0 Unknown, via www.piqsels.com CrÃªpes image Attribution-ShareAlike 2.0 Generic Rick Cantler Pierogi image GNU Free Documentation License Stako Feijoada image Attribution-ShareAlike 2.0 Generic Yusuke Kawasaki Pad thai image Attribution 2.0 Generic Ted Murphy DÃ¶ner kebab image Attribution 2.0 Generic AleGranholm Phá» image CC0 Public Domain Van Tan Tran Blue flower image CC0 Public Domain flxguticar Can I embed my wheel in my website or blog?  Yes, insert this HTML in your web page:  <iframe src="https://wheelofnames.com/abc-123" width="100%" height="800"&gt.
+</iframe&gt.
+ Replace the link with the one given to you when you clicked the Share button.
+You may want to experiment with the values of width and height to get a good fit.
+ Can I embed the wheel in Google Sites?  Yes, by doing this: 
+
+In the Insert panel, click Embed.
+Click By URL in the window that pops up.
+Enter https://wheelofnames.com (or the link to a shared wheel that you have created) in the textbox.
+Click Whole page and then Insert.
+Click Publish to make the page available to your users.
+ Can I embed the wheel in a slide presentation?  Depends on which presentation software you are using: 
+
+Google Slides: Not possible.
+Prezi: Not possible.
+Powerpoint: Potential solution.
+Keynote: Potential solution.
+ How can I stream the wheel in OBS?  To stream the wheel with OBS, you can either use a Window Capture or Browser source.
+We recommed using Window Capture as it is easiest to set up.
+just select your browser window that you have Wheel of Names open in.
+
+ To use a browser source, you must input https://wheelofnames.com into the source field.
+You must then open the context menu of the browser source (right click) and click 'Interact' to be able to close the cookie banner and advertisement, and spin the wheel.
+
+ If you wish to key out the background of the page, you must first create the wheel in your ordinary browser, change the background color, and save or share it.
+Then input the shared wheel link in the browser source or open your saved wheel.
+From there, you can add a chroma key filter on the source and choose the same rgb or hex value as the page background.
+ How do I use the wheel when Iâm not online?  If you have a modern browser, you will be able to enter wheelofnames.com in the address field and use the app even if you are offline.
+
+ You do need to be online to save or share wheels, or to get users from Twitter or a Google spreadsheet.
+ I want to raffle off a prize among those of my attendees who fill out my survey.
+How do I do this?  Create your survey in Google Forms.
+Include one question where you ask the attendee to identify themselves, for example by first name and last name initial.
+Click Responses and then click the green spreadsheet icon.
+This creates a new spreadsheet where all responses will be recorded.
+Share the link to your form among your attendees.
+Form links are long, so you may want to use a URL shortener, like bit.ly, to create a link that users can enter by hand.
+
+ Once your attendees start submitting the form, go to wheelofnames.com and click More then 
+ Link Google Spreadsheet.
+After logging in you will be able to pick which of your Google spreadsheets to read data from, and which tab and column in that spreadsheet.
+The wheel and the spreadsheet are now linked, and as new form submissions are made, they will appear in the wheel automatically.
+If you remove a winner from the wheel, the link to the spreadsheet is broken and it won't be automatically updated if the spreadsheet changes.
+ Is the wheel really random?  Yes, it is.
+When you click the wheel, it accelerates for exactly one second, then it is set to a random rotation between 0 and 360 degrees, and finally it decelerates to a stop.
+The setting of a random rotation is not visible to the naked eye as it happens when the wheel is spinning quite fast.
+
+ Is the random rotation truly random? Yes, itâs quite random, within the limits of what computers can do.
+The random number is created by the random number generator built into your browserâs Javascript engine.
+ But I spun the wheel ten times and one entry came up more often than the others!  The wheel doesn't have memory, so past outcomes do not affect future results.
+In this way it works like a coin toss.
+If you toss a coin ten times, there is no guarantee that you will get exactly five heads and five tails.
+As a matter of fact, there is only a 24.6% chance that you will get that outcome.
+
+ If you spin the wheel several times, duplicate results are more common than your intuition might tell you.
+If you have 10 entries on a wheel and spin it 5 times, there is a 70% chance that at least one entry will come up more than once.
+ When I click 
+ Shuffle is the shuffle really random?  Yes, the shuffle is random.
+It uses the Durstenfeld algorithm, a computer-optimized variant of the FisherâYates shuffle.
+
+ Because the shuffle is random, there is no guarantee that all items move.
+For example, if you have 5 items in the textbox and you shuffle them, 20% of the time the first item will remain in first place.
+The same would be true if you manually shuffled a deck of five cards in a truly random way.
+ Can I rig the wheel?  No, but you can skew the odds by creating multiple entries with the same name.
+For example, if youâd like âAppleâ to come up twice as often as âBananaâ, enter âAppleâ on two separate lines in the text box, and âBananaâ only on one.
+ Can I change the names/items in my saved wheels?  Yes, edit the wheel, click 
+ Save at the top of the screen and pick the name of the wheel you want to overwrite in the dropdown box that appears.
+ Can I access my saved wheels from multiple devices?  Yes, you can access all of your saved wheels if you log in as the same user on the other device.
+ Can I delete a previously saved wheel?  Yes, click 
+ Open and then click 
+ Delete for the wheel that you want to delete.
+ How do I run an event where others can see me spinning the wheel live?  You have two options: 
+
+ Record video from your screen and publish the video file on the event date and time.
+Use one of the screen recording software packages listed on this page.
+
+ If your event will run on Facebook, you can stream video from your screen to your audience.
+You can read more about Facebook video streaming here.
+
+
+
+ Can I record a video of spinning the wheel and then post it on my website/blog/social media?  You can use any screen capture software to record your screen when you spin the wheel.
+You can read more about which screen recorder to pick, depending on your operating system: 
+
+Android
+Chromebook
+MacOS
+iOS
+Windows
+
+
+ Can I share a wheel that I have built?  Yes, click 
+ Share and a link is created.
+You can use email, social media, etc to share that link.
+Anyone who uses the link will see the wheel just the way it looks to you, including names, colors, and sound settings.
+ Can I turn off the sound effects?  Yes.
+Click 
+ Customize and a dialog box will appear where you can turn on or off the ticking sound made by the wheel, as well as the cheers sound effect played when the wheel stops.
+ Can I change the sound effects or music to my own?  Sorry, the app does not support this.
+You can of course play music from another app or web page while you spin the wheel.
+ What are the sound effects?  Some of the sound effects were downloaded under the Creative Commons Attribution 3.0 license.
+They have been recorded by: 
+
+Tick: Notification 2_2 by Joao_Janz
+Cheers: Small Crowd Applause Sound by Yannick Lemieux
+
+
+
+ The other sound effects and music tracks have been licensed from various online music websites.
+ Sustainability  We have designed this website to be as environmentally sustainable as possible.
+One important choice is where the servers that host the website are and what type of energy is powering them.
+We have chosen Google's datacenter in Council Bluffs, Iowa.
+Google's datacenters worldwide are carbon neutral, and the Iowa datacenter is powered by 93% carbon-free energy.
+You can see the other green metrics for that datacenter below.
+The Green Web Foundation has certified our website is hosted green.
+
+
+
+ 93% 
+ carbon-free energy 
+ 2x 
+ more efficient than typical enterprise data centers 
+ 1.1 
+ Power Usage Effectiveness (PUE) 
+ 90% 
+ waste diverted from landfills 
+
+ This website is hosted Green - checked by thegreenwebfoundation.org.
+
+
+
+ A family of deer have moved in next to the Council Bluffs, Iowa datacenter.
+Terms and Conditions Last updated: June 20, 2021
+Please read these terms and conditions carefully before using Our Service. Interpretation and Definitions Interpretation The words of which the initial letter is capitalized have meanings defined under the following conditions.
+The following definitions shall have the same meaning regardless of whether they appear in singular or in plural. Definitions For the purposes of these Terms and Conditions:
+
+
+
+Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+
+
+
+Account means a unique account created for You to access our Service or parts of our Service.
+
+
+
+Country refers to: California, United States
+
+
+
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to OmanderConsulting LLC, 1845 Elsie Ave, Mountain View, CA 94043, USA.
+
+
+
+Content refers to content such as text, images, or other information that can be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.
+
+
+
+Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+
+
+
+Feedback means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.
+
+
+
+Service refers to the Website.
+
+
+
+Terms and Conditions (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
+
+
+
+Third-party Social Media Service means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+
+
+
+Website refers to WheelOfNames, accessible from https://wheelofnames.com
+
+
+
+You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+
+ Acknowledgment These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company.
+These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
+Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions.
+These Terms and Conditions apply to all visitors, users and others who access or use the Service.
+By accessing or using the Service You agree to be bound by these Terms and Conditions.
+If You disagree with any part of these Terms and Conditions then You may not access the Service.
+You represent that you are over the age of 18.
+The Company does not permit those under 18 to use the Service.
+Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company.
+Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You.
+Please read Our Privacy Policy carefully before using Our Service. Allowed usage Allowed (unless prohibited in the "Not allowed" section below): 
+Use this Website for legal commercial and non-commercial purposes that don't involve gambling.
+In other words, You can use it in your school classroom, for Your company, in Your non-profit organization, at public or private events, on Your YouTube channel, on Your blog, etc.
+Include this Website in Your website with an <iframe>.
+Create wheels and share with others, for free or for payment.
+ Not allowed: 
+Use this Website for Your business, if Your primary business is gambling (letting visitors wager money or something of value, with the primary intent of winning money or material goods).
+In other words, using the Website for a charity raffle is allowed (if it is legal in Your jurisdiction) even if Your participants pay money for tickets.
+Using the Website to run a casino business is not.
+Wording or images referencing any of the topics listed in the Content section.
+ Privacy  See the Privacy policy.
+ User Accounts When You create an account with Us, You must provide Us information that is accurate, complete, and current at all times.
+Failure to do so constitutes a breach of the Terms, which may result in immediate termination of Your account on Our Service.
+You are responsible for safeguarding the password that You use to access the Service and for any activities or actions under Your password, whether Your password is with Our Service or a Third-Party Social Media Service.
+You agree not to disclose Your password to any third party.
+You must notify Us immediately upon becoming aware of any breach of security or unauthorized use of Your account.
+You may not use as a username the name of another person or entity or that is not lawfully available for use, a name or trademark that is subject to any rights of another person or entity other than You without appropriate authorization, or a name that is otherwise offensive, vulgar or obscene. Content Your Right to Post Content Our Service allows You to post Content.
+You are responsible for the Content that You post to the Service, including its legality, reliability, and appropriateness.
+By posting Content to the Service, You grant Us the right and license to use, modify, publicly perform, publicly display, reproduce, and distribute such Content on and through the Service.
+You retain any and all of Your rights to any Content You submit, post or display on or through the Service and You are responsible for protecting those rights.
+You agree that this license includes the right for Us to make Your Content available to other users of the Service, who may also use Your Content subject to these Terms.
+You represent and warrant that: (i) the Content is Yours (You own it) or You have the right to use it and grant Us the rights and license as provided in these Terms, and (ii) the posting of Your Content on or through the Service does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights of any person. Content Restrictions The Company is not responsible for the content of the Service's users.
+You expressly understand and agree that You are solely responsible for the Content and for all activity that occurs under your account, whether done so by You or any third person using Your account.
+You may not transmit any Content that is unlawful, offensive, upsetting, intended to disgust, threatening, libelous, defamatory, obscene or otherwise objectionable.
+Examples of such objectionable Content include, but are not limited to, the following:
+
+Swear words, vulgar language.
+Nudity, porn, sex acts.
+Sexual exploitation of minors.
+Harassment or bullying of an individual or group of people.
+Physical or mental harm to oneself or others.
+Unlawful or promoting unlawful activity.
+Defamatory, discriminatory, or mean-spirited content, including references or commentary about religion, race, sexual orientation, gender, national/ethnic origin, or other targeted groups.
+Spam, machine â or randomly â generated, constituting unauthorized or unsolicited advertising, chain letters, any other form of unauthorized solicitation, or any form of lottery or gambling.
+Containing or installing any viruses, worms, malware, trojan horses, or other content that is designed or intended to disrupt, damage, or limit the functioning of any software, hardware or telecommunications equipment or to damage or obtain unauthorized access to any data or other information of a third person.
+Infringing on any proprietary rights of any party, including patent, trademark, trade secret, copyright, right of publicity or other rights.
+Impersonating any person or entity including the Company and its employees or representatives.
+Violating the privacy of any third person.
+False information and features.
+
+The Company reserves the right, but not the obligation, to, in its sole discretion, determine whether or not any Content is appropriate and complies with this Terms, refuse or remove this Content.
+The Company further reserves the right to make formatting and edits and change the manner any Content.
+The Company can also limit or revoke the use of the Service if You post such objectionable Content.
+As the Company cannot control all content posted by users and/or third parties on the Service, you agree to use the Service at your own risk.
+You understand that by using the Service You may be exposed to content that You may find offensive, indecent, incorrect or objectionable, and You agree that under no circumstances will the Company be liable in any way for any content, including any errors or omissions in any content, or any loss or damage of any kind incurred as a result of your use of any content. Content Backups Although regular backups of Content are performed, the Company do not guarantee there will be no loss or corruption of data.
+Corrupt or invalid backup points may be caused by, without limitation, Content that is corrupted prior to being backed up or that changes during the time a backup is performed.
+The Company will provide support and attempt to troubleshoot any known or discovered issues that may affect the backups of Content.
+But You acknowledge that the Company has no liability related to the integrity of Content or the failure to successfully restore Content to a usable state.
+You agree to maintain a complete and accurate copy of any Content in a location independent of the Service. Copyright Policy Intellectual Property Infringement We respect the intellectual property rights of others.
+It is Our policy to respond to any claim that Content posted on the Service infringes a copyright or other intellectual property infringement of any person.
+If You are a copyright owner, or authorized on behalf of one, and You believe that the copyrighted work has been copied in a way that constitutes copyright infringement that is taking place through the Service, You must submit Your notice in writing to the attention of our copyright agent via email at admin@wheelofnames.com and include in Your notice a detailed description of the alleged infringement.
+You may be held accountable for damages (including costs and attorneys' fees) for misrepresenting that any Content is infringing Your copyright. DMCA Notice and DMCA Procedure for Copyright Infringement Claims You may submit a notification pursuant to the Digital Millennium Copyright Act (DMCA) by providing our Copyright Agent with the following information in writing (see 17 U.S.C 512(c)(3) for further detail):
+
+An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright's interest.
+A description of the copyrighted work that You claim has been infringed, including the URL (i.e., web page address) of the location where the copyrighted work exists or a copy of the copyrighted work.
+Identification of the URL or other specific location on the Service where the material that You claim is infringing is located.
+Your address, telephone number, and email address.
+A statement by You that You have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
+A statement by You, made under penalty of perjury, that the above information in Your notice is accurate and that You are the copyright owner or authorized to act on the copyright owner's behalf.
+
+You can contact our copyright agent via email at admin@wheelofnames.com.
+Upon receipt of a notification, the Company will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged content from the Service. Your Feedback to Us You assign all rights, title and interest in any Feedback You provide the Company.
+If for any reason such assignment is ineffective, You agree to grant the Company a non-exclusive, perpetual, irrevocable, royalty free, worldwide right and license to use, reproduce, disclose, sub-license, distribute, modify and exploit such Feedback without restriction. Links to Other Websites Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
+The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services.
+You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
+We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit. Termination We may terminate or suspend Your Account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
+Upon termination, Your right to use the Service will cease immediately.
+If You wish to terminate Your Account, You may simply discontinue using the Service. Limitation of Liability Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service.
+To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
+Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply.
+In these states, each party's liability will be limited to the greatest extent permitted by law. "AS IS" and "AS AVAILABLE" Disclaimer The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind.
+To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice.
+Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
+Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon.
+(ii) that the Service will be uninterrupted or error-free.
+(iii) as to the accuracy, reliability, or currency of any information or content provided through the Service.
+or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
+Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You.
+But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law. Governing Law The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service.
+Your use of the Application may also be subject to other local, state, national, or international laws. Disputes Resolution If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company. For European Union (EU) Users If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in. United States Legal Compliance You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties. Severability and Waiver Severability If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect. Waiver Except as provided herein, the failure to exercise a right or to require performance of an obligation under this Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall be the waiver of a breach constitute a waiver of any subsequent breach. Translation Interpretation These Terms and Conditions may have been translated if We have made them available to You on our Service.
+You agree that the original English text shall prevail in the case of a dispute. Changes to These Terms and Conditions We reserve the right, at Our sole discretion, to modify or replace these Terms at any time.
+By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms.
+If You do not agree to the new terms, in whole or in part, please stop using the website and the Service. Contact Us If you have any questions about these Terms and Conditions, You can contact us by email at admin@wheelofnames.com.

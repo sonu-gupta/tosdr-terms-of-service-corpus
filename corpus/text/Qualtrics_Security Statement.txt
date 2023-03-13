@@ -1,0 +1,35 @@
+
+Security Statement
+January 31, 2020
+OUR SECURITY, BRIEFLY STATED
+Qualtricsâ most important concern is the protection and reliability of customer data.
+Our servers are protected by high-end firewall systems and scans are performed regularly to ensure that any vulnerabilities are quickly found and patched.
+Application penetration tests are performed annually by an independent third-party.
+All services have quick failover points and redundant hardware, with backups performed daily.
+Access to systems is restricted to specific individuals who have a need-to-know such information and who are bound by confidentiality obligations.
+Access is monitored and audited for compliance.
+Qualtrics uses Transport Layer Security (TLS) encryption (also known as HTTPS) for all transmitted data.
+Surveys may be protected with passwords.
+Our services are hosted by trusted data centers that are independently audited using the industry standard SSAE-18 method.
+ISO 27001 Certification
+In April 2018, Qualtrics achieved ISO 27001 certification.
+The direct link to the information and certificate is: https://www.schellman.com/certificate-directory?certificateNumber=1723268-3.
+To independently verify the status of the certification, please visit https://www.schellman.com/certificate-directory.
+
+
+FedRAMP Authorization
+Qualtrics is FedRamp Authorized.
+FedRAMP is the standard of U.S.
+government security compliance, with over 300 controls based on the highly-regarded NIST 800-53 that requires constant monitoring and periodic independent assessments.
+More information is found at https://www.fedramp.gov.
+HITRUST
+To better support our healthcare customers, Qualtrics achieved the HITRUST certification in September 2018.
+The validated report is available upon request to your account executive.
+
+CSTAR SELF ASSESSMENT
+Qualtrics has published their CAIQ Self Assessment for customers.
+https://cloudsecurityalliance.org/star/registry/qualtrics/
+
+More Information
+Qualtrics customers may request various security-related documents and questionnaires by contacting their account executive.
+

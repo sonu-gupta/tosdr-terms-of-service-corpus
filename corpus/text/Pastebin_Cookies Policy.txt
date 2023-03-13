@@ -1,0 +1,71 @@
+
+         Pastebin GO API tools faq paste Sign in Sign up Pastebin.com Cookies Policy Last updated: April 18, 2018
+ A cookie is a small piece of text that our web server stores on your computer or mobile device, which your browser sends to us when you return to our site.
+Cookies do not necessarily identify you if you are merely visiting Pastebin.
+however, a cookie may store a unique identifier for each logged in user.
+The cookies Pastebin sets are essential for the operation of the website, or are used for performance or functionality.
+By using our website, you agree that we can place these types of cookies on your computer or device.
+If you disable your browser or device's ability to accept cookies, you will still be able to browse the website, but you will not be able to log in to your Pastebin account.
+Other functionality might be broken too.
+Which cookies get stored and why When you use pastebin various cookies get stored.
+ cookie: 'social_login' - we store/use this cookie when you login to Pastebin with one of the 3 social media login options. cookie: 'pastebin_user' - is used to identify your Pastebin account when you are logged in. cookie: 'l2c' - is used to hide notification messages that you have closed. cookie: '__cfduid' - is used by our network provider CloudFlare.
+more info cookies: '_ga, _gat, _gid' - are used by Google Analytics, more info about that below. Our use of cookies and tracking Pastebin uses cookies to make interactions with our service easy and meaningful.
+We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of Pastebin.
+
+
+Google Analytics
+ We use Google Analytics as a third party tracking service, but we donât use it to track you individually or collect your User Personal Information.
+We use Google Analytics to collect information about how our website performs and how our users, in general, navigate through and use Pastebin.
+This helps us evaluate our users' use of Pastebin.
+compile statistical reports on activity.
+and improve our content and website performance.
+
+ Google Analytics gathers certain simple, non-personally identifying information over time, such as your IP address, browser type, internet service provider, referring and exit pages, time stamp, and similar data about your use of Pastebin.
+We do not link this information to any of your personal information such as your user name.
+
+ Pastebin will not, nor will we allow any third party to, use the Google Analytics tool to track our users individually.
+collect any User Personal Information other than IP address.
+or correlate your IP address with your identity.
+Google provides further information about its own privacy practices and offers a browser add-on to opt out of Google Analytics tracking.
+
+ Certain pages on our site may set other third party cookies.
+For example, we may embed content, such as videos, from another site that sets a cookie.
+While we try to minimize these third party cookies, we canât always control what cookies this third party content sets.
+
+
+Tracking
+ "Do Not Track" is a privacy preference you can set in your browser if you do not want online services to collect and share certain kinds of information about your online activity from third party tracking services.
+We do not track your online browsing activity on other online services over time and we do not permit third-party services to track your activity on our site beyond our basic Google Analytics tracking, which you may opt out of here.
+Because we do not share this kind of data with third party services or permit this kind of third party data collection on Pastebin for any of our users, and we do not track our users on third-party websites ourselves, we do not need to respond differently to an individual browser's Do Not Track setting.
+
+ If you are interested in turning on your browserâs privacy and Do Not Track settings, the Do Not Track website has browser-specific instructions.
+Public Pastes 
+ lab 6, task 2 C++ | 18 min ago 
+ lab 6, task 1 C++ | 18 min ago 
+ pixel2text.py Python | 27 min ago 
+ Untitled JavaScript | 29 min ago 
+ Untitled HTML | 34 min ago 
+ SaintVortex's Exploit Gui V1 Lua | 52 min ago 
+ psandbox2.sh (draft #2) Bash | 1 hour ago 
+ APS Labs 6 Staticko Rutiranje Java | 1 hour ago 
+ create new paste  /&nbsp.
+syntax languages  /&nbsp.
+archive  /&nbsp.
+faq  /&nbsp.
+tools  /&nbsp.
+night mode  /&nbsp.
+api  /&nbsp.
+scraping api  privacy statement  /&nbsp.
+cookies policy  /&nbsp.
+terms of serviceupdated  /&nbsp.
+security disclosure  /&nbsp.
+dmca  /&nbsp.
+report abuse  /&nbsp.
+contact  Do not share my Personal Information  By using Pastebin.com you agree to our cookies policy to enhance your experience.
+ Site design &amp.
+logo Â© 2020 Pastebin We use cookies for various purposes including analytics.
+By continuing to use Pastebin, you agree to our use of cookies as described in the Cookies Policy.
+ OK, I Understand Not a member of Pastebin yet?
+Sign Up, it unlocks many cool features! &nbsp.
+
+      

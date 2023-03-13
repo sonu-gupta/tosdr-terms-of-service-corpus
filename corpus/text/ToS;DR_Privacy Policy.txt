@@ -1,0 +1,36 @@
+
+We only use cookies to store your language, theme preferences or sessions and not any tracking technology.
+ 
+We anonymize all IP addresses in our nginx logs, but store them for up to 1 day in our Redis Ratelimiting server.
+ 
+Your IP address will temporarily be visible in to Netcup who provide infrastructure.
+We employ anonymized IP logging, this means nginx collects web requests but anonymizes IPs in the process
+(Private IP used in the example below)
+1192.115.194.0 - - [01/May/2021:08:21:12 +0200] "GET /api/1/all.json HTTP/2.0" 200 753375 "-" "Mozilla/5.0 (Windows NT 6.1.
+Win64.
+x64.
+rv:88.0) Gecko/20100101 Firefox/88.0" "-"
+Your IP may be stored temporarily in our Redis Cache in order to enforce rate limits.
+For our assets such as logos, branding images we use a selfhosted S3: Minio.
+Our forum software is self hosted using DiscourseNginx IP logging configuration 
+1map $remote_addr $ip_anonym1 {
+2 default 0.0.0.
+3 "~(?P<ip>(\d+)\.(\d+)\.(\d+))\.\d+" $ip.
+4 "~(?P<ip>[^:]+:[^:]+):" $ip.
+5}
+6
+7map $remote_addr $ip_anonym2 {
+8 default .0.
+9 "~(?P<ip>(\d+)\.(\d+)\.(\d+))\.\d+" .0.
+10 "~(?P<ip>[^:]+:[^:]+):" ::.
+11}
+12
+13map $ip_anonym1$ip_anonym2 $ip_anonymized {
+14 default 0.0.0.0.
+15 "~(?P<ip>.*)" $ip.
+16}
+17
+18log_format anonymized '$ip_anonymized - $remote_user [$time_local] ' 19 '"$request" $status $body_bytes_sent ' 20 '"$http_referer" "$http_user_agent"'.
+21access_log /var/log/nginx/access.log anonymized.
+
+ 

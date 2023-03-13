@@ -1,0 +1,604 @@
+
+        We use cookies to ensure you get the best experience on our website.
+If you agree to our use of cookies, please continue to use our site.
+For more information, see our privacy policy.Continue 
+Sign In
+
+
+A Cloud Guru
+Blog
+Resources
+Forum
+Careers
+ Close 
+Browse Learning
+For Business
+For Individuals
+Learn by Doing
+Pricing
+ Close 
+Get Started
+
+
+ BackBrowse Learning CoursesBuild your modern tech skills with our comprehensive course library
+
+ Hands-on LabsGet your hands cloudy and build skills on demand with 1,500+ guided labs
+
+ Learning PathsGo from novice to guru in your chosen specialty
+
+Browse All Learning >
+
+
+
+
+ BackBrowse Platforms AWSLearn from an AWS Advanced Consulting Partner
+
+ AzureLearn Azure from our Microsoft MVP-led team
+
+ GCPPrep for in-demand certs or go deep into advanced topics
+
+ LinuxLevel up with 1,400+ hours of Linux learning
+
+Browse AllSAVE 20%!
+
+Hands-on Labs Top Hands-on LabsFind our most popular Hands-on Labs
+
+ By PlatformFind labs filtered by your preferred platform
+
+ By SpecialtyFind labs focused on security, data, and other specialties
+
+Browse AllSAVE 20%!
+
+
+ AWS DeveloperTake your dev skills from novice to guru
+
+ AWS ArchitectGo from novice to guru as a cloud architect
+
+ AWS DataBecome a guru in all things data
+
+ AWS DevOpsLearn the time warping skills a DevOps guru needs
+
+ AWS SecurityBecome a master of defense and secure your cloud
+
+ AWS ExecutiveBuild your cloud foundation to better define strategies and priorities
+
+Browse AllSAVE 20%!
+
+
+Sign In
+ Close 
+Get Started
+ ACG PoliciesData Processing Addendum Policies 
+ Privacy Policy
+ Code of Conduct
+ Terms of Use
+ Platform Sub-processors
+ Platform and Operational Security
+ Technical and Organisational Measures (TOM)
+ A Cloud Guru Hands-On Feature Terms
+ Master Services Agreement
+ Data Processing Addendum
+Data Processing AddendumThis Data Processing Addendum (âDPAâ) sets out the additional terms and conditions on which A Cloud Guru Ltd.
+and Serverless Heroes, Inc.
+or their affiliates (âACGâ), will process Personal Data when providing services to the party subscribing to ACGâs services (âSubscriber,â âyou,â âyourâ), where those services are governed by GDPR or where the parties otherwise agree that this DPA applies.
+This DPA supplements and is incorporated into the Agreement between ACG and Subscriber.
+
+BACKGROUND AND INTERPRETATION
+
+A.
+Subscriber and ACG entered into an Agreement that may require ACG to process Personal Data on behalf of Subscriber.
+B.
+This DPA contains the mandatory clauses required by Article 28(3) of the General Data Protection Regulation (EU 2016/67) (âGDPRâ) for contracts between controllers and processors.
+C.
+This DPA consists of two parts: the main body of the DPA, and Annex A, B (including Appendices 1 and 2) and C.&nbsp.
+This DPA, including the Standard Contractual Clauses in Annex B, form a part of the Agreement and are each deemed to be executed in connection with the execution of the Agreement by ACG and Subscriber and legally binding upon such parties.
+D.
+The Annexes hereto form part of this DPA, and any reference to this DPA includes the Annexes.&nbsp.
+In the case of conflicting terms, the following terms will govern, in order of precedence: first, the Standard Contractual Clauses, then the body of this DPA, then the Annexes to this DPA, then the Agreement.
+
+AGREED TERMS:
+
+
+1.  DEFINITIONS.
+Unless otherwise defined in the Agreement or in the body of this DPA, all capitalized terms used in this DPA will have the following corresponding meanings:
+1.1.
+âACG Security Standardsâ: the security standards of ACG set forth on the following webpage https://acloudguru.com/policies/security.
+1.2.&nbsp.
+âAgreementâ: the agreement and Order Form(s) or other applicable agreement(s) and/or terms and conditions governing Subscriberâs access to and use of the services, products, and platforms offered by ACG (âServicesâ).
+1.3.
+âBusiness Purposeâ: (a) to perform in accordance with the terms of the Agreement and to provide, maintain, enhance, and update the Services provided to Subscriber under the Agreement.
+and (b) to prevent or address service, security, support, or technical issues related to the Services.
+1.4.
+âData Subjectâ: an individual who is the subject of Personal Data.&nbsp.
+As between ACG and Data Subjects who are Subscriberâs authorized users under the Agreement, where ACG processes Personal Data of those Data Subjects in connection with their use of the Services or where such data is supplied to ACG by those Data Subjects, ACG will process such Personal Data solely in accordance with ACGâs Privacy Policy, available at: https://acloudguru.com/policies/privacy.
+1.5.
+âData Protection Lawsâ: all laws and regulations, including laws and regulations of the European Union, the European Economic Area and their member states (including but not limited to, GDPR), Switzerland, the United Kingdom, and the United States and its states, which are applicable to the Processing of Personal Data under the Agreement.
+1.6.
+âPersonal Dataâ: any information relating to an identified or identifiable natural person that is processed by ACG as a result of, or in connection with, ACGâs provision of the Services under the Agreement.
+an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+1.7.
+âPersonal Data Breachâ: a breach of ACGâs security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Personal Data.
+1.8.
+âProcessing, processes, and processâ: any activity that involves the processing of Personal Data or as the Data Protection Laws may otherwise define processing, processes or process.&nbsp.
+This includes any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+Processing also includes transferring Personal Data to third parties.
+1.9.
+âStandard Contractual Clausesâ: the European Commissionâs Standard Contractual Clauses for the transfer of Personal Data from the European Union to processors established in third countries (controller-to-processor transfers), as set out in the Annex to Commission Decision 2010/87/EU, a completed copy of which comprises Annex B and which forms a part of this DPA.
+
+2.  
+DATA PROCESSING.
+2.1.&nbsp.
+With respect to Personal Data of Data Subjects: (a) ACG will act as âprocessorâ of Personal Data and Subscriber will act either as âcontrollerâ or âprocessor,â as defined by GDPR.
+and (b) ACG will acts as a âService Providerâ as defined by CCPA
+2.2.&nbsp.
+Subscriber retains control of the Personal Data and remains responsible for its compliance obligations under the applicable Data Protection Laws, including providing any required notices and obtaining any required consents, and for the processing instructions it gives to ACG.
+2.3.&nbsp.
+Annex A describes the subject matter, duration, nature and purpose of processing and the Personal Data categories and Data Subject types, which ACG may process to fulfil the Business Purpose of the Agreement.
+2.4.&nbsp.
+ACG will process Personal Data will process the Personal Data in compliance with applicable Data Protection Laws and other laws, enactments, regulations, orders, standards and other similar instruments binding upon it in the performance of this DPA.
+and if and to the extent Subscriber processes Personal Data in connection with the Services, subscriber will do the same.
+Subscriber shall have sole responsibility for the accuracy, quality, and legality of Personal Data and the means by which Subscriber acquired Personal Data.
+2.5.&nbsp.
+ACG will process Personal Data only (a) for the Business Purpose, (b) as otherwise initiated or instructed by Subscriber or its Data Subjects (e.g., via email, support tickets or instructions for configuration of tools or features made available by ACG in connection with the Services) (âInstructionsâ), or (b) as required by Data Protection Laws.&nbsp.
+The parties agree that the Agreement and DPA are deemed to be Instructions.&nbsp.
+Any additional or alternate instructions must be agreed separately agreed upon by Subscriber and ACG.&nbsp.
+ACG will promptly notify Subscriber if, in ACGâs opinion, Subscriberâs Instructions would not comply with Data Protection Laws.
+
+3.  
+CONFIDENTIALITY OF PERSONAL DATA.
+
+ACG will maintain the confidentiality of all Personal Data and will not disclose Personal Data to third parties except as authorized by Subscriberâs Agreement, as otherwise by Subscriber in writing, or as required by law.
+If a law, court, regulator or supervisory authority requires ACG to process or disclose Personal Data, ACG will first inform Subscriber of the legal or regulatory requirement and give Subscriber an opportunity to object or challenge the requirement, unless ACG is legally prohibited from doing so.
+If the Standard Contractual Clauses apply, nothing in this Section 3 varies or modifies the Standard Contractual Clauses.
+
+4. 
+CONFIDENTIALITY
+ Obligations OF ACG PERSONNEL.
+ACG restricts its personnel from processing Personal Data without authorization by ACG as described in the ACG Security Standards.
+ACG imposes appropriate contractual obligations upon its personnel, including relevant obligations regarding confidentiality, data protection and data security.
+
+5.  
+SECURITY
+.
+
+5.1.
+ACG will at all times implement appropriate technical and organizational measures as described in the AGG Security Standards.
+5.2.&nbsp.
+In particular, ACG has implemented and will maintain the following measures to ensure a level of security appropriate to the risk involved, including as appropriate:
+(a) the pseudonymization and encryption of Personal Data when such data is being transferred;
+(b) process to maintain the ongoing confidentiality, integrity, availability and resilience of processing systems and services;
+(c) written plan to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident.
+and
+(d) a process for regularly testing, assessing and evaluating the effectiveness of security measures.
+Such measures may be obtained by Subscriber from ACG or directly from a third-party supplier.
+
+6.  
+SUB-PROCESSING.
+6.1.&nbsp.
+Subscriber agrees that ACG may use sub-processors to fulfill its contractual obligations under the Agreement or this DPA or to provide certain services on its behalf.&nbsp.
+For the avoidance of doubt, the above authorization constitutes Subscriberâs written consent to the sub-processing by ACG for the purposes of Clause 11 of the Standard Contractual Clauses.&nbsp.
+ACGâs Sub-processor List (available at https://acloudguru.com/policies/subprocessors) (âSub-processor Listâ) contains an updated list of sub-processors that are currently engaged by ACG to carry out processing activities on Personal Data on behalf of Subscriber.
+6.2.&nbsp.
+ACG will provide notice of new subprocessors by publicly posting new sub-processors on ACGâs Sub-processor List, with a date-updated notice, prior to authorizing any to new sub-processor to process Personal Data.&nbsp.
+Subscriber may also subscribe to receive updates as provided on the Subprocessor List page.&nbsp.
+Subscriber may reasonably object to ACGâs use of a new sub-processor (if making the Personal Data available to sub-processor may violate applicable Data Protection Laws or weaken the protections of such Personal Data) by notifying ACG in writing within ten (10) business days after receipt of ACGâs notice.&nbsp.
+Such notice to ACG shall explain the reasonable grounds for the objection.&nbsp.
+In the event Subscriber so objects to a new sub-processor, ACG will use commercially reasonable efforts to make available to Subscriber a change in the Services or recommend a commercially reasonable change to Subscriberâs configuration or use of the Services to avoid the processing of Personal Data by the objectionable sub-processor without burdening Subscriber.&nbsp.
+If ACG is unable to make available such change within a reasonable period of time, which shall not exceed thirty (30) days, either party may terminate without penalty the Agreement with respect only to those Services which cannot be provided by ACG without the use of the objectionable new sub-processor by providing written notice to the other party.&nbsp.
+Except as set forth in this Section, or as Subscriber may otherwise authorize, ACG will not permit any sub-processor to carry out processing activities on Personal Data on behalf of Subscriber.
+6.3.&nbsp.
+Where ACG authorizes any sub-processor as described above:
+(a)&nbsp.
+ACG will restrict the sub-processorâs access to Personal Data only to what is necessary to maintain the Services or to provide the Services to Subscriber and any Users in accordance with the Agreement and ACG will prohibit the sub-processor from accessing Personal Data for any other purpose;
+(b)&nbsp.
+ACG maintains control over all Personal Data it entrusts to the sub-processor;
+(c)&nbsp.
+ACG will enter into a written agreement with the sub-processor and, to the extent that the sub-processor is performing the same data processing services that are being provided by ACG under this DPA, ACG will impose on the sub-processor the same contractual obligations that ACG has under this DPA.
+and
+(d)&nbsp.
+ACG will remain responsible for its compliance with the obligations of this DPA and for any acts or omissions of the sub-processors that cause ACG to breach any of ACGâs obligations under this DPA.
+
+7.  
+DATA SUBJECT RIGHTS.
+7.1.&nbsp.
+ACG will, at no additional cost, take such technical and organizational measures as may be appropriate, and promptly provide such information to Subscriber as Subscriber may reasonably require, to enable Subscriber to comply with:
+(a) the rights of Data Subjects under applicable Data Protection Laws, including subject access rights, the rights to rectify and erase personal data, object to the processing and automated processing of personal data, and restrict the processing of personal data.
+and
+(b) information or assessment notices served on Subscriber by any supervisory authority under the Data Protection Laws.
+7.2.&nbsp.
+ACG will notify Subscriber immediately if it receives any complaint, notice or communication that relates directly or indirectly to the processing of the Personal Data or to either partyâs compliance with the Data Protection Laws.
+7.3.&nbsp.
+ACG will notify Subscriber within ten (10) business days if it receives a request from a Data Subject to exercise any of their related rights under the Data Protection Laws.
+7.4.&nbsp.
+ACG will provide Subscriber with reasonable assistance in responding to any complaint, notice, communication or Data Subject request.
+7.5.&nbsp.
+ACG will not disclose the Personal Data to any Data Subject or to a third party other than at Subscriberâs request or instruction, as provided for in this DPA or as required by law.
+
+8.  
+SECURITY BREACH NOTIFICATION.
+8.1.&nbsp.
+ACG will (a) notify Subscriber of a Personal Data Breach without undue delay after becoming aware of the Personal Data Breach, and (b) take reasonable steps to mitigate the effects and to minimize any damage resulting from the Personal Data Breach.
+8.2.&nbsp.
+To assist Subscriber in relation to any Personal Data breach notifications Subscriber is required to make under the Data Protection Laws, ACG will include in the notification under Section 8.1(a) such information about the Personal Data Breach as ACG is reasonably able to disclose to Subscriber, taking into account the nature of the Services, the information available to ACG, and any restrictions on disclosing the information, such as confidentiality.
+8.3.&nbsp.
+Subscriber agrees that:
+(a)&nbsp.
+An unsuccessful Personal Data Breach will not be subject to this Section.
+An unsuccessful Personal Data Breach is one that results in no unauthorized access to Personal Data or to any of ACGâs equipment or facilities storing Personal Data, and may include, without limitation, pings and other broadcast attacks on firewalls or edge servers, port scans, unsuccessful log-on attempts, denial of service attacks, packet sniffing (or other unauthorized access to traffic data that does not result in access beyond headers) or similar incidents.
+and
+(b)&nbsp.
+ACGâs obligation to report or respond to a Personal Data Breach under this Section is not and will not be construed as an acknowledgment by ACG of any fault or liability of ACG with respect to the Personal Data Breach.
+(c)&nbsp.
+Notification(s) of Personal Data Breaches, if any, will be delivered to one or more of Subscriberâs account administrators or other contact information provided in the Agreement by any reasonable notification means, including via email.&nbsp.
+It is Subscriberâs sole responsibility to ensure Subscriberâs administrators and contacts maintain accurate contact information on the Subscriber account at all times.
+(d)&nbsp.
+Subscriber will cooperate in good faith with ACGâs reasonable and lawful requests, within Subscriberâs reasonable control, to assist in mitigating the effects and minimizing any damage resulting from a Personal Data Breach.
+
+9.  
+AUDITS
+.
+
+9.1.&nbsp.
+ACG shall permit Subscriber (or its appointed third party auditors), at Subscriberâs cost, to audit ACGâs compliance with this DPA or Data Protection Laws, and shall make available to Subscriber all information, systems and staff under the direct control of ACG reasonably necessary for Subscriber (or its third-party auditors) to conduct such audit upon sixty (60) daysâ prior written notice, but solely as such audit relates to ACGâs processing of the Personal Data (not any other aspect of ACGâs business or information systems).
+ACG acknowledges that it will provide Subscriber (or its third-party auditors) all necessary information and personnel as may be required to conduct such audit.
+provided however, that (a) such audit and the derivative work product produced in response to such audit shall at all times be subject to the provisions set forth in the confidentiality provisions set forth in the Agreement and (b) Subscriber will not have the right to audit, review, inspect or access any third party vendor or subcontractor site, but ACG will have a duty to seek to arrange a site visit when required by a governmental authority.&nbsp.
+Subscriber will make every effort to cooperate with ACG to schedule such audits at times that are convenient to ACG and Subscriber may not exercise its audit rights more than once in any twelve (12) calendar month period, except (i) if and when required by the instruction of a competent data protection authority.
+or (ii) Subscriber reasonably believes a further audit is necessary due to a Personal Data Breach suffered by ACG.
+9.2.&nbsp.
+ACG will reasonably assist Subscriber with meeting Subscriberâs compliance obligations under the Data Protection Laws, taking into account the nature of ACGâs processing and the information available to ACG, including in relation to Data Subject rights, data protection impact assessments and reporting to and consulting with supervisory authorities under the Data Protection Laws.
+9.3.&nbsp.
+If the Standard Contractual Clauses apply, nothing in this Section varies or modifies the Standard Contractual Clauses nor affects any supervisory authorityâs or data subjectâs rights under the Standard Contractual Clauses.
+
+10.  
+PERSONAL DATA TRANSFERS
+.
+
+10.1.&nbsp.
+Subscriber agrees that ACG will have the right to transfer personal Personal Data to ACG or its affiliates located in the United States, the United Kingdom, and/or Australia.&nbsp.
+Except for the foregoing transfers to ACG or its affiliates, ACG shall not transfer the Personal Data (nor permit the Personal Data to be transferred) to any jurisdiction other than those to which transfers are permitted under the Data Protection Laws unless ACG has first obtained Subscriberâs prior written consent and takes such measures as are necessary to ensure the transfer is in compliance with Data Protection Laws.
+Such measures may include (without limitation) transferring the Personal Data to a recipient in a country that the European Commission has decided provides adequate protection for Personal Data, to a recipient that has achieved binding corporate rules authorization in accordance with Data Protection Laws, or to a recipient that has executed standard contractual clauses adopted or approved by the European Commission.&nbsp.
+The Standard Contractual Clauses will not apply to Personal Data that is not transferred, either directly or via onward transfer, outside the European Economic Area (âEEAâ).
+10.2.&nbsp.
+If any Personal Data transfer between Subscriber and ACG requires the execution of the Standard Contractual Clauses in order to comply with the Data Protection Laws (where Subscriber is the entity exporting Personal Data to ACG outside the EEA), the parties hereby agree that the Standard Contractual Clauses contained in Annex B shall be effective and further agree to take all other actions required to legitimize the transfer.
+10.3.&nbsp.
+If Subscriber consents to appointment by ACG located within the EEA of a sub-processor located outside the EEA in compliance with the provisions of Section 6, then Subscriber authorizes ACG to enter into the Standard Contractual Clauses contained in Annex B with the sub-processor on its behalf.&nbsp.
+ACG will make the executed Standard Contractual Clauses available to Subscriber on request.
+
+11.  
+TERMINATION
+.
+
+This DPA will remain in full force and effect so long as: (a) the Agreement remains in effect.
+or (b) ACG retains any Personal Data related to the Agreement in its possession or control.
+
+12.  
+DELETION OR RETURN OF DATA.
+Upon termination of the Services for which ACG is processing Personal Data, ACG shall delete or return to Subscriber (whichever Subscriber requests) all Personal Data (including all copies) in its possession or control.&nbsp.
+This requirement shall not apply to the extent that ACG is required by the European Union, or any European Union Member State, or other country law to retain some or all of the Personal Data, in which event ACG shall protect the Personal Data from any further processing except to the extent required by such law.
+
+13.  
+RECORDS
+.
+
+13.1.&nbsp.
+ACG will keep reasonably detailed, accurate and up-to-date written records regarding any processing of Personal Data it carries out for Subscriber, including but not limited to, the access, control and security of the Personal Data, approved subcontractors and affiliates, the processing purposes, categories of processing, any transfers of Personal Data to a third country and related safeguards, and a general description of the technical and organizational security measures (âRecordsâ).
+13.2.&nbsp.
+ACG will ensure that the Records are reasonably sufficient to enable Subscriber to verify ACGâs material compliance with its obligations under this DPA and ACG will provide Subscriber with copies of the Records upon request.
+14.  AGREEMENT.
+Except as amended by this DPA, the Agreement will remain in full force and effect.
+
+ANNEX A â PERSONAL DATA PROCESSING PURPOSE AND DETAILS
+
+Details of Personal Data processing:
+
+Subject matter of Processing:&nbsp.
+Personal Data of Subscriber and Data Subjects for whom Subscriber is the data controller and ACG is the data processor.
+
+Duration of Processing:&nbsp.
+The duration of Personal Data processing is co-extensive with the duration of the Services or as otherwise provided under applicable law.
+
+Nature of Processing:
+
+Personal data storage and record-keeping
+Processing necessary to provide, maintain and improve the Services provided to Subscriber and Data Subjects
+Processing initiated by Subscriber or Data Subjects
+Provision of customer and technical support
+Authentication and compliance checks to avoid abuse, and security scans.
+
+
+Personal Data Categories:&nbsp.
+The categories of Personal Data processed are described in ACGâs Privacy Policy.
+
+Data Subject Types:&nbsp.
+Employees, contractors, customers, and end-users authorized by Subscriber.&nbsp.
+No data that falls into a Special Category of personal data will be processed.
+
+Legal basis for processing Personal Data outside the EEA in order to comply with cross-border transfer restrictions: Standard Contractual Clauses between Subscriber as âdata exporterâ and ACG as âdata importerâ.
+
+ANNEX B â STANDARD CONTRACTUAL CLAUSES
+
+For the purposes of Article 26(2) of Directive 95/46/EC for the transfer of personal data to processors established in third countries which do not ensure an adequate level of data protection
+The entity identified as âSubscriberâ in the DPA
+(âdata exporterâ)
+and
+(as determined by the Agreement)
+A Cloud Guru Ltd., Regus, Regal House 3, Floor, 70 London Road, Twickenham TW1 3QS United Kingdom
+or
+Serverless, Heroes, Inc., 800 Brazos St., Suite 340, Austin, TX 78701
+(âdata importerâ)
+each a âpartyâ.
+together âthe partiesâ,
+HAVE AGREED on the following Standard Contractual Clauses (the âClausesâ) in order to adduce adequate safeguards with respect to the protection of privacy and fundamental rights and freedoms of individuals for the transfer by the data exporter to the data importer of the Personal Data specified in Annex A.
+
+Clause 1 â Definitions
+
+For the purposes of the Clauses:
+(a) âpersonal data,â âspecial categories of data,â âprocess/processing,â âcontroller,â âprocessor,â âdata subject,â and âsupervisory authorityâ shall have the same meaning as in Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data;
+(b)&nbsp.
+ââthe data exporterâ means the controller who transfers the personal data;
+(c)&nbsp.
+âthe data importerâ means the processor who agrees to receive from the data exporter personal data intended for processing on his behalf after the transfer in accordance with his instructions and the terms of the Clauses and who is not subject to a third countryâs system ensuring adequate protection within the meaning of Article 25(1) of Directive 95/46/EC;
+(d)&nbsp.
+âthe sub-processorâ means any processor engaged by the data importer or by any other sub-processor of the data importer who agrees to receive from the data importer or from any other sub-processor of the data importer personal data exclusively intended for processing activities to be carried out on behalf of the data exporter after the transfer in accordance with his instructions, the terms of the Clauses and the terms of the written subcontract;
+(e)&nbsp.
+âthe applicable data protection lawâ means the legislation protecting the fundamental rights and freedoms of individuals and, in particular, their right to privacy with respect to the processing of personal data applicable to a data controller in the Member State in which the data exporter is established;
+(f)&nbsp.
+âtechnical and organizational security measuresâ means those measures aimed at protecting personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing.
+
+Clause 2 â Details of the Transfer
+
+The details of the transfer and in particular the special categories of personal data where applicable are specified in Exhibit 1 which forms an integral part of the Clauses.
+
+Clause 3 â Third-party Beneficiary Clause
+
+
+1.&nbsp.
+The data subject can enforce against the data exporter this Clause, Clause 4(b) to (i), Clause 5(a) to (e), and (g) to (j), Clause 6(1) and (2), Clause 7, Clause 8(2), and Clauses 9 to 12 as third-party beneficiary.
+
+2.&nbsp.
+The data subject can enforce against the data importer this Clause, Clause 5(a) to (e) and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where the data exporter has factually disappeared or has ceased to exist in law unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law, as a result of which it takes on the rights and obligations of the data exporter, in which case the data subject can enforce them against such entity.
+
+3.&nbsp.
+The data subject can enforce against the sub-processor this Clause, Clause 5(a) to (e) and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law as a result of which it takes on the rights and obligations of the data exporter, in which case the data subject can enforce them against such entity.
+Such third-party liability of the sub-processor shall be limited to its own processing operations under the Clauses.
+
+4.&nbsp.
+The parties do not object to a data subject being represented by an association or other body if the data subject so expressly wishes and if permitted by national law.
+
+Clause 4 â Obligations of the Data Exporter
+
+The data exporter agrees and warrants:
+(a)&nbsp.
+that the processing, including the transfer itself, of the personal data has been and will continue to be carried out in accordance with the relevant provisions of the applicable data protection law (and, where applicable, has been notified to the relevant authorities of the Member State where the data exporter is established) and does not violate the relevant provisions of that State;
+(b)&nbsp.
+that it has instructed and throughout the duration of the personal data processing services will instruct the data importer to process the personal data transferred only on the data exporterâs behalf and in accordance with the applicable data protection law and the Clauses;
+(c)&nbsp.
+that the data importer will provide sufficient guarantees in respect of the technical and organizational security measures specified in Exhibit 2 to this contract;
+(d)&nbsp.
+that after assessment of the requirements of the applicable data protection law, the security measures are appropriate to protect personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing, and that these measures ensure a level of security appropriate to the risks presented by the processing and the nature of the data to be protected having regard to the state of the art and the cost of their implementation;
+(e)&nbsp.
+that it will ensure compliance with the security measures;
+(f)&nbsp.
+that, if the transfer involves special categories of data, the data subject has been informed or will be informed before, or as soon as possible after, the transfer that its data could be transmitted to a third country not providing adequate protection within the meaning of Directive 95/46/EC;
+(g)&nbsp.
+to forward any notification received from the data importer or any sub-processor pursuant to Clause 5(b) and Clause 8(3) to the data protection supervisory authority if the data exporter decides to continue the transfer or to lift the suspension;
+(h)&nbsp.
+to make available to the data subjects upon request a copy of the Clauses, with the exception of Exhibit 2, and a summary description of the security measures, as well as a copy of any contract for sub-processing services which has to be made in accordance with the Clauses, unless the Clauses or the contract contain commercial information, in which case it may remove such commercial information;
+(i)&nbsp.
+that, in the event of sub-processing, the processing activity is carried out in accordance with Clause 11 by a sub-processor providing at least the same level of protection for the personal data and the rights of data subject as the data importer under the Clauses.
+and
+(j)&nbsp.
+that it will ensure compliance with Clause 4(a) to (i).
+
+Clause 5 â Obligations of the Data Importer
+
+The data importer agrees and warrants:
+(a)&nbsp.
+to process the personal data only on behalf of the data exporter and in compliance with its instructions and the Clauses.
+if it cannot provide such compliance for whatever reasons, it agrees to inform promptly the data exporter of its inability to comply, in which case the data exporter is entitled to suspend the transfer of data and/or terminate the contract;
+(b)&nbsp.
+that it has no reason to believe that the legislation applicable to it prevents it from fulfilling the instructions received from the data exporter and its obligations under the contract and that in the event of a change in this legislation which is likely to have a substantial adverse effect on the warranties and obligations provided by the Clauses, it will promptly notify the change to the data exporter as soon as it is aware, in which case the data exporter is entitled to suspend the transfer of data and/or terminate the contract;
+(c)&nbsp.
+that it has implemented the technical and organizational security measures specified in Exhibit 2 before processing the personal data transferred;
+(d)&nbsp.
+that it will promptly notify the data exporter about:
+(i)&nbsp.
+any legally binding request for disclosure of the personal data by a law enforcement authority unless otherwise prohibited, such as a prohibition under criminal law to preserve the confidentiality of a law enforcement investigation,
+(ii)&nbsp.
+any accidental or unauthorized access, and
+(iii)&nbsp.
+any request received directly from the data subjects without responding to that request, unless it has been otherwise authorized to do so;
+(e)&nbsp.
+&nbsp.
+to deal promptly and properly with all inquiries from the data exporter relating to its processing of the personal data subject to the transfer and to abide by the advice of the supervisory authority with regard to the processing of the data transferred;
+(f)&nbsp.
+at the request of the data exporter to submit its data processing facilities for audit of the processing activities covered by the Clauses which shall be carried out by the data exporter or an inspection body composed of independent members and in possession of the required professional qualifications bound by a duty of confidentiality, selected by the data exporter, where applicable, in agreement with the supervisory authority;
+(g)&nbsp.
+to make available to the data subject upon request a copy of the Clauses, or any existing contract for sub-processing, unless the Clauses or contract contain commercial information, in which case it may remove such commercial information, with the exception of Exhibit 2 which shall be replaced by a summary description of the security measures in those cases where the data subject is unable to obtain a copy from the data exporter;
+(h)&nbsp.
+that, in the event of sub-processing, it has previously informed the data exporter and obtained its prior written consent;
+(i)&nbsp.
+that the processing services by the sub-processor will be carried out in accordance with Clause 11;
+(j)&nbsp.
+to send promptly a copy of any sub-processor agreement it concludes under the Clauses to the data exporter.
+
+Clause 6 â Liability
+
+
+1.&nbsp.
+The parties agree that any data subject, who has suffered damage as a result of any breach of the obligations referred to in Clause 3 or in Clause 11 by any party or sub-processor is entitled to receive compensation from the data exporter for the damage suffered.
+
+2.&nbsp.
+If a data subject is not able to bring a claim for compensation in accordance with paragraph 1 against the data exporter, arising out of a breach by the data importer or his sub-processor of any of their obligations referred to in Clause 3 or in Clause 11, because the data exporter has factually disappeared or ceased to exist in law or has become insolvent, the data importer agrees that the data subject may issue a claim against the data importer as if it were the data exporter, unless any successor entity has assumed the entire legal obligations of the data exporter by contract of by operation of law, in which case the data subject can enforce its rights against such entity.
+The data importer may not rely on a breach by a sub-processor of its obligations in order to avoid its own liabilities.
+
+3.&nbsp.
+If a data subject is not able to bring a claim against the data exporter or the data importer referred to in paragraphs 1 and 2, arising out of a breach by the sub-processor of any of their obligations referred to in Clause 3 or in Clause 11 because both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, the sub-processor agrees that the data subject may issue a claim against the data sub-processor with regard to its own processing operations under the Clauses as if it were the data exporter or the data importer, unless any successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law, in which case the data subject can enforce its rights against such entity.
+The liability of the sub-processor shall be limited to its own processing operations under the Clauses.
+
+Clause 7 â Mediation and Jurisdiction
+
+
+1. The data importer agrees that if the data subject invokes against it third-party beneficiary rights and/or claims compensation for damages under the Clauses, the data importer will accept the decision of the data subject:
+(a)&nbsp.
+to refer the dispute to mediation, by an independent person or, where applicable, by the supervisory authority;
+(b)&nbsp.
+to refer the dispute to the courts in the Member State in which the data exporter is established.
+
+2.  The parties agree that the choice made by the data subject will not prejudice its substantive or procedural rights to seek remedies in accordance with other provisions of national or international law.
+
+Clause 8 â Cooperation with Supervisory Authorities
+
+
+1.&nbsp.
+The data exporter agrees to deposit a copy of this contract with the supervisory authority if it so requests or if such deposit is required under the applicable data protection law.
+
+2.&nbsp.
+The parties agree that the supervisory authority has the right to conduct an audit of the data importer, and of any sub-processor, which has the same scope and is subject to the same conditions as would apply to an audit of the data exporter under the applicable data protection law.
+
+3.&nbsp.
+The data importer shall promptly inform the data exporter about the existence of legislation applicable to it or any sub-processor preventing the conduct of an audit of the data importer, or any sub-processor, pursuant to paragraph 2.
+In such a case the data exporter shall be entitled to take the measures foreseen in Clause 5 (b).
+
+Clause 9 â Governing Law 
+
+The Clauses shall be governed by the law of the Member State in which the data exporter is established.
+
+Clause 10 â Variation of the Contract
+
+The parties undertake not to vary or modify the Clauses.
+This does not preclude the parties from adding clauses on business related issues where required as long as they do not contradict the Clause.
+
+Clause 11 â Subprocessing
+
+
+1.&nbsp.
+The data importer shall not subcontract any of its processing operations performed on behalf of the data exporter under the Clauses without the prior written consent of the data exporter.
+Where the data importer subcontracts its obligations under the Clauses, with the consent of the data exporter, it shall do so only by way of a written agreement with the sub-processor which imposes the same obligations on the sub-processor as are imposed on the data importer under the Clauses.
+Where the sub-processor fails to fulfil its data protection obligations under such written agreement the data importer shall remain fully liable to the data exporter for the performance of the sub-processorâs obligations under such agreement.
+
+2.&nbsp.
+The prior written contract between the data importer and the sub-processor shall also provide for a third-party beneficiary clause as laid down in Clause 3 for cases where the data subject is not able to bring the claim for compensation referred to in paragraph 1 of Clause 6 against the data exporter or the data importer because they have factually disappeared or have ceased to exist in law or have become insolvent and no successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law.
+Such third-party liability of the sub-processor shall be limited to its own processing operations under the Clauses.
+
+3.&nbsp.
+The provisions relating to data protection aspects for sub-processing of the contract referred to in paragraph 1 shall be governed by the law of the Member State in which the data exporter is established.
+
+4.&nbsp.
+The data exporter shall keep a list of sub-processing agreements concluded under the Clauses and notified by the data importer pursuant to Clause 5 (j), which shall be updated at least once a year.
+The list shall be available to the data exporterâs data protection supervisory authority.
+
+Clause 12 â Obligation After the Termination of Personal Data Processing Services
+
+
+1.&nbsp.
+The parties agree that on the termination of the provision of data processing services, the data importer and the sub-processor shall, at the choice of the data exporter, return all the personal data transferred and the copies thereof to the data exporter or shall destroy all the personal data and certify to the data exporter that it has done so, unless legislation imposed upon the data importer prevents it from returning or destroying all or part of the personal data transferred.
+In that case, the data importer warrants that it will guarantee the confidentiality of the personal data transferred and will not actively process the personal data transferred anymore.
+
+2.  The data importer and the sub-processor warrant that upon request of the data exporter and/or of the supervisory authority, it will submit its data processing facilities for an audit of the measures referred to in paragraph 1.
+
+
+Exhibit 1 â Details of Processing 
+
+
+This Exhibit forms part of the Clauses.
+The Member States may complete or specify, according to their national procedures, any additional necessary information to be contained in this Exhibit.
+A.&nbsp.
+Data exporter: The data exporter is the Subscriber, as defined in the&nbsp.
+Services Agreement (Business) (âAgreementâ).
+B.&nbsp.
+Data importer: The data importer is A Cloud Guru Ltd.
+and Serverless Heroes, Inc., providers of subscription-based online training modules and services.
+C.&nbsp.
+Data subjects: Categories of data subjects set out in Annex A of the Data Processing Addendum to which the Clauses are attached (âDPAâ).
+D.&nbsp.
+Categories of data: Categories of personal data set out in Annex A of the DPA.
+E.
+Special categories of data (if appropriate): The parties do not anticipate the transfer of special categories of data.
+F.&nbsp.
+Processing operations:&nbsp.
+The processing activities set out in Annex A of the DPA.
+
+
+Exhibit 2 â Technical and Organizational Security Measures
+
+
+This Exhibit forms part of the Clauses.
+Description of the technical and organizational security measures implemented by the data importer in accordance with Clauses 4(d) and 5(c) (or document/legislation attached):
+ACG currently observes the security practices described on the following webpage https://acloudguru.com/policies/security.&nbsp.
+Notwithstanding any provision to the contrary otherwise agreed to by the data exporter, ACG may modify or update these practices at its discretion provided that such modification and update does not result in a material degradation in the protection offered by these practices.
+All capitalized terms not otherwise defined herein shall have the meanings as set forth in DPA.
+
+ANNEX C â ADDITIONAL TERMS TO STANDARD CONTRACTUAL CLAUSES 
+
+
+1.&nbsp.
+References in this Annex C to (i) âdata importerâ and âdata exporterâ shall have the meanings given to them in the Standard Contractual Clauses.
+and (ii) âClauseâ and âClausesâ shall mean clause and clauses in the Standard Contractual Clauses.
+
+2.  Clause 4(h) and Clause 8: Disclosure of the Standard Contractual Clauses.
+Data exporter agrees that the Standard Contractual Clauses constitute data importerâs Confidential Information as that term is defined in the Agreement and may not be disclosed by data exporter to any third party without data importerâs prior written consent unless permitted pursuant to the Agreement.&nbsp.
+This shall not prevent disclosure of these Clauses to a data subject pursuant to Clause 4(h) or a supervisory authority pursuant to Clause 8.
+
+3.&nbsp.
+Clause 5(a): Suspension of data transfers and termination.&nbsp.
+For the purposes of Clause 5(a) of Standard Contractual Clauses, the parties agree that the Instructions (as defined in Section 2 of this DPA) set out the data exporterâs complete and final instructions to the data importer for the Processing of Personal Data.&nbsp.
+The parties acknowledge that if the data importer cannot provide such compliance for whatever reason, it agrees to promptly inform the data exporter of its inability to comply, in which case the data exporter is entitled to suspend the transfer of Personal Data and/or terminate the Agreement.
+If the data exporter intends to suspend the transfer of Personal Data and/or terminate the Standard Contractual Clauses, it shall endeavor to provide notice to the data importer and provide data importer with a reasonable period of time to cure the non-compliance (âCure Periodâ).&nbsp.
+If after the Cure Period the data importer has not or cannot cure the non-compliance then the data exporter may suspend or terminate the transfer of Personal Data immediately.&nbsp.
+The data exporter shall not be required to provide such Cure Period in the instance where it considers there is a material risk of harm to data subjects or their Personal Data.
+
+4.
+Clause 5(f): Audit.&nbsp.
+The parties agree that Section 9 (Audits) of this DPA governing audit rights under the DPA, shall also govern the Subscriberâs audit rights under the Standard Contractual Clauses.&nbsp.
+In the event that Subscriber wishes to exercise its audit rights under Standard Contractual Clauses (including under Clause 5(f) and Clause 12(2)), then Section 9 (Audits) of this DPA shall exclusively govern the partiesâ obligations with respect to such audits.
+
+5.&nbsp.
+Clause 5(h) and Clause 11: Onward Sub-processing.&nbsp.
+Data exporter provides a general consent to data importer, pursuant to Clause 11, to engage onward sub-processors.
+Such consent is conditional on data importerâs compliance with Section 6 (Subprocessing) of this DPA, which collectively ensure that the onward sub-processor will provide adequate protection for the Personal Data that it Processes.
+
+6.&nbsp.
+Clause 5(j): Disclosure of Sub-Processor Agreement.&nbsp.
+The parties agree that at the data exporterâs reasonable written request, ACG shall promptly provide copies of the sub-processor agreements pursuant to Clause 5(j) of the Standard Contractual Clauses.&nbsp.
+The parties further acknowledge that, pursuant to the sub-processorâs confidentiality restrictions, data importer may be restricted from disclosing onward sub-processor agreement to data exporter.
+Notwithstanding this, the data importer shall use reasonable efforts to require any sub-processor to permit it to disclose the relevant sub-processors agreement to the data exporter.&nbsp.
+Data importer may remove or redact all commercial information, or clauses unrelated to the Standard Contractual Clauses or their equivalent.
+
+7.&nbsp.
+Clause 6(1): Damage Limits.  The parties agree that any damages arising under or in connection with Clause 6 will be subject to the limitations or exclusions of liability provisions that apply under the Agreement.
+
+8.&nbsp.
+Clause 12(1): Termination of Processing.&nbsp.
+The parties agree that in satisfaction of Clause 12(1), on the completion or termination of the Agreement, ACG shall, upon Subscriberâs written request, delete or return all Personal Data in accordance with Section 7.1(a) (Data Subject Rights) and Section 12 (Return or Deletion of Data) of this DPA.&nbsp.
+The parties further agree that the certification of deletion of Personal Data that is described in Clause 12(1) of the Standard Contractual Clauses shall be provided by ACG to Subscriber only upon Subscriberâs request.
+
+9.&nbsp.
+No Variation.&nbsp.
+Nothing in the DPA or this Annex C varies or modifies the Standard Contractual Clauses nor affects any supervisory authorityâs or Data Subjectâs rights under applicable Data Protection Laws.
+In the event of any conflict or inconsistency between the body of this DPA and any of its Annexes (not including the Standard Contractual Clauses) and the Standard Contractual Clauses in Annex B the Standard Contractual Clauses shall prevail.
+
+Learning
+For Business
+For Individuals
+Hands-on Labs
+
+
+Resources
+Blog
+Webinars
+Case Studies
+eBooks
+Forum
+
+
+About Us
+Contact Us
+Careers
+ACG News
+Support
+ facebook twitter linkedin instagram youtube RSS Â© 2021 Serverless Heroes, Inc.
+Code of Conduct
+Privacy Policy
+Terms of Use
+

@@ -1,0 +1,166 @@
+
+         Data Processing Agreement for Publishers Disqus' Data Processing Agreement is an amendment to Disqus' Terms of Service for publishers.
+Customers can download a presigned version.
+Written by Disqus  Updated over a week ago This Disqus Data Processing Agreement (âDPAâ), that includes the Standard Contractual Clauses adopted by the European Commission, as applicable, reflects the partiesâ agreement with respect to the terms governing the Processing of Personal Data under the Disqus Terms of Service (the âAgreementâ).
+This DPA is an amendment to the Agreement and is effective upon its incorporation into the Agreement (sign-up).
+Upon its incorporation into the Agreement, the DPA will form a part of the Agreement.
+We understand that some publishers may prefer to have a signed DPA for their records.
+Publishers can download a pre-signed version of the Disqus Publisher DPA via the link below.
+For any questions, please contact us at privacy@disqus.com. Download Disqus Publisher DPA
+
+DATA PROCESSING AGREEMENT
+
+
+EU General Data Protection Regulation (Regulation 2016/679) (âGDPRâ)
+
+
+Addendum to the Disqus Publisher Terms and Conditions 
+
+This GDPR Addendum to the Disqus Publisher Service Agreement (the âGDPR Addendumâ) set forth on the signature line below (the âPublisherâ) and forms part of the Disqus Publisher Terms and Conditions previously entered into by the parties hereto. 
+WHEREAS, Disqus provides Publisher with the Disqus commenting application service (the âDisqus Commentsâ) through which Disqus collects certain personal data from website users visiting the Publisherâs websites where the Disqus Comments are loaded, and Disqus further provides Publisher with the ability to access the comments left users on their website as well as some of the personal data associated with such comments;
+WHEREAS, the European Union (âEUâ) General Data Protection Regulation imposes compliance obligations upon Disqus and Publisher in relation to the collection and processing of personal data from persons located in the EU.
+NOW THEREFORE, Pursuant to the requirements of the GDPR, Disqus and Publisher hereby enter into this Data Processing Agreement ("DPA").
+
+Definitions
+
+1.1For the purposes of this DPA:
+(a)âEEA" means the member states of the European Union and Iceland, Liechtenstein, Norway and the United Kingdom.
+(b)"EU Data Protection Legislationâ meansRegulation 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (the âGDPRâ)  repealing Directive 95/46/EC, as amended, replaced or superseded,  and any EU Member State laws supplementing the GDPR.
+the EU Directive 2002/58/EC (âe-Privacy Directiveâ), as replaced from time to time, and any EU Member State laws implementing the e-Privacy Directive.
+(c)"Controller" shall mean an entity which, alone or jointly with others, determines the purposes and means of the processing of Personal Data; 
+(d)"Processor" shall mean an entity which processes Personal Data on behalf of the Controller;
+(e)âPersonal Dataâ means any information relating to an identified or identifiable natural person.
+an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, and identification number, location data or online identifier. 
+
+2.Applicability of DPA. 
+2.1Applicability.
+This DPA will apply only to the extent that Publisher processes Personal Data relating to EEA data subjects that it obtains from Disqus. 
+
+3.Roles and responsibilities.
+
+3.1Parties' Roles.
+Disqus and Publisher each act as a Data Controller with respect to the Personal Data processed hereunder.
+EXHIBIT A describes the Personal Data that Disqus makes available to Publisher and the purposes therefor.Publisher undertakes to access and use the Personal Data provided by Disqus only to the extent reasonably necessary to achieve the purposes of the processing.
+3.2Purpose Limitation.
+Publisher shall process the Personal Data solely for the purposes described in EXHIBIT A, except where required by applicable law.
+ 
+3.3Compliance: each party, as Controller, shall be responsible for ensuring that it has complied, and will continue to comply, with all applicable laws relating to privacy and data protection, including but not limited to the EU Data Protection Legislation. 
+
+4.Security
+
+4.1Security.Publisher shall implement appropriate technical and organisational measures to protect the Personal Data from accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access (each a "Security Incident"). 
+4.2Confidentiality of processing.Publisher shall ensure that any person that it authorizes to process the Personal Data shall be subject to a contractual or statutory duty of confidentiality. 
+4.3Security Incidents.Upon becoming aware of a Security Incident, Publisher shall notify Disqus promptly and shall provide such timely information as Disqus may reasonably require, including to enable Disqus to fulfil any data breach reporting obligations under EU Data Protection Legislation.Publisher shall promptly take appropriate and commercially reasonable steps to mitigate the effects of such a Security Incident on the Personal Data under this Agreement.
+
+5.Sub-processing
+
+5.1Processors and Sub-Processors.
+Publisher may engage Publisher affiliates and third party Data Processors or sub-Processors to process the Personal Data.
+Publisher shall impose on such Processors data protection terms that protect the Personal Data to the same standard provided for by this DPA and shall remain liable for any breach of the DPA caused by a Processor or sub-Processor. 
+
+6.International transfers.
+
+6.1International Transfers: To the extent that Publisher processes (or causes to be processed) any Personal Data originating from the EEA in a country that has not been designated by the European Commission as providing an adequate level of protection for Personal Data, an adequate level of protection shall be put in place by the parties through any of the recognized methods in EU Data Protection Legislation.
+Disqus authorizes any transfers of Personal Data to, or access to Personal Data from, such destinations outside the EEA subject to such adequacy measures having been taken.
+ 
+6.3Disclosure to authorities: Disqus acknowledges that Publisher may disclose the privacy provisions in this DPA and the Agreement to the US Department of Commerce, the Federal Trade Commission, a European data protection authority, or any other US or EU judicial or regulatory body upon their lawful request.
+
+7.Cooperation
+
+7.1Cooperation and data subjects' rights.Publisher shall reasonably cooperate with Disqus in all matters pertaining to the Personal Data and shall provide Disqus information about its uses of Personal Data upon request.Publisher shall respond and give effect to requests from data subjects seeking to exercise their rights under EU Data Protection Legislation.If Publisher cannot reasonably respond to a request by a data subject it may refer the data subject to Disqus as appropriate.
+7.2Data Protection Impact Assessments:Publisher shall, to the extent required by EU Data Protection Legislation, provide Disqus with commercially reasonable assistance with any future data protection impact assessments or prior consultations with data protection authorities that Disqus is required to carry out under EU Data Protection Legislation.
+
+8.Security reports and audits.
+
+8.1Publisher shall provide, upon Disqus's request, copies of any relevant summaries of external security certifications or security audit reports necessary to verify Publisher compliance with this DPA. 
+8.2While it is the parties' intention ordinarily to rely on the provision of the documentation at 8.1 above to verify Publisher's compliance with this DPA, Publisher shall permit Disqus (or its appointed third party auditors) to carry out an audit of Publisher processing of Personal Data under the Agreement following a Security Incident suffered by Publisher, or upon the instruction of a data protection authority.
+Disqus must give Publisher reasonable prior notice of such intention to audit, conduct its audit during normal business hours, and take all reasonable measures to prevent unnecessary disruption to Publisher's operations.
+Any such audit shall be subject to Publisher's security and confidentiality terms and guidelines.
+
+9.Deletion / return of data
+
+9.1Deletion or return of data:Upon termination or expiry of the Agreement, Publisher shall delete the Personal Data (including copies) then in Publisher's possession, except to the extent that Publisher is required by an applicable law to retain some or all of the Personal Data.
+
+10.Miscellaneous 
+
+10.1Except as amended by this DPA, the Agreement will remain in full force and effect. 
+10.2If there is a conflict between the Agreement and this DPA, the terms of this DPA will control. 
+
+Acknowledged and Agreed to:
+
+Disqus, Inc.:
+
+Signed: ____________________________
+Name:  ____________________________
+Title: ____________________________
+Date: ________________
+
+PUBLISHER:
+
+Signed: ____________________________
+Name:  ____________________________
+Title: ____________________________
+Date: ________________
+
+ 
+
+
+EXHIBIT A
+
+
+DETAILS OF THE PROCESSING
+
+
+Description of Disqus: 
+
+
+Disqus, Inc.
+is the legal entity that has executed the Agreement with Publisher for the provision of Disqus' commenting application services on Publisherâs website. 
+
+
+Nature of the Data.
+Purposes of Processing by Publisher:
+
+
+Disqus provides a commenting application service (âDisqus Commentsâ) to Publisher for use as a comment forum on the publisherâs website.
+Disqus collects personal data from users commenting in the Disqus Comments on Publishers website.
+Disqus provides Publisher with access to the comments so that publisher may act as moderator on its website, and to meet its relevant obligations under applicable laws.
+The comments may include personal data such as email address, username, IP address or other online identifier, which Publisher may process solely for the purpose of moderating Publishersâ site(s). 
+
+
+Type(s) of Personal Data processed:
+
+
+ Email address, username, IP address, other online identifier, information revealed in user comments.
+
+
+Special categories of data (if applicable):
+
+
+Disqus does not intentionally collect, and Publisher does intentionally process or transfer any sensitive personal data in relation to these data subjects.Publisher may collect categories of sensitive personal data contained in user comments as part of its comment moderation activities. 
+
+
+Categories of Data Subjects:
+
+
+The personal data processed concern individuals who access the Publishers website on which the Disqus Comments are loaded. 
+
+
+Nature of Processing Operations:
+
+
+ 
+
+
+The personal data will be subject to the following basic processing activities:
+
+
+Publisher will process the personal data solely for the purpose of moderating the comments on their 
+
+
+Website and meeting any applicable legal requirements. 
+
+
+ 
+ Did this answer your question? 
+      

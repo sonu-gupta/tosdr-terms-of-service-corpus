@@ -1,0 +1,173 @@
+
+
+Getting Started
+Adding the Gamedock SDK
+Age Gate
+GDPR &amp.
+Privacy policy
+Platform Specific Components
+Unity Editor
+
+
+Content
+Game Config
+Wallet, Inventory &amp.
+Shop
+In-App Purchase Packages
+Game States
+Missions &amp.
+Containers
+Push Notifications
+Daily Bonus
+Tiered Events
+Asset Bundles
+Localization
+Handling Errors
+
+
+Monetization
+Promotions
+Splash Screens
+Advertisement
+
+
+Users
+User Identification
+Social Login
+Customer Support
+App Rate
+Anti-Cheating
+Self Testing
+
+
+Reporting
+Event Tracking
+External Analytics
+Deep Linking
+
+
+FAQs
+Knowledge Base
+Change Log
+GDPR &amp.
+Privacy Policy
+
+Implementation in the SDK
+
+
+Changing the consent popup text
+
+
+Manually passing GDPR information
+
+
+According to European GDPR (General Data Protection Regulation) law, apps must clarify their functions to users and explicitly request user approval before tracking personal data.
+Both Google and Apple have their own interpretations of GDPR.
+In order to comply with all requirements, the Gamedock SDK includes a customisable privacy policy menu with accompanying mechanisms that ensure no 3rd party libraries are initialised and no network communication is performed before the user has accepted the privacy policy.
+GDPR law will be enforced starting May 2018, meaning all apps must show a consent popup before collecting data.
+Besides the GDPR deadline, Google has added its own requirements, which will be enforced starting 1 Feb 2018.
+Apple hasnât communicated a hard deadline yet other than May 2018, but weâre taking the same approach as with Google so as to avoid any risks.
+This means that as of 1 Feb 2018, all games must have the GDPR popup enabled unless the account manager explicitly states it should be disabled.
+Please align closely with your account manager regarding this matter.
+
+
+Warning
+
+It is not allowed to have any network calls before the user accepts the privacy policy, do not initialise any libraries/make any calls before initialising the Gamedock SDK. Implementation in the SDK
+Unity Enable or disable the consent popupBy default, the Gamedock SDK will use the default native template screens, if you want to use custom Unity screens select âUse unity prefabsâ on the GamedockSDK GameObject, also make sure to specify the correct orientation.
+There are 2 default template prefabs provided by the Gamedock SDK, those can be found in the âResources/Gamedock/PrivacyPolicyâ directory.
+The 2 prefabs both have to be added to the GamedockSDK gameobject in the privacy policy slots when selecting the âUse unity prefabsâ option.
+
+
+The user should have an option to change their settings later on while playing the game.
+The game should offer a button for this which opens the GDPR settings screen, a default settings screen is provided by the Gamedock SDK and can be opened by calling:
+Gamedock.Instance.ShowPrivacyPolicySettings();Copy to clipboardErrorCopied
+
+The user has to restart the app after making changes to the GDPR settings before they take effect.Handling network calls and 3rd party SDKâsBy default, the Gamedock SDK handles all the network calls and 3rd party SDKâs within the Gamedock SDK.
+However, in case you do send network calls to your own server or load 3rd party SDKâs outside the Gamedock SDK it is important to know that this is only allowed after the user accepted the consent popup.
+When the user presses the accept button the following Gamedock SDK method is called for starting the SDKâs own network calls / 3rd party:
+//Callback informing the status of the privacy policy (if it was accepted by the user)
+Gamedock.Instance.PrivacyPolicyCallbacks.OnPrivacyPolicyStatus -= OnPrivacyPolicyStatus(bool accepted).
+Gamedock.Instance.PrivacyPolicyCallbacks.OnPrivacyPolicyStatus += OnPrivacyPolicyStatus(bool accepted);Copy to clipboardErrorCopiedChanging the header imageIf you want to set your own custom header image instead of the Azerion logo, you can do so by overwriting the appropriate image file to the following location (if it does not exist, you will need to create it):
+PROJECT_PATH/Assets/Plugins/Android/res/drawable/
+The image files should have the name âprivacy_policy_landscape_custom.pngâ or âprivacy_policy_portrait_custom.pngâ depending on your orientation.
+The image size is 800px x 220px or 600px x 220px.
+For iOS, the header image can be replaced at Gamedock.framework/PrivacyPolicyHeader.png.
+For Unity 2017.1 and above you can use the supplied project found in the SDK bundle under NativeLibraries/Android/Resources.
+Build this project in Android Studio and make sure to replace the necessary images.
+AIR Enable or disable the privacy policy popupThe privacy policy popup can be enabled/configured via parameters when calling Gamedock.GetInstance().Init():
+
+
+showAgeGate Boolean - If enabled, the age gate popup will always appear the first time the user opens the game before the GDPR/Privacy Policy popup.
+
+
+ageGateShouldBlock Boolean - Gives the possibility for blocking the user from continuing to the game if the minimum age requirement is not met.
+
+
+ageGateMinimumAgeRequirement Number - Minimum age in years for users to be able to pass the age gate popup.
+
+
+coppaEnabled Boolean - If enabled, follows COPPA law for protection of minors and makes sure the game never shows a privacy policy menu, age gate menu or ads.
+Handling privacy policy callbacks / initialising 3rd party librariesThe SDK provides feedback information for the choice that the user has made when presented with the privacy policy.
+By default, the Gamedock SDK handles all the network calls and 3rd party SDKâs within the Gamedock SDK.
+However, in case you do send network calls to your own server or load 3rd party SDKâs outside the Gamedock SDK it is important to know that this is only allowed after the user accepted the privacy policy popup.
+In order to get that feedback, register the following callback:
+//Callback informing the choice for the privacy policy
+Gamedock.GetInstance().addEventListener(SDKEvents.PRIVACY_POLICY_STATUS, onPrivacyPolicyStatusEvent).
+private function onPrivacyPolicyStatusEvent(evt:PrivacyPolicyStatusEvent) : void
+{ if(evt.accepted) { trace("Privacy policy accepted, initialising 3rd party libraries.").
+// Initialise third party libraries like Google Play Games, Game Center etc.
+}
+}Copy to clipboardErrorCopiedThe variables returned are:
+
+
+accepted Boolean - Informs the game if the privacy policy was accepted.
+Changing the header imageIf you want to set your own custom header image instead of the Azerion logo, you can do so by replacing the appropriate image files in the GamedockResources.ANE:
+Android:
+
+GamedockResources.ane\META-INF\ANE\Android-ARM\sdk-resources-res\drawable\
+GamedockResources.ane\META-INF\ANE\Android-ARM64\sdk-resources-res\drawable\
+GamedockResources.ane\META-INF\ANE\Android-x86\sdk-resources-res\drawable\
+
+iOS:
+
+Gamedock.ane\META-INF\ANE\iPhone-ARM\
+Gamedock.ane\META-INF\ANE\iPhone-x86\
+
+For Android, the image files are named âprivacy_policy_landscape_custom.pngâ and âprivacy_policy_portrait_custom.pngâ, for iOS they are called âPrivacyPolicyHeader.pngâ and âPrivacyPolicyHeaderLandscape.pngâ, each file is used for landscape/portrait resp.
+The image size is 800px x 220px or 600px x 220px.Showing the privacy policy settings in-gameThe user should also have an option to change their privacy policy settings while playing the game.
+The game should offer a button for this which opens the GDPR settings screen, a default settings screen is provided by the Gamedock SDK and can be opened by calling:
+Gamedock.GetInstance().ShowPrivacyPolicySettings();Copy to clipboardErrorCopied
+
+The user has to restart the app after making changes to the GDPR settings before they take effect.
+Cordova Enable or disable the privacy policy popupThe GDPR privacy policy popup can be enabled via parameters when calling gamedockSDK.initialise.Handling privacy policy callbacks / initialising 3rd party librariesThe SDK provides feedback information for the choice that the user has made when presented with the privacy policy.
+By default, the Gamedock SDK handles all the network calls and 3rd party SDKâs within the Gamedock SDK.
+However, in case you do send network calls to your own server or load 3rd party SDKâs outside the Gamedock SDK it is important to know that this is only allowed after the user accepted the privacy policy popup.
+In order to get that feedback, register the following callback:
+//Callback informing the choice for the age gate
+gamedockSDK.on('PrivacyPolicyStatus', (privacyPolicyStatus) =&gt.
+{ console.log('PrivacyPolicyStatus with data: ', JSON.stringify(privacyPolicyStatus)).
+});Copy to clipboardErrorCopiedChanging the header imageIf you want to set your own custom header image instead of the Azerion logo, you can do so by adding the following images (PNG):
+Android:
+
+platforms/android/app/src/main/res/drawable/privacy_policy_landscape_custom.png (if your game is in landscape)
+platforms/android/app/src/main/res/drawable/privacy_policy_portrait_custom.png (if your game is in portrait)
+
+iOS:
+*
+*Showing the privacy policy settings in-gameThe user should also have an option to change their privacy policy settings while playing the game.
+The game should offer a button for this which opens the GDPR settings screen, a default settings screen is provided by the Gamedock SDK and can be opened by calling:
+gamedockSDK.showPrivacyPolicySettings();Copy to clipboardErrorCopiedThe user has to restart the app after making changes to the GDPR settings before they take effect. Changing the consent popup textNote that the text and translations of the popup are kept in the Gamedock SDK Game config feature, which should be by default integrated into your game.
+Note that in case you are working on an update you can fetch the new game config in Unity (we already updated the game config contents).
+Only in case of explicit requests by your account manager the default text and translations may be changed.
+Please donât change this text on your own as this must be legally correct.Manually passing GDPR informationIf you donât intend on using the SDK popups, you can also pass and retrieve the GDPR information to the SDK using the following methods:
+Unity Gamedock.Instance.SetGDPRSettings(withPersonalisedAds, withPersonalisedContent).
+//Dictionary contains two keys (withPersonalisedAds, withPersonalisedContent) with the information.
+Dictionary<string, bool&gt.
+gdprSettings = Gamedock.Instance.GetGDPRSettings();Copy to clipboardErrorCopied
+AIR 
+This feature is not supported for AIR.
+ Cordova gamedockSDK.setGDPRSettings(true, true).
+var settings = gamedockSDK.getGDPRSettings();Copy to clipboardErrorCopied
+Gamedock Â© 2019-2021 by Azerion 
+      

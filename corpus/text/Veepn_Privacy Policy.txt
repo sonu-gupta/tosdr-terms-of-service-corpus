@@ -1,0 +1,263 @@
+
+         PRIVACY POLICY  This Privacy Policy is aimed to inform you (âyouâ) as a user of VeePN Corp.
+Service (âApplicationâ, âAppâ, âServicesâ) about the information VeePN Corp.
+(âweâ, âusâ, âourâ), with registered office at 50th and 59th Str., Nuevo Reparto, Paitilla, Duplex 8E, Panama, as the Services developer, collects, how that information may be used, with whom it may be shared, and your options about such use and disclosure.
+This Privacy Policy is incorporated into, and is subject to, the Services Terms of Use.
+We shall not collect, use or share your information except as described in this Privacy Policy.
+
+ By choosing to use our Service you explicitly: (I) agree to the collection and use of information in relation to this policy, (II) warrant and guarantee that you are over 13 years of age (or are a parent or guardian with such authority to agree to this Privacy Policy for the benefit of an individual under 13 years of age).
+Please do not use the Application or access the Services provided by it if you do not agree to this Privacy Policy.
+ Table of contents 
+ What kind of information do we collect? 
+ What do we collect this information for? 
+ With whom and what do we share this information for and how may we disclose it? 
+ HOW YOU CAN ACCESS YOUR INFORMATION 
+ Security 
+ Links to Other Services 
+ Childrenâs Privacy 
+ Retention 
+ Changes to This Privacy Policy 
+ Contact Us 
+ What kind of information do we collect? Important Notice 
+As an outstanding VPN Service provider, we value privacy of our users.
+Therefore, we never collect logs of your activity (âusage logsâ), including no logging of browsing history, traffic destination or data content.
+
+ We may collect information that directly identifies you, such as your name and email address (âPersonal Informationâ), and other information that does not identify you, as listed below.
+
+
+Information you provide
+
+
+ We may collect and store the contact information you provide, such as name and email address, when you register and use the Service or provide it to us in some other manner, for example by corresponding with us (by email or chat, for instance) when you report a problem with the Service or when you subscribe to any of our services.
+
+
+Note: Information about a third party
+When you provide us with information about a third party, you must have the consent of that third party before providing us with that information.
+By providing us with information regarding a third party you warrant that you have their permission to provide that information to us.
+
+Information collected automatically
+
+
+ Device information that may include information specific to your device (e.g., OS version, hardware model, unique device identifier, browser user-agent).
+information about your use of features, functions, or notifications on the device.
+We may also collect and use your Apple Identifier for Advertising (IDFA) and Google Advertising ID (AAID) to recognize your device and support advertising activities on our Services.
+These number values are not permanently tied to your device and, depending on your operating system, you can reset it through your device settings.
+
+ Usage information: your user account registration date and time, information about the use of the App, such as frequency of use, engagement with particular features, which sections of the App user visits and your common use patterns.
+Please note that wording âusageâ herein does not in any case mean that we collect and store your usage logs.
+
+ Location: IP address, time zone, locale.
+
+ Connection logs: connection timestamp and session duration (i.e.
+connection and disconnection date and time).
+Please note that the below provisions of this Privacy Policy regarding disclosure of personal data to third parties do not apply to the connection logs as we DO NOT share them with any third party.
+We collect and store connection logs solely for the purpose of services maintaining and optimizing as, for example, we use this data to calculate our servers load values in order to provide and improve our services.
+
+ Transaction data: when you make payments with your credit card, you provide financial account data, such as your credit card number, billing and residence address, to our third-party service providers.
+We do not collect or store full credit card number data, though we may receive credit card-related data, data about the transaction, including: date, time and amount of the transaction, the type of payment method used, payment transaction identification number.
+
+
+ Cookies.
+A cookie is a small amount of data stored on your computer used as an anonymous unique identifier.
+When you visit our website veepn.com (âWebsiteâ), we may collect information from you automatically through cookies or similar technology.
+
+ In particular, we use cookies to recognize you on our Website and remember your previously selected preferences.
+Please note that our use of cookies does not in any way relate to your use of our Services but only to your interaction with our Website itself.
+
+ If you want to prevent cookies from being saved, you can select the âAccept no cookiesâ option in your browser settings.
+To find out exactly how this works, you can refer to your browser instructions.
+You can delete cookies that have already been saved on your device at any time.
+However, in a few cases, some of the Website features may not function as a result.
+
+
+ What do we collect this information for? 
+ enhancing your user experience on our Service by operating, maintaining, and providing you with all features of the Services.
+
+ managing your account and providing you with customer support.
+We may use your Personal Information to respond to your requests for technical support, Services information or to any other communication you initiate (âcustomer support purposesâ).
+
+ performing research and analysis about your use of, or interest in, our products, services or content, or products, services or content offered by others (âanalytics purposesâ).
+
+ communicating with you via email, push notifications and/or through other digital methods about products or services that may be of interest to you either from us or other third parties.
+
+ detecting and resolving any fraud or other illegal or undesirable user behavior.
+
+ With whom and what do we share this information for and how may we disclose it? 
+Service Providers
+
+ We may share your Personal Information with third parties that perform certain services on our behalf, such as our authorized service providers or analytics providers.
+In general, the third-party providers engaged by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us, e.g.
+facilitating our Service and analyzing how our Service is used.
+Please note that they are obligated not to disclose or use the information for any other purpose.
+
+ Hereunder you can find more detailed list of some third parties - service providers with whom we may share your Personal Information as described above, along with links to such service providers privacy policies, which we recommend you read: 
+
+1) AppsFlyer
+ We use AppsFlyer for analytics and marketing purposes as described herein above.
+ As for analytics purposes, Appsflyer helps us to understand, in particular, how users find our App (for example, which advertiser had delivered an ad that led you to our App in App stores).
+Appsflyer also provides us with different analytics tools that enable us to research and analyze your use of the Service.
+
+ In order to receive those services from Appsflyer, we share such data as: 
+
+ device type and model, CPU, system language, memory, OS version, Wi-Fi status, time stamp and zone, device motion parameters and carrier, screen characteristics (size, density) (âTechnical Informationâ).
+
+ IP address, User agent, IDFA (Apple identifier for advertisers), Google Advertiser ID and other similar unique identifiers (âTechnical Identifiersâ) 
+
+
+2) Facebook
+ We use an instrument called Facebook Analytics for analytics purposes.
+We get, in particular, aggregated demographics and insights on how many people launch our app, how often users make purchases and other interactions.
+
+ In order to receive those services from Facebook, we share such data as: 
+
+ Explicit events - information from events that we explicitly configure the Application to send, such as "AddtoBasket" or "logPurchase", along with any additional parameters provided.
+
+ Implicit events - information from events that are logged implicitly, if we choose to make use of other features of the Facebook SDK, such as integration with Facebook Login or the "Like" button.
+
+ Automatically logged events - basic interactions in the Application (e.g., Application installs, Application launches) that are collected automatically.
+
+ Facebook app ID - a unique identifier provided by Facebook to reference our website and Application.
+
+ Mobile advertiser ID - the iOS IDFA (Apple identifier for advertisers).
+
+ Technical Information and Identifiers - the mobile OS type and version, Application name, Application version, the device opt-out setting, your user agent string and IP address, along with the following device related metrics: time zone, device OS, device model, carrier, screen size, processor cores, total disk space, remaining disk space.
+
+
+ Please read Facebook privacy policy regarding its collection and use of data in order to perform services for us, available at https://www.facebook.com/policy.php, https://www.facebook.com/full_data_use_policy, to acknowledge how Facebook operates with your Personal Information.
+Please note that you may choose which ads in particular to receive (or not to) via Facebook by visiting the following link: https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen.
+
+
+3) Amplitude
+ We use Amplitude for analytics and customer support purposes as described herein above.
+ As for analytics purposes, Amplitude helps us to understand, in particular, how users find our Apps or Website (for example, which advertiser has delivered an ad that led you to our App).
+Amplitude also provides us with different analytics tools that enable us to research and analyze your use of the Service.
+ As for customer support purposes, Amplitude helps us to respond to your requests for technical support.
+For example, it enables us to track your interaction with our App and in order to detect particular technical issues with our App.
+
+ In order to receive those services from Amplitude, we share such data as: 
+
+ locale, referral source (âuser related informationâ).
+
+ Platform, device type, device family, country, city, region, carrier, OS, language, IP Address, screen characteristics (size, density) (âtechnical informationâ).
+
+ your interaction with the App (i.e.
+taps on the particular screens).
+
+
+
+4) Google Analytics
+ Google Analytics is a product analytics tool provided by Google, which helps us to analyze the Service data and understand our users to optimize the Service performance.
+
+ In order to receive those services from Google Analytics, we share such data as: 
+
+ device type and model, CPU, system language, memory, OS version, Wi-Fi status, time stamp and zone, device motion parameters and carrier, screen characteristics (size, density) (âTechnical Informationâ).
+
+ IP address, User agent, IDFA (Apple identifier for advertisers), Google Advertiser ID and other similar unique identifiers (âTechnical Identifiersâ).
+
+
+You can learn more about the Google Analytics Privacy Policy here: https://policies.google.com/privacy.
+
+5) Firebase
+ Firebase is Google backed analytics service which also helps us to analyze the Service data and understand our users to optimize the Service performance.
+
+ In order to receive those services from Firebase, we share such data as: 
+
+ device type and model, CPU, system language, memory, OS version, Wi-Fi status, time stamp and zone, device motion parameters and carrier, screen characteristics (size, density) (âTechnical Informationâ).
+
+ IP address, User agent, IDFA (Apple identifier for advertisers), Google Advertiser ID and other similar unique identifiers (âTechnical Identifiersâ).
+
+
+You can learn more about the Google Analytics Privacy Policy here: https://firebase.google.com/support/privacy.
+
+6) Payment services providers
+ Certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies with respect to the information we are required to provide to them for your purchase-related transactions.
+For these providers, we recommend that you read their privacy policies, so that you can understand the manner in which your Personal Information will be handled by these providers.
+For example, Apple and Google may be two such third-party companies that provide payments and they can be contacted through their websites: https://www.apple.com and https://play.google.com.
+
+
+Information Disclosure
+
+ We may disclose information: 
+
+ in response to a subpoena or similar investigative demand, a court order, or a request for cooperation from law enforcement or other government agency.
+to establish or exercise our legal rights.
+to defend against legal claims.
+or as otherwise required by law.
+In such cases, we may raise or waive any legal objection or right available to us.
+
+ in connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+
+
+
+International Data Transfers
+
+ Please note that our business is global, so when you provide Personal Information through our Service, the information may be sent to servers located in different countries around the world.
+
+ If you reside in the European Economic Area, please note that we take all adequate security measures to provide suitable safeguards due to data transfer to third countries.
+Our sub-processors located in such countries are also bound by respective data transfer agreements between them and us to provide all available legal security measures in regard to data privacy.
+Should you have questions concerning data transfer to third countries please contact us at support@veepn.com.
+Subject to applicable law, we may charge for this service and will respond to reasonable requests as soon as practicable, and in any event, within the time limits prescribed by law.
+ HOW YOU CAN ACCESS YOUR INFORMATION 
+Requests
+
+ If you would like to update or correct any information that you have provided to us through your use of the Service, you may use the Service to do so.
+If you need help with rectification of data you think is inaccurate, please contact us via email at support@veepn.com.
+
+ If you reside in European Union or California you can make a request to erase your Personal Information via support@veepn.com.
+Please note that it may affect the Services provided, and you will not be able to use the full scope of the Services.
+Please also note that the erasing of your Personal Information does not mean the automatic cancellation of your subscription or refund of your payments.
+
+ If you reside in European Union or California you can make a request to receive the Personal Information related to you via support@veepn.com.
+Should you make such a request, you will be required to provide us with an email address, which we would be able to send your Personal Information to.
+Please note that you confirm and guarantee that the email address you provide to us in order to receive your Personal Information shall belong to you and you shall be solely responsible for its correctness and validity and therefore we shall in any case not be liable for any breach of your Personal Information due to sending it to that email address.
+
+ If you reside in European Union you may object to the processing of Personal Information concerning you for direct marketing purposes by contacting us at support@veepn.com and the applicable Personal Information, if any, shall no longer be processed for such purposes.
+
+
+Opting-out via your device 
+
+ Please note that you may also opt out from collection of your data for marketing and advertising purposes not only via our Application, but also on your entire device using your device settings: 
+
+ iOS: go to âSettingsâ -&gt.
+âPrivacyâ -&gt.
+âAdvertisingâ -&gt.
+âLimit Ad Trackâ.
+you may additionally reset your advertising identifier (this also may help you to see less of personalized ads) in the same section.
+
+ you may additionally reset your advertising identifier (this also may help you to see less of personalized ads) in the same section.
+
+
+ Please note that the result of such objection or cancellation may affect the process of the Services improvement.
+However, you would still be able to use the App.
+
+ You can stop all collection of information by the Application by uninstalling the Application from your mobile device.
+ Security  We place great importance on the security of all personally identifiable information associated with our users.
+We have security measures (including physical, electronic and procedural measures) to help safeguard your Personal Information from unauthorized access and disclosure.
+
+ Namely, VeePN has no access to your database password or any data stored in your local database on your devices.
+If you are using VeePN data records or tasks synchronization and backup service, the VeePN will have access to the encrypted binary file on our servers which contains your database.
+We need this access to provide you a secure backup and restore of your local personal database in case you have lost or damaged your device.
+VeePN will have no access to the data stored in this database.
+
+ As it was previously mentioned, VeePN does NOT collect and log any user activities while using any of their VPN services.
+VeePN stores the encrypted information about the amount of connected devices for each account, as the maximum permitted amount is limited only.
+This information can be assessed in the VeePN account, where any user can delete their devices from their account.
+
+ While we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we make all reasonable efforts to prevent it.
+However, you should bear in mind that submission of information over the internet is never entirely secure.
+ Links to Other Services  There might be a number of places on our Service where you may click on a link directing you away from our Service to access other applications or websites that do not operate under this Privacy Policy.
+These third-party websites may independently solicit and collect information, including Personal Information, from you and, in some instances, provide us with information about your activities on those websites.
+We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the âprivacyâ link typically located at the bottom of the webpage you are visiting.
+ Childrenâs Privacy  This Service does not address anyone under the age of 13.
+We do not knowingly collect personally identifiable information from children under 13.
+If we discover that a child under 13 has provided us with Personal Information, we shall take steps to delete such information and terminate the childâs account.
+If you are a parent or a guardian and you are aware that your child has provided us with Personal Information, please contact us so that we will be able to take the necessary actions.
+ Retention  We will retain your information for as long as the Application is installed on your mobile device or as needed to provide you with our Service.
+If you remove the Application, we will remove your information and use copies of your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+ Changes to This Privacy Policy  We may update our Privacy Policy from time to time.
+Thus, you are advised to check our Service occasionally to inform yourself of any changes.
+We will notify you of any changes by posting the new Privacy Policy on this page.
+These changes are effective immediately after they are posted on this page.
+your continued use of the Application after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.
+ Contact Us  Please submit any questions, concerns or comments you have about this Privacy Policy or any requests concerning your Personal Information via email to support@veepn.com.
+

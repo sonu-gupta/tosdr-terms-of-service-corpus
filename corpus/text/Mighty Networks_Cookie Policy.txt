@@ -1,0 +1,102 @@
+
+        Mighty Networks Cookie PolicyLast updated: May 24, 2018
+
+
+Mighty Networks uses cookies on its website and related applications (the âServiceâ).
+By using the Service, you consent to the use of cookies.
+To make the Service work properly, we sometimes place small data files called cookies on your device.
+This Cookie Policy is part of our Privacy Policy and outlines, for each cookie that is set on your device when you visit our website, its name, duration (session vs.
+persistent), purpose, information collected when you visit our website and third party sites, how to opt out, and a link to a website where you can withdraw consent to being tracked by third parties.
+Session cookies are automatically deleted at the end of your browsing session.
+Persistent cookies remain on your device for the duration of each specific cookie, until its expiration date or until you delete it, whichever comes first.
+First party cookies are in boldface.
+Please be aware that because we are always updating and improving our Service, this list may not be comprehensive.
+Check back for updates.
+Each cookie serves one of four different purposes: essential, service enhancement, analytics, or advertising / targeting.Essential cookiesThese cookies are essential, or strictly necessary, for the operation of the Services, because they enable you to freely move through the Site.
+If you do not permit the use of these cookies, your visit to the Site may be impaired.
+For example, these cookies remember your preferences as you move around the Site.
+Cookie Name, Who Controls It, and Duration
+Purpose
+Information Collected
+How to Withdraw Consent_session_id
+
+Mighty Networks
+PersistentTo authenticate you when signed in to the ServiceA randomly generated ID allows the server to identify you.Do not use our Services if you do not want to receive this cookieCSRF-TOKEN
+
+Mighty Networks
+PersistentTo prevent cross-site scripting attacks, ads security so that other sites cannot make requests to your Mighty Network accountA randomly generated ID allows the server to validate authentic requests from youDo not use our Services if you do not want to receive this cookielocale
+
+Mighty Networks
+PersistentTo remember your language choiceLanguage preference either inferred from your browser settings or directly selected in the ServiceDo not use our Services if you do not want to receive this cookiecookie_notified
+
+Mighty Networks
+PersistentCompliance with EU lawWhether you were notified of this cookie policy and clicked âAcceptâDo not use our Services if you do not want to receive this cookieService Enhancement cookiesThese cookies enable us to provide the functions and contents of the Site tailored to your specific needs, as these cookies store your preferences.
+In addition, these cookies can enable sharing with social networks.
+Cookie Name, Who Controls It, and Duration
+Purpose
+Information Collected
+How to Withdraw Consent__zlcmid
+
+Zendesk
+PersistentTo track your visitor ID to provide customer support.
+Zendesk is our hosted helpdesk software and provides help center technology.Anonymous (Browser Information, Cookie Data, Date/Time, Hardware/Software Type, Internet Service Provider, Page Views )
+
+Pseudonymous (IP Address (EU Personal Data), Clickstream Data)
+Personal Data â IP AddressGo toAboutCookies.orgfor browser-specific instructionsIntercomPersistentUser support and chat with registered users and visitorsAnonymous (Browser Information, Cookie Data, Date/Time, Page Views )
+
+Pseudonymous (IP Address (EU Personal Data))Go toAboutCookies.orgfor browser-specific instructionsFacebook ConnectPersistentIntegration with your Facebook account â subject to your Facebook account settingsAnonymous (Ad Views, Analytics, Browser Information, Cookie Data , Date/Time, Demographic Data, Hardware/Software Type, Internet Service Provider, Interaction Data , Page Views , Serving Domains, Details Undisclosed)
+
+Pseudonymous (IP Address (EU PII), Location Based Data, Clickstream Data, Device ID (EU PII))
+PII (Name , Address, Phone Number, Email Address, Login, EU- IP Address, EU- Unique Device ID )Go toAboutCookies.orgfor browser-specific instructionsAnalytics CookiesThese cookies collect data on how the Site is used, for example which pages of the Site were most frequently visited.
+These cookies provide us with analytical data on the performance of the Site and clues as to how improve it.
+Cookie Name, Who Controls It, and Duration
+Purpose
+Information Collected
+How to Withdraw ConsentGooglePersistentWe use Google Analytics, which is a web analytics service from Google Inc.
+Google Analytics sets a cookie on your device for the purpose of recognizing you on an anonymous basis, once you return to a specific page on our Site.
+Google uses the information received from the cookie in order to store a profile of which pages you have accessed within a session.Anonymous (Ad Views, Analytics, Browser Information, Cookie Data , Date/Time, Demographic Data, Hardware/Software Type, Internet Service Provider, Interaction Data , Page Views , Serving Domains)
+
+Pseudonymous (IP Address (EU PII), Search History, Location Based Data, Device ID (EU PII))
+PII (Name , Address, Phone Number, Email Address, Login, EU- IP Address, EU- Unique Device ID )https://myaccount.google.com/privacy?hl=en#accounthistory
+
+ 
+Go toAboutCookies.orgfor browser-specific instructionsNew Relic
+
+PersistentNewRelic provides analytics on page load performance and errors so that we can improve the ServiceAnonymous (Analytics, Browser Information, Cookie Data , Date/Time, Demographic Data, Hardware/Software Type, Interaction Data , Page Views , Serving Domains)
+
+Pseudonymous (IP Address (EU PII))
+PII (Name , Address, Phone Number, Email Address, PII Collected via 3rd Parties, Login, EU- IP Address)
+Sensitive (Financial Information)Go toAboutCookies.orgfor browser-specific instructionsTrackJSPersistentTrackJS provides us with error tracking services for our website.Anonymous (Browser Information, Cookie Data , Date/Time, Interaction Data )
+
+Pseudonymous (IP Address (EU PII))
+PII (Email Address, EU- IP Address)Go toAboutCookies.orgfor browser-specific instructionsAdvertising CookiesThese cookies collect information about your visit to our Site for the purpose of showing you ads on other websites based on your use of the Services.
+Cookie Name, Who Controls It, and Duration
+Purpose
+Information Collected
+How to Withdraw Consentid
+
+ 
+from Doubleclick.com
+ 
+PersistentTo track the effectiveness of our advertising in driving traffic to our site.
+
+ 
+Google will use information about your use of our Site to target advertising to you when you visit other sitesAnonymous (Ad Views, Analytics, Browser Information, Cookie Data , Date/Time, Demographic Data, Hardware/Software Type, Internet Service Provider, Interaction Data , Page Views , Serving Domains)
+
+Pseudonymous (IP Address (EU PII), Search History, Location Based Data, Device ID (EU PII))
+PII (Name , Address, Phone Number, Email Address, Login, EU- IP Address, EU- Unique Device ID )https://myaccount.google.com/privacy?hl=en#accounthistory
+
+ 
+Go toAboutCookies.orgfor browser-specific instructionsFacebook Custom Audience
+
+PersistentUsed to track actions on our site such as registering, starting a free trial or making a purchase so that Mighty Networks or the Host who runs a Network can optimize their advertising campaignsAnonymous (Ad Views, Analytics, Browser Information, Cookie Data , Date/Time, Demographic Data, Hardware/Software Type, Internet Service Provider, Interaction Data , Page Views , Serving Domains, Details Undisclosed)
+
+Pseudonymous (IP Address (EU PII), Location Based Data, Clickstream Data, Device ID (EU PII))
+PII (Name , Address, Phone Number, Email Address, Login, EU- IP Address, EU- Unique Device ID )Go toAboutCookies.orgfor browser-specific instructionsHow to control cookiesYou can control and/or delete cookies as you wish â for details, see http://optout.aboutads.info/, https://www.aboutcookies.org or https://youronlinechoices.eu/.
+You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed.
+If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
+Note that when you opt out of being tracked and/or targeted by some companies, they set a cookie in your browser to indicate that you have opted out.Find out moreThe advertising industry has developed a number of consumer and business initiatives in Europe, the US and other regions.
+These initiatives include best practice principles for businesses involved in advertising, consumer guides to behavioral advertising and opt-out tools.
+European Interactive Digital Advertising Alliance (EDAA)
+Digital Advertising Alliance (DAA)
+Network Advertising Initiative (NAI)

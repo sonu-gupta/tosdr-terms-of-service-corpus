@@ -1,0 +1,227 @@
+
+         Privacy Learn how V0LT protects your privacy!
+Download this document in plain text, and it's corresponding PGP signatures to verify it's authenticity.
+ Download Last modified: March 6th, 2021, ~2:45PM
+In the modern connected world, privacy is a huge concern.
+Companies and governments collect your information and activities in order to create profiles about you and sell information about you to advertisers.
+I believe that you should have full control over your information, which is why privacy is one of the main aspects I aim to achieve with V0LT.
+On this page I'll explain how V0LT protects your privacy, how your information is handled, and what you can do to verify my claims.
+
+Analytics
+
+Description: The V0LT website uses analytics to determine how many users visit certain pages.
+No information about what you do on those pages is recorded.
+Cross page tracking isn't used, which means all the analytics system knows is that you viewed a page, and not what pages you came from, or what pages you viewed after.
+Formerly, V0LT used an in-house analytics system, but now uses Plausible Analytics, a completely open source, privacy respecting analytics tool that doesn't use cookies or other privacy invasive features.
+V0LT also self hosts Plausible, further ensuring it's security and privacy.
+
+Verification: To verify that you V0LT isn't following you across browser sessions yourself, open your browser's cookie inspector.
+If you're a normal user, you'll find that there is only one cookie present.
+This cookie is used to keep you signed in during your session.
+It is removed once you close your browser.
+If you're part of V0LT, you might also see a second cookie.
+This cookie is used to stop the analytics system from counting your visits into the totals.
+If you see more cookies than expected, please contact me at cvieira@v0lttech.com so I can try to determine it's origin.
+To ensure that your page interactions aren't being recorded, you can block non-free JavaScript in your brower using LibreJS.
+While this can't really verify my claims, it can ensure that even if I were recording your interactions with V0LT pages, I wouldn't be able to anymore, since the only scripts running would be ones you could inspect.
+Since the analytics software V0LT uses is free and open source, you can inspect it's code yourself here!
+
+Third Party Services
+
+Description: V0LT never uses closed-source third party services by default.
+While I do use third party tools to develop and produce content, I only ever embed open source software that I can verify isn't putting any back-doors or tracking software into V0LT content.
+The one exception to this rule is Itch.io.
+I use Itch to distribute most of my software.
+However, Itch is only loaded if you specifically set it in your account preferences.
+By default, only a link to the page is loaded, which doesn't allow for cross site tracking.
+
+Verification: Install uMatrix, an open source browser extension that allows you to see what domains are being loaded on any given webpage.
+You'll find that on the V0LT website, no external resources are used.
+Everything loaded is loaded directly from the V0LT server.
+
+Open Source
+
+Description: All new V0LT programs are open source, which means anyone can read the code that makes them work.
+However, there are older V0LT programs that are closed source, so keep in mind that these are much harder to verify when it comes to privacy claims.
+
+Verification: Visit the page of the program that you want to verify, then click 'Source Code'.
+This will redirect you to a GitHub page where you can view all the code behind a specific program.
+If you want, you can compile this code for yourself to make sure that there aren't any backdoors in the precompiled version.
+
+Advertising
+
+Description: When you use V0LT content and services, you are never shown advertisements.
+Your information is never collected to display targeted marketing of any kind.
+In the future, it's possible that V0LT may have advertisements for privacy and freedom respecting products, which will be shown in plain text, seperate from page content, in a way that isn't disruptive or distracting.
+However, currently, none of the companies who have contacted V0LT in regards to advertising have had products that consist of entirely free and open source software.
+Unless a company's product meets my ethical standards completely, and they don't require an ad dependent on JavaScript, bright colors, or animations, I wouldn't consider accepting a ad from them.
+
+Verification: Simply visit any webpage on the V0LT website, and notice that there are no advertisements.
+If you want, I encourage you to install some kind of adblock software to further protect your privacy on sites that do display advertisements.
+
+Password Hashing
+
+Description: When you sign up for a V0LT account, your username is stored in plain text.
+This means that me, and anyone who potentially gains access to the V0LT server can see your username.
+Your password, on the other hand, is 'hashed', which means it is unreversably scrambled.
+Whenever you sign in, the password you enter is re-hashed, and compared against the one stored in the account database.
+Even if someone were to hack the V0LT server, they wouldn't be able to read your password.
+
+Verification: Unfortunately, there isn't really a way for you to verify this, since it would require that I give you direct access to the V0LT server.
+Like everywhere else, I suggest that you don't reuse a password from elsewhere on your V0LT account.
+Not only does this protect you if I were lying about hashing your password, but it could also stop extensive damage if someone were to compromise your V0LT account somehow.
+
+Breach Notification
+
+Description: In the event that there is a successful attack on the V0LT server, I will do my best to notify everyone as soon as possible using ChatJet.
+I'm currently working on a new system using PGP signed messages to replace this.
+
+Verification: While it is difficult to prove whether or not I accurately report breaches, you can view all previous breach reports by going to the Services tab, clicking ChatJet, and looking for messages posted in the 'v0ltsecurity' community by user 'cvieira'.
+If a report is posted by another user, be skeptical of it's truthfulness.
+
+Information Collected Summary
+
+Description: V0LT collects very little information about you, but there are still certain things that must be collected in order to run the website, and specific services that you may choose to use.
+This graphic explains what information is collected and how it is handled.
+The font color just makes it easier to quickly distinguish between each line, and has no meaning itself.
+The indicator light in front of each line indicates whether or not the characteristic is a bad or good thing, for people who aren't as technically adept.
+Green indicates good, yellow indicates that it's not perfect, but not concerning, and red indicates something that you should take note of and be careful with.
+
+Your V0LT username
+
+
+How it's stored: In clear-text in a private file on the V0LT server.
+
+Why it's needed: To give you access to account based services on V0LT.
+
+When it's shared: When you make posts on ChatJet, or send messages through the V0LT messaging system.
+
+Is it associated with my account? Yes
+
+Can it be read by V0LT? Yes
+
+When it's collected: When you make a V0LT account.
+
+Is it considered public information? Yes
+
+Your V0LT password
+
+
+How it's stored: Encrypted (hashed) in a private file on the V0LT server.
+
+Why it's needed: In order to sign you in when you use your V0LT account, and keep unauthorized users from accessing your account.
+
+When it's shared: Never
+
+Is it associated with my account? Yes
+
+Can it be read by V0LT? No
+
+When it's collected: When you make a V0LT account.
+
+Is it considered public information? No
+
+Your messages
+
+
+How it's stored: In clear-text in a private database on the V0LT server.
+
+Why it's needed: To allow messages you send to be loaded by the recipient without requiring a peer to peer message system.
+
+When it's shared: Whenever the recipient opens it.
+It is never shared with anyone else, unless in the event of criminal activity.
+
+Is it associated with my account? Yes
+
+Can it be read by V0LT? Yes
+
+When it's collected: When you send a message using the V0LT messaging service.
+
+Is it considered public information? No
+
+Your ChatJet posts
+
+
+How it's stored: In clear-text in a "private" database on the V0LT server.
+The raw database itself is private, but can still be viewed by anyone on ChatJet.
+
+Why it's needed: To store any public messages you post to ChatJet.
+
+When it's shared: Whenever someone uses ChatJet.
+
+Is it associated with my account? Yes
+
+Can it be read by V0LT? Yes
+
+When it's collected: When you make a post on ChatJet.
+
+Is it considered public information? Yes
+
+Your cloud-stored notes on V0LT
+
+
+How it's stored: In clear-text in a private database on the V0LT server
+
+Why it's needed: To store any notes you write using the V0LT notes service.
+
+When it's shared: Never, unless in the event of criminal activity.
+
+Is it associated with my account? Yes
+
+Can it be read by V0LT? Yes
+
+When it's collected: When you save a note on the V0LT server.
+
+Is it considered public information? No
+
+Your account preferences
+
+
+How it's stored: In clear-text in a private database on the V0LT server
+
+Why it's needed: To keep track of your account preferences
+
+When it's shared: Never, unless in the event that V0LT is legally required to release it to athorities
+
+Is it associated with my account? Yes
+
+Can it be read by V0LT? Yes
+
+When it's collected: When you set your preferences on the Account page.
+
+Is it considered public information? No
+
+Your linked purchases
+
+
+How it's stored: In clear-text in a private database on the V0LT server
+
+Why it's needed: To keep track of the purchases tied to your account
+
+When it's shared: Never, unless in the event that V0LT is legally required to release it to athorities
+
+Is it associated with my account? Yes
+
+Can it be read by V0LT? Yes
+
+When it's collected: When you set you enter a product key on the "Redeem" page.
+
+Is it considered public information? No
+
+
+
+
+
+
+Deleting Your Information
+The way the V0LT account system works, no information about you is collected, except information you directly enter into the site.
+That means that when you remove information from V0LT, it is deleted entirely from all records on the site.
+If you'd like to delete your information from V0LT, unfortunately you'll have to do so manually, since your activity isn't tied back to your account in a way that's easy for a program to manipulate.
+For example, if you'd like to delete your data for the cloud stored notes service, simply open the notes service, delete all the text it contains, then press 'Submit'.
+Since the only information stored about notes you store on the V0LT notes service is the note text itself, this immediately removes all of your notes information.
+A similar process can be applied the your Messages, Home Base, and ChatJet data.
+Simply delete the information in the service, and it will be instantly deleted from all V0LT records.
+Contact
+If you have any questions about how your data, V0LT's security measures, or anything else, don't hesitate to contact me.
+You can send an email at cvieira@v0lttech.com.
+If security and privacy is a concern, you can contact me on Matrix at @cvieira:matrix.org, or use PGP over email.

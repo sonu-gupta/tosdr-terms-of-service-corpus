@@ -1,0 +1,34 @@
+
+         settings  Instance Privacy The instance operator has indicated their instance's privacy practices below.
+For more information, see the instance operator's privacy policy.
+For reference, we use Caddy to reverse proxy Librarian.
+Caddy requires you to specify where to log, which we haven't.
+As such, there is no logging.
+However, if it really is logging, we don't know where. check_circle Data Not Collected The instance operator does not collect any data from this instance. What's this?  Instance privacy aims to bring transparency to the data collected by frontends and encourage privacy friendly practices.
+There is often no privacy policy and users are forced to trust that the instance operator is not collecting data.
+However, there is a possibility that the instance operator can put false information so we encourage looking at other factors when selecting an instance.
+
+
+ password Internet address (IP Address) - This is an address that is given to your computer or internet connection.
+This can be used to find your city or region and internet provider but can change depending on your connection.
+
+ link Page viewed (Request URL) - This is what page you are viewing.
+Searches are kept private.
+
+ phonelink Device Type (User agent) - This is what browser, device, and operating system you are using.
+Advanced users can change this with an extension or browser setting.
+
+ settings Diagnostics - When this data is only collected when there is an error or only a short amount of time while diagnosing an issue.
+
+ Additional information 
+Version: 2022-12-21-22fd774
+Country: Netherlands
+Provider: BuyVM
+Using Cloudflare?: No
+Stream proxy: No
+Livestreams: No
+
+
+
+ info About visibility Privacy code Source Code 
+      

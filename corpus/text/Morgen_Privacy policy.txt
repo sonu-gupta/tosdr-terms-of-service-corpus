@@ -1,0 +1,70 @@
+
+        Our Privacy PolicyWhen you use Morgen, youâre trusting us (Morgen AG) with some of your information.
+We understand that this is a big responsibility and we work hard to protect your information and put you in control.
+This Privacy Policy is meant to help you understand what information we collect, why we collect it and how you can update, manage, export and delete your information.
+Last update: July 8th, 2022.Information we collectWe collect information to run the service, prevent abuse, and to provide better products to all our users.Basic InformationTo register as a user with Morgen, you will be asked to sign in using your email address.
+Your email address will be used for identification purposes and is linked to your Morgen account across all devices where you use Morgen.
+We also collect some information about these devices like the operating system,hardware and software versions,screen resolution,the name of your mobile operator or ISP (Internet Service Provider), language, time zone,approximate location, and IP address.Calendar MetadataWhen you link an external calendar provider like Google Calendar, Microsoft Exchange, Office 365, iCloud or other CalDAV calendars, we collect the unique identifier and the email address or username of these accounts.
+By default, password and access tokens are only stored locally and never leave your computer.
+In other words, we cannot access your account remotely with the information that we collect.
+When available from the calendar provider, we collect the name and the company name of the user associated with the account.
+We also collect general statistics like the number of calendars in one account or the total number of events and contacts in each calendar.
+For some more advanced features, like enabling Shared availability and Scheduling Links, Morgen requires continuous access to your latest calendar status.
+In this case, you will be prompted for consent, and we will collect the accounts' credentials, which will be stored in encrypted form in our data center.TasksTasks are hosted in the Morgen cloud service.
+When you create a task, all its properties, including title, priority and notes are stored in our backend.Usage LogsWe collect general information about how you use Morgen, such as the views you engage with, the features you use, the actions you take, and how frequently you use  Morgen.
+For example, we log when you're using and have last used Morgen, and how many times you create calendar events using the calendar interface or the calendar assistant.SurveysIf you fill research surveys within Morgen, we collect your answers to the questionnaires.
+Normally, the results of these surveys are anonymous and not linked to your Morgen profile.
+Sometimes, the survey might ask you to leave your email address.
+In this case, the survey is not anonymous and can be linked with your Morgen profile or your activities within Morgen.
+Note that the participation is always optional.Information that we don't collectMorgen runs primarily on your computer, processing some of your data locally without transferring this information to our servers whenever possible.Access credentials to third-party accounts (by default)By default, we do not transfer nor collect the passwords and access tokens of your calendar accounts.
+These are stored locally on your computer and are used by Morgen to synchronize your calendar data.
+Some features, however, do require us to store your access credentials ("Connect to Morgen Cloud").
+In this case, you will be asked for consent before such features are enabled.Calendar DataMorgen synchronizes locally the information related to your calendar events, including the name and email address of the people registered as attendees in such events.
+Calendar events are never transferred to our servers.
+When your calendars need to be queried in order to provide some of the Morgen functionalities, any calendar data is immediately deleted as soon as the operation is completed.How do we use your informationProvide, personalize and improve MorgenWe use the information we have to develop, test and improve Morgen, including conducting surveys and research, and running, testing and troubleshooting new features.Communicate with YouWe may use your email address to communicate with you about Morgen, let you know about changes to our policies and terms, ask your feedback, and timely report any possible security issue if found.
+We also use your information to respond to you when you contact us.Integrity and SecurityWe use the information we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of Morgen.
+For example, we use data we have to investigate suspicious activity or violations of our terms or policies.Sharing of informationWe do not sell any of your information to anyone, and we never will.
+We also do not share your information with third-parties.
+However, the data we collect is stored and processed on cloud infrastructures provided by our partners (the data processors in GDPR terms).
+We store all data in Switzerland or in the European Union.
+Our partners are:
+Google Inc.We use Google Cloud Platform to power our backend services and to host and process some data.
+Google Cloudâs industry-leading security, third-party audits and certifications, documentation, and legal commitments help us ensure your data is safe.
+For more information about Google Cloud Security, please visit https://cloud.google.com/security.
+We rely on Google Analytics to measure and analyze in-app events and collect anonymous information about how people use Morgen.
+The information we send to Google Analytics contains no personally identifiable information (PII).
+Amplitude, Inc.We rely on Amplitude to measure the engagement of the users with Morgen and collect anonymous information about how people use Morgen.
+For more information about Amplitude Security and Privacy, please visit https://amplitude.com/amplitude-security-and-privacy
+LogRocket, Inc.We rely on LogRocket to troubleshoot issues within the app.
+No personal information is sent to LogRocket.
+For more information about LogRocket Security and Privacy, please visit https://docs.logrocket.com/docs/security
+MongoDB, Inc.We use the database service provided by MongoDB Atlas to host some of your information.
+The underlying physical storage is provided by Google Inc.
+For more information about MongoDB Privacy Policy and Security, please visit https://www.mongodb.com/cloud/trust
+Typeform, SL.We rely on Typeform to power our surveys and host the related answers.
+For more information about Typeformâs Privacy Policy, please visit https://www.typeform.com/help/what-happens-to-my-data
+Paddle.com Market LimitedWe rely on Paddle to power our payment and subscription system.
+For more information about Paddleâs Privacy Policy, please visit https://paddle.com/privacy
+Security of informationWe do our best to keep your information safe.
+First, we minimize the data we collect.
+For example, we collect the calendar account credentials only if you decide to use a feature that requires it.
+Second, we use safe protocols for communication and transferring data (such as HTTPS).
+Credentials are stored encrypted using RSA.
+We use pseudonymising or anonymising where suitable, for example when we train Machine Learning models based on aggregated data.
+We use 2-factor authentication, whenever available, to access our accounts on processing partners that host your information.
+We monitor our systems for possible vulnerabilities and attacks.
+Even though we try our best, we can not guarantee the total security of information.
+However, we promise to notify suitable authorities of data breaches.
+We will also notify you if there is a threat to your rights or interests.
+We will do everything we reasonably can to prevent security breaches and to assist authorities should any breaches occur.ChildrenAs a productivity tool, Morgen is not intended for or designed to attract anyone under the age of 16, and we do not intentionally or knowingly collect information on our sites from anyone under the age of 16 (or older in some jurisdictions).
+We encourage parents to be involved in the online activities of their children to ensure that no information is collected from a child without parental permission.Changes to this PolicyFrom time to time, we may revise this Policy.
+We will post a link to the revised Policy within Morgen as well as on our website so that users can always be aware of what information we collect, how the information is used and under what circumstances such information may be disclosed.
+You agree to review the Policy periodically so that you are aware of any modifications.
+We will also inform you by email of such modifications.
+Your continued use of Morgen indicates your assent to any changes and signifies your agreement to the terms of our Policy.
+If you do not agree with these terms, you should not use Morgen or any related service.Your rightsUnder the European General Data Protection Regulation (EU-GDPR), you have the right to access, rectify, export and erase your data.
+To perform any of these actions, or if you want to delete your account completely (and remove all your settings and preferences from our partner servers), you can use the in-app option in the settings menu, when available, or write us an email to connect@morgen.so, providing the email address you used during the registration process.
+Please note that the deletion of your account will remove your data from Morgen and deactivate Morgen on your devices.
+Please also note that simply uninstalling Morgen from your device will not delete your account.Contact informationIf you have any question or concern regarding this Privacy Policy or the way we handle your information, do not hesitate to contact us at connect@morgen.so.The data controller for Morgen and responsible for any related system is Morgen AG, FÃ¶rrlibuckstrasse 223, 8005 Zurich, Switzerland.
+You can contact the data controller at connect@morgen.so.
+      

@@ -1,0 +1,32 @@
+
+         â° US Account Starlink Specifications - Beta PhaseLast Updated October 12, 2020SpaceX provides two-way satellite-based internet service (âServicesâ), receivable with a Starlink dish, Wi-Fi router, power supply and mounts â(Starlink Kitâ or âKitâ).
+The Starlink Kit and Services are still in a beta phase, under development and subject to change (âBeta Phaseâ).SpaceX is aiming for a maximum performance during the Beta Phase of Internet download speeds up to 100Mbps between the Starlink Kit equipment located at the customerâs home and the Starlink Internet edge.
+Actual performance may be lesser and is not guaranteed.Customer must follow installation directions and connect the Starlink dish directly to the Starlink WiFi router without any additional jumper cables, receptacles, or any other devices aimed at extending the reach of the link between the two components.Various circumstances may affect the performance of Starlink Kits and Services, including, but not limited to: (a) failure to follow SpaceX instructions.
+(b) installation environment.
+(c) angle and/or field of view of the dish.
+(d) weather.
+(e) quality of your personal devices.
+(f) interference by other devices.
+(g) proximity of other Starlink Kits.
+(h) quality, condition and positioning of the cables.
+(i) reliability of power from the grid or problems with customerâs electrical power.
+(j) improper home grounding.
+(k) proximity or location of the Wi-Fi router.
+(l) too many active or parallels WiFi networks or devices.
+(m) fire, flood, wind, lightning, earthquake, or other acts of nature or God.
+(n) spills of food or liquids on Starlink Kit.
+(o) misuse, abuse, accident, vandalism, alteration, or neglect.
+and (p) normal wear and tear or deterioration.At the time of delivery, the Starlink Kit should be able to connect customers to the Services and to remain intact and operable for a minimum of 12 months after delivery, if installation instructions are followed and if the Kit is carefully maintained and not subjected to physical damage, extreme weather conditions, or aged or faulty personal devices attempting to connect to Services.Like other novel technology products, the Starlink Kit will eventually become technologically obsolete.
+From time to time, customers may need to purchase a newer model for optimal Services.The Starlink Kit can and may be accessed by SpaceX to perform support actions, request limited diagnostic information, monitor performance, and provide research for improvement purposes.The Wifi routers can be configured via a cloud admin portal and may not be configurable otherwise.
+Every routerâs configuration is stored in a SpaceX database (and encrypted at rest).
+Every router automatically reaches out to SpaceX to download its own configuration, and provide the following:
+user-facing features, such as checking connected devices and running speed tests;
+customer support features, such as rebooting or resetting a router.
+and
+engineering diagnostics, such as alerts on errors the router has encountered, packet loss and speed test statistics, and temperature data over time.
+SpaceX may change these Starlink Specifications, the Starlink Kit (including delivered devices via software updates), Services, and Services plans from time to time.
+Stated speeds and uninterrupted use of Services are not guaranteed.
+Actual speeds will likely be lower than the maximum speeds during peak usage hours.Starlink Â© 2021|Privacy &amp.
+Legal|FAQStarlink is a division of SpaceX.
+Visit us at spacex.com 
+      

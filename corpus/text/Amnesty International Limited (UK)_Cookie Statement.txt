@@ -1,0 +1,247 @@
+
+         <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MH9W89" height="0" width="0" style="display:none;visibility:hidden"></iframe&gt.
+Skip To Main Content  Amnesty International  Amnesty International Menu Main menu Main menu CLOSE 
+ Who We Are 
+ How we're run 
+ Jobs &amp.
+internships 
+
+
+ What We Do 
+ Countries 
+ Get Involved 
+ Take Action 
+ Join 
+ Volunteer 
+
+
+ Donate now 
+ Latest 
+ News 
+ Campaigns 
+ Education 
+ Research 
+ Impact 
+
+
+ en Choose language 
+ franÃ§ais 
+ espaÃ±ol 
+ Ø§ÙØ¹Ø±Ø¨ÙØ© 
+ Search Cookie Statement Cookie Statement Amnesty Internationalâs website, like most websites, uses small text files called cookies.
+This note provides information on what cookies are, which cookies Amnesty International uses, and how they can be controlled.
+If you wish to restrict or block cookies you can set your internet browser to do so- click on the following link for further information: www.aboutcookies.org
+1.
+What are cookies?
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website.
+Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie.
+Cookies are widely used because they allow a website to recognise a userâs device and therefore allow enhanced functionality.
+You can find out more information about cookies at: www.allaboutcookies.org some definitions used in this note are provided at part 5 below.
+2.
+How does Amnesty International use cookies?
+Amnesty International uses cookies for the following purposes:
+to compile statistical data on the use of our website and its functioning, so that we can monitor and improve it;
+to facilitate usersâ ability to navigate through our website, including to allow registered users to access secure parts of our website.
+and
+to allow us to share our web pages via social media platforms.
+3.
+Which cookies does Amnesty International use?
+A full list of all the cookies we use is in the table at part 6 below.
+Please note that we are auditing the use of these cookies and the table will be updated as we make ongoing changes.
+4.
+How to control cookies
+If you do not wish to receive cookies you can set your web browser to restrict or block them.
+All modern browsers allow you to change your cookie settings, typically be found in the 'options' or 'preferences' menu of your browser.
+In order to understand these settings, the following link may be helpful: www.aboutcookies.org
+If you disable cookies you will not be able to use all the interactive features of our website.
+5.
+Definitions
+
+First Party/ Third party cookies
+
+Refers to the web domain placing the cookie.
+First-party cookies are those set by a website that is being visited by the user at the time â the website displayed in the URL window.
+Third party cookies are cookies that are set by a domain other than that of the website being visited by the user.
+If a user visits a website and another entity sets the cookie through that website, this would be a third-party cookie.
+
+Persistent cookies
+
+These cookies remain on a userâs device for the period of time specified in the cookie.
+They are activated each time that the user visits the website that created that particular cookie.
+
+Session cookies
+
+These cookies allow website operators to link the actions of a user during a browser session.
+A browser session starts when a user opens the browser window and finishes when they close the browser window.
+Session cookies are created temporarily.
+Once you close the browser, all session cookies are deleted.
+
+Pixel tags
+
+A pixel tag is not technically a cookie but is a similar type of technology placed on a website or within the body of an email for the purpose of tracking activity on websites, or when emails are opened or accessed, and is often used in combination with cookies.
+Information collected is anonymous.
+6.
+Full list of cookies used by Amnesty International
+Below is a full list of cookies set by www.amnesty.org 
+a) Cookies set by our website CMS Cookie
+Purpose / More Information
+Names
+Expiry Cookie Agreement
+Created when the 'OK to Continue' button is clicked in the cookies notice at the top of page.
+Hides cookies notice on future visits.
+amnesty_international_wesbite
+1 week b) First Party cookies set by our website
+Amnesty Decoders uses cookies to authenticate you as a user.
+This allows our Amnesty Decoder front-end to recieve the token, store it within your browser session and authenticate you as a user
+im_access_token
+7 days Cookie
+Purpose / More Information
+Names
+Expiry Google Analytics
+Amnesty International and Amnesty Decoders support the use of Google Analytics within the site so that we can monitor activity on our website. 
+ Google Analytics cookies collect standard internet log information and visitor behaviour information in an anonymous form. More information.
+_ga
+2 years
+_gat
+10 minutes
+Google Tag Manager Google analytics is deployed through Google Tag Manager.
+ More information _dc_gtm
+ 
+10 minutes
+Microsoft Azure
+Ensures all requests are processed on the same cloud server instance.
+ARRAffinity
+Session
+Visual Web Optimizer
+Visual Web Optimizer allows us to trial design variations on our website.
+The cookies tell us which version of the website you have seen.
+All information is kept anonymous.
+More information
+_vis_opt_exp
+100 days
+_vis_opt_s
+100 days.
+_vis_opt_test_cookie
+Session
+_vwo_uuid
+100 days.
+_vis_opt_out
+100 days.
+Amnesty Campaigns
+Amnesty Campaigns use a cookie to temporarily retain the information that users enter to support a campaign action: name, email address and country selection.
+These cookies are retained so that users don't need to retype this information and can quickly support further actions.
+It is retained until users close their browser session.
+CampaignUserDetails
+Session
+Amnesty Decoders
+Amnesty Decoders 
+task manager
+ uses cookies for handling your session on the project task pages.
+task_session
+3 months
+Amnesty Decoders 
+identity management
+ system uses cookies for handling your session in the site.
+These cookies are used to sign in and sign out of Amnesty Decoders identity management.
+im_session
+Until the browser is closed
+Amnesty Decoders 
+discussion forum
+ uses cookies for handling your session in the site.
+These cookies are used to sign in and sign out of Amnesty Decoders discussion forum.
+_t
+2 months
+Amnesty Decoders 
+discussion forumâ
+s software library stores its cookie session for operation purpose.
+_forum_session
+Until the browser is closed
+Amnesty Decoders uses cookies to remember data entered in some text fields.
+These cookies are used so that users don't need to retype inputs that are likely to remain similar (e.g.
+username when logging in).
+task_remember_token
+3 months
+Amnesty Decoders uses cookies to remember if users want to accept Amnesty International cookies or not. These cookies ensure that the platform retains user preferences for activating cookies or not.
+Amnesty International_accept_cookies
+3 months &nbsp.
+Amnesty Decoders uses cookies to authenticate you as a user.
+This allows our Amnesty Decoder front-end to recieve the token, store it within your browser session and authenticate you as a user
+im_access_token
+7 days c) Third Party cookies set by our website Cookie
+Purpose / More Information
+Names YouTube
+We sometimes embed videos from YouTube.
+YouTube's use of cookies is governed by Google's privacy policy.
+More information.
+Expiry dates for these cookies vary from the session to 10 years.
+VISITOR_INFO1_LIVE demographics use_hitbox Activity SID HSID PREF d) Pixel Tags
+We use both Facebook and Twitter pixel tags.
+Pixel tags are used to track conversion from social media to our website.
+See more information on Facebook here and Twitter here.
+
+ ABOUT US 
+ Contact Us 
+ How We're Run 
+ Modern Slavery Act Statement 
+ Finances and Pay 
+ Structure and People 
+
+
+
+
+ RESOURCES 
+ Media Centre 
+ Wire Magazine 
+ Human Rights Education 
+ Human Rights Courses 
+
+
+
+
+ GET INVOLVED 
+ Join 
+ Take Action 
+ Volunteer 
+
+
+
+
+ LATEST 
+ News 
+ Campaigns 
+ Research 
+
+
+
+
+ WORK WITH US 
+
+ If you are talented and passionate about human rights then Amnesty International wants to hear from you.
+ JOBS &amp.
+INTERNSHIPS 
+
+
+
+
+ Like us on Facebook 
+ Follow us on Twitter 
+ Subscribe to us on YouTube 
+ Follow us on Instagram 
+
+ Privacy Policy   | &nbsp.
+Cookie Statement   | &nbsp.
+Permissions   | &nbsp.
+Refunds of donations 
+Â© 2020 Amnesty International Quick Search Advanced Search Search Keywords or Title Amnesty Index Number Date (year) Language English espaÃ±ol franÃ§ais Ø§ÙØ¹Ø±Ø¨ÙØ© ÑÑÑÑÐºÐ¸Ð¹ portuguÃªs Indonesia ä¸­æ ÙØ§Ø±Ø³Ù polski TÃ¼rkÃ§e italiano íêµ­ì´ ×¢××¨××ª romÃ¢nÄ ÑÐºÑÐ°ÑÐ½ÑÑÐºÐ° Deutsch æ¥æ¬èª slovenÅ¡Äina à·à·à¶à·à¶½ shqip à®¤à®®à®¿à®´à¯ à¹à¸à¸¢ srpski ÄeÅ¡tina ÎÎ»Î»Î·Î½Î¹ÎºÎ¬ à¤¨à¥à¤ªà¤¾à¤²à¥ Bahasa Melayu magyar Ð±ÑÐ»Ð³Ð°ÑÑÐºÐ¸ Nederlands oâzbek áá¶áá¶ááááá dansk ÐÐ¾Ð½Ð³Ð¾Ð» ÑÑÐ» slovenÄina Ð¢Ð¾Ò·Ð¸ÐºÓ£ azÉrbaycan dili à¦¬à¦¾à¦à¦²à¦¾ bosanski ÐÑÑÐ³ÑÐ· TiÃªÌng Viá»t á áá­á ÒÐ°Ð·Ð°Ò ÑÑÐ»Ñ à¨ªà©°à¨à¨¾à¨¬à© Ù¾ÚØªÙ Ø§ÙØ±Ø¯Ù ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ eesti ÕÕ¡ÕµÕ¥ÖÕ¥Õ¶ á¥áá áá£áá Ð¼Ð°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸ à´®à´²à´¯à´¾à´³à´ svenska Kiswahili Ø¦ÛÙØºÛØ±ÚÛ isiZulu Search 
+Your choice regarding cookies on this site We have placed cookies on your device to help make this website better.
+You can use this tool to change your cookie settings.
+Otherwise, we'll assume you're OK to continue.
+ SETTINGS Cookie Control IconCookie Control Close IconThis site uses cookiesWe have placed cookies on your device to help make this website better.
+You can use this tool to change your cookie settings.
+Otherwise, we'll assume you're OK to continue.
+For more information on how we use cookies, see our cookie statement.
+Learn moreCookie Control Link IconACCEPT RECOMMENDED COOKIES Necessary cookiesSome cookies are necessary for the functioning of Amnestyâs website.
+If you wish to restrict or block these cookies you can set your internet browser to do so, just click on the following link for further information: www.aboutcookies.org Analytics cookiesThese cookies allow us to understand how people are using our site and make improvements. Analytics cookiesONOFFMarketing cookiesWe use marketing cookies to increase the relevancy of the advertising you may see.Marketing cookiesONOFF <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=953370881400404&amp;ev=PageView&amp;noscript=1"&gt.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=953370881400404&amp;ev=PageView&amp;noscript=1"&gt.
+
+      

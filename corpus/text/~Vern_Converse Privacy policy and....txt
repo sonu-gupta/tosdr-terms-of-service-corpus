@@ -1,0 +1,27 @@
+
+         XMPP Account Hosting  We provide free XMPP accounts under the domain vern.cc.
+You can create an account directly via our registration form.
+ Privacy policy and GDPR compliance  This service is provided on a pro bono basis.
+An email address is not needed to sign up and we don't sell or monetize any of your data.
+ Sharing of data with 3rd parties  We don't share any of your data with 3rd parties, except when necessary to run the service.
+For example, when you send a message to a user on a differerent XMPP server.
+Your presence information (whether you're online or not) is shared with contacts that you've added from other servers.
+
+ Users on other XMPP servers can request access to your (optionally filled-in) VCard data.
+You can remove your VCard data through an XMPP client.
+The latest version of Converse supports this, and you can use it here.
+ Data storage  Our XMPP server runs in a Hetzner data centre in Strasbourg, France.
+
+ Your chat messages are archived for a period of 1 month, after which they are deleted.
+
+ Currently the conversejs.org XMPP server does not support HTTP-file upload (although Converse the client does), which means that we don't host any uploaded files of users.
+
+ During normal operations we don't log or process IP addresses, although it might be necessary in certain cases where a problem needs to be debugged (hasn't happened yet).
+Logs older than 6 months are deleted.
+ Data portability  Currently there is no standardized way to move a user account from one XMPP server to another.
+
+ If you'd like to have a copy of your data for transferal to another account, please contact us.
+ Account deletion  Currently it's not possible to automatically delete your account via Converse, although you might be able to do so via other XMPP clients that support account deletion via XEP-0077.
+
+ You can always contact us and we'll delete your account manually.
+

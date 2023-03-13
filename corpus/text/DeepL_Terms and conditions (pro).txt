@@ -1,0 +1,638 @@
+
+        DeepLTranslatorDeepL ProPlans and pricingAppsLogin Previous Terms &amp.
+Conditions DeepL Translator (free)DeepL ProDeepL Pro â Terms and ConditionsDeepL GmbH, Maarweg 165, 50825 Cologne, Germany (âDeepLâ) specialises in machine translation services and provides the online translation service DeepL.com.
+Customer wishes to utilize DeepL's translation services in its own software products and/or for other business or private purposes.
+In order to allow Customer to make use of the services, Customer is granted access to the subscribed DeepL Pro Products in accordance with and to the extent of these Terms and Conditions.
+These DeepL Pro License Terms and Conditions (âTerms and Conditionsâ) are available at https://www.deepl.com/pro-license.html and can be downloaded and printed by the Customer.
+
+ 1Definitions 
+ 1.1 âAgreementâ refers to the agreement between Customer and DeepL concerning the subscription to and the use of DeepLâs Products in accordance with these Terms and Conditions.
+
+ 1.2 âAPIâ refers to the Application Programming Interface provided by DeepL to the Customer as set out in the Service Specification and the Documentation provided by DeepL.
+
+ 1.3 âAPI-CAT-Keyâ refers to a special license key to connect computer-assisted-translation tools to the DeepL API.
+
+ 1.4 âAPI Responseâ refers to the APIâs response to Customerâs Requests.
+
+ 1.5 âAPI Requestâ refers to an HTTP request transmitted by the Application to the API.
+
+ 1.6 âApplicationâ refers to the software or service developed by or on behalf of the Customer which utilizes the API.
+
+ 1.7 âBusiness Daysâ are Monday through Friday, excluding public holidays in North Rhine-Westphalia, Germany.
+
+ 1.8 âCharactersâ shall have the meaning as set out in the definition for âNumber of Charactersâ.
+
+ 1.9 âContentâ refers to text sent by the Customer to the API and the Web-Translator as specified in the Service Specification in order to have it processed by the machine translation infrastructure operated by DeepL.
+
+ 1.10 âCustomerâ refers to the person or entity ordering or subscribing to the DeepL Products or services as the contracting party of DeepL.
+
+ 1.11 âCustomer Training Dataâ refers to bilingual terms, example documents and similar texts (monolingual or bilingual) submitted by Customer to the API and/or the DeepL Pro Translator in order to improve and customise the translations produced by DeepL.
+Further details on the use of Customer Training Data are contained in the Service Specification or a separate addendum to these Terms and Conditions (if the corresponding features for the use of Customer Training Data are available).
+
+ 1.12 âDeepL Pro Translatorâ refers to an extended version of the DeepL translator which provides Customer via different front ends (e.g.
+website and desktop application) with a user interface to the translation services in accordance with the Service Specification.
+
+ 1.13 âDocumentationâ refers to an electronic documentation of the requirements and functionality of the API provided to the Customer in English language.
+
+ 1.14 âEnd Usersâ refers to the users of Customerâs Application.
+
+ 1.15 âInternal Usersâ refers to the users of Customerâs access to the Products for internal purposes of Customer, e.g.
+Customerâs employees, employees of affiliated companies (pursuant to Sections 15 et seq.
+AktG), freelance collaborators or Customerâs service providers.
+
+ 1.16 âIP Accessâ refers to the access to the DeepL Pro Translator from a specific, fixed IP range which Customer may provide to DeepL and which can be used by Customerâs Internal Users to access the DeepL Pro Translator.
+
+ 1.17 âNumber of Charactersâ refers to the number of characters of the Content transmitted to the API based on the used character encoding.
+For the avoidance of doubt, multi-byte encoded characters shall count as single character.
+
+ 1.18 âOrder Buttonâ refers to the button in the online ordering process clearly marked to finalize the ordering process (e.g.
+with the inscription "Buy now", or similar).
+
+ 1.19 âProcessed Contentâ refers to any Content that has been processed using the API or the DeepL Pro Translator.
+
+ 1.20 âProductsâ refers to the services offered from the following list: API.
+DeepL Pro Translator.
+
+ 1.21 âService Specificationâ refers to the specification of the API and the web translator as agreed upon conclusion of this Agreement.
+
+ 1.22 âSingle-User Licenseâ refers to a license to use a Product by one person.
+The same person can use the respective access credentials on multiple devices that meet the requirements of the Service Specification.
+The use of a Single-User License is only allowed and possible on one device at a time.
+If Customer wishes to use the respective Product by more than one person, Customer has to acquire a team license, multiple Single-User License or an IP Access.
+
+ 1.23 âThird-Party Applicationsâ refers to any application, component, library, plugin or other software which are provided by a third party and allow Customer to use or access the Products, e.g.
+translation plugins for third-party applications for which Customer has to use their own API credentials.
+
+
+
+ 2Subject of the Agreement 
+ 2.1 Subject to these Terms and Conditions and the Service Specification, DeepL provides Customer with access to the subscribed Products in accordance with the Service Specification and the applicable Documentation for the term of this Agreement.
+
+ 2.2 Customer shall pay to DeepL the remuneration agreed upon as set forth in the online buying process or as stipulated in the order form.
+
+
+
+ 3Services of DeepL 3.1General 
+ 3.1.1 DeepL provides Customer with access to the Products within the term and scope of this Agreement, including the Service Specification.
+
+ 3.1.2 DeepL will only store Content or Processed Content on its servers to the extent technically required to provide its services.
+Content or Processed Content will neither be perpetually stored on DeepLâs servers nor returned to Customer.
+For the avoidance of doubt, DeepL shall be entitled to create and retain access logs for billing, security and statistical purposes.
+Such access logs shall not contain any Content or Processed Content.
+However, access logs may contain meta data of API Requests such as time of the API Request and size of the transmitted Content.
+
+ 3.1.3 DeepL will use the Customer Training Data exclusively in connection with the translations of the respective Customer and will store and process it for the term of the Agreement in such a way that no unauthorised persons have access to it.
+As the Customer Training Data is processed automatically, it can be deleted at Customer's request, but not returned to Customer (DeepL does not offer a data storage service).
+
+ 3.1.4 DeepL reserves the right to add additional features to the services at any time.
+Furthermore, DeepL may change, limit or remove existing features for reasons of data security, technical necessities or due to changes in applicable law, provided that the change, limitation or removal is reasonable for Customer in consideration of the interests of both Parties.
+DeepL shall inform Customer of such changes in due time in writing (e-mail sufficient).
+
+ 3.1.5 Further services, including but not limited to consulting, individual development, or implementation or training services, shall only be owed by DeepL upon express written agreement.
+
+ 3.1.6 DeepL is entitled to subcontract third parties to fulfil its contractual duties in whole or in part.
+
+ 3.1.7 Customer may grant Internal Users access to the Products in its sole discretion.
+However, Customer shall be fully liable for any use of the Products by Internal Users and shall ensure that Internal Users are aware of and respect any and all restrictions for the use of Products set out in this Agreement.
+Customer shall promptly notify DeepL of any suspected or alleged violation of this Agreement and shall cooperate with DeepL with respect to investigation of such violations as well as to any action by DeepL to enforce this Agreement.
+
+ 3.2API In addition to Section 3.1, the following shall apply to the API:
+
+ 3.2.1 DeepL will provide Customer with respective access credentials for the API.
+
+ 3.2.2 The API allows Customer to use the technical infrastructure for machine translation operated by DeepL by means of transmitting Content to the technical infrastructure.
+DeepL shall process the Content in accordance with this Agreement, the Service Specification and the Documentation.
+However, DeepL is neither obligated to ensure nor warrants correctness or accuracy of API Responses or Processed Content.
+In particular, DeepL does not give any guarantee regarding the correctness of the translations created by the machine translation system.
+
+ 3.2.3 DeepL may, in its sole discretion, provide Customer with software development kits or code samples (hereinafter jointly referred to as âCode Samplesâ).
+Code Samples are provided free of charge and are excluded from the paid services provided by DeepL.
+Code Samples are provided in electronic form and can be downloaded from a dedicated website.
+DeepL is not obligated to continue development of Code Samples or to keep Code Samples functional or available at all times.
+Code Samples are not suited for any use in production environments and are provided for educational purposes only.
+
+ 3.2.4 Particularly in view of the on-going development of the API, DeepL may introduce new versions of the API with an additional or different range of features.
+Furthermore, DeepL may terminate deprecated versions of the API provided that the termination is reasonable for Customer in consideration of the interests of both Parties.
+DeepL shall inform Customer of such termination in writing (e-mail sufficient) at least 4 weeks before the termination becomes effective.
+DeepL will inform Customer of updates of the API via e-mail.
+
+ 3.2.5 The option to use an API-CAT-Key is only provided if Customer choses specific subscription tiers in the order process which include API-CAT-Key support.
+The API-CAT-Key is a Single-User License.
+
+ 3.2.6 Some Third-Party Applications may require Customer to acquire Products from DeepL in order to use certain features of the Third-Party Applications (e.g.
+translation plugins).
+DeepL is not responsible for any Third-Party Application.
+Any use of such Third-Party Application is solely subject to the terms and conditions of its respective vendor and DeepL does not have any influence on such Third-Party Applications.
+
+ 3.3DeepL Pro Translator In addition to Section 3.1, the following shall apply to the DeepL Pro Translator:
+
+ 3.3.1 The DeepL Pro Translator provides Customer an enhanced user interface to use the DeepL translation service as set out in the Service Specification, providing means to translate texts in a web browser or another frontend application.
+
+ 3.3.2 The license to use the DeepL Pro Translator is a Single-User Licence.
+
+ 3.3.3 In the event that Customer has acquired an IP Access license, DeepL shall ensure that all requests to www.deepl.com from the authorised area to be provided by Customer will automatically be directed to the DeepL Pro Translator.
+In this case, no administration or login of individual users is required and restrictions of Single-User Licenses do not apply.
+
+
+
+ 4Availability 
+ 4.1 DeepL shall provide an annual average of 97% uptime availability for the Products.
+The availability calculation excludes any downtime for planned maintenance work as well as service interruptions which are beyond DeepLâs control, including but not limited to short-term and undue increase in the number of translation Requests by Customer which requires an unplanned increase in system capacity.
+
+ 4.2 Subject to the exceptions in Section 4.1, availability shall be calculated as the number of hours the services of the Products are functional, divided by the total number of hours within the respective calendar year.
+
+ 4.3 Unavoidable downtime due to planned maintenance work shall be electronically notified to Customer in good time in advance (e.g.
+by e-mail).
+
+
+
+ 5Conclusion of the contract 
+ 5.1 In order to conclude a contract regarding DeepLâs services under this Agreement it is required to provide an e-mail address and a password and then entering a billing address and payment information.
+After that, a summary of the order will be displayed for review.
+If Customer, after having agreed to these Terms and Conditions and to the Service Specification, clicks on the Order Button the contract is concluded when the subsequent page loads successfully and a subscription number is provided.
+
+ 5.2 DeepL reserves the right to reject Customer requests to conclude a contract.
+In this event, DeepL will display a respective message during the buying process, at latest when Customer has clicked the Order Button.
+In particular, DeepL rejects contracts with Customers providing machine translation services, including but not limited to Amazon.com, Inc., Microsoft Corporation, Google LLC, Alphabet Inc., Apple Inc., Facebook Inc., and their subsidiaries.
+
+ 5.3 Until clicking the Order Button, Customer can change or abort the order at any time.
+
+ 5.4 DeepL shall provide its services immediately after conclusion of the Agreement.
+
+ 5.5 The Agreement can be concluded in English or German language.
+
+
+
+ 6Free Trial Subscription 
+ 6.1 DeepL may provide Customer with a free trial subscription for selected Products at its own discretion.
+
+ 6.2 After the free trial period, the free trial subscription is automatically extended to a paid subscription to the Product as selected by Customer.
+The free trial subscription can be terminated at any time during its term by DeepL or Customer.
+In the event that DeepL or Customer prematurely terminates the free trial subscription, the free trial subscription does not extend to a paid subscription.
+
+
+
+ 7Copyright and Intellectual Property 
+ 7.1 DeepL grants Customer a non-exclusive, non-transferable, non-sublicensable worldwide right to use the Products for its internal intended purpose for the term and within the scope of this Agreement, subject to the authorised number of Internal Users for which Customer has paid DeepL.
+
+ 7.2 DeepL grants Customer a non-exclusive, non-transferable, non-sublicensable worldwide right to use the provided Documentation and support materials for the term and within the scope of this Agreement, in particular, to reproduce them and provide them to employees or contractors to the extent required for the intended use of the Products.
+
+ 7.3 DeepL grants Customer a non-exclusive right to use the provided Code Samples for educational and internal development purposes without restriction in regard to time or location, in particular to reproduce the Code Samples and provide them to Internal Users, to modify and create derivative works of the Code Samples and to use, sub-license or distribute such derivative works without limitation.
+
+ 7.4 All rights regarding the Content, Processed Content and/or Customer Training Data remain with Customer.
+However, Customer grants DeepL the non-exclusive worldwide right to use the Content and/or Customer Training Data solely in order to provide DeepLâs services to Customer.
+In particular, Customer grants to DeepL the right to temporarily store, modify, process, translate and transmit the Content and/or Customer Training Data, and to sublicense the foregoing rights to its subcontractors, to the extent required to provide the services set out in this Agreement.
+
+ 7.5 DeepL does not assume any copyrights to the translations made by Customer using the Products.
+In the event that the translations made by Customer using the Products are deemed to be protected under copyright laws to the benefit of DeepL, DeepL grants to Customer, upon creation of such translations, all excusive, transferable, sublicensable, worldwide perpetual rights to use the translations without limitation and for any existing or future types of use, including without limitation the right to modify the translations and to create derivative works.
+
+
+
+ 8Obligations of the Customer 8.1General 
+ 8.1.1 Customer may use the Products solely for the purpose agreed between the Parties.
+In particular, Customer may not, and will not allow third parties (including Internal Users and End Users) to use the Products, translations created using the Products, Documentation or other data, information or service provided by DeepL unless expressly authorised by DeepL in written form
+
+
+in connection with or for the purpose of operating critical infrastructure such as electrical power stations, military or defence equipment, medical appliances or other equipment whose failure or impairment would result in unforeseeable economical or physical damages, including but not limited to critical infrastructure in terms of the European Directive 2008/114/EC;
+
+
+for any illegal activities, including development of any applications infringing any third-party rights or any other applicable laws or regulations;
+
+
+for spamming or any other unsolicited advertising;
+
+
+to perform benchmark or other capacity testing of DeepLâs technical infrastructure;
+
+
+to create a similar product, service or API whose primary purpose is to provide machine translation services, including but not limited to bilingual/multilingual dictionaries;
+
+
+to develop, market or train a machine translation algorithm;
+
+
+to transmit any data to DeepL which may not be transmitted to or processed by DeepL due to data protection laws, contractual or statutory confidentiality obligations, export restrictions or other statutory provisions or third-party rights.
+
+
+
+ 8.1.2 Customer is obligated to keep the access credentials provided by DeepL secure and undertakes not to disclose them to any third parties unless required for the contractually intended and permitted use of the Products.
+Customer is not entitled to repackage or resell access credentials or its access to the Products to any third parties unless expressly agreed upon otherwise.
+
+ 8.1.3 Customer is obligated to observe all legal requirements for the collection, processing and use of data which is transmitted to and processed by DeepL for Customer in connection with the provision of its services under this Agreement.
+In particular, Customer shall immediately agree with DeepL on a data processing agreement (which shall be provided by DeepL) if Customer intends to transmit personal data to DeepL using the Products.
+Customer guarantees not to collect, process or use any personal data in connection with the Products without the express consent of the data subject or sufficient other legal authorisation.
+DeepL will reasonably co-operate with Customer in order to assist Customer in implementing such required legal authorisations.
+
+ 8.1.4 Customer shall indemnify DeepL from any and all third-party claims including the necessary expenses for legal defence, asserted against DeepL due to a culpable violation of this Agreement by Customer.
+If third parties should assert such claims against DeepL, DeepL shall inform Customer about the asserted claims without undue delay and leave the defence at the discretion of Customer or undertake it in cooperation with Customer.
+DeepL shall not settle or recognise claims of third parties without Customerâs consent which shall not be unreasonably withheld or delayed.
+DeepL shall be entitled to request a reasonable advance for the incurred legal defence expenses to be anticipated.
+The indemnification shall accordingly apply to fines or other regulatory or judicial orders and claims.
+
+ 8.1.5 In the event that Customer uses Third-Party Applications to access the Products, Customer shall comply with the acceptable use policies set out by the vendor of the Third-Party Application if applicable.
+
+ 8.1.6 API-CAT-Keys must only be used for CAT applications.
+The general API must not be used in CAT applications.
+
+ 8.1.7 Customer is only permitted to use the Products in compliance with applicable laws.
+This also includes export control laws and regulations.
+
+ 8.2DeepL Pro Translator In addition to Section 8.1, the following shall apply to the DeepL Pro Translator:
+
+ 8.2.1 Customer shall not be allowed to access and control the DeepL Pro Translator through automated procedures which may cause an increased number (exceeding usual human behavior) of requests to the DeepL Pro Translator.
+
+ 8.2.2 If Customer uses an IP Access, Customer has the following obligations
+
+
+Customer will only allow Internal Users access to its IP area unless otherwise expressly agreed with DeepL;
+
+
+DeepL is not responsible for ensuring accessibility of www.deepl.com from within the IP area of Customer;
+
+
+Billing shall be based on the number of Internal Users for IP Accesses.
+Customer is obliged to provide the correct number of Internal Users to DeepL upon conclusion of this Agreement;
+
+
+In case the number of Internal Users changes, the number of Internal Users must be adjusted at the end of each billing period.
+In the case of major changes of at least 10 % of the number of Internal Users or 250 Internal Users in absolute terms, Customer must report the changes to DeepL in writing (e-mail sufficient).
+DeepL and Customer will subsequently agree on an adjustment of the annual payments.
+
+
+
+ 8.3API In addition to Section 8.1, the following shall apply concerning the API:
+
+ 8.3.1 Customer is solely responsible for the implementation of the API as well as the installation, operation and maintenance of its Application, including compliance of its Application with all applicable laws, regulations and other third party requirements.
+
+ 8.3.2 Customer must comply with all technical requirements set out in the Service Specification and the Documentation.
+In particular, Customer must ensure that any Content is transmitted to the API in a valid data format and data encoding.
+
+ 8.3.3 Unless expressly agreed upon otherwise, Customer must disclose to End Users of an Application that any Processed Content displayed to the End Users without manual modification of Customer has been created using the DeepL API by either displaying the logo or the brand name (including the domain) of DeepL.
+However, Customer must not express or imply that DeepL is responsible for the Processed Contents or that Customer acts on behalf of DeepL.
+Customer will cease use of the DeepL logo and/or brand name on DeepLâs request.
+
+ 8.3.4 In the event that Customer uses the API within an Application which is distributed on third-party platforms (e.g.
+mobile apps), it is Customerâs sole responsibility to comply with any and all requirements and terms of service of such third-party platforms.
+
+ 8.3.5 In the event that a disclosure of access credentials to third parties is required for the contractually intended use of the API, Customer is solely responsible to take adequate and effective precautions to protect the access credentials from misuse or unauthorised access.
+In particular, access credentials may not be stored in configuration files in plain text and may not be transmitted over unencrypted public network connections.
+
+ 8.3.6 Customer is obligated to adhere to any security precautions, functional and other limitations of the API.
+In particular, Customer must not bypass, remove, defeat, avoid, deactivate or otherwise circumvent protection or authentication mechanisms or misuse API methods for purposes other than those intended or expressly documented.
+
+ 8.3.7 To the extent reasonable and technically possible, Customer must take precautions during the implementation of the Application using the API to ensure that Customerâs Application will continue to work properly even if the API is not available, whether caused by DeepLâs or Customerâs fault.
+
+ 8.3.8 Customer must immediately inform DeepL if there are reasons to expect a significant increase in the number of API Requests for reasons such as an extraordinary surge in End Users, unusual marketing, promotions or other campaigns.
+
+ 8.3.9 If DeepL provides a new version of the API, Customer shall implement the new version of the API into its Application within a reasonable period of time from the announcement of the new API version, considering the extent of the changes, usual development time in the industry and the justified interests of Customer, including the individual capacities of Customer.
+
+
+
+ 9Remuneration 
+ 9.1 Customer shall pay the base remuneration as well as the usage-based remuneration as agreed upon conclusion of the Agreement.
+
+ 9.2 API Requests shall be billable in terms of Section 9.1 if (i) the API Request has been successfully transmitted using the API and (ii) there has been a valid API Response in accordance with the Documentation.
+Server errors shall be deemed as valid API Response only if they occur due to failures on Customerâs side, including the use of incorrect, incompatible or insufficient Content or other use of the API which does not comply with the technical requirements set out in the Service Specification or Documentation provided by DeepL.
+Texts entered into the DeepL Pro Translator shall be billable in terms of Section 9.1 if translated and displayed in the DeepL Pro Translator.
+
+ 9.3 All amounts are understood to include VAT.
+
+ 9.4 Invoices shall be sent exclusively in digital form as pdf files by e-mail to the invoice e-mail address provided by Customer.
+If such an address is not provided, invoices can be retrieved by Customer from the website.
+
+ 9.5 For Products with a fixed base remuneration, the remuneration is due at the beginning of each billing period.
+
+ 9.6 For new Customers signing up for the DeepL Pro API plan and paying by credit card, if, for the first time in a billing period, Customerâs usage reaches a total of 50 EUR, DeepL reserves the right to charge the credit card provided by Customer immediately.
+This serves as a guarantee of payment and occurs only once: Subsequent billing occurs at the end of each billing period, unless the base price and usage costs reach a total of EUR 250 (see Section 9.7).
+
+ 9.7 For Products with a variable remuneration, the base remuneration and usage-based remuneration is due at the end of each billing period, as long as it does not exceed EUR 250.
+Base and usage-based remuneration is due in steps of EUR 250 which will be charged to Customerâs credit card once the amount is reached.
+Any remaining amount and any amount below EUR 250 are due at the end of each month.
+Customer will receive a monthly invoice on the overall monthly remuneration paid.
+
+ 9.8 DeepL reserves the right to suspend Customerâs access to the Products if Customer has not paid the due remuneration within three (3) Business Days upon written notice by DeepL (e-mail sufficient).
+DeepL shall inform Customer of an impending suspension at least three (3) Business Days in advance.
+DeepL will restore access without undue delay, at least within three (3) Business Days, if all outstanding debts have been paid.
+If the due remuneration exceeds twice the total value of charges successfully paid by Customer to DeepL in before, DeepL reserves the right to suspend the account immediately, informing Customer immediately about the suspension (e-mail sufficient).
+
+
+
+ 10Term and Termination of this Agreement 
+ 10.1 The Agreement is concluded for an indefinite period of time.
+Each Party may terminate the Agreement at any time with effect to the end of the current billing period.
+
+ 10.2 If the Parties agree to a fixed term, the term shall be automatically extended by the agreed fixed term unless the Agreement is terminated.
+
+ 10.3 The statutory right of termination for good cause remains unaffected.
+
+ 10.4 DeepL reserves the right to restrict or suspend API features for other reasons than those specified in Section 3.2.4.
+In such case, DeepL shall inform Customer of the proposed changes with two monthsâ prior notice in writing (e-mail sufficient).
+Furthermore, DeepL shall grant Customer a reasonable period of at least two (2) months to declare whether or not Customer accepts the proposed changes.
+If Customer does not give any notice within this period, which shall commence running from the receipt of the notification, the proposed changes shall be deemed as agreed.
+DeepL shall inform Customer of to this legal consequence, i.e., the right of objection, the objection period, and the implications of remaining silent.
+
+ 10.5 In the event
+
+
+of a severe, persisting, imminent or repeated material breach of these Terms and Conditions, in particular an obligation set forth in Section 8 or
+
+
+DeepL has factual indication of an automated use of the DeepL Pro Translator according to Section 8.2.1,
+
+
+DeepL shall be entitled to temporarily suspend Customerâs access to the Products upon prior written notice (e-mail sufficient).
+Notwithstanding further rights under this Agreement, DeepL shall restore access within a reasonable period of time if the breach does not continue, is no longer imminent, or Customer has provided a binding statement that the breach will not be repeated.
+In the event of an act with fraudulent intent, DeepL is entitled to suspend Customer's access to the Products immediately and indefinitely.
+Customer is informed in writing (e-mail is sufficient).
+The suspicion of fraudulent intent is sufficient.
+Fraudulent intent lies in particular in the following cases:
+
+
+The e-mail address used for registration does not exist or is obviously not valid;
+
+
+The address does not exist or is invalid;
+
+
+Customer has registered several times in order to use the service free of charge or Customer still has open payments from other contracts;
+
+
+Customer uses a fraudulent, lost, stolen or blocked / inadmissible means of payment;
+
+
+Customer has contested or demanded the return of a payment without informing DeepL of a valid reason for contesting or demanding the return.
+The suspension of Customerâs access will be upheld until Customer informs DeepL of a valid reason.
+
+
+
+ 10.6 In case Customer violates the restrictions on using the DeepL API key in certain types of products (Section 8.1.6), utilizes Products with unlimited usage in a way in which they were not intended to (e.g.
+accessing the DeepL Pro Translator in an automatic way) or allows more users to utilize Products than licensed, DeepL reserves the right to disable the access and cancel the Agreement with immediate effect.
+In this case, Customer will be refunded fees already paid proportionally.
+
+ 10.7 For products with a maximum monthly usage cap, DeepL will only allow the contracted number of characters (as described in the Service Specification) to be translated within a billing period.
+Once the monthly usage limit is reached, Customer will no longer be able to use the Products, unless a Product with a higher number of characters has been purchased (if available).
+
+ 10.8 Within the free trial period, Customer and DeepL are allowed to terminate the Agreement at any time with immediate effect.
+
+
+
+ 11Right to withdraw from the contract 
+
+If the Customer is consumer in terms of Section 13 German Civil Code (âBGBâ) the following right of withdrawal applies (also available at https://www.deepl.com/pro-revocation.html):
+
+Right of withdrawal
+
+You have the right to withdraw from this contract within 14 days without giving any reason.
+The withdrawal period will expire after 14 days from the day of the conclusion of the contract.
+To exercise the right of withdrawal, you must inform us (DeepL GmbH, Maarweg 165, 50825 Cologne, Germany, support@DeepL.com) of your decision to withdraw from this contract by an unequivocal statement (e.g.
+a letter sent by post, fax or e-mail).
+You may use the attached model withdrawal form, but it is not obligatory.
+To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
+
+Effects of withdrawal
+
+If you withdraw from this contract, we shall reimburse to you all payments received from you, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to withdraw from this contract.
+We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise.
+in any event, you will not incur any fees as a result of such reimbursement.
+If you requested to begin the performance of services during the withdrawal period, you shall pay us an amount which is in proportion to what has been provided until you have communicated us your withdrawal from this contract, in comparison with the full coverage of the contract.
+
+Model withdrawal form
+
+To DeepL GmbH, Maarweg 165, 50825 Cologne, Germany, support@DeepL.com:
+â I/We (1) hereby give notice that I/We (1) withdraw from my/our (1) contract of sale of the following goods (1)/for the provision of the following service (1),
+â Ordered on (1)/received on (1),
+â Name of consumer(s),
+â Address of consumer(s),
+â Signature of consumer(s) (only if this form is notified on paper),
+â Date
+(1) Delete as appropriate.
+
+
+
+ 12Warranty 
+ 12.1 If Customer is a consumer in terms of Section 13 German Civil Code (âBGBâ) or during free trial subscriptions, Customer is entitled to the statutory warranty rights.
+
+ 12.2 If Customer is an entrepreneur in terms of Section 14 German Civil Code (âBGBâ) DeepL only assumes liability under paid subscriptions for faults in the Products to the extent set out in the following provisions.
+
+ 12.2.1 If the services for the Products provided by DeepL are defective, DeepL shall provide an improved or new service of its choice within a reasonable time as of receiving a written complaint from Customer.
+If third-party software which DeepL has licensed from third parties is being used, procurement of publicly available upgrades, updates or patches shall be deemed sufficient.
+
+ 12.2.2 Customer may reduce the agreed remuneration by a suitable amount if for reasons attributable to DeepL, the proper provision of services is not assured within a reasonable period of time set by Customer.
+The right to reduction is limited to the part of the services which is defective as compared to the monthly remuneration.
+
+ 12.2.3 If the reduction as per Section 12.2.2 continues for two (2) consecutive months, or in two (2) months of a quarter, Customer may terminate the Agreement without notice.
+
+ 12.2.4 Customer shall immediately inform DeepL of any occurring defects in writing (e-mail to support@deepl.com sufficient).
+
+ 12.2.5 Customer shall assist DeepL in rectifying the defects free of charge, in particular by providing DeepL with all required documents, data and other information required to analyse and correct the defects.
+
+ 12.3 With respect to the provision of free additional services, DeepL shall be solely liable for defects if DeepL has maliciously concealed (âarglistig verschwiegenâ) the defects.
+
+
+
+ 13General Liability 
+ 13.1 For free trial periods as described in Section 6, the statutory liability applies.
+
+ 13.2 Notwithstanding Sections 12 and 13.1 DeepL is liable in accordance with the following provisions.
+
+ 13.3 DeepL is liable for deliberate acts and gross negligence as well as for bodily injury, death or harm to health.
+
+ 13.4 In the case of slight negligence, DeepL assumes liability for violating significant contractual obligations (âvertragswesentliche Pflichtâ).
+A significant contractual obligation in the sense of this Section is an obligation which is required to make the performance of this Agreement possible in the first place and which the other party can reasonably rely upon to be fulfilled.
+
+ 13.5 In the case of Section 13.4, DeepL assumes no liability for lack of commercial success, lost profits and indirect damages.
+
+ 13.6 Liability pursuant to Section 13.4 above is limited to typical and foreseeable damages at the time this Agreement enters into legal effect.
+
+ 13.7 If Customer is an entrepreneur in terms of Section 14 German Civil Code (âBGBâ) the Parties agree that the typical and foreseeable damage per year is limited to the annual amount payable by Customer.
+
+ 13.8 Liability limitations apply accordingly to the benefit of employees, contractors and assistants of DeepL.
+
+ 13.9 Any liability of DeepL for guarantees (which must be expressly designated as such in order to be deemed guarantees in the legal sense) and for claims under the German Product Liability Act (âProdukthaftungsgesetzâ) remains unaffected.
+
+ 13.10 Any further liability is excluded.
+
+
+
+ 14Amendments These Terms and Conditions shall be amendable by a commensurate agreement as follows: DeepL shall convey the modified terms and conditions prior to the planned entering into effect in the text-form and shall separately note the new provisions as well the date of the planned entering into effect.
+At the same time, DeepL shall grant Customer a reasonable period of at least two (2) months in length to declare whether or not it shall accept the modified terms and conditions of use for the further provision of the services.
+If no declaration is made within this period, which shall commence running from the receipt of the notification in text-form, the modified terms and conditions shall be deemed as stipulated.
+DeepL shall separately advise Customer at the commencement of the notice period as to this legal consequence, i.e., the right of objection, the objection period, and the implications of remaining silent.
+
+
+ 15Complaints Procedure The EU Commission provides an online platform for online settlements (OS platform).
+It can be accessed at https://ec.europa.eu/consumers/odr/.
+DeepL is neither willing nor obliged to participate in a dispute settlement proceeding before a consumer arbitration board.
+
+ 16Final Provisions 
+ 16.1 Terms and conditions of the Customer shall not be part of this Agreement, unless DeepL has expressly agreed in written form.
+
+ 16.2 Amendments to this Agreement and any side agreements, including the Service Specification, the main body of this Agreement and any potential appendices, must be in written form.
+This also applies to a waiver of this written form clause.
+
+ 16.3 Customer may only settle claims against DeepL or claim a right of retention if its counter claim is uncontested, subject of a legally enforceable final judgment or the counter claim is in a mutual relationship to the respective affected claim.
+
+ 16.4 This Agreement shall be exclusively governed by the law of the Federal Republic of Germany excluding CISG and conflict of law provisions.
+In the event that Customer is consumer in terms of Section 13 German Civil Code, mandatory statutory consumer regulations according to the law of the country where the consumer has his habitual residence shall remain unaffected.
+
+ 16.5 The exclusive legal venue for all disputes resulting from or in connection with this Agreement is Cologne, provided that the contracting parties are business people (âKaufleuteâ), or that Customer has no general legal venue in Germany or in another EU Member State, or its permanent residence has moved to a foreign country after these Terms and Conditions have entered into effect, or the residence or habitual domicile is not known at the time that the complaint was filed.
+
+
+
+
+Last modified: 1 April 2020DeepL Pro Service Specification
+
+
+1DeepL API The DeepL API is accessible through a REST interface.
+Request parameters are used to pass information to the API, results are returned in a suitable representation (e.g.
+JSON).
+Request parameters must be encoded in accordance with the documentation provided under https://www.deepl.com/docs-api.html.
+Authentication is based on fixed keys, SSL handling transport security.
+The translate function provides the following functionality:
+
+
+Text
+Text to be translated.
+Only plain text encoded in accordance with the documentation is supported.
+Source language
+Language of the text to be translated.
+Currently, the following languages are supported:
+
+
+
+
+EN (English)
+
+
+DE (German)
+
+
+FR (French)
+
+
+ES (Spanish)
+
+
+IT (Italian)
+
+
+NL (Dutch)
+
+
+PL (Polish)
+
+
+PT (Portuguese)
+
+
+RU (Russian)
+
+
+JA (Japanese)
+
+
+ZH (simplified Chinese)
+
+
+
+
+If this parameter is omitted, the API will make efforts to detect the language of the text.
+Target language
+The language into which you want to translate.
+Can be one of the following
+
+
+
+
+EN (English)
+
+
+DE (German)
+
+
+FR (French)
+
+
+ES (Spanish)
+
+
+IT (Italian)
+
+
+NL (Dutch)
+
+
+PL (Polish)
+
+
+PT (Portuguese)
+
+
+RU (Russian)
+
+
+JA (Japanese)
+
+
+ZH (simplified Chinese)
+
+
+
+
+
+
+The translate function returns the following representation of the processing result:
+
+
+Detected source language
+The language which has been detected for the source text.
+Text
+The translated text.
+
+
+The DeepL API is designed to translate up to 600 characters per minute and per customer.
+exceeding use may be limited and customers may encounter a 429 âToo Many Requestsâ error message, as described in the documentation.
+Applications using the API should implement a mechanism to handle such responses accordingly and, if appropriate, to try again later.
+A mechanism increasing the delay for another request exponentially is recommended.
+
+ 2DeepL Pro Translator The DeepL Pro Translator offers a service accessible by Customer using their DeepL Pro access credentials.
+Access can be via a website or Microsoft Windows or MacOS application.
+The service allows to input texts and receive their machine translations.
+As the DeepL Pro Translator uses the DeepL API for translating, it supports the set of source and target languages as described in Section 1
+Within the DeepL Pro Translator, Customer's texts and their translations are stored only as long as necessary to create the translation and return it to Customer, as described in Section 3.1.2 of the Terms and Conditions.
+The DeepL Pro Translator does not impose limits on the length of the texts translated (contrary to the free translator available at https://www.deepl.com/translator).
+However, browsers, their Javascript execution environment, and the HTTP transmission techniques used impose technical limits.
+The DeepL Pro Translator will try to notify the user about exceeding these limits and warn about possible performance issues.
+The DeepL Pro Translator allows Customer to translate whole documents.
+Ability to translate documents is subject to the ability of DeepL Pro to correctly read and translate the documents, which can't be guaranteed.
+Requirements and limitations for document translation:
+
+
+File formats
+.docx, .txt, .pptx
+File size
+Up to 10MB
+Number of characters
+Up to 1.000.000
+Number of files
+Depending on the DeepL package you have subscribed to, you can translate different numbers of documents per month.
+You can find an overview here: https://www.deepl.com/pro.html.
+You can have one file translated for each translation process.
+It is not possible to select multiple files at the same time.
+Transferability of quotas
+Monthly quotas may not be carried over to subsequent months.
+Transferability to users
+For Single-User Licenses, quotas cannot be transferred to other users.
+Within the framework of a team licence, a total quota can be made available for the entire team.
+
+
+
+
+
+EnglishDeutschEnglishEspaÃ±olæ¥æ¬èª (Japanese)FranÃ§aisItalianoNederlandsPolskiPortuguÃªs (Brasil)PortuguÃªsÐ ÑÑÑÐºÐ¸Ð¹ (Russian)ç®ä½ä¸­æ (simplified Chinese)
+Press
+Privacy
+Terms &amp.
+Conditions
+Publisher
+

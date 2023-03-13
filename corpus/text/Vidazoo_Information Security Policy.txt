@@ -1,0 +1,73 @@
+
+         Vidazoo LegalVidazoo LegalLegal ResourcesWebsite Terms of UseTerms and ConditionsPublisher GuidelinesData Protection AddendumData Protection Addendum - SaaSCCPA AddendumPrivacy PolicyCookies PolicyPrivacy Notice For California ResidentsPrivacy Rights PolicyInformation Security PolicyPowered by GitBookInformation Security Policy[Last Modified: January 9, 2019]Vidazoo Ltd.
+(âCompanyâ, âweâ or âusâ) takes information security seriously and has created this security policy (âSecurity Policyâ) to disclose its practices in safeguarding personal data processed through our services.
+We have implemented the below technical and organizational measures to protect the personal data processed by us, against loss, unlawful acts, destruction, alteration, unauthorized disclosure or access.
+As part of our GDPR compliance process we have prepared this Security Policy to provide you with a summary of the security measures and policies we obtain and require our partners and employees to comply with these standards and implement the same security measures when working with us.
+
+
+
+THIS SECURITY POLICY OUTLINES THE COMPANYâS CURRENT SECURITY PRACTICES AS OF THE âLAST UPDATEDâ DATE INDICATED ABOVE.
+WE WILL KEEP UPDATING THIS POLICY FROM TIME TO TIME, AS REQUIRED BY APPLICABLE LAWS AND OUR INTERNAL POLICIES.
+
+System Access Control
+Companyâs database is accessible only by the Companyâs management and solely from within the Companyâs office.
+The personal data processed and stored by Company is stored in Amazon servers and access granted through personal user authentication.
+Access to systems is restricted and is based on procedures to ensure appropriate approvals are provided solely to the extent required.
+In addition, remote access and wireless computing capabilities are restricted and require that both user and system safeguards, including VPN protection or similar security level.
+The systems are also protected and solely authorized employees may access the systems by using a designated password and user name protections.
+
+
+Physical Access Control 
+The Company secures any and all physical access to its offices.
+The Company secures access to its offices and ensures that solely authorized persons have access such as employees.
+Company works with Amazon Web Services datacenter, as its main storage processor, therefore if you need more information Company recommends that you review Amazonâs security policy available here.
+The transfer of personal data is secured an encrypted.
+Further, the Company has entered in to applicable and binding data processing agreements with its vendors and customers.
+
+
+
+Data Access Control
+All access to a database, system or storage is solely with authorization hierarchy and password protection.
+Further, the access to the personal data is restricted to solely the employees that âneed to knowâ and is protected by passwords and user names.
+The Company audits any and all access to the database and any authorized access is immediately reported and handled.
+Each access is logged and monitored, and any unauthorized access is automatically reported.
+Company revokes access immediately upon termination of employment.
+Authorized individuals (including third party vendors and customers) can solely access personal data that is established in their individual profiles, or the ones intentionally open for them.
+
+
+Organizational and Operational Security 
+The Company educates its employees and service providers, and raises awareness, risk and assessment with regards to any processing of personal data.
+Internal security testing is done on a regular basis.
+Companyâs IT team ensures security of all hardware and software, by installing anti-malware software including firewalls on computers to protect against malicious use and malicious software as well as virus detection on endpoints, etc.
+It is the responsibility of the individuals across the Company to comply with these practices and standards.
+
+Transfer Control 
+The purpose of transfer control is to ensure that personal data cannot be read, copied, modified or removed by unauthorized parties during the electronic transmission of these data or during their transport or storage in the applicable data center.
+Further, any and all transfers of the data (either between the servers, from client side to server side and between Companyâs designated partners) is secured.
+
+
+
+Availability Control
+The Companyâs servers include an automated backup procedure.
+Company has ensured all systems are protected by industry best standards of security systems and measures, as well as encryption of the personal data prior to its transfer.
+Our legal team has ensured our legal documentation is updated to reflect any changes and to include the mandatory provisions required by the GDPR.
+
+
+Data Retention 
+Personal data and raw data are all deleted as soon as possible or legally applicable.
+
+
+
+Job Control 
+Employees, customers, vendors and applicable processors are all signed on binding agreements all of which include applicable data provisions and data security obligations.
+Employees are bound to comply with this Security Policy in addition to internal security policies and procedures and breaking or not complying with such shall result in disciplinary actions.
+To ensure the employees stay educated and up to date with applicable policies and legislation the Company holds annual compliance training which include data security education.
+
+
+
+For more information please see our Privacy Policy available at: 
+https://vidazoo.com/privacy_policy
+.
+
+PreviousPrivacy Rights PolicyLast updated 11 months agoWas this page helpful? 
+      

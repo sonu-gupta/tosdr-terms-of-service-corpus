@@ -1,0 +1,782 @@
+
+         Back to Top Back to Top Skip to main content logo 
+ Support 
+ Support Portal Submit a case ticket 
+ Splunk Answers Ask Splunk experts questions 
+ Support Programs Find support service offerings 
+ System Status View detailed status 
+ Contact Us Contact our customer support 
+ Product Security Updates Keep your data secure 
+
+
+ Languages 
+ Deutsch 
+ Francais 
+ æ¥æ¬èª 
+ íêµ­ì´ 
+ ç®ä½ä¸­æ 
+ ç¹é«ä¸­æ 
+
+
+ Click User Account 
+ Log In 
+ Sign Up 
+
+
+
+
+ logo 
+ Products Product Overview A data platform built for expansive data access, powerful analytics and automation MORE FROM SPLUNK 
+ Pricing 
+ Free Trials &amp.
+Downloads 
+ Platform 
+ Splunk Cloud Platform Cloud-powered insights for petabyte-scale data analytics across the hybrid cloud 
+ Splunk Enterprise Search, analysis and visualization for actionable insights from all of your data 
+ Security 
+ Splunk Enterprise Security Analytics-driven SIEM to quickly detect and respond to threats 
+ Splunk SOAR Security orchestration, automation and response to supercharge your SOC 
+ Observability 
+ Splunk Infrastructure Monitoring Instant visibility and accurate alerts for improved hybrid cloud performance 
+ Splunk Application Performance Monitoring Full-fidelity tracing and always-on profiling to enhance app performance 
+ Splunk IT Service Intelligence AIOps, incident intelligence and full visibility to ensure service performance 
+ View All Products 
+ Solutions Cloud Transformation Transform your business in the cloud with Splunk.
+Business Resilience Build resilience to meet todayâs unpredictable business challenges.
+Digital Customer Experience Deliver the innovative and seamless experiences your customers expect.
+by Use Case 
+ Advanced Threat Detection 
+ Application Modernization 
+ Cloud Migration 
+ Incident Investigation &amp.
+Forensics 
+ IT Modernization 
+ SOC Automation &amp.
+Orchestration 
+ BY TECHNOLOGY 
+ AWS 
+ Azure 
+ GCP 
+ Kubernetes 
+ OpenTelemetry 
+ SAP 
+ BY INDUSTRY 
+ Aerospace &amp.
+Defense 
+ Energy &amp.
+Utilities 
+ Financial Services 
+ Healthcare 
+ Higher Education 
+ Public Sector 
+ View All Solutions 
+ Why Splunk? Why Splunk? Bring data to every question, decision and action across your organization.
+Learn More 
+ Customer Stories See why organizations around the world trust Splunk.
+
+ Partners Accelerate value with our powerful partner ecosystem.
+
+
+
+ Diversity, Equity &amp.
+Inclusion Learn how we support change for customers and communities.
+
+
+
+ Resources Resources Explore e-books, white papers and more.
+Events Join us at an event near you.
+Blogs See what Splunk is doing.
+GET STARTED 
+ Splunk Lantern Splunk experts provide clear and actionable guidance.
+
+ Customer Success Customer success starts with data success.
+
+ Splunk Cloud Platform Migration Plan your migration with helpful Splunk resources.
+
+ Get Started With Splunk Learn how to use Splunk.
+
+ Data Insider Read focused primers on disruptive technology topics.
+
+ become an expert 
+ Splunk Training &amp.
+Certification Become a certified Splunk Expert.
+
+ Documentation Find answers about how to use Splunk.
+
+ User Groups Meet Splunk enthusiasts in your area.
+
+ Community Share knowledge and inspiration.
+
+ SURGe Access timely security research and guidance.
+
+ Expand &amp.
+optimize 
+ Services &amp.
+Support Itâs easy to get the help you need.
+
+ Splunkbase See Splunkâs 1,000+ Apps and Add-ons.
+
+ Splunk Dev Create your own Splunk Apps.
+
+
+
+
+
+ Support 
+ Support Portal Submit a case ticket 
+ Splunk Answers Ask Splunk experts questions 
+ Support Programs Find support service offerings 
+ System Status View detailed status 
+ Contact Us Contact our customer support 
+ Product Security Updates Keep your data secure 
+
+
+ Click Search Help 
+ Languages 
+ Deutsch 
+ Francais 
+ æ¥æ¬èª 
+ íêµ­ì´ 
+ ç®ä½ä¸­æ 
+ ç¹é«ä¸­æ 
+
+
+ Click User Account 
+ Log In 
+ Sign Up 
+
+
+ Free Splunk 
+
+
+ Click Search Help 
+ Free Splunk 
+ logo Free Splunk Log In | Sign Up  Products Product Overview A data platform built for expansive data access, powerful analytics and automation MORE FROM SPLUNK 
+ Pricing 
+ Free Trials &amp.
+Downloads 
+ Platform 
+ Splunk Cloud Platform Cloud-powered insights for petabyte-scale data analytics across the hybrid cloud 
+ Splunk Enterprise Search, analysis and visualization for actionable insights from all of your data 
+ Security 
+ Splunk Enterprise Security Analytics-driven SIEM to quickly detect and respond to threats 
+ Splunk SOAR Security orchestration, automation and response to supercharge your SOC 
+ Observability 
+ Splunk Infrastructure Monitoring Instant visibility and accurate alerts for improved hybrid cloud performance 
+ Splunk Application Performance Monitoring Full-fidelity tracing and always-on profiling to enhance app performance 
+ Splunk IT Service Intelligence AIOps, incident intelligence and full visibility to ensure service performance 
+ View All Products 
+ Solutions Cloud Transformation Transform your business in the cloud with Splunk.
+Business Resilience Build resilience to meet todayâs unpredictable business challenges.
+Digital Customer Experience Deliver the innovative and seamless experiences your customers expect.
+by Use Case 
+ Advanced Threat Detection 
+ Application Modernization 
+ Cloud Migration 
+ Incident Investigation &amp.
+Forensics 
+ IT Modernization 
+ SOC Automation &amp.
+Orchestration 
+ BY TECHNOLOGY 
+ AWS 
+ Azure 
+ GCP 
+ Kubernetes 
+ OpenTelemetry 
+ SAP 
+ BY INDUSTRY 
+ Aerospace &amp.
+Defense 
+ Energy &amp.
+Utilities 
+ Financial Services 
+ Healthcare 
+ Higher Education 
+ Public Sector 
+ View All Solutions 
+ Why Splunk? Why Splunk? Bring data to every question, decision and action across your organization.
+Learn More 
+ Customer Stories See why organizations around the world trust Splunk.
+
+ Partners Accelerate value with our powerful partner ecosystem.
+
+
+
+ Diversity, Equity &amp.
+Inclusion Learn how we support change for customers and communities.
+
+
+
+ Resources Resources Explore e-books, white papers and more.
+Events Join us at an event near you.
+Blogs See what Splunk is doing.
+GET STARTED 
+ Splunk Lantern Splunk experts provide clear and actionable guidance.
+
+ Customer Success Customer success starts with data success.
+
+ Splunk Cloud Platform Migration Plan your migration with helpful Splunk resources.
+
+ Get Started With Splunk Learn how to use Splunk.
+
+ Data Insider Read focused primers on disruptive technology topics.
+
+ become an expert 
+ Splunk Training &amp.
+Certification Become a certified Splunk Expert.
+
+ Documentation Find answers about how to use Splunk.
+
+ User Groups Meet Splunk enthusiasts in your area.
+
+ Community Share knowledge and inspiration.
+
+ SURGe Access timely security research and guidance.
+
+ Expand &amp.
+optimize 
+ Services &amp.
+Support Itâs easy to get the help you need.
+
+ Splunkbase See Splunkâs 1,000+ Apps and Add-ons.
+
+ Splunk Dev Create your own Splunk Apps.
+
+
+
+ Support 
+ Support Portal Submit a case ticket 
+ Splunk Answers Ask Splunk experts questions 
+ Support Programs Find support service offerings 
+ System Status View detailed status 
+ Contact Us Contact our customer support 
+ Product Security Updates Keep your data secure 
+
+ Languages Languages 
+ Deutsch 
+ Francais 
+ æ¥æ¬èª 
+ íêµ­ì´ 
+ ç®ä½ä¸­æ 
+ ç¹é«ä¸­æ 
+
+
+ Pricing 
+ Free Trials &amp.
+Downloads 
+ Search Help Legal Legal Legal 
+ Export Controls 
+ Modern Slavery Statement 
+ Privacy Policy 
+ Splunk Contracting Hub 
+ Splunk Patents 
+ Trademarks 
+ Website Terms of Use 
+ More 
+
+
+ SPLUNK PRIVACY POLICY Splunk Privacy Policy
+
+Updated: December 2021
+
+This Privacy Policy explains how Splunk Inc.
+and its subsidiaries ("Splunk") collect, use, and disclose information you provide to us or which we otherwise collect (âInformationâ), including âPersonal Dataâ by which we mean Information that allows us to determine your identity.
+
+This Privacy Policy applies to splunk.com and to other websites Splunk operates that link to this Privacy Policy.
+From time to time, Splunk acquires companies that may operate under their own privacy policies.
+You will continue to be presented with those companiesâ privacy policies on their websites until the integration with Splunk is complete and those websites are linked to this Privacy Policy.
+The use of our products and services, including those available through other Splunk websites that link to this Privacy Policy (collectively, âOfferingsâ), are subject to the terms of the applicable customer agreement.
+The use of our website is subject to the Splunk Websites Terms and Conditions of Use.
+The terms of this Privacy Policy are incorporated into and form part of those agreements.
+Data Collection
+Interactions
+What We Collect via Your Interactions
+How We Use Information Collected from Interactions
+Opting Out of Marketing Emails
+Offerings
+What We Collect via Our Offerings and How We Use It
+Other Collection Practices
+Data Collection Practices Associated with Apps
+How Splunk Shares Your Information
+How We Secure Your Information
+Splunk Also Observes the Following Practices
+Lawful Basis for Transferring Your Data: Cross-border Transfers 
+Your Rights
+Supplemental Terms and Conditions for Certain Regions
+Links to Other Parties
+Updates to This Privacy Policy
+Contact Splunk
+Links to Related Agreements, Policies, and Information
+ 
+Data Collection
+There are two primary ways in which Splunk collects Information about you: through Interactions and through Offerings as set forth below.
+
+
+Interactions
+When you interact online or offline with Splunk, we may receive your Information, including your Personal Data.
+For example, we receive your Information when you:
+
+Visit Splunkâs websites or offices
+Download materials through our websites
+Provide or update account information through our websites
+Register for or attend Splunk-hosted or sponsored events (such as promotional events, webcasts, contests, or hackathons)
+Participate in community programs and Splunk-managed repositories on third-party open-source platforms
+Communicate with us including by emails, phone, texts, and online chats
+Provide testimonials
+
+We collect Information about you from other sources such as public databases, commercial data sources, joint marketing partners, resellers, managed services providers and other partners, social media platforms, and conference/event hosts.
+We refer collectively to these contacts as âInteractionsâ and we explain below how we use the Information we collect through them.
+
+
+What We Collect via Your Interactions
+We (or others acting on our behalf) may collect your Information, including your Personal Data, through Interactions.
+The Personal Data we collect includes such things as:
+
+Name or alias
+Email address
+Physical address, including country
+Employer
+Title / position
+Payment details
+Phone number
+Username / user ID
+IP address
+MAC address (or other device identifiers automatically assigned to your device when you access the internet)
+Images and related metadata (for example, when visiting our offices or attending an event)
+Content of your communications and files you input, upload, or create
+Videos (for example, when you provide a product testimonial)
+
+We collect Personal Data in various ways, such as when you manually key in your Personal Data to our website forms or provide it to us or others from whom we receive marketing leads.
+From time to time, we offer virtual private networks (VPNs) for attendees at Splunk events or visitors to our offices.
+If you access a Splunk-provided VPN, we may collect Personal Data from you, such as IP and MAC addresses, when we monitor the VPNs for security or performance.
+IP addresses are also collected on an automated basis through your use of the website services using cookies, web beacons, and like technologies.
+We may infer your location from your IP address.
+For more on the use of cookies and like technologies, see the Splunk Cookie Policy and How We Use Information Collected from Interactions.
+When you make purchases through our website, we use third-party payment processors to collect credit card or other financial information.
+Splunk does not store the credit card information you provide, only confirmation that payment was made.
+
+
+How We Use Information Collected from Interactions
+Splunk uses the Information we collect from your Interactions to deliver services to you in accordance with our terms, to fulfill our contractual and legal obligations, or to âpursue legitimate business interestsâ, as described below.
+We take seriously the need to balance our legitimate interests with your privacy rights.
+We summarize for you here how we use your Information, including Personal Data, to:
+
+
+
+Fulfill your orders or respond to your requests for information and other inquiries
+For example, to satisfy your requests for website materials such as marketing collateral or white papers, we collect and use your name and email address.
+
+
+Operate, enhance, and personalize your experience on our website
+We collect Information via cookies and other information gathering technologies as stated in the Splunk Cookie Policy to fulfill our legitimate interest in operating our website, making it easy to navigate, enriching the available content and offering information tailored to your interests.
+In doing so, we may receive your location information, which you can stop at any time by configuring the location setting permissions in your device.
+
+
+Issue you Splunk accounts for access to online communities and forums and to enable your participation there
+When you join our online communities and forums, including blogs and Splunk-branded business communication and streaming platform channels (collectively, âonline forumsâ), we collect your Personal Data to enable your access and provide an interactive experience when you participate.
+The guidelines associated with those online forums recommend not sharing private or proprietary information on them, as many of their aspects are public.
+If you choose to submit content to online forums, such content will be considered âpublicâ and will not be subject to the privacy protections set forth in this Privacy Policy except as required by applicable law.
+Online forums that display the Splunk name but present you with their own privacy notice are subject to such privacy notice and not this Privacy Policy.
+
+
+Send you administrative notices
+We may need to notify you (or we may choose to inform you) when we make updates to our terms or policies or make changes to our website services.
+We will use your name and email address to send such administrative notices to you, which due to their nature are treated differently from marketing communications from which you can opt out.
+
+
+Manage your Splunk account
+To perform the services under the contract between you and Splunk, we need to collect certain Information from you such as your contact and payment details.
+Without this Information, we may not be able to deliver the services or comply with our contractual or legal obligations.
+
+
+Advertise and market to you
+With your consent or to pursue legitimate business interests, we may contact you with product announcements, educational materials, announcements about special offers, or information about upcoming or ongoing online/offline events, such as SplunkLive! or .conf, and related offers.
+If required by applicable law, we will ask you for your consent before sending and/or give you the choice to opt out of receiving these communications.
+
+
+Administer prize promotions and events
+We use your Information to administer prize promotions and events based on the terms of the promotion or event.
+For example, if you enter into a prize promotion, we may use your data to select a winner and provide the prize to you if you win.
+Or, if you register for a coding workshop or a gaming or other event, we may add your name to the list of expected attendees.
+If you win, we may seek your consent to announce you as a winner, with consent you may withdraw at any time.
+However, we will retain Information collected in connection with the enrollment contract.
+
+
+Invite you to participate on customer advisory boards or in surveys, studies, and assessments of Offerings
+We use your Personal Data to register you to participate on advisory boards (such as our Customer Advisory Board or Product Advisory Council) or to request feedback from you about Splunk Offerings.
+We use your feedback to fulfill our legitimate interest in improving our Offerings and growing our business.
+Your participation is voluntary and subject to the terms of your agreements with us and this Privacy Policy.
+
+
+Diagnose and fix technical issues, monitor for security, and otherwise protect our property
+We do this to satisfy our legitimate interest in assessing actual or potential threats to our facilities, attendees at Splunk-sponsored events, our IT systems and networks, and website services.
+We may process your Information, in particular your IP address, for this purpose.
+
+
+To recruit you for a position at Splunk
+We may use your username or handle and contribution information from Splunk-managed repositories on third-party open-source platforms to fulfill our legitimate interest in identifying candidates for open positions at Splunk.
+For example, we may use your contribution information in a Splunk-managed GitHub repository to consider you for and contact you about a position.
+
+
+Comply with law
+We may use your Information to comply with any applicable law, regulation, legal process, or governmental request, or to protect our legal rights or those of others.
+
+For any other purpose disclosed to you in connection with our website services from time to time
+
+If we process your Personal Data for other purposes, we will provide you with information about such processing, and if required, obtain your consent.
+
+
+Opting Out of Marketing Emails
+If you no longer want to receive marketing emails from Splunk on a go-forward basis, please submit your request through our online data request portal.
+Alternatively, you may use the "unsubscribe" feature in our email messages.
+
+
+Offerings
+We also collect Information, including Personal Data, when providing our Offerings.
+We may ask you for this Information directly, or in some cases, we may collect it when certain features are enabled.
+For example, we collect Information from or about you when you (or someone you work with):
+
+Order or sign up for a trial of our Offerings
+Interact with Splunk online or offline, including when you request support services
+Use our Offerings to process information
+
+What We Collect via Our Offerings and How We Use It
+We collect and process different types of product data (described below) when you deploy our Offerings in order to fulfill our contractual and legal obligations and operate our business or fulfill other legitimate interests.
+We work hard to help ensure a balance between our legitimate interests and your privacy rights.
+
+
+License Usage Data is Information that allows us to identify your on-premises account entitlements, such as license consumption, capacity, or type in our systems through an assigned license ID.
+We use this information to validate accounts and automate license verification.
+
+
+Usage Data is Information about your operating environment and configuration, user/product interactions, and sessions.
+This may include information about your network and systems architecture and configurations, OS and product versions, product configuration, applications installed, page loads and views, searches by number and type, errors, number of active and licensed users, source types and format (e.g., json, xml, and csv), web browser, http referrer page, and app workflows.
+
+We use Usage Data to fulfill our contractual obligations in providing the Offerings to you and to fulfill our legitimate interest in supporting and enhancing them.
+For example, we may use this data to:
+
+
+Troubleshoot issues, provide support, and update our Offerings
+Provide guidance to help you optimize your configuration, security, and usage of our Offerings
+Better understand how our users configure our Offerings
+Determine which configurations or practices optimize performance (e.g., best practices)
+Benchmark key performance indicators (âKPIsâ)
+Recommend enhancements
+Perform data analysis and audits
+Identify, understand, and anticipate performance issues and the factors that affect them
+Identify product security issues that may affect you and inform you of them
+Improve and develop new features and functionality
+Monitor the health, performance, and security of our Offerings
+
+We hash or otherwise pseudonymize identifiable information connected to user activity for data analytics purposes.
+In our paid on-premises products, you can set your level of participation.
+For more details on what we collect and your participation options, see Splunkâs Documentation.
+
+
+
+Support Usage Data includes License Usage and/or Usage Data as part of a customized support program that offers you accelerated troubleshooting, notices of patches/upgrades, tips to optimize usage, security, configurations and/or performance, and suggestions about other Offerings that may be of interest to you.
+The data is customer-identifiable so that we can help personalize your experience.
+From time to time, we may also use the Information to analyze usage trends, such as by data type, environment size, scale and architecture, and industry or sector, to develop and prioritize product enhancements (e.g., bug fixes or new features).
+On-premises customers can opt out at any time.
+However, this Information is essential for the operation of our cloud Offerings.
+
+Mobile Device Data is Information we collect in certain Splunk Offerings (âAppsâ as discussed below) that associates your mobile device with an identifier for your App to help us improve the user experience and personalize your services and content.
+We may also receive information that your mobile device sends when you use our Apps, such as a device identifier or OS.
+Depending on a customerâs configuration of Splunkâs Offerings, location information about a customerâs end users may be shared with Splunk.
+You can disable location sharing using the location-setting features on your mobile device.
+
+Security Offerings Data. Certain security-focused Offerings collect and in some cases allow sharing of Customer-submitted âartifactsâ (such as logs, alerts, emails, cases, and incidents) and intelligence sources to support security investigation, threat detection and monitoring.
+In some cases, this Information may contain names, IP addresses, email addresses, phone numbers and other types of Personal Data contained in such artifacts and intelligence sources.
+You determine the extent and nature of the data you submit and whether to participate in such Offerings and in some cases to share the data with Splunk.
+Participation in these services is voluntary and is further described in the relevant terms and Documentation.
+
+Certain Splunk Offerings rely on automated methods of processing, such as artificial intelligence, which is a set of technologies and processes that allow computers to learn, reason, and assist in decision making.
+These technologies may consume Usage Data or other data you submit to the Offering that may be associated with you.
+The use of data in connection with such Offerings is set forth in the relevant terms.
+For more information about the data collected through our Offerings, see the Offering-specific documentation (e.g., Share data in Splunk Enterprise in the Splunk Enterprise Admin Manual).
+
+
+Other Collection Practices
+We also collect Information from you to fulfill our contractual commitments to you.
+For example, we collect contact information such as name, address (email and physical) and phone number to enter you into our databases and manage your account.
+We also collect billing and payment information and information about Offerings, such as browser type, version number and OS, to administer your account, respond to customer service/support inquiries, and provide you with information about software updates via alerts or other âpushâ notifications.
+We may share this Information as described in How Splunk Shares Your Information.
+We do not sell this Information.
+
+
+Data Collection Practices Associated with Apps
+The Splunk Offerings are extendible using software applications commonly called âapps,â âadd-ons,â âwidgets,â or âtechnical add-onsâ that we offer through splunkbase.splunk.com or other websites that link to this Privacy Policy.
+We refer to these collectively as âApps.â These Apps are versatile and have access to a broad set of web technologies that can be used to collect and use your Information.
+This Privacy Policy only applies to Apps built by or on behalf of Splunk.
+It does not apply to Apps developed by others (âApp Developersâ) and available through splunkbase.splunk.com, third-party marketplaces or repositories (e.g., AWS Marketplace, Google Play Store, and GitHub), or interoperable with Splunk Offerings.
+Splunk requires App Developers to comply with applicable privacy and data protection laws but cannot guarantee that they do so.&nbsp.
+Before you use Apps created by App Developers, you should familiarize yourself with their privacy policies and license agreements.
+Splunk collects Information generated from the use and performance of Apps that interoperate with Splunk Offerings, such as crash information, version, session duration, and user engagement (e.g., number of downloads, active/licensed users, and logins).
+We may share this data with App Developers so they can improve and enhance the performance of their Apps.
+
+
+How Splunk Shares Your Information
+Splunk may disclose your Information to others in the following ways:
+
+
+
+Subsidiaries.
+We may disclose Information to our subsidiaries subject to this Privacy Policy so that they can help market, sell, and service our Offerings.
+Splunk is the party responsible for the management of jointly used Personal Data.
+Splunk maintains intragroup agreements covering the use of Personal Data within the Splunk family of companies.
+
+
+
+
+ Service Providers. We may disclose Information to our service providers (e.g., infrastructure as a service, order fulfillment, professional/customer/support services), pursuant to written agreements with confidentiality, privacy, and security obligations.
+Splunk maintains a list of sub-processors who process Personal Data as part of the Offerings, which we update as needed.
+
+
+
+
+App Developers. We may disclose Information about App use and performance with App Developers so that they can improve and enhance the performance of their Apps.
+With your consent, we may also disclose your Information to App Developers to help support the performance of their Apps.
+App Developers will be identified to you when you download and use their Apps pursuant to their license terms, including their privacy policies.
+
+
+
+
+Partners and Sponsors.
+We may disclose contact and account Information to our partners and event hosts/sponsors (identified at time of registration or event participation) pursuant to written agreements with confidentiality, privacy, and security obligations.
+They may use the Information to assess your interest in Splunk Offerings, conduct user research and surveys, or send you marketing communications, subject to the terms of their privacy policies.
+We may also share Support Usage Data with partners when they manage your Offering for you.
+
+
+
+
+Online Forums. When you take certain actions on blogs and Splunk-branded business communication and streaming platform channels ("online forumsâ) that are public or intended to be public in nature, such as when you broadcast content, participate in a chat room, post profile information, or follow a channel, that information may be collected, used, or disclosed by other participants in the online forums.
+In addition, some features of online forums are designed to provide others with information about user activity, such as the subscription status of users for a given channel.
+
+
+
+
+Compliance and Safety. We may disclose Information as necessary or appropriate under applicable laws (including laws outside your country of residence) to: comply with legal process or requirements.
+respond to requests from public or government authorities (including those outside your country of residence).
+enforce our terms and conditions.
+and protect our operations, rights and safety, and that of you and others, as needed.
+For more information about data we disclose in response to requests from law enforcement and other government agencies, please see the Splunk Data Request Guidelines.
+
+
+
+
+Merger, Sale, etc.
+We may disclose Information in the event of a proposed or actual corporate or financing transaction, such as a reorganization, merger, sale, joint venture, assignment, transfer, or disposition of all or any portion of Splunk business, assets, or stock (including Information regarding any bankruptcy or similar proceedings).
+
+
+
+
+Other Users. We may disclose Information to other users of the service in aggregated format, provided it does not include Personal Data.
+This may include âbest practicesâ tips, KPIs, benchmarking data or other such aggregated information useful to the user community.
+For select Offerings, we may share Information you provide, such as security artifacts that may contain Personal Data (e.g., IP address) with other subscribers, but only if required as part of the Offering, as set forth in the relevant terms.
+
+
+
+How We Secure Your Information
+Splunk takes reasonable technical and organizational measures to safeguard Personal Data against loss, theft, and unauthorized access, disclosure, alteration, misuse, or destruction.
+Unfortunately, no data transmission, software, or storage system can be guaranteed to be 100% secure.
+If you have reason to believe that your Personal Data may no longer be secure (for example, if you feel that the security of an account has been compromised), please notify us immediately in accordance with Contact Splunk.
+If Splunk learns of a breach of its systems, Splunk may notify you or others consistent with applicable law and/or as agreed in our contract with you.
+Splunk may communicate with you electronically regarding privacy and security issues affecting Information collected through your Interactions or use of our Offerings.
+
+
+Splunk Also Observes the Following Practices
+
+
+Retention Period.
+ We retain your Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or not prohibited by applicable law.
+Information you store in Splunk cloud environments is portable by you at the end of the term of your agreement with Splunk.
+We retain your contract information for the duration of your agreement with us and thereafter as required or permitted by law.
+We keep a record of your data requests, including your requests to opt out of marketing communications, to honor them in the future.
+See the Splunk Data Retention Policy for additional details.
+
+
+Use of Splunk Offerings by Minors
+
+. Splunk Offerings are not directed to individuals 16 and under or those not of the age of majority in your jurisdiction, and we request that these individuals, or others on their behalf, not provide us with their Information.
+
+
+Lawful Basis for Transferring Your Data: Cross-border Transfers
+Your Personal Data may be stored and processed in any country where Splunk, its subsidiaries, partners, sub-processors, and third-party service providers conduct business or host events.
+These locations may be outside of your country of residence, including in the United States, where different data protection laws may apply.
+When we transfer Personal Data, we implement safeguards for protection of the transferred Personal Data, such as standard contractual clauses.
+We put in place appropriate terms to protect your Personal Data in our agreements with our service providers.
+Splunk has certified to the Department of Commerce that we adhere to the Privacy Shield Principles (âPrinciplesâ) of the EU-U.S.
+and Swiss-U.S.
+Privacy Shield frameworks, as further described in the Splunk Privacy Shield Notice, although Splunk does not rely on the frameworks as a legal basis for transfers of Personal Data.
+If there is any conflict between the terms in this Privacy Policy and the Principles, the Principles will govern.
+To learn more about the Privacy Shield program, please visit privacyshield.gov, where you can view Splunkâs certifications.
+
+
+Your Rights
+In certain locations, you may have rights under data protection law, such as to request access to or correction, deletion, or transfer of your Personal Data, or to object to or restrict Splunk from using it for certain purposes.
+If you would like to exercise these rights, please submit your request, with a description of the nature of your request and the Personal Data at issue, through our data request form, and we will respond as soon as reasonably practicable consistent with applicable law.
+We will verify your identity before we comply with your request and ask for your cooperation with our identity verification process.
+
+
+Supplemental Terms and Conditions for Certain Regions
+
+
+Europe
+
+
+We rely on a variety of legal bases to process Personal Data, including your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with a legal obligation.
+If we process your Personal Data based on your consent, you may withdraw your consent at any time.
+We will let you know if we are seeking to rely on your consent at the time of collection.
+In Europe, Splunk Services UK Limited controls and is responsible for the management of Personal Data used for completing orders and performing customer contracts as described above in Offerings and Other Collection Practices.
+If you have any questions or concerns about Splunkâs privacy practices, you can contact us at any time via the contact options listed under Contact Splunk below.
+If your request or concern is not satisfactorily resolved by us, you can approach your local data protection authority.
+You can find your local data protection authority in the EU here and in the UK here.
+
+
+California
+
+
+If you are a California resident, California law provides you with specific rights regarding your personal information, subject to certain exceptions, including the right to know about the personal information a business collects about you, the right to request that we delete the personal information we collect from you, and the right to non-discrimination for exercising your rights.
+For purposes of California law, personal information means information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a consumer or household.
+If you or a designated third-party agent would like to exercise these rights, please submit the request through our data request form, and we will respond as soon as reasonably practicable consistent with applicable law.
+We will verify your identity, and the identity of any third-party agent acting on your behalf, before we comply with the request, and ask for your cooperation with our identity verification process.
+Please note that we are only required to respond to two such requests per individual each year.
+Over the past 12 months, we may have collected the following categories of personal information from California residents:
+
+
+Identifiers or other elements of personal information under California Civil Code Section 1798.80 such as those described in What We Collect via Your Interactions
+
+
+Protected class information about veteranâs status if you applied for a veteranâs discount.
+Splunk does not collect this information directly.
+We use service providers to confirm eligibility.
+
+
+Commercial information about products or services as described in Other Collection Practices
+
+
+Internet activity when you interact with Splunkâs website as described in What We Collect via Your Interactions, What We Collect via Our Offerings and How We Use It, and the 
+Splunk Cookie Policy
+
+
+Geolocation data such as IP address as described in What We Collect via Your Interactions, What We Collect via Our Offerings and How We Use It, and the 
+Splunk Cookie Policy
+
+
+Inferences drawn from any of the information identified above
+
+
+This information is collected and used for the purposes disclosed in this Privacy Policy.
+In the 12 months immediately preceding the posting of this updated Privacy Policy, we have not sold personal information of California residents, including that of minors.
+We may have disclosed any of the above categories of personal information pursuant to an individualâs consent or under a written contract with a service provider for a business purpose.
+
+
+Links to Other Parties
+Our Offerings may contain links to, or facilitate access to, other websites or online services.
+This Privacy Policy does not address, and Splunk is not responsible for, the privacy, information, or practices of other parties, including without limitation any App Developer, social media platform provider, wireless service provider, or device manufacturer.
+The inclusion of a link within the Offerings does not imply endorsement of the linked site or service by Splunk.
+Splunk encourages you to review the privacy policies and learn about the privacy practices of the companies whose websites you choose to visit or apps you choose to use.
+We list below links to resources about many of the other parties with whom we interact as described in this Privacy Policy:
+
+
+For partners
+
+
+For App Developers listed on Splunkbase
+
+
+For other marketplaces where Splunk Apps may be found
+
+
+For industry content providers (such as providers of research, white papers, etc.)
+
+
+For industry award providers (such as those listed on Splunk.com)
+
+
+For other resources (such as source code repositories, sample data sources, customers, etc.) mentioned in blogs and press releases
+
+
+For other providers, sponsors, or speakers at events in which Splunk is involved
+
+
+For social media platform providers (such as Twitter, GitHub, Twitch, LinkedIn, YouTube, or Facebook)
+
+
+
+Updates to this Privacy Policy
+We may change this Privacy Policy from time to time and will post our updates here.
+We will also communicate any material changes of the Privacy Policy to you.
+
+
+Contact Splunk
+If you have any questions or comments about this Privacy Policy or Splunkâs privacy practices, you can contact us at any time at dpo@splunk.com or by mail as provided below:
+Splunk Inc.
+Office of the Data Protection Officer
+270 Brannan Street
+San Francisco, CA 94107
+Splunk Services UK Limited
+Office of the Data Protection Officer
+Brunel Building 1 &amp.
+2 Canalside Walk
+London W2 1DG
+England
+Splunk Services Germany GmbH
+Office of the Data Protection Officer
+Officer BayerstraÃe 85
+80335 MÃ¼nchen
+Germany
+ 
+Links to Related Agreements, Policies, and Information
+Splunk Cookie Policy
+Splunk Websites Terms and Conditions of Use
+Splunk Privacy Shield Notice
+Splunk General Terms
+Splunk Protects
+ COMPANY COMPANY 
+ About Splunk 
+ Careers 
+ Global Impact 
+ Leadership 
+ Newsroom 
+ Partners 
+ Splunk Policy Positions 
+ Splunk Protects 
+ Splunk Ventures 
+ Supplier Central 
+ Why Splunk? 
+ PRODUCTS PRODUCTS 
+ Free Trials &amp.
+Downloads 
+ Pricing 
+ View All Products 
+ SPLUNK SITES SPLUNK SITES 
+ .conf 
+ Documentation 
+ Investor Relations 
+ Training &amp.
+Certification 
+ T-Shirt Store 
+ Videos 
+ View All Resources 
+ CONTACT SPLUNK CONTACT SPLUNK 
+ Contact Sales 
+ Contact Support 
+ SPLUNK MOBILE splunk logo 
+ Twitter 
+ Facebook 
+ Linked In 
+ Youtube 
+ Instagram 
+
+Â© 2005 - 2023 Splunk Inc.
+All rights reserved. Legal
+Privacy
+Sitemap
+Website Terms of Use Ã Contact Sales
+ This Website Uses CookiesWe use our own and third-party cookies to provide you with a great online experience.
+We also use these cookies to improve our products and services, support our marketing campaigns, and advertise to you on our website and other websites.
+Some cookies may continue to collect information after you have left our website.
+Learn more here âºCookies Settings âº Accept Cookies 
+      

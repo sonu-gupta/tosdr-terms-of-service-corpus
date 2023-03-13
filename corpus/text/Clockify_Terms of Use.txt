@@ -1,0 +1,574 @@
+
+         Terms of Use Welcome to Clockify, a time tracker for teams.
+Clockify (as defined in Section 1) is owned and operated by COING Inc., 2100 Geng Road, Suite 210, Palo Alto, CA 94303, USA.
+By accessing, downloading, saving, installing, using or attempting to use Clockify, you enter into a legally binding contract with COING and you agree to these Terms of Use, Privacy Policy, Cookie Policy, Security Policy, including any supplemental license terms that accompany the Software (as defined in Section 1), any documents and any linked terms in the Terms of Use (such as the Price Plan).
+Terms of Use in other sections apply generally to all Services and to all Users (as defined in Section 1).
+Nevertheless, Section 25 of the Agreement, which contains service-specific terms, applies to the Users of Server Clockify (as defined in Section 1) in addition to the general Terms of Use.
+These service-specific terms govern if there are any conflicts with the general terms.
+Even though the essential features of Service are free of charge, some features may entail an obligation to pay.
+Therefore, please pay attention to these Terms of Use and other information displayed on Clockify.
+All the terms are important and together create this Agreement that applies to you.
+If you find anything in this text that you do not agree with, please stop using Clockify immediately and/or delete your account.
+Accounts on Cloud Clockify can be deleted in accordance with these instructions.
+IN ADDITION, THESE TERMS INCLUDE A BINDING ARBITRATION CLAUSE AND A CLASS ACTION WAIVER IN SECTION 22 OF THE TERMS OF USE.
+YOU ALSO UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND COING ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY.
+THESE PROVISIONS AFFECT YOUR RIGHTS TO RESOLVE DISPUTES WITH COING AND WE STRONGLY SUGGEST YOU REVIEW IT CAREFULLY. 1.
+DEFINITIONS When we say "active user" we are referring to the user in an Enterprise Plan who has either "active" or "invited" status.
+When we say "Admin" we are referring to the User who is either the "Owner" (the person who created the Workspace) or "Regular admin" (anyone who is added to Admin's user group), as further explained here.
+When we say "Agreement" we mean the contract comprising these Terms of Use (as amended from time to time in accordance with Section 4), Privacy Policy, Security Policy, Price Plan, and any supplemental license terms that accompany the Software and any terms linked in this document.
+When we say "Client" we mean User who installs a full or partial copy of Server Clockify on the User's device.
+When we say "Clockify" or "Software", we refer to the time tracking software, the browser app, all the desktop apps and mobile apps, its updates, upgrades, enhancements, modifications, extensions, new features and possible replacements provided by COING, now existing or later developed, and other programs and tools, developed in conjunction therewith, including:
+
+â Cloud-based service, whereby COING is making available the Software, the User Account and the Content (including the related mobile apps, desktop apps and extensions as well as other computer programs COING makes available in conjunction therewith) on-demand (Cloud Clockify).
+â Software installed on a licensed User's device and hosted by that User (Server Clockify), as further explained here.
+â Set of APIs that enable the User community, including application developers and website operators, to retrieve data from Clockify or provide data to us (Platform).
+
+When we say "COING", "we" or "us ", we are referring to COING Inc., 2100 Geng Road, Suite 210, Palo Alto, CA 94303, USA.
+When we say "Content" we mean all Clockify's features and technical resources available to Users, including but not limited to information, data, text, photographs, videos, audio clips, software, scripts, graphics and interactive features generated, provided, or otherwise made accessible on or through Clockify.
+When we say "End User" we mean User who uses Server Clockify based on the license lawfully obtained by Client (Server Clockify).
+When we say "Enterprise" we mean a User of Cloud Clockify which is a legal entity.
+When we say When we say "Enterprise Plan" we mean the paid plan available to the Enterprise, which depends on the number of seats and number of Workspaces, as further explained here.
+When we say "Extra Features" we mean features that are not included in the free version of Cloud Clockify and that require a subscription to one of the Paid Plans.
+For example, those features are Automatic Lock, Branded Reports, Project Templates, Private Entries, etc.
+When we say "Free Plan" we mean features that are included in the free version of Cloud Clockify.
+When we say "Intellectual Property Rights" we mean any and all registered and unregistered rights granted, applied for or otherwise now or hereafter in existence under or related to any patent, copyright, trademark, trade secret, database protection or another intellectual property right, and all similar or equivalent rights or forms of protection, in any part of the world.
+When we say "Party" or "Parties" we refer to COING and/or User.
+When we say "Paid Plan" we mean either Subscription Plan or Enterprise Plan.
+When we say "Price Plan" we refer to the description of a set of features for each Subscription Plan, Enterprise Plan and Server Plan, available here.
+When we say "Privacy Policy" we refer to COING's personal data protection policy available here.
+When we say "Regular user" we are referring to a User who has been invited, permitted or caused to have access to a shared Workspace by Admin, either through the User Account or otherwise.
+The User can be Admin and Regular user at the same time in relation to different Workspaces, as further explained here.
+When we say "Security Policy" we refer to COING's security data protection policy available here.
+COINGâs security data protection policy is applicable solely to the Cloud Clockify.
+When we say "Seats" we mean the number of Users in the Enterprise Plan including both active and inactive users.
+When we say "Service" we mean making Clockify available by COING in any version (both Cloud Clockify and Server Clockify), in full or in part, including any updates, upgrades, enhancements, modifications, new features, programs and tools.
+When we say "Server Plan" we mean the pricing for the features available to Clients in accordance with the Price Plan and any other terms agreed between the Parties in writing.
+When we say "Subscriber" we mean User to whom a Subscription Plan belongs.
+When we say "Subscription Plan" we mean different sets of Content provided on Cloud Clockify and priced differently.
+There are two types of Subscription Plans based on the availability of Extra Features: Plus Plan and Premium Plan.
+When we say "Subscription Term" we mean period for which the Paid Plan is made available to a Subscriber, provided Subscriber adheres to the obligations arising from the Agreement.
+The subscription can be either monthly or annual.
+When we say "Terms of Use"or "TOU" we mean these rules that govern the use of the Service.
+When we say "User" or "You" we refer to any person or entity, other than COING, that uses, accesses, downloads, saves, installs, possesses, controls or receives the Service or the Software or any part thereof.
+The term User encompasses different categories of users which: 1) may be divided based on the access level (such as Admin, Regular User and Project Manager) 2) may be divided based on the type of Service they use (for example, Subscriber (Cloud Clockify), Client and End User (Server Clockify) 3) are using Clockify as natural persons or as legal entities (Enterprise).
+The term User also includes those that access the Platform (within the meaning of Section 1).
+Users should interpret the term as referring to them, unless the context suggests otherwise.
+When we say "User Account" we mean an account provided by Clockify, whose purpose is to allow User to access and use Content or certain parts of it and create User Content.
+When we say "User access levels" we mean three different roles a User may have:
+
+â Admins, who can see and edit everything
+â Regular users, who track time
+â Project managers, who can see everything on their projects,
+
+as further explained here.
+When we say "User Content" we mean any content provided by User in Workspace or anywhere else on Clockify, including any entered, recorded, stored, used, controlled, modified, disclosed, transmitted or erased information and data.
+When we say "User's device" we mean any hardware system, whether physical or virtual, with an internal storage device capable of running the Software.
+When we say "Website" we mean the websites located at https://clockify.me/, as well as the related mobile apps and desktop apps and all browser extensions collectively or each of them individually.
+When we say "Workspace" we mean the user environment provided via the Service, including private workspace (only visible to the User that created it) or shared workspace (visible to the User that created it and to the Users with whom it has been shared), as further explained here. 2.
+WHO CAN USE CLOCKIFY? The Service is solely intended for those who have full legal capacity.
+If you are a natural person, you need to be at the age of majority (legal age) to be able to use the Service.
+Legal age depends on the national legislation applicable to the User (probably you need to be 18 years old).
+By using the Service, you represent that you are of legal age.
+If you are not at the required age, please stop using the Service or Clockify immediately.
+An Admin must ensure that any Regular user, who is a natural person, whom he causes to become a User (for example, by inviting the person to access the Service) has full active legal capacity.
+The Service is primarily aimed at businesses and companies.
+However, if you are using the Service as a natural person for a purpose unrelated to trade, business or profession and wish to rely on consumer protection legislation, you need to notify COING before you start using the Service and before subscribing to any Paid Plan.
+In the event a User fails to send such notification to COING, the User will not be able to rely on any applicable consumer law and will not be able to invoke any consumer rights (including the right to withdraw from the Agreement).
+If you are an individual User, or are accessing the Services or Software, or are otherwise browsing the Website, this Agreement is between you, individually, and COING.
+If you enter this Agreement on behalf of Enterprise, you warrant that:
+
+(1) You have the full legal authority to bind the Enterprise to TOU;
+(2) You have read and understood the TOU;
+(3) You represent that you have the Enterprise's permission and authority to use the Enterprise's User Content;
+(4) You agree to TOU on behalf of the Company that you represent.
+
+Please note that, if you subscribe for a certain Paid Plan by using an email address from the Enterprise, you will be deemed to represent such Party and the word "User" or "You" in these TOU will refer to such Enterprise.
+Subscribers on behalf of the Enterprise and the authorized Users of the Enterprise are jointly responsible for the authorized Users' use of the Services and Software.
+Any violation of the TOU by any of the authorized Users shall be deemed to be a violation thereof by the Enterprise and by the authorized User of the Enterprise. 3.
+CONSENT AND THE SERVICE User shall be bound by this Agreement in any of the following situations, whichever occurs first:
+
+(1) Upon creating a User account.
+Creating a User account entails an obligation to verify the Userâs email.
+(2) If User agrees to or is deemed to have agreed to the Agreement.
+Any use, access or attempt to use or attempt to access the Software or the Service shall be considered deemed to agree.
+(3) If User installs or attempts to install Server version of Clockify.
+(4) If Client makes payment for the license for Server Clockify.
+
+Client is responsible to ensure End Users comply with the Agreement.
+We will make the Service available to You pursuant to this Agreement and the applicable plan You have chosen.
+We will use commercially reasonable efforts to make the Services available 24 hours a day, 7 days a week, except (a) during planned downtime (of which we will give advance notice).
+and (b) for any unavailability caused by circumstances beyond our reasonable control, including, for example, a force majeure event.
+You acknowledge that COING may modify the features and functionality of the Services during the Term of the Agreement.
+Coing shall provide You with commercially reasonable advance notice of any deprecation of any material feature or functionality. 4.
+AGREEMENT AMENDMENTS COING may revise and update these Terms of Use or any part of Agreement at any time.
+If you use Cloud Clockify, you are cautioned to review the Terms of Use posted on the Website periodically.
+Any changes shall enter into force upon being published on the Website and/or after at least 10 days after you have received a notification from us via email.
+Your continued access or use of the Website after any such change will constitute your acceptance of these changes.
+If you do not agree to the new terms of Agreement, and you have not subscribed to any of the Paid Plans, you must stop using Cloud Clockify.
+If you are subscribed to any of the Paid Plans, the existing Agreement will continue to be valid until expiration of the then-current billing term(for example, until the expiry of the month for which Client has already made payment to COING), unless the Parties agree otherwise (including the agreement which entails an implicit consent by the Userâs continued use).
+If you use Server Clockify, COING will send you the notification on the amendments of TOU.
+If you do not agree to the new TOU, you must notify COING within 10 days from receipt of such notification.
+If you fail to send such notification to COING, your continued use will be deemed as acceptance to the new TOU.
+If you do not wish to comply with the new TOU and you send notification with the refusal to comply within 10 days, the existing Agreement will continue to be valid until expiration of the then-current billing term (for example, until the expiry of the year for which Client has already made payment to COING), unless the Parties agree otherwise. 5.
+ELECTRONIC COMMUNICATIONS By accepting these TOU, you agree to this electronic contract.
+In addition, by visiting or sending emails to Clockify constitutes electronic communications.
+You consent to receive electronic communications and you agree that all agreements, notices, disclosures and other communications that we provide to you electronically, via email, satisfy any legal requirement that such communications be in writing.
+Please note that notifications about any amendment of TOU by Article 4 (Agreement Amendments) or any material change to the Service or the Agreement will be sent to your email, as stipulated in Article 19 (Notifications).
+We have a legal obligation to inform you about the change of the terms so you can decide whether to continue using the Service.
+Such correspondence does not constitute marketing or promotional emails, and you cannot unsubscribe from receiving such notifications.
+If you do not wish to receive such notifications, you need to terminate the Agreement by deleting your account. 6.
+INTELLECTUAL PROPERTY Unless otherwise indicated in the Agreement, the Service, Clockify and its entire Content (including but not limited to the original source code, Website copy, images, graphic elements, design, databases, logo or other signs, domain, trade name and business name, trademarks or service marks, any customized work and other related materials) are protected by Intellectual Property Rights of COING.
+Users have only the rights specified under Section 7 and Section 25 of this Agreement.
+User may not acquire any other Intellectual Property Rights under this Agreement.
+Clockify is made available on a limited-access basis, and no ownership right may be conveyed to any User, irrespective of the use of terms such as "purchase" or "sale".
+Any unauthorized use of the Content and/or any part of it, without the permission of the owner of Intellectual Property Rights, shall be deemed an infringement of Intellectual Property Rights.
+COING will take all legal remedies to protect its Intellectual Property Rights immediately upon the knowledge of such unauthorized use.
+Except for the rights granted under Section 25 of TOU, any copying of Content or downloading Content in part or whole is permitted only by written consent from COING.
+COING also reserves all Intellectual Property Rights not expressly granted in this Agreement. 7.
+AUTHORIZATION TO USE If you are a natural person using Cloud Clockify, in consideration of your acceptance of this Agreement and your payment of all applicable fees, COING grants you a personal, limited, non-exclusive, non-transferable, revocable authorization to access and use the Services for your personal purposes in accordance with the Agreement and any other instructions on the Website.
+If you are an Enterprise using Cloud Clockify, in consideration of your acceptance to this Agreement and your payment of all applicable fees (if you choose to subscribe to a Subscription Plan or Enterprise Plan), COING grants you a limited, non-exclusive, non-transferable (or restrictedly-transferable), revocable authorization to access and make use of the Services solely for your internal business purposes, in accordance with the Agreement and any other instructions on the Website.
+The authorization to access enables:
+
+(1) Admin: the right to use the Free Plan of the Service in accordance with the Agreement or to use Extra Features in accordance with any Paid Plan and to provide a limited set of its rights to the Regular user with whom they shared a Workspace.
+(2) To the Regular user: the right to access and use their User Account in accordance with the Agreement and any Paid Plan, whose benefits the Admin is entitled to enjoy.
+(3) To the Subscriber: the right to use the Extra Features during the term of the Subscription conditioned with the payment in accordance with the Price Plan.
+(4) To the Enterprise: the right to use Extra Features for the agreed number of Workspaces and seats conditioned with the payment in accordance with the Price Plan.
+
+If you are a Client subscribed to the Server Plan, please see Section 25 of TOU.
+Any other use of the Software or the Service, not specifically mentioned in this Agreement, by any User, is forbidden.
+For example, the authorization to use does not give you any right to, and You may not:
+
+(i) publish, copy, rent, lease, lend, sell, create derivative works or transfer in any way the Software, Website, Services or any portion(s) of the foregoing;
+(ii) distribute, transmit, publish or otherwise disseminate the Software, Website, Services or any portion(s) of the foregoing;
+(iii) attempt to access or derive the source code or architecture of the Software or work around any technical restrictions or limitations in the Software;
+(iv) reverse engineer, decompile, or disassemble the Software, or attempt to do so;
+(v) when using Internet-based features, you may not use those features in any way that could interfere with anyone else's use of them, or to try to gain access to or use any service, data, account, or network, in an unauthorized manner;
+(vi) attempt to probe, scan or test the vulnerability of the Website, Services and/or Software, or any associated system or network, or to breach any security or authentication feature or measures, and, if you are blocked by COING from accessing the Site, Software or Services (including by blocking your IP address), you will not implement any measures to circumvent such blocking (e.g., by masking your IP address or using a proxy IP address).
+ 8.
+SUBSCRIPTION By creating a User Account at Cloud Clockify you automatically start your Free Plan.
+You may choose to switch from the Free Plan to any Paid Plan at any time.
+Once you choose to do so, we start to apply the respective subscription fees in accordance with the applicable Paid Plan.
+Anyone who subscribes to any Paid Plan or anyone who permits or causes another person to make an order on their behalf will be liable for the payment arising from such a subscription.
+The same rules will apply to anyone who permits to be designated as a payer for a Paid Plan.
+Paid Plan is connected to a single Workspace.
+After subscribing to a Paid Plan to one or more Workspaces, a User may continue to have multiple Workspaces subscribed to a Free Plan.
+Paid Plans for Cloud Clockify is charged either monthly or annually, as chosen upon subscription.
+Enterprise Plan is being charged based on the number of seats and number of Workspaces with Extra Features within such a plan.
+
+If an Enterprise has filled out all available seats in the account, the Enterprise can purchase additional seats.
+The number of seats cannot be lower than the number of active users.
+The Enterprise may not invite new Users before adding a sufficient number of seats.
+
+An Enterprise may purchase seats from the Subscription page or may contact us at support@clockify.me.
+Users of the Enterprise Plan may have unlimited number of Workspaces without Extra Features or have Workspaces in relation to which subscription is based on a Plus Plan or on a Premium Plan.
+For the instructions on the upgrade or downgrade of the Enterprise Plan, please see section 11 of the TOU.
+
+All payments for the Paid Plan are due in advance by the first day of the billing period.
+Prices set out in the Price Plan are subject to change at any time.
+Any price may change at any time and will become binding on the Subscriber upon the following conditions:
+
+(1) For Cloud Clockify, COING has sent a 7-days-period-notice;
+(2) The User did not unsubscribe from the Paid Plan within such a period or by the end of the then-current Subscription Term, whichever date is later.
+
+Such notice may be sent to a Subscriber by email to your most recently provided email address or posted on the Website or by any other manner chosen by COING in its commercially reasonable discretion.
+You will be deemed to have received any such notice that is posted on the Website on the day following the date it was posted. 9.
+FREE-TRIAL The use of Cloud Clockify with all the Extra Features is free of charge if a User opts for the 7-days trial period ("Free-trial").
+We do not require credit card information for the Free-trial.
+After Free-trial expires, the User who wishes to continue using Cloud Clockify with Extra Features will be requested to make a payment according to the chosen Paid Plan and the Price List.
+Alternatively, the User may opt for the Server Clockify by contacting us at support@clockify.me for more information.
+The User will not be eligible to participate in any Free-trial for a Workspace in relation to which the User has already been subscribed to any Paid Plan. 10.
+PAYMENT Anyone who subscribes to Service or anyone who has permitted or caused another person to make a subscription on their behalf is deemed to have agreed to and accepted liability for the payments under such Paid Plan.
+User must keep all the billing data complete and accurate (such as a change in billing address, credit card number or credit card expiration date) and must promptly notify COING if payment method has changed (for example, for loss or theft) or if Client becomes aware of a potential breach of security, such as the unauthorized disclosure or use of name or password.
+If Client fails to provide any of the foregoing information, User agrees that COING may continue charging for any use of the Service unless Client has terminated Agreement as set forth herein.
+All sums payable to COING hereunder shall be paid in full, without deducting or allowing the deduction of any currency conversion, wire transfer, remittance, applicable tax or other charges related to the payment.
+The payment of the Service shall be made before the commencement of the Subscription Term.
+If your Paid Plan involves a recurring payment of a fee, unless you notify us before a charge that you want to cancel or do not want to automatically renew your subscription, you understand it will automatically continue and you authorize us (without notice to you, unless required by the applicable law) to collect the then-applicable fees and any taxes using any credit card we have on record for you.
+You hereby authorize COING to charge to your designated account, relating to the Services you select, and you agree to pay all such fees in accordance with the TOU.
+If your default payment instrument is declined for any reason, we may deny access to the Paid Plan immediately.
+The fees are exclusive of any VAT or other taxes and public duties, save where COING has explicitly stated to the contrary.
+It is each User's responsibility to bear all public duties related to the purchase of the Service.
+All payments are handled by a third-party payment gateway.
+COING is not responsible for the processing of Client's payment and shall not be liable for any matter in connection therewith.
+Paid fees are non-refundable.
+If the Agreement or a Paid Plan or a Server Plan is terminated or varied during a certain billing period, the User shall not be entitled to any refund concerning that billing period.
+In addition, payments made for the future billing periods will not be refunded unless the Parties explicitly agree otherwise.
+You understand that cessation of use of the Service will not entitle you to any refund.
+If you do not use the Service, you need to cancel the subscription to any Paid Plan and switch to Free Plan or close the User Account (Section 17 of the TOU). 11.
+UPGRADING OR DOWNGRADING PLAN A.
+Upgrading Plan As a User of Cloud Clockify, you may upgrade your plan at any time.
+By upgrading your plan we mean either switching to a Paid Plan, and/or switching to any annual Paid Plan from a monthly Paid Plan, or in relation to the Enterprise Plan, increasing the number of seats or Workspaces.
+Plans may be upgraded as follows:
+
+(1) Upgrading from the Free Plan to any Paid Plan
+You are instantly being charged for the next billing period (a month or a year) and, after payment, you obtain immediate access to all Extra Features for the Paid Plan you chose.
+
+
+(2) Upgrading from the monthly/annual Plus Plan to the monthly/annual Premium Plan
+You are instantly being charged for the next month or the next year on a pro rata basis and you obtain immediate access to all Extra Features for the Premium Plan.
+Your next billing date is after a month/year starting from the next day from the day payment has been made.
+
+
+(3) Upgrading from the monthly Premium Plan to the annual Premium Plan or from the monthly Plus Plan to the annual Plus Plan<You are instantly being charged for the next year on a pro rata basis.
+Your next billing date is after a year starting from the next day from the day payment has been made.
+
+
+(4) Upgrading from monthly Premium Plan to annual Plus Plan
+After your then-current Subscription Term expires, you are being charged an annual fee for the Plus Plan.
+You will be denied access to the Extra Features in the Premium Plan after the expiry of the then-current Subscription Term.
+
+
+(5) Upgrading from the annual Plus Plan to the annual Premium Plan
+You are instantly being charged for the next year on a pro rata basis and you obtain immediate access to all Extra Features for the Premium Plan.
+Your next billing date is after a year starting from the next day from the day payment has been made.
+
+
+(6) Increasing the number of seats in an Enterprise Workspace
+We charge for the new seats on a pro-rata basis for that billing period and the total (increased) number of seats from the next billing period.
+Please note that the number of seats can only be equal to or higher than the number of active users.
+Once you fill up all the seats, you need to add more seats before inviting others.
+
+
+ B.
+Downgrading Subscription Plan As a User of Cloud Clockify, you may downgrade your Subscription Plan at any time.
+By downgrading your Subscription Plan we mean either switching to a plan that offers less or no Extra Features and/ or switching to any monthly Subscription Plan from an annual Subscription Plan.
+Subscription Plans may be downgraded as follows:
+
+(1) Downgrading from any Subscription Plan to Free Plan
+After your then-current Subscription Term expires, your access to the Extra Features will be denied and you can continue to use the Free Plan.
+(2) Downgrading from monthly/annual Premium Plan to monthly/annual Plus Plan
+After your then-current Subscription Term expires, your access to the Extra Features offered in the Premium Plan will be denied, you will be charged for the Plus Plan, based on the Subscription Term you chose and you can continue to use the Plus Plan.
+(3) Downgrading from annual Premium Plan to monthly Premium Plan or from annual Plus Plan to monthly Plus Plan
+After your annual Subscription Term expires, you will be charged for the monthly Subscription Term and you can continue to use the same Subscription Plan.
+(4) Downgrading from the annual Plus Plan to the monthly Premium Plan
+You obtain instant access to Extra Features in the Premium Plan.
+The payment made for the annual plan is being calculated on a pro rata basis.
+Depending on the balance, you may obtain credit on Clockify or you may be charged instantly for the outstanding payment for the monthly Premium Plan.
+In the event you have the remaining credit, such credit will be applied against the amounts payable for the next billing term.
+There is no possibility to claim refund.
+ C.
+Downgrading the Enterprise Plan You may downgrade the Enterprise Plan by reducing the number of seats, in which case, after your then-current billing term expires, you will be charged based on the new number of seats for the next billing period.
+There is no possibility to obtain a refund for the reduction of the number of seats for the payment of the then-current billing term.
+If you wish to cancel your Enterprise Plan, you may do so via your User Account.
+The Enterprise Plan will be cancelled/downgraded upon the expiry of the then-current billing period.
+If you wish to add new users before the expiry of the then-current billing period, please contact support@clockify.me, and we will terminate the Enterprise Plan earlier.
+However, please kindly note that earlier termination does not entitle you to a refund. 12.
+ACCEPTABLE USE To use Clockify, each User must comply with these rules of acceptable use:
+
+â User must provide complete information for registration purposes.
+â User must provide accurate and up-to-date information.
+The User has to use accurate contact information.
+Using false identity is strongly prohibited.
+â User will prevent any other person from using that User's account.
+Use of the account by more people is prohibited.
+â User must maintain the security of the account and password, and share it solely with the authorized persons.
+User is responsible and liable for any use of the Website, Services or Clockify through Client's account, whether authorized or unauthorized.COING cannot be held liable for any loss, damages or expenses incurred due to User's failure to comply with this obligation.
+User will be liable for all losses, damages, liability and expenses incurred by COING or a third-party as a consequence of authorized use of the account.
+If you become aware of any unauthorized use of your account on Clockify, you need to immediately notify us by sending an email to support@clockify.me.
+â User will not engage in activity that violates the privacy of others, or any misuse or unlawful processing of personal data, nor will publicly display or use Clockify to share inappropriate content or material.
+The User may not violate any applicable law or regulations in connection with your use of the Website, Services or Software.
+â User will not access the Services or the Software to build a competitive product or service, to build a product using similar ideas, features, functions or graphics, or to copy any ideas, features, functions or graphics.
+â User will not engage in web scraping or data scraping on or related to the Software or the Platform, including without limitation collection of information through any software that simulates human activity or any bot or web crawler.
+â User will not automate access to the Website or the Services, including, without limitation, through the use of APIs, bots, scrapers or other similar devices.
+
+Admin undertakes to cause each Regular user with whom such User shares its Workspace(s) to comply with all legal requirements applicable to the use of Service.
+Users are fully responsible for all the activities that occur under their User Accounts. 13.
+USER CONTENT Users are also solely responsible for all text, documents or other content or information uploaded, entered or otherwise transmitted in connection with your use of the Services and/or Software ( "User Content").
+By accepting this Agreement, each User warrants, represents and covenants that the User owns or has a valid and enforceable license to use all User Content.
+User Content will not infringe, misappropriate or violate the rights of any person or entity or any applicable law, rule or regulation of any government authority of competent jurisdiction.
+Without limiting the foregoing, any feature(s) of the Services and/or Software that may permit you to temporarily save or otherwise store User Content is offered for your convenience only and COING does not guarantee that the User Content will be retrievable.
+You are solely responsible for saving, storing and otherwise maintaining User Content including by maintaining backup copies of your User Content on appropriate independent systems that do not rely on the Services and/or Software.
+Clockify allows you to store or share User Content or obtain access to the User Content from other Users.
+Nevertheless, if a User submits, uploads or creates content as a Regular user on a shared Workspace, User acknowledges and accepts that Admin of that Workspace has exclusive, non-transferable and irrevocable license to access, copy, modify and/or remove such content, including but not limited to adding or removing User from the team or enabling or disabling their or third-party integrations.
+COING reserves the right to refuse, limit or cancel the Service, terminate User Accounts, or remove or edit User Content in its sole discretion.
+Therefore, when investigating alleged violations of this Agreement, COING reserves the right to review your User Content to resolve the issue (such as to prevent harmful or illegal activity).
+COING may also access the User Content when providing technical support or when performing other legal obligations under this Agreement.
+Nevertheless, COING has no obligation to monitor User Content (and will make no attempt to do so) and has no obligation to remove any User Content.
+COING cannot be held responsible for any loss, damage, expense or other harmful consequences to any User resulting from User Content.
+In the event becomes aware of the illegal User Content, activities that infringe anyone's Intellectual Property Rights or personal data or any other right, or activities that infringe these Terms of Use, COING may, in its sole discretion, disable, close, temporarily or permanently limit access to any User Account without any notice.
+COING may not be liable for any loss, damages or undesirable consequences resulting from such action. 14.
+DISCLAIMER OF WARRANTIES Your use of Clockify is at your sole risk.
+The service is provided on an "as is" and "as available" basis.
+Any warranty of COING regarding the site, Services or Software (or part thereof) not expressly stated herein shall be deemed withheld.
+Supplier disclaims, to the fullest extent permitted under the applicable law, all statutory warranties and course of performance, course of dealing and usage related to licensees' and users' expectations.
+User is solely responsible for any damage User may suffer resulting from the use of the Service.
+No oral or written information or advice given by COING or its authorized representatives shall create a warranty or in any way increase the scope of COING's obligations.
+Without prejudice to the generality of the previous provisions, COING does not warrant that:
+
+(a) the Service will meet User's specific requirements nor that the Service will be "fit for purpose", unless COING and a User agree on customization of Clockify by COING in a separate Agreement in accordance with section 25 of this Agreement,
+(b) the Service will be uninterrupted, timely, secure, error-free or of satisfactory quality,
+(c) the results that may be obtained from the use of the Service will be accurate or reliable,
+(d) any errors in the Service will be corrected.
+
+COING and/or its suppliers make no representations about the suitability, reliability, availability, continuity, timeliness, and accuracy of the Service and Software.
+Without limiting the foregoing, Clockify is not designed or licensed for use in hazardous environments requiring fail-safe controls (for example, aircraft navigation/communication systems, air traffic control, medical device and life support machines, or weapon systems) in which the failure of the Software could lead to death, personal injury or physical and environmental damage ('High-Risk Activities').
+Accordingly, this Agreement excludes any High-Risk Activities and User agrees not to use the Software in connection with High-Risk Activities.
+In connection to Cloud Clockify, COING reserves the right (but has no obligation) to do any of the following, at any time:
+
+(1) to modify, suspend or terminate operation of or access to Clockify, or any part of the Service or any feature for any reason,
+(2) to modify, change, upgrade Clockify or any part of it,
+(3) to interrupt the operation of Clockify or any part of it, as necessary to perform routine or non-routine maintenance, error correction, or other changes.
+
+without notice to Users who are not Subscribers, with one month's notice to Subscribers and with two-month notice to Clients. 15.
+LIMITATION AND EXCLUSION OF LIABILITY To the maximum extent permitted by the applicable law, COING and/or its suppliers, employees and representatives shall be liable in no event for:
+
+(1) any loss, damage, expense or other harmful consequences resulting from anyone's use or inability to use Clockify;
+(2) any installation, implementation, customization or modification of the Software not carried out by COING;
+(3) any failure to apply available update, service pack, fix or upgrade that would have avoided the harmful event;
+(4) any unauthorized access to the User Content;
+(5) any unauthorized use of any User's credentials.
+
+To the maximum extent permitted by applicable law, in no event shall COING and/or its suppliers, employees and representatives be liable for: any indirect, punitive, incidental, special, consequential damages or any damages whatsoever (including, without limitation, damages for loss of use, data or profits, or business interruption) arising out of or in any way connected:
+
+â with the use or performance of Clockify,
+â with the delay or inability to use Clockify and the Service, including the provision of or failure to provide Services,
+â with information, Website, Software, products, Service and related graphics obtained through Clockify, or otherwise arising out of the use of Clockify, whether based on contract, tort, negligence, strict liability or otherwise.
+
+In the event that any of the foregoing limitations are deemed unenforceable or in the event any liability of COING is established, to the greatest extent permitted by law, You agree that the entire aggregate liability of COING and sole remedy available to any User in any case in any way arising out of or relating to the Agreement, Software or the Service shall be limited to monetary damages that in the aggregate may not exceed the sum of any amount paid (if any) by that User during the twelve months prior to notice to COING of the dispute for which the remedy is sought.
+If the User had no obligation to make such payment during such a period, monetary damages that in the aggregate may not exceed the sum of $100 (hundred dollars).
+You agree that this limitation of liability represents a reasonable allocation of risk and is a fundamental element of the basis of the bargain between COING and you.
+You understand that the Website, Services and Software would not be provided without such limitations.
+Some countries do not allow the limitation of certain damages, so some or all of this limitation of liability may not apply to you and you may have additional rights.
+Nevertheless, if any portion of these sections is held to be invalid under the applicable law, the invalidity of such portion shall not affect the validity of the remaining portions of the applicable sections.
+Section 15 does not exclude mandatory liability for:
+
+(a) Wilful breach by COING of any of its obligations;
+(b) Death or personal injury caused by a defective item produced by COING.
+
+Neither Party shall be liable for breaching its obligations due to a circumstance they reasonably could not have foreseen and which is beyond their control, such as, e.g., a force of nature, an act of a legislative or an executive authority, war, civil unrest, act of terror, strike, non-trivial cyber attack, failure of a third-party hosting, Internet failure or any other circumstance qualifying as force majeure under the applicable law â to the extent that the respective circumstance prevented or hindered the Party's performance.
+For the avoidance of doubt, the provisions of this section:
+
+(a) are not intended to derogate from, or limit the application of, any statutory limitation or exclusion of liability;
+(b) shall not be construed to limit the amount of, or excuse User from paying, any fee or other consideration owed hereunder.
+
+Security policy is applicable only to User Content on Cloud Clockify.
+COING has no control and cannot be held liable for the breach of security of any Userâs data outside Cloud Clockify (for example, when a User installs Clockify desktop app, some data may be stored locally).
+Security policy also does not apply to the security of a Clientâs data (please see Section 25.6.
+of these Terms of Use for more information). 16.
+INDEMNIFICATION You agree to indemnify and hold COING harmless from any and all demands, losses, liability, claims or expenses (including attorneys' fees) made against COING by any third party due to or arising out of or in connection with your use of Clockify and the Services or, if you are an Admin User, in connection with the Regular user's use, including but not limited to:
+
+(a) your use of the Service and/or Software in violation of this Agreement and any applicable law, and/or arising from a breach of this Agreement and any applicable law;
+(b) any third-party claim of infringement of copyright or other intellectual property rights or invasion of privacy arising from hosting your User Content on the Software, and/or your making available thereof to other users of the Software, and/or the actual use of your User Content by other users of the Software or related services in accordance with the Agreement;
+(c) any activity related to your account, be it by you or by any other person accessing your account with or without your consent unless such activity was caused by the act or default of COING.
+
+In addition, in relation to Server Clockify, Client shall defend, indemnify and hold harmless COING, its officers, directors, employees, contractors, agents and representatives from and against all claims made by, and all damages, liabilities, penalties, fines, costs and expenses payable to, any third party, which arise from Client's or its End User's:
+
+(a) breach of this Agreement;
+(b) use of the Service;
+(c) processing of User's personal data;
+(d) contributions to the Service.
+or
+(e) infringement of any Intellectual Property or any proprietary or personal right.
+ 17.
+TERMINATION This Agreement shall continue until either:
+
+(1) you cancel your subscription and/or request for your User Account and all of your Workspaces to be deactivated and deleted;
+(2) terminated by COING.
+ 17.1.
+Termination by User User of Cloud Clockify may terminate this Agreement by closing the User Account.
+You may cancel your subscription at any time via your Admin account.
+If you cancel after your subscription renewal date, you will not receive a refund for any amounts that have been charged.
+Your cancellation will be effective at the end of your then-current subscription period, subject to applicable law, and you may use the Services until your cancellation is effective (unless your access is suspended or terminated in accordance with this Agreement or the applicable law).
+In other words, you may use the Service until the end of your subscription period.
+If you only wish to terminate a Paid Plan and continue with the Free Plan or upgrade/downgrade your Paid Plan to another Paid Plan, please see Section 10.
+If you use any Paid Plan that involves a recurring payment of a fee, we will stop charging the Services from the moment you notify us that you wish to cancel or that you do not want to automatically renew your subscription.
+Until such cancellation, you understand that we have the right to automatically continue (without notice to you, unless required by the applicable law) to collect the then-applicable fees and any taxes using any credit card we have on record for you, as stipulated in Section 10 of the TOU.
+You understand that cessation of use of the Service will not entitle you to any refund.
+If you do not use the Service, you need to cancel the subscription to any Paid Plan and switch to Free Plan or close the User Account.
+User is aware and accepts that closing the User Account does not necessarily mean that all Workspaces the User had access to will be automatically deleted.
+The same rule applies to the User Content provided by that User.
+User space may belong to other Users and it is in those Users' responsibility.
+In relation to Server Clockify, COING has no means or powers to provide the End User with the possibility to close the User Account.
+If you are an End User, please contact the Client regarding this matter. 17.2.
+Termination by COING You agree that COING may immediately terminate this Agreement if you do not pay the fees when due in accordance with your Paid Plan.
+COING also reserves the right to cancel your subscription and your use of the Service.
+COING may deny you access to all or any part of the Services or terminate your account with or without prior notice if you engage in any conduct or activities that COING determines, at its sole discretion, violate this Agreement or the rights of COING or any third party, or is otherwise inappropriate.
+Without limitation, COING may deny you access to the Services, or terminate this Agreement and your User Account.
+COING may, at its sole discretion, at any time and for any reason, terminate the Cloud Clockify Service, terminate this Agreement, or suspend or terminate any User Account at Cloud Clockify.
+COING will send notice to User at the email address User provides when creating User Account, or such other email address User may later provide to COING.
+COING may, at its sole discretion for any reason, terminate the Service and/or terminate the Agreement with Client in relation to Server Clockify, after the expiry of 60 days from the day the notice of such termination is sent to Client.
+If you are an authorized user of an Enterprise, your Enterprise may decide to revoke your authorization or terminate your account. 18.
+SEVERABILITY If any provision of this Agreement is found invalid by any court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Agreement, which shall remain in full force and effect.
+If any provision of this Agreement violates any mandatory rule of the applicable law and proves to be void as a result thereof, such provision shall, for those specific circumstances and only in that particular respect in which it is void, be deemed to have been amended to comply with the law.
+Any such amendment shall be confined to the minimum necessary to make the provision valid and shall retain as much of its original ambit and meaning as possible. 19.
+NOTICES All notices to COING shall be provided to support@clockify.me or to the address specified in Section 1 (Definitions).
+COING may give notice to a User via the email address associated with the User Account or by mail or courier to the address provided for that User under Workspace Owner's details.
+Notice shall be deemed to have been received:
+
+(1) the next day if given via notice on User Account or via email
+(2) five workdays after posting the notice via courier or registered post.
+By workday, we mean workdays at COING's registered seat.
+ 20.
+NO WAIVER Our failure to exercise or enforce any right or provision of the Terms shall not constitute a waiver of such right or provision. 21.
+LINKS TO THIRD-PARTY WEBSITES Should COING enable access to data from another service provider through linking, COING does not carry responsibility for such information.
+The Website may contain links to other websites, owned by other legal or natural persons.
+Each of these websites has its Terms of Use and Privacy Policy on handling personal data, which may differ significantly from those which are applied to the use of this Website.
+COING has no control over such websites and shall not carry any responsibility neither for the availability of those websites nor for the Terms of Use and Privacy Policy that applies to their visitors and users.
+Placing links to third-party websites on the Website does not in any way imply that COING recommends or approves services or products offered through such websites. 22.
+JURISDICTION AND CHOICE OF LAW.
+DISPUTE RESOLUTION This Agreement and any matter or dispute arising out of or related to the subject matter of the Agreement shall be governed, construed, and enforced in accordance with the Laws of the State of California, without regard to its conflict of laws rules.
+Specifically excluded from application to this Agreement is that law known as the United Nations Convention on the International Sale of Goods.
+Mindful of the high cost of arbitration, you and COING agree to the following dispute resolution procedure: in the event of any controversy, claim, action or dispute arising out of or related to: (i) the Website.
+(ii) this Agreement.
+(iii) the Services.
+(iv) the breach, enforcement, interpretation, or validity of this Agreement.
+or (v) any other dispute between you and COING ( "Dispute"), the Party asserting the Dispute shall first try in good faith to settle such Dispute by providing written notice to the other Party (by first-class or registered mail) describing the facts and circumstances (including any relevant documentation) of the Dispute and allowing the receiving Party 30 days in which to respond to or settle the Dispute ("Mandatory negotiations").
+Notice shall be sent:
+
+(1) if to COING at: COING Inc., 2100 Geng Road, Suite 210, Palo Alto, CA 94303, USA.
+(2) if to you at: your last-used address in your account information or the address of the registered seat of the company (if the User is a legal entity for Enterprises).
+
+If no such address exists, or if the delivery to such address is unsuccessful, the notice shall be sent to the email address connected to that User's Account.
+Both you and COING agree that this dispute resolution procedure is a condition precedent that must be satisfied before initiating any arbitration or filing any claim against the other Party.
+Failing to resolve dispute as described in previous paragraphs of this Section, any controversy or claims arising out of or relating to this contract, or the breach thereof, shall be finally settled by arbitration administered by the American Arbitration Association in accordance with its Commercial Arbitration Rules and judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction thereof.
+The seat of arbitration shall be in San Francisco.
+If the above agreement, as respect arbitration, proves to be void or unenforceable, all disputes to which it was intended to apply shall be subject to the exclusive jurisdiction of the competent court in the State of California, the USA.
+In such a case, the Mandatory negotiations clause remains applicable as a precondition to initiating court resolution of the dispute.
+
+YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND COING ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY.
+
+This clause shall survive termination of the Agreement.
+Notwithstanding the provisions above, COING may, at its absolute discretion, assert and seek the protection of its Intellectual Property Rights and rights concerning confidential information or data processing anywhere in the world. 23.
+NO CLASS ACTION Except where prohibited by law, as a condition of using the Software and/or Service, you agree that any and all disputes, claims and causes of action arising out of or connected with the Software and/or Service, shall be resolved individually, without resort to any form of class action.
+Any arbitration under these Terms of Use will take place on an individual basis.
+class arbitrations and class/representative/collective actions are not permitted.
+THE PARTIES AGREE THAT A PARTY MAY BRING CLAIMS AGAINST THE OTHER PARTY ONLY IN EACH INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PUTATIVE CLASS, COLLECTIVE AND/ OR REPRESENTATIVE PROCEEDING, SUCH AS IN THE FORM OF A PRIVATE ATTORNEY GENERAL ACTION AGAINST THE OTHER.
+Further, unless both you and COING agree otherwise, the arbitrator may not consolidate more than one person's claims, and may not otherwise preside over any form of a representative or class proceeding. 24.
+ENTIRE AGREEMENT This Agreement (as amended from time to time) constitutes the entire Agreement between the Parties relating to the subject matter hereof and supersedes all prior Agreements and understandings between the Parties with respect to that subject matter.
+In case of conflict between any provision herein and any statement, representation or other information published on the Website or contained in any other materials or communications the provision in the Agreement shall prevail. 25.
+SERVER CLOCKIFY Terms of Use in other sections apply generally to all Services and use of Clockify.
+Nevertheless, section 25 contains specific terms that apply in addition to the general terms of the Agreement.
+These specific terms govern if there are any conflicts with the general terms.
+
+
+
+If User wishes to install Clockify on its internal device, User must obtain a license from COING by signing a written agreement with COING.
+Such an Agreement includes this TOU.
+Clients are authorized to use Server Clockify only if they are properly licensed and the Software has been properly activated with a genuine product key or by other authorized methods provided by COING and for the duration of the license.
+Clockify can only be licensed for a limited period of time and cannot be sold.
+COING charges the license for Server Clockify annually in accordance with the Server Plan and the signed Agreement with Client.
+For more information on Server how to obtain Server Clockify and the Price Plan please contact support@clockify.me. 25.1.
+LICENSE During the term of the Agreement, COING grants Client a limited, non-exclusive, non-transferable, revocable, temporary license to reproduce and use the Software solely for Client's internal business purposes, provided Client pays all the agreed fees and Client complies with the restrictions set forth in the written Agreement.
+
+Restrictions on Software Rights.
+Copies of the Software created or transferred pursuant to this Agreement are licensed, not sold, and Client receives no title to or ownership of any copy or of the Software itself.
+Furthermore, Client receives no rights to the Software other than those specifically granted in the first paragraph of this Section.
+In addition to the restrictions set out in Section 7 of TOU, and without limiting the generality of the foregoing, Client shall not:
+
+(a) modify, create derivative works from, distribute, publicly display, publicly perform, or sublicense the Software;
+(b) use the Software for service bureau or time-sharing purposes or in any other way allow third parties to exploit the Software.
+or
+(c) reverse engineer, decompile, disassemble, or otherwise attempt to derive any of the Software's source code.
+
+Previous provision also applies to the Clockify desktop and mobile apps.
+
+Delivery. COING shall provide the Software and Documentation to Client, through a reasonable system of electronic download or otherwise agreed between the Parties, within 10 calendar days after the payment has been made by Client.
+
+Documentation.
+Upon delivery of the Software, COING shall also deliver copies of the necessary Documentation.
+During the term of the Agreement, COING shall revise the Documentation as reasonably necessary in response to changes to the Software made pursuant to Section 25.2 and promptly deliver electronic copies of such revisions, without further charge.
+Such revisions will constitute "Documentation" as of delivery to Client.
+The Client may reproduce the Documentation as reasonably necessary solely to support the internal use of the Software.
+
+Provision of Customization Services.
+COING may provide Clockify customization services, and Client shall provide such assistance and cooperation as necessary or convenient to facilitate the Customization Services.
+The Customization Services are not included in the Server Plan and have to be agreed upon in a separate agreement between COING and Client.
+If you need more information on Customization Services, please contact support@clockify.me. 25.2.
+MAINTENANCE 
+Maintenance.
+During the term of the Agreement, COING shall promptly exercise commercially reasonable efforts to correct any failure of the Software (inherent to the Software itself and not caused by Client) to perform according to the Documentation.
+
+Updates. The Client will sometimes need software updates to keep using Server Clockify.
+COING may automatically check Client's version of the Software and deploy software updates or configuration changes.
+The Client may also be required to update the Software to continue using the Service.
+Such updates are subject to this Agreement, unless other terms accompany the updates, in which case, those other terms apply.
+Providing updates is at COING's sole discretion.
+
+Upgrades.
+During the term of the Agreement, COING shall provide Client with copies of all upgrades, without additional charge, promptly, after the commercial release (if any).
+Upon delivery to Client, each Upgrade will constitute an element of the Software and will thereafter be subject to this Agreement's terms regarding Software, including without limitation, license, warranty and indemnity terms.Providing upgrades is in COING's sole discretion. 25.3.
+PAYMENT FOR SERVER CLOCKIFY The payment of license for Server Clockify has to be made in advance, before the Software is installed on Client's device or before the beginning of each billing period.
+The only subscription available for the Server Clockify is the annual subscription in accordance with the agreed Server Plan and the Agreement between the Parties.
+Amounts due under this Agreement with Client are payable to COING without deduction and net of any taxes, tariff, duty, or assessment imposed by any government authority (national, state, provincial, or local), including, without limitation, any sales, use, excise, ad valorem, property, withholding, or value-added tax withheld at the source.
+If the applicable law requires withholding or deduction of such taxes or duties, Client shall separately pay COING the withheld or deducted amount.
+However, the preceding two sentences do not apply to taxes based on COING's net income.
+Client acknowledges that the payment for Service is non-refundable for a certain billing period if Agreement is terminated any time after such billing period has started. 25.4.
+CUSTOMIZATION COING may customize Server Clockify in accordance with separately negotiated Agreement between the Parties.
+Customized Server Clockify can only be licensed for a limited period of time and cannot be sold, in accordance with these Terms of Use and the separate Agreement between the Parties.
+For more information on customization of Server Clockify please contact support@clockify.me. 25.5.
+CONFIDENTIAL INFORMATION 
+Confidential Information."Confidential Information" refers to the following information that one party to this Agreement ( "Discloser") discloses to the other ( "Recipient"): (a) any document Discloser marks "Confidential".
+(b) any information Discloser orally designates as "Confidential" at the time of disclosure.
+(c) any source code disclosed by COING and any names of actual or potential customers disclosed by Client, whether or not marked as confidential.
+and (d) any other non-public, sensitive information Recipient should reasonably consider a trade secret or otherwise confidential.
+Quotation offered by COING for the license to use Server Clockify or for the customization services will at all times be considered confidential.
+Information Client shares with COING for the purpose of sending quotation shall be treated as confidential.
+Notwithstanding the foregoing, Confidential Information does not include information that: (i) is in Recipient's possession at the time of disclosure.
+(ii) is independently developed by Recipient without use of or reference to Confidential Information.
+(iii) becomes known publicly, before or after disclosure, other than as a result of Recipient's improper action or inaction.
+or (iv) is approved for release in writing by Discloser.
+
+Nondisclosure.
+The Recipient shall not use Confidential Information for any purpose other than to facilitate the transactions contemplated by this Agreement ( "Purpose").
+Recipient: (a) shall not disclose Confidential Information to any employee or contractor of Recipient unless such person needs access in order to facilitate Purpose and executes a nondisclosure agreement with Recipient with terms no less restrictive than those of this Article 7.
+and (b) shall not disclose Confidential Information to any other third party without Discloser's prior written consent.
+Without limiting the generality of the foregoing, Recipient shall protect Confidential Information with the same degree of care it uses to protect its confidential information of similar nature and importance, but with no less than reasonable care.
+Notwithstanding the foregoing, Recipient may disclose Confidential Information as required by the applicable law or by proper legal or governmental authority.
+The Recipient shall give Discloser prompt notice of any such legal or governmental demand and reasonably cooperate with Discloser in any effort to seek a protective order or otherwise to contest such required disclosure, at Discloser's expense.
+Recipient shall promptly notify Discloser of any misuse or misappropriation of Confidential Information that comes to Recipient's attention.
+
+Termination &amp.
+Return.
+Upon termination of this Agreement, Recipient shall return all copies of Confidential Information to Discloser or certify, in writing, the destruction thereof. 25.6.
+REPRESENTATIONS, WARRANTIES AND EXCLUSION OF LIABILITY From COING.
+
+(a) Function. COING represents and warrants that, during the term of this Agreement, the Software will perform materially as described in its Documentation and on the Website.
+(b) IP Rights in the Software.
+Subject to the next sentence, COING represents and warrants that it is the owner of the Software and each and every component thereof, or the recipient of a valid license thereto, and that it has and will maintain the full power and authority to grant the Intellectual Property Rights to the Software set forth in this Agreement without the further consent of any third party.
+(c) Customization Services.
+COING represents and warrants that all Customization Services will be performed in a professional and workmanlike manner.
+(d) Data access.
+COING will never access your data on Clockify, unless required for support reasons, in accordance with the Agreement and with your explicit permission.
+
+
+From Both Parties.
+Each Party represents and warrants that it has the full right and authority to enter into, execute, and perform its obligations under this Agreement and that no pending or threatened claim or litigation known to it would have a material adverse impact on its ability to perform as required by this Agreement.
+
+Warranty Disclaimers. Except for the express warranties in Section 25.6.
+above, COING MAKES NO WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS OR ANY IMPLIED WARRANTY ARISING FROM STATUTE, COURSE OF DEALING, COURSE OF PERFORMANCE, OR USAGE OF TRADE.
+COING does not warrant that the Software will perform without error or that it will run without immaterial interruption.
+COING provides no warranty regarding, and will have no responsibility for, any claim arising out of:
+
+(a) modification of the Software made by anyone other than COING, unless COING approves such modification in writing.
+or
+(b) use of the Software in combination with any operating system not authorized in the Specifications or Documentation or with hardware or software specifically forbidden by the Specifications or Documentation.
+
+Exclusion of Liability for Data Security.
+Given that all the User Content is hosted on the Clientâs server or server chosen by the Client, the security of the Clientâs data and the User Content and application of the physical, technical, administrative, organizational and other measures is in the Clientâs full responsibility.
+Under no circumstances COING may be held accountable for any security data breach, unauthorized access, use, disclosure or any other illegal activity related to the Clientâs data.
+ 25.7.
+TERMINATION OF THE AGREEMENT 
+Termination.
+This Agreement will continue until terminated by either Party as specifically authorized herein.
+
+License Term.
+License Term refers to the period following the payment of the applicable fees and the installation of the Server Clockify by Client.
+The License Term will renew automatically for a period of the same duration unless Client gives written notice of its intent not to renew 30 days before the end of the current License Term.
+
+Termination for Cause. Either Party may terminate this Agreement for the other's material breach by written notice specifying in detail the nature of the breach, effective in 30 days unless the other Party first cures such breach, or effective immediately if the breach is not subject to cure.
+
+Effects of Termination. Upon termination of this Agreement or License Term, Customer shall cease all use of the Software and delete, destroy or return all copies of the Software and Documentation in its possession or control.
+Client admits and acknowledges that any use after the license has expired shall constitute a breach of COING's Intellectual Property Rights.
+Without prejudice to the previous paragraph of this section, the license for Server Clockify and the Agreement thereof will immediately terminate if Client has failed to make payment prior to the beginning of the billing period and does not make such payment within five (5) working days after COING gives notice of such nonpayment to Client.
+Upon termination of the license to use Server Clockify for whatever reason, Client is obliged to delete Clockify and the Content from all the devices, prevent all End Users who have been using Server Clockify via license obtained by Client and present COING with the proof of cessation of all activities authorized by the Agreement.
+Each User understands and agrees that upon any termination of this Agreement:
+
+(a) all rights that User has been granted hereunder will terminate;
+(b) User must cease all activities authorized by the Agreement;
+(c) all amounts (if any) owed to COING hereunder become due;
+(d) all User Data and other information associated with the User Account may be deleted, or may become inaccessible to User;
+(e) all its Software-related obligations hereunder shall survive until Client has fully removed all Software from its devices, systems and storage media.
+
+The Client has to send a written statement to COING that Clockify has been permanently deleted and that Client ceased using Clockify.
+However, Client may export and save the data within User Content.
+Until COING receives such written statement from the Client, it shall be deemed that the Client is using Clockify.
+These Terms of Use are effective as of 13/10/2020.

@@ -1,0 +1,128 @@
+
+         Privacy Policy
+September 1, 2020
+Threema GmbH (hereafter Â«ThreemaÂ») was founded on the premise of bulletproof data protection.
+It is our primary goal to store only the absolute minimum of information for the shortest possible time (Â«Privacy by DesignÂ»).
+In addition to using state-of-the-art encryption methods, we take all necessary technical and organizational measures to prevent unauthorized data access and misuse.
+The processing and protection of data is carried out in accordance with applicable legal regulations and EU Regulation 2016/679 (GDPR).
+1.
+General Information
+The Threema Work app (hereinafter referred to as "Threema Work") has been made available to you for use by your employer or organization (hereinafter referred to as "Organization").
+The Organization or its authorized administrator have the possibility to determine or limit the use of Threema Work and thus the extent of the processed data individually.
+In this document, optionally processed data is marked with an asterisk (*).
+Threema Work can be used without providing any personal data.
+If you voluntarily provide your phone number or email address, you confirm in accordance with Art.
+8 GDPR that you are at least 16 years old or that you have obtained the consent of your legal guardian.
+By using the app, you agree to the collection, processing and use of data as described below.
+2.
+Purpose of Data Processing
+Threema processes data on behalf of your Organization and to the extent determined by your Organization to enable the transmission of short messages and media to other participants.
+The data processed within the scope of order fulfillment will be processed exclusively by Threema on its own server infrastructure in Switzerland and will not be passed on to third parties.
+3.
+Scope and Duration of Data Processing
+A.
+Inventory Data
+Depending on the Organization's configuration, the following inventory data is collected and stored when using Threema Work:
+
+License data (user name and password)
+Threema ID
+Public key
+Date (without time) of creation of the Threema ID
+Date (without time) of the last login
+Operating system and version of the Threema Work app
+
+The following information is optional and can be provided by the user or the Organization voluntarily in order to make it easier to be found by other Threema Work users:
+
+Nickname *
+Mobile phone number (one-way encrypted) *
+Email address (one-way encrypted) *
+
+When exchanging messages, only the following information will be passed on to other participants or shared with the Organization upon signing in:
+
+Threema ID
+Public key
+Nickname
+
+The information will not be passed on to third parties.
+All information will only be stored until it is deleted by the user or by the Organization's administrator or until the Organization's account is closed at Threema.
+Once the information is deleted, it cannot be restored.
+B.
+Message Contents
+Threema Work encrypts all messages, including control messages, using a highly secure end-to-end encryption method.
+Header information of messages (sender, recipient etc.) is protected by an additional encryption layer for transmission to the server, and from the server to the recipient, to prevent eavesdropping by third parties (e.g.
+in open wireless LANs).
+Neither Threema as the operator of the Threema servers nor your Organization have the ability to decrypt messages, as they have no knowledge of the private keys 1).
+Encrypted messages and media (images, videos, files, etc.) are completely deleted on the servers as soon as they have been successfully delivered.
+If the messages and media are not or not completely fetched, they will be automatically and irretrievably deleted from the server after two weeks.
+1) * In order to ensure compliance with applicable regulation, your Organization has the option of setting up a pre-calculated key pair instead of having it created by the user at initial setup.
+In this case, messages may also be decrypted by the Organization.
+Should this option be used, the Organisation is obliged to comply with the relevant statutory provisions and to inform the user of this fact.
+C.
+Address Book Data
+At the explicit request of the user and if not deactivated by the Organization, email addresses and phone numbers from the address book can be synchronized.
+This data is transmitted to the servers in one-way encrypted ("hashed") form and additionally protected using SSL.
+The servers only keep these hashes in volatile memory for a short time to determine the list of matching IDs, and then delete the hashes immediately.
+At no point are the hashes or the results of the synchronization written to a data carrier.
+D.
+Location Data (Android)
+The âsend locationâ feature transmits the coordinates of the userâs current location to Threema if and only if the user has allowed location sharing on their mobile device and the permission to access the userâs location has been granted.
+The coordinates are used to display a map section including a list of POIs (Places of Interest).
+The coordinates are transmitted in encrypted and anonymized form, without any reference to a Threema ID or any other personally identifying information whatsoever.
+Generally, to use the âshow mapâ feature, location sharing is not required.
+If location sharing is enabled, the permission to access the userâs location has been granted and the âyour locationâ feature is used, the coordinates of the userâs current location are transmitted to Threema in order to center the map at the userâs current location.
+Both transmission and processing of the coordinates are performed in encrypted and anonymized form, without any reference to a Threema ID or any other personally identifying information whatsoever.
+If the features âsend locationâ and âshow mapâ are not used, or the permission to access the userâs location has not been granted, no coordinates will be transmitted.
+E.
+Crash Reports
+In order to improve the stability and reliability of the app, Threema relies on anonymous crash reports.
+
+iOS: If the user voluntarily and explicitly agrees to the transmission of a crash report after a crash of the app, information about the crash (status of the app at the time of the crash) is transferred to a server of Threema and stored there for evaluation.
+If the user does not agree to the crash report transmission, nothing will be sent.
+Crash reports do not contain any personal data.
+On iOS, they consist of a stack trace, some information about the device (model, operating system version, but no serial number or similar), the app version, the time stamp of the start and crash, and the list of software libraries loaded in memory.
+Processor register contents or log messages are not being collected.
+4.
+Data Processed by Third Parties
+Threema GmbH does not pass on any data to third parties, is completely free of advertising and does not use analytics software to monitor user behavior.
+However, some functionalities can only be provided by using external data sources, frameworks or operating system services, which in turn process data and are subject to a separate privacy policy.
+A.
+Crash Reports
+In order to improve the stability and reliability of the app, Threema Work relies on anonymous crash reports.
+
+Android: If the user voluntarily and explicitly consents to the general transmission of crash reports to Google when setting up his mobile phone, information (status of the app at the time of the crash, stack trace, manufacturer and operating system of the mobile phone, latest log messages) will be transmitted to Google and stored there for evaluation by Threema GmbH.
+This information does not contain any personal data.
+
+Windows Phone: If the user voluntarily and explicitly agrees to the transmission of a crash report after a crash of the app, information about the crash (status of the app at the time of the crash) is transferred to the servers of HockeyApp (a Microsoft company) and stored there for evaluation by Threema GmbH.
+If the user does not agree to the crash report transmission, nothing will be sent.
+HockeyApp's Privacy Policy can be found at https://www.hockeyapp.net/imprint/.
+5.
+Right to Information, Correction, Blocking, Deletion and Objection
+You have the right to receive information about your personal data stored by Threema at any time.
+Likewise, you have the right to correct, block or (apart from the legally required data storage for business purposes) delete your personal data.
+The stored inventory data can be viewed at any time within Threema Work in the "My ID" tab.
+If this function has not been deactivated by the Organization, the inventory data can be corrected or deleted with immediate effect.
+In case of loss of the end-user device, mobile phone numbers and email addresses linked to a Threema ID can be deleted via the following link: https://myid.threema.ch/unlink
+The Organization's administrator is able to irrecoverably delete all personal data and revoke the key pair at any time.
+Revocation can also be requested directly by the end user via the following link: https://myid.threema.ch/revoke
+6.
+Responsible Body
+If you have any questions about the extent of data processed, please first contact the responsible administrator or the data protection officer of your organization.
+If you have any questions about data protection at Threema in general, you can also contact us directly.
+Send us an email to privacy@threema.ch.
+Responsible body and direct contact for data protection topics at Threema:
+Threema GmbHData Protection OfficerChurerstrasse 828808 PfÃ¤ffikon SZSwitzerlandprivacy@threema.ch
+CHE-221.440.104
+Representative in the EU according to Art.
+27 para.
+1 GDPR: GeKaCe GmbH, Dept.
+T, Weilerweg 13, 72411 Bodelshausen, Germany
+7.
+Amendment of the Privacy Policy
+We reserve the right to change this Privacy Policy from time to time in order to comply with changed legal requirements or to reflect new functionalities of the app.
+The current Privacy Policy is always available for consultation from within Threema Work.
+Disclaimer
+This is a mere translation of the German version of this document.
+In case of any discrepancies between the English version and the German version of this document, t
+h
+e
+German version will prevail.

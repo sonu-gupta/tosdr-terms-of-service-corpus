@@ -1,0 +1,261 @@
+
+
+LAST UPDATED: June 22, 2020
+
+In these Terms of Service (the "Terms") and one or more statements of work, order forms or similar documents ("Order Form(s)" together with Terms, and NGP VAN's Acceptable Use Policy, the "Agreement"), "we,"
+"us,"
+"our," or "NGP VAN" will refer collectively to EveryAction Inc., 1445 New York Ave., NW, Suite 200, Washington, DC 20005 and its affiliates.
+The terms "you,"
+"your," and "Customer" will refer to the organization identified in one or more Order Forms.
+When we refer in this Agreement to:
+
+"Platform," we mean one or more subscription-based, online, web-based software or mobile applications offered by or through NGP VAN (including upgrades and updates thereto made commercially available by NGP VAN to its customers), and ordered by you under an Order Form.
+
+"Developer Tools," we mean an application programming interface for a Platform (or a feature of a Platform) that may be provided to you by us upon requesting and receiving an API Key, subject to you meeting certain guidelines and technical and security requirements.
+
+"Documentation," we mean any related technical or non-technical manuals, instructions, or other documents or materials providing or made available by NGP VAN to Customer which describes the functionality, components, features, or requirements of a Platform, including any aspect of the installation, configuration, integration, operation, availability, use, support, or maintenance thereof.
+Documentation includes any then-current service level agreement (excluding the Developer Tools).
+
+"Services," we mean any website design, development, hosting, support and maintenance services, customization of a Platform, data integration, migration, or optimization services, data analysis or similar analyses, or consulting or similar professional services offered by or through NGP VAN, and ordered by you under an Order Form.
+
+"Deliverables," we mean materials, deliverables, or other work product (or any portion thereof) produced or delivered by or through NGP VAN as part of the Services and expressly designated as a "Deliverable" in an Order Form, and ordered by you under such Order Form.
+To be clear, Deliverables shall not include a Platform, Developer Tools, a Non-NGP VAN Application, or any other NGP VAN Material unless expressly referenced as a "Deliverable" in an Order Form.
+
+"NGP VAN Materials," we mean the Platform, Developer Tools, Documentation, Services, Deliverables, and any other materials or services offered by NGP VAN, and order by you under an Order Form.
+However,"NGP VAN Materials" do not include beta offerings that we may make available to you from time to time at no charge.
+Any beta offering is provided as-is and as-available without warranty of any kind.
+We may discontinue any such beta offering at any time without notice and in our sole discretion without any commitment to make any beta offering generally available.
+
+"Customer Content," we mean any information, data, and other content that is submitted, posted, or otherwise transmitted by or on behalf of you or an Authorized User through the Platform and, subject to Section 3.3, includes Personal Information.
+
+
+PROVISION OF THE NGP VAN MATERIALS.
+	1.1 Provision of the NGP VAN Materials. We will make the NGP VAN Materials available to you and your authorized employees, contractors, or other persons (each an "Authorized User") in accordance with this Agreement and the Documentation.
+Any Services shall be provided in a professional and workmanlike manner consistent with similar online software-as-a-service providers.
+1.2 Changes.
+We regularly update and improve our Platforms, which may result in the removal or modification of certain features or functions in order to: (a) improve or enhance the: (i) quality or delivery of a Platform.
+(ii) competitive strength of or market for a Platform.
+or (iii) cost efficiency or performance of a Platform.
+or (b) comply with applicable law (each a "Change").
+Any Change will apply to all Platform customers and their respective authorized users.
+1.3 Data Privacy &amp.
+Security.
+1.3.1 The terms of the Data Processing Agreement made part hereof ("Data Processing Agreement") shall apply when Personal Information (as defined in Section 3.3) is processed in the locations specified in the Data Processing Agreement.
+Additionally, Personal Information may be disclosed in accordance with our Privacy Policy.
+You acknowledge that you have read our Privacy Policy and understand that it sets forth how we will collect, store, use, and disclose your Customer Content, including Personal Information.
+If you do not agree with our Privacy Policy, then you must stop using the NGP VAN Materials immediately.
+1.3.2 You instruct us to use and disclose Customer Content as necessary to (a) provide and improve the NGP VAN Materials consistent with this Section 1.3, Section 4 of this Agreement, and our then-current Data Processing Agreement or Privacy Policy, including detecting, preventing, and investigating security incidents, fraud, spam, or unlawful use of the NGP VAN Materials, and (b) respond to any technical problems or your queries and ensure the proper working of the NGP VAN Materials.
+1.3.3 NGP VAN employs a risk-based assessment security program to help protect Customer Content from unauthorized use, access, or disclosure (collectively, the "Security Measures").
+Our program's framework is based on organizational, technical, and physical safeguards reasonably designed to protect the confidentiality, integrity, and available of Customer Content including: (a) physical and logical access controls (e.g., two-factor authentication), (b) encryption in transit using TLS protocol, (c) periodic security audits and assessments, and (d) third-party security incident monitoring and notification.
+This Section describes the minimum Security Measures that we maintain in protecting Customer Content and, as security threats shift and evolve, we continue to update our security measures and strategy.
+NGP VAN, also, depending on the Platform, uses and leverages AWS or Azure data centers.
+Information about AWS and Microsoft's security can be found here and here.
+The terms of the Data Processing Agreement are hereby incorporated by reference and shall apply to the extent any Customer Content includes Personal Information.
+1.3.4 While the NGP VAN Materials are not intended to supplant recognized industry best practices that a Customer maintain regular data backups or redundant data archives of its Customer Content or Personal Information, NGP VAN performs nightly backups of its databases with weekly backups transferred to secure external media for preservation (the "Data Backup").
+In the event of any loss, destruction, damage, or corruption of Customer Content or Personal Information attributable to an act or omission of NGP VAN, NGP VAN will, at its cost and expense and as its sole liability and entire obligation, restore, as Customer's sole remedy, any Customer Content or Personal Information using any and all available Data Backup(s).
+
+
+
+ACCESS TO AND USE OF THE NGP VAN MATERIALS.
+	2.1 Access to and Use of NGP VAN Materials. NGP VAN grants Customer and its Authorized Users a limited, non-exclusive, non-transferable right to access and use the NGP VAN Materials for Customer's internal business purposes in accordance with this Agreement, the Documentation, and subject to the timely payment of any costs, fees, or charges (without any setoff, recoupment, deduction, debit, or withholding for any reason, unless such amount is subject to a good faith dispute) (the "
+Fees
+").
+2.2 Use Restrictions.
+You shall not, and shall not permit any other person to, access or use the NGP VAN Materials in a manner inconsistent with our Acceptable Use Policy.
+If you become aware of any actual or threatened activity prohibited by this Section 2.2, you shall, and shall cause its Authorized Users to, without undue delay notify us of such activity and take reasonable and lawful measures asked of it by us to stop the activity or mitigate its effects.
+2.3 Customer Cooperation.
+Our ability to provide the NGP VAN Materials is dependent upon your cooperation, as well as the accuracy and completeness of the Customer Content.
+You shall: (a) respond timely to any reasonable request to provide necessary direction, information, or authorization to enable us to perform our obligations under this Agreement, (b) make necessary personnel available to participate in any reasonably-noticed and necessary meeting, (c) provide Customer Content in a complete, accurate, usable, and legally-compliant format, and (d) make all Authorized Users aware of this Agreement.
+We are not responsible for any delay or failure to perform caused by your delay in performing, or your failure to perform, any of your responsibilities under this Agreement (each, a "Customer Failure").
+2.4 Customer Control.
+You are responsible for: (a) the quality and integrity of, and obtaining the require permission to use your Customer Content in association with the NGP VAN Materials and (b) access to, use and securing of your information technology infrastructure used to access the NGP VAN Materials, including employing adequate physical, administrative, and technical safeguards to verify an Authorized User's identity and authorization to access and use the NGP VAN Materials.We expressly disclaim any responsibility or liability for a breach of this Section by you or your Authorized Users.
+2.5 Suspension.
+We may suspend your or your Authorized Users' access to or use of a Platform if we reasonably determine that (a) you or any Authorized User has violated, are violating, or intend to violate any of the provisions contained in Section 2.2 of this Agreement.
+(b) subject to applicable law, you have ceased to continue your business in the ordinary course, made an assignment for the benefit of creditors or similar disposition of its assets, or become the subject of any bankruptcy, reorganization, liquidation, dissolution, or similar proceeding.
+(c) you are delinquent in your payment of Fees.
+or (d) the continued provision of a Platform to you or any Authorized User is prohibited by applicable law (each a "
+Service Suspension
+").
+We shall use Commercially Reasonable Efforts to: (x) provide you with notice and an opportunity to remedy such violation or threat prior to any such Service Suspension.
+(y) where practicable limit the Service Suspension based on the circumstances leading to the Service Suspension (e.g., to certain Authorized Users), and (z) provide updates regarding resumption of access to a Platform following any Service Suspension and resume such access as soon as reasonably possible after the event giving rise to the Service Suspension is cured.
+We will have no liability for any Losses, or any other consequences that you or your Authorized Users may incur because of a Service Suspension.
+
+
+
+PROPRIETARY RIGHTS &amp.
+LICENSES
+	3.1 Reservation of Rights.
+As between you and NGP VAN, we exclusively own all right, title, and interest in and to the NGP VAN Materials, Usage Data, Feedback, and our Confidential Information.
+As between you and NGP VAN, you own all right, title, and interest in and to the Customer Content and, subject to Section 3.3 the Personal Information and your Confidential Information.
+	3.2 Usage Data.
+NGP VAN may collect and compile information and data related to Customer or your Authorized Users' use of the NGP VAN Materials (the "
+Usage Data
+") that may be refined, developed, or otherwise used by NGP VAN in (a) furthering, improving, or enhancing the NGP VAN Materials for you or other customers, (b) detecting, preventing, and investigating security incidents, fraud, spam, or unlawful use of the NGP VAN Materials, and (c) benchmarking or marketing purposes so long as such information or data is aggregated or anonymized in accordance with this Agreement.
+For purposes of this Agreement, "aggregated" means information that "relates to a group or category of consumers, from which individual consumer identities have been removed, that is not linked or reasonably linkable to any consumer or household, including via a device and "anonymized" means information that cannot reasonably identify, relate to, describe, be capable of being associated with, or be linked, directly or indirectly, to a particular natural person.
+As between NGP VAN and Customer, NGP VAN shall own and retain all right, title, and interest (including all intellectual property rights) in the Usage Data.
+3.3 Personal Information.
+Customer may (or authorize others to) submit, post, transmit, store, or otherwise provide for Customer's use information through a Platform that: (a) directly or indirectly identifies a natural person (e.g., first and last name) or (b) can be used to authenticate a natural person (e.g., financial account numbers) ("Personal Information").
+Such natural person shall retain all right, title, and interest into that natural person's Personal Information subject to the rights and permissions granted to Customer or otherwise obtained by Customer in compliance with applicable law.
+3.4 Non-NGP VAN Applications.
+Our Platform may contain features designed to interoperate with third-party applications and software that complement your use of a Platform ("Non-NGP VAN Applications"), and Non-NGP VAN Applications are not part of the NGP VAN Materials.
+Customer's procurement, use, and data exchange of or with a Non-NGP VAN Application or its provider are transactions solely between Customer and that Non-NGP VAN Application provider NGP VAN cannot guarantee the continued availability of such Non-NGP VAN Applications and may cease providing them without entitling Customer to any refund, credit, or other compensation.
+to which and NGP VAN does not warrant Non-NGP VAN Applications irrespective of whether they may be recommended or offered by NGP VAN to Customer.
+NGP VAN is not responsible for any disclosure, modification, or deletion of Customer Content or Personal Information resulting from access by such Non-NGP VAN Application or its provider.
+3.5 Data-as-a-Service Providers.
+Customer may enable its Authorized User to access and use certain information or data-as-a-service products or services containing information or data (which may include Personal Information) that are gathered, developed, and provided exclusively by third parties ("Third-Party Content").
+The Third-Party Content is typically derived from publicly available records and licensed to (and sub-licensed by) third parties consistent with the purposes for which such Third-Party Content was gathered by governmental authorities (e.g., voter records for use by a political campaign or other organization in support, or pursuit, of elected office, passage of or opposition to proposed legislation, public referendum, or a similar political process).
+While Customer's use of a Platform is subject to this Agreement, Customer's access to and use of Third-Party Content is subject to any agreement between Customer and a Third-Party Content provider.
+NGP VAN makes no representation or warranty as to the accuracy, completeness, authenticity, usefulness, timeliness, reliability, appropriateness, availability, legality, or sequencing of the Third-Party Content and expressly disclaims any obligation or liability solely related to such Third-Party Content.
+3.6 Feedback.
+The more suggestions our Customers make, the better the NGP VAN Materials become.
+However please know that by submitting to us any feedback, suggestions, or contributions regarding the NGP VAN Materials (the "Feedback")you agree that: (a) we are not under any confidentiality obligation as to the Feedback, (b) we may use or disclose (or choose not to use or disclose) your Feedback for any purpose and in any manner, (c) we own the Feedback, and (d) to the extent required by applicable law, you grant to us (for yourself and all of your Authorized Users) an unlimited, irrevocable, perpetual, sublicensable, transferable, royalty-free license to use any such feedback or suggestions for any purpose without any obligation or compensation to you or your Authorized Users.
+
+
+
+CONFIDENTIALITY**.**
+	4.1 Confidential Information. In connection with this Agreement, each party (as the "Disclosing Party") may disclose or make available to the other party (as the "Receiving Party") information about its business affairs, products, pricing, confidential intellectual property, encryption keys, API keys, trade secrets, third-party confidential information, and other sensitive or proprietary information in written or electronic form or media, whether or not marked, designated or otherwise identified as "confidential" (collectively, "Confidential Information").
+Confidential Information does not include information that, at the time of disclosure is: (a) in the public domain, (b) known to the Receiving Party at the time of disclosure, (c) rightfully obtained by the Receiving Party on a non-confidential basis from a third-party, or (d) independently developed by the Receiving Party.
+4.2 Protection of Confidential Information.As a condition to any disclosure of or access to Confidential Information, the Receiving Party shall: (a) not use any Confidential Information of the Disclosing Party for any purpose outside the scope of this Agreement, (b) not disclose the Disclosing Party's Confidential Information to any person, except to a person who has a need to know such Confidential Information and has been informed of the confidential nature of the Confidential Information and the Receiving Party's obligations under this Agreement, (c) safeguard the Confidential Information from unauthorized use, access, or disclosure using at least the degree of care it uses to protect its similarly sensitive information and in no event less than a reasonable degree of care, and (d) promptly notify the Disclosing Party of any unauthorized use or disclosure of Confidential Information and cooperate with Disclosing Party to prevent further unauthorized use or disclosure.
+4.3 Compelled Disclosures.
+If the Receiving Party is compelled under applicable law to disclose Confidential Information then, to the extent permitted by applicable law, the Receiving Party shall prior to such disclosure, provide the Disclosing Party with sufficient notice of such requirement so that the Disclosing Party can seek a protective order or other remedy or waive its rights.
+4.4 Effect of Termination.On the expiration or termination of this Agreement, the Receiving Party shall, at the direction of the Disclosing Party, either: (a) return to the Disclosing Party all copies, whether in written, electronic, or other form or media, of the Disclosing Party's Confidential Information, or (b) destroy all such copies and certify in writing to the Disclosing Party upon completion.
+4.5 Notwithstanding any other provisions of this Agreement, the Receiving Party's obligations under this Section with respect to any Confidential Information that constitutes a trade secret under applicable law will continue until such time, if ever, as such Confidential Information ceases to qualify for trade secret protection under one or more such applicable law other than as a result of any act or omission of the Receiving Party.
+
+
+
+REPRESENTATIONS AND WARRANTIES &amp.
+DISCLAIMER OF OTHER WARRANTIES.
+	5.1 By Customer. You represent and warrant that you have provided (and will continue to provide) adequate notices and have obtained (and will continue to obtain) the necessary permissions and consents to provide Customer Content and Personal Information to us: (a) to fulfill our obligations under this Agreement, including Section 1.3.2 (collectively, "Processing") and (b) so that our Processing of Customer Content or Personal Information does not and will not infringe, misappropriate, or otherwise violate any third-party intellectual property rights, or any privacy or other rights or violate any applicable law.
+5.2 By NGP VAN.
+We represent and warrant that: (a) Section 1.3.3 of this Agreement accurately describes the Security Measures, (b) NGP VAN will not materially decrease the Security Measures or the overall security of the Platform, (c) and the NGP VAN Materials will perform materially in accordance with applicable Documentation.
+For any breach of Section 5.2, Customer's exclusive remedy and NGP VAN's sole liability and obligation is (x) correction of the non-conformity or reperformance of any non-conforming Services or (y) at our option, refund to you any Fees you actually paid for the affected NGP VAN Materials.
+5.3 Developer Tools.Notwithstanding anything to the contrary in this Agreement, the Developer Tools is provided as-is and as-available, and NGP VAN expressly disclaims any warranty, including any implied warranty of merchantability, fitness, title, or any other implied warranty available under applicable law.
+5.4 Third Party Products. WE AND OUR AFFILIATES DISCLAIM ALL LIABILITY WITH RESPECT TO THIRD-PARTY CONTENT AND NON-NGP VAN APPLICATIONS THAT YOU USE.
+5.5 DISCLAIMERS.
+WITHOUT LIMITING OUR OBLIGATIONS IN THE "DATA PRIVACY &amp.
+SECURITY" SECTION OF THIS AGREEMENT, WE AND OUR AFFILIATES AND AGENTS MAKE NO REPRESENTATIONS OR WARRANTIES ABOUT THE SUITABILITY, RELIABILITY, AVAILABILITY, TIMELINESS, SECURITY OR ACCURACY OF THE NGP VAN MATERIALS, DATA MADE AVAILABLE FROM THE PLATFORMS OR NGP VAN API, OR THE SERVICES FOR ANY PURPOSE.
+NGP VAN APIs MAY NOT BE AVAILABLE AT ALL TIMES.
+TO THE EXTENT PERMITTED BY LAW, THE NGP VAN MATERIALS ARE PROVIDED "AS IS" WITHOUT WARRANTY OR CONDITION OF ANY KIND.
+WE DISCLAIM ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, WITH REGARD TO THE SUBSCRIPTION SERVICE AND THE CONSULTING SERVICES, INCLUDING ALL IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+
+
+
+MUTUAL INDEMNIFICATION**.**
+	6.1 General.
+The party seeking indemnification hereunder ("Indemnified Party"): (a) shall promptly notify the party from whom indemnification is sought (the "Indemnifying Party") in writing of any third-party claim, demand, lawsuit, notice of violation, or proceeding (collectively, a "Claim").
+provided, however, that the failure to give such prompt notice of a Claim shall not relieve the Indemnifying Party of its obligations hereunder except to the extent that the Indemnifying Party was actually and materially prejudiced by such failure, (b) will reasonably cooperate with the Indemnifying Party in connection with the Indemnifying Party's activities hereunder, at the Indemnifying Party's expense, and (c) may, at its own expense, participate in the defense of a Claim.
+An Indemnifying Party will have the sole and exclusive authority to defend or settle any such Claim.
+however, neither the Indemnifying Party nor an Indemnified Party may settle any Claim under this Agreement where such settlement includes: (x) admitting liability or fault on behalf of the other party or (y) creating any obligation or imposes an act or forbearance (including injunctive or other equitable relief) on the other party, without the other party's prior written consent.
+6.2 NGP VAN Indemnification.
+We shall indemnify you and your officers, directors, employees, successors, and permitted assigns (each, a "Customer Indemnitee") from and against any damages, judgments, settlements, interest, fines, penalties, fines, or awards (including reasonable attorneys' fees) finally awarded against you arising out of or related to a Claim (other than a Claim brought by an Affiliate of a Customer Indemnitee) (a "Customer Indemnity Claim") alleging that your use of the NGP VAN Materials in accordance with this Agreement infringes or misappropriates a third-party's United States' Intellectual Property Rights.
+If NGP VAN receives information about such a Claim, we may in our discretion and at no cost to you: (a) procure for you the right to continue to use the NGP VAN Materials under this Agreement, (b) modify or replace the allegedly infringing NGP VAN Materials so that it no longer infringes but remains functionally equivalent, or (c) terminate the allegedly infringing NGP VAN Materials and refund the Fees paid in respect of such NGP VAN Materials for the remainder of the relevant Term starting with the date Customer loss use of the NGP VAN Materials due to the Claim.
+The above indemnification obligation does not apply if you: (x) use of the NGP VAN Materials is in combination with data, software, applications, hardware, equipment, products, services, or other technology where the NGP VAN Materials would not by themselves, and without modification, be infringing or (y) fail to use the NGP VAN Materials in accordance with the then-applicable Documentation.
+THIS SECTION 6.2 SET FORTH CUSTOMER INDEMNITEE'S SOLE REMEDY AND NGP VAN'S SOLE LIABILITY AND OBLIGATION FOR ANY CLAIM ALLEGING THAT THE NGP VAN MATERIALS INFRINGE, MISAPPROPRIATE, OR OTHERWISE VIOLATE ANY INTELLECTUAL PROPERTY RIGHT OF ANY THIRD PARTY.
+6.3 Customer Indemnification.
+Customer shall indemnify NGP VAN and its officers, directors, employees, successors, and assigns (each, an "NGP VAN Indemnitee") from and against any damages, judgments, settlements, interest, fines, penalties, fines, or awards (including reasonable attorneys' fees) finally awarded against us arising out of or related to a Claim (other than a Claim brought by an Affiliate of an NGP VAN Indemnitee) (an "NGP VAN Indemnity Claim") that arises out of or results from, or is alleged to arise out of or result from the Processing of Customer Content or Personal Information in accordance with this Agreement infringes or misappropriates a third-party's intellectual property or privacy rights, or otherwise violates applicable law.
+
+
+
+LIMITATION OF LIABILITY**.**
+	7.1 EXCLUSION OF DAMAGES.
+IN NO EVENT WILL NGP VAN BE LIABLE TO CUSTOMER, A CUSTOMER'S AFFILIATES, OR THEIR RESPECTIVE INDEMNITEES OR AUTHORIZED USERS UNDER OR IN CONNECTION WITH THIS AGREEMENT OR ITS SUBJECT MATTER UNDER ANY LEGAL OR EQUITABLE THEORY, INCLUDING BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, AND OTHERWISE, FOR ANY: (a) LOSS OF PRODUCTION, USE, BUSINESS, REVENUE, OR PROFIT OR DIMINUTION IN VALUE, (b) IMPAIRMENT, INABILITY TO USE, OR INTERRUPTION OR DELAY OF THE NGP VAN MATERIALS, OTHER THAN FOR THE ISSUANCE OF ANY APPLICABLE SERVICE CREDITS, OR (c) CONSEQUENTIAL, INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL, ENHANCED, OR PUNITIVE DAMAGES, REGARDLESS OF WHETHER SUCH PERSONS WERE ADVISED OF THE POSSIBILITY OF SUCH LOSSES OR DAMAGES OR SUCH LOSSES OR DAMAGES WERE OTHERWISE FORESEEABLE.
+7.2 LIMITATION OF LIABILITY.
+IN NO EVENT WILL THE AGGREGATE LIABILITY OF NGP VAN TO A CUSTOMER'S AFFILIATES, OR THEIR RESPECTIVE INDEMNITEES OR AUTHORIZED USERS ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE NGP VAN MATERIALS, WHETHER ARISING UNDER OR RELATED TO BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL AMOUNT PAID TO NGP VAN IN THE TWELVE (12) MONTH PERIOD PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+7.3 IF REMEDY FAILS ESSENTIAL PURPOSE.
+THE LIMITATION OF LIABILITY PROVISIONS SET FORTH IN THIS AGREEMENT SHALL APPLY EVEN IF A NON-BREACHING PARTY'S REMEDIES UNDER THIS AGREEMENT FAIL OF THEIR ESSENTIAL PURPOSE.
+EACH PARTY ACKNOWLEDGES AND AGREES THAT THE PARTIES ENTERED INTO THIS AGREEMENT IN RELIANCE UPON THE LIMITATIONS OF LIABILITY SET FORTH IN THIS SECTION 7, THAT THE SAME REFLECT AN ALLOCATION OF RISK BETWEEN THE PARTIES (INCLUDING THE RISK THAT A CONTRACT REMEDY MAY FAIL OF ITS ESSENTIAL PURPOSE AND CAUSE CONSEQUENTIAL LOSS), AND THAT THE SAME FORM AN ESSENTIAL BASIS OF THE BARGAIN BETWEEN THE PARTIES.
+7.4 Payment Adjustments for Other Proceeds.
+Any monetary obligation by us to you under Section 1.3, Section 5.2, or Section 6.2 of this Agreement ("Loss")is limited to the amount of any Loss that remains after deducting therefrom any insurance proceeds and any indemnity, contribution, or other payment actually received by you from a party other than us in respect of any such claim, less any directly related costs and expenses not to exceed $50,000.00 ("Proceeds").
+You shall use commercially reasonable efforts to seek to recover Proceeds, and promptly after realization of any Proceeds, reimburse us for the reduction in Loss for which you were paid before the realization of any Proceeds.
+
+
+
+TERM AND TERMINATION.
+	8.1 Term. This Agreement will begin on the effective date and continue for the period as outlined on the Order Form (the "Initial Term").
+8.2 Renewal. This Agreement will automatically renew for successive additional terms of the same length to the Initial Term (each a "Renewal Term") unless earlier terminated pursuant to this Agreement or either party gives the other party written notice of non-renewal at least ninety (90) days prior to the expiration of the then-current term.
+For applicable subscription-based NGP VAN Materials, the Fees for any Renewal Term shall be at the then-current Fees as of the first day of the applicable Renewal Term or as reasonably determined by us but not exceeding an amount equal to a five percent (5%) annualized increase over the Fees charged for such NGP VAN Materials on the effective date of the preceding term.
+8.3 Termination for Cause.
+Either you or we may terminate this Agreement, effective on thirty (30) days' written notice to the other party, if such other party materially breaches this Agreement, and such breach is incapable of cure or being capable of cure, remains uncured thirty (30) days after the non-breaching party provides the breaching party with written notice of such breach.
+8.4 Effect of Expiration or Termination.
+Upon the expiration or earlier termination: (a) each party shall comply with Section 4.4 of this Agreement.
+(b) you shall immediately discontinue use of the Platform, and (c) we shall, after the expiration of all applicable regulatory requirements, deliver or make available to you a copy of the Customer Content in a commonly accessible data format.
+
+
+
+MISCELLANEOUS.
+	9.1 Relationship of the Parties.
+The relationship between you and us is that of independent contractors.
+Nothing contained in this Agreement creates any agency, partnership, joint venture, or other form of joint enterprise, employment, or fiduciary relationship between the parties, and neither you nor us shall have authority to contract for or bind the other party in any manner whatsoever.
+9.2 Affiliates.
+For purposes of this Agreement, "Affiliate" means any other person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, by a party.
+The term "control" (including the terms "controlled by" and "under common control with") means the direct or indirect power to direct or cause the direction of the management and policies of a person, whether through ownership of more than fifty percent (50%) of the voting interests of a person or by written agreement.
+9.3 No Third-Party Beneficiaries.
+Neither you nor we confer any right or remedy upon any party other than the parties to this Agreement and their respective successors and permitted assigns.
+However, our respective "indemnitees" as defined in Section 6 are intended as third-party beneficiaries solely to extent of having the right to enforce any indemnity rights they may have under Section 6.
+9.4 Notices.
+All notices, requests, claims, demands, waivers, and other communications to a party (each, a "Notice") must be in writing, addressed to the intended recipient at the address set forth on the most recent Order Form, and sent by personal delivery, nationally recognized overnight courier (with all fees pre-paid), or certified or registered mail (in each case, return receipt requested, postage pre-paid).
+9.5 Interpretation.
+The parties intend that the construing of this Agreement is without regard to any presumption or rule requiring construction or interpretation against the party drafting an instrument.
+9.6 Entire Agreement.
+This Agreement, together with the Documentation, constitutes the sole and entire agreement of the parties, and supersedes all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, with respect to such subject matter.
+In the event of any conflict or inconsistency between the statements made in the body of this Agreement, an Addendum, an Order Form, and the Documentation, unless such inconsistency is expressly acknowledged as intended in a document, the following order of precedence governs: (a) first, this Agreement, (b) second, the Documentation, and (c) third, the Order Form.
+9.7 Assignment and Delegation.
+Neither party shall assign any of its rights or delegate any of its obligations hereunder without the prior written consent of the other party, which consent shall not be unreasonably withheld, conditioned or delayed.
+provided, however, we may assign our rights or delegate our obligations, in whole or in part and without such consent, to an entity that acquires all or substantially all of the business or assets of NGP VAN, whether by merger, reorganization, acquisition, sale, or otherwise.
+Any assignment or delegation in violation of this Section shall be invalid.
+No assignment or delegation shall relieve the assigning or delegating party of any of its obligations hereunder unless the non-assigning or non-delegating party agree to a novation releasing the assigning or delegating party of its obligation under this Agreement.
+9.8 Force Majeure.
+In no event shall we be liable to you, or be deemed to have breached this Agreement, for any failure or delay in performing our obligations under this Agreement, if and to the extent such failure or delay is caused by any of the following events (each a "Force Majeure Event"): flood, fire, earthquake, explosion, pandemic, war, terrorism, cyber terrorism or other comparable criminal or willful acts (including third-party hackers or other third-party malicious acts), invasion, riot or other civil unrest, strikes, labor stoppages or slowdowns, our suppliers failure to supply necessary goods or services to us, passage of applicable law, any action taken by a government authority or other public authority (such as imposing an embargo), or international, national, or regional shortage of adequate power, telecommunications capacity, or transportation.
+In allocating the risk of delay or failure of performance of a party's respective obligations under this Agreement, the parties have not taken into account the possible occurrence of any of the events listed herein or any similar or dissimilar events beyond their control, irrespective of whether such listed, similar or dissimilar events were foreseeable as of the date of this Agreement.
+9.9 Amendment and Modification. Except as expressly provided in this Agreement, no amendment to or modification of this Agreement is effective unless it is in writing and signed by an authorized representative of each party.
+9.10 Waiver. No waiver by any party of any of the provisions hereof will be effective unless explicitly set forth in writing and signed by the party so waiving, including any time of the essence provisions as to a party's obligations.
+Except as otherwise set forth in this Agreement, (a) no failure to exercise, or delay in exercising, any rights, remedy, power, or privilege arising from this Agreement will operate or be construed as a waiver thereof and (b) no single or partial exercise of any right, remedy, power, or privilege hereunder will preclude any other or further exercise thereof or the exercise of any other right, remedy, power, or privilege.
+9.11 Severability.
+If any provision of this Agreement is invalid, illegal, or unenforceable in any jurisdiction, such invalidity, illegality, or unenforceability will not affect any other term or provision of this Agreement or invalidate or render unenforceable such term or provision in any other jurisdiction.
+Upon such determination that any term or other provision is invalid, illegal, or unenforceable, the parties shall negotiate in good faith to modify this Agreement so as to effect their original intent as closely as possible in a mutually acceptable manner in order that the transactions contemplated hereby be consummated as originally contemplated to the greatest extent possible.
+9.12 Governing Law, Submission to Jurisdiction.
+This Agreement is governed by and construed in accordance with the internal laws of the District of Columbia without giving effect to any choice or conflict of law provision or rule that would require or permit the application of the laws of any jurisdiction other than those of the District of Columbia.
+Any Action arising out of or related to this Agreement or the NGP VAN Materials will be instituted exclusively in the federal courts of the United States or the courts of the District of Columbia, and each party irrevocably submits to the exclusive jurisdiction of such courts in any such suit, action, or proceeding.
+9.13 Good Faith Negotiations. In the event of any dispute between the parties with respect to this Agreement or the NGP VAN Materials, the parties shall first use their best efforts to resolve such dispute among themselves.
+If the parties are unable to resolve the dispute within thirty (30) calendar days after the commencement of efforts to resolve the dispute, either party may submit the dispute to an appropriate court.
+9.14 WAIVER OF JURY TRIAL.
+EACH PARTY IRREVOCABLY AND UNCONDITIONALLY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LEGAL ACTION ARISING OUT OF OR RELATING TO THE TERMS OR THE TRANSACTIONS CONTEMPLATED THEREIN.
+9.15 Equitable Relief.
+Each party acknowledges and agrees that a breach or threatened breach by such party of any of its obligations under Section 2.1, Section 2.2, Section 3.1, or Section 4 would cause the other party irreparable harm for which monetary damages would not be an adequate remedy and that, in the event of such breach or threatened breach, the other party will be entitled to equitable relief, including a restraining order, an injunction, specific performance, and any other relief that may be available from any court, without any requirement to post a bond or other security, or to prove actual damages or that monetary damages are not an adequate remedy.
+Such remedies are not exclusive and are in addition to all other remedies that may be available at applicable law, in equity, or otherwise unless provided otherwise in this Agreement.
+9.16 Electronic Signatures.
+Each party intends and agrees that the electronic signatures, whether digital or encrypted, of the parties included in an Order Form shall authenticate this Agreement and Order Form and shall have the same force and effect as manual signatures.
+An electronic signature means any electronic sound, symbol, or process attached to or logically associated with a record and executed and adopted by a party with the intent to sign such record.
+9.17 Export Controls.
+Customer will not download or otherwise export or re-export the NGP VAN Materials or underlying information or technology in violation of the laws and regulations of the United States or other applicable jurisdictions.
+9.18 Government Terms. We provide the NGP VAN Materials, including related software and technology, for ultimate federal government end use solely in accordance with this Agreement.
+If you (or any of your Authorized Users) are an agency, department, or other entity of any government, the use, duplication, reproduction, release, modification, disclosure, or transfer of the NGP VAN Materials, or any related documentation of any kind, including technical data, software, and manuals, is restricted by this Agreement.
+All other use is prohibited and no rights other than those provided in this Agreement are conferred.
+The NGP VAN Materials were developed fully at private expense.
+9.19 Services Specific Terms.
+Any Services shall be provided in a professional and workmanlike manner consistent with similar online software-as-a-service providers.
+Customer is solely responsible for the configuration, installation, operation, and maintenance of the computers from which any Deliverables or Services are accessed, including, but not limited to the operating system, browser, e-mail software, and any other software, data or files, or back-up copies of such data.
+Customer may choose to independently edit, maintain, and update the design and functionality of a Deliverable.
+The correction of Customer or third-party damage to a Deliverable is beyond the scope of this Agreement.
+If the Customer or a service provider other than NGP VAN damages the design of the Deliverables or impairs the ability of the Deliverables to perform or function as intended, NGP VAN shall upon a request by Customer provide an estimate to repair or restore the Deliverables at NGP VAN's then-current hourly rate.
+9.20 Public Announcements.
+Neither party shall issue or release any announcement, statement, press release, or other publicity or marketing materials relating to this Agreement or, unless expressly permitted under this Agreement, otherwise use the other party's trademarks, service marks, trade names, logos, domain names, or other indicia of source, association, or sponsorship, in each case, without the prior written consent of the other party, which consent shall not be unreasonably withheld, provided.
+however, we may include your name and logo in our promotional and marketing materials where we list our current or former customers.
+9.21 Business Ethics.
+You, as a material part of this Agreement, acknowledge that we conduct our business based on a set of values and guidelines for action and behavior regarding people (including, without limitation, customers, employees, communities impacted by our business activities, and our shareholders), and you agree to similarly conduct your business, consisting of: (a) not discriminating against historically-disadvantaged groups (including the LGBT community), (b) recognizing a woman's right to choose in decisions affecting her reproductive health and well-being, (c) protecting international human rights, (d) promoting sustainable environmental responsibility, (e) making of contributions to any candidate for any political office or offering payment to any official of, or candidate for, any federal, state, municipal, or foreign office or other person charged with similar public or quasi-public duty only in accordance with applicable law, including not engaging in the bribery of any domestic or foreign public official.
+9.22 NGP VAN Efforts. We shall, unless expressly stated otherwise, exercise commercially reasonable efforts in meeting our obligations under this Agreement and in providing the NGP VAN Materials, which shall mean undertaking ordinary and reasonable measures that a prudent person under similar circumstances desiring to achieve a particular result would use to achieve that result knowing that their exercise of such efforts does not guarantee achieving the particular result.
+however, our efforts do not require us to take every conceivable measure or to take any measures that sacrifice our own economic and business interests (e.g., incur substantial losses to perform, insolvency) or suffer any unreasonable and disproportionate detriment to our expected benefits under this Agreement.
+9.23 Late Charges.On any outstanding Fees, we may impose interest on the past due amount at the rate of 1.5% per month calculated daily and compounded monthly or, if lower, the highest rate permitted under applicable law and shall be entitled to recover from you all costs (including reasonable attorneys' fees) incurred by us in collecting any late payment or interest.
+9.24 Taxes.
+All Fees are exclusive of any taxes, levies, duties, or similar governmental assessments of any nature, including, for example, value-added, sales, use or withholding taxes, assessable by any jurisdiction whatsoever (collectively, "Taxes").
+You agree to pay any Taxes applicable to your use of the NGP VAN Materials and performance of Services.
+If NGP VAN has the legal obligation to pay or collect Taxes for which Customer is responsible under this Section, NGP VAN will invoice Customer and Customer will pay that amount unless Customer provides NGP VAN with a valid tax exemption certificate authorized by the appropriate taxing authority.
+9.25 Contract for Services.
+This Agreement is a contract for the provision of services and not a contract for the sale of goods.
+The provisions of the Uniform Commercial Code (UCC), the Uniform Computer Information Transaction Act (UCITA), or any substantially similar legislation as may be enacted, shall not apply to this Agreement.
+If you are located outside of the territory of the United States, the parties agree that the United Nations Convention on Contracts for the International Sale of Goods shall not govern this Agreement or the rights and obligations of the parties under this Agreement.
+9.26 Surviving Agreement and Statute of Limitations.
+Section 2.2, Section 3, and Section 4 through Section 9 of this Agreement shall survive the expiration or termination of this Agreement and, except for any claim arising directly or indirectly from Section 3 or Section 4 of this Agreement, a party must file a claim arising directly or indirectly from the remainder of this Agreement no later than two (2) years after the claim accrued.
+
+
+

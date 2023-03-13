@@ -1,0 +1,17 @@
+
+We do our best to protect everyone's privacy: we do not attempt to track people who visit our website, we strive to collect only the personal information we actually need, and we don't sell it to anyone. Cookies 
+
+The liberapay.com website only sets technical cookies which are required to authenticate the user or to perform a specific operation.
+These cookies are restricted to same-site requests, so we don't know who visits websites that contain Liberapay widgets.
+Visitors of the liberapay.com website can also receive cookies sent by Cloudflare.
+Please read âUnderstanding the Cloudflare Cookiesâ if you want to learn more about them.
+On some payment pages, extra cookies may be set by the payment processor.
+Please read these documents if you want more information: Stripe's cookie policy and PayPal's cookie policy. Social networks Liberapay currently has integrations with GitHub, Twitter, Mastodon, Google, GitLab, YouTube, Facebook, Twitch, OpenStreetMap, Bitbucket, LinuxFr.org, and Pleroma.
+When an account from one of those platforms is connected to a Liberapay profile, we retrieve and store some data from that platform, for example the unique identifier of the linked account.
+We only keep public information about the linked account, no private data.
+The primary purpose of these integrations is to confirm that a Liberapay account hasn't been created by an impostor attempting to profit from someone's else work.
+The second purpose is to help patrons find the Liberapay accounts of the creators they follow on other platforms. Payment processors The intermediaries involved in payment processing collect information for anti-fraud purposes, for example the name and IP address of the payer.
+Please read these documents if you want more information: Stripe's privacy policy and PayPal's privacy policy. Personal information leaks Liberapay does not tell creators who their patrons are.
+However, PayPal allows the recipient of a payment to see the name and email address of the payer, so donors who don't want to reveal themselves should not choose PayPal as the payment method.
+Similarly, PayPal allows a donor to see the name and email address of the recipient, and Stripe may expose the recipient's phone number, so creators who do not want to reveal their identities should not use these payment processors, unless they have carefully configured their accounts to only leak nonsensitive information (a business name instead of the creator's name, a dedicated email address and phone number instead of the creator's personal contact details). Encryption All network connections are encrypted, except for some communications between machines located in the same datacenter.
+As a precaution against identity theft in case of data leak, the identity information of Liberapay account owners is stored encrypted in our database.

@@ -1,0 +1,148 @@
+
+         Audacity Desktop App Privacy Notice 
+Last updated: 2 July 2021
+
+
+
+About this Notice
+
+This Privacy Notice (âNoticeâ) explains how we (as defined below) collect and use any information that, alone or in combination with other information, relates to you (âPersonal Dataâ) when you (âyouâ and âyourâ) use our desktop app Audacity (the âAppâ).
+We collect very limited Personal Data about you.
+This Notice also sets out the rights that you have in relation to the Personal Data that we process about you and how you can exercise them.
+Audacity treats compliance with its privacy obligations seriously.
+This is why we have developed this Notice, which describes the standards that Audacity applies to protect Personal Data.
+For the purposes of this Notice, WSM Group with registered office at Moskovsky pr-t,40-1301, Kaliningrad, Russia, 236004 (âAudacityâ, âusâ, âweâ, or âourâ) acts as the data controller for the Personal Data that is collected via the App and through the App.
+As a data controller, Audacity is responsible for ensuring that the processing of Personal Data complies with applicable data protection law, and specifically with the General Data Protection Regulation.
+Please take the time to read this Notice carefully.
+If you have any questions or comments, please contact us via privacy@AudacityTeam.org.
+
+
+
+What Personal Data does Audacity collect and why?
+
+The very limited types of Personal Data that we may collect about you, and the reasons why we process it, are as follows.
+As a general comment our App does not require you to create an account or profiles and we do not ask you to provide us with your name, contact details or any other direct identifiers.
+
+
+ Why we collect itPersonal Data we collectLegal grounds for processingâ¢ App analyticsâ¢ Improving our Appâ¢ OS versionâ¢ User country based on IP addressâ¢ OS name and versionâ¢ CPUâ¢ Non-fatal error codes and messages (i.e.
+project failed to open)â¢ Crash reports in Breakpad MiniDump formatâ¢ Legitimate interest of WSM Group to offer and ensure the proper functioning of the Appâ¢ For legal enforcementâ¢ Data necessary for law enforcement, litigation and authoritiesâ requests (if any)â¢ Legitimate interest of WSM Group to defend its legal rights and interests 
+
+Minors
+
+The App we provide is not intended for individuals below the age of 13.
+If you are under 13 years old, please do not use the App.
+
+
+
+Who does Audacity share your Personal Data with?
+
+We may disclose the Personal Data listed above (your hashed IP address) to the following categories of recipients:
+to our staff members.
+We take precautions to allow access to Personal Data only to those staff members who have a legitimate business need for access and with a contractual prohibition of using the Personal Data for any other purpose.
+to any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, or (ii) to exercise, establish or defend our legal rights;
+to our auditors, advisors, legal representatives and similar agents in connection with the advisory services they provide to us for legitimate business purposes and under contractual prohibition of using the Personal Data for any other purpose.
+to a potential buyer (and its agents and advisers) in connection with any proposed purchase, merger or acquisition of any part of our business, provided that we inform the buyer it must use your Personal Data only for the purposes disclosed in this Notice;
+to any other person if you have provided your prior consent to the disclosure.
+
+
+
+
+
+How we protect your privacy
+
+We will process Personal Data in accordance with this Notice, as follows:
+
+Fairness: We will process Personal Data fairly.
+This means that we are transparent about how we process Personal Data and that we will process it in accordance with applicable law.
+
+Lawfulness: We will process Personal Data only on lawful grounds.
+
+Purpose limitation: We will process Personal Data for specified and legitimate purposes, and will not process it in a manner that is incompatible with those purposes, unless permitted by applicable data protection laws.
+
+Data minimization: We will process Personal Data that is adequate, relevant and limited to what is necessary to achieve the purposes for which the data are processed.
+
+Data accuracy: We take appropriate measures to ensure that the Personal Data that we hold about you is accurate, complete and, where necessary, kept up to date.
+However, it is also your responsibility to ensure that your Personal Data is kept as accurate, complete and current as possible by informing us promptly of any changes or errors.
+You should notify us of any changes to the Personal Data that we hold about you.
+
+Data security: We use appropriate technical and organisational measures to protect the Personal Data that we collect and process about you.
+The measures we use are designed to provide a level of security appropriate to the risk of processing your Personal Data.
+Specific measures we use include to-date secure network architectures that contain firewalls and intrusion detection devices and backups.
+
+
+
+
+
+Data storage, retention and deletion
+
+The IP address will be stored in an identifiable way only for a calendar day.
+IP addresses are stored as a hash, the salt for which is changed daily.
+The salt is not stored on any database and cannot be retrieved after it has been changed.
+We store the hash for one year, after which, it is deleted.
+Other information we collect, such as OS version or CPU information is not identifiable.
+We may also store your Personal Data for the purpose of exercising, establishing or defending our legal rights in accordance with applicable laws.
+
+
+
+Data storage and transfers of data
+
+All your personal data is stored on our servers in the European Economic Area (EEA).
+However, we are occasionally required to share your personal data with our main office in Russia and our external counsel in the USA.
+We have put in place appropriate safeguards (which includes the European Commissionâs Standard Contractual Clauses) to ensure that whenever your Personal Data is transferred outside the EEA to countries that are not deemed adequate by the European Commission, your Personal Data receives an adequate level of protection in accordance with the GDPR.
+
+
+
+Your data protection rights
+
+You have the following data protection rights:
+If you wish to access, correct, update or request deletion of your Personal Data, you can do so at any time by contacting via privacy@AudacityTeam.org.
+In addition, in certain circumstances, as stipulated in the applicable data protection legislation, you can object to processing of your Personal Data, ask us to restrict processing of your Personal Data or request portability of your Personal Data.
+Again, you can exercise these rights by contacting us using the following contact details: privacy@AudacityTeam.org.
+If you have a complaint or concern about how we are processing your Personal Data then we will endeavour to address such concern(s).
+If you feel we have not sufficiently addressed your complaint or concern, you have the right to complain to a data protection authority about our collection and use of your Personal Data.
+For more information, please contact your local data protection authority.
+(Contact details for data protection authorities in the European Economic Area, Switzerland and certain non-European countries (including the US and Canada) are available here.)
+
+
+We respond to all requests we receive at via privacy@AudacityTeam.org from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+
+
+
+Linking to other websites
+
+The App may contain hyperlinks to websites owned and operated by third parties.
+These websites have their own privacy policies and we urge you to review them.
+They will govern the use of Personal Data you submit whilst visiting these websites.
+We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
+
+
+
+Updates to this Notice
+
+We may update this Notice from time to time in response to changing legal, technical or business developments.
+When we update our Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make.
+We will obtain your consent to any material Notice changes if and where this is required by applicable data protection laws.
+You can see when this Notice was last updated by checking the âlast updatedâ date displayed at the top of this Notice.
+
+
+
+How to contact us
+
+If you have any questions or comments, or if you wish to exercise your data protection rights, please contact us via privacy@AudacityTeam.org.
+
+
+
+Additional Information for California Consumers
+
+The California Consumer Privacy Act (âCCPAâ) provides California residents, referred to in the law as âconsumers,â with rights to receive certain disclosures regarding the collection, use, and sharing of personal information, as well as rights to access and control personal information.
+Certain information that we collect may be exempt from the CCPA because it is considered public information (because it is made available by a government entity) or covered by another federal privacy law, such as the Gramm-Leach-Bliley Act, the Health Insurance Portability and Accountability Act, or the Fair Credit Reporting Act.
+To the extent that we collect personal information about you that is subject to the CCPA, that information, our practices, and your rights are described below.
+
+Right to information regarding the categories of personal information collected, sold, and disclosed: You have the right to obtain information regarding the categories of personal information we collect, sell, or disclose.
+That information is provided in this Privacy Policy.
+We collect the categories of information described above.
+The categories that we use to describe the information are those enumerated in the CCPA.
+We do not sell personal information.
+
+
+

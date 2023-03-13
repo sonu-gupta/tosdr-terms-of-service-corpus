@@ -1,0 +1,237 @@
+
+        Cookie PolicyWe would like to analyse your behavior, are we allowed to track your actions using cookies? Learn moreNo, don'tYes go ahead Coflnet 
+
+
+
+
+
+Sign in
+
+ Privacy Policy
+Our privacy policy outlines what kind of information we collect from you and how we will use it.
+
+
+
+ Coflnet
+Privacy Policy
+
+Privacy Policy
+The protection and safety of your personal data has a high priority with us.
+That is why we (Coflnet) strictly stick to the rules of the German Federal Data Protection Act.
+Below, you (the user) will be informed about which data is collected and for what purpose they are levied.
+1.
+Data transmission /Data logging
+When visiting this page, the webserver automatically notes log files that cannot be assigned to a specific person.
+These files include e.g.
+the browser type and version, the operating system used, the referrer URL (previously visited page), IP address of the requesting computer, access date and time, and the file request of the client (file name and URL).
+These data are collected only for the purpose of static analysis.
+A transfer to third parties, for commercial or non-commercial purposes, does not take place.
+2.
+Personal data we collect
+To ensure the proper functioning of our services, we process personal data about you.
+You have the right to request, modify and delete them at any time.
+Data we collect:.
+Data you tell us.
+This includes essentially everything you type with your keyboard.
+Such as your civil name, your username, your email address, your age or date of birth, reviews, messages, gender, links to your profiles on independent websites, phone number as well as address.
+
+
+Data of your device.
+This includes The location of your device, your device model, your operating system, your device settings including plugins, your IP address, your battery charge level, whether your internet connection is via wifi or mobile data, and unique device IDs.
+
+Your Actions.
+This includes a label, time, location and possibly duration.
+Actions include app launch, completing a level, or ratings.
+
+Third Party Data.
+Advertisers, app developers, and publishers may provide us with data about you through the services we provide.
+This includes your games played, websites viewed, and actions in them.
+
+
+How we use personal data
+To ensure the proper functioning of our services, we process personal data about you.
+You have the right to request, change and delete them at any time.
+You can also configure which data we are allowed to collect.
+Please note, however, that some functions will then no longer be available.
+How we use your data:
+
+
+
+Personalized content and advertising.
+If enabled in the settings, we use your data to create an interest profile of you and use this to show you more interesting and relevant content and advertising.
+For example, if you like to play trivia games, we will show you more trivia games.
+
+Syncronization.
+We allow you to synchronize your information on multiple devices, so you can, for example, synchronize your game progress on multiple devices.
+
+Product Development.
+We use your information to improve our products and develop new products.
+
+Communication with you.
+We use your information to contact you or respond to your inquiries.
+
+Communication with others.
+We use your information to enable you to connect with and maintain connections with other individuals and businesses.
+
+Services to Third Parties.
+We offer other companies to use our infrastructure.
+
+
+Analysis.
+We provide anonymized and aggregated statistics to help app developers and publishers and advertisers understand how their products and ads are being received.
+For example, we tell them the number of actions by country, age, and gender that were achieved in a given time period of at least one hour.
+Advertisers can also see which interests triggered the ad.
+
+Syncronization.
+We also provide our synchronization service to third parties.
+
+Sharing Your Personal Information.
+We allow you to share your data with third parties, we will ask you again for each partner if you want to share certain data with them.
+You can restrict access to all data except for your user-id.
+It may be that if one of your friends gives a partner access to their friends list, your user ID or install ID will also be transmitted.
+Based on your privacy settings it is then possible to load your name and profile picture.
+
+
+
+Protection.
+We use your data to fight and prevent harmful behavior, spam and fraud also in partner services.
+For example, we detect patterns of robots (bots) that want to abuse our services.
+
+Legal Requirements.
+We may be required by law or court order to disclose your information to a public authority.
+If this is the case, we will do so after detailed examination.
+
+
+3.
+Information, modification and deletion of your data
+In accordance with applicable law, you can always ask us in writing whether and which personal data we have stored about you.
+A corresponding message will be sent to you as soon as possible.
+You also have the right to have your data corrected or deleted.
+Your data will be deleted from our system at the latest after one year of inactivity.
+4.
+Security of your data
+Your personal data made available to us will be secured by taking all technical (eg encryption) and organizational security measures so that they are inaccessible to unauthorized third party access.
+5.
+Notes about Analytics
+We use an analysis system called 'matomo' to better understand user behavior.
+Among other things, this saves your screen resolution, operating system type &amp.
+version, IP address and associated location,
+use browser as well as time and type of your actions.
+This automatically generated information is stored by us on a server in Germany.
+Furthermore, if you visit our website, a cookie will be set to determine if the visit is your first visit.
+We use this information to evaluate the usage of our services, compile reports on user activity and provide other services.
+You can prevent the installation of cookies by setting your browser software accordingly.
+however, we point out that in this case you may not be able to fully use all the functions of our services.
+By using our services, you agree to the processing of the data collected about you in the manner described above and for the purpose stated above.
+6.
+Cookies
+On some of our sites we use so-called "cookies" to help you to use our web pages.
+These are small text files that are stored on your hard drive, depending on the setting of your browser program.
+These cookies do not retrieve information stored on your hard drive about you and do not affect your PC or its files.
+Most browsers are set to automatically accept cookies.
+However, you can deactivate the storage of cookies or set your browser to inform you about the sending of cookies.
+7.
+Third partys
+We use third party services within some of our services, you usualy get to choose if you want to share your data with them to get extra features.
+Please refer to the linked privacy policies below to get more details on how and what data is collected and processed by them bellow.
+Third partys that we use:
+
+matomo
+Google
+Appodeal
+Unity ads
+Firebase
+Cloudflare
+
+8.
+Changes to this privacy policy
+We will update these policies to protect your personal information from time to time.
+You should occasionally review these guidelines to stay up to date on how we protect your information and continually improve the content of our services.
+If we make material changes to the collection, use and / or disclosure of the personal information you provide to us, we will notify you through a clear and visible reference to the Site.
+By using our services, you agree to the terms of these privacy policies.
+Serverprotokolle
+Serverprotokolle sind Textdateien in die unser Server fast jede Anfrage an Ihn aufzeichnet.
+Wir nutzen diese Daten um bÃ¶swillige Nutzer von unserem Service auszuschlieÃen und um Dienstleistungen abzurechnen.
+Ein typischer Log Eintrag sieht z.B.
+so aus: 123.456.18.789 - - [31/May/2018:18:41:56 +0100] "GET /login" 200 "-" "Mozilla/5.0 (Android 6.0.1.
+Venus_V3_5070 Build/L320M.
+wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36"
+wobei
+
+
+123.456.18.789 die IP-Adresse,
+
+[31/May/2018:18:41:56 +0100] Das Dutum und Zeit,
+
+200 das die Anfrage erfolgreich war,
+
+Android 6.0.1 das Betriebsystem und Chrome/63.0.3239.111 der verwendete Browser darstellen.
+
+Installation ID (Identifikationsnumber)
+An unique nuber which identifies your installation.
+Most of our services need this number to function.
+We may connect other types of data with it, for example an Nutzernamen, a Coflnet or external Account, what app it is using, game results and other installations (friends).
+IP Adress
+Eine eindeuige Nummer die Ihnen von Ihrem Provider zugeordnet wurde und an die unser Server Daten schickt.
+User name
+Ein von Ihnen frei gewÃ¤hlter Spitzname mit dem Sie angesprochen werden mÃ¶chten.
+Locaition
+The location, usually on earth, that you are currently at.
+Eg.'48.1298861,11.5833535,21' (Deutsches Museum in Munic) or sometimes just Munic.
+Device
+Ein GerÃ¤t ist ein Computer/Elektronisches Bauteil, dass auf einen unserer Dienste zugreifen kann.
+
+Datum und Zeit
+Ihre lokale Zeit/ Zeit Ihrers GerÃ¤tes mit Zeitzone oder auch die Zeit unseres Servers.
+Actions
+Actions are anything you do.
+For example, visiting our website or clicking a button.
+Externe Identifikationsnummern
+Externe Identifikationsnummern sind Nummern durch die Sie von anderen Diensten identifiziert werden.
+Wir nutzen diese ebenfalls um feststellen zu kÃ¶nnen wer Sie sind.
+GerÃ¤teinformation
+GerÃ¤teinformation beinhaltet, Ihr GerÃ¤temodell, Hersteller, BildschirmauflÃ¶sung sowie Sensor verfÃ¼gbarkeit wie z.B.
+Kompass.
+VerschlÃ¼sselte Nachrichten
+VerschlÃ¼sselte Nachrichten kÃ¶nnen alle mÃ¶glichen Informationen beinhalten, weder wir noch Dritte sind in der Lage diese zu lesen oder zu verÃ¤ndern ohne die nÃ¶tigen SchlÃ¼ssel dazu zu haben.
+Sie ermÃ¶glichen Ihnen z.B.
+ihren Chat verlauf komplett privat zu halten.
+Nutzer ID (Identifikationsnummer)
+Die Nutzer ID ist eine eindeutige Nummer die Ihren Account identifiziert, sie ermÃ¶glicht es uns und anderen Sie zu wiedererkennen um Zugriffsrechte, Einstellungen, personenbezogene Daten und Werbung zu verwalten.
+EmpfÃ¤nger
+Wir speichern die Installations ID an die Sie eine Nachricht senden wollen, um die Nachricht zustellen zu kÃ¶nnen.
+LÃ¶schungszeitpunkt
+Wir ermÃ¶glichen Ihnen fÃ¼r viele Ihrer Daten einen LÃ¶schunszeitpunkt anzugeben.
+Wenn dieser Zeipunkt erreicht ist wird das Datenobjekt binnen 48 Stunden aus unserem System entfernt.
+Fortschritt
+Ihr Spielfortschritt kann fÃ¼r jede User gespeichert werden, eventuell mit Ihrem Nutzeraccount verbunden, und ab da an auf alle Nutzer der gleichen App die ebenfalls mit dem Account verbunden sind Ã¼bertragen werden.
+Er beinhaltet z.B.
+bei welchem Level Sie gerade sind.
+Freundesliste
+Die Freundesliste ist eine Liste in der die Installations ID oder Nutzer ID Ihrer Freunde gespeichert werden.
+Ergebnis
+Ihr Ergebnis (Score) ist ein Wert der Beschreibt wie erfolgreich Sie waren, er kann sich durch Punkte, Zeit, Interactionen etc.
+zusammensetzen.
+Profilbild
+Ihr Profilbild ist ein von Ihnen ausgewÃ¤hltes Bild, dass Sie darstellt und mit dem Sie angezeigt werden um es anderen leichter zu machen Sie zu identifizieren.
+Datenpakete
+Datenpakete sind normalerweise Textdateien die wir zu und von unserem Server versenden, die Ãbertragung findet in der Regel verschlÃ¼sselt statt.
+Akku-Ladung
+Die Akku-Ladung beschreibt den Ladezustand Ihres GerÃ¤tes falls dieses eine Batterie besitzt.
+Interagierte Werbung
+Beinhaltet Anzeigen mit denen Sie interagiert haben.
+Nachrichten
+Nachrichten sind Text StÃ¼cke, die Sie verfasst haben und an uns senden.
+Wir kÃ¶nnnen sie verarbeiten, weiterleiten und speichern.
+Bewertung
+Bewertungen sind von Ihnen verfasste Meinungsmitteilungen die objektiv Ihre Meinung wiederspiegeln.
+Sie kÃ¶nnen durch Text, Daumen hoch/runter oder ein andere Bewertungsform dargestellt werden.
+Sie sind in der Regel Ã¶ffentlich verfÃ¼gbar und dienen in erster linie der Meinungsbildung anderer.
+Umfragen
+Umfragen sind eine Reihe von Fragen, die wir Ihnen Stellen um Ihre Meinung zu bestimmten Themen zu erhalten, und Ihre Antworten, um damit bessere Entscheidungen treffen zu kÃ¶nnen.
+Falls Sie Personalisierte Werbung aktiviert haben kÃ¶nnen wir auÃerdem Ihre Antworten mit Ihrem Profil verknÃ¼pfen um die relevanz der Anzeigen zu verbessern.
+Wir kÃ¶nnen auch von Dritten beauftragt werden Umfragen durchzufÃ¼hren, wir werden Ihre Antworten dann anonymisiert weitergeben. Impressum Â·
+Terms and Conditions Â·
+Privacy Policy Â© Coflnet, 2022.
+
+      

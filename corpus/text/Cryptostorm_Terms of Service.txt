@@ -1,0 +1,64 @@
+
+         Toggle navigation cryptostorm 
+who
+privacy
+security
+benefits
+join
+connect
+contact
+
+
+sitemap
+
+Terms of Service
+
+
+Cryptostorm has a long history of pushing past the assumed limits of the possible &amp.
+providing previously-unavailable levels of privacy protection to our customers.Our Terms of Service (ToS) are no exception.
+
+
+First, as a precursor of sorts, we established the cryptostorm network to assist people throughout the world in a mature effort to protect individual freedom while on the Internet.
+You may also label us a network transport provider: this means we pass encrypted packets back and forth, PERIOD.
+The company does not host content, serve resources, or log anything you are doing - none of that is our business.
+In fact, as part of our business model we have stood tall and reached out to dissidents in places such as Iran, Tibet, and Cuba (just to name a few), providing free accounts to those trying to get honest current information out to friends, family, and people on the 'net as a whole.
+We believe these efforts - while not directly profitable to us economically - provide a more than worthwhile return both to the global community, and to the betterment of the Internet.
+
+Second, we ask that you don't do anything blatantly dumb while using our service.
+Please do not send massive volumes of spam through our network.
+It adds to our workload, and it just ends up getting our IP's blocked from big chunks of IP-space (which means your spam won't arrive anyway).
+Our network is also not a place to 'hack' from (related: nor are we a good transit path through which to route your DDoS attacks, not even c&c).
+If you don't know why that's true - and you don't already know how to cover your ass without using a commercial VPN service - then you'd best reconsider what you're doing, because you are in way over your head.
+Our $0.02.
+We won't betray you if you do, but there's smarter ways to cover your tracks doing such things.
+Point being: if you don't already know that, then you shouldn't be hacking or DDoSing anyway.
+Crawl, walk, run...
+that sort of thing.
+
+Third, we request that you not push any sort of child porn or underage sexual content through our network.
+The company has always been opposed to it.
+We're honest and forthright, and we ask that you respect that.
+We don't packet sniff, log anything at all, or have an 'Abuse Team' (as many of our self-styled "competitors" do, whether they admit it or not) - but we do have a crack staff that will do anything within their power (outside of compromising our company stance on customer privacy) to put a stop to CP pushing across our network.
+Same goes for terrorist-related activities.
+Don't, seriously.
+We're not designed to protect either of those areas of activity - CP or terrorism - and we don't expect to be asked to.
+Yes, there's plenty of grey areas in those definitions.
+we get that.
+But if you're well beyond the grey and you're doing really bad shit, don't use us.
+We're not morality police and we're not here to enforce the world's laws (nor are we legally obligated to do so - we're not cops and have no desire to be such), but we're also not running this network so you can sell CP or plan to kill people (or other beings).
+Protip: use Tor.
+Actually, just don't do either of those things, and the world will be a better place.
+Again, our $0.02.
+
+
+In conclusion, a valid network access token gains you access to cryptostorm.
+As a result of our token-based authentication model, there's structurally no way we can "shut off" an individual customer (even if we wanted to, which we don't).
+As a packet-routing service, we're in the business of (securely) routing authenticated packets - not in "managing customers".Irrespective of that, we receive hundreds of DMCA letters a week - and respond to them individually with a (mostly) polite explanation of our operational model, cryptographic framerwork, and member-agnostic authentication topology.
+Most of these letters come from spambots run by shady copytrolls: these spam operations are illegal in numerous global jurisdictions, although of course LEO doesn't prosecute them since they often have strong political connections (rule of law, eh?).
+We've been explaining the reality of things to spambot copytrolls for more than half a decade, but the "demand letters" for us to "takedown" content we neither host nor control keep on comin'...
+lol.
+No matter.
+our network members have never had to deal with a single one of these DMCA harassment letters...
+and they never will.
+
+

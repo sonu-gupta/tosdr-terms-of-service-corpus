@@ -1,0 +1,200 @@
+
+What are cookies?
+A cookie is a small amount of information thatâs downloaded to your
+computer or device when you visit certain websites.
+We use a number of
+different cookies on the Shopify website, including strictly necessary,
+performance, advertising, and social media or content cookies.
+Cookies
+make your browsing experience better by allowing the website to remember
+your actions and preferences (such as login and region selection).
+This
+means you donât have to re-enter this information each time you return
+to the site or browse from one page to another.
+Cookies also provide
+information on how people use the website, for instance whether itâs
+their first time visiting or if they are a frequent visitor.
+Read more
+about cookies (and other similar tracking technologies) and how we use
+the data collected through these technologies, in our Privacy Policy.
+What cookies do we use and why?
+Some cookies are necessary to allow you to browse our website, use its
+features, and access secure areas.
+The use of these cookies is essential
+for the website to work.
+For example, we use user-input cookies for the
+duration of a session to keep track of a userâs input when filling in
+forms that span several pages.
+We also use functional cookies to remember choices youâve made or
+information youâve provided, such as your username, language, or the
+region you are in.
+This allows us to tailor your website experience
+specifically to your preferences.
+For example, authentication cookies
+are functional cookies that are used for the duration of a session (or
+persistent, if you agree to the âremember meâ function) to allow users
+to authenticate themselves on subsequent visits or to gain access to
+authorized content across pages.
+The functional cookies we use include:
+
+
+User-centric security cookies to detect authentication abuses for a limited
+persistent duration, like repeated failed login attempts.
+These cookies are
+set for the specific task of increasing thesecurity of the service.
+
+
+Multimedia content player session cookies (flash cookies) are used
+for the duration of a session to store technical data needed to play
+back video or audio content (e.g.
+image quality, network link speed,
+and buffering parameters).
+
+
+Load balancing session cookies are used for the duration of the
+session to identify the same server in the pool in order for the
+load balancer to redirect user requests appropriately.
+
+
+User interface customization persistent cookies are used to store a
+userâs preference regarding a service across web pages.
+
+
+Shopify is dedicated to user experience and we use many tools to help us
+improve our website and our commerce platform.
+To this end, we use
+reporting and analytics cookies to collect information about how you use
+our website or our merchantsâ storefronts, and how often.
+These cookies
+only gather information for statistical purposes and only use
+pseudonymous cookie identifiers that do not directly identify you.
+The
+performance cookies we use include:
+
+
+First party analytics cookies - We use these cookies to estimate the
+number of unique visitors, to improve our websites and our
+merchantsâ websites, and to detect the most searched for words in
+search engines that lead to a webpage.
+These cookies are not used to
+target you with online marketing.
+We use these cookies to learn how
+our websites and our merchantsâ websites are performing and make
+relevant improvements to improve your browsing experience.
+
+
+Third party analytics cookies - We also use Google Analytics and
+other third-party analytics providers listed below to help measure
+how users interact with our website content.
+These cookies
+ârememberâ what our users have done on previous pages and how
+theyâve interacted with the website.
+For more information on Google
+Analytics, visit Googleâs information
+page.
+For instructions on how opt out of Google Analytics, see below.
+
+
+Advertising cookies are used on our website to tailor marketing to you
+and your interests and provide you with a more personalized service in
+the future.
+These cookies remember that you visited our website and we
+may share this information with third-parties, such as advertisers.
+Although these cookies can track your deviceâs visits to our website and
+other sites, they typically cannot personally identify you.
+Without
+these cookies, the advertisements that you see may be less relevant and
+interesting to you.
+Read more about how companies use cookies to conduct
+targeted or retargeted advertising here.
+We do
+not set advertising cookies through our merchantsâ storefronts
+ourselves, though merchants may choose to do so independently.
+Finally, Social and Content cookies are placed by many social media
+plugins (for example the Facebook âlikeâ button), and other tools meant
+to provide or improve the content on a website (for example services
+that allow the playing of video files, or that create comments
+sections).
+We integrate these modules into our platform to improve the
+experience of browsing and interacting with our websites.
+Please note
+that some of these third party services place cookies that are also used
+for things like behavioural advertising, analytics, and/or market
+research.
+Merchant storefronts
+When merchants use our platform to power their online stores, we place
+the following cookies for visitors of their stores:
+
+Cookies Necessary for the Functioning of the Store: NameFunction_abUsed in connection with access to admin._secure_session_idUsed in connection with navigation through a storefront.CartUsed in connection with shopping cart.cart_currencyUsed in connection with shopping cart.cart_sigUsed in connection with checkout.cart_tsUsed in connection with checkout.cart_verUsed in connection with shopping cart.checkoutUsed in connection with checkout.checkout_tokenUsed in connection with checkout.cookietestUsed in connection with navigation through a storefront.master_device_idUsed in connection with merchant login.previous_checkout_tokenUsed in connection with checkout.dynamic_checkout_shown_on_cartUsed in connection with checkout.previous_stepUsed in connection with checkout.remember_meUsed in connection with checkout.Secure_customer_sigUsed in connection with customer login.storefront_digestUsed in connection with customer login._shopify_countryUsed in connection with checkout._shopify_mUsed for managing customer privacy settings._shopify_tmUsed for managing customer privacy settings._shopify_twUsed for managing customer privacy settings._storefront_uUsed to facilitate updating customer account information._tracking_consentTracking preferences.tracked_start_checkoutUsed in connection with checkout.keep_aliveUsed in connection with buyer localization.
+
+Reporting and Analytics
+ NameFunction_landing_pageTrack landing pages._orig_referrerTrack landing pages._sShopify analytics._shopify_dShopify analytics._shopify_fsShopify analytics._shopify_sShopify analytics._shopify_sa_pShopify analytics relating to marketing &amp.
+referrals._shopify_sa_tShopify analytics relating to marketing &amp.
+referrals._shopify_yShopify analytics._yShopify analytics.
+Shopifyâs websites
+When visitors load Shopifyâs websites, we generally place the following
+Shopify cookies:
+
+Cookies Necessary for the Functioning of the Sites
+ NameFunction_Brochure_sessionUsed in connection with browsing through site.
+
+Reporting and Analytics
+ NameFunction_landing_pageTracks landing pages._orig_referrerTracks landing pages._sShopify analytics._shopify_fsShopify analytics._shopify_sShopify analytics._shopify_sa_tShopify analytics relating to marketing &amp.
+referrals._shopify_uniqShopify analytics._shopify_yShopify analytics._yShopify analytics.ab_test_*Shopify analytics.cart_sigShopify analytics.ki_rShopify analytics.ki_tShopify analytics.*_assignmentShopify analytics.
+Additionally, we use pixels and tags from the following third parties,
+which may in turn place cookies:
+
+Cookies Necessary for the Functioning of the Sites
+ Third PartyDescriptionPrivacy PolicyCloudflareShopify uses Cloudflare Network as a Service for edge routing.https://www.cloudflare.com/privacypolicy/ 
+Reporting &amp.
+Analytics
+ Third PartyDescriptionPrivacy PolicyAlexa MetricsWe use Alexa Metrics to help measure how users interact with our websites.</td>https://www.alexa.com/help/privacyBizibleWe use Bizible to help measure how users interact with our websites.https://documents.marketo.com/legal/privacy/BugsnagWe use Bugsnag to help us troubleshoot and fix issues with our websites.https://docs.bugsnag.com/legal/privacy-policy/ChartbeatWe use Chartbeat to help measure how users interact with our websites.https://chartbeat.com/privacy/Crazy EggWe use Crazy Egg to help measure how users interact with our websites.https://www.crazyegg.com/privacyDC AnalyticsWe use DC Analytics to help measure how users interact with our websites.https://dcanalytics.dcmn.com/privacy-policyFacebook PixelWe use Facebook Pixel to help measure how users interact with our websites.https://www.facebook.com/privacy/explanationFullstoryWe use Fullstory to help measure how users interact with our websites.https://www.fullstory.com/legal/privacy/Google AnalyticsWe use Google Analytics to help measure how users interact with our websites.https://policies.google.com/privacyGoogle Tag ManagerWe use Google Tag Manager to help manage analytics vendors.https://policies.google.com/privacyHotjarWe use Hotjar to help measure how users interact with our websites.https://www.hotjar.com/legal/policies/privacyKissInsightsWe use KissInsights to help measure how users interact with our websites.https://signin.kissmetrics.com/privacy/LinkedIn Insight TagWe use LinkedIn Insight Tag to help measure how users interact with our websites.https://www.linkedin.com/legal/privacy-policyNew RelicWe use New Relic to help measure how users interact with our websites.https://newrelic.com/termsandconditions/privacyOptimizelyWe use Optimizely to help us test improvements or changes to our websites.https://www.optimizely.com/privacy/Pinterest AnalyticsWe use Pinterest Analytics to help measure how users interact with our websites.https://policy.pinterest.com/privacy-policySegmentWe use Segment to help measure how users interact with our websites.https://segment.com/legal/privacy/SnapchatWe use Snapchat to help measure how users interact with our websites.https://snap.com/privacy/privacy-policySpeedcurve LuxWe use Speedcurve Lux to help measure how users interact with our websites.https://speedcurve.com/terms/TaboolaWe use Taboola to help measure how users interact with our websites.https://www.taboola.com/policies/privacy-policyTealiumWe use Tealium to help manage analytics vendors.https://tealium.com/privacy/TikTokWe use TikTok to help measure how users interact with our websites.https://www.tiktok.com/legal/privacy-policy?lang=enTwitterWe use Twitter to help measure how users interact with our websites.https://twitter.com/en/privacy 
+Advertising
+ Third PartyDescriptionPrivacy PolicyMicrosoft AdvertisingWe use Microsoft Advertising to deliver targeted advertisements to individuals who visit our websites.https://privacy.microsoft.com/en-ca/privacystatementDriftWe use Drift to help us with conversational marketing to customers while they visit our websites.https://www.drift.com/privacy-policy/Facebook Custom AudiencesWe use Facebook Custom Audiences to deliver targeted advertisements to individuals who visit our websites.https://www.facebook.com/policy.phpGoogleWe use Google Ads to deliver targeted advertisements to individuals who visit our websites.https://policies.google.com/privacyIntercomWe use Intercom to manage our relationships with our customers.https://www.intercom.com/terms-and-policies#privacyMarketoWe use Marketo to manage our relationships with our customers.https://documents.marketo.com/legal/privacy/RedditWe use Reddit Ads to deliver targeted advertisements to individuals who visit our websites.https://www.reddit.com/help/privacypolicySourceKnowledgeWe use SourceKnowledge to deliver targeted advertisements to individuals who visit our websites.http://www.sourceknowledge.com/privacyOutbrainWe use Outbrain to deliver targeted advertisements to individuals who visit our websites.https://www.outbrain.com/legal/privacy#privacy-policyQuoraWe use Quora to deliver targeted advertisements to individuals who visit our websites.https://www.quora.com/about/privacyYahoo Japan AdsWe use Yahoo Japan Ads to deliver targeted advertisements to individuals who visit our websites.https://about.yahoo.co.jp/common/terms/ 
+Social Media &amp.
+Content
+ Third PartyDescriptionPrivacy PolicyDisqusWe use Disqus to provide commenting capabilities on posts on our websites.https://help.disqus.com/terms-and-policies/disqus-privacy-policyFacebook ConnectWe use Facebook Connect to allow visitors to our website to interact with and share content via Facebookâs social media platform.https://www.facebook.com/policy.phpGravatarWe use Gravatar to allow visitors to our websites to create avatars.https://en.gravatar.com/site/privacyTwitterWe use Twitter to allow visitors to our website to interact with and share content via Twitterâs social media platform.https://twitter.com/en/privacyWistiaWe use Wistia to display video content.https://wistia.com/privacy Oberlo websites
+When visitors load Oberloâs websites, we generally place the following
+Oberlo cookies:
+
+Cookies Necessary for the Functioning of the Sites
+ NameFunctionoberlo_sessionUsed in connection with navigation through an app.shippingCountryUsed in connection with navigation through an app.
+For product exploration, calculating shipping price.user_localeUsed in connection with customer login.
+For storing language chosen in log-in page.hideFufilmentBannerUsed in connection with navigation through an app.hideBulkOrderingFeatureBannerUsed in connection with navigation through an app.hideChangePlanBannerBulkFulfillmentUsed in connection with navigation through an app.hideBanner101Used in connection with navigation through an app.alert_setup_notifications_1Used in connection with navigation through an app.
+
+Reporting and Analytics
+ NameFunctionconversionOberlo analytics.conversion_leaveOberlo analytics.trackExtensionCheckOberlo analytics.shopify_refAnalytics relating to marketing &amp.
+referrals.
+Referrals tracking.
+Additionally, we use pixels and tags from the following third parties,
+which may in turn place cookies:
+Reporting &amp.
+Analytics: Third PartyDescriptionPrivacy PolicyLogglyWe use Loggly to help us troubleshoot and fix issues with our websites.https://www.loggly.com/about/privacy-policy/Exact TargetWe use Exact Target (Salesforce) to measure how people interact with our website.https://www.salesforce.com/company/privacy/SleeknoteWe use Sleeknote to measure how people interact with our website.https://sleeknote.com/privacy-policyInspectletWe use Inspectlet to help measure how users interact with our websites.https://www.inspectlet.com/terms-of-serviceGoogle AnalyticsWe use Google Analytics to help measure how users interact with our websites.https://policies.google.com/privacyFullstoryWe use Fullstory to help measure how users interact with our websites.https://www.fullstory.com/legal/privacy/KissInsightsWe use KissInsights to help measure how users interact with our websites.https://signin.kissmetrics.com/privacy/OptimizelyWe use Optimizely to help us test improvements or changes to our websites.https://www.optimizely.com/privacy/BugsnagWe use Bugsnag to help us troubleshoot and fix issues with our websites.https://docs.bugsnag.com/legal/privacy-policy/LinkedIn Insight TagWe use LinkedIn Insight Tag to help measure how users interact with our websites.https://www.linkedin.com/legal/privacy-policyTapfiliateWe use Tapfiliate to help measure how users interact with our websites.https://tapfiliate.com/privacy/privacy-policy/ Advertising: Third PartyDescriptionPrivacy PolicyBing AdsWe use Bing Ads to deliver targeted advertisements to individuals who visit our websites.https://privacy.microsoft.com/en-ca/privacystatementFacebook Custom AudiencesWe use Facebook Custom Audiences to deliver targeted advertisements to individuals who visit our websites.https://www.facebook.com/policy.phpGoogleWe use Google Ads to deliver targeted advertisements to individuals who visit our websites.https://policies.google.com/privacyIntercomWe use Intercom to manage our relationships with our customers.https://www.intercom.com/terms-and-policies#privacy Social Media &amp.
+Content: Third PartyDescriptionPrivacy PolicyDisqusWe use Disqus to provide commenting capabilities on posts on our websites.https://help.disqus.com/terms-and-policies/disqus-privacy-policyFacebook ConnectWe use Facebook Connect to allow visitors to our website to interact with and share content via Facebookâs social media platform.https://www.facebook.com/policy.phpGravatarWe use Gravatar to allow visitors to our websites to create avatars.https://en.gravatar.com/site/privacyYouTubeWe use Youtube to display video content.https://policies.google.com/privacy?hl=en-USWistiaWe use Wistia to display video content.https://wistia.com/privacyAddThisWe use AddThis to display social share capabilities on the website.https://www.addthis.com/privacy/terms-of-service/TwitterWe use Twitter to allow visitors to our website to interact with and share content via Twitterâs social media platform.https://twitter.com/en/privacyKajabiWe use Kajabi to serve Oberlo 101 course material.https://kajabi.com/policies/privacy/ How long will cookies remain on my computer or mobile device?
+The length of time that a cookie remains on your computer or mobile
+device depends on whether it is a âpersistentâ or âsessionâ cookie.
+Session cookies last until you stop browsing and persistent cookies last
+until they expire or are deleted.
+Most of the cookies we use are
+persistent and will expire between 30 minutes and two years from the
+date they are downloaded to your device.
+See the section below on how to
+control cookies for more information on removing them before they
+expire.
+How to control cookies?
+You can control and manage cookies in various ways.
+Please keep in mind
+that removing or blocking cookies can negatively impact your user
+experience and parts of our website may no longer be fully accessible.
+Most browsers automatically accept cookies, but you can choose whether
+or not to accept cookies through your browser controls, often found in
+your browserâs âToolsâ or âPreferencesâ menu.
+For more information on
+how to modify your browser settings or how to block, manage or filter
+cookies can be found in your browserâs help file or through such sites
+as: www.allaboutcookies.org.
+Many of the third party advertising and other tracking services listed
+above offer you the opportunity to opt out of their tracking systems.
+You can read more about the information they collect and how to opt out
+through the privacy policy links listed above.
+Last updated: March 24, 2021

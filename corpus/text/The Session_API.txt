@@ -1,0 +1,95 @@
+
+         menu Log in
+or
+Sign up The Session API
+The Session has a read-only API.
+Information that is available through the website as HTML is also available in other formats.
+To request a URL in another format, add ?format= to the URL with one of the these formats specified: Formats JSON
+?format=json XML
+?format=xml RSS
+?format=rss Endpoints The following lists are available in multiple formats e.g. /tunes/new?format=json or /recordings/search?q=altan&format=rss
+By default, 10 items will be returned in a list.
+You can request up to 50 items by appending &perpage= e.g. /tunes/new?format=json&perpage=35
+If you request an individual item, e.g. /tunes/27?format=xml, you will get back the details for that item and any comments that have been posted to it. Tunes New tune settings
+/tunes/new Popular tunes
+/tunes/popular Recordings of tunes
+/tunes/recordings Sets of tunes
+/tunes/sets Tune search results
+/tunes/search?q=searchterm Individual tune
+/tunes/ID Comments on tunes
+/tunes/comments Recordings New recordings
+/recordings/new Recordings search results
+/recordings/search?q=searchterm Individual recording
+/recordings/ID Comments on recordings
+/recordings/comments Trips Upcoming trips
+/trips/upcoming New trips
+/trips/new Trips search results
+/trips/search?q=searchterm Nearby trips
+/trips/nearby?latlon=latitude,longitude&radius=75 Individual trip
+/trips/ID Comments on trips
+/trips/comments Sessions New sessions
+/sessions/new Sessions search results
+/sessions/search?q=searchterm Nearby sessions
+/sessions/nearby?latlon=latitude,longitude&radius=75 Individual session
+/sessions/ID Comments on sessions
+/sessions/comments Events Upcoming events
+/events/upcoming New events
+/events/new Events search results
+/events/search?q=searchterm Nearby events
+/events/nearby?latlon=latitude,longitude&radius=75 Individual event
+/events/ID Comments on events
+/events/comments Discussions New discussions
+/discussions/new Discussions search results
+/discussions/search?q=searchterm Individual discussion
+/discussions/ID Comments on discussions
+/discussions/comments Member contributions Tune settings
+/members/ID/tunes Recordings
+/members/ID/recordings Trips
+/members/ID/trips Sessions
+/members/ID/sessions Events
+/members/ID/events Discussions
+/members/ID/discussions Sets of tunes
+/members/ID/sets Activity Streams There are a number of activity streams published on The Session to the Activity Streams JSON specification.
+You can access the activity streams by appending ?format=json to these endpoints (paginate with &page=2, &page=3, etc.: The Session
+/activity Tunes
+/tunes/activity Recordings
+/recordings/activity Trips
+/trips/activity Sessions
+/sessions/activity Events
+/events/activity Discussions
+/discussions/activity Activity streams are also available for individual items: Individual tune
+/tunes/ID/activity Individual recording
+/recordings/ID/activity Individual trip
+/trips/ID/activity Individual session
+/sessions/ID/activity Individual event
+/events/ID/activity Individual discussion
+/discussions/ID/activity Individual member
+/members/ID/activity There are also individual activity streams for member notifications: Tunes
+/members/ID/notifications/tunes Recordings
+/members/ID/notifications/recordings Trips
+/members/ID/notifications/trips Sessions
+/members/ID/notifications/sessions Events
+/members/ID/notifications/events Discussions
+/members/ID/notifications/discussions Data dumps You can download CSV and JSON files of data from The Session on Github (.zip).
+These are updated about once a week.
+That Githup repo also has the same data bundled up into a SQLite database.
+You can run queries against that database at thesession.vercel.app.
+The result of any query you run has its own URL and is also available as JSONâthat means you can use them as an API.
+If you prefer to work with GraphQL, you can use thesession.vercel.app/graphql to try out GraphQL queries. menu Log in
+or
+Sign up 
+Tunes
+Recordings
+Trips
+Sessions
+Events
+Discussions
+
+
+help
+privacy
+contact
+links
+donate
+ back to top Log in 
+      

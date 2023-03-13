@@ -1,0 +1,45 @@
+
+         Data Security 2017.09.13
+To protect information received from users, LINE has implemented all conceivable measures  including deployment of advanced encryption technology, use of data centers with the world's top-level security facilities, etc.
+ 
+
+Personal data management
+
+Services provided by LINE will not be released through  assessment by its legal affairs and personal data protection divisions.
+Rather, the  division in charge of personal data protection conducts reviews and inspections from the standpoints of minimum personal information collection and of suitability in the objectives of use, acquisition process, encryption and storage periods for important data, access control, etc., as well as issues improvement instructions when necessary.
+Of the many LINE data centers located around the world, the principal servers are concentrated in data centers in Japan, and personal data is controlled under Japanese laws.
+ 
+
+Encryption
+
+LINE employs transport level encryption for chat contents exchanged between users.
+In addition, the following chat contents is protected with LINE's Letter Sealing end-to-end encryption (E2EE): text messages, location messages, 1-to-1 VOIP media streams (audio and video).
+Letter Sealing ensures that not only third-parties, but also LINE's server administrators cannot view message contents: neither in transit, nor when stored on our servers. 
+Both transport encryption and Letter Sealing employ standard encryption algorithms.
+For details about the scope of transport level encryption and Letter Sealing, please click [here].
+If you are interested in the technical details of the protocols that enable Letter Sealing, you can download our [encryption whitepaper].
+All LINE user information that is designated as personally identifiable, such as phone numbers, email addresses, passwords, and so on is stored encrypted, and its management status is periodically reviewed.
+ 
+
+Rigid access control
+
+LINE servers that store its data are managed at data centers with the latest security facilities.
+They have 24/7 surveillance  by full-time security personnel, access control with IC cards and biometrics, monitoring with surveillance cameras, etc.
+Rigid access control is being implemented at the data centers, allowing access by only a very limited number of LINE personnel.
+Access is not granted even to the LINE CEO unless advance permission is granted based on justifiable reasons.
+ 
+
+Surveillance and vulnerability inspections
+
+The LINE data center is under physical and logistical surveillance by a security team dedicated to this function on a 24/7 basis.
+The team monitors network traffic around-the-clock, conducting analyses of all events that have the potential of threatening LINE security.
+Trained personnel take immediate action when necessary.
+To bolster LINE security further, penetration tests (simulated hacking tests) are conducted by the security team and outside businesses to implement preventive measures against unauthorized access of both internal and external origins.
+ 
+
+Disposal
+
+Personal information gathered by LINE is deleted in compliance with internal regulations with the realization of the objectives of use stated explicitly in its privacy policy, such as in cases of membership withdrawal.
+Deletion is executed in non-decodable methods.
+In cases of server disposal, the servers are physically destroyed within the disposal Internet Data Center (âIDC â) for final disposal in a state in which data recovery is rendered impossible. List 
+      

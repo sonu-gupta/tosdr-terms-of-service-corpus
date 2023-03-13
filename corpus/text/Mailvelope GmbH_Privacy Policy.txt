@@ -1,0 +1,81 @@
+
+Last modified: April 2, 2020
+We, the Mailvelope GmbH ("Mailvelope"), as the provider of the Mailvelope browser extension ("the browser extension"), as the operator of the website under the URL www.mailvelope.com ("the website") and as the operator of the Mailvelope key server keys.mailvelope.com ("the key server"), take data protection matters very seriously and wish to ensure that your privacy as a user of our service is protected.
+In this Data Protection Policy, we therefore explain how we handle your personal data in connection with your use of our service.
+We reserve the right to modify the content of this Data Protection Policy from time to time.
+It is therefore recommended that you re-acquaint yourself with the Data Protection Policy at regular intervals. 1.
+General Aspects 1.1.
+We shall comply at all times with the applicable data protection laws, in particular the stipulations in the German Federal Data Protection Act (Bundesdatenschutzgesetz, BDSG), the German Telemedia Act (Telemediengesetz, TMG) and the General Data Protection Regulation (GDPR) (EU).
+1.2.
+We collect, process, and use your personal data only if your consent has been obtained or if such processing or use is permitted by law.
+We process or use only such data as are needed for our service, or such data that you provide to us. 2.
+Personal Data Personal data means any details about a certain or identifiable person that relate to the personal or material circumstances of that person.
+Section 3 (1) BDSG.
+This includes information such as your name, postal address, email address or telephone number. 3.
+Processing and Use of Your Data We collect, process, and use the following personal data: 3.1 Contacting us If you provide us with personal data for the purpose of or in connection with contacting us, these data will be stored by us only for as long as this is required for communication, customer contact, and project planning/implementation purposes.
+As soon as the personal data is no longer required by us for these purposes, they will be deleted immediately. 3.2 Using the website We don't use cookies and our hosting provider logs IP addresses only in shortened form.
+To get basic information about the traffic on our website we use the privacy concerned Google Analytics alternative plausible.io which is handling all data absolutely anonymously without persistent identifiers (cookies).
+Data is neither tracked across-sites or devices nor used for any other purposes.
+ 3.3 Using the Mailvelope download server Our server download.mailvelope.com collects anonymous technical data, such as the name of your web browser, operating system, information about the website from which you linked to us and the pages on our server that you visit.
+These data are stored automatically.
+They are analyzed in anonymous form and solely for statistical purposes with the aim of further improving our service for you. 3.4 Download the Mailvelope Chrome Extension Chrome Extensions are hosted on the Chrome Web Store.
+Please refer to www.google.com/policies/privacy for information on which data is collected if you download the extension or during the regular updates. 3.5 Download the Mailvelope Firefox Add-on Firefox add-ons are hosted on addons.mozilla.org (AMO).
+Please refer to www.mozilla.org/en-US/privacy for information on which data is collected if you download the extension or during the regular updates. 3.6 Using the browser extension In general no data is collected during the usage of the browser extension, no analytics is used to track user behavior.
+Mailvelope stores data only locally in the local storage of the browser, which is not accessible by other applications.
+Sensitive or personal user data is stored in Mailvelope only in the form of PGP keys, which contain user name and email address, and are stored in the keyring of Mailvelope.
+When a new PGP key is generated, Mailvelope has the option (default: on) to upload the key to the Mailvelope key server (see 3.7).
+Apart from that, when the resp.
+options are activated in the key server settings of Mailvelope (default: on), the following mechanisms could leak meta data of the user:
+
+The browser extension by default searches for keys on the Mailvelope key server for unknown email addresses.
+In the process of this key search, the email address of a contact is sent from the extension to the key server.
+The browser extension by default searches for keys in the Web Key Directory (WKD).
+In the process of this key search, the hashed email address of a contact is sent from the extension to mail providers that support WKD.
+ 3.7 Using the Mailvelope key server By uploading a key to the key server you give us your revocable consent to store the key (which may contain personal information like your real name and your email address) on the key server so that we can serve it to other users who are addressing encrypted messages to your email address.
+You can delete your keys from the server at any time at keys.mailvelope.com/manage.html.
+When searching for keys on the key server we collect anonymous technical data, such as the name of your web browser and operating system.
+These data are stored automatically.
+They are analyzed in anonymous form and solely for statistical purposes with the aim of further improving our service for you. 3.8 Using the Gmail API integration If you grant the Mailvelope browser extension access to your Gmail account via Google API Services, it will solely use this access for enhancing Gmail with PGP encryption services.
+Specifically, this means:
+
+The browser extension will use its access only to read Gmail message bodies (including attachments), metadata and headers to display the content of encrypted emails and attachments within the Gmail UI.
+Furthermore the Mailvelope email editor component allows users to compose and send encrypted emails.
+Your emails and your user data are processed only in the local installation of the browser extension and will never be shared with any third party nor transmitted to a Mailvelope server.
+The Mailvelope browser extension stores your email address and your access token for Gmail in the local storage of the browser (which is only accessible by Mailvelope).
+Emails and other data from your Gmail account are never stored in the browser extension.
+Mailvelope does not include advertisements.
+Your Gmail data will not be used for serving advertisements.
+The browser extension will never send emails without your consent.
+All actions have to be triggered by you.
+
+Mailvelope's use and transfer to any other app of information received from Google APIs will adhere to Google API Services User Data Policy, including the Limited Use requirements.
+
+ 3.9 Using Mailvelope Business &amp.
+Enterprise For managing the Mailvelope subscription services, processing of payments and billing we collect personal information such as your email, name, address, VAT information, preferred payment channel, etc.
+Mailvelope uses Chargebee for subscription management.
+Your data is processed in compliance with the GDPR.
+Please see www.chargebee.com/security/gdpr for further details.
+We do not have direct access to your credit card or debit card information.
+This information is collected and processed securely directly by the third party payment processing services involved such as our payment gateway and your bank.
+We may use your personal information such as email address to promote our services.
+For example, if we think you might benefit from using another products or service we offer, or if we think an information about a change in the current service is relevant for you, we may contact you by email to tell you about it.
+If you are a non-profit and have been granted free access to our business products your personal data will be processed according to this chapter. 4.
+Declaration of Consent In accepting this Data Protection Policy you give us your revocable consent to collect, process, and use the personal data that you directly or indirectly provide to us as described in section 3.
+You may revoke your declaration of consent at any time by giving us a respective notice.
+The easiest and fastest way to revoke your consent is to write a short email to info@mailvelope.com. 5.
+Sharing of Personal Data We will not share your personal data with third parties unless you have given your prior explicit consent or such sharing of data is prescribed by law or legally permissible.
+We will not sell your data to third parties, nor market them in any other manner.
+Data is shared with government agencies and authorities only in compliance with mandatory national laws.
+So far this has never happened.
+Our employees and partners are obligated by us to maintain confidentiality and to comply with the data protection regulations. 6.
+Data Storage Your data will be stored only as long as required for us to provide our services or as long as we are legally obligated to save it.
+Our servers are located in:
+
+www.mailvelope.com in Germany
+download.mailvelope.com in Germany
+keys.mailvelope.com in Germany
+ 7.
+Information, Correction, Deletion You can obtain information at any time, free of charge, about the personal data we store about you.
+If your data is incorrect or wrongly stored by us, we shall be please to correct, block or delete such data.
+Please notify us immediately of any changes in your data.
+Please send any requests for information, questions, complaints or suggestions to the following address: info@mailvelope.com

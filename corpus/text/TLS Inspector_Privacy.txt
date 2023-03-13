@@ -1,0 +1,30 @@
+
+
+Last Updated: March 3rd 2021.
+Effective: Immediately.
+This policy applies to the TLS Inspector Software Product ("the app").
+TLS Inspector is a tool designed to help you browse the web safely by providing you with means to understand the details about a secure internet connection.
+With that in mind, we've taken great care to ensure that TLS Inspector respects your privacy and protects your information.Key TakeawaysWe'd like to highlight the following key points about our privacy policy:We don't track or collect information about you.TLS Inspector does not require you to create an account or for you to provide us with your personal information in order to use the app.We don't use privacy-invading tracking software.TLS Inspector does not contain any 3rd party tracking software that invades your privacy.
+We don't collect any information about your device or how you use the app.We don't know which domains you inspect.The process of inspecting domains happens on your device.
+We do not collect information about the domains you inspect with TLS Inspector.Information You Provide The AppWhen you use the TLS Inspector software you provide a domain name or IP Address to the app for inspection.
+The app connects directly to the website to collect certificate and other security information.
+The collection of certificate information happens on your device at the time you inspect the website.
+With the exception of the certificate status we do not contact any third party services for information about the website you inspect.
+By default the app will store the last 5 inspected sites on your device.
+This list is saved locally to your device and is not synced with any internet service.
+You can remove individual sites from this list or disable this feature entirely from within the app.
+The app records information related to the operation of the app in text files, known as "logs", on your device.
+During normal operation of the app, these logs only contain information about errors.
+Details about the domains you inspect is not recorded.
+In the event that you are experiencing problems using TLS Inspector we may ask that you increase the verbosity of these logs by turning on "Debug Logging".
+When this setting is enabled, detailed information about the domains you inspect is recorded.
+These log files are stored locally on your device, and are never automatically shared with anybody without your explicit action &amp.
+consent.What The App Does With This InformationWhen you inspect a website with the app we connect directly to the website to collect certificate and other security information.
+As part of the verification process the app will perform a Online Certificate Status Protocol (OCSP) status check to verify the status of certificates.
+This check involves contacting an external web service and including a fingerprint of the certificate to check.
+In most situations the authority that issued the certificate is the authority that provides the OCSP check service.
+OCSP is an industry standard and used by web browsers and operating systems.
+It is not generally deemed a security risk, however you may disable TLS Inspector's built-in OCSP checking in the app settings.
+However, your device's operating system may still perform a OCSP check by itself, which is beyond our control.Information You Provide UsIn normal use of the application you do not provide any information to us.
+You may choose to contact the TLS Inspector team using E-Mail through links provided in the app or on this website.
+This is entirely optional, and is subject to the normal privacy expectations with sending E-Mail messages.Questions or CommentsYou may email us with any questions or concerns at hello@tlsinspector.com.

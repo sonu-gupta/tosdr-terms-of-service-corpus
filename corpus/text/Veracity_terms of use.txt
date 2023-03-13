@@ -1,0 +1,220 @@
+
+        Veracity platform terms of use
+
+Last update: 25th September 2018
+
+These terms and conditions (the âAgreementâ) are made and entered into between (i) DNV GL AS (hereinafter âVeracityâ, âweâ, âusâ or âourâ) and (ii) you and the entity on whose behalf you accept this Agreement (hereinafter âyouâ, âyourâ or âuserâ).
+The Agreement is effective as of the date you click to accept the Agreement and governs your access to and use of the Veracity Service (as defined below).
+
+By clicking âI acceptâ, you agree to be bound by the Agreement and confirm that you are authorized to sign for and enter into binding agreements for the corporation, partnership, limited liability company or other entity you are representing who agrees to be bound by the terms and conditions of this Agreement.
+In addition, you confirm that you do not act in capacity of physical person acting as consumer under applicable consumer law.
+If you do not have legal authority to bind the company as set out herein, please do not click to accept.
+
+This Agreement shall supersede and invalidate all prior representations, including any pre-existing agreements between the parties, relating to the Veracity Services.
+No other terms shall apply to the Veracity Services, unless otherwise explicitly agreed with reference to this Agreement.
+In case of discrepancies between this Agreement and any agreement entered in to between the users of the Platform, this Agreement shall prevail.
+1.
+Definitions
+
+Account means your Platform user account.
+
+Application means any service, application, algorithm, software and other tool and processing capability, including, but not limited to, software as a service, data as a service or platform as a service, uploaded on the Platform.
+
+Claim means any and all claims, losses (including pure economical losses), demands, taxes, liens, liabilities, judgments, awards, provisional injunctions, remedies, debts, damages, injuries, costs, legal and other expenses, or causes of action of whatsoever nature, and in whatever jurisdiction the foregoing may arise.
+
+Confidential Information means information that one party discloses to the other party under this Agreement which would normally under the circumstances be considered to constitute business secrets.
+Confidential Information does not include information to the extent that is independently developed by the recipient, is rightfully given to the recipient by a third party without confidentiality obligations, becomes public through no fault of the recipient, is required to be disclosed to public or accreditation authorities based upon law or applicable accreditation schemes or is unlocked or made available on the Platform.
+
+Consumer means a user who is granted access to Provider Content on the Platform.
+
+Data means all binary files, digital material, video or images in the format uploaded on the Platform.
+
+Intellectual Property Rights means current and future rights under applicable patent, copyright, trademark, design, marketing, data base and other law as well as other similar rights according to laws and statutes.
+
+Platform means the Veracity digital platform available at https://www.veracity.com.
+
+Provider means a user who makes available and/or offers Provider Content on the Platform to other users.
+
+Provider Content means any Application and/or Data (for the avoidance of doubt including, when applicable, any User Content) uploaded and made available and/or offered by a Provider on the Platform.
+
+Security Issue means either: (i) a userâs use of the Veracity Service in violation of this Agreement, the applicable requirements and policies, insofar they could in Veracityâs sole discretion potentially disrupt: (a) the Veracity Service.
+(b) other usersâ use of the Veracity Service.
+or (c) the infrastructure, tools and applications used to provide the Veracity Service.
+or (ii) unauthorized third party access to the Veracity Service.
+(iii) loss of or unauthorised third party access to Data.
+(iv) use of Applications in a manner that may in Veracityâs sole discretion constitute a security or reputational threat against Veracity, the Platform infrastructure or the Veracity Services.
+
+Specifications means any user guideline and/or requirement (e.g.
+https://developer.veracity.com) made available by Veracity to the users on the Platform (as updated from time to time).
+
+Transaction means a transaction concluded on the Platform between a Provider and a Consumer in order to grant access to Provider Content.
+
+User Content means an Application and/or Data uploaded, and if applicable made available and/or offered, by you on the Platform.
+
+Veracity Data Fabric means the Data storage, management and sharing capability of the Platform, and thereto related application programmer interface and user application.Veracity Service means the Platform and the service offered by Veracity and as set out in Section 2 below.
+2.
+Description of the Veracity Service
+2.1 Veracity is an intermediation service platform between professional parties for the purposes of providing access to Applications and Data provided by the users of the Platform.
+As an intermediary, Veracity is not a party in any Transaction and/or contract between a Provider and a Consumer.
+2.2 A Transaction concluded on the Platform constitutes a contract established directly between the Provider and Consumer, in which Veracity is not a party.
+Said Transaction may give rise to the payment of a fee between the relevant Consumer and Provider.
+2.3 The Veracity Service is comprised of a set of tools and interactive interfaces provided by Veracity on the Platform, enabling you to:
+Â· Register on the Platform by creating an account
+Â· Upload and store User Content on the Platform
+Â· Search for, buy and get access to Provider Content
+Â· Access the Veracity Data Fabric
+Â· Access the developer tools
+2.4 Use of the Veracity Service may be subject to payment of fees.
+Veracity reserves the right to adjust the fees and any such adjustment will be effective as of the date published on the Platform.
+2.5 You acknowledge to have verified the suitability of the Veracity Service for your needs, and to have received all the information and advice needed to conclude this Agreement and any Transaction in full knowledge.
+3.
+No consumer, agency or distribution relationships etc.
+3.1 You acknowledge that Veracity constitutes a business to business Platform.
+3.2 To the extent allowed under applicable law, you waive any rights available under applicable consumer law.
+3.3 Veracity does not undertake the role as agent or distributor of applications, products, data or services for users.
+To the extent allowed under applicable law, you waive any rights or claims against Veracity under applicable agency law or law pertaining to distributors of goods and services.
+4.
+Your Account
+4.1 To access the Veracity Service and upload and manage your User Content you must create an Account and provide correct and up-to-date information about you and the company you represent and any other documentation requested by Veracity.
+4.2 You are responsible for all activities that occur under your Account, including but not limited to sharing of access keys to Data, regardless of whether the activities are undertaken by you, your employees or a third party and, except to the extent caused by our breach of this Agreement, we are not responsible for unauthorised access to your account.
+You shall contact us immediately if you believe an unauthorised person may be using your Account or if your Account information is lost or stolen.
+4.3 Your Account may at any time be subject to a verification procedure by Veracity and in this respect, you shall be required to provide such information and/or documentation as requested by us, e.g.
+as part of anti-money-laundering procedures.
+4.4 Veracity may grant local company administrator rights to a user.
+A company administrator may create and delete individual user accounts for sub-users.
+It is the company administratorâs responsibility to keep informed of the possibilities (or lack of such) to limit the individual sub-userâs access, and to make use of the available possibilities to restrict access whenever the company administrator deems necessary.
+It is the userâs responsibility to implement such contractual obligations and restrictions on the individual sub-users as the company administrator considers required, based on the relevant access rights the company administrator has provided to the various individual sub-users.
+The company administrator is responsible for keeping track on all sub-user accounts and for all use by the sub-users created by it.
+4.5 You shall defend and hold harmless Veracity for all and any costs or losses, including but not limited to, loss of or unintentional propagation of data, arising from or in connection with your non-compliance with the applicable user and company administrator requirements.
+5.
+Provider Content
+5.1 Provider Content may be offered and made available to or by you on the Platform.
+The relevant Provider is solely responsible for the Provider Content offered by it on the Platform, and Veracity shall have no obligation or liability arising from such Provider Content or any Transaction.
+5.2 The Provider of Provider Content may require separate terms and conditions to be entered into in relation to the Provider Content offering.
+Acceptance of such offer and the terms and condition (if applicable) will constitute a separate agreement directly between the Consumer and the Provider.
+5.3 The provision of Provider Content, links or pointer to websites and pointers to information, apps, products and services created and maintained by third parties, is not intended to assign importance to such services, websites or information, nor is it intended to endorse, recommend, or favor any views expressed, or commercial products or services offered, or any organization or corporation.
+Reference on the Platform to any specific commercial product, process, or service, or the use of any trade, firm or corporation name is for the information and convenience of the Platformâs users only, and does not constitute endorsement, recommendation, certification or other endorsement by Veracity/DNV GL.
+6.
+Provision of the Veracity Services
+6.1 Subject to the terms of this Agreement, we will make the Veracity Services available to you in a timely and professional manner.
+6.2 We will use reasonable efforts to (i) implement market standard measures to ensure the security and confidentiality of User Content and any Provider Content acquired by or made available to you.
+(ii) protect the Platform against anticipated threats or hazards to security or integrity.
+and (iii) protect against unauthorized access to or use of the Veracity Service and the Applications or Data made available on the Platform.
+6.3 You acknowledge and agree that we are using third party providers for the provision of parts of the Platform, including but not limited to, certain components, cloud infrastructure, hosted services, tools, processing capabilities and other products, apps and services, if any.
+You may be required to accept third party terms or terms which mirror third party providersâ terms for specific Veracity Service components, tools and software.
+6.4 Tools used or given access to as part of the Veracity Service may be subject to open source or similar licenses.
+Veracity will use reasonable endeavors to inform you about this when deemed relevant.
+6.5 For security purposes and to ensure that the Veracity Service remains available to all users, Veracity monitors network traffic to identify unauthorised attempts to upload or change information or to otherwise cause damage to the Veracity Service.
+Anyone using the Platform expressly consents to such monitoring.
+If monitoring reveals evidence of possible criminal activity, such evidence may be provided to the appropriate authorities.
+6.6 Veracity may from time to time add new services to the Veracity Service, the use of which may be contingent upon your agreement to additional terms or updated Agreement.
+7.
+Your Responsibilities
+7.1 You shall at all times comply with the requirements set out in or referred to in this Agreement and the relevant Specifications.
+7.2 You confirm to have read and understood the requirements for the safe operation of the Platform and the applicable security requirements, and taken all action needed to adapt your Applications and/or Data to meet these requirements in a diligent and professional manner.
+7.3 You shall employ market standard information security tools and procedures and take relevant market standard measures to ensure that your use of the Veracity Service does not cause damage to the Platform or its users.
+Specifically, you will use good industry practice virus protection software, and other customary procedures to screen your User Content to avoid introducing any virus or other malicious files or other harmful codes that could disrupt the proper operation of the systems used for the provision of the Veracity Service.
+If you learn or suspect that a virus or other malicious files or other harmful codes has been introduced on the Platform, User will notify Veracity and cooperate in mitigating the effects of such introduction and, in the event a virus or other such code is introduced into the Platform by the User, User will at its cost assist Veracity in mitigating the effects.
+7.4 You are solely responsible for the development, content, operation, maintenance and use of any User Content you upload, and if applicable make available and/or offer, on Veracity Service, and shall ensure that they are of market standard quality and that they comply with the requirements set out in or referred to on this Agreement or the Specifications.
+7.5 Access to Data on the Platform may only be granted to or shared with other users of the Platform and the Veracity Data Fabric.
+7.6 The Veracity Service may not be used in any manner or for any purpose other than as expressly permitted by this Agreement, hereunder, you may not:
+(i) interfere with the intended and efficient functioning of the Platform;
+(ii) reverse engineer, disassemble, or decompile the Platform or apply any other process or procedure to derive the source code of any application or software included in Platform;
+(iii) use, or promote, facilitate or instruct others to use the Veracity Service for any illegal, harmful, or offensive use, or to transmit, store, display, distribute, or otherwise make available content that is illegal, harmful of offensive.
+or
+(iv) use, or promote, facilitate or instruct others to use the Veracity Service in any manner that may cause or create a Security Issue.
+7.7 You shall not, and will not allow third parties under your control to;
+(i) copy, modify, create a derivative work of, revers engineer, decompile, translate, disassemble, or otherwise attempt to extract any or all of the source code of the Veracity Service or the Applications and Data provided on or through the Veracity Service.
+or
+(ii) sublicense, resell, or distribute any or all of the same.
+8.
+Microsoft Cloud Services
+8.1 Veracity relies on the services of a reputable provider of cloud services for the purpose of the Veracity Service, Azureâ¢, provided by Microsoftâ¢ (hereinafter referred to as Microsoft).
+Access to and use of this service is governed by the terms of Microsoft as applicable from time to time, including its risk distribution.
+8.2 Veracity is not in a position to undertake further obligations towards User than Microsoft undertakes towards Veracity, and the User acknowledges and agrees that Veracity does not undertake any obligations towards User which go beyond the obligations that Microsoft has undertaken against Veracity.
+8.3 User shall comply with the requirements for use of the Microsoft service undertaken by Veracity according to Microsoftâs terms, conditions and user requirements.
+8.4 Veracity makes no warranties regarding Microsoftâs products or services.
+All and any warranties of merchantability and fitness for a particular or intended purpose, are specifically disclaimed by Veracity and waived by the User to the fullest extent permitted by the applicable law.
+In particular, User acknowledges that it shall hold no further rights against Veracity in case of loss of data or unauthorized distribution of or access to data than Veracity would hold against Microsoft.
+8.5 Microsoftâs terms are available at www.microsoft.com
+9.
+Intellectual Property Rights
+9.1 For the purpose of this Agreement, each party shall remain the sole owner of any of its Intellectual Property Rights existing prior to the date of this Agreement and, except as explicitly set out in this Agreement, nothing herein shall imply any transfer or grant of rights to any such Intellectual Property Rights.
+9.2 User warrants that it holds all necessary Intellectual Property Rights to the Data and Applications it makes available on the Veracity Service.
+User shall indemnify and hold harmless Veracity from any Claim Veracity might suffer or receive as a consequence of any infringement of third party rights, including legal cost.
+9.3 Regardless of anything to the contrary herein, Veracity will be entitled to access, use and process Applications and Data for the purpose of operating, enhancing and optimizing the Veracity Service.
+This right does not include the right to further develop, modify or further distribute the Data.
+10.
+Confidentiality
+10.1 Veracity shall be entitled to disclose Data in accordance with instructions from the relevant Provider.
+10.2 Veracity will not disclose Confidential Information, except: (i) to the extent accepted by you.
+or (ii) to employees, agents or professional advisors who need to know it for the purpose of the recipientâs obligations towards Veracity in relation to the Veracity Service, and who have agreed in writing (or in the case of professional advisors are otherwise bound) to keep it confidential.
+10.3 Notwithstanding any provision to the contrary in this Agreement, Veracity may also disclose Confidential Information to the extent required by applicable law, provided that the Veracity uses commercially reasonable efforts to: (i) promptly notify the User of such disclosure before disclosing.
+and (ii) comply with the Userâs reasonable requests regarding its efforts to oppose the disclosure.
+11.
+Personal Data â Privacy Statement
+The use of the Veracity Service is governed by the Veracity privacy statement, which must be accepted by the User before accessing the Platform.
+The Veracity privacy statement is available here https://services.veracity.com/PrivacyStatement
+12.
+Fees and Taxes
+12.1 All fees stated on the Platform are exclusive of any form of applicable indirect taxes such as value added tax, goods and service tax, import tax and/or similar taxes or duties levied thereon.
+12.2 You will provide Veracity with your valid value added tax identification number and any other information needed to determine the obligation to collect value added tax.
+12.3 If any deduction or withholding of taxes or other governmental charges is required according to mandatory laws, you will notify Veracity prior to making any withholdings.
+You will pay any additional amounts necessary to ensure that the net amount that Veracity receives, after any deduction and withholding of any taxes, equals the amount that would have been received if no deduction or withholding had been required.
+If the net amount received does not correspond to the invoiced amount, Veracity will issue an additional invoice to collect the outstanding amount due.
+Taxes or other government charges withheld and deducted from any payment shall be remitted by you to the competent tax authority or any other relevant governmental body, as the case may be, within the time allowed and in the minimum amount required by law.
+You shall indemnify and hold Veracity harmless from any and all financial responsibility or sums found to be due arising out of the non-payment, late-payment or payment to the non-competent tax authority or any relevant governmental body.12.4 If there is a fee associated with the Veracity Service and/or the Provider Content purchased on the Platform you agree to pay that fee.
+Payment of any fee (as applicable) shall be made to the bank account stated on the invoice within thirty (30) days of the date of the invoice.
+Invoices may be sent by electronic means.
+12.4 In case of late payment to Veracity, Veracity is entitled to charge a late payment penalty interest according to the applicable law of this Agreement or 8 % per annum pro rata, whichever is the higher.
+12.5 No disputes arising between Veracity and the user shall interfere with prompt payment of invoices by user.
+Any rights of lien or retention in favor of user, statutory or otherwise, are hereby excluded.
+The user shall have no right to set-off any sums including sums in respect of counter-claims, unless such counter-claim is undisputed or has been finally adjudicated upon by the courts.
+13.
+Limitation of Liability
+13.1 DNV GL AS, its parent company and subsidiaries shall not in any way be held liable towards the User for any of the Userâs or its affiliatesâ consequential or indirect loss, including but not limited to interruption or loss of business, contract or revenue, loss of goodwill, loss of profit, loss of production, wasted overhead, cost of substitute equipment, downtime costs or other special, punitive or other forms of indirect losses, howsoever such may arise, whether under contract, tort (including negligence), strict liability or otherwise under this Agreement or the Veracity Service.
+13.2 Except in case of fraud or fraudulent misrepresentation or other similar circumstances by DNV GL AS, for which it may not lawfully limit its liability under this Agreementâs applicable law, the total maximum liability of DNV GL AS, its parent company and subsidiaries towards the User (and whether in contract, tort (including without limitation negligence), breach of statutory duty, under any indemnity or otherwise howsoever) arising out of or in relation to this Agreement, the performance or non-performance of the Veracity Service, shall be limited to a maximum aggregate sum of USD 100,000 (onehundredthousand).
+14.
+Indemnifications
+14.1 Each party shall indemnify and hold harmless (as the indemnifying party) the other party and the other partyâs affiliates, subsidiaries, agents and subcontractors, and its and their employees and other representatives (as the indemnified party), from and against all Claims in respect of: (i) bodily injury, sickness, disease, or death of any of the indemnifying partyâs or its affiliatesâ or subcontractorsâ employees or other representatives.
+and (ii) loss of or damage to the indemnifying partyâs or its affiliatesâ or subcontractorsâ property or equipment.
+14.2 Provider and Consumer shall be joint liable and indemnify and hold harmless Veracity for any Claim from third parties, including but not limited to Userâs parent companies and its and their affiliates, subsidiaries, subcontractors, partners and their personnel, arising from or in connection with a Transaction.
+14.3 User shall indemnify and hold harmless DNV GL AS, its parent company and subsidiaries from and against all claims, damages, losses and expenses in respect of claims against Veracity relating to this Agreement made by the Userâs parent companies, affiliates, subsidiaries or joint ventures outside or exceeding the limitations in the limitation of liability in section 14.2 above.
+14.4 The indemnities set out above shall apply howsoever any relevant claims, damages, losses or expenses may arise and regardless whether under contract, tort (including negligence) strict liability or otherwise, except if and to the extent caused by the indemnified partyâs intentional and wrongful act or omission with the intent to inflict damage or injury or other circumstances for which a party may not lawfully limit its liability under this Agreementâs applicable law.
+15.
+Insurance
+User shall at all times hold adequate insurances which reflect the nature and extent of its activities on the Platform.
+16.
+Force Majeure
+16.1 No party shall be in breach of the Agreement, nor liable for any failure or delay in performance hereunder if the cause of such failure or delay is attributable to events beyond the reasonable control of Veracity, including but not limited to armed conflict, terrorist attack, civil war, riots, toxic hazards, epidemics, natural disasters, extreme weather, fire, explosion, failure of utility service, labour disputes, breakdown of infrastructure, cyber-attacks or other cyber event which is not prevented through use of market standard fire walls, anti-virus-programs or other market standard protection, safety or security measures, transport delays, or any public restrictions following any of the incidents above, or any other force majeure occurrence.
+16.2 Either party shall be entitled to terminate the Agreement with immediate effect should the force majeure occurrence endure for more than thirty (30) days.
+17.
+Duration, Termination and Suspension
+17.1 This Agreement shall be valid until terminated with ninety (90) daysâ prior written notice by either party.
+17.2 In case user fails to fulfil one of its obligations as set forth in this Agreement Veracity reserves the right interrupt access to the Veracity Service during the time required to receive an explanation by the user.
+If the user does not remedy the failure within a reasonable period of time following notification or in case Veracity in its sole discretion has basis to believe there is a Security Issue, Veracity may stop or suspend, fully or partially, the provision of the Veracity Service and/or terminate the Agreement with immediate effect without incurring any liabilities.
+17.3 Termination shall not have effect upon clauses set out in this Agreement which by their nature would be meant to have effect also after the termination of the Agreement, including but not limited to Sections 10 Confidentiality, 13 Limitation of Liability and 14 Indemnifications.
+17.4 Userâs termination of this Agreement shall constitute an instruction to Veracity to stop granting other users of the Platform access to the Data and Applications provided by the terminating user.
+17.5 Upon termination of the Agreement, userâs right to access to the Veracity Service will be disabled.
+17.6 If you become aware that your use of the Veracity Service is in breach of this Agreement, the Specifications or any other applicable requirements, you shall immediately cease the activities concerned, suspend the Account and/or remove the relevant Data or Application, to the extent applicable.
+If you fail to suspend or remove as noted, Veracity may specifically request that you do so.
+If you fail to comply with Veracityâs request to do so within twenty-four hours, then Veracity may disable the relevant activity, and/or access to the Veracity Service until such violation is corrected.
+17.7 Both parties may terminate this Agreement with immediate effect, without any liability or penalties, if Veracity or User is or become subject to sanctions or penalties imposed by a national government, the United Nations, the European Union or similar organizations related to the Veracity Service which is provided hereunder, or if the Veracity Service could be considered to be illegal or in conflict with applicable law for the respective party, its subcontractors and/or its subcontractorâsâ parent companies.
+18.
+Amendments to the Agreement
+18.1 Veracity reserves the right to make changes to the Agreement from time to time, without providing individual notice.
+18.2 All such changes will take immediate effect, and apply for future use of the Platform and the Veracity Services.
+18.3 You acknowledges that it is your responsibility to monitor such changes and your continued use will constitute full acceptance of the updated Agreement.
+19.
+Miscellaneous
+19.1 All notices must be in writing and addressed to the other party.
+The email address for notices being sent to Veracity is contact@veracity.com.
+Notice will be treated as given on receipt as verified by written or automated receipt or by electronic log (as applicable).
+19.2 Should any provision of this Agreement be held to be invalid or unenforceable, such shall not affect the validity or enforceability of any other part or provision of the Agreement.
+Such provision shall be amended to the extent necessary to make the provision valid and enforceable, while keeping as strictly and closely as possible to the original wording and purpose of the provision.
+19.3 DNV GL AS may, without prior notice, assign, transfer or delegate in any other manner any or all of its rights and obligations under this Agreement to any affiliate.
+For the purposes of this clause only affiliate shall mean any entity that directly or indirectly controls, is controlled by, or is under common control with DNV GL AS.
+A business entity shall be deemed to control another if it owns, directly or indirectly, in excess of 50% of the outstanding voting securities or capital stock of such business or any other comparable equity or ownership with respect to a business entity.
+19.4 The Agreement shall be exclusively governed and construed in accordance with the laws of Norway without regard to principles of conflicts of law.
+The Law on International Sales of Goods shall not apply.
+Any dispute arising in relation to or as a consequence of the Agreement, which cannot be settled amicably through negotiations between the parties, shall be brought exclusively in the courts of Oslo, Norway.

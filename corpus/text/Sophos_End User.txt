@@ -1,0 +1,528 @@
+
+
+
+Business Products  ENDPOINT PROTECTIONIntercept X EndpointEndpoint protection with artificial intelligence NEXT-GEN FIREWALLXG FirewallFirewall with synchronized security built in MANAGED SERVICESManaged Threat Response24/7 threat hunting, detection, and response PUBLIC CLOUDCloud SecurityThe worldâs most trusted cloud security platform MORE PRODUCTS 
+Sophos Central
+Sophos Wireless
+Sophos Mobile
+Phish Threat
+Central Device Encryption
+
+
+Cloud Optix
+Sophos Email
+UTM
+Intercept X for Server
+Secure Web Gateway
+ Synchronized SecurityAll Products A-ZSolutionsFree Trials
+Home Products 
+
+Business-grade cybersecurity.
+ Now available for home use.Includes AI to block advanced viruses,  malware, exploits, and ransomware.Download Free TrialLearn More 
+Partners  Partner PortalMaximize your Sophos revenue, all in one place.
+Find a ResellerSophos partners near you.
+
+Partner Program
+MSP
+Partner Training
+Partner News
+
+
+Become a Partner
+OEM
+Cloud Security
+Partner Care
+
+
+Support  Ask the CommunityJoin the Conversation 
+Support Overview
+Support Packages
+Contact Support
+Training
+
+
+Downloads and Updates
+Professional Services
+Documentation
+
+
+ ABOUT 
+About Sophos
+Sophos Labs
+Press
+Social Media
+Events
+
+
+Careers
+Contact
+Naked Security
+Sophos News
+Sophos AI
+ APPS &amp.
+SERVICES 
+My Account
+ APPS
+
+Sophos Central
+Sophos Home 
+ SERVICES
+
+Support Community
+Partner Portal
+Licensing Portal (MySophos)
+ Free Security ToolsFree TrialsProduct Demos
+Sophos End-User License Agreement (EULA)
+IMPORTANT NOTICE: IF YOU ARE A CONSUMER, CLAUSE 14.12 OF THE SOPHOS END USER LICENSE AGREEMENT DOES NOT APPLY TO YOU AND YOU ARE NOTIFIED THAT THIS END USER LICENSE AGREEMENT IS SUBJECT TO BINDING ARBITRATION AND A WAIVER OF CLASS ACTION RIGHT AS DETAILED IN THE MANDATORY ARBITRATION AND CLASS ACTION WAIVER POLICY IN CLAUSE 15.9.7 OF THIS LICENSE AGREEMENT.
+YOU ALSO HAVE ADDITIONAL CONSUMER RIGHTS AS DESCRIBED IN CLAUSES 15.8 AND 15.9.
+
+If you wish to view the Sophos End User License Agreement in another language, visit any of the following pages: Chinese Simplified, Chinese Traditional, German, Spanish, French, Italian, Japanese.
+
+SOPHOS END USER LICENSE AGREEMENT 
+ Capitalized terms have the meanings set forth below.
+Please read this legally binding License Agreement between Sophos and Licensee carefully.
+By selecting the accept option, breaking the seal on the software package, or installing, copying or otherwise using the Products, Licensee acknowledges that Licensee has read, understands, and agrees to be bound by the terms and conditions of this License Agreement, including without limitation the terms and conditions of documents and policies that are incorporated herein by reference.&nbsp.
+ If Licensee does not agree with the terms and conditions of this License Agreement, Licensee is not authorized to install or otherwise use the Products for any purpose whatsoever.
+If Licensee returns the unused Products and all accompanying items in their original condition and packaging within twenty-one (21) calendar days of delivery by Sophos, together with proof of purchase, Licensee may receive a full refund. Where a reseller, service provider, consultant, contractor or other party downloads, installs, manages or otherwise uses the Products on Licenseeâs behalf, such party will be deemed to be Licenseeâs agent and (i) Licensee will be deemed to have accepted all of the terms and conditions of this License Agreement, and (ii) to the extent permitted by applicable law, Licensee, not Sophos, shall be responsible for the acts or omissions of such party in relation to its management or use of the Products on Licenseeâs behalf.
+NOW IT IS AGREED as follows:
+
+1. DEFINITIONS
+
+ 1.1 âAffiliatesâ means, with respect to each party, entities that control, are controlled by, or are under common control with such party.
+For the purposes of this definition, âcontrolâ means the beneficial ownership of more than fifty percent (50%) of the voting power or equity in an entity.
+ 1.2 'Computer' means any device or computing environment that benefits from the Licensed Product (including without limitation, workstations, personal computers, laptops, netbooks, tablets, smartphones, and environments connected to an email server, an internet proxy or a gateway device, or a database).
+The Licensed Product does not have to be physically installed on the computer environment to provide benefit, nor is there a requirement for the computing hardware to be owned by the Licensee.
+The term âComputerâ as defined herein includes, without limitation, non-persistent deployments, electronic devices that are capable of retrieving data, and virtual machines.
+ 1.3 'Consumer' means an individual acting for purposes that are wholly or mainly outside that individualâs trade, business, craft or profession.
+1.4 'Documentation' means the formal Product documentation (whether electronic or printed) published by Sophos for each Product.
+ 1.5 'Fee' means the fee payable for the Product, enhanced support package, Maintenance subscription, and/or extended Maintenance subscription.
+ 1.6 'Hardware' means a hardware Product, together with any related components provided by Sophos (including but not limited to power supply modules, disk drives in carriers, ship kits and rack mount kits).
+ 1.7 'License Agreement' means this Agreement and the Schedule.
+ 1.8 âLicense Entitlementâ has the meaning in Clause 3.2 below.
+ 1.9 'Licensed Products' means all or each (as the context so allows) of those software program(s) accompanying or provided for use under the terms of this License Agreement, listed on the Schedule and/or that are installed on the Hardware provided to Licensee, together with the Documentation and any of the Upgrades and Updates to those programs, but excluding any third party software as described in Clause 9.
+ 1.10 'Licensee' means the person or entity that has been granted license rights under this License Agreement, and âLicenseeâsâ means belonging to, pertaining to or engaged by Licensee, whether on a temporary basis or otherwise.
+ 1.11 'Maintenance' means collectively Upgrades and/or Updates (where applicable to the Product), SMS message processing (where applicable to the Product), and standard technical support as further described in Clause 4.
+ 1.12 'Outsourced Provider' means a third party to whom Licensee or Licenseeâs Affiliates have outsourced their information technology functions.
+ 1.13 âPartnerâ means a reseller, distributor or other independent third party from which Licensee validly obtains Sophos Products.
+ 1.14 'Product' means the Licensed Product, media and/or Hardware, as applicable.
+ 1.15 'Product Term' has the meaning set out in Clause 3.1 of this License Agreement.
+ 1.16 âSanctions and Export Control Lawsâ means any law, regulation, statute, prohibition, or similar measure applicable to the Products and/or to either party relating to the adoption, application, implementation and enforcement of economic sanctions, export controls, trade embargoes or any other restrictive measures, including, but not limited to, those administered and enforced by the European Union, the United Kingdom, and the United States, each of which shall be considered applicable to the Products.
+ 1.17 'Schedule' means the order confirmation or license certificate issued by Sophos that details the Product(s) licensed by Licensee and corresponding Product Term, License Entitlement and license credentials, and which forms part of this License Agreement.
+ 1.18 'Server' means a Computer upon which the Licensed Product is installed and from which other Computers receive or retrieve data.
+If the data is solely generated by the Licensed Product, then the Computer is not considered a Server.
+ 1.19 'Sophos' means Sophos Limited (a company registered in England and Wales number 02096520) with its registered office at The Pentagon, Abingdon Science Park, Abingdon, Oxfordshire, OX14 3YP, UK.
+1.20 'Update' means an update to the library of rules and/or identities and/or other updates to the detection data or software (excluding Upgrades) made available to Licensee by Sophos at its sole discretion from time to time automatically or otherwise, but excluding any updates marketed and licensed by Sophos for a separate Fee.
+ 1.21 'Upgrade' means any enhancement or improvement to the functionality of the Product, Product version or Product feature made available to Licensee by Sophos at its sole discretion from time to time automatically or otherwise, but excluding any software and/or upgrades marketed and licensed by Sophos for a separate Fee.
+ 1.22 'User' means an employee, consultant or other individual who benefits from the Product licensed to Licensee.
+
+2. INTELLECTUAL PROPERTY RIGHTS AND OWNERSHIP
+ The Products, including without limitation all know-how, concepts, logic and specifications, are proprietary to Sophos and its licensors and are protected throughout the world by copyright and other intellectual property rights.
+Licensee hereby agrees not to remove any product identification or notices of proprietary restrictions.
+Further, Licensee hereby acknowledges and agrees that the right, title and interest in the Products and in any modifications made by Licensee to the Products, as provided for below in this License Agreement, are the property of, and are retained by, Sophos and its licensors.
+No license, right or interest in Sophosâs logos or trademarks is granted to Licensee under this License Agreement.&nbsp.
+Licensed Products are licensed, not sold or given.&nbsp.
+Except as expressly stated in this License Agreement, no license or right is granted directly or by implication, inducement, estoppel, or otherwise.
+
+3. RIGHTS AND RESTRICTIONS
+
+ 3.1 Term. 
+ 3.1.1 This License Agreement is effective from the moment of acceptance as described in the first paragraph of this License Agreement and shall remain in force until the earlier of (i) expiry of the Product Term of all items licensed hereunder, or (ii) termination of this License Agreement in accordance with the terms and conditions herein.
+3.1.2 Unless this License Agreement is terminated earlier, (i) the Product Term for fixed term subscription-based Licensed Products, Maintenance packages and support packages shall commence on the start date and end on the expiry date noted on the Schedule (license keys for any unactivated licenses of a License Entitlement shall be deactivated on such expiry date), and (ii) the Product Term for Products that are billed on an auto-renewing basis shall commence on the date of purchase and continue for the duration of the authorized payments (subject to any minimum subscription term that may be noted on the Schedule), and (iii) where expressly noted in the Schedule or the Licensing Guidelines at https://www.sophos.com/en-us/legal the Product Term shall be perpetual (each the âProduct Termâ).
+3.1.3 In consideration of the payment of the Fee by Licensee and receipt of the corresponding payment by Sophos, Sophos hereby grants to Licensee a non-exclusive, non-sublicensable, and non-transferable (except as otherwise provided in this License Agreement) right to use the Products for their respective Product Term subject to the terms and conditions contained within this License Agreement.
+3.2 License Entitlement and Usage.&nbsp.
+ The Products are licensed by User, Computer, Server or other applicable units, as specified in the Licensing Guidelines at https://www.sophos.com/en-us/legal.
+The Schedule specifies the number of applicable units that the Licensee has licensed for each Product (the âLicense Entitlementâ).
+The Licenseeâs actual usage and/or installations, including without limitation any usage or installations for failover purposes, may not exceed the License Entitlement at any time or under any circumstances.
+If Licensee wishes to increase its actual usage, Licensee must first purchase the corresponding additional License Entitlement.
+ 3.3 Rights. Licensee is permitted to:
+3.3.1 use the Products solely for Licenseeâs and its Affiliatesâ own internal information security purposes.&nbsp.
+This Clause does not apply to Consumers who are instead granted rights to use the Products as set out in Clauses 15.5, 15.7, 15.8 and 15.9;
+ 3.3.2 make a reasonable number of copies of the Licensed Products or any part thereof for backup or disaster recovery purposes provided that Licensee reproduces Sophosâs proprietary notices on any such backup copy of the Licensed Products.
+Such restriction shall not prevent Licensee from backing up or archiving Licenseeâs data.
+ 3.4 Restrictions. Licensee is not permitted to:
+3.4.1 modify or translate the Products (i) except as necessary to configure the Licensed Products using the menus, filters, options and tools provided for such purposes and contained in the Product, and (ii) in relation to the Documentation, except as necessary to produce and adapt manuals and/or other documentation for Licenseeâs internal business purposes;
+ 3.4.2 reverse engineer, disassemble (including without limitation, removing the covering plates that bar access to the Hardware ports and/or accessing internal components of the Hardware) or decompile the Products or any portion thereof or otherwise attempt to derive or determine the source code or the logic therein, or create derivative works based on the Products, or authorize any third party to do any of the foregoing, except to the extent that such restriction is prohibited by applicable law;
+ 3.4.3 except to the extent expressly stated otherwise in this License Agreement, use Products for which Licensee has not paid and Sophos has not received the applicable Fees;
+ 3.4.4 sub-license, rent, sell, lease, distribute, transfer, transmit, embed, provide access to, or otherwise use the Products for the benefit of third parties as part of a service bureau or managed-service arrangement, cloud services offering, bundled product or otherwise, except as expressly provided under this License Agreement and/or unless Licensee enters into a separate agreement with Sophos for such purposes;
+3.4.5 use the Products other than in the course of business and for Licenseeâs own internal information security purposes unless and to the extent that such Products have been expressly licensed for employee personal use or Consumer use in accordance with Clauses 15.5, 15.7, 15.8 and 15.9;
+3.4.6 transfer Licensed Products to any third party without the prior written consent of Sophos, except where Licensee has purchased a perpetual term Licensed Product and desires to transfer the Licensed Product to another person or entity.
+Such transfer of a perpetual term Licensed Product must ensure that (i) the entire License Entitlement is transferred to a single recipient and is not sub-divided, (ii) the Licensed Product is deleted by the Licensee at the time of transfer, (iii) the Licensee passes full details of the recipient to Sophos, and (iv) the recipient agrees to be bound by the terms and conditions of this License Agreement, including without limitation Clause 11.
+and/or 
+3.4.7 use the Products in or in association with safety critical applications where the failure of the Products to perform can reasonably be expected to result in a physical injury, or in loss of property, or loss of life.
+Any such use is entirely at Licenseeâs own risk, and Licensee agrees to hold Sophos harmless from and hereby releases Sophos from any and all claims or losses relating to such unauthorized use. 
+3.5 Permitted Third Party Usage.&nbsp.
+Licensee may permit its Affiliates and Outsourced Providers to use the Products provided that: (i) Licensee shall provide prior written notice to Sophos, (ii) the Affiliates and Outsourced Providers shall only use and/or operate the Products, in accordance with the license rights granted herein, on behalf of Licensee and its Affiliates, (iii) the actual usage of the Products by Licensee, Licenseeâs Affiliates and Outsourced Providers in aggregate shall not exceed the License Entitlement purchased by the Licensee, (iv) Licensee shall ensure that its Affiliates and the Outsourced Providers are aware of and comply with the terms and conditions of this License Agreement.
+and, (v) Licensee shall be responsible for, and hold Sophos harmless from, the acts and omissions of its Affiliates and Outsourced Providers relating to use of the Products.
+3.6 Licensee acknowledges and agrees that it has not based its purchasing decision on the future availability of any new products and/or additional features, components or versions of the Products, nor on any oral or written comments made by Sophos regarding future functionality or features.
+3.7 Licensee is solely responsible for its compliance with the applicable terms and conditions of any third-party agreements, including without limitation payment of any third party fees, for hardware, software, connectivity and any other third party products and services.
+
+4. MAINTENANCE AND SUPPORT
+ 4.1 If the Licensee has purchased a Sophos Firewall, Sophos Firewall Manager, Sophos iView or Sophos UTM Licensed Product, Maintenance is included for the first ninety (90) days from the date of purchase.
+Separate Maintenance packages are available for purchase.
+For all other subscription term Licensed Products, Maintenance is included for the duration of the Product Term.
+ 4.2 If the Licensee has purchased a perpetual term Licensed Product, Maintenance is not included.
+Except to the extent prohibited by applicable law, (i) Licensee must purchase a separate Maintenance package on a subscription term basis that is equal to the number of perpetual license units purchased, and (ii) if the Licenseeâs Maintenance subscription has lapsed and Licensee wishes to renew it, Sophos reserves the right to charge Licensee a reinstatement charge in accordance with its then current price list.
+ 4.3 Maintenance includes standard/base level technical support.
+Enhanced technical support packages are available subject to payment by Licensee and receipt by Sophos of the corresponding Fee.
+Standard and enhanced technical support packages are described at: https://www.sophos.com/en-us/support/technical-support.aspx.&nbsp.
+Unless otherwise authorized by Sophos in writing, technical support is provided for the latest version of the relevant Product.
+Sophos may, but is not obliged to, continue supporting old or discontinued Product versions.
+ 4.4 If Maintenance is discontinued in accordance with Clause 8 below, Sophos may (at its sole discretion) offer extended Maintenance packages beyond the published discontinuation date in consideration for an extended Maintenance subscription Fee.
+ 4.5 Sophos reserves the right in its discretion to limit the number of Users who may contact Sophos technical support.
+ 4.6 Any custom or sample code, files or scripts (âFixesâ) provided by Sophos as part of the provision of technical support that do not form part of its standard commercial offering may only be used (i) in conjunction with the Product for which such Fixes were developed, and (ii) during the relevant Product Term, subject to the provisions of Clause 15.6.
+
+5.&nbsp.
+WARRANTIES FOR LICENSED PRODUCTS.
+INDEMNITY
+ 5.1 Without limiting Clauses 15.8 or 15.9 that apply to Consumers and subject to Clause 15.6.5, Sophos warrants to Licensee only that for a period of ninety (90) days from the date of purchase (the "Licensed Products Warranty Period"): (i) the Licensed Products will perform substantially in accordance with the Documentation provided that they are operated in accordance with the Documentation on the designated operating system(s).
+and (ii) the Documentation will adequately describe the operation of the Licensed Products in all material respects.
+ 5.2 If Licensee notifies Sophos in writing of a breach of warranty under Clause 5.1 during the Licensed Products Warranty Period, Sophosâs entire liability and Licenseeâs sole remedy shall be at Sophosâs option: (i) to correct, repair or replace the Licensed Product and/or Documentation within a reasonable time, or (ii) to terminate the License Agreement as to the affected Licensed Product, and the corresponding License Entitlement, and authorize a pro rata refund of the Fee following return of the relevant Licensed Product (and all copies thereof) accompanied by proof of purchase.
+Any replacement Licensed Products shall be warranted for the remainder of the original Licensed Products Warranty Period.
+ 5.3 The warranty in Clause 5.1 shall not apply if (i) the Licensed Product has not been used in accordance with the terms and conditions of this License Agreement and the Documentation, (ii) the issue has been caused by failure of the Licensee to apply Updates, Upgrades or any other action or instruction recommended by Sophos, (iii) the issue has been caused by the act or omission of, or by any materials supplied by, the Licensee or any third party, or (iv) the issue results from any cause outside of Sophosâs reasonable control.
+ 5.4 Subject to Clauses 5.5 through 5.7 and Clause 15.6.5, Sophos shall (a) defend, indemnify, and hold Licensee harmless from any third party claim, action, suit or proceeding alleging that Licenseeâs use or possession of the Product in accordance with the terms and conditions of this License Agreement infringes such third partyâs patent, trademark or copyright (âClaimâ).
+and (b) reimburse Licenseeâs reasonable attorneyâs fees and costs actually incurred and any damages finally awarded or agreed to by Sophos in a monetary settlement.&nbsp.
+Sophos shall have sole control of the defense of the Claim and all associated settlement negotiations.&nbsp.
+Sophos may require Licensee to join and co-operate with the defense and/or settlement of the Claim at Sophosâs cost.   
+ 5.5 If a Claim is made or appears likely to be made, Sophos, in its sole discretion, may: (i) procure a license so that Licenseeâs use and possession of the Licensed Product in accordance with the terms and conditions of this License Agreement does not infringe any third party patents, trademarks or copyrights.
+(ii) modify or replace the Product with a functionally equivalent Product so that it no longer infringes the third partyâs patents, trademarks or copyrights.
+or (iii) terminate the license to use the Product upon notice to Licensee and provide a pro rata refund of Fees paid for such Product that (a) relates to the period after the date of termination in the case of subscription term Products, and (b) is depreciated on a straight line five (5) year basis commencing on the date of purchase in the case of perpetual term Products.
+ 5.6 Exclusions. Sophos shall have no liability or responsibility to indemnify, defend, and hold Licensee harmless under Clause 5.4 if: (i) Licensee fails to notify Sophos in writing within ten (10) days of Licensee being notified of any such Claim, (ii) Licensee does not, at the written request of Sophos, promptly cease to use or possess the Product that is the subject of the Claim, (iii) Licensee, without Sophosâs prior written consent, acknowledges the validity of the Claim or takes any action that might impair the ability of Sophos to contest the Claim, (iv) the infringement arises due to modification of the Product by anyone other than Sophos, use of the Product other than in accordance with the Documentation, or use of the Product with any hardware, software or other component not provided by Sophos, and the infringement would not have arisen without such use or modification, or (v) the Claim is raised based on use or possession in a country that is not a party to the World Intellectual Property Organization (WIPO) treaties on patents, trademarks and copyrights.
+ 5.7 EXCEPT IN RELATION TO CONSUMER USE OF THE PRODUCTS UNDER CLAUSE 15.8 (IN WHICH CASE CLAUSE 15.8 SHALL ALSO APPLY) AND SUBJECT TO CLAUSE 15.6.5, CLAUSES 5.4, 5.5 AND 5.6 SET OUT LICENSEEâS SOLE AND EXCLUSIVE REMEDY AND SOPHOSâS SOLE OBLIGATION AND LIABILITY IN THE EVENT THAT THE PRODUCTS INFRINGE OR ARE ALLEGED TO INFRINGE THE PATENTS, TRADEMARKS, COPYRIGHTS OR OTHER INTELLECTUAL PROPERTY RIGHTS OF ANY THIRD PARTY.
+LICENSEE WILL IN ANY EVENT MITIGATE LICENSEEâS LOSSES AS FAR AS POSSIBLE.
+
+6. DISCLAIMER OF WARRANTIES
+ 6.1 EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN CLAUSE 5.1 ABOVE AND CLAUSES 15.2.6 AND 15.9.1 BELOW, SOPHOS AND ITS THIRD-PARTY LICENSORS AND SUPPLIERS AND THE CONTRIBUTORS OF CERTAIN INCLUDED SOFTWARE MAKE NO WARRANTIES, CONDITIONS, UNDERTAKINGS OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, IN RELATION TO THE PRODUCT OR ANY THIRD PARTY SOFTWARE, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, UNINTERRUPTED USE, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR ARISING FROM COURSE OF DEALING, USAGE OR TRADE.
+SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO LICENSEE AND LICENSEE MAY HAVE OTHER LEGAL RIGHTS THAT VARY FROM STATE TO STATE OR BY JURISDICTION.
+ 6.2 WITHOUT LIMITATION TO THE FOREGOING, BUT SUBJECT TO CLAUSE  15.9.1, SOPHOS DOES NOT WARRANT OR REPRESENT THAT (i) THE PRODUCT WILL MEET LICENSEEâS REQUIREMENTS, (ii) THE OPERATION OF THE PRODUCT WILL BE ERROR FREE OR UNINTERRUPTED, (iii) DEFECTS IN THE PRODUCT WILL BE CORRECTED, (iv) THE PRODUCTS WILL DETECT, CORRECTLY IDENTIFY AND/OR DISINFECT ALL THREATS, APPLICATIONS (WHETHER MALICIOUS OR OTHERWISE) OR OTHER COMPONENTS, (v) LICENSEE IS ENTITLED TO BLOCK ANY THIRD PARTY APPLICATIONS, OR (vi) THAT LICENSEE IS ENTITLED TO ENCRYPT OR DECRYPT ANY THIRD PARTY INFORMATION.
+ 6.3 LICENSEE FURTHER ACKNOWLEDGES AND AGREES THAT LICENSEE SHALL BE SOLELY RESPONSIBLE FOR PROPER BACK-UP OF ALL OF ITS DATA AND THAT LICENSEE SHALL TAKE APPROPRIATE MEASURES TO PROTECT SUCH DATA.
+SUBJECT TO CLAUSE 15.9.1, SOPHOS AND ITS THIRD-PARTY LICENSORS ASSUME NO LIABILITY OR RESPONSIBILITY WHATSOEVER IF DATA IS LOST OR CORRUPTED.
+
+7. LIMITATION OF LIABILITY
+ 7.1 LICENSEE USES THE PRODUCT AT LICENSEEâS OWN RISK.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL SOPHOS OR ANY OF ITS THIRD-PARTY LICENSORS AND SUPPLIERS OR THE CONTRIBUTORS OF INCLUDED SOFTWARE BE LIABLE TO LICENSEE FOR, OR TO THOSE CLAIMING THROUGH LICENSEE FOR, ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGE OR LOSS OF ANY KIND INCLUDING, BUT NOT LIMITED TO, LOSS OF PROFITS, LOSS OF CONTRACTS, BUSINESS INTERRUPTIONS, COST OF SUBSTITUTE GOODS OR SERVICES, LOSS OF OR CORRUPTION OF DATA HOWEVER CAUSED AND WHETHER ARISING UNDER CONTRACT OR TORT (INCLUDING WITHOUT LIMITATION NEGLIGENCE), AND INCLUDING WITHOUT LIMITATION ANY LOSS OR DAMAGE RELATED TO ANY THIRD PARTY SOFTWARE EVEN IF SOPHOS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+THE LIMITATIONS IN THIS CLAUSE SHALL APPLY NOTWITHSTANDING THE FAILURE OF THE ESSENTIAL PURPOSE OF ANY REMEDY.
+ 7.2 IF ANY LIMITATION, EXCLUSION, DISCLAIMER OR OTHER PROVISION CONTAINED IN THIS LICENSE AGREEMENT IS HELD TO BE INVALID FOR ANY REASON BY A COURT OF COMPETENT JURISDICTION AND SOPHOS BECOMES LIABLE THEREBY FOR LOSS OR DAMAGE THAT MAY LAWFULLY BE LIMITED, SUCH LIABILITY WHETHER IN CONTRACT, TORT (INCLUDING WITHOUT LIMITATION NEGLIGENCE) OR OTHERWISE, WILL NOT EXCEED THE LESSER OF (i) THE FEE PAID BY LICENSEE AND (ii) SOPHOSâS LIST PRICE FOR THE PRODUCT.
+ 7.3 SUBJECT TO CLAUSE 15.6.6, IN NO EVENT SHALL SOPHOSâS AGGREGATE LIABILITY TO LICENSEE ARISING OUT OF OR IN CONNECTION WITH THIS LICENSE AGREEMENT, FROM ALL CAUSES OF ACTION AND THEORIES OF LIABILITY (INCLUDING WITHOUT LIMITATION NEGLIGENCE), EXCEED THE LESSER OF (i) THE FEE PAID BY LICENSEE AND (ii) SOPHOSâS LIST PRICE FOR THE PRODUCT.
+ 7.4 SOPHOS DOES NOT LIMIT OR EXCLUDE ITS LIABILITY FOR (i) DEATH OR PERSONAL INJURY CAUSED BY NEGLIGENCE, (ii) FRAUDULENT MISREPRESENTATION, OR (iii) ANY OTHER LIABILITY TO THE EXTENT THAT SUCH LIABILITY CANNOT BE EXCLUDED OR LIMITED BY APPLICABLE LAW
+
+8. PRODUCT CHANGES
+ Subject to Clause 4 and Clause 11, Licensee is entitled to receive software Updates, and may be required to install or allow installation of software Updates as a condition of continued use of Licensed Products.
+Licensee acknowledges and agrees that Sophos may vary, Update or discontinue Products, Product versions, Product features, Product support, Product Maintenance, and support for third party products (including without limitation operating systems and platforms) from time to time for reasons including but not limited to changes in demand or enhancing security and technology.
+Licensee consents to receive Updates or Upgrades to the Licensed Products automatically through the Internet without obtaining further consent each time.
+Sophos is not responsible if an Update or Upgrade affects how a Licensed Product works if this is caused by Licenseeâs own equipment or device not supporting the Update or Upgrade.
+Licensee can withdraw consent at any time under certain conditions by contacting Sophos.
+ Sophos will provide a reasonable amount of advance notice of any planned Product discontinuation of a core Product feature, Licenseeâs license to a Product, Product Maintenance, or Product support, or support for third party products (a âDiscontinuationâ) to Licensee, including without limitation by emailing or publishing the date(s) of each planned Discontinuation at: https://www.sophos.com/en-us/support.
+ Licensee acknowledges and agrees that it is Licenseeâs sole responsibility to review the applicable Sophos retirement calendars published at https://www.sophos.com/en-us/support prior to purchasing a Licensed Product.
+Unless otherwise required by applicable law, Sophos will not provide a refund of Fees paid for a Product or service that is subject to a Discontinuation.
+Sophos may, at its sole discretion, substitute a Product, service, or management platform subject to a Discontinuation with a Product, service, or management platform with substantially equivalent functionality.
+Sophos recommends Licensees always use the latest version of a Product and/or third-party product, as the case may be.
+
+9. 
+THIRD PARTY SOFTWARE
+ The Products may operate or interface with software or other technology that is licensed to Sophos from third parties.
+Licensee agrees that (a) it will use such third party software in accordance with this License Agreement, (b) no third party licensor makes any warranties, conditions, undertakings or representations of any kind, either express or implied, to Licensee concerning such third party software or the Products themselves, (c) no third party licensor will have any obligation or liability to Licensee as a result of this License Agreement or Licensee's use of such third party software, (d) the third party licensor is a beneficiary of this License Agreement and accordingly may enforce the terms and conditions herein to the extent necessary to protect its rights in relation to the third party software, and (e) such third party software may be licensed under license terms that grant Licensee additional rights or contain additional restrictions in relation to such materials, beyond those set forth in this License Agreement, and such additional license rights and restrictions are described or linked to in the applicable Documentation, the relevant Sophos webpage, or within the Product itself.
+For the avoidance of any doubt, such additional rights and/or restrictions apply to the third-party software on a standalone basis.
+nothing in such third party licenses shall affect Licenseeâs use of the Licensed Products in accordance with the terms and conditions of this License Agreement.&nbsp.
+&nbsp.
+
+ If the Documentation indicates that the Licensed Product includes Java software (âJavaâ) from Oracle Corporation (âOracleâ), the following additional required terms from Oracle apply to use of Java as part of the Licensed Product:&nbsp.
+Use of the Commercial Features for any commercial or production purpose requires a separate license from Oracle.&nbsp.
+âCommercial Featuresâ means those features identified in Table 1-1 (Commercial Features In Java SE Product Editions) of the Java SE documentation accessible at http://www.oracle.com/technetwork/java/javase/documentation/index.html.
+If the Licensed Product is Sophos Central Wireless, the Google Maps / Google Earth Additional Terms of Service (including the Google Privacy Policy) apply to use of the Licensed Product.
+
+10. GOVERNMENT RIGHTS.
+NON-WAIVER OF GOVERNMENT IMMUNITY
+ 10.1 If Licensee is an agency or other part of the U.S.
+Government, the Licensed Products and the Documentation are commercial computer software and commercial computer software documentation and their use, duplication and disclosure are subject to the terms of this License Agreement per FAR 12.212 or DFARS 227.7202-3, as amended, or equivalent provisions of agencies that are exempt from the FAR or that are U.S.
+state or local government agencies.
+Other terms or modifications to this License Agreement may apply to government agencies and Users and are addressed in the relevant EULA Addendum for Government Licensees or Users available at https://www.sophos.com/en-us/legal/addendum-for-government-licensees-or-users.aspx.
+10.2 If Licensee is a federal, state, or other governmental instrumentality, organization, agency, institution, or subdivision, the limitations of liability and Licenseeâs indemnity obligations herein shall apply only in the manner and to the extent permitted by applicable law, and without waiver of Licenseeâs constitutional, statutory, or other immunities, if any. 
+
+
+
+11. EXPORT CONTROL, ANTI-BRIBERY AND COMPLIANCE WITH APPLICABLE LAWS
+ 11.1 Licensee is solely responsible for ensuring that the Products are used, accessed, disclosed and/or transported only in accordance with Sanctions and Export Control Laws.
+ 11.2 Licensee certifies that Licensee or Users, or any party that owns or controls or is owned or controlled by Licensee or Users, are not (i) ordinarily resident in, located in, or organized under the laws of any country or region subject to economic or financial sanctions or trade embargoes imposed, administered, or enforced by the European Union, the United Kingdom, or the United States.
+(ii) an individual or entity on the Consolidated List of Persons, Groups, and Entities Subject to European Union Financial Sanctions.
+the U.S.
+Department of the Treasury's List of Specially Designated Nationals and Blocked Persons or Foreign Sanctions Evaders List.
+the U.S.
+Department of Commerce's Denied Persons List or Entity List.
+or any other sanctions or restricted persons lists maintained by the European Union, the United Kingdom, or the United States.
+or (iii) otherwise the target or subject of any Sanctions and Export Control Laws.
+Licensee further certifies that it will not, directly or indirectly, export, re-export, transfer, or otherwise make available (a) the Products, or (b) any data, information, software programs and/or materials resulting from the Products (or direct product thereof) to any country, region, or person described in this Clause or in violation of, or for purposes prohibited by, Sanctions and Export Control Laws, including for proliferation-related end uses.
+
+ 11.3 Licensee agrees that Sophos shall have no obligation to provide any Updates, Upgrades or services related to the Products where Sophos believes the provision of such Updates, Upgrades or services could violate Sanctions and Export Control Laws.
+ 11.4 Further details are available at https://www.sophos.com/en-us/legal/export.aspx.
+ 11.5 Each party warrants that in entering into this License Agreement neither the party nor any of its officers, employees, agents, representatives, contractors, intermediaries or any other person or entity acting on its behalf has taken or will take any action, directly or indirectly, that contravenes (i) the United Kingdom Bribery Act 2010, or (ii) the United States Foreign Corrupt Practices Act 1977, or (iii) any other applicable anti-bribery laws or regulations anywhere in the world.
+ 11.6 Licensee warrants that its use and possession of the Products is and will continue to be in accordance with all other applicable laws and regulations.
+In particular but without limitation, Licensee acknowledges and agrees that it may be necessary under applicable law for Licensee to inform and/or obtain consent from individuals before it intercepts, accesses, monitors, logs, stores, transfers, exports, blocks access to, and/or deletes their communications.
+Licensee is solely responsible for compliance with such laws.
+ 11.7 ANY BREACH OR SUSPECTED BREACH OF CLAUSE 11 BY LICENSEE SHALL BE A MATERIAL BREACH INCAPABLE OF REMEDY AND ENTITLES SOPHOS TO TERMINATE THIS LICENSE AGREEMENT IMMEDIATELY WITH OR WITHOUT NOTICE TO LICENSEE.
+In addition, Licensee agrees (to the extent permitted by applicable law, and without waiver of Licenseeâs constitutional, statutory, or other immunities, if any) to indemnify and hold Sophos harmless from and against any claim, proceeding, loss, liability, cost or damage suffered or incurred by Sophos resulting from or related to Licenseeâs violation of Clause 11.
+
+
+12. TERMINATION
+ 12.1 Subject to Clause 15.9.3, this License Agreement and Licenseeâs rights under it will terminate immediately if: (i) Licensee fails to pay the Fee to Sophos or the Partner (as applicable) in accordance with the agreed payment terms.
+or (ii) Sophos does not receive payment from the relevant Partner for the Products and packages provided to Licensee, or (iii) Licensee breaches any of the terms and conditions of this License Agreement.
+or (iv) other than for Products licensed on a perpetual basis for which payment has already been received in full, if Licensee becomes insolvent.
+ 12.2 Subject to Clause 12.5, Licensee may terminate the license for the applicable Licensed Product(s) at any time by uninstalling and destroying the relevant Licensed Product and Documentation and all copies thereof.
+ 12.3 Within one (1) month after the date of termination of this License Agreement or the applicable Product Term, upon Sophosâ request, Licensee will supply Sophos with written certification of the destruction of all partial and complete copies of the applicable Licensed Product and Documentation.
+In the case of encryption Products, Licensee shall decrypt all encrypted drives and data prior to uninstalling and destroying the Product.
+ 12.4 Licenseeâs right to use and access the Products will automatically terminate on expiry of the applicable Product Term or this License Agreement (whichever is the earlier) unless and until Licensee renews Licenseeâs license for the Products.
+ 12.5 Except as expressly set forth herein, all Fees paid or payable are non-refundable to the maximum extent permitted by law.
+
+13. CONFIDENTIALITY AND DATA PROTECTION
+ 13.1 Sophos and the Licensee may receive or have access to confidential information under or in relation to this License Agreement that is secret and valuable to the other party and its licensors. A recipient is not entitled to use, communicate or disclose the other partyâs confidential information to a third party without the disclosing partyâs prior, written consent.
+The recipient will use the same degree of care that it uses to protect the confidentiality of its own confidential information of like kind (but not less than reasonable care).
+ 13.2 The Licensed Products (including any Updates or Upgrades) may: (i) cause Licenseeâs device to automatically communicate with Sophosâs servers to deliver the functionality described in the product description or through new features as they are introduced, and to record usage metrics.
+(ii) affect preferences or data stored on Licenseeâs device.
+and (iii) collect personal information as set out in our Privacy Notice.
+Licensee acknowledges and agrees that Sophos may directly and remotely communicate with the Products in order to provide Maintenance and technical support, and to collect the following types of information: (i) Products, Product versions, Product features and operating systems being used by Licensee, (ii) processing times taken by the Product, (iii) Licenseeâs customer identification code and company name, and (iv) IP address and/or ID of the machine that returns the above listed information.
+Certain Products may require the collection of additional information as detailed in the Sophos Privacy Notice at: https://www.sophos.com/en-us/legal/sophos-group-privacy-notice.aspx (the âPrivacy Noticeâ).
+ 13.3 The information collected under Clause 13.2 may be used for the purposes of (i) providing the Products and performing this License Agreement, (ii) verifying Licenseeâs compliance with the License Entitlement, (iii) evaluating and improving the performance of the Products, (iv) preparing statistical analysis (such as malware infection rates and the usage of Products), (v) planning development roadmaps and product lifecycle strategies, (vi) issuing alerts and notices to Licensee about incidents and product lifecycle changes that affect the Products being used by Licensee.
+ 13.4 Sophos may also require identification information for the Licensee, including, but not limited to, Licenseeâs contact details and (where applicable) payment information for the purposes of (i) providing technical support, (ii) billing, (iii) verifying Licenseeâs credentials and License Entitlement, (iv) issuing license expiry and renewal notices, (v) carrying out compliance checks for export and sanction control purposes, and (vi) providing account management.
+Licensee agrees to provide complete and accurate identification information to Sophos promptly upon Sophosâs request.
+ 13.5 If the Licensee elects to send malware samples or any other materials to Sophos for review, the Licensee shall remove any regulated personally identifiable information, health information, and payment card data prior to submission.
+ 13.6 Licensee expressly gives Sophos permission to (i) include and publish Licenseeâs name and logo on lists of Sophosâs customers, where Licensee is not a Consumer as described in Clause 15.8, and (ii) send promotional emails to Licensee to provide information about other Sophos products and services.
+If Licensee does not wish to give Sophos permission for the uses described under this Clause, Licensee shall notify Sophos by emailing unsubscribe@sophos.com and specify which permission is not granted.
+ 13.7 Licensee may receive certain transactional or informational messages from Sophos.
+Licensee understands and agrees that these communications are part of Licenseeâs use of the Products, and that Licensee may not opt out of receiving these communications.
+
+14. GENERAL.
+
+ 14.1 Any Partner from whom Licensee may have purchased the Product is not appointed by Sophos as its servant or agent.
+No such person has any authority, either express or implied, to enter into any contract or provide any representation, warranty or guarantee to Licensee or any third party or to translate or modify this License Agreement in any way on behalf of Sophos or otherwise to bind Sophos in any way whatsoever.
+ 14.2 Licensee has no obligation to provide Sophos with ideas, suggestions, concepts, or proposals relating to Sophosâs products or business (âFeedbackâ).
+However, if Licensee provides Feedback to Sophos, Licensee grants Sophos a non-exclusive, perpetual, irrevocable, worldwide, sub-licensable, transferable, royalty-free right and license to store, make, use, sell, market, have made, offer to sell, import, reproduce, publicly display, transmit, distribute, modify, publicly perform, and otherwise exploit such Feedback, in whole or in part, for any purpose, including combining the Feedback with other materials and/or products and making derivative works of or alterations to the Feedback in any manner or format whatsoever, without any reference, obligation, or remuneration to Licensee.&nbsp.
+All Feedback shall be deemed non-confidential to Licensee.&nbsp.
+Licensee shall not provide to Sophos any Feedback it has reason to believe is or may be subject to the intellectual property claims or rights of a third party.   
+ 14.3 (i) Self-Audits.
+To help manage Licenseeâs use of the Products and Licenseeâs compliance with this License Agreement, Licensee agrees to perform a self-audit upon ten (10) working daysâ prior written notice from Sophos, calculating the number of Users, Computers, Servers or other applicable units benefiting from the Products.
+If Licenseeâs self-audit reveals that Licenseeâs actual usage exceeds the License Entitlement, Licensee shall procure the additional licenses required from Sophos or its preferred Partner.
+(ii) Formal Audits.
+If Licensee does not perform a self-audit upon request from Sophos, or if Sophos has reason to doubt the results of such self-audit, upon prior written notice to Licensee, Licensee shall permit Sophos or an independent certified accountant appointed by Sophos to access Licenseeâs premises and inspect Licenseeâs books of account and records at any time during normal business hours for the purpose of inspecting, auditing, verifying or monitoring the manner and performance of Licenseeâs obligations under this License Agreement, including without limitation the payment of all applicable license fees.
+Any such audit shall minimize the disruption to Licenseeâs business operations.&nbsp.
+Sophos shall not be able to exercise this right more than once in each calendar year.
+If an audit reveals that Licensee has underpaid fees to Sophos, Licensee shall be invoiced for and shall pay to Sophos or the Partner (as applicable) within thirty (30) days of the date of invoice an amount equal to the shortfall between the fees due and those paid by Licensee.
+If the amount of the underpayment exceeds five percent (5%) of the fees due or the audit reveals a violation of any license restrictions pursuant to this License Agreement then, without prejudice to Sophosâs other rights and remedies, Licensee shall also pay Sophosâs reasonable costs of conducting the audit.
+ 14.4 Sophos may in its sole discretion assign, novate, subcontract or otherwise transfer any of its rights or obligations hereunder.
+ 14.5 Sophos may amend the terms and conditions of this License Agreement and/or any documents and policies referenced herein at any time by notice to Licensee, including without limitation by posting revised terms and conditions on its website at https://www.sophos.com/en-us/legal  and/or the location of such document or policy.
+Such amended terms and conditions shall be binding upon Licensee with effect from the date of such change.
+For the avoidance of doubt, such amended terms and conditions shall supersede any prior version of the License Agreement that may have been embedded in or packaged with the Product itself.
+ 14.6 Failure by either party to enforce any particular term or condition of this License Agreement shall not be construed as a waiver of any of its rights under it.
+ 14.7 The illegality, invalidity or unenforceability of any part of this License Agreement will not affect the legality, validity or enforceability of the remainder.
+ 14.8 If Licensee and Sophos have signed a separate written agreement covering the licensing and use of the Products, the terms and conditions of such signed agreement shall take precedence over any conflicting terms and conditions of this License Agreement.
+Otherwise this License Agreement, the Schedule and the documents and policies referenced herein constitute the entire agreement between the parties relating to the licensing and use of the Products and supersede any other oral or written communications, agreements or representations with respect to the Products, except for any oral or written communications, agreements or representations made fraudulently. 
+ 14.9 If there are any inconsistencies between the English language version of this License Agreement and any translated version, the English language version shall prevail.
+ 14.10 Subject to Clause 9(d), a person who is not a party to this License Agreement has no right to enforce any term or condition of this License Agreement, and the parties to this License Agreement do not intend that any third party rights are created by this License Agreement.
+ 14.11 Governing Law.
+In the event the Sophos subsidiary entity from which Licensee has purchased the licenses is located in:
+ The United States of America, Canada, or Latin America, this License Agreement, the relationship between Licensee and Sophos, and any dispute or claim arising out of or in connection with it, including without limitation non-contractual disputes or claims, shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts notwithstanding its conflicts of law principles.
+The parties waive any right to a jury trial in any litigation arising out of or in connection with this License Agreement.
+and
+ ANY OTHER COUNTRY, this License Agreement and any dispute or claim arising out of or in connection with it, including without limitation non-contractual disputes or claims, shall be governed by and construed in accordance with the laws of England and Wales, without regard to conflict of laws principles.
+ Nothing in this License Agreement shall limit any right of the Consumer to take proceedings in or to benefit from consumer protection laws that apply in the Consumerâs country of residence.
+ The parties agree that the UN Convention on Contracts for the International Sale of Goods (CISG, Vienna, 1980) shall not apply to this License Agreement or to any dispute or transaction arising out of this License Agreement.
+ 14.12 Jurisdiction.
+In the event the Sophos subsidiary entity from which Licensee has purchased the licenses is located in:
+ The United States of America, Canada, or Latin America, the federal and state courts of the Commonwealth of Massachusetts, U.S.A.
+shall have exclusive jurisdiction to determine any dispute or claim that may arise out of, under, or in connection with this License Agreement.
+and 
+ ANY OTHER COUNTRY, the courts of England and Wales shall have exclusive jurisdiction to determine any dispute or claim that may arise out of, under, or in connection with this License Agreement.
+ 14.13 Nothing in Clause 14.11 shall limit the right of Sophos to initiate proceedings against Licensee in any court of competent jurisdiction where deemed necessary by Sophos to (i) protect its intellectual property rights, (ii) protect its confidential information, and/or (iii) recover overdue payments.
+ 14.14 Any notices required to be given to Sophos or any questions concerning this License Agreement should be addressed to The Legal Department, Sophos Limited, The Pentagon, Abingdon Science Park, Abingdon, OX14 3YP, United Kingdom with a copy to legalnotices@sophos.com.
+ 14.15 The following Clauses shall survive any termination or expiration of this License Agreement: 2, 6, 7, 11, 12.3, 13.1, 14, 15.2.5, 15.6.5, and 15.6.6.
+ 14.16 Force Majeure.
+The failure of Sophos to comply with any provision of this License Agreement due to an act of God, hurricane, war, fire, riot, earthquake, terrorism, and act of public enemy, actions of governmental authorities (excepting compliance with applicable codes and regulations) or other force majeure event will not be considered a breach of this License Agreement.
+
+15. ADDITIONAL TERMS AND CONDITIONS.
+ The first part of this License Agreement includes general terms and conditions applicable to all Products.
+The additional terms and conditions in this Clause 15 below apply only to the Products referenced in each section.
+
+15.1 Direct Purchases from Sophos. This Clause only applies if Licensee purchases Products from Sophos directly, rather than through a Partner:
+15.1.1 All Products are delivered ICC Incoterms 2010 Ex Works from the applicable Sophos site.
+Accordingly, the Licensee is responsible for delivery costs, export clearances, import clearances, and insurance costs.
+ 15.1.2 Fees shall be paid in full, in the currency and via the payment method specified on the invoice, within thirty (30) days of the date of such invoice.
+ 15.1.3 Unless expressly stated otherwise, the Fee is exclusive of value added tax and any other federal, state, municipal or other governmental taxes, duties, licenses, fees, excises or tariffs.
+ 15.1.4 Invoices may provide for interest to be paid on any sums not remitted by the due date.
+
+15.2 Hardware Products. This Clause only applies to Hardware Products:
+15.2.1 Sophos retains title to the Hardware until such time as any Free Trial described in Clause 15.6 below (if applicable) expires, and Licensee pays the Hardware Fee to Sophos or a Partner, as applicable, and Sophos receives the Hardware Fee in full.
+Unless and until title to the Hardware has transferred to Licensee in accordance with this Clause, Licensee agrees to keep the Hardware free and clear of all claims, liens, and encumbrances, and any act by Licensee, either voluntary or involuntary, purporting to create a claim, lien or encumbrance on the Hardware shall be void.
+Licensee owns only the Hardware or media, if applicable, on which the Licensed Product is installed.
+Licensee does not own the Licensed Product itself.
+15.2.2 In the event that Licensee fails to pay or Sophos does not receive the Fee for the Hardware, Licensee shall return the Hardware to the return location indicated by Sophos, securely and properly packaged, with carriage (and insurance at Licenseeâs option) prepaid.
+If Licensee fails to return the Hardware to the indicated location promptly, upon written notice Sophos will be entitled to enter Licenseeâs premises during normal business hours to repossess such Hardware.
+15.2.3 Risk of loss passes to Licensee upon shipment of the Hardware to Licensee.
+Insurance, if any, covering the Hardware shall be Licenseeâs sole responsibility.
+15.2.4 Licensee acknowledges that the Hardware is sold hereunder solely as the medium for delivery and operation of the Licensed Products and, unless otherwise agreed by the parties in writing, Sophos at its option may provide Hardware that is either new or refurbished.
+15.2.5 Licensee is solely responsible for complying with any applicable governmental regulations relating to waste, health and safety, including without limitation those that relate to the EC Directive on Waste Electrical and Electronic Equipment (2002/96/EC) ("WEEE") and The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations (2002/95/EC) ("RoHS") (as amended) in connection with Licenseeâs use, transport and/or disposal of the Hardware.
+15.2.6 Sophos offers a limited warranty for Hardware as set out in the Hardware Warranty Policy at: https://www.sophos.com/en-us/legal.
+
+15.3 Sophos Central and other Cloud Products (collectively âCloud Productsâ). This Clause only applies to Sophos Cloud Products:
+ 15.3.1 The Licensee shall not store or transmit any content through the Sophos Cloud Products that (i) is unlawful, pornographic, obscene, indecent, harassing, racially or ethnically offensive, harmful, threatening, discriminatory or defamatory, (ii) facilitates or promotes illegal activity, (iii) infringes any third party intellectual property rights, or (iv) is otherwise inappropriate (âProhibited Contentâ).
+ 15.3.2 The Licensee acknowledges that Sophos has no control over any content stored or transmitted by Licensee, does not monitor such content and accordingly acts as a mere conduit.
+Sophos reserves the right to remove content from the Sophos Cloud Products immediately without prior notice where it reasonably suspects that such content is Prohibited Content.
+The Licensee shall (to the extent permitted by applicable law, and without waiver of Licenseeâs constitutional, statutory, or other immunities, if any) indemnify and hold Sophos harmless from and against all damages, losses and expenses arising as a result of any third party action or claim relating to Licenseeâs content.
+ 15.3.3 The Sophos Cloud Products are not designed for the storage of regulated health or payment card data and Licensee may only store or transmit such information through Sophos Cloud Products if it has entered a separate written agreement with Sophos expressly permitting such purpose.
+ 15.3.4 Prior to termination or expiry of the Product Term, Licensee must (i) remove all Product settings from its Servers and Computers, and (ii) remove all of its custom settings, software and data from the Sophos network.&nbsp.
+For certain Products, Sophos may download and return the data upon request and for a reasonable fee to be agreed in writing in advance.
+Subject to applicable laws, Sophos reserves the right to delete data that has not been removed after such termination or expiry date.
+
+ 15.4 Sophos Network Security Products.
+This Clause only applies to the Sophos Firewall, Sophos Firewall Manager, Sophos iView and Sophos UTM Products:
+ 15.4.1 LICENSEE ACKNOWLEDGES AND AGREES THAT THE PRODUCT MAY REQUIRE THE COMPLETE ERASURE OF THE HARD DISK OF THE TARGET COMPUTER DURING INSTALLATION, INCLUDING WITHOUT LIMITATION THE OPERATING SYSTEM RESIDENT THEREON.
+BY INSTALLING THE AFOREMENTIONED PRODUCT, LICENSEE EXPRESSLY AGREES THAT IT SHALL ENSURE THAT THE COMPUTER ON WHICH SUCH PRODUCT IS TO BE INSTALLED DOES NOT CONTAIN ANY VALUABLE DATA, THE LOSS OF WHICH WOULD CAUSE DAMAGE TO LICENSEE, AND, SUBJECT TO CLAUSE 15.8, SOPHOS EXPRESSLY DISCLAIMS ANY LIABILITY FOR LOSSES OF ANY KIND RELATED TO LICENSEEâS FAILURE TO DO SO.
+
+ 15.5 Employee Personal Use.
+
+ 15.5.1 Employee personal use of Products is not permitted without the prior express written consent of Sophos.
+If Sophos agrees to permit personal use of any Product, such use is subject to the terms of this License Agreement, and must not cause Licenseeâs total usage, including such personal use does not exceed the License Entitlement
+ 15.5.2 Sophos may, in Sophosâs sole discretion, make Sophos Home, Sophos HitmanPro, or Sophos HitmanPro.Alert (each a âPersonal Use Productâ) available to Licensee for personal use by employees of Licensee at no additional cost to Licensee.
+Such use shall be subject to the terms and conditions accompanying the Personal Use Product.
+ 15.5.3 Licensee shall ensure that its employees are aware of and comply with the terms and conditions of this License Agreement, and, to the extent permitted by applicable law, Licensee shall be responsible for the acts and omissions of its employees relating to use of the Products.
+
+ 15.6 Free Trials, Fixes, Technical Previews, Beta Testing, Early Access Programs and Free Tools.
+ 15.6.1 If Sophos permits the Licensee to conduct a free trial of a commercially available Product (the âFree Trialâ), the Licensee may use the Product free of charge for evaluation solely for Licenseeâs own internal information security purposes for a maximum of thirty (30) days, or such other duration as specified by Sophos in writing at its sole discretion (the âTrial Periodâ).
+If the Licensee does not purchase the Product, the rights to use the Product will terminate immediately upon expiry of the Trial Period.
+ 15.6.2 If the Free Trial relates to Hardware, Licensee must return the Hardware to the return location indicated by Sophos, securely and properly packaged, with carriage (and insurance at Licenseeâs option) prepaid upon the expiry of the Trial Period.
+Licensee is solely responsible for removing any and all of Licenseeâs data from the Hardware prior to return.
+If Licensee fails to return the Hardware upon expiry of the Trial Period, Sophos may invoice, and Licensee shall pay for, the Hardware at list price.
+ 15.6.3 Sophos makes certain tools available for use in connection with other Products free of charge (âFree Toolsâ).
+Such Free Tools may only be used for the express purposes permitted by Sophos as identified in the associated documentation.
+The Product Term applicable to a Free Tool shall continue for the period indicated by Sophos or until (i) Sophos withdraws the Free Tool, or (ii) Sophos notifies the Licensee that it is no longer permitted to use the Free Tool.
+No Maintenance or technical support is included with, or provided for, Free Tools.
+ 15.6.4 If Sophos provides Licensee with a Product for technical preview or beta testing purposes as part of an early access program (a âPreview Productâ), Licensee may use the Preview Product for evaluation purposes only for the period specified by Sophos (the âTest Periodâ).
+Licensee shall test the Preview Product in accordance with any conditions specified in the readme file for the software and/or any associated documentation and shall gather and report test data, and other Feedback to Sophos as set forth in Clause 14.2.
+Except for Consumer Preview Products, the Preview Product must only be used in a non-production test environment unless expressly approved otherwise by Sophos.
+Licenseeâs right to use the Preview Product shall terminate upon expiry of the Test Period.
+Sophos does not warrant that it will release a commercial version of the Preview Product, or that a commercial version will contain the same or similar features as the Preview Product.
+Any Preview Product and accompanying documentation shall be considered Sophosâs confidential information as set forth in Clause 13.1.
+ 15.6.5  Clause 5 (âWarranties for Licensed Products.
+Indemnityâ) shall not apply to Free Trial products, Fixes, Free Tools and Preview Products.
+FREE TRIAL PRODUCTS, FIXES, FREE TOOLS AND PREVIEW PRODUCTS ARE PROVIDED âAS ISâ WITHOUT WARRANTY OR REMEDY OF ANY KIND.
+
+ 15.6.6 Clauses 7.2 and 7.3 shall not apply to Free Trial products, Fixes, Free Tools and Preview Products. IF ANY LIMITATION, EXCLUSION, DISCLAIMER OR OTHER PROVISION CONTAINED IN THIS LICENSE AGREEMENT IS HELD TO BE INVALID FOR ANY REASON BY A COURT OF COMPETENT JURISDICTION AND SOPHOS BECOMES LIABLE THEREBY FOR LOSS OR DAMAGE RELATING TO A FREE TRIAL, FIX, FREE TOOL, OR PREVIEW PRODUCT THAT MAY LAWFULLY BE LIMITED, SUCH LIABILITY WHETHER IN CONTRACT, TORT OR OTHERWISE, WILL NOT EXCEED ONE HUNDRED POUNDS STERLING (Â£100) OR ITS LOCAL CURRENCY EQUIVALENT.
+
+ 15.7 Support Services Exceptions for Certain Products.
+Certain Products may be eligible for extended support in certain circumstances, upon payment of any applicable Fee by Licensee.
+A list of the eligible Products and details regarding the availability of extended support can be found at https://community.sophos.com/kb/en-us/134968 .
+
+
+15.8 Consumers. The following Clauses 15.8 and 15.9 apply if Licensee is a Consumer: PLEASE REVIEW THIS SECTION CAREFULLY.&nbsp.
+IT CONTAINS INFORMATION ABOUT CERTAIN IMPORTANT TERMS IN RELATION TO THE USE OF THE CONSUMER PRODUCTS PROVIDED BY SOPHOS.&nbsp.
+IT ALSO DETAILS YOUR LEGAL RIGHTS IN RELATION TO THESE PRODUCTS.
+15.8.1 Licensee is only permitted to use those Products that are expressly designated by Sophos as suitable and available for Consumer use.
+15.8.2 Licensee may only purchase Sophos Consumer Products if Licensee is at least the age of majority or are acting with the consent and supervision of a parent or guardian.
+15.8.3 Licensee acknowledges that the Products have not been developed to meet Licenseeâs individual requirements, and that it is therefore Licenseeâs responsibility to ensure that the facilities and functions of the Products as described in the Documentation meet Licenseeâs requirements.
+15.8.4 If Licensee experiences any problems with any Products: (i) If Licensee has any questions or complaints about any Product, please contact Sophos by emailing our customer service team at support@sophos-home.zendesk.com.
+Note that technical support for Sophos Consumer Products is provided separately from Sophosâs standard technical support offerings.
+Please refer to the Product Documentation for the technical support options available to Licensee for each Consumer Product. (ii) If Licensee is a Consumer in the EU, Sophos is under a legal duty to supply Products that are in conformity with the contract set out in this License Agreement.
+Nothing in these License Agreement terms will affect Licenseeâs consumer legal rights made available in the country in which Licensee lives if applicable.
+If Licensee requires information about Licenseeâs rights, Licensee should contact Licenseeâs local legal counsel or local consumer support organizations.
+15.8.5 Consumer Products are supplied only for domestic and private use.
+Licensee is not permitted to use the Products for any commercial, business or re-sale purposes, and to the maximum extent permitted by law, Sophos has no liability for any loss of profit, loss of business, business interruption, or loss of business opportunity.
+15.8.6 If Licensee is a Consumer in the EU, Clauses 7.1, 7.2 and 7.3 (which detail certain limitations on Sophos's potential liability) shall not apply to Licensee.
+Subject to additional rights Licensee may have as a Consumer as are further described in Clause 15.8, Sophos is only responsible for loss or damage that Licensee suffers that is a foreseeable result of (i) breach of this License Agreement or (ii) Sophosâs negligence.
+In the absence of such breaches of this License Agreement by Sophos, Licenseeâs use of the Products is at Licenseeâs own risk.
+Sophos is not responsible for any loss or damage that is not foreseeable.
+Loss or damage is foreseeable if it was an obvious consequence of the breach or if it was contemplated by both parties at the commencement of this License Agreement.
+Sophos does not exclude or limit in any way its liability to Licensee where it would be unlawful to do so.
+This includes liability for death or personal injury caused by our negligence or the negligence of Sophos's employees, agents or subcontractors.
+for fraud or fraudulent misrepresentation.
+for breach of Licenseeâs legal rights in relation to the Products as summarized at Clause 15.8.5 above.
+15.8.7 Clauses 14.11 and 14.12 shall not limit Licenseeâs right to take proceedings in or to benefit from consumer protection laws that apply in the country in which Licensee lives, including without limitation any right to alternative dispute resolution if Licensee is a Consumer in the EU.
+
+
+ 15.9 Consumer Products.
+
+15.9.1 Where Licensee has: (a) paid for a Product.
+or (b) received a Product for free as part of a bundle with other paid goods, services or other digital content, and this Product is not generally available to Consumers unless they have paid a price for it or for the other goods, services or other digital content, Sophos warrants that such Products will be (i) of satisfactory quality, (ii) reasonably fit for purpose, and (iii) as described in the Documentation.
+
+15.9.2 Where Sophos is in breach of Clause 15.9.1, Sophos will (i) at its own cost, repair or replace the Product within a reasonable time and without significant inconvenience to the Consumer, or (ii) grant the Consumer a reasonable Fee reduction for the Product where the Product cannot be repaired or replaced within a reasonable time and without significant inconvenience to the Consumer.
+Licenses for the âSophos Home Premiumâ Product may be returned to the Partner from which Licensee purchased the Product for a refund of the Fees paid, for any reason, within thirty (30) days of the date of purchase.
+15.9.3 Where the Product Term is perpetual or of an indefinite duration and the Licensee is a Consumer, if Sophos has a right to terminate this License Agreement, Sophos will provide reasonable notice before exercising this right except where there are serious grounds for terminating immediately.
+15.9.4 If Licensee is a Consumer in the EU, where a Product supplied to Licensee causes damage to a device or to other digital content which, in either case, is owned by a Consumer (even where such Product is provided for free), Sophos will, in its sole discretion, either (i) at its own cost, repair the damage within a reasonable time and without significant inconvenience to the Consumer, or (ii) compensate the Consumer for the damage with an appropriate payment.
+
+
+15.9.5 This Clause 15.9 shall take precedence (or in other words, be read so that they replace other terms) to the extent that there are any conflicting terms and conditions elsewhere in this License Agreement.
+
+
+15.9.6 Other important terms
+(i) Sophos may transfer its rights and obligations under this License Agreement to another organization, and Sophos will always notify Licensee in writing if this happens, but this will not affect Licenseeâs rights or Sophos's obligations under this License Agreement. (ii) Licensee may only transfer Licenseeâs rights and obligations under this License Agreement to another person if Sophos agrees in writing. (iii) The contract formed by this License Agreement is between Licensee and Sophos.
+No other person shall have any rights to enforce any of its terms.  (iv) Each of the paragraphs of this License Agreement operates separately.
+If any court or relevant authority decides that any of them are unlawful, the remaining paragraphs will remain in full force and effect. (v) If Sophos fails to insist that Licensee perform any of Licenseeâs obligations under this License Agreement, or if Sophos does not enforce its rights against Licensee, or if Sophos delays in doing so, that will not mean that Sophos has waived its rights against Licensee and will not mean that Licensee does not have to comply with those obligations.
+If Sophos does waive a default by Licensee, Sophos will only do so in writing, and that will not mean that Sophos will automatically waive any later default by Licensee. (vi) Sophos may amend the terms and conditions of this License Agreement and/or any documents and policies referenced herein at any time by notice to Licensee.
+Sophos will use reasonable efforts to bring any such changes Licenseeâs attention, including without limitation via in-Product informational notices.
+Such amended terms and conditions shall be binding upon Licensee within fifteen (15) calendar days, unless Licensee objects to such amended terms and conditions by terminating Licenseeâs license in accordance with Clause 12.2 or by notifying Sophos at legalnotices@sophos.com and entering into a subsequent written agreement between Sophos and Licensee.
+Failure to terminate Licenseeâs license within such period shall mean that Licensee expressly and unreservedly accepts all the amendments contained in the notice, which shall take effect immediately upon expiry of said fifteen (15) calendar day period.
+For the avoidance of doubt, such amended terms and conditions shall supersede any prior version of the License Agreement that may have been embedded in or packaged with the Product itself.
+15.9.7 ARBITRATION AND CLASS ACTION WAIVER PLEASE READ THIS SECTION CAREFULLY - IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT. This section 15.9.7 applies to Sophos, residents of the United States, and those who attempt to commence litigation within the United States.  (i) Federal Arbitration Act.
+Licensee and Sophos agree that this License Agreement affects interstate commerce and that the Federal Arbitration Act governs the interpretation and enforcement of these arbitration provisions.
+This Clause 15.9.7 is intended to be interpreted broadly and governs any and all disputes between Licensee and Sophos including but not limited to claims arising out of or relating to any aspect of the relationship between us, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory.
+claims that arose before this License Agreement or any prior agreement (including, but not limited to, claims related to advertising).
+and claims that may arise after the termination of this License Agreement.
+The only disputes excluded from this broad prohibition are the litigation of certain intellectual property and small court claims, as provided below. (ii) Initial Dispute Resolution.
+Most disputes can be resolved without resort to arbitration.
+Licensee and Sophos agree to use their best efforts to settle any dispute, claim, question, or disagreement directly through consultation with each other, and good faith negotiations shall be a condition to either party initiating a lawsuit or arbitration.
+To commence this procedure, Licensee agrees to contact Sophosâ support department via our support portal at https://secure2.sophos.com/en-us/support/contact-support.aspx or The Legal Department, Sophos Limited, The Pentagon, Abingdon Science Park, Abingdon, OX14 3YP, United Kingdom with a copy to legalnotices@sophos.com, and provide a brief, written description of the dispute and Licenseeâs contact information (including information that could be used to identify Licenseeâs registered account if Licenseeâs dispute relates to an account).
+Alternatively, Sophos may contact Licensee using the last available information it has for Licensee. (iii) Binding Arbitration.
+If the Licensee and Sophos do not reach an agreed-upon solution within a period of sixty (60) days from the time informal dispute resolution is initiated under the Initial Dispute Resolution provision above, then either You or Sophos may initiate binding arbitration as the sole means to resolve claims (except as provided in (v) below) subject to the terms set forth below.
+Specifically, all claims arising out of or relating to this License Agreement (including, but not limited to, its formation, performance, and breach), the partiesâ relationship with each other, and/or Licenseeâs download of, access to, or use of the Licensed Products shall be finally settled by binding arbitration administered by JAMS in accordance with the JAMS Streamlined Arbitration Procedure Rules for claims that do not exceed $250,000 and the JAMS Comprehensive Arbitration Rules and Procedures for claims exceeding $250,000, in effect at the time the arbitration is initiated, excluding any rules or procedures governing or permitting class actions.  The arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability, or formation of this License Agreement, including, but not limited to any claim that all or any part of this License Agreement is void or voidable, whether a claim is subject to arbitration, or the question of waiver by litigation conduct.
+The arbitrator shall be empowered to grant whatever relief would be available in a court under law or in equity.
+The arbitrator's award shall be written, and binding on the parties and may be entered as a judgment in any court of competent jurisdiction.  To start an arbitration, Licensee must do the following: (A) Write a Demand for Arbitration that includes a description of the claim and the amount of damages you seek to recover.
+Licensee may find a copy of a Demand for Arbitration at www.jamsadr.com.
+(B) Send three copies of the Demand for Arbitration, plus the appropriate filing fee, to JAMS, One Beacon Street Suite 2210 Boston, MA 02108-3106 USA.
+and (C) Send one copy of the Demand for Arbitration to us at The Legal Department, Sophos Limited, The Pentagon, Abingdon Science Park, Abingdon, OX14 3YP, United Kingdom with a copy to legalnotices@sophos.com. To the extent the filing fee for the arbitration exceeds the cost of filing a lawsuit, Sophos will pay the additional cost.
+If the arbitrator finds the arbitration to be non-frivolous, Sophos will pay all of the actual filing and arbitrator fees for the arbitration.
+Licensee is responsible for Licenseeâs own attorneys' fees unless the arbitration rules and/or applicable law provide otherwise. The parties understand that, absent this mandatory provision, they would have the right to sue in court and have a jury trial.
+They further understand that, in some instances, the costs of arbitration could exceed the costs of litigation and the right to discovery may be more limited in arbitration than in court. If Licensee is a resident of the United States or commences litigation within the United States, arbitration may take place at any reasonable location within the United States convenient for you.
+Residents of the United States, those who commence litigation within the United States, and Sophos further agree to submit to the personal jurisdiction of any federal or state court in the Commonwealth of Massachusetts, U.S.A., in order to compel arbitration, to stay proceedings pending arbitration, or to confirm, modify, vacate, or enter judgment on the award entered by the arbitrator. (iv) Class Action Waiver.
+The parties further agree that the resolution of any disputes between the parties shall be conducted in their individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis. YOU AND SOPHOS AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provisions set forth above shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate disputes. (v) Exception: Litigation of Intellectual Property and Small Claims Court Claims.
+Notwithstanding the parties' decision to resolve all disputes through initial dispute resolution or binding arbitration, either party may bring an action in state or federal court or in the U.S.
+Patent and Trademark Office to protect its intellectual property rights (âintellectual property rightsâ means patents, copyrights, moral rights, trademarks, and trade secrets, but not privacy or publicity rights).
+Either party may also seek relief in a small claims court for disputes or claims within the scope of that court's jurisdiction.
+For such disputes, Licensee and Sophos agree to submit to the personal and exclusive jurisdiction of and venue in the federal and state courts located in the Commonwealth of Massachusetts, U.S.A.
+Licensee further agrees to accept service of process by mail, and hereby waive any and all jurisdictional and venue defenses otherwise available.  (vi) 30-Day Right to Opt Out.
+Licensee has the right to opt out and not be bound by the arbitration and class action waiver provisions set forth above by sending written notice of your decision to opt out to legalnotices@sophos.com with the subject line, âARBITRATION AND CLASS ACTION WAIVER OPT-OUT.â The notice must be sent within thirty (30) days of your first download of, access to, or use of the Product, otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs.
+If you opt out of these arbitration provisions, Sophos also will not be bound by them. (vii) Changes to this Section.
+Sophos will provide sixty (60) days' notice of any changes to this section.
+Changes will become effective on the sixtieth (60th) day, and will apply prospectively only to any claims arising after the sixtieth (60th) day.
+If a court or arbitrator decides that this subsection on âChanges to this Sectionâ is not enforceable or valid, then this subsection shall be severed from the Section entitled Arbitration and Class Action Waiver, and the court or arbitrator shall apply the first Arbitration and Class Action Waiver (or similarly named) section in existence after Licensee first downloaded, accessed, or used the Products.
+SOPHOS END USER LICENSE AGREEMENT (25 August 2020) Browse DocumentsSelect a license agreement or other legal document from the menu below. EULA Addendum for Government Licensees or Users Sophos Code of Conduct Data Processing Addendum Conflict Minerals Policy Sophos Whistleblowing Policy Competition Rules General Diversity Policy Sophos Crimea Guidance Note Employee Personal Use Policy Product Privacy Information Sophos Cookie Information Hardware Warranty Policy Sophos Global Trade Compliance Partner (Reseller) Application Terms and Conditions Licensing Guidelines SMS Notification Service Terms U.K.
+Modern Slavery Act 2015 Transparency Statement 2020 Shareholder Data Privacy Notice Sophos Group plc Anti-corruption and Bribery Policy Sophos Cloud Security Provider - Partner Addendum Sophos Ltd End User Undertaking Sophos End-User License Agreement (EULA) Sophos Partner Agreement Resellers Sophos Group Privacy Notice Sophos Managed Service Provider Agreement Sophos Professional Services Terms and Conditions Sophos Responsible Disclosure Policy Sophos &amp.
+GDPR Sophos Training Terms and Conditions Service Description - Sophos Managed Threat Response and Sophos Rapid Response Service Description - Sophos Rapid Response SophosLabs Information Security Policy Sophos Services Agreement Sophos Sub-processor List Sophos Website Terms of Use Sophos Product Classifications Sophos Modern Slavery Policy English
+Languages
+
+ç®ä½ä¸­æ
+ÄeskÃ½
+English
+FranÃ§ais
+Deutsch
+Magyar
+Italiano 
+æ¥æ¬èª
+íêµ­ì´
+Polski
+Portuguese
+EspaÃ±ol
+ç¹é«ä¸­æ
+Turkish
+
+
+Â© 1997-2021 Sophos Ltd.
+All rights reserved.Legal
+General
+Modern Slavery Statement
+Speak Out
+
+Privacy
+Privacy Notice
+Cookies
+
+TermsThis site uses cookies to improve site functionality, for advertising purposes, and for website analytics.
+By continuing to use the site you are agreeing to our use of cookies.
+Learn More
+Continue 1 of 5 previous next close 
+      

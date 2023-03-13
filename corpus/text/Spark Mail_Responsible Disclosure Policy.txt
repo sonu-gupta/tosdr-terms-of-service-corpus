@@ -1,0 +1,178 @@
+
+We use cookies to personalize your experience on our websites.
+By using our website, you agree to the use of cookies as described in our Privacy Policy. OK Free download 
+ Spark 
+ Features 
+ Spark for Teams 
+ Pricing 
+ Resources 
+ About us 
+ Blog 
+ How To 
+ Help center 
+
+
+ Spark Responsible Disclosure Policy If you believe you have discovered a security or privacy vulnerability that affects Spark software, services, or web servers, please report it to us.
+Before reporting, please review our responsible disclosure policy below. Expectations Security is core to our values, and we value the input of security professionals acting in good faith to help us maintain a high standard for the security and privacy of our users.
+This includes encouraging responsible vulnerability research and disclosure.
+This policy sets out our definition of good-faith in the context of finding and reporting vulnerabilities, as well as what you can expect from us in return.
+When working with us according to this policy, you can expect us to:
+
+Extend Safe Harbor for your vulnerability research that is related to this policy;
+Work with you to understand and validate your report, including a timely initial response to the submission;
+Work to remediate discovered vulnerabilities in a timely manner.
+and
+Recognize your contribution to improving our security if you are the first to report a unique vulnerability, and your report triggers a code or configuration change.
+ Ground Rules To encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:
+
+Play by the rules.
+This includes following this policy any other relevant agreements;
+Report any vulnerability youâve discovered promptly;
+Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;
+Use only the Official Channels to discuss vulnerability information with us;
+Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;
+Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;
+If a vulnerability provides unintended access to data: Limit the amount of data you access to the minimum required for effectively demonstrating a Proof of Concept.
+and cease testing and submit a report immediately if you encounter any user data during testing, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information;
+You should only interact with test accounts you own or with explicit permission from the account holder.
+and
+Do not engage in extortion;
+Do not perform any âdenial of serviceâ types of attacks.
+ Safe Harbor When conducting vulnerability research according to this policy, we consider this research conducted under this policy to be:
+
+Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;
+Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;
+Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis.
+and
+Lawful, helpful to the overall security of the Internet, and conducted in good faith.
+
+You are expected, as always, to comply with all applicable laws.
+If legal action is initiated by a third party against you and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.
+If at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report through one of our Official Channels before going any further. Scope 
+The sparkmailapp.com website, sparkmailapp.com, smartmailcloud.com, and related subdomains.
+All related Spark services and functionality, Spark APIs, back-end and infrastructure
+Spark applications on iOS, macOS, Android
+ Any public (Internet-facing) infrastructure owned and operated by Spark mail app 
+Examples include firewalls, networking devices, compute instances, proxies, etc.
+
+
+ Any public cloud (e.g.
+Google Cloud Platform) resource or infrastructure operated and managed by Spark.
+
+Public cloud storage accounts.
+(e.g.
+GCP cloud storage buckets)
+Public cloud compute servers.
+(e.g.
+GCP instances)
+
+
+Anything with significant impact across our entire security posture or infrastructure
+ Out of Scope 
+Attacks which require using an outdated operating system, browser, and/or Spark software
+Attacks designed or likely to degrade, deny, or adversely impact services or user experience (e.g., Denial of Service, Distributed Denial of Service, Brute Force, Password Spraying, Spamâ¦).
+Attacks designed or likely to destroy, corrupt, make unreadable (or attempts therein) data or information that does not belong to you.
+Attacks designed or likely to validate stolen credentials, credential reuse, account takeover (ATO), hijacking, or other credential-based techniques.
+Intentionally accessing data or information that does not belong to you beyond the minimum viable access necessary to demonstrate the vulnerability.
+Performing physical, social engineering, or electronic attacks against Spark/Readdle personnel, offices, wireless networks, or property.
+Phishing attacks on mailbox owners and 'spam filtering' as mail security mechanisms are out of scope of the Spark mail app.
+Reports of non-sandboxed applications that could access Spark local database on macOS or secret tokens inside Keychain
+Security issues in third-party applications, services, or dependencies that integrate with Spark products or infrastructure that do not have a demonstrable proof of concept for the vulnerability (e.g., libraries, SAAS services).
+Security issues or vulnerabilities created or introduced by the reporter (e.g., modifying a library we rely on to include a vulnerability for the sole purpose of receiving a reward).
+Attacks performed on any systems not explicitly mentioned as authorized and in-scope.
+Reports of missing âbest practicesâ or other guidelines that do not indicate a security breach.
+Reports of security issues related to deliberately set weak security controls by the account owner (e.g.
+using an email account with a weak password)
+Reports of successful Keychain or application data extraction on jailbroken iOS devices
+Reports of successful Android Keystore or application data extraction on rooted Android devices
+Reports of missing source code obfuscation in application binary files or embedded interpreted code
+Vulnerabilities requiring physical access to the victimâs unlocked device
+Reports generated from automated vulnerability assessment tools.
+Missing cookie flags on non-sensitive cookies.
+Reports of insecure SSL/TLS ciphers (unless accompanied by working proof of concept).
+Reports of simple IP or port scanning.
+Missing HTTP headers (e.g.
+lack of HSTS).
+Reports of missing Domain Name System Security Extensions (DNSSEC)
+Email security best practices or controls (e.g.
+SPF, DKIM, DMARC).
+Software or infrastructure bannering, fingerprinting, or reconnaissance with no proven vulnerability.
+Reports of the presence of version information
+Reports of old versions of the software without demonstration of vulnerability in Spark apps.
+Clickjacking or self-XSS reports.
+Any vulnerabilities requiring significant and unlikely interaction by the victim, such as disabling browser controls or running unsigned software.
+Reports of publicly resolvable or accessible DNS records for internal hosts or infrastructure.
+Reports of user-provided remote code execution in sandboxed environments (e.g., Product Features).
+Domain-based phishing, typosquatting, punycodes, bitflips, or other techniques.
+Leakage of sensitive tokens, passphrases, and keys to trusted third parties on a secure connection (HTTPS).
+Reports that are based on having full control of authorized user session (e.g.
+victim is using a compromised system or distracted from public computer before logging out)
+Reports of CSRF for logout endpoint
+Reports of EXIF geolocation metadata not stripped from service images or userâs attachments
+Reports of privilege escalation attempts that change the application user interface but does not actually expose or modify any data on the server.
+Reports of bypassing IP-based rate limits by using the pool of IP addresses
+ Rewards We believe in recognizing the work of others.
+Spark provides rewards to vulnerability reporters at its discretion.
+You can use the following indicative values for general guidance:
+
+Critical (9.0-10.0) â $3000+
+High (7.0-8.9) â $1000
+Medium (4.0-6.9)â $500
+Low (0.1-3.9) â up to $100
+
+The reward amount depends on severity as determined by CVSS v3.0.
+When duplicates occur, we award the first report that we can completely reproduce.
+Multiple vulnerabilities caused by one underlying issue will be awarded one bounty.
+Currently, we do not offer rewards for software issues that do not have a security impact. Reporting To report a security or privacy vulnerability, send an email to security@sparkmailapp.com and include appropriate steps to reproduce, logs, and optionally videos in your message.
+Please report different findings by sending separate emails with a relevant subject each.
+You may use our PGP key to encrypt sensitive information that you send by email. Policy Text Our responsible disclosure policy is based on the https://disclose.io/ vulnerability disclosure framework.
+
+Features
+Smart Inbox
+Smart Search
+Snooze and Swipes
+Send Later
+Reminder to Follow-up
+Email Signatures
+Smart Notifications
+Attachments
+Services
+Personalization
+
+
+Spark for Teams
+Private Team Comments
+Shared Drafts
+Email Templates
+Create Link to Email
+Email Delegation
+
+
+Spark for Startups
+Spark for Sales
+Spark for Consulting
+
+
+Pricing
+
+
+Company
+About us
+Blog
+Media kit
+Privacy policy
+Terms of Use
+Responsible Disclosure
+
+
+ Help center 
+
+
+How To
+Add mail account to Mac
+Add mail account to iOS
+ Facebook Twitter YouTube  Â© 2007 - 2021 Readdle Inc. Apple, the Apple logo, MacBook, iPad, iPhone, Apple Watch, are trademarks of Apple Inc., registered in the U.S.
+and other countries.
+App Store and Mac App Store is a service mark of Apple Inc., registered in the U.S.
+and other countries.
+

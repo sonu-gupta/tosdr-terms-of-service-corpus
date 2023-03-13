@@ -1,0 +1,16 @@
+
+         TurboWarp Privacy Policy 
+Updated September 29th, 2021
+
+This document applies to https://turbowarp.org, https://experiments.turbowarp.org, and https://staging.turbowarp.org.
+We may log anonymous aggregated data such as how many people use the site, how often a feature is used, what operating system and browser is used, and diagnostic information such as cache hit ratios.
+When using cloud variables, the project ID and your username may be logged for up to 14 days.
+Your randomly generated or chosen username is stored in your browser's local storage.
+To mitigate the potential to track users with this feature, all randomly generated usernames are anonymized before the server receives them.
+However, usernames explicitly set by a user may be logged to help prevent abuse.
+Scratch extensions that require Wi-Fi (such as Translate, Text to Speech, LEGO, micro:bit, etc.) may connect to the Scratch API to implement these features.
+Refer to the Scratch privacy policy for more information.
+The Translate extension may instead make requests to a TurboWarp API, which may then forward your request to the Scratch API and log the message being translated and the result for caching and performance.
+In rare circumstances, connections that are appear to be spam may have their IP logged for up to 24 hours.
+This happens very infrequently and only in cases of extreme abuse.
+This document does not apply to third-parties, including other users or bots connected to cloud variables, links to external websites, custom extensions, or some advanced URL parameters. Contact Any concerns related to privacy or any other matter should be sent to: contact@turbowarp.org

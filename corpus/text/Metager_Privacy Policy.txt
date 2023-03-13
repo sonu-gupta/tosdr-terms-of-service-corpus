@@ -1,0 +1,177 @@
+
+         Data protection at MetaGer/SUMA-EV For maximum transparency, we list the information we collect from you and how we use it.
+The protection of your data is important to us and it should be you, too.
+
+Please read this statement thoroughly.
+it is in your interest. Person responsible and contact person MetaGer and related services are operated by SUMA-EV, which is also the author of this statement.
+By "we" in this statement usually SUMA-EV is meant.
+Our contact details can be found in our site notice.
+We can be reached by e-mail at office@suma-ev.de.
+Principles As a non-profit organization, we have committed ourselves to free access to knowledge.
+Since we know that free research is not compatible with mass surveillance, we also take privacy very seriously.
+We always only process the data that is necessary for the operation of our services.
+Data protection is always the standard we aim for.
+We do not operate profiling â i.e.
+the automatic creation of user profiles.
+Accumulating data by context 
+ Using the web search engine MetaGer When using our web search engine MetaGer via their web form or through their OpenSearch interface, the following data is generated: 
+ Internet protocol address The Internet protocol address (hereafter referred to as IP) is necessary to use web services such as MetaGer.
+This IP, in combination with a date similar to a telephone number, uniquely identifies Internet access and its owner.
+In general, the first three (out of four) blocks of an IP are not personal.
+When rear blocks of the IP are truncated, the truncated address identifies the approximate geographic area around the Internet connection.
+Examples (full IP address) 154.67.88.47 82.159.53.49 Examples (only the first two blocks) 154.67.0.0 82.159.0.0 What does MetaGer/SUMA-EV do with it? 
+To protect our service from congestion, we need to limit the number of search queries per Internet connection.
+For this purpose alone, we store the full IP address and a timestamp for a maximum of 96 hours.
+If a noticeable number of searches are performed by an IP, this IP is temporarily stored in a revocation list (maximum 96 hours after the last search).
+Then the IP is deleted.
+
+In addition to donations and membership fees, we must finance our operation through non-personalized advertising on the results page.
+To receive this advertising, we give the first two blocks of the IP in connection with parts of the so-called user agent to our advertising partners 
+ Which rights do I have as a user? Since the full form of the Internet Protocol address is personal, you have the following rights in particular: View rights 
+ Entered search query Entered search terms are mandatory for a web search.
+As a rule, personal data cannot be obtained from them.
+partly because they have no fixed structure.
+Beispiele Water consumption when showering Lyrics from the song There was a bird on a tree Grakvaloth WHO abbreviation What does MetaGer/SUMA-EV do with it? 
+As an integral part of the Metasearch, the search query will be transmitted to our partners to get search results for display on the results page.
+The results, including the search term, are kept for display for a few hours.
+
+
+
+ User Agent Name When a website is opened, your browser automatically sends an identifier, usually with data about the browser and operating system used.
+This browser identifier (the so-called user agent) can be used by web pages, for example, to recognize mobile devices and present them with a customized output.
+Example Mozilla/5.0 (X11.
+Ubuntu.
+Linux x86_64.
+rv:59.0) Gecko/20100101 Firefox/59.0 What does MetaGer/SUMA-EV do with it? 
+In addition to donations and membership fees, we must finance our operation through non-personalized advertising on the results page.
+To receive this advertising, we give parts of the user agent in connection with the first two blocks of the so-called IP-Adresse to our advertising partners.
+
+
+
+ User preferences In addition to form data and user agent, the browser often transmits additional data.
+These include language selection, search settings, accept header, do-not-track header and more.
+Examples interface=de sprachfilter=all fokus=web interface=de sprachfilter=de fokus=nachrichten interface=en sprachfilter=en fokus=web What does MetaGer / SUMA-EV do with it? 
+We use this data (e.g., language settings) to answer the query.
+We store some of these data non-personally for statistical purposes.
+
+
+ Use of the contact form When using the MetaGer contact form, we collect the following information that we store for reference purposes up to 2 months after your request has been completed: 
+ Contact data This includes the name you provided (first and last name) and your e-mail address.
+We only use this data to answer you and under no circumstances pass it on to third parties.
+Examples Max Mustermann, mail@example.com Erika Musterfrau, erika_m@domain.de
+
+ Message The message entered here will be transmitted to us and used to process your request.
+Examples Feedback to MetaGer MetaGer as a browser plug-in
+
+ Use of the donation form The following data submitted in the donation form will be stored for processing for 2 months: 
+ Contact data This includes the name you provided (first and last name) and your e-mail address.
+We use this data exclusively for any queries and under no circumstances pass them on to third parties.
+Examples Max Mustermann, mail@example.com Erika Musterfrau, erika_m@domain.de
+
+ Payment data The payment data will be used exclusively to process the donation and under no circumstances will be passed on to third parties.
+
+ Message (optional) The message entered here will be transmitted to us and considered when processing your donation.
+
+ Simple Website useage When visiting websites of the domain "suma-ev.de", the following data are collected and stored for up to one week: 
+Your IP-Address
+Name and URL of the retrieved file
+Date and time of access
+The referrer you sent
+The user agent you sent
+ We use the aforementioned data to ensure the functionality of the website and to protect ourselves from attacks.
+The legal basis for the processing is, therefore, a legitimate interest under Art.
+6 para.
+1 lit.
+f GDPR.
+ On the other websites of our domains, we process the collected data only to answer inquiries and in the context of the other points of this privacy policy.
+ On the start page of our service MetaGer we use the User-Agent you have assigned, to show you the appropriate plug-in installation guide to your browser.
+Registration for the SUMA-EV newsletter To keep you up to date on our activities, we offer an e-mail newsletter.
+We store the following data until you cancel: 
+ Contact data This includes the name you provided (first and last name) and your e-mail address.
+We use this data exclusively for sending the newsletter and under no circumstances pass it on to third parties.
+Examples Max Mustermann, mail@example.com Erika Musterfrau, erika_m@domain.de
+
+ Use of Maps.MetaGer.de When using the MetaGer map service, the following data is generated: 
+
+IP-Adress: Will not be stored or shared.
+User-Agent: Will not be stored or shared.
+Search query: Will not be stored or shared.
+Location data: Will not be stored or shared.
+ Use of the anonymizing proxy When using the anonymizing proxy, the following data is generated: 
+
+IP-Adress: Will not be stored or shared.
+User-Agent: Will not be stored or shared.
+ Using the citation search The entered search term is used to search for results in the citation database.
+In contrast to the web search with MetaGer, it is not necessary to pass the search term on to third parties, as the citation database is located on our server.
+Other data will not be stored or shared.
+Use of the associator The associator uses the search term to determine and display the terms associated therewith.
+Other data will not be stored or shared.
+Use of the MetaGer app Use of the MetaGer app is the same as using MetaGer via a web browser.
+Use of the MetaGer plugin When using the MetaGer plugin, the following data is generated: 
+
+IP-Adress: Will not be stored or shared.
+User-Agent: Will not be stored or shared.
+
+
+ Hosting Our services are administrated by us, the SUMA-EV, and operated on rented hardware at Hetzner Online GmbH.
+Legal basis for processing As a legal basis for processing your personal data, either Art.
+6 (1) lit.
+a GDPR, if you consent to the processing by using our services, or Art.
+6 para.
+1 lit.
+f GDPR, if the processing is necessary for the protection of our legitimate interests, or another legal basis, if we inform you separately.
+Your rights as a user (and our duties) To be able to protect your personal data, we clarify (in accordance with Art.
+13 GDPR) that you have the following rights: 
+
+Right to information:
+ You have the right (Art.
+15 GDPR) to request information from us at any time, if and if so, which of your data we (metager.de and SUMA-EV) have about you.
+We will send you as soon as possible, i.e.
+within days, a full copy pursuant to Art.
+15 (3) subparagraph 1 GDPR of the data stored about you or other data stored by us.
+For this, we prefer the electronic way according to article 15 (3) subparagraph 3 GDPR.
+For this we will save your e-mail address for the time of processing.
+Please inform us if you want to have the information expressly in paper form.
+
+Right to rectification and supplementation:
+ In accordance with Art.
+16 GDPR.
+If we have stored incorrect data about you, you can determine that they will be corrected.
+This also applies to missing components, here you have the right to supplement.
+
+Right to deletion:
+ In accordance with Art.
+17 GDPR 
+Right to restriction of processing:
+ In accordance with Art.
+18 GDPR.
+For example, if you have asked us to erase or modify data about you, you may impose a processing ban on us for the time we need to do so.
+This is possible regardless of whether we ultimately change, delete, etc.
+the data in question.
+
+Right to appeal:
+ In accordance with Art.
+13 (2) d) GDPR you can complain about us to the data protection officer of the state of Lower Saxony.
+In the web: Data Protection Officer 
+Right to object to processing:
+ In accordance with Art.
+21 GDPR.
+If, for example, you are on a list and you want to be listed there, you can still prohibit the processing or further processing of this data.
+
+Right to Data Portability:
+ In accordance with Art.
+20 GDPR.
+this means that we are required to provide you with the requested data in a readable, possibly machine-readable or common form, so that you would be able to make the data available to another person (to transfer).
+
+Obligation to notify in connection with the correction or deletion of personal data or the restriction of processing:
+ In accordance with Art.
+19 GDPR.
+if we have disclosed information you have entrusted to us to third parties (which we never do), we would be obliged to notify those that we performed a deletion, modification, etc.
+at your request.
+ To exercise these rights, it is sufficient to send us an e-mail to office@suma-ev.de.
+If you prefer the letter form, please send us postal mail to our office address: 
+SUMA-EV RÃ¶selerstraÃe 3 30159 Hannover Changes to this statement Like our offers, this privacy policy is subject to constant change.
+You should therefore read it again regularly.
+This version of our Privacy Policy is dated 2018-05-24.
+
+      

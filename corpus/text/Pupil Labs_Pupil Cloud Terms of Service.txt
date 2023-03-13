@@ -1,0 +1,226 @@
+
+         Added to cartView cartproductsinvisiblecoreVR/ARcloudsupportlearnaboutcareersblogmenuproductslearnaboutcareersblog
+Pupil Cloud Terms of ServiceLast updated: 2020-01-211.
+General 1.1.
+Pupil Labs GmbH, registered with the German Commercial Register of the district court AG Charlottenburg (registration number HRB 155541), SanderstraÃe 28, 12047 Berlin (âPupil Labsâ.
+âWeâ) offers cloud based data management services for use with an eye tracking device offered by Pupil Labs (Pupil Invisible, âPIâ) as further specified on https://www.pupil-labs.com (the âWebsiteâ) and individually offered by Pupil Labs (the âPupil Cloud Serviceâ or âPupil Cloud Servicesâ).
+1.2.
+All contractual relationships between Pupil Labs and any user using the Pupil Cloud Services offered by Pupil Labs (a âUserâ, âUsersâ) shall be governed by these terms of service (the âTerms of Serviceâ).
+Pupil Labs may amend the Terms of Service pursuant to section 14 hereof.
+1.3.
+The Pupil Cloud Service offerings of Pupil Labs are available to both Consumers and Business Customers (as defined below).
+For the purpose of these Terms of Service, (i) a âConsumerâ is any individual entering into the contract for a purpose not related to their business, trade or self-employed professional activity (Sec.
+13 of the German Civil Code), and (ii) a âBusiness Customerâ is a User (whether an individual, company or partnership vested with legal capacity) who enters into the relevant contract in the conduct of their business or self-employed professional activity (Sec.
+14 (1) of the German Civil Code).
+1.4.
+Standard business conditions and/or general terms and conditions of the User do not apply, regardless of whether or not Pupil Labs has expressly objected to them in a particular case. 2.
+Object of contract 2.1.
+Pupil Labs provides the Pupil Cloud Services as Software as a Service (SaaS).
+As part of the Pupil Cloud Services, system resources will be made available to the User on a server.
+2.2.
+Pupil Labs is entitled to use sub-contractors in the allocation of storage space and server recourses.
+Currently, Pupil Labs is using the services of Digital Ocean LLC (https://www.digitalocean.com) Hetzner Online GmbH (https://www.hetzner.de) and Amazon Web Services Inc.
+(https://aws.amazon.com), but reserves the right to replace its services by similar services of third parties that are operating servers in Germany.
+The use of sub-contractors does not release Pupil Labs from its obligations to full compliance with its contractual obligations hereunder.
+2.3.
+Pupil Labs makes available the Pupil Cloud Services at the router exit of the data center in which the server is located (âTransfer Pointâ).
+The User is responsible for the Internet connection between the User and the data centre and the hardware and software required for this (e.g.
+PC, network connection). 3.
+Registration and use of Pupil Cloud Services 3.1.
+Any use of the Pupil Cloud Services requires prior registration via the Pupil Cloud Services webinterface or in the âPupil Invisible Companion Appâ offered by Pupil Labs (the âAppâ or âInvisible Companion Appâ) that is available via the Google Play Store.
+3.2.
+The use of the Pupil Cloud Services in a basic version and with basic functions and within certain capacity caps is free of charge after registering.
+Pupil Labs may offer the User to subscribe to a paid subscription plan to use the Pupil Cloud Services with additional functions and capacities.
+3.3.
+Pupil Cloud Services may be accessed via a web-browser (https://cloud.pupil-labs.com) and/or via the App.
+When using the App the User is required to accept both the Terms of Use of the App (https://www.pupil-labs.com/legal/invisible-companion-terms-of-use) as well as these Terms of Service.
+3.4.
+Accepting of these Terms of Service by the User constitutes an offer by the User to use the Pupil Cloud Services, which shall be deemed to be accepted by Pupil Labs by making available the respective Pupil Cloud Service.
+Upon the acceptance of a subscription a contract between the User and Pupil Labs is concluded (the âAgreementâ).
+3.5.
+The User can subscribe to additional Pupil Cloud Services on a monthly or annual basis.
+All subscriptions will be automatically renewed for another month/year (as applicable) until the User or Pupil Labs terminate the subscription. 4.
+Scope of Service/Availability 4.1.
+The scope of the Pupil Cloud Services depends on the respective subscription plan chosen by the User as further described on the Website.
+4.2.
+The Pupil Cloud Services will be offered subject to availability.
+Pupil Labs aims at an average service availability of 99% per calendar month.
+The decisive factor is the availability of the Pupil Cloud Services at the Transfer Point.
+Not included in the calculation of availability are (i) the regular maintenance windows, which can be up to 5 hours per week and are usually carried out between 22:00 and 4:00 Central European Time, (ii) times of unavailability due to mandatory unscheduled maintenance work that is necessary to eliminate malfunctions, (iii) times of unavailability due to circumstances beyond Pupil Labsâ control, in particular force majeure.
+4.3.
+However, if the Pupil Cloud Services are used free of charge, Pupil Labs shall only be obligated to make good efforts to make the Pupil Cloud Services accessible in accordance with the availability specified in section 4.2 above.
+4.4.
+The Content (as further defined below but excluding User made recordings) generated by the User using the Pupil Cloud Services will be secured by regular backups by Pupil Labs.
+4.5.
+Pupil Labs reserves the right to extend the Pupil Cloud Services and make improvements if they (i) serve technical progress.
+or (ii) appear necessary to prevent misuse.
+Further, Pupil Labs shall be entitled to change the Pupil Labs Services if (i) applicable law, court rulings or administrative decisions require such amendments, (ii) the changes are only beneficial to the User, (iii) the changes are of a purely technical or procedural nature with no material effect on the User.
+All other changes to the Pupil Cloud Services shall be subject to section 14 hereof.
+4.6.
+Pupil Labs reserves the right to discontinue the Pupil Clouds Services in compliance with the termination regulation pursuant to section 7 hereof.
+However, in this case, Pupil Labs will provide the User with an updated App, which provides all basic functionality of PI in a stand-alone fashion. 5.
+Technical Requirements 5.1.
+In order to use the Pupil Cloud Services, the User must frequently check all technical details and conditions on the Website, which will be updated by Pupil Labs (âTechnical Requirementsâ).
+5.2.
+The User is solely responsible for the fulfilment of the Technical Requirements.
+Pupil Labs does not owe and/or provide any consultancy services in connection therewith if not otherwise agreed with Pupil Labs. 6.
+Prices and Payment 6.1.
+The User, when using a paid subscription plan, will be required to provide Pupil Labs with billing and account information for credit card, debit or other payment systems (each a âPayment Sourceâ) for which the User is authorized to approve charges to allow Pupil Labs to collect payment from the User for their purchase(s).
+The User authorizes Pupil Labs to automatically and immediately bill the Payment Source when payments for subscription plans are due.
+6.2.
+The billing of a subscription plan is made on a pre-paid basis.
+The payment source will be billed within five bank working days of the beginning of the chosen subscription period and at every renewed period of subscription respectively according to the current price list.
+6.3.
+Pupil Labs may amend the price list of Services at any time upon observance of statutory regulations and notifying the User about the amendment. 7.
+Termination of Agreement 7.1.
+The User may unsubscribe from any unpaid subscription without giving reason or notice by deleting the user account via the Pupil Cloud settings menu.
+Pupil Labs shall be entitled to terminate an unpaid subscription with a notice period of three (3) months, however, not within the first two (2) years after the purchase of PI by the User.
+7.2.
+A paid subscription may be terminated before the end of the ordered subscription period or the end of the respective renewed period.
+The User can also change the length of the ordered subscription plan before the end of their subscription period instead of terminating the Agreement.
+The ordinary termination of an Agreement before expiry of the respective subscription period is hereby excluded.
+7.3.
+The right of termination for cause and without notice remains unaffected for both parties.
+A good cause for termination shall include, but shall not be limited to, any of the following events:
+7.3.1.
+the User fails to comply with any applicable legal provisions;
+7.3.2.
+the User fails to comply with any terms of these Terms of Service, in particular section 8, and, where reasonable, Pupil Labs has given the User the opportunity to stop any misconduct but the User failed to do so .
+and/or
+7.3.3.
+the User, fails to pay the fees for the ordered Pupil Cloud Services for two consecutive dates or fails to pay a significant portion of the remuneration despite of a warning by Pupil Labs.
+7.4.
+Any termination declaration must be at least in text form according to section 126b BGB (e.g.
+by letter, email) to Pupil Labs GmbH, SanderstraÃe 28, 12047 Berlin or info@pupil-labs.com. 8.
+Obligations of the User The User shall have sole responsibility and liability for any content uploaded to the Pupil Cloud Services (the âContentâ).
+The User must ensure that the Content does not infringe any third party rights and, in particular, that the User has obtained the permission of a person depicted in the Content or having rights to objects depicted in the Content to use the Content within the Pupil Cloud Service.
+8.1.
+The User shall use the Pupil Cloud Services in accordance with the intended purpose, these Terms of Service and in accordance with any applicable statues, laws and/or regulations.
+The User may not
+8.1.1.
+make the Pupil Cloud Services available in any manner to any third party for use in the third partyâs business operations;
+8.1.2.
+modify, make derivative works of, disassemble, reverse compile, or reverse engineer any part of the Pupil Cloud Services.
+or
+8.1.3.
+access or use the Pupil Cloud Services in order to build or support, and/or assist a third party in building or supporting, products or services competitive to the App;
+8.1.4.
+use the Pupil Cloud Services to distribute illegal content and/or content that infringes the rights of any third party;
+8.1.5.
+license, sell, rent, lease, transfer, assign, distribute, display, host, outsource, disclose, or otherwise commercially exploit or make the Pupil Cloud Services available, to any third party;
+8.1.6.
+use the Pupil Cloud Services excessively, i.e.
+beyond the capacity cap offered by Pupil Labs.
+8.2.
+When using the Pupil Cloud Services, the User shall comply with the applicable data protection laws, in particular obtain the necessary consent of the person concerned, insofar as the User collects, processes or uses personal data when using the Pupil Cloud Services and no statutory basis for permission intervenes. 9.
+Indemnification 9.1.
+A User will indemnify, defend, and hold harmless Pupil Labs and its officers, directors, employees for any and all claims, suits, litigation, causes of action, losses, damages, expenses, costs (including court costs and attorneysâ fees) and liabilities (âLossesâ) that arise out of, or in connection with (i) the Userâs use of the Website and/or Services.
+(ii) any breach by a User of any of their obligations pursuant to Section 8 hereof.
+(iii) any claim that the Userâs Content caused damage to a third party.
+If the User is Consumer, such obligations shall not apply if the User is not responsible for the infringement resulting in any Losses.
+9.2.
+In cases of an aforementioned enforcement of claims by third parties, the User will provide Pupil Labs with all his information that is needed for the examination of the claim and for the defence against it.
+The User provides the information immediately, truthfully, and completely. 10.
+Right of Withdrawal Consumers have a statutory right of withdrawal when concluding a distance contract, about which Pupil Labs informs in accordance with the statutory model below.
+
+Instructions on withdrawal
+
+Right of withdrawal
+You have the right to withdraw from this contract within 14 days without giving any reason.
+The withdrawal period will expire after 14 days from the day of the conclusion of the contract.
+To exercise the right of withdrawal, you must inform us,
+Pupil Labs GmbH
+SanderstraÃe 28
+12047 Berlin
+E-mail address: info@pupil-labs.com
+of your decision to withdraw from this contract by an unequivocal statement (e.g.
+a letter sent by post or e-mail).
+You may use the attached model withdrawal form at the bottom of this page, but it is not obligatory.
+To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
+Effects of withdrawal
+If you withdraw from this contract, we shall reimburse to you all payments received from you, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event no later than 14 days from the day on which we are informed about your decision to withdraw from this contract.
+We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise.
+in any event, you will not incur any fees as a result of such reimbursement.
+If you requested to begin the performance of services during the withdrawal period, you shall pay us an amount which is in proportion to what has been provided until you have communicated us your withdrawal from this contract, in comparison with the full coverage of the contract.
+
+End of instructions on withdrawal
+ 11.
+Liability 11.1.
+We are unrestrictedly liable for damages that have been caused by deliberate intention or by gross negligence.
+11.2.
+In cases of slight negligence, we are only liable if we have infringed a fundamental duty and if the purpose of the contract is threatened thereby or if we have infringed duties that have to be fulfilled for the duly contract implementation and if the User generally relies on the fulfilment of these duties.
+In the aforementioned cases, we are only liable for foreseeable damages to the Business Customer at the time the respective service was performed.
+11.3.
+In all other cases our liability, and towards Business Customers including our liability for consequential damage and lost profit, is excluded.
+11.4.
+We will not be liable hereunder by reason of any failure to timely perform our duties hereunder due to an event beyond our reasonable control, including acts of God.
+acts of terrorism.
+civil unrest.
+war.
+fires.
+power cuts.
+epidemics.
+11.5.
+If our liability is excluded or restricted, this also applies to the personal liability of our employees, representatives, and agents.
+11.6.
+The aforementioned restrictions of liability do not apply to cases of damages to life, body, or health, to cases of warranting for the condition of a product, and to cases of fraudulent concealment of defects by us, our legal representatives or assistants in performance or under the German Product Liability Act.
+11.7.
+We are not liable for the Userâs Content. 12.
+Alternative Settlements of disputes The European Commission provides a platform for an online settlement of disputes which can be accessed under http://ec.europa.eu/consumers/odr/.
+Pupil Labs is neither obliged to take part in alternative dispute resolutions before a consumer dispute settlement commission or will do so voluntarily. 13.
+Privacy Please find our Privacy Policy on our Website:
+https://www.pupil-labs.com/legal/invisible-companion-privacy,
+https://www.pupil-labs.com/legal/privacy. 14.
+Changes to Terms of Service 14.1.
+Changes to these Terms of Service will be communicated to the User at least by e-mail.
+If the User does not object to such changes within four (4) weeks of receipt of the notification, the changes shall be deemed agreed.
+The User will be informed of the right of objection and the legal consequences of silence in the event of a change to the Terms of Services.
+14.2.
+In the event of an objection to the changes in time, the original provisions shall remain unaffected and apply instead of the amended Terms of Service.
+in this case, both the User and Pupil Labs shall be entitled to terminate the Agreement extraordinarily within two weeks after Pupil Labsâ receipt of the Userâs objection within the scope of a special right of termination. 15.
+Applicable Law and Competent Courts 15.1.
+Any contracts entered into between Pupil Labs and the User shall be governed by the laws of the Federal Republic of Germany under exclusion of the UN Convention on the International Sale of Goods (CISG), without prejudice to any mandatory conflict of laws provisions.
+If the User is a Consumer and has their habitual residence in another country, the User shall, however, continue to have the protection afforded to them by provisions that cannot be derogated from by agreement by virtue of the law applicable in the state of the Userâs habitual residence.
+15.2.
+If the User is a corporation, limited liability company or commercial partnership or otherwise operates a commercial business (Kaufmann within the meaning of Sec.
+1 (1) BGB (German Commercial Code)) or is a legal entity or special fund organized under public law, the courts in Berlin, Germany, shall have exclusive jurisdiction in respect of all disputes arising out of or in connection with the relevant contract.
+15.3.
+Should any provision of these Terms of Service be or become invalid, ineffective or unenforceable as a whole or in part, the validity, effectiveness and enforceability of the remaining provisions shall not be affected thereby.
+Any such invalid, ineffective or unenforceable provisions shall be deemed replaced by statutory provisions.
+As far as this would represent an unreasonable hardship for a contracting party, the Terms of Service as a whole become ineffective.
+Model withdrawal form
+(complete and return this form only if you wish to withdraw from the contract.)
+To
+Pupil Labs GmbH
+SanderstraÃe 28
+12047 Berlin
+info@pupil-labs.com
+I/we (*) hereby give notice that I/We (*) withdraw from my/our (*) contract of sale of the following goods (*)/for the provision of the following service (*)__________
+Ordered on (*)/received on (*), 
+
+
+
+
+
+Name of consumer(s)
+
+
+
+
+
+Address of consumer(s)
+
+
+
+
+
+Signature of consumer(s) (only if this form is notified on paper)
+Date
+
+
+
+
+
+(*) Delete as appropriate.âEnter email for news and updatesSubscribeinfo@pupil-labs.comCopyright Â© 2021 Pupil Labs GmbH.
+All rights reserved.Productspupil invisiblepupil corevr/arpupil cloudsupportreleasesCompanyaboutblogcareerspublicationspartners &amp.
+resellersimprintlegalprivacy policyinfo@pupil-labs.comCopyright Â© 2021 Pupil Labs GmbH All rights reserved.

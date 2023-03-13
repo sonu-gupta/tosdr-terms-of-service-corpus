@@ -1,0 +1,653 @@
+
+        <iframe title="gtm" src="https://www.googletagmanager.com/ns.html?id=GTM-PTKRK7&amp;gtm_auth=8YUt010FhmaxDsSzUU1Owg&amp;gtm_preview=env-1&amp;gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+Features
+Teams
+Warp
+Developers
+Game Developers
+SDK Documentation
+Enterprise Licensing
+
+
+About
+
+
+Log In
+Download
+MenuClose 
+Home
+Features
+Teams
+Warp
+Developers
+Game Developers
+SDK Documentation
+Enterprise Licensing
+
+
+About
+Download
+Log In
+
+
+Intro
+1.
+Accounts
+1.1.
+Account Creation
+1.2.
+Account Responsibilities
+1.3.
+Your Account
+1.4.
+Necessary Equipment and Software
+
+
+2.
+Use of the Services
+2.1.
+Mobile App License
+2.2.
+Parsec Software
+2.3.
+Updates
+2.4.
+Restrictions
+2.5.
+Modification
+2.6.
+No Support or Maintenance
+2.7.
+Third-Party Materials
+2.8.
+Ownership
+2.9.
+Parsec Communications
+
+
+3.
+Privacy
+4.
+Responsibility for Content
+4.1.
+User Content
+4.2.
+License
+4.3.
+Acceptable Use Policy
+4.4.
+Enforcement
+4.5.
+Feedback
+
+
+5.
+Fees and Purchase Terms
+5.1.
+Service Subscription Fees
+5.2.
+Payment
+5.3.
+Taxes
+5.4.
+Automatic Renewal
+
+
+6.
+Indemnification
+7.
+Other Users
+7.1.
+Access and Security
+7.2.
+Responsibility
+
+
+8.
+Release
+9.
+Disclaimers
+9.1.
+As Is
+
+
+10.
+Limitation on Liability
+11.
+Term and Termination
+12.
+International Users
+13.
+Copyright Policy
+14.
+Third-Party Services
+14.1.
+App Stores
+14.2.
+Third-Party Providers
+14.3.
+Accessing and Downloading the Mobile App from iTunes
+
+
+15.
+General
+15.1.
+Changes
+15.2.
+Dispute Resolution
+15.3.
+Export
+15.4.
+Disclosures
+15.5.
+Electronic Communications
+15.6.
+Entire Terms
+15.7.
+Severability
+15.8.
+Copyright/Trademark Information
+15.9.
+Contact Information
+
+
+Terms of Service
+Last Revised: December 11, 2020
+
+PLEASE READ THIS LEGAL DOCUMENT CAREFULLY.
+Parsec Cloud, Inc.
+(together with our affiliates, âParsecâ, âweâ, or âusâ) provides simple, low-latency game streaming through desktop and mobile applications available for download.
+This website and its subdomains (collectively, the âSiteâ), all software and associated documentation that is made available to you by Parsec (âSoftwareâ), all Parsec mobile applications (collectively, the âMobile Appâ), and the services and resources available or enabled via the Site, Software, or the Mobile App (each a âServiceâ and collectively the âServicesâ) are controlled by Parsec.
+By registering on the Site or Mobile Application or by visiting, browsing, or using any of the Services in any way, you (âuserâ or âyouâ) accept these Terms of Use (the âTermsâ).
+These Terms are legally binding and govern your use of each of the Services, including the Software.
+By accessing or using any of the Services, you are accepting these Terms (on behalf of yourself or the entity that you represent), and you represent and warrant that (1) you have read, understand and agree to be bound by these Terms, (2) you are at least 18 years old or the age of majority in the jurisdiction from which you are accessing the Services (or are at least 13 years old and have your parent or legal guardianâs consent) and (3) you have the authority to enter into the Terms personally or on behalf of the legal entity identified during the account registration process, and to bind that legal entity to the Terms.
+If you, or if applicable, such legal entity, do not agree to be bound by the Terms, you, and if applicable, such legal entity, may not access or use any of the Services.
+IF YOU SUBSCRIBE TO THE SERVICES FOR A TERM (THE âINITIAL TERMâ), THE TERMS WILL BE AUTOMATICALLY RENEWED FOR ADDITIONAL PERIODS OF THE SAME DURATION AS THE INITIAL TERM AT PARSECâS THEN-CURRENT FEES FOR SUCH SERVICES UNLESS YOU OPT OUT OF THE AUTO-RENEWAL IN ACCORDANCE WITH SECTION 5.7 (AUTOMATIC RENEWAL) BELOW.
+PLEASE BE AWARE THAT SECTION 2.9 (PARSEC COMMUNICATIONS) OF THE TERMS BELOW CONTAINS YOUR OPT-IN CONSENT TO RECEIVE COMMUNICATIONS FROM US, INCLUDING, AS APPLICABLE, VIA E-MAIL.
+PLEASE BE AWARE THAT SECTION 15.2 (DISPUTE RESOLUTION) OF THE TERMS BELOW CONTAINS PROVISIONS GOVERNING HOW ANY DISPUTES BETWEEN US WILL BE RESOLVED.
+IN PARTICULAR, IT CONTAINS AN ARBITRATION AGREEMENT WHICH WILL, WITH LIMITED EXCEPTIONS, REQUIRE DISPUTES BETWEEN US TO BE SUBMITTED TO BINDING AND FINAL ARBITRATION.
+UNLESS YOU OPT OUT OF THE ARBITRATION AGREEMENT: (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AND SEEK RELIEF AGAINST US ON AN INDIVIDUAL BASIS, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING.
+AND (2) YOU ARE WAIVING YOUR RIGHT TO PURSUE CLAIMS AND SEEK RELIEF IN A COURT OF LAW AND TO HAVE A JURY TRIAL.
+
+Accounts
+Account Creation.In order to access certain Services, you must register for an account (âAccountâ) and provide certain information about yourself.
+You represent and warrant that: (a) all Account information you submit is truthful and accurate, and (b) you will maintain the accuracy of such information.
+If you provide any information that is untrue, inaccurate, not current or incomplete, or Parsec has reasonable grounds to suspect that any information you provide is untrue, inaccurate, not current or incomplete, Parsec has the right to suspend or terminate your Account and refuse any and all current or future use of the Services (or any portion thereof).
+You agree not to create an Account or use the Services if you have been previously banned from any of the Services by Parsec.
+You may delete your Account at any time, for any reason, from the âAccountâ page on the Site.
+Parsec may suspend or terminate your Account in accordance with Section 11.
+
+Account Responsibilities.You are responsible for maintaining the confidentiality of your Account login information and for all activities that occur under your Account.
+You agree to immediately notify Parsec of any unauthorized use, or suspected unauthorized use of your Account or any other breach of security.
+You may not share your Account login or password with anyone, and you agree to exit from your Account at the end of each session.
+Parsec cannot and will not be liable for any loss or damage arising from your failure to comply with this Section 1.2.
+
+Your Account.Notwithstanding anything to the contrary in the Terms, you acknowledge and agree that you shall have no ownership or other property interest in your Account, and you further acknowledge and agree that all rights in and to your Account are and shall forever be owned by and inure to the benefit of Parsec.
+
+Necessary Equipment and Software.You must provide all equipment and software necessary to connect to the Services, including but not limited to, a mobile device that is suitable to connect with and use the Mobile App.
+You are solely responsible for any fees, including Internet connection or mobile fees, that you incur when accessing the Services.
+
+
+
+Use of the ServicesThe Services, and the information and content available on them, are protected by applicable intellectual property laws.
+Unless subject to a separate license between you and Parsec, your right to use any and all Services is subject to the Terms.
+
+Mobile App License.Subject to your compliance with the Terms, Parsec grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to download, install and use a copy of the Mobile App on a single mobile device that you own or control and to run such copy of the Mobile App solely for your own personal or internal business purposes.
+Furthermore, with respect to any Mobile App accessed through or downloaded from the Apple App Store (an âApp Store Sourced Applicationâ), you will only use such App Store Sourced Application (a) on an Apple-branded product that runs iOS (Appleâs proprietary operating system) and (b) as permitted by the âUsage Rulesâ set forth in the Apple App Store Terms of Service.
+Notwithstanding the first sentence in this section, with respect to any Mobile App accessed through or downloaded from the Google Play store (a âGoogle Play Sourced Applicationâ), you may have additional license rights with respect to use of such Google Play Sourced Application on a shared basis within your designated family group.
+
+
+Parsec Software.Subject to your compliance with the Terms, Parsec grants you a limited, non-assignable, non-transferable, non-sublicensable, revocable, non-exclusive license to use, access and download (as applicable) the Software on computer equipment you own or control solely for your own personal, noncommercial use including to make your computer available to other individuals on a hosted basis, and solely to stream content that you own or otherwise have the right to use and stream.
+As a subscriber of Parsec âTeamsâ or a member of a âTeamâ in Parsec, you may use the applicable Software to connect to or host sessions for commercial use.
+Some elements of the Software may be subject to open source licenses that we will make available to you upon your request.
+There may be provisions in the open source licenses that expressly override some of these terms.
+
+Updates.You understand that the Services are evolving.
+As a result, Parsec may require you to accept updates to Services that you have installed on your computer or mobile device.
+You acknowledge and agree that Parsec may update the Services with or without notifying you.
+You may need to update third-party software from time to time in order to use the Services.
+
+Restrictions.The licenses granted in Sections 2.1 and 2.2 are subject to the following restrictions: (a) you may not license, sell, rent, lease, transfer, assign, distribute, or commercially exploit the Services, in whole or in part, or any content displayed on the Services.
+(b) you may not modify, make derivative works of, disassemble, reverse compile or reverse engineer any part of the Services.
+(c) you may not access the Services in order to build a similar or competitive website, product, or service.
+and (d) except as expressly stated herein, you may not copy, reproduce, distribute, republish, download, display, post or transmit in any form or by any means any part the Services.
+Unless otherwise indicated, any future release, update, or other addition to functionality of the Services will be subject to the Terms.
+All copyright and other proprietary notices on the Services (or on any content displayed on the Services) must be retained on all copies thereof.
+
+Modification.Parsec reserves the right, at any time, to modify, suspend, or discontinue all or any elements of the Services (in whole or in part) with or without notice to you.
+You agree that Parsec will not be liable to you or to any third party for any such modification, suspension, or discontinuation.
+
+No Support or Maintenance.Except for the limited support services offered to Parsec âTeamsâ subscribers, you acknowledge and agree that Parsec will have no obligation to provide you with any support or maintenance in connection with the Services.
+
+Third-Party Materials.As a part of the Services, you may have access to materials that are hosted by another party.
+You agree that it is impossible for Parsec to monitor such materials and that you access these materials at your own risk.
+
+Ownership.1.
+Excluding any User Content (defined below) that you may provide, you acknowledge that all intellectual property rights, including copyrights, patents, trademarks, and trade secrets, in the Services and their content are owned by Parsec or Parsecâs suppliers.
+Neither these Terms nor your access to the Services transfers to you or any third party any rights, title or interest in or to such intellectual property rights, except for the limited licenses granted in Sections 2.1 and 2.2.
+Parsec and its suppliers reserve all rights not granted in these Terms.
+
+
+Parsec Communications.By entering into the Terms or using the Services, you agree to receive communications from us, including via e-mail, text message, calls, and push notifications Communications from us and our affiliated companies may include but are not limited to: operational communications concerning your Account or the use of the Services, updates concerning new and existing features on the Services, communications concerning promotions run by us, and news concerning Parsec and industry developments.
+IF YOU WISH TO OPT OUT OF PROMOTIONAL EMAILS, YOU CAN UNSUBSCRIBE FROM OUR PROMOTIONAL EMAIL LIST BY FOLLOWING THE UNSUBSCRIBE OPTIONS IN THE PROMOTIONAL EMAIL ITSELF.
+
+
+
+
+PrivacyAny information that you provide to Parsec, as well as any information that Parsec otherwise collects via the Services and your use of them, is subject to our Privacy Policy, which governs our collection and use of such information.
+You understand that through your use of the Services you consent to the collection and use (as set forth in the Privacy Policy) of this information.
+
+Responsibility for Content
+User Content.âUser Contentâ means any information and content that a user submits to, or uses with, the Services (including content streamed through the Software, content submitted to message boards, content emailed, transmitted, or otherwise make available through equivalent areas of the Site).
+You are solely responsible for your User Content, including owning copies of all games that you host via the Software.
+You assume all risks associated with use of your User Content, including any reliance on its accuracy, completeness or usefulness by others, or any disclosure of your User Content that personally identifies you or any third party.
+You hereby represent and warrant that your User Content does not and will not violate the Acceptable Use Policy referred to in Section 4.4, and that you are either the creator and owner of the User Content or have sufficient rights and authority to make your User Content available as contemplated by these Terms, including to stream the User Content through the Software.
+You may not represent or imply to others that your User Content is in any way provided, sponsored or endorsed by Parsec.
+Unless otherwise specified with respect to a particular Parsec offering, Parsec is not obligated to backup any User Content, and your User Content, to the extent stored on Parsec equipment, may be deleted at any time without prior notice.
+You are solely responsible for creating and maintaining your own backup copies of your User Content if you desire.
+
+License.To the extent that you provide User Content to Parsec (in connection with reviews, communications with other members, message boards, etc.), you hereby grant (and represent and warrant that you have the right to grant) Parsec an irrevocable, non-exclusive, royalty-free and fully-paid-up, worldwide license to reproduce, distribute, publicly display and perform, prepare derivative works of, incorporate into other works, and otherwise use and exploit such User Content, and to grant sublicenses of the foregoing rights, in connection with the operation and improvement of the Services.
+You hereby irrevocably waive (and agree to cause to be waived) any claims and assertions of moral rights or attribution with respect to your User Content.
+For the sake of clarity, Parsec does not, and will not (unless required by law), record User Content streamed over the service or otherwise use, disclose, or share such streamed User Content with any third parties.
+
+
+Acceptable Use Policy.
+
+You agree not to use the Services to collect, upload, transmit, display, stream, or distribute any User Content (i) that violates any third party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right.
+(ii) that is unlawful, harassing, abusive, tortious, threatening, harmful, invasive of anotherâs privacy, vulgar, defamatory, false, intentionally misleading, trade libelous, pornographic, obscene, patently offensive, promotes racism, bigotry, hatred, or physical harm of any kind against any group or individual or is otherwise objectionable.
+(iii) that is harmful to minors in any way.
+(iv) that is in violation of any law, regulation, or obligations or restrictions imposed by any third party.
+or (v) that you do not have the right to so collect, upload, transmit, display, stream, or distribute.
+
+
+In addition, you agree not to: (i) upload, transmit, or distribute to or through the Services any computer viruses, worms, or any software intended to damage or alter a computer system or data.
+(ii) send through the Services unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of duplicative or unsolicited messages, whether commercial or otherwise.
+(iii) use the Services to harvest, collect, gather or assemble information or data regarding other users, including e-mail addresses, without their consent.
+(iv) interfere with, disrupt, or create an undue burden on servers or networks connected to the Services, or violate the regulations, policies or procedures of such networks.
+(v) attempt to gain unauthorized access to the Services (or to other computer systems or networks connected to or used together with the Services), whether through password mining or any other means.
+(vi) harass or interfere with any other userâs use and enjoyment of the Services.
+or (vi) use software or automated agents or scripts to produce multiple accounts on the Services, or to generate automated searches, requests, or queries to (or to strip, scrape, or mine data from) the Site (provided, however, that we conditionally grant to the operators of public search engines revocable permission to use spiders to copy materials from the Site for the sole purpose of and solely to the extent necessary for creating publicly available searchable indices of the materials, but not caches or archives of such materials, subject to the parameters set forth in our robots.txt file).
+
+
+Parsec takes no responsibility and assumes no liability for any User Content or for any loss or damage resulting therefrom, nor is Parsec liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter in User Content when using the Services.
+Your use of the Services is at your own risk.
+In addition, these rules do not create any private right of action on the part of any third party or any reasonable expectation that the Services will not contain any content that is prohibited by these Terms.
+
+
+
+Enforcement.We reserve the right (but have no obligation) to investigate and/or take appropriate action against you in our sole discretion with respect to your User Content if you violate the Acceptable Use Policy or any other provision of these Terms.
+Such action may include removing or modifying your User Content, terminating your Account in accordance with Section 11, and/or reporting you to law enforcement authorities.
+
+Feedback.If you provide Parsec with any feedback or suggestions regarding the Services (âFeedbackâ), you hereby assign to Parsec all rights in such Feedback and agree that Parsec will have the right to use and fully exploit such Feedback and related information in any manner it deems appropriate.
+Parsec will treat any Feedback you provide to Parsec as non-confidential and non-proprietary.
+You agree that you will not submit to Parsec any information or ideas that you consider to be confidential or proprietary.
+
+
+
+Fees and Purchase Terms
+Service Subscription Fees.You will be responsible for payment of the applicable fee for any paid subscription Services (each, a âService Subscription Feeâ) at the time you select your payment package (the âService Commencement Dateâ).
+Except as set forth in the Terms, all fees for the Services are non-refundable.
+No contract will exist between you and Parsec for the Services until Parsec accepts your order.
+
+Payment.You agree to pay the applicable fees or charges to your Account via Stripe or another third party payment services provider used by Parsec.
+Any agreement you have with your payment provider will govern your use of your specified payment method.
+You agree that we may accumulate charges incurred and submit them as one or more aggregate charges during or at the end of each billing cycle.
+We may submit those charges for payment, and you will be responsible for such charges.
+This does not waive our right to seek payment directly from you.
+Parsec reserves the right at any time to change its prices and billing methods, either immediately upon posting on the Services or by e-mail delivery to you.
+You will be required to provide a valid credit, charge or debit card number from a card issuer that we accept as a condition to signing up for any paid subscription Services â your authorizations in this section also apply to our third party payment processor and any other company who acts as a billing agent for us.
+You hereby authorize us to charge your specified payment method for any subscription Services.
+You authorize the issuer of your selected payment method to pay any amounts described herein without requiring a signed receipt.
+You authorize us to continue to attempt to charge and/or place holds with respect to all sums described herein, or any portion thereof, to your payment method until such amounts are paid in full.
+You agree to provide updated payment information upon request and any time the information you previously provided is no longer valid.
+
+Taxes.The Service Subscription Fees do not include any Sales Tax that may be due in connection with the subscription Services, and you are solely responsible for the payment of all such Sales Taxes and you agree to indemnify Parsec for any liability or expense Parsec may incur in connection with such Sales Taxes.
+If Parsec determines it has a legal obligation to collect a Sales Tax from you in connection with such Services, Parsec may collect such Sales Tax in addition to the payments required under the Terms.
+Upon Parsecâs request, you will provide it with official receipts issued by the appropriate taxing authority, or other such evidence that you have paid all applicable taxes.
+For purposes of this section, âSales Taxâ shall mean any sales or use tax and any other tax measured by sales proceeds that is the functional equivalent of a sales tax where the applicable taxing jurisdiction does not otherwise impose a sales or use tax.
+
+Automatic Renewal.Your subscription will continue indefinitely until terminated in accordance with the Terms.
+After your initial subscription period, and again after any subsequent subscription period, your subscription will automatically commence on the first day following the end of such period (each a âRenewal Commencement Dateâ) and continue for an additional equivalent period, at Parsecâs then-current price for such subscription.
+You agree that your Account will be subject to this automatic renewal feature unless you cancel your subscription prior to the Renewal Commencement Date, by logging into and going to the âChange/Cancel Membershipâ page of your âAccount Settingsâ page.
+If you do not wish your subscription to renew automatically, or if you want to change or terminate your subscription, please contact Parsec at accounting@parsec.app or log in and go to the âChange/Cancel Membershipâ page on your âAccount Settingsâ page. If you cancel your subscription, you may use your subscription until the end of your then-current subscription term.
+your subscription will not be renewed after your then-current term expires.
+However, you will not be eligible for a prorated refund of any portion of the subscription fee paid for the then-current subscription period.
+By subscribing, you authorize Parsec to charge your payment provider now, and again at the beginning of any subsequent subscription period.
+Upon renewal of your subscription, if Parsec does not receive payment from your payment provider, (a) you agree to pay all amounts due on your Account upon demand and/or (b) you agree that Parsec may either terminate or suspend your subscription and continue to attempt to charge your payment provider until payment is received (upon receipt of payment, your Account will be activated and for purposes of automatic renewal, your new subscription commitment period will begin as of the day payment was received).
+
+
+
+IndemnificationYou agree to indemnify and hold Parsec (and its officers, employees, agents, suppliers, and licensors) harmless, including costs and attorneysâ fees, from any claim or demand made by any third party due to or arising out of (a) your use of the Services, (b) your violation of the Terms, (c) your violation of applicable laws or regulations, or (d) your User Content.
+Parsec reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims.
+You agree not to settle any indemnifiable matter without our prior written consent.
+Parsec will use reasonable efforts to notify you of any such claim, action or proceeding upon becoming aware of it.
+
+Other Users
+Access and Security.The Software allows users to share access to their computers in order to stream content.
+You are responsible for the User Content you make available via the Services as set forth in Section 4, and you are responsible for determining the appropriate access settings to your computer running the Services for individuals you invite to access your computer using the Services.
+THE SOFTWARE FUNCTIONS BY ALLOWING GUESTS ACCESS TO CERTAIN FUNCTIONS OF THE HOST COMPUTER, SUCH AS THE MOUSE AND KEYBOARD.
+THE DEFAULT SOFTWARE SETTING RESTRICTS GUEST ACCESS TO ONLY THOSE FUNCTIONS NECESSARY FOR THE PROPER PERFORMANCE OF THE SOFTWARE.
+YOU ARE SOLELY RESPONSIBLE FOR DETERMINING THE APPROPRIATE LEVEL OF ACCESS TO YOUR COMPUTER, AND FOR ANY CONSEQUENCES, INCLUDING LOSS OF DATA, VIRUS OR MALWARE INFECTION, UNAUTHORIZED USE, OR OTHER ACTS OF INDIVIDUALS WHO YOU ALLOW TO ACCESS YOUR COMPUTER THROUGH THE SOFTWARE.
+
+Responsibility.Parsec does not monitor and is not responsible for any User Content that is streamed over the Services or any loss or damage that results from its use to share computers.
+Each user is solely responsible for his or her own User Content.
+We make no guarantees regarding the accuracy, currency, suitability, or quality of any User Content.
+Your interactions with other users are solely between you and such users.
+You agree that Parsec will not be responsible for any loss or damage incurred as the result of any such interactions.
+If there is a dispute between you and any user, we are under no obligation to become involved.
+
+
+
+ReleaseYou hereby release and forever discharge Parsec and our officers, employees, agents, successors, and assigns (collectively, the âParsec Partiesâ) from, and hereby waive and relinquish, each and every past, present and future dispute, claim, controversy, demand, right, obligation, liability, action and cause of action of every kind and nature (including personal injuries, death, and property damage), that has arisen or arises directly or indirectly out of, or that relates directly or indirectly to, the Services (including any interactions with, or act or omission of, other users).
+IF YOU ARE A CALIFORNIA RESIDENT, YOU HEREBY WAIVE CALIFORNIA CIVIL CODE SECTION 1542 IN CONNECTION WITH THE FOREGOING, WHICH STATES: âA GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR.â This Section 8 shall not apply to subscribers of Parsec Teams.
+
+
+Disclaimers
+As Is.YOU EXPRESSLY UNDERSTAND AND AGREE THAT THE SERVICES ARE PROVIDED ON AN âAS-ISâ AND âAS AVAILABLEâ BASIS, AND PARSEC (AND OUR SUPPLIERS) EXPRESSLY DISCLAIM ANY WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING ALL WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, ACCURACY, OR NON-INFRINGEMENT.
+WE (AND OUR SUPPLIERS) MAKE NO WARRANTY THAT THE SERVICES WILL MEET YOUR REQUIREMENTS, WILL BE AVAILABLE ON AN UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE BASIS, OR WILL BE ACCURATE, RELIABLE, FREE OF VIRUSES OR OTHER HARMFUL CODE, COMPLETE, LEGAL, OR SAFE.
+IF APPLICABLE LAW REQUIRES ANY WARRANTIES WITH RESPECT TO THE PARSEC PROPERTIES, ALL SUCH WARRANTIES ARE LIMITED IN DURATION TO NINETY (90) DAYS FROM THE DATE OF FIRST USE.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.
+SOME JURISDICTIONS DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+FROM TIME TO TIME, PARSEC MAY OFFER NEW âBETAâ FEATURES OR TOOLS WITH WHICH ITS USERS MAY EXPERIMENT.
+SUCH FEATURES OR TOOLS ARE OFFERED SOLELY FOR EXPERIMENTAL PURPOSES AND WITHOUT ANY WARRANTY OF ANY KIND, AND MAY BE MODIFIED OR DISCONTINUED AT PARSECâS SOLE DISCRETION.
+THE PROVISIONS OF THIS SECTION APPLY WITH FULL FORCE TO SUCH FEATURES OR TOOLS.
+
+
+
+Limitation on LiabilityTO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL PARSEC (OR OUR SUPPLIERS) BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY LOST PROFITS, LOST DATA, COSTS OF PROCUREMENT OF SUBSTITUTE PRODUCTS, OR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES ARISING FROM OR RELATING TO THESE TERMS OR YOUR USE OF, OR INABILITY TO USE, THE SERVICES, EVEN IF PARSEC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+ACCESS TO, AND USE OF, THE SERVICES IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE OR COMPUTER SYSTEM, OR LOSS OF DATA RESULTING THEREFROM.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU FOR ANY DAMAGES ARISING FROM OR RELATED TO THESE TERMS (FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION), WILL AT ALL TIMES BE LIMITED TO $100.
+THE EXISTENCE OF MORE THAN ONE CLAIM WILL NOT ENLARGE THIS LIMIT.
+YOU AGREE THAT OUR SUPPLIERS WILL HAVE NO LIABILITY OF ANY KIND ARISING FROM OR RELATING TO THE TERMS.
+SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+THE LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN PARSEC AND YOU.
+
+Term and TerminationSubject to this Section, these Terms will remain in full force and effect while you use any Services.
+You hereby acknowledge and agree that the Terms commenced on the earlier to occur of (a) the date you first used the Services or (b) the date you accepted the Terms, and will remain in full force and effect while you use any Services, unless earlier terminated in accordance with the Terms.
+If timely payment cannot be charged to your payment provider for any reason, if you have materially breached any provision of the Terms, or if Parsec is required to do so by law, Parsec has the right to, immediately and without notice, suspend or terminate any Services provided to you.
+You agree that all terminations for cause shall be made in Parsecâs sole discretion and that Parsec shall not be liable to you or any third party for any termination of your Account.
+If you want to terminate the Services provided by Parsec, you may do so by (a) notifying Parsec at any time and (b) closing your Account for all of the Services that you use.
+Your notice should be sent, in writing, to Parsecâs address set forth below.
+THE SERVICES WILL CONTINUE AT THE END OF EACH SUBSCRIPTION PERIOD UNLESS YOU CANCEL YOUR SUBSCRIPTION IN ACCORDANCE WITH THE PROCEDURE SET FORTH IN SECTION 5.6.
+Upon termination of your rights under these Terms, your Account and right to access and use the Services will terminate immediately.
+Termination of your Account may involve deletion of User Content associated with your Account.
+Parsec will not have any liability whatsoever to you for any termination of your rights under these Terms, including for termination of your Account or deletion of your User Content.
+All provisions of the Terms which by their nature should survive, shall survive termination of Services, including without limitation, ownership provisions, warranty disclaimers, and limitation of liability.
+
+International UsersThe Services can be accessed from countries around the world and may contain references to services and content that are not available in your country.
+These references do not imply that Parsec intends to announce such services or content in your country.
+The Services are controlled and offered by Parsec from its facilities in the United States of America.
+Parsec makes no representations that the Services are appropriate or available for use in other locations.
+Those who access or use the Services from other countries do so at their own volition and are responsible for compliance with local law.
+
+Copyright PolicyParsec respects the intellectual property of others and asks that users of the Services do the same.
+In connection with the Services, we have adopted and implemented a policy respecting copyright law that provides for the removal of any infringing materials and for the termination, in appropriate circumstances, of users of the Services who are repeat infringers of intellectual property rights, including copyrights.
+If you believe that one of our users is, through the use of the Services, unlawfully infringing the copyright(s) in a work, and wish to have the allegedly infringing material removed, the following information in the form of a written notification (pursuant to 17 U.S.C.
+Â§ 512(c)) must be provided to our designated Copyright Agent:
+
+
+your physical or electronic signature;
+
+
+identification of the copyrighted work(s) that you claim to have been infringed;
+
+
+identification of the material on our services that you claim is infringing and that you request us to remove;
+
+
+sufficient information to permit us to locate such material;
+
+
+your address, telephone number, and e-mail address;
+
+
+a statement that you have a good faith belief that use of the objectionable material is not authorized by the copyright owner, its agent, or under the law.
+and
+
+
+a statement that the information in the notification is accurate, and under penalty of perjury, that you are either the owner of the copyright that has allegedly been infringed or that you are authorized to act on behalf of the copyright owner.
+
+
+Please note that, pursuant to 17 U.S.C.
+Â§ 512(f), any misrepresentation of material fact in a written notification automatically subjects the complaining party to liability for any damages, costs and attorneyâs fees incurred by us in connection with the written notification and allegation of copyright infringement.
+
+The designated Copyright Agent for Parsec is: Benjy BoxerAddress of Agent: PO Box 980338, Park City, UT, 84098Telephone: (929) 277-7485Email: legal@parsec.app
+
+
+Third-Party Services
+App Stores.You acknowledge and agree that the availability of any Parsec mobile application is dependent on the third-party from whom you received the application license, e.g., the Apple App Store or Google Play (âApp Storeâ).
+You acknowledge that the Terms are between you and Parsec and not with the App Store.
+Parsec, not the App Store, is solely responsible for the Services, the content thereof, maintenance, support services, and warranty therefore, and addressing any claims relating thereto (e.g., product liability, legal compliance or intellectual property infringement).
+In order to use the Mobile App, you must have access to a wireless network, and you agree to pay all fees associated with such access.
+You also agree to pay all fees (if any) charged by the App Store in connection with the Services.
+You agree to comply with, and your license to use the Services is conditioned upon your compliance with, all applicable third-party terms of agreement (e.g., the App Storeâs terms and policies) when using the Services.
+You acknowledge that the App Store (and its subsidiaries) are third-party beneficiaries of the Terms and will have the right to enforce them.
+
+Third-Party Providers.Parsec uses Stripe, Inc.
+and its affiliates as its third party service provider for payment services (e.g., card acceptance, merchant settlement, and related services).
+When purchasing a subscription to any of the Services, you agree to be bound by Stripeâs Privacy Policy (currently accessible at https://stripe.com/us/privacy) and its Terms of Service (currently accessible at https://stripe.com/us/terms) and hereby consent and authorize Parsec and Stripe to share any information and payment instructions you provide to the minimum extent required to complete your transactions.
+
+Accessing and Downloading the Mobile App from iTunes.The following applies to any App Store Sourced Application accessed through or downloaded from the Apple App Store:
+
+
+You acknowledge and agree that (i) the Terms are concluded between you and Parsec only, and not Apple, and (ii) Parsec, not Apple, is solely responsible for the App Store Sourced Application and content thereof.
+Your use of the App Store Sourced Application must comply with the App Store Terms of Service.
+
+
+You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the App Store Sourced Application.
+
+
+
+In the event of any failure of the App Store Sourced Application to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the App Store Sourced Application to you and to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the App Store Sourced Application.
+As between Parsec and Apple, any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of Parsec.
+
+
+You and Parsec acknowledge that, as between Parsec and Apple, Apple is not responsible for addressing any claims you have or any claims of any third party relating to the App Store Sourced Application or your possession and use of the App Store Sourced Application, including, but not limited to: (i) product liability claims.
+(ii) any claim that the App Store Sourced Application fails to conform to any applicable legal or regulatory requirement.
+and (iii) claims arising under consumer protection or similar legislation.
+
+
+
+You and Parsec acknowledge that, in the event of any third-party claim that the App Store Sourced Application or your possession and use of that App Store Sourced Application infringes that third partyâs intellectual property rights, as between Parsec and Apple, Parsec, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim to the extent required by the Terms.
+
+
+You and Parsec acknowledge and agree that Apple, and Appleâs subsidiaries, are third-party beneficiaries of the Terms as related to your license of the App Store Sourced Application, and that, upon your acceptance of the terms and conditions of the Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce the Terms as related to your license of the App Store Sourced Application against you as a third-party beneficiary thereof.
+
+
+Without limiting any other terms of the Terms, you must comply with all applicable third-party terms of agreement when using the App Store Sourced Application.
+
+
+
+
+
+General
+Changes.These Terms are subject to occasional revision, and if we make any substantial changes, we may notify you by sending you an e-mail to the last e-mail address you provided to us (if any), and/or by prominently posting notice of the changes on this page and elsewhere in the Services.
+If the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice.
+Any changes to these Terms will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you (if applicable) or thirty (30) calendar days following our posting of notice of the changes on this page and in the Services.
+These changes will be effective immediately for new users of the Services.
+Continued use of the Services following notice of such changes will indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+
+Dispute Resolution.
+Please read this Section 15.2 (the âArbitration Agreementâ) carefully.
+It is part of your contract with Parsec and affects your rights.
+It contains procedures for MANDATORY BINDING ARBITRATION AND A CLASS ACTION WAIVER.
+
+Applicability of Arbitration Agreement.
+All claims and disputes (excluding claims for injunctive or other equitable relief as set forth below) in connection with the Terms or the use of any product or service provided by Parsec that cannot be resolved informally or in small claims court will be resolved by binding arbitration on an individual basis under the terms of this Arbitration Agreement.
+Unless otherwise agreed to, all arbitration proceedings will be held in English.This Arbitration Agreement applies to you and Parsec, and to any subsidiaries, affiliates, agents, employees, predecessors in interest, successors, and assigns, as well as all authorized or unauthorized users or beneficiaries of services or goods provided under the Terms.
+
+Additional Rules for Non-Appearance Based Arbitration.
+If non-appearance-based arbitration is elected, the arbitration will be conducted by telephone, online and/or based solely on written submissions.
+the specific manner will be chosen by the party initiating the arbitration.
+The arbitration will not involve any personal appearance by the parties or witnesses unless otherwise agreed by the parties.
+Time Limits.
+If you or Parsec pursue arbitration, the arbitration action must be initiated and/or demanded within the statute of limitations (i.e., the legal deadline for filing a claim) and within any deadline imposed under the AAA Rules for the pertinent claim.
+Authority of Arbitrator.
+If arbitration is initiated, the arbitrator will decide the rights and liabilities, if any, of you and Parsec, and the dispute will not be consolidated with any other matters or joined with any other cases or parties.
+The arbitrator will have the authority to grant motions dispositive of all or part of any claim.
+The arbitrator may award monetary damages, and grant any non-monetary remedy or relief available to an individual under applicable law, the AAA Rules, and the Terms.
+The arbitrator will issue a written award and statement of decision describing the essential findings and conclusions on which the award is based, including the calculation of any damages awarded.
+The arbitrator has the same authority to award relief on an individual basis that a judge in a court of law would have.
+The award of the arbitrator is final and binding upon you and Parsec.
+Waiver of Jury Trial.
+THE PARTIES HEREBY WAIVE THEIR CONSTITUTIONAL AND STATUTORY RIGHTS TO GO TO COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY, instead electing that all claims and disputes will be resolved by arbitration under this Arbitration Agreement.
+Arbitration procedures are typically more limited, more efficient and less costly than rules applicable in a court and are subject to very limited review by a court.
+In the event any litigation should arise between you and Parsec in any state or federal court in a suit to vacate or enforce an arbitration award or otherwise, YOU AND PARSEC WAIVE ALL RIGHTS TO A JURY TRIAL, instead electing that the dispute be resolved by a judge.
+Waiver of Class or Consolidated Actions.
+ALL CLAIMS AND DISPUTES WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST BE ARBITRATED OR LITIGATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS BASIS, AND CLAIMS OF MORE THAN ONE USER CANNOT BE ARBITRATED OR LITIGATED JOINTLY OR CONSOLIDATED WITH THOSE OF ANY OTHER USER.
+If a decision is issued stating that applicable law precludes enforcement of any of this sectionâs limitations as to a given dispute, claim, or request for relief, then such aspect must be severed from the arbitration and brought into the State or Federal Courts located in the State of New York.
+All other disputes, claims, or requests for relief shall be arbitrated.
+Confidentiality.
+All aspects of the arbitration proceeding, including the award of the arbitrator and compliance therewith, will be strictly confidential.
+The parties agree to maintain confidentiality unless otherwise required by law.
+This paragraph will not prevent a party from submitting to a court of law any information necessary to enforce this Arbitration Agreement or an arbitration award, or to seek injunctive or equitable relief.
+Severability.
+If any part of this Arbitration Agreement are found to be invalid or unenforceable by a court of competent jurisdiction, then such specific part or parts will be of no force and effect and will be severed and the remainder of the Arbitration Agreement will continue in full force and effect.
+Right to Waive.
+Any or all the rights and limitations set forth in this Arbitration Agreement may be waived by the party against whom the claim is asserted.
+Such waiver will not waive or affect any other portion of this Arbitration Agreement.
+Small Claims Court.Notwithstanding the foregoing, either you or Parsec may bring an individual action in small claims court.
+Emergency Equitable Relief.
+Notwithstanding the foregoing, either party may seek emergency equitable relief before a state or federal court in order to maintain the status quo pending arbitration.
+A request for interim measures will not be deemed a waiver of any other rights or obligations under this Arbitration Agreement.
+Claims Not Subject to Arbitration.
+Notwithstanding the foregoing, claims of defamation, violation of the Computer Fraud and Abuse Act, and infringement or misappropriation of the other partyâs patent, copyright, trademark or trade secrets will not be subject to this Arbitration Agreement.
+In any circumstances where the foregoing Arbitration Agreement permits the parties to litigate in court, the parties hereby agree to submit to the personal jurisdiction of the state and federal courts located within New York County, New York, for such purpose.
+You have the right to opt out of the provisions of this Arbitration Agreement by sending written notice of your decision to opt out to: legal@parsec.app, within thirty (30) days after first becoming subject to this Arbitration Agreement.
+Your notice must include your name and address, your Parsec username (if any), the email address you used to set up your Account (if you have one), and an unequivocal statement that you want to opt out of this Arbitration Agreement.
+If you opt out of this Arbitration Agreement, all other parts of this Agreement will continue to apply to you.
+Opting out of this Arbitration Agreement has no effect on any other arbitration agreements that you may currently have, or may enter in the future, with us.
+
+Export.The Services may be subject to U.S.
+export control laws and may be subject to export or import regulations in other countries.
+You agree not to export, reexport, or transfer, directly or indirectly, any U.S.
+technical data acquired from Parsec, or any products utilizing such data, in violation of the United States export laws or regulations.
+
+Disclosures.Parsec is located at the address below.
+If you are a California resident, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Product of the California Department of Consumer Affairs by contacting them in writing at 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, or by telephone at (800) 952-5210.
+
+Electronic Communications.The communications between you and Parsec use electronic means, whether you use the Services or send us emails, or whether Parsec posts notices on the Site or communicates with you via email.
+For contractual purposes, you (a) consent to receive electronic communications from Parsec.
+and (b) agree that all terms and conditions, agreements, notices, disclosures, and other communications that Parsec provides to you electronically satisfy any legal requirement that such communications would satisfy if it were be in a hardcopy writing.
+The foregoing does not affect your statutory rights, including but not limited to the Electronic Signatures in Global and National Commerce Act at 15 U.S.C.
+Â§7001 et seq.
+(âE-Signâ).
+
+Entire Terms.These Terms constitute the entire agreement between you and us regarding the use of the Services.
+Our failure to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision.
+The section titles in these Terms are for convenience only and have no legal or contractual effect.
+The word âincludingâ means âincluding without limitationâ.
+The word âmayâ means âhas the right, but not the obligation, toâ.
+If any provision of these Terms is, for any reason, held to be invalid or unenforceable, the other provisions of these Terms will be unimpaired and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law.
+Your relationship to Parsec is that of an independent contractor, and neither party is an agent or partner of the other.
+These Terms, and your rights and obligations herein, may not be assigned, subcontracted, delegated, or otherwise transferred by you without Parsecâs prior written consent, and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void.
+Parsec may freely assign these Terms.
+The terms and conditions set forth in these Terms will be binding upon assignees.
+
+Severability.If any portion of the Terms is held invalid or unenforceable, that portion shall be construed in a manner to reflect, as nearly as possible, the original intention of the parties, and the remaining portions shall remain in full force and effect.
+
+Copyright/Trademark Information.Copyright Â© 2016-20 Parsec Cloud, Inc.
+All rights reserved.
+All trademarks, logos and service marks (âMarksâ) displayed on the Site are our property or the property of other third parties.
+You are not permitted to use these Marks without our prior written consent or the consent of such third-party which may own the Marks.
+If you are a subscriber of Parsec âTeamsâ you grant Parsec the right to use your trade name and/or logo on our website and marketing materials to designate you as a Parsec customer for the purpose of marketing and promoting the Services.
+
+Contact Information:
+Parsec Cloud, Inc.Address: PO Box 980338Park City, UT, 84098Telephone: (929) 277-7485Email: legal@parsec.app
+
+
+
+
+
+You are prepared.
+Create an account now for free.Sign UpÂ© 2020
+
+Product
+
+Downloads
+Parsec for Teams
+Warp
+Changelog
+Support
+
+
+
+Resources
+
+Cloud Gaming
+Local Co-op Online
+Features
+
+
+
+Company
+
+About
+Blog
+Careers
+Press Kit
+
+
+
+Developers
+
+Developers
+SDK Documentation
+Enterprise Licensing
+
+
+
+Legal
+
+Terms of Service
+Privacy Policy
+
+
+MenuSitemap menuClose 
+Product
+Downloads
+Parsec for Teams
+Warp
+Changelog
+Support
+
+
+Resources
+Our Technology
+Cloud Gaming
+Local Co-op Online
+Features
+
+
+Company
+About
+Blog
+Careers
+Press Kit
+
+
+Developers
+Game Developers
+SDK Documentation
+Enterprise Licensing
+
+
+Legal
+Terms of Service
+Privacy Policy
+
+
+Made with â¤ï¸ in NYC
+
+
+
+
+
+
+
+
+<iframe title="" src="https://www.googletagmanager.com/ns.html?id=GTM-PTKRK7" height="0" width="0" style="display:none;visibility:hidden"></iframe&gt.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=340337972795961&amp;ev=PageView&amp;noscript=1"&gt.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=683793312205913&amp;ev=PageView&amp;noscript=1"&gt.
+
+      

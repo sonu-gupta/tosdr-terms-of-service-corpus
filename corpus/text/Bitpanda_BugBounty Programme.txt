@@ -1,0 +1,301 @@
+
+Bug Bounty Programme - Bitpanda
+Bitpanda GmbH (Bitpanda) Bitpanda.com as Europe's leading retail exchange for buying and selling cryptocurrencies has made every effort to secure its platform and mobile applications and to eliminate all software vulnerabilities in its systems.
+As part of Bitpanda's security guidelines we appreciate your cooperation in investigating and reporting any vulnerabilities of the Bitpanda Services (as defined below).
+
+This Bug Bounty Programme gives you the framework on how to act as a security researcher and be rewarded for finding and reporting bugs within the Bitpanda ecosystem (Bitpanda Bug Bounty Programme or Programme).
+
+Scope of the Programme
+This section will give you an overview of the Bitpanda Bug Bounty Programme.
+Please make sure you keep the ruleset in mind before investigating any issues.
+Bitpanda offers rewards for significant bugs pursuant to this Programme.
+
+Bitpanda reserves the right to modify or cancel the Bitpanda Bug Programme at Bitpanda's sole discretion and at any time.
+
+Security Researcher
+Every person participating in the Bitpanda Bug Bounty Programme is called a âSecurity Researcherâ.
+To be classified as a Security Researcher you must fully comply with this Programme.
+Only fully compliant âSecurity Researchersâ may get rewards according to this Programme.
+
+Bitpanda Services
+The Bitpanda Bug Bounty Programme's scope covers software vulnerabilities in services by Bitpanda.
+Bitpanda services and their specific domains are (Bitpanda Services): 
+
+
+
+Service
+Domain Bitpanda https://www.bitpanda.com Bitpanda Platform https://web.bitpanda.com Bitpanda Platform API http://api.bitpanda/v1 Bitpanda Socket wss://socket.bitpanda.com Bitpanda Pro https://exchange.bitpanda.com Bitpanda Pro API https://api.exchange.bitpanda.com/public/v1 Bitpanda Pro Secure Web Sockets wss://streams.exchange.bitpanda.com Android App https://play.google.com/store/apps/details?id=com.bitpanda.bitpanda iOS App https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960 
+
+
+Not part of the Bitpanda Bug Bounty Programme and explicitly out of the Programme's scope are following subdomains, hosted by third parties (Non-Bitpanda Services).
+
+
+
+
+Service
+Domain Bitpanda Blog https://blog.bitpanda.com Bitpanda Magazine https://magazine.bitpanda.com Bitpanda Helpdesk https://support.bitpanda.com 
+
+
+Non-Bitpanda Services may be eligible for a bug report, if such vulnerability directly leads to a relevant impact on a Bitpanda Service.
+
+Additionally, all kind of other websites, software, applications etc.
+are explicitly out of the Programme's scope, in particular: 
+
+Websites not provided by Bitpanda 
+External websites, software, applications etc.
+linking to Bitpanda 
+External websites, software, applications etc.
+using Bitpanda's API 
+Websites not being Bitpanda Services or Non-Bitpanda Services as outlined above
+
+No exception is existent for external websites.
+
+Bug Report
+A Bug report is a summary of your findings concerning a detected vulnerability of Bitpanda Services.
+In general, a bug report must be valid, in scope report to qualify as a bug report and, hence, to qualify for a reward.
+Please find the requirements for a compliant bug report under point "Complete Bug Report".
+
+First Reporter Rule
+A Security Researcher reporting an issue first is called the First Reporter.
+Rewards for a specific vulnerability go to the First Reporter.
+A subsequent bug report reporting the same or similar vulnerability will not be eligible for a reward (first come first serve principle).
+Provided that Bitpanda is already aware of a specific vulnerability at the time of a submitted bug report reporting the same or similar vulnerability as already known, Bitpanda is deemed to be the First Reporter.
+
+Rewards
+Bitpanda grants rewards (also called bounty and/or bounties) for reporting software vulnerabilities in accordance with this Programme.
+Rewards may be granted if the following requirements called the âResearcher Requirementsâ are collectively fulfilled: 
+
+Responsible Investigation (description in point "Responsible Investigation").
+
+Complete Bug Report (description in point "Complete Bug Report").
+
+Eligibility of Vulnerability (description in point "Eligibility of Vulnerability").
+and 
+Responsible Disclosure (description in point "Responsible Disclosure").
+
+If just one of the above requirements is not fulfilled, this has to be assessed as a non-compliance with this Programme.
+
+
+
+
+Bitpanda decides at its sole and own discretion whether a reward is granted and the exact amount of such bounty.
+A granted reward will be paid to the Bitpanda fiat wallet (EUR) in the Bitpanda user account of the respective successful First Reporter.
+This means that a First Reporter requires a user account on the Bitpanda platform for receiving the reward.
+If a Security Researcher that is qualified as a respective First Reporter is not able to set up a user account on the Bitpanda platform (e.g.
+Security Researcher holds citizenship of or is located in jurisdiction that is excluded from Bitpandaâs services due to regulatory reasons, AML/KYC considerations, etc), Bitpanda may, at its own discretion - and out of pure good will - arrange another form of granting the Reward to the successful First Reporter.
+Security Reporter acknowledges and accepts, that he has no legal claim against Bitpanda for payment of any Reward in case he is not able to set up a user account on the Bitpanda platform.
+
+Responsible Investigation
+Every investigation must be done responsibly.
+Responsible investigation includes, but is not limited to: 
+
+Do not destroy data or disrupt or compromise Bitpanda's services or support third parties with such actions.
+
+Do not violate the privacy or any rights of Bitpanda's users or support third parties with such actions.
+
+Do your research in own name and for own account.
+Only target your personal account.
+The interaction with any other user account(s) is strictly forbidden, in particular, but without limitation to: 
+Targeting or an attempt to target other user accounts.
+
+Any kind of disruption and or damaging of other user accounts or/and a user's rights.
+
+
+Do not use, attempt or be involved in any kind of 
+Social Engineering 
+Spam 
+Distributed Denial of Service attacks (DDOS) 
+Attacking any kind of physical security measures
+
+
+
+Any non-responsible investigation action will result in an exclusion of the Bitpanda Bug Bounty Programme.
+
+Complete Bug Report
+Bitpanda needs a documentation of the existing vulnerability.
+This is called a bug report.
+Bitpanda can only accept complete bug reports, after sending it to bugreport@bitpanda.com.
+
+A bug report is complete, if Bitpanda can reproduce the bug and can assess the potential impact.
+
+How can I make sure it is complete? 
+
+Add as much information in your report as you can.
+
+Add a complete description of the bug.
+
+Point out the potential impact of the bug.
+
+Provide guidance to reproduce the bug (proof of concept).
+
+Eligibility of Vulnerability
+In general, every bug in a Bitpanda Service leading to a relevant vulnerability could be eligible for a reward.
+The focus lies on: 
+
+Leakage of data 
+Classification of endangered data 
+Compromising the security of user funds 
+Compromising the integrity of Bitpanda's trading system
+
+
+
+
+
+In the following you find some examples for security issues which may be eligible for a reward in accordance with this Programme:
+
+
+Leakage of data 
+Getting malicious access to user funds 
+Price manipulation within the platform 
+Code injection 
+Cross-site scripting (XSS) 
+Cross-site request forgery (âCSRF) 
+Remote code execution 
+Privilege escalation 
+Clickjacking 
+Authentication bypass 
+Vulnerabilities of Non-Bitpanda Services directly leading to a relevant impact on a Bitpanda Service.
+
+All vulnerabilities of Bitpanda Services that require or are related to the following are not eligible for a bug report and/or reward and called ineligible vulnerabilities.
+Such ineligible vulnerabilities are in particular: 
+
+UX issues not relating to security impacts 
+Vulnerabilities of any third-party software or application that interact with Bitpanda Services 
+Social engineering &amp.
+identity theft actions 
+Attacking of physical security, DDOS, spamming etc.
+
+Vulnerabilities of Non-Bitpanda Services not leading to a relevant impact on a Bitpanda Service.
+
+Vulnerabilities related to outdated, unpatched browsers or operating systems 
+Vulnerabilities that not have been responsibly investigated (see point "Responsible Investigation") 
+Vulnerabilities that not have been completely reported (see point "Complete Bug Report") 
+Vulnerabilities that have been known by us or reported by someone else first.
+(see point "First Reporter Rule") 
+Vulnerabilities Bitpanda can't reproduce 
+Vulnerabilities Bitpanda can't reasonably fix or do anything about it (e.g.
+heartbleed bug, or bugs concerning telecommunication systems) 
+Vulnerabilities in any open-source library 
+Vulnerabilities in existing banking functionalities (e.g.
+credit card, wire transfers) which can lead to any kind of abuse
+
+The eligibility of a vulnerability is assessed solely and exclusively by Bitpanda.
+
+Responsible Disclosure
+Security Researchers must adhere to and follow the principles of âResponsible Disclosureâ as outlined in the following.
+Responsible disclosure rules are: 
+
+Sharing any information of the vulnerability to any third party is prohibited.
+
+The Security Researcher must provide Bitpanda a reasonable amount of time to fix the vulnerability.
+
+Defrauding Bitpanda itself or any users of Bitpanda Services is prohibited.
+
+Allowing, enabling or supporting other parties to defraud Bitpanda itself or any user of Bitpanda Services is prohibited.
+
+Gaining any profit for your own or allowing third parties to gain any profit from the vulnerability is prohibited (exception: the bounty pursuant to this Programme) 
+Sharing of any gained sensitive information to any other third party is prohibited.
+
+Reports must be done without any demands, threats, ransoms or any other conditions 
+Security Researchers shall make sure that the integrity and confidentiality of the detected issues and any of Bitpanda's user data is secured and preserved
+
+Any breaking or neglection of these rules will be a violation of the Bitpanda Bug Bounty Programme.
+
+Rewards Structure
+The reward that can be expected for your bug report depends on the severity of the reported vulnerability.
+The table below will give you a general guideline what you can expect for your investigation efforts: Vulnerability Reward in EUR (net) Critical dependent on severeness of vulnerability High 500.00 Medium 50.00 Low 5.00 The above mentioned amounts are minimum bounties for each level of vulnerability.
+A concrete bounty may excess the minimum amount based on the severity of the vulnerability and/or the Security Researcher's technique and reporting quality.
+The granted reward will be determined by the impact on the Bitpanda Service.
+
+Previous granted bounty amounts are not considered precedent for future bounty amounts.
+
+Evaluation of a bug report
+The evaluation of your complete bug report will be done solely by Bitpanda.
+As mentioned the 4 researcher parameters stated out in point "Rewards" must be fulfilled to be evaluated as a valid bug report.
+The impact of the found vulnerability will determine the reward as described in point "Rewards Structure.
+The reported bug or vulnerability will be evaluated based on two factors: Impact and Exploitability.
+
+To give you an idea, how this works we provide you with some easy examples.
+
+Impact
+Impact in general means the damage an abuser can cause.
+This refers but is not limited to financial damages, functional damages, exploitation on confidentiality, integrity and availability of sensitive information &amp.
+damages which could result in reputational damages.
+
+The scope of evaluation concerning the impact ranges from low to critical.
+
+Examples
+
+Critical:
+
+
+Manipulating funds balances (fiat or cryptocurrency) 
+Reading, changing or exporting of large amounts of sensitive data.
+
+Heavy interruption or exploitation of the Bitpanda trading engine.
+
+Heavy impact on performance and accuracy of the platform.
+
+
+Low:
+
+
+Gaining small amounts of low sensitivity data 
+Slight impact on performance and accuracy of the platform
+
+Exploitability
+Exploitability refers to the difficulty the system can be âgamedâ or security measures can be bypassed.
+
+Examples:
+
+Critical:
+
+
+
+
+
+Vulnerabilities can be easily exploited without any significant roadblock 
+Vulnerabilities can be exploited without any special requirements like complicated hardware or software.
+
+Vulnerabilities which can be seen as an immediate threat
+
+
+
+
+
+Low:
+
+
+Exploits which are very difficult due to complicated or heavy requirements e.g.
+complicated hardware or software requirements.
+heavy guessing of unknown values (brute force) or 
+Exploits with a large uncertainty of success 
+Vulnerabilities which can be seen as improvements and no immediate threat
+
+Please note that all these examples refer to unauthorized actions and not the normal intended functions (e.g.
+data export, normal trading function) by Bitpanda.
+
+Severity
+Severity is used for calculating the reward and is a combination of impact and exploitability.
+
+The formula can be seen as: 
+
+Impact (Damage) * Exploitability (How easy is it to repeat the damage) = Vulnerability Tier
+
+Examples:
+
+Critical:
+
+
+Easy accessible vulnerability without any major obstacle (critical exploitability) causing a major compromise (critical impact).
+
+Easy accessible vulnerability (critical exploitability) causing irreversible damage to Bitpanda or its users.
+
+
+Low:
+
+
+No immediate threat (low exploitability) not heavily impacting the integrity of the system (low impact).
+
+Attack with high requirement and high uncertainty of success (low exploitability) causing a slight effect on the accuracy or performance of the system (low impact).
+

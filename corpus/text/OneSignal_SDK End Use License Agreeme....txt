@@ -1,0 +1,604 @@
+
+
+This SDK End User License Agreement and Terms of Use (the âEULAâ) sets out the
+terms under which OneSignal, Inc.
+(âOneSignalâ or âCompanyâ) agrees to license
+its proprietary SDK to the Licensee reading and agreeing to this EULA (the
+âLicenseeâ).
+Licensee signifies its agreement to this EULA by clicking through
+the acceptance mechanism provided by Company (such as an âI Agreeâ or âI
+Acceptâ button), or by engaging in any other legally sufficient behavior to
+signify acceptance.
+Please review these terms carefully, because they will
+bind you with respect to your use of the EULA.
+
+
+
+License to the SDK  Subject to Licenseeâs compliance with
+these terms, including the Restrictions in
+Section 2, Company
+grants Licensee a limited, worldwide, royalty-free, term-limited,
+non-transferrable, and non-exclusive license to use the SDK within its
+Applications and websites (collectively the âPropertiesâ), or to use other
+APIs, web services and other features provided by Company (the SDK and other
+such features collectively referred to as the âSDKâ), in order to send,
+optimize and manage push notifications to users of its Properties, and to
+use other related functionality provided within the Properties intended for
+its use.
+
+
+Restrictions on Licenseeâs Use of the SDK.
+ Licensee agrees
+that its license to the SDK is subject to the following conditions:
+
+
+Absent further agreement by the parties (which may be by email),
+Licensee will not use the SDK in connection with any App that
+constitutes or promotes illegal gambling, adult media (i.e.,
+pornography), inflammatory religious content, violence, politically
+religious agendas and/or any known associations with hate, criminal
+and/or terrorist activities, discrimination, racism, harassment or hate
+speech against any individual or group, pirated content or content that
+violates a partyâs intellectual property rights, tobacco products,
+including e-cigarettes, firearms or ammunition, or any product that is
+illegal in the jurisdiction in or into which it is sold.
+
+
+Licensee will only use the SDK in connection with the Properties that it
+owns and operates, and shall not sell, sublicense, give, rent, loan,
+lease, or otherwise make the SDK or its components available to any
+third party without the Companyâs prior express written consent.
+
+
+Licensee shall not (i) alter, hide, or remove any copyright, trademark,
+or other intellectual property rights notice contained in the SDK.
+(ii)
+except as required to effectuate the rights granted under sub-section
+(iii) herein, reverse engineer, decompile, disassemble, or otherwise
+translate or derive the source code for the SDK, or attempt to do so;.
+(iii) use the SDK to create any software or service containing any
+malicious or harmful code.
+(iv) use the SDK to damage, detrimentally
+interfere with, surreptitiously intercept, or misappropriate any system
+or data.
+(v) use the SDK in violation of applicable law.
+(vi) circumvent
+or attempt to circumvent usage limits.
+or (vii) use the service at
+excessive levels that would degrade performance for other users
+
+
+Licensee may and hereby is permitted to create derivative works of the
+SDK provided that such derivative works shall be subject to the Modified
+MIT (Open Source) License available here.
+
+
+Licensee acknowledges and agrees that the Company may change the form
+and nature of the SDK at any time in the Companyâs sole discretion
+without advance notice to Licensee, and that future versions of the SDK
+may no longer be compatible with any given Property.
+Licensee
+acknowledges and agrees that Company may stop (permanently or
+temporarily) providing the SDK (or any features within the SDK) to
+Licensee at any time in the Companyâs sole discretion without prior
+notice to Licensee.
+
+
+Nothing in this EULA permits Licensee to use any of the Companyâs trade
+names, trademarks, service marks, logos, domain names, or other
+distinctive brand features without the Companyâs prior express written
+consent.
+
+
+
+
+Term and Termination.
+ This EULA shall commence as of the
+Effective Date and shall remain in effect until terminated as provided
+herein.
+Either Party terminate this EULA for any reason or for no reason at
+any time upon thirty (30) daysâ prior written notice to the other Party.
+Notwithstanding the foregoing, the Company may terminate this EULA
+immediately upon written notice to Licensee in the event the Company
+believes Licensee has breached
+Section 2 or
+4 herein.
+Upon termination of this
+EULA, the license granted to the SDK pursuant to
+Section 1 shall immediately terminate and
+Licensee shall no longer have any rights to use the SDK.
+Licensee
+understands, however, that the collection of data by the SDK through
+Properties on which it is already integrated, and its use for purposes set
+forth herein, may continue until End Users have (a) removed or disabled the
+SDK (or any application that integrates the SDK) from their respective
+devices, or any application that integrates the SDK from your device, or (b)
+limited such data collection through applicable device settings in a manner
+that is communicated to Company.
+
+
+Compliance with COPPA : OneSignal permits developers to use
+the service in applications âdirected to children under 13â but Licensee
+must meet certain obligations, including obtaining verifiable parental
+consent and an opportunity to opt-out prior to sending a push token, email,
+or other contact information to OneSignal.
+Push Notifications or other
+messages sent to children must also be reasonably related to the content of
+Licenseeâs application or website.
+If you have questions about COPPA, the
+U.S.
+Federal Trade Commission provides a
+COPPA FAQ
+and you should consult your own legal advisor.
+
+
+Use and Ownership of SDK Data.
+ Licensee acknowledges and
+agrees that the SDK enables Licensee to collect certain information from end
+users (âEnd Usersâ) of the SDKâs functionality (collectively, âSDK
+Informationâ), which generally helps provide developers with functionality
+to target and personalize the notifications they send to end users.
+This
+data collected includes: End Usersâ mobile advertising identifiers, such as
+Apple IDFAs and Android Advertising identifiers.
+End Usersâ email addresses
+End Usersâ IP address, device push token, precise location (e.g., GPS-level)
+data, network information, language, time zone, product preferences, and
+privacy preferences.
+Licensee grants OneSignal a worldwide license to access
+and use SDK data for the purpose of providing the Service in accordance with
+these terms and to make data available to third parties as necessary to
+provide capabilities of the OneSignal service.
+
+
+Privacy Compliance.
+ The Parties agree to comply with all
+applicable privacy laws, and each respective party agrees to perform the
+following obligations:
+
+
+Licensee is responsible for obtaining all applicable consents required
+to enable OneSignal to collect information from End Userâs device or
+browser.
+Licensee shall publish privacy policies and disclosures for the
+Properties that comply with applicable law and the terms of this EULA,
+including, but not limited to, clearly disclosing that the SDK
+Information will be collected and how it may be used, as set forth in
+Section 5 above.
+
+
+Each Party shall at all times comply with its respective published
+privacy policies and disclosures, and each party shall at all times post
+a privacy policy on its website that describes how it collects, uses and
+shares information, and that provides information about how an End User
+can opt out of interest-based advertising (e.g., online behavioral or
+mobile cross-app advertising).
+
+
+Where Licensee provides data (such as IDFAs, Android Ad IDs, or location
+data) in a manner other than through Companyâs proprietary SDK,
+including without limitation through an API or an SDK proprietary to the
+Licensee, Licensee shall be responsible for ensuring ensure that any
+collection and transfer of data is done in compliance with userâs stated
+preferences, including without limitation devices settings to âLimit Ad
+Trackingâ and âOpt Out of interest-based ads.â
+
+
+Licensee shall notify Company in writing of any further data usage or
+governance requirements, restrictions or limitations, to the extent they
+apply, in which case the Parties may execute a further, paid
+subscription plan setting out such limitations and licensing payments to
+supplement the terms herein.
+
+
+
+
+Confidentiality 
+
+
+For purposes of this EULA, âConfidential Informationâ means and includes
+(a) the terms of this EULA, including any schedule, exhibit, attachment,
+or amendment hereto.
+and (b) all proprietary information, data, trade
+secrets, business information, and any other information disclosed, in
+writing, visually, or orally by or on behalf of a Party (âDiscloserâ) to
+the other Party (âRecipientâ) or to which Recipient obtains access in
+connection with the negotiation or performance of this EULA that is
+marked as âproprietary,â âconfidential,â âtrade secret,â or in some
+other manner to indicate that Discloser considers it to be commercially
+sensitive, or which a reasonable person would understand to be
+commercially sensitive.
+SDK Information shall not be Confidential
+Information, but rather shall be subject to
+Section 2
+hereof.
+Confidential Information shall not include information that: (i)
+is already rightfully known to Recipient at the time it obtains
+Confidential Information from Discloser.
+(ii) is or becomes generally
+available to the public other than as a result of disclosure in breach
+of this EULA or any other confidentiality obligations.
+(iii) is lawfully
+received on a nonconfidential basis from a third party authorized to
+disclose such information without restriction and without breach of this
+EULA.
+(iv) is contained in, or is capable of being discovered through
+examination of, publicly available records or materials.
+or (v) is
+developed by a Party without the use of any Confidential Information
+provided by the other Party.
+
+
+Discloserâs Confidential Information shall remain the property of
+Discloser, and Recipient shall not be deemed, by virtue of this EULA or
+any access to Discloserâs Confidential Information, to have acquired any
+right, title, or interest in or to Discloserâs Confidential Information.
+Recipient agrees: (a) to hold Discloserâs Confidential Information in
+strict confidence.
+(b) to limit disclosure of Discloserâs Confidential
+Information to Recipientâs own employees and contractors who have a need
+to know Discloserâs Confidential Information for the purposes of this
+EULA and who have been advised of, and are bound to observe and comply
+with, Recipientâs obligations hereunder.
+(c) not to otherwise disclose
+any of Discloserâs Confidential Information to any third party.
+(d) to
+use the Confidential Information solely and exclusively in accordance
+with the terms of this EULA in order to carry out its obligations and
+exercise its rights under this EULA.
+(e) to afford Discloserâs
+Confidential Information at least the same level of protection against
+unauthorized disclosure or use as Recipient normally uses to protect its
+own information of a similar character, but in no event, less than
+reasonable care.
+and (f) to notify Discloser promptly of any
+unauthorized use or disclosure of Discloserâs Confidential Information
+and to cooperate with and assist Discloser in every reasonable way to
+stop or minimize such unauthorized use or disclosure.
+
+
+Notwithstanding anything to the contrary herein, in the event Recipient
+is required to disclose any of Discloserâs Confidential Information
+under the terms of a valid and effective subpoena or order issued by a
+court of competent jurisdiction or by a demand or information request
+from any regulatory authority, Recipient shall, unless prohibited by the
+terms of a subpoena, order, or demand: (a) promptly notify Discloser of
+the existence, terms, and circumstances surrounding such demand or
+request.
+(b) consult with Discloser on the advisability of taking
+legally available steps to resist or narrow such subpoena, order, or
+demand.
+and (c) if disclosure of such Confidential Information is
+required, exercise its reasonable best efforts to narrow the scope of
+disclosure and obtain an order or other reliable assurance that
+confidential treatment shall be accorded to such Confidential
+Information.
+To the extent Recipient is prohibited from notifying
+Discloser of such a subpoena, order, or demand, by the terms of same,
+Recipient shall exercise its reasonable efforts to narrow the scope of
+disclosure.
+
+
+Upon the termination of this EULA, Recipient shall promptly return (or
+destroy if directed by Discloser) all of Discloserâs Confidential
+Information in its possession or in the possession of any employee or
+contractor of Recipient.
+
+
+
+
+Intellectual Property Rights.
+ Each Party acknowledges and
+agrees that no intellectual property rights (including without limitation
+any rights based in trademark, copyright, patent or trade secret law) are or
+are intended to be transferred from one party to the other through this
+EULA.
+Neither Party shall receive, by virtue of this EULA or performance
+under it any ownership interest in the otherâs intellectual property.
+Without limitation of the above, Company may use the name and logo of
+Licensee solely in order to designate Licensee as a licensee or client, for
+marketing purposes (e.g., on its website or email marketing materials).
+
+
+Additional Representations and Warranties.
+ Each Party
+represents that:
+
+
+to the extent it is a corporation, it is duly incorporated and in good
+standing under the laws of the state of its incorporation.
+
+
+it has the right, power, and authority to enter into this EULA, grant
+the rights granted by it herein, and perform its obligations without any
+additional consent or approval.
+
+
+it has not relied and shall not rely upon the other Party for legal
+advice regarding its compliance with applicable law.
+
+
+the execution and performance of this EULA shall not violate or conflict
+with the terms or conditions of any other agreement to which it is a
+party or by which it is bound.
+and
+
+
+it shall, and shall ensure that its employees and contractors, comply at
+its or their own expense, with applicable law, including, without
+limitation, applicable law governing privacy and data security.
+
+
+
+
+No Warranty  THE SDK IS BEING PROVIDED TO LICENSEE ON AN
+âAS-ISâ AND âAS AVAILABLEâ BASIS.
+THE COMPANY DOES NOT REPRESENT OR WARRANT
+THAT THE SDK OR THE RESULTS OBTAINED FROM ITS USE SHALL MEET THE
+REQUIREMENTS OR BUSINESS NEEDS OF LICENSEE OR ITS CUSTOMERS OR THAT THE
+SDKâS OPERATION SHALL BE UNINTERRUPTED OR ERROR-FREE.
+THE COMPANY MAKES NO
+REPRESENTATIONS AND WARRANTIES UNDER THIS EULA, AND HEREBY EXPRESSLY
+DISCLAIMS, ALL WARRANTIES, WHETHER WRITTEN OR ORAL, EXPRESS OR IMPLIED,
+RELATING TO THE SDK, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY OF TITLE OR
+NON-INFRINGEMENT, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE, AND ANY IMPLIED WARRANTIES ARISING FROM COURSE OF
+DEALING OR COURSE OF PERFORMANCE.
+
+
+Limitations of Liability  IN NO EVENT SHALL THE COMPANY,
+WHETHER IN CONTRACT, TORT, EQUITY, OR OTHERWISE, BE LIABLE FOR: (A) ANY
+INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, OR EXEMPLARY DAMAGES
+(EVEN IF SUCH DAMAGES ARE FORESEEABLE, AND WHETHER OR NOT THE COMPANY HAS
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES) ARISING FROM OR RELATING TO
+THIS EULA.
+OR (B) ANY DIRECT DAMAGES ARISING FROM OR RELATING TO THIS EULA
+TO THE EXTENT THAT THE AGGREGATE AMOUNT OF SUCH DAMAGES EXCEEDS THE GREATER
+OF (X) ALL AMOUNTS PAID BY ONE PARTY TO ANOTHER DURING THE SIX MONTHS
+PRECEDING THE DATE OF THE EVENT THAT IS THE BASIS FOR THE CLAIM AND (Y)
+$1500.
+
+
+Force Majeure.
+ Except for payment obligations, neither
+Party shall have any liability for any failure or delay resulting from any
+condition beyond the reasonable control of such Party, including
+governmental action or acts of terrorism, earthquake or other acts of God,
+labor conditions, and power failures.
+Each Party shall promptly notify the
+other Party upon becoming aware that any such event has occurred or is
+likely to occur and shall use its best efforts to minimize any resulting
+delay in or interference with the performance of its obligations under this
+EULA.
+
+
+Indemnification 
+
+
+Indemnification by the Company  The Company agrees to
+indemnify, defend, and hold Licensee and its affiliates and their
+respective directors, officers, employees, and agents (collectively
+âIndemnified Licensee Personsâ) harmless from and against any damages,
+awards, judgments, settlement amounts, fines, penalties, losses, costs,
+and expenses (including reasonable legal fees and expenses and costs of
+investigation) and other liabilities (collectively, âLossesâ) arising
+out of any lawsuit, action, claim, demand, administrative action,
+arbitration, or other legal proceeding brought or asserted against any
+Indemnified Licensee Person as a result of or in connection with: (a)
+Companyâs breach of any covenant or representation herein, or (b) any
+allegation that the use of the SDK infringes or misappropriates an
+effective U.S.
+patent a U.S.
+registered trademark, a U.S.
+copyright or a
+trade secret.
+provided, however, that the Company shall have no
+obligation to any Indemnified Licensee Person under this
+Section 13 to the extent such claim
+arises from: (i) use of the SDK in a manner or for a purpose not
+specifically authorized under this EULA.
+(ii) any modification, change,
+amendment, customization, or adaptation of the SDK not made wholly by
+the Company or any of its designees.
+(iii) any modification, change,
+amendment, customization, or adaptation of the SDK made by the Company
+at Licenseeâs request.
+(iv) Licenseeâs failure to implement any
+corrections, updates, or changes to the SDK provided by the Company.
+or
+(v) Licenseeâs breach or alleged breach of
+Section 2 of
+this EULA.
+If Licenseeâs use of the SDK becomes (or is likely to become)
+the subject of a third-party infringement claim, the Company may, at its
+expense and option: (x) procure for Licensee the right to continue to
+use the SDK.
+(y) replace or modify the SDK so that it becomes
+non-infringing.
+or (z) immediately terminate this EULA.
+
+
+Indemnification by Licensee.
+ Licensee agrees to
+indemnify, defend, and hold the Company and its affiliates and their
+respective directors, officers, employees, and agents (collectively
+âIndemnified Company Personsâ) harmless from and against any Losses
+arising out of any lawsuit, action, claim, demand, administrative
+action, arbitration, or other legal proceeding brought or asserted
+against any Indemnified Company Person as a result of or in connection
+with: (a) Licenseeâs breach or alleged breach of any covenant or
+representation herein or of Licenseeâs own posted privacy policy (or
+similar posted privacy statement).
+or (b) any violation of applicable
+law by Licensee or any other Indemnified Licensee Persons.
+
+
+Notice and Defense.
+ For any claim under this
+Section 13, (a) the indemnified party
+shall provide the indemnifying party with prompt written notice of such
+claim.
+(b) the indemnifying party shall have the right and authority to
+control and direct the investigation, defense, and settlement of the
+claim.
+(c) the indemnifying party shall have no liability for any
+settlement or agreement entered into by the indemnified party without
+the indemnifying partyâs prior written consent.
+and (d) the indemnified
+party shall provide such cooperation and assistance as may be reasonably
+requested by the indemnifying party in connection with the
+investigation, defense, or settlement of the claim.
+
+
+
+
+Compliance with U.S.
+Department of the Treasury Sanctions.
+
+
+
+Licensee hereby certifies that Licensee will not, sell, export or
+re-export, divert or transfer, or otherwise participate in any export
+transaction involving the Service with individuals or entities listed in
+the U.S.
+Commerce Department's Table of Denial Orders, the U.S.
+Treasury
+Departmentâs list of Specially Designated Nationals or the U.S.
+Department of Stateâs list of individuals debarred from receiving
+Munitions List items and other applicable lists, e.g., the Entity List.
+
+
+Licensee hereby certifies that Licensee will not violate U.S.
+law with
+respect to the U.S.
+consolidated screening list including, but not
+limited to, the following: (a) re-exporting / transferring U.S.
+controlled items or technology to an individual or entity identified on
+the U.S.
+consolidated screening list.
+(b) that no party to this
+transaction is identified on the U.S.
+consolidated screening list.
+and
+(c) Licensee is not owned or otherwise controlled by any individual or
+entity on the U.S.
+consolidated screening list.
+
+
+Licensee hereby certifies that this transaction does not violate the
+current U.S.
+sanctions laws and regulations with respect to
+Russia/Ukraine (which can be found here:
+https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx),
+including, but not limited to: (i) the use of this product for an
+unauthorized purpose (e.g., use of the product for deep-water, Arctic
+offshore, or shale projects that have the potential to produce oil in
+the Russian Federation).
+(ii) the product is not for use by an entity
+identified on a U.S.
+sanctions list.
+and (iii) the product will not be
+re-exported or transferred to the Crimea-Region of Ukraine.
+
+
+
+
+Miscellaneous 
+
+
+Notices.
+ All notices, requests, and approvals required
+by a Party under this EULA shall be in writing addressed/directed to the
+other Party at the address set forth below.
+All such notices, requests,
+and approvals shall be deemed given upon the earlier of receipt of
+facsimile or email transmission during the normal business day or actual
+receipt thereof.
+In the event of use of email notice, the sender shall
+request a read receipt or also send a hard copy by regular mail to
+ensure delivery.
+All such notices, requests, and approvals shall be
+addressed to the attention of the signatory parties, or such other party
+that either party has designated in a separate writing as the
+appropriate notice recipient:
+
+
+Governing Law.
+ This EULA shall be governed by the laws
+of the State of California without regard to choice of law principles.
+
+
+Arbitration.
+ Any controversy or claim arising out of or
+in any way connected with this EULA between the Parties shall be
+resolved by one arbitrator, in accordance with the Commercial
+Arbitration Rules of the American Arbitration Association and shall be
+held in San Francisco County, California.
+Judgment upon the award
+rendered by the arbitrator may be entered in any court having
+jurisdiction thereof.
+Costs of any arbitration shall be shared equally
+by the parties to the arbitration.
+
+
+Assignment.
+ Licensee may not assign or delegate any
+rights or obligations under this EULA to any third party without the
+Companyâs prior written consent.
+Notwithstanding the foregoing, either
+Party may assign this EULA (along with all rights and obligations under
+it) to any of its corporate affiliates, parents or subsidiaries, or in
+conjunction with the sale or transfer of all or substantially all of its
+assets associated with performance under this EULA, provided that the
+assigning party shall provide timely notice of such assignment.
+
+
+Amendment.
+ No modification of this EULA or waiver of
+the terms and conditions hereof shall be binding upon the Parties unless
+approved in writing by each of the Parties.
+
+
+Relationship of the Parties.
+ The Parties agree they are
+independent contractors to each other in performing their respective
+obligations hereunder.
+Nothing in this EULA or in the working
+relationship being established and developed hereunder shall be deemed,
+nor shall it cause, the Parties to be treated as partners, joint
+venturers, or otherwise as joint associates for profit.
+
+
+No Waiver.
+ Except as otherwise provided herein, the
+failure of either Party to enforce at any time the provisions of this
+EULA shall not be constituted to be a present or future waiver of such
+provisions, nor in any way affect the ability of either Party to enforce
+each and every such provision thereafter.
+
+
+Severability.
+ If any provision of this EULA is held
+invalid or unenforceable at law, such provision shall be deemed stricken
+from this EULA and the remainder of this EULA shall continue in effect
+and be valid and enforceable to the fullest extent permitted by
+applicable law.
+
+
+Entire Agreement.
+ This EULA is the entire agreement
+between the Parties and supersede any and all prior understanding,
+agreements, or representations by or between the Parties, written or
+oral, which may have related to the subject matter hereof.
+There are no
+third party beneficiaries to this EULA.
+
+
+Survival.
+ Sections 3, 5, 7-8, 10-11 and 13-14 shall
+survive termination of this EULA, to the extent contemplated by their
+terms.
+
+
+
+

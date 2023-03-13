@@ -1,0 +1,47 @@
+
+         NixNet
+
+About
+Contact
+Blog
+Privacy
+ Privacy Policy
+What's being done with your data? 
+Note: new policies are being drafted that are specific to each service.
+The policy below generally applies to everything but check the docs for individual policies.
+This change was made because I know some people only use this or that service and one general blanket policy doesnât quite cut it.
+Privacy Policy
+This will hopefully be the briefest âlegalâ document youâve ever read as well as the most readable.
+If you need additional information let me know and Iâll add it.
+IP Address
+Some applications (Gitea, Mumble, XMPP, and NixNet Mail) collect your IP when you register.
+At the moment, that information is kept indefinitely.
+However, Iâm working on either completely disabling it or setting something up that will periodically delete stored IP addresses.
+When I do, this document will be updated accordingly.
+If you donât want me to have that information to begin with, just use Tor Browser.
+Email Address
+When you register for a service using an email address, that is obviously collected.
+You can control whether itâs a real one or not.
+Even though I can see them for services like Gitea and Mastodon, I donât care and wonât send you unsolicited mail.
+
+Note: whatever address you use for git is visible in commits.
+Browser Fingerprint
+Your web browser communicates uniquely identifying information to all websites it visits by allowing the site to know details about your operating system, browser information, plugins installed, fonts installed, screen resolution, and much more.
+As far as I know, nothing collects or uses any of that information.
+Usage and storage of collected information
+Whatever data is collected is stored on servers I have sole control over and it wonât be shared with any third parties whatsoever.
+Exceptions
+I do live in the US.
+I have two servers here, one in Finland, and another in Luxembourg.
+If, for whatever reason, Iâm compelled by law enforcement to give up your email, IP address, or any other information, I will even though I donât want to.
+As such, I do whatever I can to make sure I donât have that information.
+If I donât have it, I canât share it.
+Recommendations
+To mitigate invasions of privacy like this, use a throwaway email address for registration, such as one from anonbox if you want a temporary address or cock.li for something a bit more permanent.
+Also provide a fake name and use the service from behind Tor or a VPN.
+Rather than a VPN, however, I strongly recommend using Tor across all devices.
+They have an Android version now and thereâs another browser they recommend for iOS called Onion Browser.
+I donât use iOS so I canât say whether or not itâs any good, just that the Tor Project recommends it. *****
+Website source available on Gitea Made with â¤ï¸ and Jekyll by Amolith All content is licensed under CC-BY 4.0 (unless otherwise stated)
+nixnet54icmeh25qsmcsereuoareofzevjqjnw3kki6oxxey3jonwwyd.onion 
+      

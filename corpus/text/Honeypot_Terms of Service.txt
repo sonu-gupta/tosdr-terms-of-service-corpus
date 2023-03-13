@@ -1,0 +1,834 @@
+
+        Your PrivacyWe use cookies and similar technologies to analyse and improve your experience on our website.
+Read our Privacy Policy to find out more.[#OOI_PERSONAL_INFORMATION#] Use necessary cookies only Allow all cookies Show details OK Use necessary cookies only Only use the selected Iâm ok with everything NecessaryPreferenceStatisticsMarketing Show details Cookie declaration [#IABV2SETTINGS#] About cookies âNecessary (31)âPreference (3)âStatistics (2)âMarketing (32)âUnclassified (2)Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website.
+The website cannot function properly without these cookies.
+NameProviderPurposeExpiryTyperemember_user_tokenapp.honeypot.ioThis cookie is used to save the users preference to stay signed in to the platform3 monthsHTTPCookieConsentBulkSetting-#CookiebotEnables cookie consent across multiple websitesPersistentHTML__cfduidwww.honeypot.ioUsed by the content network, Cloudflare, to identify trusted web traffic.29 daysHTTPCookieConsent [x5]CookiebotStores the user's cookie consent state for the current domain1 yearHTTPhoneypot_esa_v1honeypot.ioThis cookie is used for token authentication for the platform frontend1 dayHTTPintercom-session-qkvaoe5qhoneypot.ioIntercom is used for enabling our users to chat to the honeypot team, as well as proving them help using our product.7 daysHTTPintercom-statehoneypot.ioIntercom is used for enabling our users to chat to the honeypot team, as well as proving them help using our productPersistentHTMLub-emb-id [x2]bae46957d1da4ad39e84912610a75c6d.js.ubembed.comEnables the website to make variations of their landing-page.
+This is used to minimize bounce-rates, which means that fewer users leave the page immediately.PersistentHTMLGCLBchart-studio.plotly.comThis cookie is used in context with load balancing - This optimizes the response rate between the visitor and the site, by distributing the traffic load on multiple network links or servers.
+1 dayHTTPievents.ub-analytics.comRegisters the website's speed and performance.
+This function can be used in context with statistics and load-balancing.SessionPixelubpvhello.honeypot.ioDetermines if a user leaves the website straight away.
+This information is used for internal statistics and analytics by the website operator.
+6 monthsHTTPubrshello.honeypot.ioRouting Strategy - indicates the logic used to select the variant to be served.
+Possible values: cookie: Indicates that the variant has been selected from the value of the ubpv cookie.
+dta: Indicates that the variant has been selected using Dynamic Traffic Allocation (Smart Traffic traffic mode) dta_fallback: Indicates that the variant could not be selected using Dynamic Traffic Allocation and it was selected using a fallback selection mechanism instead.
+weighted: Indicates that the variant has been selected randomly using the weights associated with the available variants.
+This is the case for A/B testing and Standard traffic modes.SessionHTTPubvshello.honeypot.ioCollects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.179 daysHTTPu_campaignhoneypot.ioThis cookie stores the original value of the UTM campaign and is only used when signing up for the core platform service on app.honeypot.io.30 daysHTTPu_contenthoneypot.ioThis cookie stores the original value of the UTM content and is only used when signing up for the core platform service on app.honeypot.io.30 daysHTTPu_mediumhoneypot.ioThis cookie stores the original value of the UTM medium and is only used when signing up for the core platform service on app.honeypot.io.30 daysHTTPu_sourcehoneypot.ioThis cookie stores the original value of the UTM source and is only used when signing up for the core platform service on app.honeypot.io.30 daysHTTPu_termhoneypot.ioThis cookie stores the original value of the UTM term and is only used when signing up for the core platform service on app.honeypot.io.30 daysHTTPubvthello.honeypot.ioCollects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.2 daysHTTPugidUnsplashNecessary for the implementation of video-content on the website.1 yearHTTPcult-intro-animation-has-runcult.honeypot.ioCookie to check if we already showed yiou our intro video to cultPersistentHTMLem_cdn_uidcult.honeypot.ioEmbedly service to serve embeds1 yearHTTPem_p_uidcult.honeypot.ioEmbedly service to serve embeds1 yearHTTP_honeypot_session_v1app.honeypot.ioThis cookie is to maintain the authenticated session for a userSessionHTTPJSESSIONIDhome.textkernel.nlSession cookie for uploading a CV to our third party provider textkernel.nlSessionHTTPSERVERIDhome.textkernel.nlLoad balancing cookie for uploading a CV to our third party provider textkernel.nlSessionHTTP Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+NameProviderPurposeExpiryTypecb-enabledapp.honeypot.ioThis cookie is used to determine if the visitor has accepted the cookie consent box1 yearHTTP@@scroll# [x2]www.honeypot.iocult.honeypot.ioPendingSessionHTML Statistics cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+NameProviderPurposeExpiryTypeub-emb-GUID# [x2]bae46957d1da4ad39e84912610a75c6d.js.ubembed.comPendingPersistentHTML Marketing cookies are used to track visitors across websites.
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+NameProviderPurposeExpiryTypeIDEGoogleUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.1 yearHTTPpagead/landingGoogle Inc.Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+SessionPixeltest_cookieGoogleUsed to check if the user's browser supports cookies.1 dayHTTPfrFacebookUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.3 monthsHTTPtrFacebookUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.SessionPixelads/ga-audiencesGoogleUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.SessionPixelcollectGoogleUsed to send data to Google Analytics about the visitor's device and behavior.
+Tracks the visitor across devices and marketing channels.SessionPixel_dc_gtm_UA-#Google Tag ManagerUsed by Google Tag Manager to control the loading of a Google Analytics script tag.29 daysHTTP_fbpFacebookUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.3 monthsHTTP_gaGoogle Tag ManagerRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.29 daysHTTP_gcl_auGoogle Tag ManagerUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+3 monthsHTTP_gidGoogle Tag ManagerRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.29 daysHTTPga_client_id [x3]Google Tag ManagerRegisters statistical data on users' behaviour on the website.
+Used for internal analytics by the website operator.
+PersistentHTMLVISITOR_INFO1_LIVEYouTubeTries to estimate the users' bandwidth on pages with integrated YouTube videos.179 daysHTTPYSCYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.SessionHTTPyt-remote-cast-installed [x2]YouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-connected-devices [x2]YouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-device-id [x2]YouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-fast-check-period [x2]YouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-app [x2]YouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-name [x2]YouTubeStores the user's video player preferences using embedded YouTube videoSessionHTML_session_UA-66414724-1Google Tag ManagerPending1 dayHTTPsnowplowOutQueue_ubSnowplow_sp-ub_getAmazonUsed in context with Account-Based-Marketing (ABM).
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit.
+This is used for retargeting of multiple users rooting from the same IP-addresses.
+ABM usually facilitates B2B marketing purposes.PersistentHTMLsnowplowOutQueue_ubSnowplow_sp-ub_get.expiresAmazonUsed in context with Account-Based-Marketing (ABM).
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit.
+This is used for retargeting of multiple users rooting from the same IP-addresses.
+ABM usually facilitates B2B marketing purposes.PersistentHTML Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+NameProviderPurposeExpiryType_sp_id.1302AmazonPending2 yearsHTTP_sp_ses.1302AmazonPending1 dayHTTP â[#IABV2_LABEL_PURPOSES#]â[#IABV2_LABEL_FEATURES#]â[#IABV2_LABEL_PARTNERS#] [#IABV2_BODY_PURPOSES#] [#IABV2_BODY_FEATURES#] [#IABV2_BODY_PARTNERS#] Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site.
+For all other types of cookies we need your permission.
+This site uses different types of cookies.
+Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Please state your consent ID and date when you contact us regarding your consent.
+Your consent applies to the following domains: www.honeypot.io, hello.honeypot.io, honeypot.io, hive.honeypot.io, cult.honeypot.io, app.honeypot.io
+ Cookie declaration last updated on 8 December 2020 by Cookiebot <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJX579" height="0" width="0" style="display: none.
+visibility: hidden"
+></iframe>
+For Talents
+For Employers
+Dev Community
+About Us
+Login
+Sign up
+
+
+EN
+DE
+NL
+Terms of Service of Honeypot
+For Talents &amp.
+For Employers
+For Talents
+Honeypot GmbH, Schlesische StraÃe 26, 10997 Berlin, Germany, Commercial Register: Amtsgericht Charlottenburg, HRB 210362 B, Managing Directors: Dr.
+Philipp Goos, Dr.
+Jost Schatzmann, VAT-ID: DE327578486 (hereinafter referred to as "Honeypot" or "us" ) operates an online job marketplace platform via https://www.honeypot.io/ and other channels (the "Service" ).
+The Service connects companies ( "Company" or "Companies" ), and candidates ( "Talent" or "Talents" ) with each other trying to match the right person with the right job.
+Talents are natural persons seeking new employment or freelance contracts through the Service.
+Companies are natural persons or business entities searching for new employees or contractors through the Service.
+
+
+
+Scope
+
+
+Within the framework of the Talents' own technical and operational possibilities Honeypot allows the Talents to participate in the Service.
+Honeypot provides all services in connection with the Service for Talent solely based on these Terms of Service (hereinafter referred to as "Talent Terms of Service" or "Terms of Service").
+Honeypot objects to the validity of any general terms and conditions of Talents.
+General terms and conditions of Talents become an integral part of the agreement between the Talent and Honeypot, only if Honeypot explicitly consents to them in writing.
+Honeypot can utilize the services of independent third parties for the Service ( "Third Party Service" ) such as app stores and social networks.
+No third party services are provided by third parties upon the instruction of Honeypot.
+Third party services are not provided by Honeypot.
+Honeypot or the third party will identify these services in a suitable manner.
+Any issues in connection with third party services are not affected by these Terms of Service.
+Honeypot shall not be responsible for third party services.
+Third party services are potentially subject to their providers' general terms and conditions.
+Applications for mobile devices ( "Apps" or "Apps" ) are generally not directly provided by Honeypot but by a third party provider ( "App Store" ).
+A separate user account may be necessary for this purpose.
+Honeypot does not warrant that the Service is identical in functionality and design on all mobile devices.
+Certain functions and contents may not be available.
+Talents should see the functionality description of the App.
+
+
+
+
+
+
+
+Talent Eligible to Participate
+
+
+Honeypot offers the Service only to Talent looking for Placement as defined in Section 7.2 below.
+With his/her account registration or participation in the Service, Talent represents that he/she is of legal age and of legal capacity.
+
+
+
+
+
+
+
+Talent Enrolment / Entry Into Force
+
+
+The participation in the Service requires that the Talent enters a binding agreement with Honeypot as defined below in Section 3.4 and the setup of a Talent account ( "Account" ).
+Talent must submit an application to participate in the Service on Honeypotâs website or otherwise.
+Talent must accurately complete the application (and provide Honeypot with future updates) and not use any aliases or other means to mask its true identity or contact information.
+By filling in the application, Talent submits a binding offer to enter into an agreement with Honeypot according to the terms and conditions of these Terms of Service ( "Agreement" ).
+After Honeypot reviews Talentâs application, Honeypot will notify him/her or it of its acceptance or rejection to the Service, generally within five (5) business days of receipt of the application.
+Honeypot may request additional information (see Sections 6.1 and 6.2).
+The Agreement enters into force upon Honeypotâs acceptance of Talent to the Service.
+Honeypot is under no obligation to accept applications.
+Honeypot is entitled but not obliged to verify the accuracy of the Talent's information.
+This may be done by Honeypot requesting documents to prove the identity such as a personal ID card.
+Honeypot is entitled to make the creation of an account subject to such verification.
+Prior to the application Talent will have to conduct a telephone/online interview with Honeypot.
+Furthermore, the Talent may be required to complete a coding challenge.
+Prior to sending the online application form, the Talent can print out the Terms of Service or save them to a permanent data storage device.
+
+
+
+
+
+
+
+Limits of Use / Prohibited Conduct
+
+
+Honeypot provides the Service solely for use in accordance with these Terms of Service.
+Automated login is prohibited.
+Only the official clients and apps or websites provided by Honeypot may be used to connect to the Service.
+The Talent may not create, support, host, link or provide any other options, which can be used by other persons to utilize the Service.
+The Talent is prohibited from transferring his/her Account to third parties without the prior written consent of Honeypot.
+The Talent is not entitled to use any means, mechanisms or software in connection with the Service, which can disturb functions of the Service.
+The Talent may not undertake any action, which can result in an unreasonable or excess load of the technical capacities of Honeypot.
+In particular, the Talent is not permitted to block, overwrite or modify the contents generated by Honeypot unless Honeypot has permitted it specifically in writing.
+The Talent will refrain from anything that could endanger the performance and availability of the Service.
+
+By using the Service, the Talent will not violate any applicable legal provisions such as the criminal code or third party rights and the Talent assures not to contribute or transmit any illegal or immoral contents to the Service.
+This includes specifically any contents (including member names, etc.),
+
+which are, false, inaccurate or misleading
+which are, insulting, racist, sexist, pornographic or obscene;
+which can damage the reputation of Honeypot;
+suitable to violate copyrights, patents, brands or any other intellectual property rights, the rights on a person's own image and other personal rights or third party rights.
+
+
+The Talent is not permitted to disseminate commercial advertising for third party products or programs, to send unsolicited mass emails and unsolicited advertising in the Service.
+The Talent will honor the privacy of third parties.
+In addition, the Talent is not permitted to disseminate in the Service unauthorized any third party work that is protected by copyrights or other rights.
+Moreover, the Talent is not allowed to refer to offers with such content.
+Honeypot is entitled to stop such violations against this Section 4.
+In addition, Honeypot is entitled to delete the breaching contents of the Talent.
+The same applies to definite indications of a violation against these Terms of Service to contents, which are otherwise illegal.
+There is no entitlement to the recovery of breaching deleted content.
+Such claim is also voided if the restoration is not possible for technical reasons.
+Without the prior express written consent of Honeypot, any blocked Talent is prohibited from creating a new account.
+If this ban was circumvented, then Honeypot has the right to block this Account permanently without prior announcement.
+The provisions of this Section 4 do not limit the termination right of Honeypot â particularly the right to terminate effective immediately â in accordance with Section 12.
+In addition, they do not limit the right of Honeypot to exercise the virtual domiciliary right.
+
+
+
+
+
+
+
+Functioning of the Service / Honeypotâs responsibilities
+
+
+Honeypot provides the Service to connect Talent and Companies.
+The Service works as follows: Talent sign-up to the Service and make their curriculum vitae and other information as specified in the Terms of Service or the Talent Terms of Service available.
+Companies also sign-up and provide a profile.
+This profile is only visible to Talents that the Companies are interested in as defined below.
+Companies can browse the Talent profiles in a list and detailed view and decide to apply to the respective Talent by sending an interview requests.
+These interview requests come with a first, non-binding offer proposal of what compensation package the company has in mind.
+Talent can review the interview requests and are now able to browse the profiles of Companies that have sent the requests.
+The Talent can accept or reject the interview request.
+If rejected, the Company may (upon choice of the Talent) re-contact the Talent with a revised proposal.
+If accepted, Honeypot connects Talent and Company.
+Once a Talent has been viewed by a Company in the list view it is considered to be introduced by Honeypot ( "Introduction" ).
+If Talent and Company had been introduced in the past twelve months before the Introduction directly or by a third party and Company does not inform Honeypot about this within five business days in writing and substantive materials showing the introduction, the Talent is considered to have been introduced by Honeypot.
+Email or the Service are sufficient media in this matter.
+A Talent is considered to be already introduced directly or by a third party when there is a written communication concerning the Talent, with a clear identification of the Talent and the Company and with a clear identification of the opportunity to hire the Talent.
+An Introduction on the Service lasts twelve months.
+Honeypot may from time to time, but is under no obligation to, suggest a specific Talent to a Company or vice versa.
+The Talent is then also seen as introduced.
+This can be done via email, messaging service or phone.
+Honeypot undertakes reasonable efforts to match Talent and Companies, however, Honeypot does under no circumstances represent, assume a warranty or guarantee or undertake in any other way that Talent or Company will find a match through Honeypot and/or the Service.
+
+
+
+
+
+
+
+Obligations of Talent
+
+
+Talent shall submit the information about him/or herself as requested in the compulsory and voluntary fields of the sign-up form.
+Honeypot may add compulsory or voluntary fields from time to time.
+The Talent shall not transmit any personal data of third parties (i.e.
+data allowing identification of an individual) to Honeypot, unless data protection laws allow for such transmission or Talent has obtained consent from the concerned parties.
+Honeypot may also request additional information from Talent on a case by case basis.
+Unless otherwise provided in these Terms of Service, Honeypot will usually communicate with the Talent via email.
+The Talent shall make sure that it receives all emails sent by Honeypot to the address submitted in the course of the application, or at a later date.
+The Talent will in particular configure the spam filter accordingly and regularly check all incoming email under this address.
+Honeypot may choose any other appropriate means of communication.
+The Talent shall inform Honeypot in writing within 5 business days if a Company gets in contact with the Talent outside of the provided Service while its profile is visible to Companies on the platform.
+The Talent shall keep all access data (login, passwords etc.) for the Service ( "Access Data" ) strictly confidential.
+The Talent shall promptly inform Honeypot in case it learns or suspects that an unauthorized third person is in possession of the Access Data.
+In case Honeypot has reason to believe that an unauthorized third party is in possession of Access Data, Honeypot may, without assuming any responsibility to do so, and always acting in its sole discretion, change the Access Data without prior notice or block the respective account.
+Honeypot will promptly inform the Talent and will, upon request, communicate the new Access Data to the Talent without undue delay.
+The Talent cannot claim to have its initial Access Data restored.
+In case a third party uses of Access Data, with the Talent at fault, the Talentâs Access Data, the Talent is liable for all such actions, and for damages.
+In such event, all access through the Talentâs Access Data shall be considered as an access by the Talent.
+Honeypot is not responsible for providing or assisting with the obtaining of any work or other permits and/or medicals and other country specific regulations and requirements that may be necessary to employ the Talent.
+
+
+
+
+
+
+
+Placement / Payment
+
+
+The use of Honeypot is free of costs for Talents.
+Talent undertakes to inform Honeypot in writing (through the service or via email is sufficient) as soon as possible, but no later than five business days, if he was hired or otherwise contracted by Company ( "Placement" ).
+Honeypot may contact Talent to request status updates about ongoing negotiations.
+Placement shall mean any form of employment, temporary employment, contracting or other use of Talent by Company or an undertaking affiliated with Company in the sense of Sec.
+15ff.
+of the German Stock Company Act.
+Talent agrees that Companies are allowed to share all contract details with Honeypot.
+Talent has to inform Honeypot in writing within five business days about any rehiring or similar by Company for a period of twelve months after termination.
+Honeypot operates the "Refer a Friend Program".
+Talent can refer a friend.
+If a friend signs-up through Honeypot and is successfully placed in fix employment (no contract work or internship position), Talent is entitled to a referral bonus in the amount of 512 Euro.
+Referral needs to be done through the referral technology provided in the Service or an affiliate tracking link.
+A referral lasts 12 months during which no other Talent can refer the same friend.
+Honeypot will credit the referral Bonus within two weeks after the start of the Placement.
+Talent has to transmit the signed agreement to Honeypot as proof of the conclusion of the agreement and for the invoicing processes.
+
+
+
+
+
+
+
+Quality of the Service / Technical Deficiencies
+
+
+It is in the nature of the Service that it is continuously advanced and updated.
+By changing and advancing the Service, Honeypot intends to provide Talents a useful Service and pleasant Talent experience.
+Therefore, Honeypot grants the Talent access to the Service in its available form or version.
+Changes and advancements can affect system requirements and compatibility requirements.
+The Talent has no claim for maintaining or reconstruction of a specific condition of scope of services.
+Any of the Talent's claims for deficiency, which refer to the technical usability of the Service itself, shall remain unaffected thereby.
+Due to the continuous advancement of the Service, Honeypot reserves itself the right to offer new features and/or to remove them from the Service or to change them.
+The Talent consents these continuous changes of the Service.
+Excluded from warranty are generally such errors, which occur through external influences such as operating errors by the Talent, force majeure or any modifications, not carried out by Honeypot or any other manipulations.
+Honeypot does not assume any guarantees in a legal meaning as long as not expressly provided for in these Terms of Service.
+
+
+
+
+
+
+
+Limitation of Liability / Availability
+
+
+
+Honeypot shall be liable under the terms of this Agreement only in accordance with the provisions set out in Sections 9.1.1 to 9.1.5.
+Except in case of intent or gross negligence, any liability of Honeypot shall be disclaimed.
+The same applies in case of slight negligence by agents or assistants in performance.
+However, the foregoing does not apply in the following cases:
+
+Honeypot shall be unrestrictedly liable for losses caused intentionally or with gross negligence by Honeypot, its legal representatives or senior executives and for losses caused intentionally by other assistants in performance.
+in respect of gross negligence of other assistants in performance Honeypotâs liability shall be as set forth in the provisions for simple negligence in Section 9.1.5 b) below.
+Honeypot shall be unrestrictedly liable for death, personal injury or damage to health caused by the intent or negligence of Honeypot, its legal representatives or assistants in performance.
+If Honeypot provides a warranty it shall be liable for losses arising from the lack of any warranted characteristics up to the amount which is covered by the purpose of the warranty and which was foreseeable for Honeypot at the time the warranty was given.
+Honeypot shall be unrestrictedly liable in accordance with the German Product Liability Act in the event of product liability.
+
+Honeypot shall be liable for losses caused by the negligent (including simple negligence) or intentional breach of its primary obligations by Honeypot, its legal representatives or assistants in performance.
+
+Primary obligations are such basic duties, which form the essence of the Agreement, which were decisive for the conclusion of the Agreement and on the performance of which Talent may rely.
+If Honeypot breaches its primary obligations through simple negligence, then its ensuing liability shall be limited to the amount which was foreseeable by Honeypot at the time the respective service was performed.
+Damages shall be restricted to ten (10) times the fees provided under these Terms of Service in the past twelve (12) months.
+
+
+
+
+Subject to Clause 9.1 only and other than in case of intent Honeypot does not accept any liability under or in relation to the Agreement or its subject matter whether such liability arises due to negligence, breach of contract, misrepresentation or for any other reason for any indirect damage and consequential damage, in particular, not for loss of profit, interruption in business and/or interruption of operations of Talent or its customers, unless explicitly specified otherwise in these Terms of Service.
+Honeypot undertakes to assure an availability of the Service of 99% (ninety nine percent) as a yearly average.
+Periods during which the Service is not available because of technical or other problems outside Honeypotâs control (such as force majeure or third party fault) and periods during which routine maintenance works are carried out, are excluded from this.
+Honeypot may restrict access to the Service if required for network security, maintenance of network integrity and the prevention of severe malfunction of the network, the software or stored data.
+The Talentâs rights in case of intent or gross negligence remain unaffected.
+
+
+
+
+
+
+
+Intellectual Property / Indemnification
+
+
+Honeypot or its respective licensor is the exclusive owner or exclusive owner of the rights of all contents of the Service.
+The content is protected by national and international law and particularly by copyright.
+The unauthorized dissemination, copying, deletion or any other violation of intellectual property rights and copyrights of Honeypot are prosecuted under both civil and criminal law.
+All rights not expressly granted in these Terms of Service are reserved by Honeypot.
+Honeypot will retain all rights, title, and interests in and to the Service (except for any licensed content and third-party content included therein), including all data (such as any usage data and compilations thereof), information and software related thereto.
+The Talent acknowledges that the software, information, content and data related to the Service (such as any usage data or compilations thereof) are protected for Honeypot under copyright and similar rights and may contain trade secrets or other intellectual or industrial property owned or licensed by Honeypot.
+Talent warrants, that he has the right (i) to submit the information to the Service and (ii) can grant Honeypot the right to use the information as described above.
+Talent hereby agrees to indemnify, defend and hold harmless Honeypot and their its subsidiaries, directors, officers, employees, owners and agents against any and all claims, actions, demands, liabilities, losses, damages, judgments, settlements, costs, and expenses (including reasonable attorneys' fees and costs) based on (i) any failure or breach of the Agreement and the Terms of Service, including any representation, warranty, covenant, restriction or obligation made by Talent herein, (ii) any misuse by Talent.
+
+
+
+
+
+
+
+Confidentiality
+
+
+Except as otherwise provided in these Terms of Service or with the consent of Honeypot, the Talent agrees that all information, including, without limitation, business information, information from the company profile e.g.
+salary information and information about tech stack concerning Honeypot or any of Honeypotâs other customers provided by or on behalf of any of them shall remain strictly confidential and secret and shall not be utilized, directly or indirectly, by Talent for any purpose other than Talentâs participation in the Service ( "Confidential Information" ).
+Talent shall especially not use any information obtained from the Service to develop, enhance or operate a service that competes with the Service, or assist another party to do the same.
+After and during the term of the Agreement, neither party will use for any purpose or disclose to any third party, any Confidential Information of the other party.
+Any exception to this must be obtained in advance.
+The foregoing restriction does not apply to information that has been developed independently by the receiving party without access to the other partyâs Confidential Information or has been rightfully received from a third party authorized to make such disclosure or has been approved for release in writing by the disclosing party or has become publicly known through no breach of this Section by the receiving party or is required to be disclosed by a competent legal or governmental authority, provided that the receiving party gives the disclosing party prompt written notice of such requirement prior to disclosure and assists in obtaining an order to protect the information from public disclosure.
+
+
+
+
+
+
+
+Term / Termination
+
+
+The Agreement shall commence on the date of Honeypotâs approval of Talents application and shall continue thereafter until terminated as provided herein.
+Each party has the right to terminate the agreement by giving an advance notice of five business days unless otherwise agreed in writing.
+Sections 7 and 11 shall survive any termination of the Agreement.
+Section 11 for five years.
+The parties remain free to terminate the Agreement for cause at any time.
+Every termination must be in written form, whereby the written form is maintained by email.
+Upon request, the reasons for extraordinary termination must be disclosed immediately in writing if the termination notice did not specify them already.
+Any standard termination notice does not require specification of the termination reasons.
+
+
+
+
+
+
+
+Data Protection
+
+
+Honeypot processes and utilizes the Talent's data collected during the performance of the Agreement and within the framework of the These Terms of Service, specifically to the extent necessary to fulfil the agreement properly, in accordance with all applicable European and German data protection provisions.
+The privacy policy of Honeypot shall apply (retrievable under https://www.honeypot.io/pages/legal_notice )
+The Talent understands that the performance of the Agreement includes the making available of personal data to Companies Honeypot cooperates with to mediate the Talent and try to match the right person with the right job subject to these Terms of Service and the Privacy Policy.
+The Talent understands that Honeypot may contact him/her Talent via phone, email or messaging service and suggest Companies which fit the Talentâs profile.
+
+
+
+
+
+
+
+Changes to the Terms of Service
+
+
+Each login to the Service is subject to these Terms of Service.
+Honeypot may make changes to these Terms of Service (including amendments) at any given time, for the future, if this should prove necessary (in particular to reflect changes in the Service or changes in the legal framework applicable to it, such as new legislation or case-law) and provided the Talent is not disadvantaged contrary to good faith.
+The Talent will be notified of changes to the Terms of Service in appropriate form.
+Honeypot will notify the Talent on the Service, or via email.
+Changes to the Terms of Service will always be highlighted upon first login after the changes or amendments have been made.
+The Talent may dispute changes to the Agreement within a time period of six weeks following receipt of the notification of the changes and the possibility of taking notice thereof.
+It is recommended that the Talent submits its opposition in writing (for example via email).
+The changes to the Terms of Service become binding in the event that the Talent (i) does not dispute the changes within the above-mentioned time period or (ii) continues to use the Service after the above mentioned period.
+Honeypot will inform the Talent about the possibility of disputing the changes and the legal consequences, especially the legal consequences of a lack of opposition, when notifying the Talent about the changes to the Terms of Service.
+If the Talent disputes the changes in time, each party may terminate the Agreement with one monthâs prior notice unless termination is possible at any time according to Section 12.
+Until termination, the Agreement in their former version will govern the Talentâs relationship with Honeypot.
+The Talent does not have any other claims against Honeypot.
+
+
+
+
+
+
+
+Governing Law / Jurisdiction
+
+
+This Agreement shall be governed by and construed in accordance with the laws of Germany.
+If Talent is an EU resident, he shall not be deprived of the protection offered by the binding consumer protection law of his county of residence Talent In the event, the Talent takes legal action, suit must be filed before a German court or before the court of the Talent's domicile.
+
+
+
+
+
+
+
+General Provisions
+
+
+The Agreement contains the entire agreement between Honeypot and Talent with respect to the subject matter hereof, and supersedes all prior and/or contemporaneous agreements or understandings, written or oral.
+Terms and conditions of the Talent do not become part of the Agreement, unless Honeypot has accepted them in writing.
+All or any of Honeypotâs rights and obligations under the Agreement may be assigned to a subsequent owner or operator of the Service in a merger, acquisition or sale of all or substantially all of Honeypotâs assets.
+The Talent must not assign or transfer the Agreement or any or all of its rights thereunder without the prior written consent of Honeypot.
+This Agreement will be binding on and will inure to the benefit of the legal representatives, successors and valid assigns of the parties hereto.
+Except as set forth in the Section 14 above, the Agreement may not be modified without the prior written consent of both parties.
+Any changes, amendments or the abrogation of the Agreement (partly or entirely) require written form (letter, fax or email).
+the requirement of written form can only be waived in written form.
+Each party to this Agreement is an independent contractor in relation to the other party with respect to all matters arising under this Agreement.
+Nothing herein shall be deemed to establish a partnership, joint venture, association or employment relationship between the parties.
+Honeypotâs failure to act with respect to a breach by the Talent does not waive Honeypot's right to act with respect to that breach or subsequent or similar breaches.
+No consent or waiver by Honeypot under these Terms of Service shall be deemed effective unless delivered in writing and signed by a duly appointed representative of Honeypot.
+Section headings used in these Terms of Service are for convenience only and shall not affect the interpretation of the Agreement.
+The English version of these Terms of Service is decisive.
+By submitting an application to join the Service, Talent affirms and acknowledges that Talent has read these Terms of Service in their entirety and agrees to be bound by all of its terms and conditions.
+If Talent does not wish to be bound by these Terms of Service, Talent should not submit an application to join the Service.
+
+
+
+For Employers
+Honeypot GmbH, Schlesische StraÃe 26, 10997 Berlin, Germany, Commercial Register: Amtsgericht Charlottenburg, HRB 210362 B, Managing Directors: Dr.
+Philipp Goos, Dr.
+Jost Schatzmann, VAT-ID: DE327578486 (hereinafter referred to as âHoneypotâ or âusâ ) operates an online job marketplace platform via www.honeypot.io and other channels (the âServiceâ ).
+The Service connects companies ( âCompanyâ or âCompaniesâ ), and candidates ( âTalentâ or âTalentsâ ) with each other trying to match the right person with the right job.
+Talents are natural persons seeking new employment or freelance contracts through the Service.
+Companies are natural persons or business entities searching for new employees or contractors through the Service.
+Agreement shall mean the Recruiting Partnership Agreement and these Terms of Service.
+
+
+
+
+
+
+Scope
+
+
+Within the framework of the Companies' own technical and operational possibilities Honeypot allows the Companies to participate in the Service.
+Honeypot provides all services in connection with the Service for Companies solely based on these Terms of Service (hereinafter referred to as "Company Terms of Service" or âTerms of Serviceâ).
+Honeypot objects to the validity of any general terms and conditions of Companies.
+General terms and conditions of Companies become an integral part of the agreement between the Company and Honeypot, only if Honeypot explicitly consents to them in writing.
+Honeypot can utilize the services of independent third parties for the Service ( "Third Party Service" ) such as app stores and social networks.
+No third party services are provided by third parties upon the instruction of Honeypot.
+Third party services are not provided by Honeypot.
+Honeypot or the third party will identify these services in a suitable manner.
+Any issues in connection with third party services are not affected by these Terms of Service.
+Honeypot shall not be responsible for third party services.
+Third party services are potentially subject to their providers' general terms and conditions.
+Applications for mobile devices ( "Appsâ or âApps" ) are generally not directly provided by Honeypot but by a third party provider ( "App Store" ).
+A separate Company account may be necessary for this purpose.
+Honeypot does not warrant that the Service is identical in functionality and design on all mobile devices.
+Certain functions and contents may not be available.
+Companies should see the functionality description of the App.
+
+
+
+
+
+
+
+Limits of Use / Prohibited Conduct
+
+
+Honeypot provides the Service solely for use in accordance with these Terms of Service.
+The automatic enrolment is not permitted.
+Automated login is prohibited.
+Only the official clients and apps or websites provided by Honeypot may be used to connect to the Service.
+The Company may not create, support, host, link or provide any other options, which can be used by other persons to utilize the Service.
+The Company is prohibited from transferring his/her Account to third parties without the prior written consent of Honeypot.
+The Company is not entitled to use any means, mechanisms or software in connection with the Service, which can disturb functions of the Service.
+The Company may not undertake any action, which can result in an unreasonable or excess load of the technical capacities of Honeypot.
+In particular, the Company is not permitted to block, overwrite or modify the contents generated by Honeypot unless Honeypot has permitted it specifically in writing.
+The Company will refrain from anything that could endanger the performance and availability of the Service.
+
+By using the Service, the Company will not violate any applicable legal provisions such as the criminal code or third party rights and the Company assures not to contribute or transmit any illegal or immoral contents to the Service.
+This includes specifically any contents (including member names, etc.),
+
+which are, false, inaccurate or misleading;
+which are, insulting, racist, sexist, pornographic or obscene;
+which can damage the reputation of Honeypot;
+suitable to violate copyrights, patents, brands or any other intellectual property rights, the rights on a person's own image and other personal rights or third party rights.
+
+
+The Company is not permitted to disseminate commercial advertising for third party products or programs, to send unsolicited mass mails and unsolicited advertising in the Service.
+The Company will honor the privacy of third parties.
+In addition, the Company is not permitted to disseminate in the Service unauthorized any third party work that is protected by copyrights or other rights.
+Moreover, the Company is not allowed to refer to offers with such content.
+Honeypot is entitled to stop such violations against this Section 2.
+In addition, Honeypot is entitled to delete the breaching contents of the Company.
+The same applies to definite indications of a violation against these Terms of Service to contents, which are otherwise illegal.
+There is no entitlement to the recovery of breching deleted content.
+Such claim is also voided if the restoration is not possible for technical reasons.
+The provisions of this Section 2 do not limit the termination right of Honeypot â particularly the right to terminate effective immediately â in accordance with Section 11.
+In addition, they do not limit the right of Honeypot to exercise the virtual domiciliary right.
+
+
+
+
+
+
+
+Functioning of the Service / Honeypotâs responsibilities
+
+
+Honeypot provides the Service to connect Talent and Companies.
+The Service works as follows: Talent sign-up to the Service and make a profile available.
+Companies provide a profile after concluding the Recruiting Partnership Agreement.
+This profile is only visible to Talents that the Companies are interested in as defined below.
+Companies can browse the Talent profiles in a list and detailed view and decide to apply to the respective Talent by sending an interview request through the detailed view.
+These interview requests come with a first, non-binding offer proposal of what compensation package the company has in mind.
+Talent can review the interview requests and are now able to browse the profiles of Companies that have sent the requests.
+The Talent can accept or reject the interview request.
+If rejected, the Company may (upon choice of the Talent) recontact the Talent with a revised proposal.
+If accepted, Honeypot connects Talent and Company.
+Once a Talent has been viewed by a Company in the detailed view it is considered to be introduced by Honeypot ( âIntroductionâ ).
+If Talent and Company had been introduced in the past twelve months before the Introduction directly or by a third party and Company does not inform Honeypot about this within five business days in writing and substantive materials showing the introduction, the Talent is considered to have been introduced by Honeypot.
+Email or the Service are sufficient media in this matter.
+A Talent is considered to be already introduced directly or by a third party when there is a written communication concerning the Talent, with a clear identification of the Talent and the Company and with a clear identification of the opportunity to hire the Talent.
+Honeypot may from time to time, but is under no obligation to, suggest a specific Talent to a Company or vice versa.
+The Talent is then also seen as introduced.
+This can be done via email, messaging service or phone.
+Honeypot undertakes reasonable efforts to match Talent and Companies, however, Honeypot does under no circumstances represent, assume a warranty or guarantee or undertake in any other way that Talent or Company will find a match through Honeypot and/or the Service.
+
+
+
+
+
+
+
+Obligations of Company
+
+
+Company shall submit the information about the Company as requested in the compulsory and voluntary fields of the sign-up form or as requested via email by Honeypot.
+Honeypot may add compulsory or voluntary fields from time to time.
+Honeypot may also request additional information from Company on a case by case basis.
+The Company shall not transmit any personal data (i.e.
+data allowing identification of an individual) to Honeypot, unless data protection laws allow for such transmission or Company has obtained consent from the concerned parties.
+Unless otherwise provided in these Terms of Service, Honeypot will usually communicate with the Company via email.
+The Company shall make sure that it receives all emails sent by Honeypot to the address submitted in the course of the application, or at a later date.
+The Company will in particular configure the spam filter accordingly and regularly check all incoming email under this address.
+Honeypot may choose any other appropriate means of communication.
+The Company shall keep all access data (login, passwords etc.) for the Service ( âAccess Dataâ ) strictly confidential.
+The Company shall promptly inform Honeypot in case it learns or suspects that an unauthorized third person is in possession of the Access Data.
+In case Honeypot has reason to believe that an unauthorized third party is in possession of Access Data, Honeypot may, without assuming any responsibility to do so, and always acting in its sole discretion, change the Access Data without prior notice or block the respective account.
+Honeypot will promptly inform the Company and will, upon request, communicate the new Access Data to the Company without undue delay.
+The Company cannot claim to have its initial Access Data restored.
+In case a third party uses Access Data, with the Company at fault, the Companyâs Access Data, the Company is liable for all such actions, and for damages.
+In such event, all access through the Companyâs Access Data shall be considered as an access by the Company.
+During the term of the Agreement, the Company will not induce, or assist in the inducement of, any employee of Honeypot or any of its affiliates to leave their employment with Honeypot or any of its affiliates.
+This shall apply to the extent permissible under Sec.
+75 of the German Commercial Code.
+Honeypot is not responsible for providing or assisting with the obtaining of any work or other permits and/or medicals and other country specific regulations and requirements that may be necessary to employ the Talent unless otherwise agreed in writing.
+Honeypot is relying on the information provided by the Talent.
+Company has the obligation to satisfy itself, that the Talent is suitable for the intended job and fits Company's requirements.
+
+
+
+
+
+
+
+Placement / Payment
+
+
+Company undertakes to inform Honeypot in writing (through the service or via email is sufficient) as soon as possible, but no later than the number of days specified in the Recruiting Partnership Agreement if an introduced Talent is hired or otherwise contracted by Company ( âPlacementâ ).
+The notification shall include a copy of the original employment contract which must include the start date, the date the contract was signed and information about the Salary as defined in Section 5.3 below.
+Honeypot may contact Company to request status updates about ongoing negotiations.
+Placement shall mean any form of employment, temporary employment, contracting or other use of Talent by Company or an undertaking affiliated with Company in the sense of Sec.
+15ff.
+of the German Stock Company Act.
+If Talent is placed pursuant to Section 5.2 during the period of an Introduction, Honeypot will receive a commission as specified in the Recruiting Partnership Agreement, of the Talents salary ( âSalaryâ ).
+Salary shall include the gross base salary or fees, bonus (guaranteed and/or anticipated), commissions, allowances, inducement payments, shift allowances, location weighting and call-out allowances, and all other compensation the Talent receives or is anticipated to receive during the first year of his placement.
+Excluded is compensation paid by Company to Talent to compensate expenditures (e.g.
+travel, relocation, visa application) as well as any equity, share options or similar compensation options.
+To clarify: bonuses based on company performance are not excluded.
+Company undertakes to inform Honeypot about the Salary upon notifying Honeypot about the placement.
+If the Placement is for less than twelve months, Honeypotâs commission will be calculated on a pro-rata basis.
+Subsequent hires, prolongations, extensions or similar will be added to the pro-rata calculation until the level as defined in Section 5.3 is reached.
+This is done for a period of up to twenty-four months from the initial placement.
+Company must notify Honeypot pursuant to Section 5.1.
+Payment terms are governed by the Recruiting Partnership Agreement.
+Company is entitled to refunds if the Placement is terminated.
+A placement is defined as terminated if the termination notice is signed and in effect within the time specified in the Recruiting Partnership Agreement.
+The refund is subject to the conditions set forth in the Recruiting Partnership Agreement and paid out within 14 days upon issuing of the credit note.
+Company has to inform Honeypot in writing within five business days about any rehiring or similar of the Talent for a period of twelve months after termination.
+In this case, Honeypot is entitled to reclaim the refund and will issue an invoice.
+The Payment terms of Section 5.5 apply.
+Company has to transmit the signed agreement to Honeypot as proof of the conclusion of the agreement and for the invoicing processes.
+Honeypot reserves the right to change the fee, to be effective as of the following period of renewal.
+Honeypot shall notify the Company of any fee change in the invoice sent to the Company with regard to the period of renewal.
+In the event of a price increase, the Company is entitled to submit to Honeypot within four (4) weeks of the date of invoice a written declaration of withdrawal from the agreement with retroactive effect from the date of the renewal.
+
+
+
+
+
+
+Non Circumvention
+
+
+Company explicitly agrees to withhold completely from entering a relation with or from approaching Talent either directly or through third parties, especially recruiters with regard to the Placement of introduced Talent.
+The period introduction as defined in the Recruiting Partnership Agreement shall apply.
+Any direct or indirect business relations between Company and Talent or recruiters with regard to the above named services and respective Talent have to either involve Honeypot as intermediary or require Honeypotâs prior written consent.
+Company is personally responsible to follow this commitment and must not use any means to circumvent its obligation.
+Breach of this clause will result in a contractual penalty to be determined by Honeypotâs exercise of its reasonable discretion, subject to review by an independent court in Honeypotâs residential country and should not be less than five times the financial loss caused through this unauthorized action with a minimum fee of 25,000 EUR.
+An obligation to reimburse damages will thereby not be excluded.
+In case Company can prove having entered into a business relationship with recruiters or Talent in regards to the respective Talent before the Introduction of the Talent through the Service, this Section 6 shall not be enforced.
+
+
+
+
+
+
+
+Quality of the Service / Technical Deficiencies
+
+
+It is in the nature of the Service that it is continuously advanced and updated.
+By changing and advancing the Service, Honeypot intends to provide Companies a useful Service and pleasant Company experience.
+Therefore, Honeypot grants the Company access to the Service in its available form or version.
+Changes and advancements can affect system requirements and compatibility requirements.
+The Company has no claim for maintaining or reconstruction of a specific condition of scope of services.
+Any of the Company's claims for deficiency, which refer to the technical usability of the Service itself, shall remain unaffected thereby.
+Due to the continuous advancement of the Service, Honeypot reserves itself the right to offer new features and/or to remove them from the Service or to change them.
+The Company consents these continuous changes of the Service.
+Excluded from warranty are generally such errors, which occur through external influences such as operating errors by the Company, force majeure or any modifications, not carried out by Honeypot or any other manipulations.
+Honeypot does not assume any guarantees in a legal meaning as long as not expressively provided for in these Terms of Service.
+
+
+
+
+
+
+
+Limitation of Liability / Availability
+
+
+
+Honeypot shall be liable under the terms of this Agreement only in accordance with the provisions set out in Sections 8.1.1 to 8.1.5.
+Except in case of intent or gross negligence, any liability of Honeypot shall be disclaimed.
+The same applies in case of slight negligence by agents or assistants in performance.
+However, the foregoing does not apply in the following cases:
+
+Honeypot shall be unrestrictedly liable for losses caused intentionally or with gross negligence by Honeypot, its legal representatives or senior executives and for losses caused intentionally by other assistants in performance.
+in respect of gross negligence of other assistants in performance Honeypotâs liability shall be as set forth in the provisions for simple negligence in Section 8.1.5 b) below.
+Honeypot shall be unrestrictedly liable for death, personal injury or damage to health caused by the intent or negligence of Honeypot, its legal representatives or assistants in performance.
+If Honeypot provides a warranty it shall be liable for losses arising from the lack of any warranted characteristics up to the amount which is covered by the purpose of the warranty and which was foreseeable for Honeypot at the time the warranty was given.
+Honeypot shall be unrestrictedly liable in accordance with the German Product Liability Act in the event of product liability.
+
+Honeypot shall be liable for losses caused by the negligent (including simple negligence) or intentional breach of its primary obligations by Honeypot, its legal representatives or assistants in performance.
+
+Primary obligations are such basic duties, which form the essence of the Agreement, which were decisive for the conclusion of the Agreement and on the performance of which Company may rely.
+If Honeypot breaches its primary obligations through simple negligence, then its ensuing liability shall be limited to the amount which was foreseeable by Honeypot at the time the respective service was performed.
+Damages shall be restricted to ten (10) times the fees provided under these Terms of Service in the past twelve (12) months.
+
+
+
+
+Subject to Clause 8.1 only and other than in case of intent Honeypot does not accept any liability under or in relation to the Agreement or its subject matter whether such liability arises due to negligence, breach of contract, misrepresentation or for any other reason for any indirect damage and consequential damage, in particular, not for loss of profit, interruption in business and/or interruption of operations of Company or its customers, unless explicitly specified otherwise in these Terms of Service.
+Honeypot undertakes to assure an availability of the Service of 99% (ninety nine percent) as a yearly average.
+Periods during which the Service is not available because of technical or other problems outside Honeypotâs control (such as force majeure or third party fault) and periods during which routine maintenance works are carried out, are excluded from this.
+Honeypot may restrict access to the Service if required for network security, maintenance of network integrity and the prevention of severe malfunction of the network, the software or stored data.
+The Companyâs rights in case of intent or gross negligence remain unaffected.
+
+
+
+
+
+
+
+Intellectual Property / Indemnification
+
+
+Honeypot or its respective licensor is the exclusive owner or exclusive owner of the rights of all contents of the Service.
+The content is protected by national and international law and particularly by copyright.
+The unauthorized dissemination, copying, deletion or any other violation of intellectual property rights and copyrights of Honeypot are prosecuted under both civil and criminal law.
+Honeypot grants Company a nonexclusive, nontransferable, revocable right to use the Service solely in accordance with these Terms of Service.
+Honeypot does not grant to the Company any license, express or implied, to the intellectual or industrial property of Honeypot or its licensors, except for a limited right of use according to these Terms of Service and for the duration of the Agreement.
+All rights not expressly granted in these Terms of Service are reserved by Honeypot.
+Honeypot will retain all rights, titles, and interests in and to the Service (except for any licensed content and third-party content included therein), including all data (such as any usage data and compilations thereof), information and software related thereto.
+The Company acknowledges that the software, information, content and data related to the Service (such as any usage data or compilations thereof) are protected for Honeypot under copyright and similar rights and may contain trade secrets or other intellectual or industrial property owned or licensed by Honeypot.
+Company warrants, that it has the right (i) to submit the information to the Service and (ii) to grant Honeypot the right to use the information as described above.
+Company hereby agrees to indemnify, defend and hold harmless Honeypot and its subsidiaries, directors, officers, employees, owners and agents against any and all claims, actions, demands, liabilities, losses, damages, judgments, settlements, costs, and expenses (including reasonable attorneys' fees and costs) based on (i) any failure or breach of the Agreement and the Terms of Service, including any representation, warranty, covenant, restriction or obligation made by Company herein, (ii) any misuse by Company, or by a party under the reasonable control of Company.
+
+
+
+
+
+
+
+Confidentiality
+
+
+Except as otherwise provided in these Terms of Service or with the consent of Honeypot, the Company agrees that all information, including, without limitation, the terms of the Agreement, business information, customer lists, and pricing and sales information, curriculum vitae and work examples concerning Honeypot or any of Honeypotâs other Companies provided by or on behalf of any of them shall remain strictly confidential and secret and shall not be utilized, directly or indirectly, by Company for any purpose other than Companyâs participation in the Service ( âConfidential Informationâ ).
+Company shall especially not use any information obtained from the Service to develop, enhance or operate a service that competes with the Service, or assist another party to do the same.
+After and during the term of the Agreement, neither party will use for any purpose or disclose to any third party, any Confidential Information of the other party.
+Any exception to this must be obtained in advance.
+The foregoing restriction does not apply to information that has been developed independently by the receiving party without access to the other partyâs Confidential Information or has been rightfully received from a third party authorized to make such disclosure or has been approved for release in writing by the disclosing party or has become publicly known through no breach of this Section by the receiving party or is required to be disclosed by a competent legal or governmental authority, provided that the receiving party gives the disclosing party prompt written notice of such requirement prior to disclosure and assists in obtaining an order to protect the information from public disclosure.
+Honeypot may use aggregated and anonymized data for statistical and marketing purposes.
+Honeypot will aggregate and anonymize data from multiple Companies before releasing such aggregated data.
+
+
+
+
+
+
+
+Term / Termination
+
+
+The Agreement shall commence on the date of Honeypotâs approval of Company's application and shall continue thereafter until terminated as provided herein.
+Each party has the right to terminate the agreement by giving an advance notice of 7 days unless otherwise agreed in writing.
+Sections 5, 6 and 10 shall survive any termination of the Agreement.
+Section 10 for five years.
+The parties remain free to terminate the Agreement for cause at any time.
+
+Either Party has the right to terminate the Agreement immediately by written notice if:
+
+The other Party ceases or threatens in writing to not carry on its business;
+The other Party is the subject of a bankruptcy order or becomes insolvent or makes any arrangement or composition with or assignment for the benefit of its creditors or if any of the other Partyâs assets are the subject of any form of seizure, or the other Party goes into liquidation either voluntary (otherwise than for reconstruction or amalgamation) or compulsory that is not dismissed within ninety (90) days, or a receiver or administrator is appointed over the otherâs assets.
+
+
+Every termination must be in written form, whereby the written form is maintained by email.
+Upon request, the reasons for extraordinary termination must be disclosed immediately in writing if the termination notice did not specify them already.
+Any standard termination notice does not require specification of the termination reasons.
+
+
+
+
+
+
+
+Data Protection
+
+
+Honeypot processes and utilizes the Company's data collected during the performance of the Agreement and within the framework of the these Terms of Service, specifically to the extent necessary to fulfil the agreement properly, in accordance with all applicable European and German data protection provisions.
+The privacy policy of Honeypot shall apply (retrievable under Privacy Policy )
+The Company understands and agrees, that Honeypot may contact Company via phone, email or messaging service and suggest Talents which fit the Companyâs profile.
+The Company is obliged to process personal data submitted in accordance with all applicable European and German data protection regulations and to delete personal data as soon as the data is no longer necessary for the respective purpose or legal deletion periods have expired.
+The Company is also not allowed to transfer personal data of Talent to third parties other than those covered by Data Processing Agreements.
+
+
+
+
+
+
+
+Changes to the Terms of Service
+
+
+Each login to the Service is subject to these Terms of Service.
+Honeypot may make changes to these Terms of Service (including amendments) at any given time, for the future, if this should prove necessary (in particular to reflect changes in the Service or changes in the legal framework applicable to it, such as new legislation or case-law) and provided the Company is not disadvantaged contrary to good faith.
+The Company will be notified of changes to the Terms of Service in appropriate form.
+Honeypot will notify the Company on the Service, or via email.
+Changes to the Terms of Service will always be highlighted upon first login after the changes or amendments have been made.
+The Company may dispute changes to the Agreement within a time period of two weeks following receipt of the notification of the changes and the possibility of taking notice thereof.
+It is recommended that the Company submits its opposition in writing (for example via email).
+The changes to the Terms of Service become binding in the event that the Company (i) does not dispute the changes within the above-mentioned time period or (ii) continues to use the Service after the above-mentioned period.
+Honeypot will inform the Company about the possibility of disputing the changes and the legal consequences, especially the legal consequences of a lack of opposition, when notifying the Company about the changes to the Terms of Service.
+If the Company disputes the changes in time, each party may terminate the Agreement with one monthâs prior notice unless termination is possible at any time according to Section 11.
+Until termination, the Agreement in their former version will govern the Companyâs relationship with Honeypot.
+The Company does not have any other claims against Honeypot.
+Changes to the terms of the Recruiting Partnership Agreement have to be made in writing and agreed to by both parties.
+
+
+
+
+
+
+
+Governing Law / Jurisdiction
+
+
+This Agreement shall be governed by and construed in accordance with the laws of Germany.
+The Company irrevocably submits to the exclusive jurisdiction of the German courts in Berlin over any claim, dispute or matter arising under or in connection with this Agreement or its enforceability.
+
+
+
+
+
+
+
+General Provisions
+
+
+The Agreement contains the entire agreement between Honeypot and Company with respect to the subject matter hereof, and supersedes all prior and/or contemporaneous agreements or understandings, written or oral.
+Terms and conditions of the Company do not become part of the Agreement, unless Honeypot has accepted them in writing.
+All or any of Honeypotâs rights and obligations under the Agreement may be assigned to a subsequent owner or operator of the Service in a merger, acquisition or sale of all or substantially all of Honeypotâs assets.
+The Company must not assign or transfer the Agreement or any or all of its rights thereunder without the prior written consent of Honeypot.
+This Agreement will be binding on and will inure to the benefit of the legal representatives, successors and valid assigns of the parties hereto.
+Except as set forth in the Section 13 above, the Agreement may not be modified without the prior written consent of both parties.
+Any changes, amendments or the abrogation of the Agreement (partly or entirely) require written form (letter, fax or email).
+the requirement of written form can only be waived in written form.
+The English version of these Terms of Service is decisive.
+By submitting the completed Recruiting Partnership Agreement (signed in writing or electronically), Company affirms and acknowledges that Company has read these Terms of Service in their entirety and agrees to be bound by all of its terms and conditions.
+If Company does not wish to be bound by these Terms of Service, Company should not submit an application to join the Service.
+
+
+
+Â© 2020 Honeypot
+
+EN
+DE
+NL
+For TalentsFor EmployersAbout Us
+Press
+Careers
+FAQ
+Legal Notice
+Privacy Policy
+Cookie declaration
+Terms of Service
+Community
+Blog
+GraphQL Conf
+Hive Conference
+We're social, too!
+Twitter
+Facebook
+LinkedIn
+Github
+Instagram
+Youtube
+[email protected]
+

@@ -1,0 +1,722 @@
+
+This website uses cookies
+We use cookies to make it easier to interact with our website and to improve it.
+We want to better understand how our website is used and to personalize advertising.
+You can find out more about our use of cookies in our Privacy Policy and change your preferences below. Imprint Change cookie preferences Save preferences Allow all cookies 
+ Necessary 
+ Preferences 
+ Statistics 
+ Marketing 
+ Unclassified 
+
+Necessary (7)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website.
+The website cannot function properly without these cookies. NameProviderPurposeExpiryTypeCookieConsentCookiebotStores the user's cookie consent state for the current domain1 yearHTTPrc::aGoogleThis cookie is used to distinguish between humans and bots.
+This is beneficial for the website, in order to make valid reports on the use of their website.PersistentHTMLJSESSIONIDLinkedInPreserves users states across page requests.SessionHTTPli_gcLinkedInStores the user's cookie consent state for the current domain2 yearsHTTPXBYahooControl cookie used in connection to the websiteâs Content Delivery Network (CDN).2 yearsHTTPCONSENTYouTubeUsed to detect if the visitor has accepted the marketing category in the cookie banner.
+This cookie is necessary for GDPR-compliance of the website.
+6061 daysHTTPdebugAdjustPendingPersistentHTML Preferences (7)
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in. NameProviderPurposeExpiryType_biz_flagsABizibleThis cookie serves multiple purposes.
+it determines whether the user has submitted any forms, performed cross-domain migration or has made any tracking opt-out choices.
+1 yearHTTPDRIFT_SESSION_IDDriftAllows the website to recoqnise the visitor, in order to optimize the chat-box functionality.
+SessionHTMLDRIFT_SESSION_STARTEDDriftStores a unique ID string for each chat-box session.
+This allows the website-support to see previous issues and reconnect with the previous supporter.
+SessionHTMLDRIFT_visitCountsAdjustDetermines the number of visits of the specific visitor.
+This is used in order to make the chat-box function more relevant.PersistentHTMLdriftt_aidDriftNecessary for the functionality of the website's chat-box function.
+2 yearsHTTPlang [x2]LinkedInRemembers the user's selected language version of a websiteSessionHTTP Statistics (14)
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously. NameProviderPurposeExpiryType_gaGoogleRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.2 yearsHTTP_gatGoogleUsed by Google Analytics to throttle request rate1 dayHTTP_gidGoogleRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.1 dayHTTP_hjAbsoluteSessionInProgressAdjustThis cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.1 dayHTTP_hjFirstSeenAdjustThis cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website.1 dayHTTP_hjidAdjustSets a unique ID for the session.
+This allows the website to obtain data on visitor behaviour for statistical purposes.1 yearHTML_hjIncludedInPageviewSampleAdjustDetermines if the user's navigation should be registered in a certain statistical place holder.1 dayHTTP_hjIncludedInSessionSampleAdjustRegisters data on visitors' website-behaviour.
+This is used for internal analysis and website optimization.
+1 dayHTTP_hjTLDTestAdjustDetects the SEO-ranking for the current website.
+This service is part of a third-party statistics and analysis service.
+SessionHTTPloglevelWistiaCollects data on visitor interaction with the website's video-content - This data is used to make the website's video-content more relevant towards the visitor.
+PersistentHTMLundefinedAdjustCollects data on visitor interaction with the website's video-content - This data is used to make the website's video-content more relevant towards the visitor.
+PersistentHTMLwistiaAdjustUsed by the website to track the visitor's use of video-content - The cookie roots from Wistia, which provides video-software to websites.PersistentHTMLAnalyticsSyncHistoryLinkedInUsed in connection with data-synchronization with third-party analysis service.
+29 daysHTTPvuidVimeoCollects data on the user's visits to the website, such as which pages have been read.2 yearsHTTP Marketing (69)
+Marketing cookies are used to track visitors across websites.
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers. NameProviderPurposeExpiryType6suuidj.6sc.coRegisters user behaviour and navigation on the website, and any interaction with active campaigns.
+This is used for optimizing advertisement and for efficient retargeting.
+2 yearsHTTP__tld__ClearbitUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+SessionHTTP_an_uidj.6sc.coPresents the user with relevant content and advertisement.
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.6 daysHTTP_biz_nABizibleCollects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.
+1 yearHTTP_biz_pendingABizibleCollects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.
+1 yearHTTP_biz_sidBizibleCollects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.
+1 dayHTTP_biz_uidBizibleCollects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.
+1 yearHTTP_fbpFacebookUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.3 monthsHTTP_gac_UA-#GoogleStores information about ad campaigns from Google Adwords to show targeted ads to the visitor.3 monthsHTTP_gcl_awGoogleUsed to measure the efficiency of the websiteâs advertisement efforts, by collecting data on the conversion rate of the websiteâs ads across multiple websites.3 monthsHTTP_gd_sessionj.6sc.coCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.1 dayHTTP_gd_svisitorj.6sc.coCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.2 yearsHTTP_gd_visitorj.6sc.coCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.2 yearsHTTPcb_anonymous_idClearbitCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+1 yearHTTPcb_group_idClearbitCollects data on visitors.
+This information is used to assign visitors into segments, making website advertisement more efficient.
+1 yearHTTPcb_group_propertiesClearbitCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+PersistentHTMLcb_user_idClearbitCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+1 yearHTTPcb_user_traitsClearbitCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+PersistentHTMLdrift_aidDriftSets a unique ID for the specific user.
+This allows the website to target the user with relevant offers through its chat functionality.
+2 yearsHTTPdrift_campaign_refreshDriftSets a unique ID for the specific user.
+This allows the website to target the user with relevant offers through its chat functionality.
+1 dayHTTPutm_campaignAdjustCollects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.1 dayHTTPutm_contentAdjustUsed to send data to Google Analytics about the visitor's device and behavior.
+Tracks the visitor across devices and marketing channels.1 dayHTTPutm_mediumAdjustCollects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.1 dayHTTPutm_sourceAdjustDetermines how the visitor accessed the website - This information is used by the website operator in order to determine the efficiency of their marketing efforts.
+1 dayHTTPbcookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.2 yearsHTTPv1/beacon/img.gifb.6sc.coUsed in context with Account-Based-Marketing (ABM).
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit.
+This is used for retargeting of multiple users rooting from the same IP-addresses.
+ABM usually facilitates B2B marketing purposes.SessionPixel_BUID [x2]BizibleBiziblyCollects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.
+1 yearHTTPm/ipvBizibleRegisters user behaviour and navigation on the website, and any interaction with active campaigns.
+This is used for optimizing advertisement and for efficient retargeting.
+SessionPixelIDEGoogleUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.1 yearHTTPRULGoogleUsed by DoubleClick to determine whether website advertisement has been properly displayed - This is done to make their marketing efforts more efficient.
+1 yearHTTPtest_cookieGoogleUsed to check if the user's browser supports cookies.1 dayHTTPtrFacebookUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.SessionPixelads/ga-audiencesGoogleUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.SessionPixelbscookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.2 yearsHTTPlidcLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 dayHTTPpagead/1p-user-list/#GoogleTracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites.
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.SessionPixelrc::cGoogleUsed in context with video-advertisement.
+The cookie limits the number of times a visitor is shown the same advertisement-content.
+The cookie is also used to ensure relevance of the video-advertisement to the specific visitor.
+SessionHTML__ptq.gifHubspotSends data to the marketing platform Hubspot about the visitor's device and behaviour.
+Tracks the visitor across devices and marketing channels.SessionPixelUserMatchHistoryLinkedInUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+29 daysHTTPi/adsctTwitterThe cookie is used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content.
+SessionPixelpersonalization_idTwitterThis cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+2 yearsHTTPusage.gifTracksjsUsed to track the visitor's usage of GIFs - This serves for analytical and marketing purposes.SessionPixelpendo_tabIdWistiaCollects data on the user across websites - This data is used to make advertisement more relevant.SessionHTMLsnowplowOutQueue_snowplow_cf_post2WistiaUsed in context with Account-Based-Marketing (ABM).
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit.
+This is used for retargeting of multiple users rooting from the same IP-addresses.
+ABM usually facilitates B2B marketing purposes.PersistentHTMLsnowplowOutQueue_snowplow_cf_post2.expiresWistiaUsed in context with Account-Based-Marketing (ABM).
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit.
+This is used for retargeting of multiple users rooting from the same IP-addresses.
+ABM usually facilitates B2B marketing purposes.PersistentHTMLBYahooCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded.
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.2 yearsHTTPVISITOR_INFO1_LIVEYouTubeTries to estimate the users' bandwidth on pages with integrated YouTube videos.179 daysHTTPYSCYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.SessionHTTPyt.innertube::nextIdYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.PersistentHTMLyt.innertube::requestsYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.PersistentHTMLyt-remote-cast-installedYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-connected-devicesYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-device-idYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-fast-check-periodYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-appYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-nameYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLvisitor_id# [x3]SalesforceAdjustPending10 yearsHTTPvisitor_id#-hash [x3]SalesforceAdjustPending10 yearsHTTPlpv597731SalesforcePending1 dayHTTP_sp_id.2b40WistiaPending2 yearsHTTP_sp_ses.2b40WistiaPending1 dayHTTP_w_sessionWistiaPending13 daysHTTPminilogSettingsWistiaPendingPersistentHTMLyt-remote-cast-availableYouTubePendingSessionHTML Unclassified (17)
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies. NameProviderPurposeExpiryTypealgoliasearch-client-js-4.9.0-D9ETOI7EEZAdjustPendingPersistentHTMLarticleReadStatusAdjustPendingPersistentHTMLcb%3AtestClearbitPending1 yearHTTPDRIFT_openTabsAdjustPendingPersistentHTMLDRIFT_SESSION_CAMPAIGNSAdjustPendingPersistentHTMLNA_SACwcs.naver.netPendingSessionHTTPpfjs%3AcookiesClearbitPending1 yearHTTPutm_channelAdjustPending1 dayHTTPutm_termAdjustPending1 dayHTTPwcs_btwcs.naver.netPending72999 daysHTTPwistia-video-progress-#AdjustPendingPersistentHTMLpagead/conversion/1000992103YahooPendingSessionPixelm/mucBiziblePendingSessionPixeluBiziblyPendingSessionPixelmNaverPendingSessionPixelNWBNaverPending5 yearsHTTPNWB_LEGACYNaverPending5 yearsHTTP Google removes the Android Advertising ID.
+Learn more! Google announces the removal of Android Advertising ID Learn more 
+
+
+ Products Measure 
+ Attribution Make sense of the user journey
+
+ Analytics Uncover game-changing insights
+
+ Data Access Unlimited raw data, forever
+
+ Automate 
+ Control Center Optimize campaigns at scale
+
+ Audience Builder Build dynamic audience segments
+
+ Protect 
+ Fraud Prevention Block fraud in real-time
+
+ Unbotify Remove bots for a smooth user flow
+
+ iOS 14 
+ iOS 14 Resources Solutions for growth post-IDFA
+
+ SKAdNetwork Solution Our free solutions for SKAdNetwork
+
+ Pricing Resources Connect 
+ Blog 
+ iOS 14 Resources  Make data-driven decisions with confidence with our solutions for iOS 14.
+ Learn 
+ Ebooks 
+ Case Studies 
+ Collections 
+ Videos 
+ App Benchmarks Tool 
+ Webinars 
+ All resources Company 
+ Partners 
+ Careers 
+ Security and Compliance 
+ Our Team 
+ Tech Culture 
+ Media 
+ Our Offices 
+ Perks and Benefits 
+ Contact Us 
+ Support 
+ Support Team 
+ Help Center 
+ Glossary 
+ Product Updates 
+ Exciting New Updates for Adjust Automate are here! 
+ Track your TikTok ad spend in Adjust, starting now 
+ Manage your data collection and retention with Adjust 
+ Measure and attribute Apple Search Ads downloads with Adjust and the Apple Ads Attribution API 
+ All articles 
+ Log In Request a demo 
+ Products 
+ Data Access 
+ Analytics 
+ Attribution 
+ Audience Builder 
+ Automate 
+ Unbotify 
+ Fraud Prevention 
+ iOS 14 Resources 
+ SKAdNetwork 
+ Resources 
+ Blog 
+ LTV Magazine 
+ Ebooks 
+ Case Studies 
+ Collections 
+ Videos 
+ App Benchmarks Tool 
+ Webinars 
+ Support 
+ Glossary 
+ Help Center 
+ Support Team 
+ Company 
+ Partners 
+ Careers 
+ Security and Compliance 
+ Our Team 
+ Tech Culture 
+ Media 
+ Our Offices 
+ Perks and Benefits 
+ Contact Us 
+ Request a demo 
+ English 
+ æ¥æ¬èª 
+ Deutsch 
+
+
+ PRIVACY POLICY 
+ CCPA 
+
+Privacy policy
+Last modified: March, 2021
+Adjust GmbH including all of its affiliates (collectively, "Adjust" or "We") respects your privacy and is committed to protecting it through our compliance with this policy.
+With this privacy policy, we would like to inform you how we process your personal data.
+The responsible body according to art.
+4 European General Data Protection Regulation ("GDPR") is Adjust GmbH, SaarbrÃ¼cker Str.
+37a, 10405 Berlin, managing directors are Christian Henschel and Paul MÃ¼ller.
+Responsible for data processing in contracts with your respective contractual partner:
+
+Adjust GmbH, Germany
+Adjust Software Ltd, United Kingdom
+Adjust Inc., United States (USA)
+Adjust KK., Japan
+Adjust Brasil Licenciamento de Software Ltda., Brazil
+
+If one of our subsidiaries is the data controller and the registered office is outside the EU, its EU Representative is Adjust GmbH, SaarbrÃ¼cker Str.
+37A, 10405 Berlin, Germany
+If the data processing is subject to the UK GDPR and a UK Representative is required this is Adjust Software Ltd, 90 High Holborn, Holborn, London, WC1V 6LJ, United Kingdom
+In case of any questions relating to data protection, please get in touch with us at privacy@adjust.com.
+Our external Data Protection Officer is ePrivacy GmbH, represented by Prof.
+Dr.
+Christoph Bauer, GroÃe Bleichen 21, 20354 Hamburg.
+If you wish to communicate directly with our Data Protection Officer (because you have a particularly sensitive matter for example), please send your request to them by post.
+Please state in your request that your concern relates to the company Adjust GmbH.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it.
+If you do not agree with our policies and practices, your choice is not to use our Website.
+This policy may change from time to time (see Changes to our Privacy Policy).
+If you are a California resident, please also review our California Resident Privacy Notice ("CCPA").
+1.
+Collection and Use of Data
+
+Content
+
+Personal data is all information relating to personal and objective circumstances through which a person may be personally identified.
+This may for example entail information such as your name, address or other contact details such as phone number or e-mail address.
+
+Intended Use
+
+We base the processing of your data on the following legal bases:
+
+Your consent, if you have given us such consent (Art.
+6 para.
+1 lit.
+a) GDPR),
+The initiation or execution of a contract with you (Art.
+6 para.
+1 lit.
+b) GDPR),
+The fulfilment of legal obligations (Art.
+6 para.
+1 lit.
+c) GDPR),
+The implementation of our legitimate interests (Art.
+6 para.
+1 lit.
+f) GDPR)
+
+When processing your data, we pursue the following legitimate interests:
+
+To present and improve our website
+To estimate the size of our target group and their user pattern
+To save information about your preferences so that we may adapt our website to your individual interests
+To speed up your search
+To recognize you when you return to our website
+
+Furthermore, with this information we will be able to ensure the stability and security of our website.
+
+How We Use Your Information
+
+We use information that we collect about you or that you provide to us, including any personal information:
+
+To present our Website and its contents to you
+To provide you with information, products or services that you request from us
+To fulfill any other purpose for which you provide it
+To target audience and for marketing purposes
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection
+To notify you about changes to our Website or any products or services we offer or provide through it and to help us understand how the Website is being used
+In any other way we may describe when you provide the information
+
+We may also use your information to contact you about goods and services that may be of interest to you.
+If you do not want us to use your information in this way, you may elect to unsubscribe and we will cease using your information in that manner.
+
+Children Under the Age of 13
+
+Our Website is not intended for children under 13 years of age.
+No one under age 13 may provide any personal information to the Website.
+We do not knowingly collect personal information from children under 13.
+If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use.
+If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information.
+If you believe we might have any information from or about a child under 13, please contact us at Adjust GmbH, SaarbrÃ¼cker Str.
+37a, 10405 Berlin, Germany, via email at privacy@adjust.com or per phone at +49 173 801 480 5.
+
+Information We Collect About You
+
+We collect several types of information from and about users who visit our Website via internet connection or through your device which you use to access our Website, including certain user details.
+Such information includes:
+
+Traffic data
+Location
+Server logs
+Resources on our website which you access and use
+IP address, operating system and browser type
+
+and information which is collected through cookies, web-beacons and other tracking technologies.
+Furthermore, we are processing data with which you may be personally identified such as your name, postal address, e-mail address, phone number and any other identifier with which you may be contacted online or offline ('personal data') insofar as you provide us with this data in our online form.
+Keep in mind that we also handle correspondence and process data to that respect.
+The technologies we use for this automatic data collection may include:
+
+Cookies (or browser cookies).
+We, and businesses we work with, require for some features of our website.
+Cookies are small files that your browser places on your device in a designated directory.
+These cookies can be used to determine, for example, whether you have visited a website before.
+They are deleted after the end of your visit.
+Other cookies ("persistent cookies") are automatically deleted after a specified period, which may vary depending on the cookie.
+You can delete cookies at any time in the security settings of your browser and object to the use of cookies through your browser settings.
+Please note that disabling cookies may result in restrictions when using our website.
+Web Beacons.
+Pages of our Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit Adjust, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+Log files.
+Every time you access our Internet pages, your usage data is transmitted through the respective internet browser and stored in log files, the so-called server log files.
+The records stored in this case contain the following data: domain and location from which the user is accessing the website
+
+
+Information You Provide to Us
+
+The information we collect on or through our Website may include:
+
+Information that you provide by filling in forms on our Website.
+This includes information provided at the time of subscribing to our newsletter, subscribing to our service, or requesting further services.
+We may also ask you for information when you report a problem with our Website or the Adjust technology
+Records and copies of your correspondence (including e-mail addresses), if you contact us
+Details of transactions you carry out through our Website and of the fulfillment of your orders.
+You may be required to provide financial information before placing an order through our Website
+Details of Website searches and button clicks are also recorded
+
+You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "User Contributions").
+Your User Contributions are posted on and transmitted to others at your own risk.
+Although you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable.
+Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions.
+Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
+
+Third-party Use of Cookies and Other Tracking Technologies
+
+Some third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website.
+The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services.
+They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+
+Requirement or Obligation to Provide Data
+
+Unless this is expressly stated, the provision of your data is not required or obligatory.
+
+Duration of Retention of Data
+
+We store your data:
+
+If you have consented to the processing at the latest until you revoke your consent
+If we need the data to carry out a contract at most as long as the contractual relationship with you or statutory retention periods are running
+If we use the data on the basis of a legitimate interest at most as long as your interest in deletion or anonymization does not prevail
+
+
+Disclosure of Your Information
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+We may disclose personal information that we collect or you provide as described in this privacy policy:
+
+To our subsidiaries and affiliates for the sole purpose of providing our services.
+To contractors, service providers and other third parties we use to support our business:
+
+Provider of web analysis tools
+Web hosting and web development providers
+Marketing and advertising service providers
+E-mail and newsletter provider
+Service provider for editing and translations
+CRM system service provider
+Cloud services
+Payment service provider,
+Conference and Webinar Software
+Service provider for online surveys
+Service provider for chat software
+Social media platforms
+
+
+To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Adjust's assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Adjust about our Website users is among the assets transferred.
+To fulfill the purpose for which you provide it.
+For any other purpose disclosed by us when you provide the information.
+With your consent.
+
+We may also disclose your personal information:
+
+To comply with any court order, law or legal process, including to respond to any government or regulatory request
+To enforce or apply our terms of use and other agreements, including for billing and collection purposes
+If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Adjust, our customers or others
+
+Unless otherwise stated herein, your personal data will be processed on our servers.
+If we have commissioned technical service providers, they will only process the data after having received express instructions and they are contractually obliged to guarantee adequate technical and organizational measures for data protection.
+Insofar as we refer to integrated services of other providers in this privacy policy, it can be assumed that personal data will be transmitted to the specified headquarters of these providers.
+These providers may be based in a so-called third country outside the European Economic Area.
+
+Choices About How We Use and Disclose Your Information
+
+We strive to provide you with choices regarding the personal information you provide to us.
+We have created mechanisms to provide you with the following control over your information:
+
+Tracking Technologies and Advertising.
+You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent.
+If you disable or refuse cookies, please note that some parts of this Website may then be inaccessible or not function properly
+Opt-out.
+You may "opt out" of receiving marketing or promotional emails from us by following the instructions in those emails.
+If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations
+We do not control third parties' collection or use of your information to serve interest-based advertising.
+However, these third parties may provide you with ways to choose not to have your information collected or used in this way.
+You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website.
+
+
+How we protect Your Data
+
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure.
+All information you provide to us is stored on our secure servers behind firewalls.
+All transactions, regardless of their nature, are encrypted using SSL technology
+The safety and security of your information also depends on you.
+Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential.
+We ask you not to share your password with anyone
+Unfortunately, the transmission of information via the internet is not completely secure.
+Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website.
+Any transmission of personal information is at your own risk.
+We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+Transfer between subsidiaries: We may transfer user and customer information to our affiliates and to third party providers for the sole purpose of providing our services
+
+
+Newsletter
+
+If you subscribe to our newsletter, we will process your e-mail address and data to verify your subscription.
+You can cancel your subscription at any time by sending a message to us or by clicking the 'unsubscribe' button.
+
+Your rights according to the GDPR
+
+As the data subject, you have the right of access (Art 15 GDPR), the right to rectification (Art 16 GDPR), the right to erasure of your personal data (Art 17 GDPR), the right to restriction of processing of your personal data (Art 18 GDPR) as well as the right to data portability (Art 20 GDPR).
+Furthermore, you have the option to file a complaint against the processing of your personal data with the competent supervisory authority (in this case Berliner Beauftragte fÃ¼r Datenschutz und Informationsfreiheit at https://www.datenschutz-berlin.de/).
+If you have given your consent to the processing of your data, you can revoke the given consent at any time.
+Such revocation affects the admissibility of the processing of your personal data after you make such revocation.
+You can object to the processing of your personal data insofar as we base the processing of your personal data on the balance of interests.
+This is the case in particular if the processing is not necessary for the fulfilment of a contractual obligation to you, which we in each case present in the description of the functions which follow.
+In case of such objection, we kindly ask for an explanation of the reasons for the objection against the processing of your personal data.
+In the case of your justified objection, we will examine the situation and will either discontinue or adapt the data processing or point out to you our compelling legitimate reasons based on which we continue the processing your personal data.
+You may, of course, object to the processing of your personal data for advertising and data analysis purposes at any time.
+In this case, please send an e-mail to privacy@adjust.com.
+
+Your California Privacy Rights
+
+If you are a California resident, please review our California Resident Privacy Notice ("CCPA") for information regarding your California privacy rights.
+
+Transfer to Third Countries
+
+If personal data is being transferred to countries outside the European Economic Area, we only transfer it to third countries where the EU Commission has confirmed an adequate level of protection or where we can ensure the careful handling of personal data by means of contractual agreements or other suitable guarantees, such as certifications or proven compliance with international security standards.
+2.
+Tracking Technologies on our Website
+
+Google Analytics
+
+In order to optimize this website, we use Google Analytics, a web analytics service provided by Google, Inc.
+("Google").
+Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how you use this website.
+The information generated by the cookie about your use of this website (including your IP address) will be transmitted to and stored by Google on servers in the United States.
+If the IP anonymization is activated on this website, your IP address will previously be truncated by Google within the EU member states or EEA member states.
+Only in exceptional cases will the IP address be transferred to Google on a server in the United States and thereafter be truncated.
+On behalf of the website operator, Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.
+The IP address that was transmitted by your browser will not be combined by Google with any other data.
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
+You may also prevent the collection of the data that was generated by the cookie and that is related to the use of the website (including your IP address) as well as its processing by Google by downloading and installing a browser plugin that is available under the following link: http://tools.google.com/dlpage/gaoptout?hl=de.
+Additional information thereto is available at http://www.google.com/intl/de/analytics/privacyoverview.html (general information to Google Analytics and privacy).
+This Website uses Google Analytics with its extension code "gat._anonymizeIp()" so that IP addresses will therefore only be processed in a shortened form to prevent persons from being identified.
+
+Google Ads
+
+We as a Google Ads customer also use Google Conversion Tracking, a web analytics service provided by Google, Inc.
+("Google").
+Google Ads places a cookie in your browser ("Conversion Cookie") if you have accessed our website via a Google ad.
+These cookies are valid for 30 days.
+If you access some of our sites and the cookie is still valid, we and Google can recognize that somebody has clicked on the ad and thereafter was transferred to our website.
+Every Ads customers uses a different cookie, and therefore it is not possible to track cookies via the websites of Ads customers.
+The information obtained via the Conversion Cookie is used in order to assemble conversion reports for Ads customers.
+The Ads customers receive the number of users that have clicked on their ad and have been transferred to a site that includes the Conversion Tracking Tag but they do not receive any information that would allow them to identify the user.
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
+
+Google Remarketing
+
+On our website we use the Google Remarketing service of Google Ireland Limited, Gordon House, 4 Barrow Street, Dublin, D04 E5W5, Ireland.
+Cookies are used to collect data which analyse the user behaviour of interested parties of our or third party websites.
+If you continue your internet activity, we can then target you again with our advertising.
+Google's privacy policy: https://policies.google.com/privacy?hl=de
+You can object to the collection and storage of data by Google at any time with effect for the future.
+If you have a Google Account, you can deactivate personalised advertising here: https://adssettings.google.com/authenticated
+
+Facebook Pixel
+
+We use the "visitor action pixels" from Facebook Inc.
+on our website.
+This allows user behavior to be tracked after they have been redirected to our website by clicking on a Facebook ad.
+This enables us to measure the effectiveness of Facebook ads for statistical and market research purposes.
+The data collected in this way is anonymous to us, i.e.
+we do not see the personal data of individual users.
+However, this data is stored and processed by Facebook, which is why we are informing you, based on our knowledge of the situation.
+Facebook may link this information to your Facebook account and also use it for its own promotional purposes, in accordance with Facebook's Data Usage Policy.
+You can allow Facebook and its partners to place ads on and off Facebook.
+A cookie may also be stored on your computer for these purposes.
+You can object to the collection of your data by Facebook pixel, or to the use of your data for the purpose of displaying Facebook ads in your account-settings.
+
+LinkedIn Insight Tag
+
+The LinkedIn Insight Tag is a piece of lightweight JavaScript code that we have added to our websites to enable in-depth campaign reporting and to help us unlock valuable insights about our website visitors.
+We use the LinkedIn Insight Tag to track conversions, retarget website visitors, and unlock additional insights about members interacting with our LinkedIn adverts.
+The LinkedIn Insight Tag enables the collection of metadata such as IP address information, timestamp, and events such as page views.
+All data is encrypted.
+The LinkedIn browser cookie is stored in a visitor's browser until they delete the cookie or the cookie expires.
+You can opt out of cookies from LinkedIn on your LinkedIn settings page and recommend you read their Cookie Policy for more information.
+
+Pardot
+
+Pardot is a B2B marketing automation by Salesforce which we use to keep customers informed about upcoming events, product updates/ new features, etc.
+This marketing tool is embedded in our website for general marketing purposes, including e-mail, social media, digital ads, web management and analytics.
+For this marketing tool, we use cookies to identify you when you visit and re-visit our website.
+With this tool we track different data points when you are using our website in order to improve the website content we provide to you as well as to improve our marketing campaigns and make their content more relevant for you.
+For more information on Salesforce/ Pardot's privacy policy, click here.
+
+Bizible
+
+Bizible offers an integrated marketing analysis platform for marketers in order to optimize their advertising campaigns.
+Bizible collects your name, e-mail address and (if applicable) your address (only if you have explicitly provided us with this), as well as IP address, browser type and marketing source.
+You can do a Bizible Cookie-Opt-Out here.
+For more information, please klick here.
+
+Clearbit
+
+Clearbit is operated by APIHub Inc.
+Clearbit has developed a business intelligence API to aid businesses in acquiring more information about their clients in order to increase turnover and reduce fraud.
+Clearbit collects your IP address so that we may improve our website.
+For more information and to have yourself removed from the Clearbit database, please click here.
+
+Hotjar
+
+Hotjar Ltd.
+provides a service which analyses the online behavior of website users by combining analytics and feedback tools.
+Hotjar will collect and processe your IP address when you navigate through and interact with the contents of our website.
+The sole purpose for passively collecting this information is to improve your experience when using our website.
+You may opt-out from having Hotjar collect Your information when visiting our website at any time by visiting their Opt-out page and clicking 'Disable Hotjar'.
+
+VWO
+
+VWO is operated by Wingfify Software Private Limited.
+VWO is a test and optimization tool with which businesses can conduct A/B Tests and develop behavioral geological targeting campaigns.
+This helps us to optimize and personalize our website.
+For this, VWO collects your IP address when you visit our website.
+Your IP address, however, is anonymized instantly.
+For more information, please click here.
+If you no longer want VWO to track your IP address when you visit our website, please use this opt-out link.
+
+Drift
+
+Drift Inc.
+is a conversation-driven marketing platform.
+With its rapidly evolving tools, Drift unlocks the hidden insights to accelerate business success.
+Drift records the email address you enter in our forms.
+For more information on how drift data is collected and processed please click here.
+To unsubscribe from drift tracking, please email privacy@drift.com.
+
+Yahoo Ads for Japan
+
+At Adjust, ads delivered by Yahoo! JAPAN Corporation or a third party may be displayed for marketing purposes, and in relation to them, Adjust may acquire and use cookies, advertising ID, and other information from users visit/activity on adjust.com.
+The cookie information and advertising ID etc.
+acquired by Adjust is handled in compliance with Adjust's privacy policy.
+Users can halt the use of the cookie information and advertising ID etc.
+to ad delivery by Adjust with the following procedure:
+For browsers: Access the opt-out page on website of the third party.
+For apps: Access the advertising ID setting screen.
+For the details of setting, refer to the guidance on Apple, Google, etc.
+that provides OS for each device.
+3.
+Other Recipients
+
+Gong
+
+In our sales activities, we use the "Gong" service of Gong Ltd., 4 Maskit St., C, Herzliya 4673304, Israel.
+We use Gong to record, transcribe and analyse video conferences between our sales staff and you.
+The service is used exclusively with your consent for the purpose of employee training.
+You will find Gong's Privacy Policy at https://www.gong.io/privacy-policy.
+
+Facebook Lead Ads
+
+We use Facebook Lead Ads from Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland for advertising purposes.
+Therefore, we process contact information from you.
+To revoke your consent please send us an email.
+You entered data will also be processed by Facebook.
+We have no influence on the data collected and their processing.
+For more information visit: https://www.facebook.com/policy.php.
+
+LinkedIn Lead Gen Ads
+
+LinkedIn offers Ads that allow people to submit their contact and other information to us ("Lead Gen Forms").
+Therefore, we process contact information from you.
+To revoke your consent please send us an email.
+You entered data will also be processed by LinkedIn.
+We have no influence on the data collected and their processing.
+For more information visit: https://linkedin.com/legal/privacy-policy.
+
+Amplitude
+
+Amplitude is an analysis service of Amplitude Inc.
+(631 Howard Street, Suite 300, San Francisco, CA 94105, U.S.A.).
+This tool collects technical information, such as the type of your device (e.g., iPhone 7 or the operating system used (e.g., iOS 10.3).
+In addition, Amplitude tracks location data (e.g.
+country) and internal data (e.g.
+language, server upload time, session ID) that occur when using our Adjust Dashboard.
+Such events may, for example, be how long you were logged into our Dashboard and from which country.
+In other words, Amplitude helps us understand how you use our Dashboard so we can improve the experience.
+You will find additional information about the manner in which Amplitude processes data at: https://amplitude.com/privacy.
+
+Rollbar
+
+To better understand any possible errors in the source code of our dashboard, we share some data from our dashboard users with Rollbar, Inc., 51 Federal Street, San Francisco, CA 94107, United States.
+These data include the dashboard user's name, email address, and device information, such as a description of the error or bug the dashboard user experienced while using the dashboard.
+For further information please refer to Rollbar's privacy policy at
+https://docs.rollbar.com/docs/privacy-policy
+
+Pendo
+
+Pendo is an analysis service of Pendo.io Inc.
+that we use to evaluate the use of our Adjust Dashboard, generate reports on activities, analyze behavioral metrics and improve the experience.
+The tool collects the Adjust Dashboard user name, email-address, country and region that occurs when using our Adjust Dashboard.
+You can find more information in Pendo's privacy policy at www.pendo.io/legal/privacy-policy/
+
+Facebook Page
+
+When you visit our Facebook Pages, which we use to represent our company or individual products or services, some of your personal data will be processed.
+The sole controller responsible for the processing of personal data is Facebook Ireland Ltd (4 Grand Canal Square, Grand Canal Harbour, Dublin 2 Ireland, "Facebook").
+Further information about the processing of personal data by Facebook can be found at https://www.facebook.com/privacy/explanation.
+Processing of Page Insights:
+Facebook provides us with anonymized statistics and insights for our Facebook page, which help us to understand the types of actions that people take on our Page (so-called "Page Insights").
+These Page Insights are created based on specific information about individuals who have visited our Page.
+This processing of personal data is carried out by Facebook and by us as joint controllers.
+The processing serves our legitimate interest to evaluate the types of actions being taken on our Page and to improve our Page based on these findings.
+The legal basis for this processing is Article 6 paragraph 1 letter f GDPR.
+We are in no case able to assign the information obtained via Page Insights to a specific Facebook profile using the "Like" data for our Page.
+We have reached an agreement with Facebook to share joint responsibility for the processing, in which the division of data protection obligations between ourselves and Facebook is set out.
+Details about the processing of personal data for creating Page Insights and the agreement entered into between ourselves and Facebook can be found at https://www.facebook.com/legal/terms/information_about_page_insights_data.
+
+LinkedIn Page
+
+We operate a LinkedIn page on LinkedIn, a service of LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Ireland.
+LinkedIn collects and uses data to provide analytics services, known as "page insights", to site operators to help them understand how people interact with their pages and with the content associated with them.
+This data includes information about the types of content that users view or interact with, or the actions they take, as well as information about the devices used by users, such as IP addresses, operating system, browser type, language settings, cookie data.
+We are jointly responsible with the LinkedIn Ireland Unlimited Company for the collection and processing of information about visitors to our page.
+The legal basis is our legitimate interest in this information for advertising purposes, Art.
+6 para.
+1 p.
+1 lit.
+f.
+GDPR.
+We have therefore concluded an agreement with LinkedIn on joint responsibility with regard to the processing of your data in accordance with Art.
+26 GDPR.
+In particular, the agreement with LinkedIn also regulates which security measures LinkedIn must observe and that LinkedIn must comply with the rights of data subjects.
+You can find further information on the Page-Insights as well as instructions on how to assert your data subject rights in the privacy policy (https://www.linkedin.com/legal/privacy-policy#choices).
+The terms of the agreement concluded with LinkedIn can be viewed here (https://legal.linkedin.com/pages-joint-controller-addendum).
+4.
+Processing of data through the Adjust Technology
+We provide mobile analytics and attribution services to mobile app providers (our "Customers").
+In connection with these services, we may process certain data from the users of these mobile apps (collectively the "End User" or "You"), as further described hereafter.
+We process the data upon instructions from our Customers and do not have any kind of direct relationship with the You as the End User.
+Customers who have child directed apps must choose the appropriate product settings and must not share any personal data with Partners or any third parties.
+Customers must agree to the section in our Terms and Conditions accordingly.
+Our SDK and APIs (collectively the "Adjust technology") may process some of the following data from You as the End User:
+
+Hashed IP address
+Mobile identifiers such as the ID for Advertising for iOS (IDFA), Google Advertising ID or similar mobile identifiers
+Installation and first opening of an app on Your mobile device
+Your interactions within an app (e.g.
+in-app purchases, registration)
+Information regarding which advertisements You have seen or clicked on
+For the Unbotify/Fraud product additionally: sensory data including touch events, counting text changes, accelerometer, gyroscope, battery, light sensor, device hardware specifications and operating system version
+
+We use the aforementioned data for providing mobile analytics and attribution services to our Customers, and thereby allow our customers to track their marketing performance, to match You to their campaigns and to understand how You engage with our Customer's app.
+Furthermore, we enable our Customers to track Your interactions in their apps in real time in order to see how You engage over their full lifetime.
+The aforementioned data is therefore processed in order to analyze the performance of marketing campaigns and to provide performance reports to our Customers.
+We do not combine the data with any other data that would enable us to personally identify You.
+Any information processed via the Adjust technology is owned and controlled by our Customer who has implemented the Adjust technology into their mobile app.
+We do not share or disclose the user data with anyone else except with our server providers and in response to lawful requests by public authorities, including national security or law enforcement requirements.
+We store the data as long as our Customers are using the Adjust technology because we need it to provide our services to our Customers, if not requested otherwise by our Customers.
+In some cases, there is a transfer of data to third countries outside the European Union.
+This is done on the basis of statutory provisions that are intended to ensure an adequate level of protection for Your personal data.
+5.
+Changes to Our Privacy Policy
+It is our policy to post any changes we make to our privacy policy on this page.
+If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page.
+The date the privacy policy was last revised is identified at the top of the page.
+You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our website and this privacy policy to check for any changes. Quick Links 
+ Request a demo 
+ Adjust Help Center 
+ Contact Us 
+ Pricing 
+ Blog 
+ Products 
+ Attribution 
+ Analytics 
+ Automate 
+ Audience Builder 
+ Fraud Prevention 
+ Unbotify 
+ iOS 14 Resources 
+ SKAdNetwork 
+ Resources 
+ Ebooks 
+ Collections 
+ Case Studies 
+ Webinars 
+ Videos 
+ Events 
+ App Benchmarks Tool 
+ Company 
+ Partners 
+ Team 
+ Media 
+ Careers 
+ Security 
+ Languages: English 
+ æ¥æ¬èª 
+ ä¸­æ 
+ íêµ­ì´ 
+ FranÃ§ais 
+ Bahasa Indonesia 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Â© 2020 Adjust GmbH.
+All rights reserved  Imprint Privacy Policy CCPA GDPR Terms Forget Device 
+      

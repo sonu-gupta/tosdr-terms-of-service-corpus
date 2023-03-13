@@ -1,0 +1,112 @@
+
+         Transparency Report Posted on May 18, 2014May 14, 2020 by Proton Team 
+Updated on March 17, 2020
+
+From time to time, ProtonMail may receive requests for assistance from law enforcement authorities.
+As a strict general rule, ProtonMail only complies with legally binding orders that have been approved by Swiss authorities.
+Moreover, under article 271 of the Swiss Criminal Code, it is an offence to comply with foreign requests that have not been approved by the Swiss authorities.
+Therefore, ProtonMail only complies to two types of orders: (1) orders from the Swiss authorities and (2) foreign requests that have been duly instructed and validated by Swiss authorities through an international legal assistance procedure and determined to be in compliance with Swiss law.
+ProtonMail is not required to store communications metadata or IP information, as we are exempted under the Swiss Federal Act on the Surveillance of Post and Telecommunications (BÃPF) and its accompanying ordinance.
+Therefore, ProtonMail can apply a policy of collecting as little user information as possible to protect user privacy.
+To know exactly what kind of metadata your use of ProtonMail creates, please refer to our Privacy Policy.
+Upon receiving a judicial order, ProtonMail is obliged to provide any user information readily available that would help identify a user that is subject to a criminal investigation that has been validated by Swiss authorities.
+In addition to the items listed in our privacy policy, in extreme criminal cases, ProtonMail may also be obligated to monitor the IP addresses which are being used to access the ProtonMail accounts which are engaged in criminal activities.
+Under no circumstances will ProtonMail be able to provide the contents of end-to-end encrypted messages sent on ProtonMail.
+All data orders are also checked by our internal abuse and legal team.
+In the event that we have questions about the legality of an order under Swiss law, ProtonMail will always request further clarification from Swiss authorities.
+If doubts persist and the order appears not to be compliant with legal requirements, ProtonMail will contest it to the extent permitted by law.
+ProtonMail may also sometimes act upon other types of requests.
+If presented with overwhelming evidence that the account in question is being used for illegal purposes against our Terms and Conditions, the offending account will be suspended immediately.
+Legality is assessed on Swiss law, and illegal purposes include activities such as phishing, ransomware, or identity theft.
+No data is handed to third parties during this process unless a qualifying data order is also received.
+
+Edit August 28th, 2019: Due to some confusion from the information previously provided below, we are editing to clarify that we only provide information when ordered to do so by Swiss authorities.
+Previously, there was confusion arising from the fact that we sometimes comply with orders before we have been officially served with the order via registered post, in cases where we are informed in advance that the order has already been approved.
+
+Warrant Canary:
+
+In the 4th quarter of 2015, we received an order from the Swiss Federal Police to retain data for an account that was the subject of a criminal investigation.
+The data preservation order was made by the US Federal Bureau of Investigation via MLAT agreement.
+After consultation with counsel, Proton Technologies AG decided to comply with the order and preserve the relevant account data.
+No data was handed over as we have yet to receive a binding court order for this data.
+In the 1st quarter of 2016, we received an order for user data from the MinistÃ¨re public of the Republique et Canton de GenÃ¨ve, originating from the United Kingdom, which was legally valid under la Convention europÃ©ene dâentraide judiciaire en matiÃ¨re pÃ©nale (CEEJ Strasbourg 1959, RS 0.351.1) and the DeuxiÃ¨me Protocole additionnel (Strasbourg 2001, RS 0.351.12).
+The full facts of the criminal incident was provided to us.
+Given that criminal action was clearly involved and in breach of our terms and conditions, we declined to mount a court challenge against the order.
+Proton Technologies AG decided to comply with the data order, to the extent that it is possible, given our cryptography.
+In the second quarter of 2016, we received a request for user data as part of an ongoing investigation into a bomb threat in the United States.
+We agreed to retain (but not to hand over) data on this case, pending the issuance of a Swiss court order for this data.
+In the second quarter of 2016, we received an order from Swiss authorities on behalf of German authorities requesting information in a case where a minor was at risk.
+We complied with the order which was subsequently delivered to our office by registered post.
+It is ProtonMailâs policy to always assist authorities in cases involving pedophilia or terrorism.
+In the second quarter of 2016, we received an order from Swiss authorities on behalf of French authorities requesting information on a case involving extortion.
+Upon our request, Swiss authorities provided to us a copy of the International Letters Rogatory and court order approved by a Paris judge.
+Upon our request, a Swiss court order was also provided for this data request.
+Since clear evidence of a crime was provided and the requested paperwork was in order, Proton Technologies AG decided to comply with the data order, to the extent that it is possible, given our cryptography.
+In the fourth quarter of 2016, we received an order from Swiss authorities from the Canton de Vaud, seeking information in a fraud case.
+After reviewing the relevant court order, Proton Technologies AG decided to comply with the data order, to the extent that it is possible, given our cryptography.
+In the first quarter of 2017, we received an order from the Swiss Federal Police regarding a cause of fraud which occurred in the Czech Republic.
+Czech authorities had secured the appropriate Swiss court approvals via an International Letters Rogatory and provided evidence documenting the fraud which had occurred.
+After reviewing the relevant court order, Proton Technologies AG decided to comply, to the extent that it is possible, given our cryptography.
+In the first quarter of 2017, we received an order from the Swiss Federal Police that originated from the law enforcement authorities of the Republic of Georgia concerning an alleged cybercrime.
+After reviewing the relevant court order, our legal team determined it was excessively broad and we challenged the order.
+In February 2017, we received notification from the Geneva prosecutorâs office regarding an impending data request from overseas that will come with a valid International Letters Rogatory.
+The most probable data requester is US law enforcement.
+Update: The request is from the US Department of Justice in a case of extortion against a prominent advisory firm.
+After reviewing the relevant evidence forwarded by US authorities, criminal intent was apparent, so Proton Technologies AG decided to comply with the data request, to the extent that it is possible, given our cryptography.
+
+In March 2017, we received an order from the Geneva prosecutorâs office regarding a data request from overseas that came with a valid International Letters Rogatory.
+The request came from German law enforcement, investigating an account with links to ISIS.
+However, we were unable to provide the data requested by German law enforcement as we did not have access to the data requested.
+In April 2017, we received a request from the Swiss Federal Police about an information request coming from a former Soviet republic (not Russia) regarding a case with an immediate threat of bodily harm to innocent civilians.
+Proton Technologies AG decided to comply immediately with the data order, to the extent that it is possible, given our cryptography, with the understanding that the Swiss court order will be immediately delivered to our office by registered post.
+In May 2017, we received a request from US authorities in a US tax and money laundering case.
+We have informed US authorities that the request must pass through the Swiss Federal Police and be approved by a Swiss court before we will respond.
+Update: After contesting the validity of the warrant with assistance from lawyers from the EFF, the US authorities have decided not to pursue the search and seizure warrant.
+
+
+In July 2017, we received a request for assistance from British police in the case of the kidnapping of Chloe Ayling.
+In light of the fact that we were able to verify that the kidnappers were, in fact, using a ProtonMail account, and the fact that the first 48 hours are the most critical in kidnapping cases, we rendered assistance to law enforcement before the signed order was delivered to us, but with the understanding that the court order was in the process of being sent.
+We delayed disclosure on our transparency report at the request of police until the victim was successfully rescued.
+Update: The court order was indeed received soon after we rendered assistance.
+
+In August 2017, we received a request for assistance from Turkish law enforcement authorities that was passed to us through the Swiss Federal Police.
+We rejected the request on account of the Turkish governmentâs human rights record and will take the case to Swiss courts if the Turkish government files for an international proceeding.
+In January 2018, we received two requests for assistance from US law enforcement, regarding bomb threats made with ProtonMail.
+We rendered assistance to Swiss law enforcement working on this case without having yet received the court order, but with the understanding that the approved court was on its way to us.
+Update: The court order was indeed received soon after we rendered assistance.
+
+In March 2018, we received a police request from Austria involving a politician who was accused of sexual harassment.
+The authorities are trying to identify the person who reported the accusation.
+Since the person who made the report is likely entitled to certain privacy protections, we have rejected the order even though it was approved by a Swiss court, and have requested that the Geneva prosecutorâs office review the facts of the case again and provide Proton legal with additional information.
+In May 2018, upon the request from the top law enforcement officer from an EU country in a case involving terrorism with an imminent threat, we disabled an account and rendered assistance, with the assurance from Swiss authorities that a court order was on its way to us.
+We did indeed receive the court order.
+Per our standard procedure for cases like this, we will attend the court hearing to learn details from the relevant authorities about this case and to ensure that all applicable due process was followed.
+In January 2019, we discovered evidence that a data request from an EU country in Eastern Europe may be improperly targeting a whistleblower that exposed corruption involving a high ranking politician.
+As a result, we are opposing the assistance order from the Swiss prosecutorâs office.
+In April 2019, upon the order of the Swiss judiciary in a case of clear criminal conduct, we enabled IP logging against a specific user account which is engaged in illegal activities which contravene Swiss law.
+Pursuant to Swiss law, the user in question will also be notified and afforded the opportunity to defend against this in court before the data can be used in criminal proceedings.
+In July 2019, we received a request for information that was approved by the Swiss judiciary involving a case in another EU country, which upon further assessment, we suspect could be targeting a whistleblower.
+We have refused to hand over data while seeking further clarification from the authorities as to why this request for information was approved in the first place, and asking for Swiss authorities to re-check the facts of the case.
+
+
+Request Statistics
+
+Aggregated statistics of all orders and requests by authorities that we have received in 2017 and 2018 are provided below:
+Year
+Orders by Swiss authorities
+Foreign requests approved by Swiss authorities
+Contested orders
+Orders complied with
+20191,4651291101,484201826276433620171313323 
+
+Foreign requests approved by Swiss authorities:
+Year
+2019
+2018
+2017
+Total1297613Europe936110Americas29123Asia730Other100 
+
+
+Share This!Get a Free Encrypted Email Account Privacy 132
+
+

@@ -1,0 +1,60 @@
+
+         Kev Quirk ð  Home ð¨ About âï¸ Blog ð Notes âï¸ Contact ð° Newsletter âï¸ Blogroll ð¬ Guestbook ð RSS Feeds ð Search More stuff this way â® ðµï¸ Privacy 
+HTTPS Always
+Analytics 
+No Cookies
+
+
+Newsletter
+Terms of Service
+
+Personally, I have taken a number of steps to try and maintain my own privacy where possible.
+So I think I would be remiss if I didnât try and do the same for those who decide they want to come and read the content that I put out on this site.
+Plus, itâs actually the law within the EU.
+With all of the above in mind, I want to do what I can to maintain the privacy of visitors to this site wherever possible.
+So what do I do to help ensure your privacy is maintained? 1.
+HTTPS always This site uses HTTPS everywhere.
+If you try and access this site using HTTP, you will be redirected to HTTPS.
+So what? you might say.
+HTTPS is important, as it ensures your connection to my server is always encrypted (among other things).
+So any spying eyes wonât be able to see what youâre doing whilst on here.
+Not a huge issue for most people, as this is just a blog that contains public information â you donât have login credentials etc.
+But you may not want your Apple loving friends to know that you secretly love Linux! 2.
+My analytics respect your privacy I use the privacy respecting analytics tool, GoatCounter to monitor the traffic on this site.
+There are no trackers or cookies, which means that Plausible is far less invasive than other analytics tools, like Google Analytics.
+GoatCounter doesnât even store your IP address.
+You can see a demo of GoatCounter here â this is exactly what I see when I login to my dashboard.
+It tells me which posts are popular and where the traffic is coming from.
+Thatâs all I need to know.
+If you want to know more about what data of yours they store, you can read their data policy here. 2.1 No cookies If you view the source for this website, you will see that no tracking Javascript exists in my code.
+So no tracking cookies will be dropped on to your machine from this website, which means there is no unique ID that I can use to identify and track you.
+You can also use an online tool like Cookie Metrix to see what cookies are stored on your machine when you visit my site.
+Spoiler â there are no cookies! ð
+
+ 3.
+Newsletter I maintain an email newsletter with this blog, but I still try to maintain your privacy while doing so.
+The newsletter software that I use is a self-hosted solution provided by Sendy.
+If you decide you want to subscribe to my newsletter, you need to enter your name an email address and hit the subscribe button to be added to the list.
+Once subscribed, you will receive a confirmation email.
+This confirmation email, and every other subsequent email you receive from my newsletter service, will contain an unsubscribe link.
+If you decide to unsubscribe, you will immediately be removed from the newsletter and will sent a confirmation email.
+Your email address will also be deleted from my Sendy instance.
+
+I will NEVER share your email address with anyone.
+Your email address will always be confined to my Sendy instance only and I will use it for no other purpose than sending newsletter emails.
+
+ 4.
+Terms of service You do not have to agree to any terms of service in order to access, view, read, or copy any of the data on this website.
+All public content on this site is published under the Creative Commons Share Alike 4.0 License unless otherwise stated.
+More information is available on the Licensing Information page.
+
+Friends donât spy.
+true friendship is about privacy, too.
+
+â Stephen King
+
+
+All work licensed under CC BY-SA 4.0 unless otherwise stated. Disclaimer | License Info | Privacy | Coffee?
+
+ ð 
+      

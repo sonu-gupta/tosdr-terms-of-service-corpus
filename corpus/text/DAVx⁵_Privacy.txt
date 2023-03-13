@@ -1,0 +1,85 @@
+
+ DAVxâµ â CalDAV/CardDAV for Android 
+DAVxâµ
+Overview
+Download
+Tested services
+DAVxâµ is open-source
+
+
+Organizations
+Managed DAVxâµ
+Deployment
+Pricing
+Try it for free!
+
+
+Support
+Manual
+FAQ
+Forums
+Support form
+
+
+ Menu Privacy policy
+
+
+About
+Privacy policy
+ App privacy policy When you enter your login data (DAV server URL, user name, password) in DAVxâµ, these data will only be used for transferring them to the server you specified (including redirect locations given by this server, if applicable).
+User name and password are stored using Android's account manager and not by DAVxâµ itself.
+Client certificates are taken from Android's secure keystore and are not readable by DAVxâµ itself.
+To protect your login data, consider to encrypt your device.
+
+Contacts, events and tasks (which will probably contain personal data) are stored by the respective Android content providers and not by DAVxâµ itself.
+DAVxâµ only uses these data to synchronize them with the given CalDAV/CardDAV service.
+Keep in mind that other apps on your Android device (including contact and calendar apps and Android backup) may use and transfer the data according to their policies.
+Except from synchronizing address books, calendars and task lists with the given CalDAV/CardDAV service, DAVxâµ doesn't collect, process or transmit any personal or statistical data like app or server usage.
+There is no tracking and there are no ads.Â¹
+GDPR: We (bitfire) don't collect or process any personal data with DAVxâµ.
+No personal data are ever transferred to our servers.
+We only offer the software DAVxâµ, which you can use to manage your data yourself.
+Â¹ App stores (like Google Play, Samsung Galaxy apps, amazon appstore) and installed 3Ê³áµ-party apps (like Twitter) may track app installation and usage (including DAVxâµ). Web site privacy policy This Web site (DAVxâµ Web site, *.davx5.com) doesn't collect or process personal data.
+Our forums (forums.bitfire.at) embed Twitter timelines with dnt=true.
+According to Twitter, this parameter ensures that Â»the timeline and its embedded page on your site are not used for purposes that include personalized suggestions and personalized adsÂ«.
+Visits are logged by the Web server.
+These logs are only used for maintenance purposes and to generate anonymous access statistics.
+These logs are not kept longer than one year. Support privacy policy Support requests which are sent over the Support form or to our email addresses (@davx5.com) may be stored in our helpdesk system Central Desk, which is located in KÃ¶ln, Germany and our processor as set out in the GDPR.
+Collected personal data:
+
+name, email address, date/time
+support request (text and possible attachments, may include personal data)
+
+These data will only be used to process the respective support request.
+You have the right to access your personal data, let your personal data be rectified or erased, restrict processing of your personal data, export your personal data and object to processing of your personal data. Donations privacy policy Personal data related to donations (name, email, origin, IP address) are only used for payment processing and accounting purposes.
+These data
+
+are processed by donorbox.org, which is located in California (USA) â their privacy policy as a data processor applies.
+are legally required to be kept for at least 7 years.
+ Responsible person Responsible for data processing: bitfire web engineering GmbH
+If you have questions, feel free to contact us. Open SourceDAVxâµ is designed to be an open-source project (GPLv3) from the very first beginning.
+It is always possible to compile the app yourself and use it for free.
+The source code is available, and you can download the app on F-Droid.
+However, it was and still is much work to create and maintain DAVxâµ, so we have decided to put it in commercial stores for a small fee.
+If you want to support this project, please donate to DAVxâµ or purchase it.
+
+davx5-ose on Gitlab
+@davx5app
+Forums
+Email
+ About 
+Contact
+Support
+Logos / brand
+Privacy policy
+Legal information
+Sitemap
+ Links 
+Source code
+Version history
+Outlook integration
+Thunderbird Lightning
+ AwardsDAVxâµ has won the Constantinus Award 2014 in the Open Source category.
+Â© bitfire web engineering GmbH
+Website powered by Typo3 â thank you! DAVxâµOverviewDownloadTested servicesDAVxâµ is open-sourceOrganizationsManaged DAVxâµDeploymentPricingTry it for free!SupportManualFAQForumsSupport form
+      

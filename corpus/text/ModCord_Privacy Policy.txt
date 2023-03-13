@@ -1,0 +1,106 @@
+
+We're sorry but the dashboard doesn't work properly without JavaScript enabled.
+Please enable it to continue.LegalModCord
+
+
+
+
+ Home
+
+
+ Dashboard
+
+
+ Commands
+
+
+ Support
+
+
+ Legal
+
+
+ Login
+
+
+Privacy PolicyWe really value your privacy and we place a lot of time and effort into keeping it secure, below you will find everything about the information that we store.
+Data we collect when you invite the bot to your serverWhen you invite the bot to your server, your member list (id, permission bitfield), role list (id, name, hexadecimal color), channel list (id, name), guild name and id are inserted into our caching infrastructure which uses Redis as a broker to centralize and supply information about guilds to the dashboard.
+The data is deleted once the bot is offline and is re-collected each time the bot restarts, the data cannot be accessed outside the internal infrastructure.
+When you visit our website, CDN or hastebin service (https://modcord.xyz or https://cdn.modcord.xyz or https://haste.modcord.xyz), Cloudflare, a service provider we utilise, sets an identification cookie that is used to make sure that you don't abuse or perform dangerous actions towards them or us.
+This cookie is necessary to keep our website safe from automated systems/bots/users that have bad intentions.
+You can read more on that cookie here: https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do- However, if you don't want to receive this cookie, you may use a so-called "cookie blocker" although this may impact the functionality of the website or give your various challenge messages.
+Therefore usage is at your discretion.
+In addition to this cookie, CloudFlare might save and use your data for analytical purposes, this includes, but it's not limited to: which URLs do you visit, what you or your browser downloads, where did request come from (Country, IP) and others.
+We anonymize all analytical data, so we are unable to track a single user based on the data Cloudflare collects.
+On top of cloudflare's identification cookie, we also place a session identification cookie to keep track of what account is authenticated in the browser and to be able to have you logged in for extended periods of time, however, the cookie is used internally in our infrastructure and we cannot trace actions the user performs based on their session identification cookie.
+Data we collect when you use the commands of the botWhen you use our bot (as in running commands) we store the command names that are ran together with the user id of the user and the guild id they're being executed from, for an indefinite amount of time, in order to get insights to improve our service and prevent abuses from happening.
+Additionally when a command fails in an error, we store diagnostic data (user id, guild id, message contents, client's permissions in the guild, user's permissions in the guild, type of the prefix used, name of the command, the timestamp, the settings of the guild, the permission level of the user, the command flags specified and the argument list) in order to address the issue and prevent that error from happening in future, the data is deleted manually from our infrastructure as soon as the command has been addressed a fix.
+
+Data we collect when you change the settings for your server (guild)When you change settings for your guild, and you select a role or a channel we store a representation of the data (snowflakes also known as discord ids) which is processed internally to pinpoint channels and roles specified.
+When you change the prefix, join and leave messages they are stored in plain text.
+In case of other data, we store a plain-text representaton of it.
+The data is stored indefinitely, a request can be forwarded to our support team (from guild's owner) to have your guild data removed.
+
+Data we collect when you use temporary mute and temporary ban featuresThe data we collect when you use temporary mute and temporary ban features is the id of the user banned/muted, the duration of the mute/ban and the end time of ban/mute in form of an unix timestamp, that data is removed once the user's mute/ban ends or is removed automatically using the integrated commands.
+Data we collect when you use the moderation logWhen you have the moderation log enabled and someone in server performs a moderation action within the discord interface or integrated commands, the bot is going to process the information and compile it into an embed, a copy of it it's stored as a "case" in database, the information stored in the database includes the guild id, user id that performs the action, the action performed (executor), the user that action was performed on (target), the reason, the duration, the amount and the time the action was performed at in form of an unix timestamp, depending on the action performed only available parts of that information is stored in database otherwise the field is marked as being blank.
+The data is stored indefinitely, a request can be forwarded to our support team (from guild's owner) to have your guild data removed.
+Data we collect when you use the invite logThe data we store on our infrastructure when you enable invite log is composed of every invite's existent in your guild information.
+The data is stored in the process cache of the bot, the information is cached when the feature becomes enabled or the bot restarts and it is updated when invites are created or deleted.
+The data is discarded automatically as soon as the bot goes offline or the feature becomes disabled for your guild.
+Where do we store dataIf you utilise our service or website, we store this data in an industry standard format with high security.
+At this point, we don't plan nor consider to have the data mentioned above on our platform ever to leave the EU or European economic zone.
+ContactIf you wish to get access to the data we collect on you or request deletion of such, you may contact our support team.
+Please make sure to include what data you want to receive/have deleted (please note that we will under no circumstances share or delete our abuse data - or punishment data useless is guild-wide - also note that we will remove some data points for privacy reasons of other users).
+Your data will be delivered to you in an industry standard format (JSON, XML, CSV) after a maximum of 30 business days after we received the request.
+We are not accountable for any actions taken by appropriate authorities to you as a user, we exclude ourselves from any liability and will not be responsible for any damages inflicted to you as a user in any way.
+
+Terms of Use1.
+Accepting The Terms
+These Terms of Service ("Terms", "ToS") are a legal agreement between the owners of ModCord ("we", "us", "our", the "Owners", "ModCord") and you ("you" or "your").
+By applying, logging in, inviting our bot, using our bot or otherwise interacting with our automated systems, you agree if you are the age of majority in your jurisdiction or over, that you have read, understood, and accept to be bound by the Terms, and if you are below the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms.
+At any time do we reserve the right to update these Terms without prior notification, for reasons including, but not limiting to adhering to new legal requirements, or improving your experience using our services.
+All users have five business days to adhere to these changes.
+We may notify users via broadcasts inside a social or chat platform ("announcements") when we significantly change these Terms.
+2.
+Rules of Conduct
+By using our services, you agree to follow the following conditions without any objections, except with prior written permission by us or a legal representative of us.
+You may be given one warning if you don't adhere to these conditions.
+We reserve the right to revoke or block access if you don't adhere to these conditions, violate our Terms of Service in any way, or for whatever reason we deem valid without justification.
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in the following sections are to be interpreted as described in RFC 2119.
+2.1 Essential conditions when using our services.
+a) You SHALL NOT abuse, intentionally disrupt, break, circumvent or tamper with any of our services, or attempt to do so.
+b) You SHALL NOT use data mining, robots, spiders, or similar data gathering and extraction tools on any of our services.
+c) You SHALL NOT, intentionally or unintentionally, spam any of our services.
+d) You MUST NOT use multiple accounts to access our services.
+e) Any and all materials that are part of our services excluding responses from the internal API (including, but not limited to, designs, text, graphics, pictures, video, information, applications, software, music, sound and other files, and their selection and arrangement), collectively referred to as the "Materials" are, as between the Team and you, owned by ModCord and/or its third-party licensors.
+You agree that you SHALL NOT modify, copy, distribute, frame, reproduce, republish, download, scrape, display, post, transmit, or sell in any form or by any means, in whole or in part, or otherwise exploit the Materials without our express prior written permission.
+You acknowledge that you do not acquire any ownership rights by using any of our services or by accessing any Materials posted on any of our services by us or by users, or any derivative works thereof.
+f) If you are using our logo it MUST be obtained from our CDN.
+c) Capitalization of the name SHOULD match "ModCrd".
+If any of the following conditions REQUIRE you to use this capitalization, it MUST match the example.
+d) You, and anyone MUST NOT circumvent any privacy or security measures set by us, or attempt to do so.
+3.
+Communications
+a) You agree to receive communications from us electronically or messages on a chat or social platform.
+By using any of our services, or providing information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of our services, and that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirements that such communications be in writing.
+b) You agree that your use of the Service will not include sending unsolicited marketing messages or broadcasts (i.e., spam) or infract the Terms of Service of any chat or social platform.
+Disclaimer of Warranty
+THE SERVICES AND THE MATERIALS ARE PROVIDED "AS IS" AND âAS AVAILABLEâ WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK.
+IN ADDITION, WHILE WE ATTEMPT TO PROVIDE A GOOD USER EXPERIENCE, WE CANNOT AND DO NOT REPRESENT OR WARRANT THAT THE SERVICES WILL ALWAYS BE SECURE OR ERROR-FREE OR THAT THE SERVICES WILL ALWAYS FUNCTION WITHOUT DELAYS, DISRUPTIONS, OR IMPERFECTIONS.
+THE FOREGOING DISCLAIMERS SHALL APPLY TO THE EXTENT PERMITTED BY APPLICABLE LAW.
+Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT, WILL WE BE LIABLE TO YOU OR TO ANY THIRD PERSON FOR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE OR OTHER INDIRECT DAMAGES, INCLUDING ANY LOST PROFITS OR LOST DATA, ARISING FROM YOUR USE OF THE SERVICE OR OTHER MATERIALS ON, ACCESSED THROUGH OR DOWNLOADED FROM THE SERVICE, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT THE TEAM HAS BEEN ADVISED OF THE POSSIBILITY OF THESE DAMAGES.
+THE LIMITATIONS AND DISCLAIMERS IN THESE TERMS DO NOT PURPORT TO LIMIT LIABILITY OR ALTER RIGHTS THAT CANNOT BE EXCLUDED UNDER APPLICABLE LAW.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES OR LIMITATION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, WHICH MEANS THAT SOME OF THE ABOVE DISCLAIMERS AND LIMITATIONS MAY NOT APPLY TO YOU.
+IN THESE JURISDICTIONS, KSOFT.SI'S LIABILITY WILL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.
+YOU SPECIFICALLY ACKNOWLEDGE THAT WE SHALL NOT BE LIABLE FOR USER CONTENT, INCLUDING WITHOUT LIMITATION YOUR CONTENT, OR THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD PARTY AND THAT THE RISK OF HARM OR DAMAGE FROM THE FOREGOING RESTS ENTIRELY WITH YOU.
+Indemnification
+YOU AGREE TO INDEMNIFY AND HOLD US, HARMLESS FROM AND AGAINST ANY LOSS, LIABILITY, CLAIM, DEMAND, DAMAGES, COSTS AND EXPENSES, INCLUDING REASONABLE ATTORNEY'S FEES, ARISING OUT OF OR IN CONNECTION WITH a) YOUR USE OF AND ACCESS TO THE SERVICE.
+b) YOUR VIOLATION OF ANY TERM OF THESE TERMS.
+c) YOUR VIOLATION OF ANY THIRD PARTY RIGHT, INCLUDING WITHOUT LIMITATION ANY COPYRIGHT, PROPERTY, OR PRIVACY RIGHT OR ANY THIRD PARTY AGREEMENT.
+OR d) ANY OF YOUR CONTENT OR INFORMATION IN YOUR ACCOUNT OR ANY OTHER INFORMATION YOU POST OR SHARE ON OR THROUGH THE SERVICE.
+AS USED IN THIS SECTION, "YOU" SHALL INCLUDE ANYONE ACCESSING THE SERVICE USING YOUR CREDENTIALS.
+
+ We use cookies to provide our service â learn more..
+

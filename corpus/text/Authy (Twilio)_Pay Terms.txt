@@ -1,0 +1,102 @@
+
+By selecting âPCI Mode Enabledâ, you will be able to build PCI- compliant voice applications.
+Read the Responsibility Matrix (coming soon) to learn how to build PCI-compliant voice applications.IntroductionTwilio provides Twilio <Pay&gt.
+Connectors and/or the Twilio <Pay&gt.
+Verb (further defined below and collectively called, "Twilio <Pay>") subject to these Twilio <Pay&gt.
+Terms and Conditions (âAgreement").
+In this Agreement, "we,â âus,â âourâ or âTwilioâ will refer to Twilio Inc., a Delaware corporation, headquartered at 375 Beale Street, Suite 300, San Francisco, CA 94105.
+The terms âyou,â âyourâ and âCustomerâ will refer to you.
+If you are installing Twilio <Pay&gt.
+on behalf of an organization, you are agreeing to these terms, as they pertain to your use of Twilio <Pay&gt.
+only, for that organization and promising Twilio that you have the authority to bind that organization to this Agreement and your Twilio Agreement (as defined below) (and, in which case, the terms "you" and "your" or "customer" will refer to that organization).
+When we refer to "Twilio <Pay>" in this Agreement, we are referring to your installation and/or use of two separate Twilio tools: (1) the Twilio <Pay&gt.
+Verb, which orchestrates the capture of payment details and (2) Twilio <Pay&gt.
+Connectors, which transmits transactions with the Payment Processor Provider (as defined below) of your choice on your behalf.
+Both the Twilio <Pay&gt.
+Verb and Twilio <Pay&gt.
+Connectors are Payment Card Industry Data Security Standard (PCI DSS) Level-1 compliant.
+When we refer to the "Twilio Services" in this Agreement, we mean to include our platform services, which includes all of our programs, features, functions and report formats, instructions, code samples, the TwiML markup language, on-line help files and technical documentation, our website, account portal, technical support, Add-ons as well as any upgrades or updates to any of these, made generally available by us, and includes any of our SDKs or APIs in connection with your use of our services or any cloud-based software provided to you by Twilio, and our connectivity services.
+You must review and accept the terms of this Agreement by clicking on the "Accept and Continue" button or other mechanism provided.
+PLEASE REVIEW THIS AGREEMENT CAREFULLY.
+ONCE ACCEPTED, THIS AGREEMENT BECOMES A BINDING LEGAL COMMITMENT BETWEEN YOU AND TWILIO.
+IF YOU DO NOT AGREE TO BE BOUND BY THIS AGREEMENT, YOU SHOULD NOT SELECT âPCI MODE ENABLEDâ AND CLICK THE "ACCEPT AND CONTINUE" BUTTON WITHIN THE TWILIO CONSOLE AND YOU SHOULD NOT USE TWILIO <PAY>.Relationship to Other AgreementsTo be eligible to use Twilio <Pay>, you must first register for a Twilio account and agree to the Twilio Terms of Service or a separate written agreement that you entered into with Twilio for your use of the Twilio Services (âTwilio Agreement") and click âPCI Mode Enabledâ on Twilio Programmable Voice within the Twilio Console.
+By using the Twilio <Pay>Verb and/or installing any Twilio <Pay&gt.
+Connector, you expressly agree to the terms of this Agreement, your Twilio Agreement, and any updates or modifications to either of those documents made from time to time.
+NOTWITHSTANDING ANYTHING IN THE TWILIO AGREEMENT, THIS AGREEMENT IS HEREBY INCORPORATED INTO AND SUBJECT TO THE TERMS OF YOUR TWILIO AGREEMENT, AND IN THE EVENT OF A CONFLICT BETWEEN THE TERMS OF THIS AGREEMENT AND YOUR TWILIO AGREEMENT, THE TERMS OF THIS AGREEMENT SHALL CONTROL.
+Capitalized terms not defined herein shall have the definitions provided in your Twilio Agreement.
+Twilio, via its third-party partners (each a "Payment Processing Provider"), is connecting you with payment processing services ("Payment Processing Services").
+As part of the installation process, you may also be required to accept the Payment Processing Provider's terms of service ("Payment Processing Provider's Terms").
+You acknowledge, for each Payment Processor Service you install through the Twilio Console, the Payment Processing Provider's Terms constitute a binding agreement between you and the applicable Payment Processing Provider only.
+You acknowledge that you are agreeing to the Payment Processing Provider's Terms for the applicable Payment Processing Provider.
+Twilio is not a party to that agreement between you and the Payment Processing Provider with respect to that Payment Processing Service.
+and Twilio is not responsible for that Payment Processing Service, the content therein, or any claims that you or any other party may have relating to that Payment Processing Service or your use of that Payment Processing Service.
+Your agreement to the Payment Processing Provider's Terms shall not modify or otherwise supersede the terms of this Agreement and/or your Twilio Agreement nor any other terms or policies incorporated by reference.
+The rights granted to you to use any Payment Processing Provider Services are personal to you, and are not transferable to your End Users, unless Payment Processing Provider Services are incorporated into Customer's solution.
+You may not provide a Payment Processing Service as a standalone option to your End Users or resell Payment Processing Services to others except in connection with the use of each Customer Application, in accordance with the Documentation and Twilio Acceptable Use Policy.
+You acknowledge and understand that using Twilio <Pay&gt.
+will not make you PCI-compliant, unless you agree to adhere to Twilio guidance on setting up a PCI-compliant solution (such directions may be found within the PCI Responsibility Matrix, soon to be available).Our Use of End User Personal DataYour use of Twilio <Pay&gt.
+requires Twilio to transmit certain data on behalf of your End User to the Payment Processing Provider of your choice in order to assist your End User with submitting payment for goods or services via your Application.
+This information includes, but is not limited to, the End User's credit card number, credit card expiration date, first and last name, zip code, and card verification value (CVV) (collectively, "Transaction Data").
+Transaction Data is considered personally identifiable information ("PII") or personal data ("Personal Data") under applicable data protection laws.
+It is your responsibility to understand any and all privacy regulations as they impact your End User's PII or Personal Data and safeguard it accordingly.
+By installing and using Twilio <Pay>, you grant Twilio permission to transmit information about your Application and Transaction Data to the applicable Payment Processing Provider.
+For purposes of clarity, Twilio will only transmit Transaction Data and Twilio's infrastructure will not store (except to the extent such Transaction Data may be visible within the Payment Processor Provider's dashboard, platform, account, or portal), nor otherwise use Transaction Data for any purpose whatsoever, subject to the confidentiality obligations under your Twilio Agreement and applicable law.Representations and WarrantiesYou represent, warrant, and covenant that you will obtain all necessary consents from your End Users before permitting them to submit their Transaction Data via your Application for any purpose, including those purposes other than processing payments.
+You represent, warrant, and covenant that your use of Transaction Data will be in compliance with Twilio's Privacy Statement.
+Transaction Data is a type of Customer Content, as defined in Twilio's Privacy Statement.
+You represent, warrant, and covenant you will have a privacy policy that tells your End Users what Transaction Data you access and how you will use, display, or transfer that Transaction Data.
+You will include a prominent link to your privacy policy which must be at least as protective as Twilio's Privacy Statement.
+You represent, warrant, and covenant you will use best efforts to protect and secure Transaction Data from unauthorized use or disclosure and will immediately notify Twilio of any such unauthorized breach or disclosure.
+You represent, warrant, and covenant that when your End Users use Twilio <Pay>, it is your responsibility to ensure the credentials provided to you by the Payment Processor Provider provided to Twilio can only give, when possible, or are only scoped to give, Twilio access to (a) tokenize and/or (b) charge the End User's credit card.
+You represent, warrant, and covenant that you are responsible for any Activity (defined below) initiated by you, your End Users, on your behalf, using your credentials, or your Customer Application to process a transaction for Payment Processing Services, or your use of a Payment Processor Provider's account, either through the Payment Processor Provider's dashboard, portal, or through the Payment Processor Provider's platform.
+Actions submitted by you, your End Users, or on your behalf, are referred to as "Activity", and this includes the communication of information about transactions and includes Transaction Data.
+You represent, warrant, and covenant that you alone are responsible for refunds, reversals, adjustments, the handling of disputes, chargebacks and will have to deal directly with the Payment Processor Provider in order to resolve any such issues for yourself, or on behalf of your End Users.
+You represent, warrant, and covenant you are solely responsible for, and Twilio disclaims all liability for, the provision of any goods or services sold to your End Users as part of your use of Twilio <Pay&gt.
+and the Twilio Services, and any obligations you may owe to your End Users.
+While you may agree to share some liability with your End Users or the Payment Processing Provider of your choice, you are always financially liable to Twilio for all Losses (defined below).
+You represent, warrant, and covenant that all of the information that you provide to us directly or through your Application is accurate and complete.
+You represent, warrant, and covenant that you have sufficient rights and authority to enter into this Agreement, and to grant the rights and assume all of their respective rights and obligations set forth herein.
+The person signing on behalf of its respective party represents and warrants that it has the authority to execute and bind its respective party to this Agreement.
+You represent, warrant, and covenant that, during the Term, you shall comply with the applicable law relating to its respective activities under this Agreement.
+You represent, warrant, and covenant that you have provided adequate notices and obtained the necessary permissions and consents to provide Transaction Data to Twilio for use and disclosure subject to Twilio's confidentiality obligations under your Twilio Agreement.
+You represent, warrant, and covenant that you are responsible for the security of Transaction Data, including, but not limited to, cardholder data, the Payment Processing Provider possesses or otherwise stores, processes, or transmits on your behalf and your End Users, including to the extent that this impacts the cardholder's data environment.
+As such, you agree your internal policies and procedures related to your End User engagement process and any templates used for written agreements should include provision of an applicable PCI DSS acknowledgement to your End Users.
+The method by which you provide written acknowledgment should be agreed upon between you and your End Users.
+You represent, warrant, and covenant that it is your responsibility to assist your End Users with refunds, reversals, make adjustments, handle chargebacks, etc.
+and that Twilio <Pay&gt.
+cannot support this functionality.
+You represent, warrant, and covenant your use of Twilio <Pay&gt.
+does not itself constitute authorization to Twilio to initiate the requested payment.Beta OfferingsYOU ACKNOWLEDGE YOU ARE USING TWILIO <PAY&gt.
+WHICH IS IN PUBLIC BETA MODE.
+THESE BETA OFFERINGS ARE NOT GENERALLY AVAILABLE AND MAY CONTAIN BUGS, ERRORS, DEFECTS OR HARMFUL COMPONENTS.
+ACCORDINGLY, TWILIO IS PROVIDING THE BETA OFFERINGS TO CUSTOMER "AS IS." TWILIO MAKES NO WARRANTIES OF ANY KIND WITH RESPECT TO THE BETA OFFERINGS, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+NOTWITHSTANDING ANY PUBLISHED DOCUMENTATION THAT STATES OTHERWISE, TWILIO DOES NOT WARRANT THAT THE BETA OFFERING WILL BE ERROR-FREE OR THAT THEY WILL MEET ANY SPECIFIED SERVICE LEVEL, OR WILL OPERATE WITHOUT INTERRUPTIONS OR DOWNTIME.IndemnificationYou will defend, indemnify and hold Twilio and its affiliates, its shareholders, directors, officers, employees, agents, and Payment Processor Providers harmless against any actual or threatened claim, liability, proceeding, third-party discovery demand, governmental investigation, enforcement action, damages, reasonable attorneys' fees, penalties, fines, and fees ("Losses"), imposed by any third party, payment method provider, financial services provider, and/or government entity arising out of or relating to: (i) your activities under this Agreement, (ii) your breach of this Agreement, (iii) your acts or omissions in connection with you and/or your End Users' use of Twilio <Pay>, and/or (iv) any intellectual property claims related to your provision of the Customer Application and/or the combination or integration of the Customer Application with Twilio <Pay&gt.
+or the Twilio Services, (v) your failure to properly describe or deliver goods or services, (vi) to comply with your legal or contractual obligations to your End Users, or (vii) security breaches involving the loss of any End User's Transaction Data, Personal Data (as defined by the E.U.
+Global Data Protection Regulation), or Personally Identifiable Information (as defined under applicable law) ("Claim") as the above pertains to Twilio <Pay>.
+The Payment Processor Provider may deduct any amounts from your account, as applicable, to cover its Losses or require you to immediately pay such Losses to the Payment Processor Provider.
+It is your responsibility to review information about the transactions being processed by you, your End Users, or on your behalf via the Payment Processor Provider's dashboard, portal, platform, or account, as applicable.
+We and our affiliates will cooperate as fully as reasonably required in the defense of any Claim, at your expense.
+We reserve the right, at your expense, to retain separate counsel for ourselves in connection with any Claim or, if you have not responded reasonably to the applicable Claim, to assume the exclusive defense and control of any Claim in which you are a named party and that is otherwise subject to indemnification under this section.
+You will pay all costs, reasonable attorneys' fees and any settlement amounts or damages awarded against us in connection with any Claim.
+You will also be liable to us for any costs and attorneys' fees we incur to successfully establish or enforce our right to indemnification under this Section.Limitation of LiabilityTwilio is not responsible for the acts or omissions of any Payment Processing Provider in providing services to you or your End Users, or for any non-compliance by a Payment Processing Provider with the terms of your Payment Processing Provider's Terms.
+Twilio is also not responsible for your obligations to your End User (including to properly describe and deliver the goods or services being sold to your End Users).
+You are solely responsible for, and Twilio expressly disclaims all liability for, your compliance with applicable laws and obligations related to your provision of the goods or services to your customers, or receipt of charitable donations.
+This may include providing customer service, notification and handling of charges, chargebacks, refunds, reversals, or consumer complaints, provision of receipts, registering your legal entity, or other actions not related to the Twilio Services or Twilio <Pay>.
+Furthermore, Twilio is not responsible for the following, but is not limited to, network connectivity problems between Twilio and the Payment Processing Provider, any hosting service provider's connectivity issues, or failure to process any transactions by Twilio and/or the Payment Processing Provider.
+
+Other General Legal Terms
+TermThe term of this Agreement will begin when you install Twilio <Pay&gt.
+and will end when terminated by you or by Twilio, as described in this Agreement.Termination and SuspensionYou may terminate this Agreement at any time, for any or no reason, by immediately ceasing your use of Twilio <Pay>.
+However, your obligations under your Twilio Agreement for all other Twilio products other than Twilio <Pay&gt.
+shall continue to remain in effect.
+And if you commence using Twilio <Pay&gt.
+again, you are consenting to this Agreement.
+Twilio may, in its sole discretion, suspend or terminate this Agreement immediately (a) if we suspect you are in breach of this Agreement or your Twilio Agreement (including any terms or policies incorporated by reference).
+(b) if you are the subject of any voluntary or involuntary bankruptcy or insolvency petition or proceeding.
+(c) if Twilio determines that you are engaged in activity that is suspected or actually fraudulent, illegal or otherwise malicious or fails to comply with applicable law.
+(d) causes a significant risk of reputational harm to Twilio.
+or (e) to prevent harm to the security, stability, availability, or integrity of Twilio.SurvivalAll provisions giving rise to continuing obligations will survive termination of this Agreement.
+As stated above, this Agreement governs your use of Twilio <Pay>, so the termination of this Agreement will not immediately trigger termination of your Twilio Agreement.
+All obligations in your Twilio Agreement will only be terminated in accordance with its terms and conditions.
+Termination of your Twilio Agreement will cause this Agreement to automatically terminate.Entire AgreementThis Agreement, your Twilio Agreement, and the terms and policies incorporated by reference constitute the entire agreement between you and Twilio with respect to Twilio <Pay>.
+Your Twilio Agreement sets forth your exclusive remedies with respect to Twilio <Pay>.
+If any provision or portion of this Agreement is held to be invalid or unenforceable under applicable law, then it will be interpreted to accomplish the objectives of such provision to the greatest extent possible, and all remaining provisions will continue in full force and effect.

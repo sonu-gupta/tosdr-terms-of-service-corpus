@@ -1,0 +1,214 @@
+
+
+The website
+
+
+
+
+Codebase
+
+
+
+
+Communication
+
+
+
+
+Surveys
+
+
+
+
+Foreman debug archives
+
+
+
+
+Your choices
+
+
+
+
+Your rights
+
+
+ Foreman Privacy Policy This document describes the data Foreman collects about you, why it is
+collected, what is done with it, and your options for how itâs processed.
+The Foreman project does not share data with 3rd parties, except for hosting
+requirements (e.g.
+GitHub, YouTube) as detailed below, or when required to by
+law. Types of data we collect 
+Contact details 
+Name
+Email address
+
+
+Data that identifies you 
+IP addresses
+Browser UserAgent strings
+Debug archives
+Answers to survey questions
+
+
+ How and why we use your data The website The Foreman website is a static site which does not track, collect, store
+information or set cookies.
+There is no account for the website itself.
+The
+webserver (Apache) logs will contain IP addresses, timestamps, and UserAgent
+strings - these are log-rotated and deleted after 4 weeks.
+The website also uses Google Analytics, but we only collect anonymous data.
+IP
+addresses are anonymised, and we do not use User-ID, or any linked
+Google product (e.g.
+AdWords).
+Google Analytics data is deleted after 26 months
+(the default for Google Analytics).
+The webserver logs and Google Analytics are used to produce aggregated
+statistics about the community, such as popularity of different browsers,
+operating system packages, plugins, etc.
+
+Legal basis for this data usage: Legitimate interest
+ Website videos The website does embed videos from YouTube, FOSDEM, and Slideshare - see the
+links below for details:
+
+YouTubeâs privacy policy
+FOSDEM homepage
+SlideShare (LinkedIn) privacy policy
+
+for details.
+These videos do not autoplay. Website downloads The downloads from our website are cached by Fastly, a CDN provider.
+This may
+also log your IP address - see Fastlyâs privacy policy for details.
+We donât currently use this data at all, but we may use it for aggregated
+statistics in the future. Codebase The Foreman community use GitHub to manage the code that
+comprises the Foreman project.
+Refer to GitHubâs privacy policy for
+details on how GitHub handles the data you post there.
+Commit messages can contain names and email addresses.
+You are free to use
+psuedonymous data for commit messages.
+We do prefer a working contact mail in
+case of needing to contact contributors to the codebase, but it is not
+mandatory.
+We also use non-identifiable data from the codebase to provide aggregated
+statistics such as average time to merge, number of open pull requests, etc.
+
+Legal basis for this data usage: Legitimate interest, consent
+
+The Foreman community also runs a self-hosted bug tracker using the
+Redmine software.
+When you sign up for a Redmine
+account, you provide us with an email address and a name.
+Externally, we only use this email within Redmine to contact you about bugs you
+have reported or subscribed to.
+You have full control over what emails are sent
+from your Redmine account preferences.
+Email addresses can also be linked to GitHub commits (see above) if the emails
+match, or manually by an admin (on request).
+This enables Redmine to
+automatically attribute issue changes to your user, based on the public commit
+data from the GitHub repositories (e.g.
+closing it when you fix an issue).
+This
+populates your Redmine âactivityâ page, which is public.
+The bug tracker also uses cookies to store your session.
+We also use the bug tracker data to provide aggregated statistics such as
+number of open/closed bugs, average time to close a bug, etc.
+
+Legal basis for this data usage: Legitimate interest, consent
+ Communication The Foreman project maintains two public IRC channels on
+libera.chat, refer to libera.chatâs privacy
+policy for details on how they handle your data.
+The Foreman community uses a self-hosted forum using the
+Discourse software.
+When signing up for a Discourse
+account, you provide a name and email address - and in addition we store the IP
+address of your most recent connection.
+The email address is only used to send
+you updates to your forum topics, personal messages from other users, and
+digest summaries.
+You have full control over the emails sent from your
+Discourse account preferences.
+The forum also uses cookies to store your
+session.
+We also use the IP addresses and public post data to provide aggregated
+statistics about the forum community, such as posts-per-month, user engagement,
+etc.
+We also use the IP addresses to help identify sock
+puppeting and spam
+accounts.
+
+Legal basis for this data usage: Legitimate interest, consent
+ Surveys The Foreman community runs a survey each year.
+Completing the survey is opt-in,
+and providing a contact email address in the survey is optional.
+Such
+addresses are stored until the survey analysis is complete, and then deleted
+from the raw survey data before publication.
+The survey data is used to gain
+understanding of the community, and aggregated statistics based on the survey
+results are published each year.
+
+Legal basis for this data usage: Legitimate interest, consent
+ Foreman debug archives The Foreman project provides a tool called foreman-debug which
+collects logs from your Foreman server and uploads it to a secure location in
+our infrastructure.
+Use of this tool is entirely voluntary (it is never run
+automatically), and the data is used by our developers to assist users in
+debugging complex problems.
+The data is not used for any analysis or
+statistics, is only accessible to a small number of the Foreman developers, and
+is deleted regularly.
+
+Legal basis for this data usage: Consent
+ Your rights regarding your data Your choices You can choose not to provide us with personal data Using a VPN, Tor, or other IP / UserAgent masking service will not affect your
+use of the project website, as it is entirely static.
+For Redmine &amp.
+Discourse,
+we do not mandate use of real names, and using pseudonyms will not affect the
+services. Your accounts on our services Your Redmine &amp.
+Discourse accounts contain options to control what emails are
+sent to you.
+3rd party services such as GitHub retain
+their own policies and privacy options. Your rights Where the EU General Data Protection Regulation 2016/679 (âGDPRâ) applies to
+the processing of your personal data, especially when you access the website
+from a country in the European Economic Area (âEEAâ), you have the following
+rights, subject to some limitations, against the Foreman Project:
+
+The right to access your personal data
+The right to rectify the personal data we hold about you
+The right to erase your personal data
+The right to restrict our use of your personal data
+The right to object to our use of your personal data
+The right to receive your personal data in a usable electronic format and transmit it to a third party (also known as the right of data portability)
+The right to lodge a complaint with your local data protection authority
+
+If you would like to exercise any of these rights, you may do so by contacting
+the Foreman Project at contact us
+or on IRC.
+Please understand, however, the rights
+enumerated above are not absolute in all cases, especially in regards to the
+right to erase your data:
+
+Git commits will not be rewritten 
+contributing to the codebase is opt-in,
+providing personally identifying information in commit messages is a further opt-in
+we have a legitimate interest in contacting contributors and showing IP provenance
+
+
+Redmine &amp.
+Discourse data which is public (i.e forum posts, bug comments etc) will be pseudonymised 
+Your account name, handle, and email address will be scrambled, removing your personal data from the site
+Posts are not removed, as we have a legitimate interest in retaining the history of discussions about our project
+
+
+ Contacting us If you have any questions about this policy or our use of your data, please
+feel free to contact us or on
+IRC. Changes to this Privacy Statement Foreman reserves the right to update this policy from time to time.
+Material
+changes will be posted to the Announcements
+list and posted to
+the front page of the website.
+This policy was last
+updated on 28th May 2018.

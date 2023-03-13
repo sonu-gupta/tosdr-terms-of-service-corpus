@@ -1,0 +1,271 @@
+
+        IntroductionFrom enterprise businesses with global presence to startups experiencing growth, Jobvite has proven year over year to deliver a best-in-breed recruiting platform to help companies attract the right talent for their workforce.
+LinkedIn, Hulu, Wayfair, Dollar Shave Club and many more of the worldâs top companies have benefited from Jobviteâs modern approach to sourcing top talent.
+Jobvite is focused on providing a multi-faceted recruiting solution that is integral for enabling growth in businesses while remaining committed to strong information security practices.
+This white paper is intended to provide a transparent view of Jobviteâs approach to information security and privacy governance.Security &amp.
+ComplianceJobviteâs leadership team recognizes the importance of fostering innovation that is built on the foundation of customer trust which is why Jobvite is committed to building solutions that aim to safeguard your organizationâs data.
+This approach of secure engineering is combined with an enterprise security program that is led by a dedicated team with oversight from legal and senior leadership.
+ Jobviteâs security program and practices have been independently verified against the SOC 2 framework.
+The security strategy and compliance initiatives at Jobvite are directed by a Vice President at Jobvite who is responsible for overseeing the Security and Technology teams.
+This leadership effort is further supported by Jobvite's Head of Security and Global Security Operations Center team members.What Type of Data Do We Collect, Receive, Process and Store?The Jobvite Recruitment Platform receives, processes and stores personal information captured in resumes submitted by candidates seeking employment opportunities.
+For complete details about the personal information collected, received, processed and stored, please visit our privacy notice at https://www.jobvite.com/privacy-policy/.
+Jobvite also stores information about your organizationâs job opportunities that are posted online, and other workforce program information used to administer recruiting activities on the Jobvite Recruitment Platform.
+Jobvite is committed to educating our customers, prospects, applicants, candidates, and the general market about our efforts in the artificial intelligence (AI) and machine learning (ML) space.
+The industry is moving in the direction of more automation driven by AI and ML, resulting in increased activity that is guided and/or executed based on pre-defined workflows and data models.
+This advancement will provide amazing productivity increases, allowing customers to create and build relationships with many more individuals in each phase of the sourcing, recruiting, hiring, and onboarding journey.
+For more information, please visit our page on Jobviteâs commitment to transparency and ethical behavior.Jobvite Assurance &amp.
+Privacy Programs
+SOC 2 Type 2
+ A Service Organization Report (SOC 2 Type 2 report) is designed to evidence a service provider's internal organizational controls with respect to key governance areas, including how a company safeguards customer data and how well those controls are operating over a span of time.
+SOC 2 reports provide a customer with a verified external opinion that can assist them with evaluating the risks associated with procuring third-party technology service like Jobvite.
+ Jobviteâs SOC 2 Type 2 report has been issued by CG Compliance - an independent third-party auditor.
+
+Cloud Security Alliance - Consensus Assessments Initiative Questionnaire
+ Jobvite has joined the Cloud Security Allianceâs (CSA) mission to promote best practice in the provision of security assurance within Cloud Computing environments by completing the Consensus Assessments Initiative Questionnaire (CAIQ).
+CAIQ offers an industry-recognized method to communicate which security controls exist in IaaS, PaaS, and SaaS service provider organizations, providing security control transparency through a standardized document.
+The CAIQ is organized into 16 governing &amp.
+operating domains divided into âcontrol areasâ within CSAâs Controls Matrix structure, including:
+
+Application &amp.
+Interface Security
+Audit Assurance &amp.
+Compliance
+Business Continuity Management &amp.
+Operational Resilience
+Change Control &amp.
+Configuration Management
+Data Security &amp.
+Information Lifecycle Management
+Datacenter Security
+Encryption &amp.
+Key Management
+Governance and Risk Management
+Human Resources
+Identity &amp.
+Access Management
+Infrastructure &amp.
+Virtualization Security
+Interoperability &amp.
+Portability
+Mobile Security
+Security Incident Management, E-Discovery &amp.
+Cloud Forensics
+Supply Chain Management, Transparency and Accountability
+Threat and Vulnerability Management
+
+The Jobvite Security &amp.
+Compliance information package which includes the latest SOC 2 Type 2 report and completed Cloud Security Alliance â Consensus Assessments Initiative Questionnaire can be requested by contacting Customer Support or Sales.
+For contact information, please visit https://www.jobvite.com/contact-us/.
+
+Privacy Shield
+ For personal information that is received that originates in the European Union, Jobvite has certified its compliance with the EU-U.S.
+Privacy Shield framework as set forth by the U.S.
+Department of Commerce regarding the collection, use, and retention of personal information from European Union countries. &nbsp.
+Jobvite will adhere to all Privacy Shield Principles when transferring and processing personal information from the EU to the U.S.
+To verify Jobviteâs participation in the EU-U.S.
+Privacy Shield program, please visit: www.privacyshield.gov.
+
+GDPR &amp.
+CCPA
+ Jobvite complies with the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) and supports our customersâ compliance with the GDPR and CCPA.
+As a provider of a recruitment platform, Jobvite is primarily a service provider under the GDPR and CCPA.&nbsp.
+Jobvite has no direct relationship with the individual employees and jobseekers whose personal data it processes on our behalf of our customers.
+Individuals applying for jobs with employers that are Jobvite customers have an account set up under their email address that associates all applications for that individual with that email address.
+The individual can access their account at the Site and transmit requests to the employers to correct, amend, or delete inaccurate data in an application.
+The employer is responsible for complying with the individualâs request.
+If you are an employee or jobseeker and would no longer like to be contacted by an employer or employers, please contact them directly to resolve your concern.
+Customers that have an active Master Services Agreement with Jobvite are eligible to request a Data Privacy Addendum.
+A copy of the Jobvite Data Privacy Addendum can be requested by contacting Customer Support or Sales.
+For contact information, please visit https://www.jobvite.com/contact-us/.
+
+Customer Security Reviews &amp.
+Assessments
+ Jobvite aims to operate in a transparent manner and strives to provide assurance about its security posture through supporting customerâs vendor due diligence processes.
+If your organization would like to conduct a security review or assessment, you may submit your security questionnaire or third-party vendor assessment to our Jobvite Security team for review by contacting Customer Support or Sales.
+For contact information, please visit https://www.jobvite.com/contact-us/.Jobvite Data Security
+Data Encryption (In Transit and At Rest)
+ All customer information, including Personally, Identifiable Information (PII) that is transmitted between external networks (i.e.
+a userâs internet browser or third-party APIs) and the Jobvite Recruitment Platform is done exclusively over HTTPS transport layer security (TLS) encrypted connections.
+Jobvite supports the latest open source and commercial internet browsers (i.e.
+Google Chrome, Apple Safari, Microsoft Edge, and Mozilla Firefox), that supports secure cipher suites to encrypt all traffic in transit, including use of TLS 1.2 transport level encryption protocols.
+All customer information, including Personally Identifiable Information (PII) that is stored in Jobviteâs service delivery environment, is protected at rest using AES-256-bit encryption.
+
+Key Management
+ Jobvite uses AWS Key Management Service (KMS) to manage the creation and lifecycle of private encryption keys and enables the Jobvite APIâs to leverage those keys to perform encryption, decryption and reâencryption operations on customerâprovided data as needed.
+
+Data Retention
+ Jobviteâs data retention for the Jobvite Recruitment Platform period is a rolling 6 months for application logs and system logs.
+Jobvite customers can configure data retention policies specific to their needs in the platform using built-in product functionality based on the geographic regions to meet varying privacy regulations.&nbsp.
+Outside of these customer-defined retention policies for personal data, customer data in the Jobvite Recruitment Platform is stored for the duration of the service contract between the customer and Jobvite.
+
+Data Deletion
+ The Jobvite Platform provides built-in product functionality for customers to delete personal data records using retention policies, as described above, or perform delete operations on-the-fly.&nbsp.
+These tools provide customers the ability to comply with their regulatory obligations independent of Jobvite.
+Jobvite does not delete customer data or configure retention policies for customers during an active service term.
+Jobvite initiates the deletion of all customer data from the production systems 30 days following contract termination so that such data is deleted by 45 days after contract termination.
+Data contained in data backups is deleted over the course of the standard cycling of data backups so that such backup data will all be deleted by 200 days following contract termination date unless otherwise directed by customer.
+Deletion means removing or obliterating all customer personal data such that it cannot be recovered or reconstructed from Jobvite databases, systems or other repository.
+Confirmation that data has been deleted is performed by the Jobvite engineering and operations team.
+Upon request, Jobvite shall provide written certification to customer that it has been completed.
+
+Jobviteâs Multi-Tenant Environment
+ The Jobvite Recruitment Platform is a Software-As-A-Service (SaaS) platform that is based on a multitenant architecture that logically separates customer data through access control that is based on company, users, and roles.
+Our application has extensive access control lists (ACL), role-based access control (RBAC), authentication, and authorization mechanisms that allow data access for authorized users only.
+All customer accounts are assigned with a primary key that relates to the ability to access data or services.
+The primary key is used in combination with the user ID to create a unique GUID which will allow access to only services and data that match the customer/user GUID.Jobvite Infrastructure and Network Security
+Cloud Hosting Platforms
+ Jobvite uses Amazon Web Services (AWS) as itâs cloud hosting provider for the Jobvite Recruitment Platform.&nbsp.
+AWS is architected to be the most flexible and secure cloud computing environment available today - providing a broad set of global cloud-based services including compute, storage, databases, analytics, networking, developer tools, management tools, security and enterprise applications.
+AWS core infrastructure is built to satisfy the security requirements for the military, global banks, and other high-sensitivity organizations.
+This is currently backed by a deep set of cloud security tools, with over 230 security, compliance, and governance services and features.
+AWS currently supports over 90 security standards and compliance certifications.
+
+Physical Security
+ Jobvite uses Amazon Web Services (AWS) - US-East1, US-East2, and US-West2 regions.&nbsp.
+Jobvite does not have physical access to the AWS data centers.&nbsp.
+For more information on AWS data centers, please visit https://aws.amazon.com/compliance/data-center/.
+For our corporate offices â where Jobviteâs employees work, access into the building and offices are controlled using electronic access control cards and video surveillance monitoring.
+All visitors are validated with proper identification for sign-in and must wear a visitor identity badge.
+
+Logical Access Control
+ Jobvite maintains access control policies consistent with best practices.
+Access to corporate systems used to support Jobvite customers is required for the customer support teams to troubleshoot and resolve customer issues that are communicated via the support channels.
+Technical team members require access to resolve escalated customer issues and provide technical support for the environment.
+The level of access is dependent on the role and responsibilities associated with an internal function and is granted using a role-based access control model.
+
+Intrusion Detection and Prevention
+ Jobvite's Security Operations Center (SOC) monitors (24*7*365) network, application and system logs.
+The SOC team is responsible for communicating all automated alerts/alarms for security-related events and incidents in a timely manner.
+Jobvite uses various commercial and open source network and host intrusion detection services such as Cloudflare for protecting and securing the Jobvite Recruitment Platform against denial-of-service attacks and abusive bots, Suricata for network intrusion detection and Wazuh for host intrusion detection on servers and workstations.
+Jobvite monitors its AWS GuardDuty service for managed threat detection service where unusual activity is monitored and alerted our 7x24 Security Operations Center.
+Jobviteâs production application is hosted in Amazon Web Services with load balancing to help detect and automatically mitigate certain network-based attacks, such as DDos.
+Our VPC contains auto-scaling instances to help distribute the attack load and reduce the impact to services.
+
+Remote Access
+ Only authorized Jobvite employees are permitted to access the production Jobvite Recruitment Platform via a restricted bastion hosts with a secure VPN session that is authorized successfully using multi-factor authentication.
+We log all access to all accounts by IP address and monitor access logs for unusual activity via our 7x24 Security Operations Center.Jobvite Business Continuity and Disaster Recovery
+High Availability
+ The Jobvite Recruitment Platform is hosted in AWS USâEAST region where the data center is in Virginia, US.
+The USâEAST Region is comprised of five (5) Availability Zones (AZ) where Jobviteâs platform is striped across four (4) of those available zones.
+Jobvite utilizes an N+1 configuration â using load balancers across the web, application, resource server and database tiers.
+ All database architectures are in a master-slave architecture to provide the highest availability and performance.
+Customers that have an executed master services agreement with Jobvite may contact your Jobvite sales/support team to request for the Jobvite Security &amp.
+Compliance information package which contains a high-level architecture diagram of the Jobvite Recruitment Platform in Amazon Web Services.
+
+Disaster Recovery
+ All customer data in the production Jobvite Recruitment Platform is backed up via full instance/system images weekly, daily, and DB transaction log backups every 15 minutes.
+All backup files are stored in Amazon S3 Storage, encrypted prior to backup, encrypted at rest, with access logging enabled.
+Backups are test restored during the monthly maintenance window.
+
+Business Continuity
+ Jobvite performs annual test and tabletop tests for business continuity across the various teams that provides support and service the Jobvite Recruitment Platform and its customers.Jobvite Corporate Security
+Background Checks
+ Jobvite performs various background checks such as criminal and reference checks on all new employees and contractors that is subject to approval prior to employment by Jobvite management.&nbsp.
+Depending on the role of the employee, background checks will be performed every 18 months after start of employment.
+
+Employee Onboarding &amp.
+Offboarding
+ Jobvite follows a detailed checklist approach when onboarding new employees into the organization (providing them with the necessary access to systems to do their job and security awareness training) and offboarding employees leaving the organization (ensuring all respective accounts have been disabled within 24 hours of termination).
+
+Information Security Policies
+ Jobvite maintains information security policies that are updated on an ongoing basis and reviewed annually for business and technical operations alignment for the organization.
+The information security policies follow industry security frameworks and best practices from ISO 27001, NIST and PCI-DSS.&nbsp.
+Customers that have an executed master services agreement with Jobvite may contact your Jobvite sales/support team to request for the Jobvite Security &amp.
+Compliance information package which includes a redacted version of information security policies.
+
+Security Training
+ All new employees receive onboarding and systems training, including environment and access control setup, formal security awareness training, security policies review, company policies review, and corporate values.
+In addition, all engineers receive formal security training on OWASP Top 10 and software development topics focused on secure software development lifecycle process.
+Every year, all employees participate in the mandatory annual security awareness training.
+Jobvite uses the KnowBe4 enterprise security awareness training platform for security curriculum roll-out and tracking.
+
+Access Control &amp.
+Multi-Factor Authentication
+ Jobvite uses access control list and role-based access control groups to allow only authorized Jobvite employees to data systems on an as-needed basis.&nbsp.
+Access to various SaaS systems that Jobvite uses to manage day to day activities in supporting our customers is authenticated single-sign-on system with multi-factor authentication.
+Access is logged and monitored for unusual activity via our 7x24 Security Operations Center.
+
+Mobile Device Management
+ Care and security of mobile devices such as laptops, tablets and smartphones, whether provided by the organization or the individual for business use is subject to the Jobvite Corporate IT Mobile Device Management solution which enables Jobvite to protect and secure corporate resources and data, and from different devices.&nbsp.
+Jobvite utilizes Microsoft Intune â a cloud-based service that focuses on mobile device management (MDM) and mobile application management (MAM).&nbsp.
+It integrates with Microsoft Office 365 and Azure Active Directory (Azure AD) to control who has access, and what they have access to, and Azure Information Protection for data protection.
+
+Anti-Virus / Anti-Malware Protection
+ Jobvite is responsible for protecting the organizationâs infrastructure from virus and malware by using firewalls, anti-virus, spam filtering, software installation and scanning, vulnerability management, user awareness training, threat monitoring and alerts, technical reviews and malware incident management.
+Jobvite utilize commercial enterprise endpoint protection solutions from industry leading providers such as Sophos and open source projects such as ClamAV.
+
+Third-Party Vendor Management
+ Jobvite reviews our third-party vendors and sub-processors on an annual basis or when there are significant changes that may impact the integration of their services with the Jobvite Recruitment Platform.&nbsp.
+We review our third-party vendorâs SOC2/ISO certifications and relevant security information to ensure they are in alignment with our security practices.Jobvite Product Operations
+Infrastructure-As-Code
+ Jobvite follows an Infrastructure-As-Code methodology to reduce the administration of manual tasks in building, updating and removing infrastructure.
+This allows Jobvite to be nimble in scaling up the infrastructure to meet application performance and uptime commitments and to be auditable where infrastructure changes to be repeatable with low error of misconfigurations.
+
+Software Development Lifecyle
+ Jobvite follows a software development lifecycle to design, develop and test high quality product features to be implemented in the Jobvite Recruitment Platform.&nbsp.
+The Jobvite Product Management and Engineering team work closely together to produce high-quality features that meet or exceeds customer expectations, reaches completion within times and cost estimates.&nbsp.
+Jobvite follows a scrum process for delivering new features and improvements into the production Jobvite Recruitment Platform.
+
+Change Management
+ Jobvite follows a standard change management process using Atlassian JIRA workflows that are aligned with the Jobvite software development lifecycle and software release process.
+All change requests are reviewed and approved by Jobvite subject matter expects.
+Changes are performed in non-production environments first.&nbsp.
+Once the change has been successfully verified in the non-production environment, the change is then scheduled to be performed in the production environment during the scheduled maintenance window.
+Jobvite follows a scrum process where team retrospectives are performed at the end of each sprint to review operational effectiveness and quality of delivery.
+
+Risk Management
+ Jobvite leverages an informal risk management program to identify, assess, mitigate, report, and monitor risks.
+The Jobvite Product and Engineering teams reviews and evaluates the risks identified by the Security Team at least bi-annually.
+The risk management program encompasses the following phases:
+
+Identify â The identification phase includes listing out risks (threats and vulnerabilities) that exist in the environment.
+This phase provides a basis for all other risk management activities.
+Assess â The assessment phase considers the potential impact(s) of identified risks to the business and its likelihood of occurrence and includes an evaluation of internal control effectiveness.
+Mitigate â The mitigate phase includes putting controls, processes and other physical and virtual safeguards in place to prevent and detect identified and assessed risks.
+Report â The report phase results in risk reports provided to managers with the data they need to make effective business decisions and to comply with internal policies and applicable regulations.
+Monitor â The monitor phase includes Jobvite Compliance performing monitoring activities to evaluate whether processes, initiatives, functions and/or activities are mitigating the risk as designed.
+
+
+Incident Management
+ Jobvite follows an incident management process to quickly restore ânormalâ service operations as quickly as possible, minimizing any adverse impact on business operations or our customers.
+Jobvite's Security Incident Management process is formalized and defines how to properly escalate and respond to incidents.
+
+Scheduled Maintenance Windows
+ Jobvite follows a standardized change management process in which maintenance of the Jobvite Recruitment Platform is performed during a pre-defined maintenance window as agreed upon in the Master Service Agreement with customers.
+As part of our standard scheduled maintenance, we do our best in minimizing downtime in the scheduled maintenance window where servers and services are taken out of operation without impacting availability.
+
+Uptime Monitoring
+ Jobvite uses various commercial and open source tools to monitor the performance and availability of the Jobvite Recruitment Platform from an infrastructure and application perspective.&nbsp.
+Jobvite maintains an average 99.9% uptime.
+Customers can view platform status by visiting: http://status.jobvite.com.Jobvite Vulnerability Management Programs
+Penetration Tests &amp.
+Network Scans
+ Jobvite performs web application penetration and exploitation tests on the Jobvite Recruitment Platform by using a third-party vendor called BSI AppSec using various automated and manual testing techniques covering:
+
+Authentication
+Authorization
+Session Management
+Input/output Validation
+Configuration
+Sensitive Data Handling
+Privilege Escalation
+Error Handling
+Logical Vulnerability Checks
+Business Logic
+
+Jobvite also uses an integrated softwareâasâaâService platform for dynamic application security testing (DAST) from WhiteHat Security services to continuously scan the Jobvite Recruitment Platform infrastructure for security misconfigurations or weaknesses that are acted upon using industry standard risk/severity matrixes and response times.
+The OWASP Top Ten framework is used to provide automatic detection and assessment of code changes and alerting for newly discovered vulnerabilities.
+Jobvite also uses open source security tools like OpenVAS (Open Vulnerability Assessment Scanner) and OWASP Zed Attack Proxy (ZAP) to perform security scans.
+
+System &amp.
+Application Patching
+ Jobvite proactively monitors various trusted sources for common vulnerabilities and exposures (CVE) for securing the operating system and application services that support the Jobvite Recruitment Platform.
+As part of the Jobvite Risk Management process, as new vulnerabilities and exposures are discovered and announced Jobvite follows a change management process for reviewing and rolling-out system and application patches for the Jobvite Recruitment Platform.
+All patches are tested in our testing environment prior to patching in our production environment.
+Jobvite also uses tools such as AWS Inspector to automatically assesses the operating system and application services for exposure, vulnerabilities, and deviations from security best practices.
+
+Responsible Vulnerability Disclosure
+ If you would like to report a vulnerability or have any security concerns with Jobviteâs Recruitment Platform or services, please contact security@jobvite-inc.com*protected email*.
+We take all disclosures seriously.
+Once disclosures are received, our security team will verify the vulnerability and may contact you to further collaborate on the findings.&nbsp.
+The security team will work with our product management and engineering services team on the disclosure for resolution using our software development lifecycle and change management process.

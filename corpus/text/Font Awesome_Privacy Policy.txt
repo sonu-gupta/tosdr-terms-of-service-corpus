@@ -1,0 +1,92 @@
+
+         Home Start Icons Docs for Web Docs for Desktop Plans Blog Support Sign In You're signed in as Account Details Font Awesome CDN Download Support Sign Out Font Awesome Privacy Policy Last updated on May 25, 2018 Jump toâ¦ What is Font Awesome? How does Font Awesome collect data about me? What data does Font Awesome collect about me, and why? How can I make choices about data collection? Where does Font Awesome store data about me? Does Font Awesome comply with the EU General Data Protection Regulation? Where can I see, change, and erase data about me? Does Font Awesome share data about me with others? How can I contact Font Awesome about privacy? How can I find out about changes? What is Font Awesome? Font Awesome is the company home of Font Awesome Icons, libraries of free-to-use and paid icons.
+As a company, Font Awesome publishes icons on its website, fontawesome.com, as well through content delivery networks for use on customers' websites.
+Font Awesome sets only its own privacy policy, not the privacy policies of Font Awesome customers, affiliates, or others who use Font Awesome icons.
+You should ask all of those involved in administering and hosting websites that you use for their privacy policies. How does Font Awesome collect data about me? Font Awesome collects data about you:
+
+when you browse fontawesome.com
+when you use Font Awesome's content delivery networks, or visit websites that do
+when you create and use an account on fontawesome.com
+when you buy products and services from Font Awesome through the fontawesome.com web store
+when you contact Font Awesome by e-mail for support or other help
+
+Font Awesome does not buy or otherwise receive data about you from data brokers. What data does Font Awesome collect about me, and why? Font Awesome collects data about visits to fontawesome.com.
+When you visit fontawesome.com, whether you have an account or not, the site uses cookies, server logs, and other methods to collect data about what pages you visit and when.
+Font Awesome uses data about how you use the website to:
+
+optimize the website, so it's quick and easy to use
+diagnose and debug technical errors
+defend the website from abuse and technical attacks
+associate your browsing session with an affiliate, if you click through an affiliate's referral link
+associate your account with an affiliate, if you buy after clicking through an affiliate's referral link
+compile statistics on icon popularity
+compile statistics on the kinds of software and computers visitors use
+
+Font Awesome usually stores data about how you use the forum in identifiable form for just a few weeks.
+In special circumstances, like extended investigations about technical attacks, Font Awesome may preserve log data longer, for analysis.
+Font Awesome stores aggregate statistics about use of the website indefinitely, but those statistics don't include data identifiable to you personally. Font Awesome collects data about use of its content delivery networks.
+Content delivery networks are worldwide networks of computer servers that make sure everyone online can download files quickly from servers near to them.
+Font Awesome uses content delivery networks to serve files for its free and Pro icons.
+Many websites using Font Awesome icons have visitors download the icons from Font Awesome's content delivery networks.
+When you visit a website that uses a Font Awesome content delivery network to load icons, Font Awesome collects data about what icon files you download and when.
+Font Awesome uses data about how you use Font Awesome content delivery networks to:
+
+optimize the content delivery networks, so website visitors can download files quickly
+diagnose and debug technical errors
+defend the content delivery networks from abuse and technical attacks
+calculate fees for Font Awesome Pro customers
+compile statistics on icon popularity
+compile statistics on the kinds of software and computers visitors use
+
+Font Awesome usually stores data about how you use content delivery networks in identifiable form for just a few weeks.
+In special circumstances, like extended investigations about technical attacks, Font Awesome may preserve log data longer, for analysis.
+Font Awesome stores aggregate statistics about use of content delivery networks indefinitely, but those statistics don't include data identifiable to you personally. Font Awesome collects account data.
+To buy Font Awesome Pro, access Pro files, and configure Pro services like content delivery networks, you need a fontawesome.com account.
+To sign up for an account, Font Awesome requires your name, your company's name, if any, and your e-mail address.
+Font Awesome uses your account data to identify you on fontawesome.com.
+Font Awesome uses your e-mail address to:
+
+announce new versions of Pro icons, software, and services
+advertise new Font Awesome products and services
+send you alerts about Pro services
+reset your password and help keep your account secure
+contact you in special circumstances related to your account
+contact you about legal requests
+
+Font Awesome stores your account data as long as your account remains open. Font Awesome collects payment card data.
+To buy licenses and sign up for Font Awesome Pro, Font Awesome requires your payment card data.
+Font Awesome does not collect or store enough information to charge your card itself.
+Rather, Font Awesome's payment processors collect that data on Font Awesome's behalf, and gives Font Awesome security tokens that allow Font Awesome to create charges and subscriptions.
+Font Awesome uses your payment card data only to charge for Font Awesome products and services.
+Font Awesome instructs its payment processors to store your payment card data only as long as you use paid Font Awesome services. How can I make choices about data collection? You're free to visit fontawesome.com without logging in.
+You may also configure your web browser to disable cookies when visiting the website.
+You can opt out of Google Analytics using a browser extension.
+Font Awesome does not respond to the Do Not Track HTTP header. Where does Font Awesome store data about me? Font Awesome stores account data, data about website use, and data about content delivery network use on servers in the United States of America.
+Content delivery network servers are located worldwide, and store data about their use wherever they are located. Does Font Awesome comply with the EU General Data Protection Regulation? Font Awesome respects privacy rights under Regulation (EU) 2016/679, the European Union's General Data Protection Regulation (GDPR).
+Information that GDPR requires Font Awesome to give can be found throughout these questions and answers. Where can I see, change, and erase data about me? You can see and change your account data at any time by visiting your account page on fontawesome.com.
+You can cancel your Font Awesome Pro subscription at any time.
+Canceling subscription will also start the process of deleting your account data. Does Font Awesome share data about me with others? Font Awesome does not sell or give information about you to other companies or services.
+However, Font Awesome does use services from other companies to provide fontawesome.com, content delivery networks, and to distribute and develop icons and software.
+The companies behind those services may collect data about you on their own, for their own purposes.
+Some of these services may be used to collect information about your online activities across different websites.
+All of these services are based in the United States.
+Affiliates are companies or individuals who recommend Font Awesome and refer customers through links that enable us to pay them a sales commission.
+We do not share any personally identifiable data about you with affiliates, even if you purchase Font Awesome through an affiliate's link.
+We provide affiliates with summary reports of sales and commissions, and a detail report that shows time-stamped log entries of when sales occur. Content Delivery Network Providers Font Awesome uses content delivery network service providers to provide its content delivery networks: Service Privacy Notice Cloudflare https://www.cloudflare.com/privacypolicy Payment Processors Font Awesome uses payment processing services to collect and use payment card data: Service Privacy Notice Stripe https://stripe.com/privacy PayPal https://paypal.com/privacy Braintree https://www.braintreepayments.com/legal/braintree-privacy-policy Other Services Font Awesome use several other services to run fontawesome.com, the content delivery networks, communicate with users and customers, and operate its business: Service Privacy Notice Description Google Analytics https://www.google.com/analytics/terms Compiles visitor statistics on fontawesome.com Amazon Web Services https://aws.amazon.com/privacy Provides cloud servers and services for running websites.
+GitHub https://help.github.com/privacy-policy Hosts source code and a private repository for Pro customers.
+Intercom https://www.intercom.com/terms-and-policies#privacy Facilitates response to support questions.
+HelpScout https://www.helpscout.net/company/legal/terms-of-service Facilitates response to support questions.
+Sentry https://sentry.io/privacy Tracks technical errors.
+Trello https://trello.com/privacy Tracks Font Awesome team tasks.
+Kickstarter https://www.kickstarter.com/privacy Hosts crowd-funding campaigns.
+Backerkit https://www.backerkit.com/privacy_policy Manages Kickstarter campaign rewards delivery and shipping logistics.
+How can I contact Font Awesome about privacy? You can send privacy-related questions, complaints, and requests to Font Awesome at privacy@fontawesome.com.
+For complaints under GDPR more generally, European Union users may lodge complaints with their local data protection supervisory authorities. How can I find out about changes? This version of Font Awesome's privacy questions and answers took effect May 25, 2018.
+Font Awesome will post the next version at https://fontawesome.com/privacy.
+Font Awesome may change how it announces changes in future versions.
+In the meantime, Font Awesome may update its contact information and list of service providers without announcing a change.
+Please refer to https://fontawesome.com/privacy for the latest information at any time.
+ Â© Fonticons, Inc.
+
+ Terms and Privacy  Closecross-small
+      

@@ -1,0 +1,33 @@
+
+        &lt.
+NixNet DNSIn short:
+
+
+Haproxy TCP/HTTP logs are disabled.
+No IP addresses are collected.
+Unbound debug logs are enabled (verbosity: 1).
+Query amounts coming specifically from the DNS-over-TLS server arenât counted.
+Website/DNS-over-HTTPS gatewayâs NGINX logs are disabled.
+
+To elaborate on Unboundâs verbosity, if you have it installed, you can run man unbound.conf, search verbosity and read it yourself.
+More human-readably .
+.
+.
+
+
+Level 0 only outputs errors
+Level 1 gives high-level operational information (debug logs)
+Level 2 gives detailed debug logs
+Level 3 shows the admin what queries are going through Unbound
+Level 4 gives lower-level algorithm information
+Level 5 logs client information
+
+Thereâs no warranty, no uptime assurance, etc.
+so I recommend using multiple resolvers.
+that also improves privacy because the DNS queries are spread across multiple providers.
+
+You can see Unbound's configuration file on Gitea.
+That's what I'm using in production.
+ Retrieved from âhttps://docs.nixnet.services/index.php?title=NixNet_DNS/Privacy&oldid=1360â
+
+      

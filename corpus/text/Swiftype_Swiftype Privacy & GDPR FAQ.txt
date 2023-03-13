@@ -1,0 +1,73 @@
+
+This page contains answers to the most frequently asked questions from our customers and users about data privacy matters and the GDPR in particular.
+If you canât find an answer to your question here, feel free to contact us at privacy@elastic.co.What is GDPR, and what is Swiftype doing to comply?GDPR stands for the General Data Protection Regulation, which is effective as of May 25th, 2018.
+GDPR replaces national privacy and security laws that previously existed within the EU with a single, comprehensive EU-wide law that governs the use, sharing, transfer and processing of personal data that originates from the EU.
+As an Elastic company, Swiftype complies with all laws that apply to our business, including GDPR.
+We also appreciate that our customers have requirements under GDPR that are directly impacted by their use of Swiftype products and services.
+We are committed to helping our customers achieve compliance with GDPR and their local requirements.
+As part of our commitment to GDPR compliance, we have updated our Elastic Privacy Policy to reflect our policies regarding the handling of personal data.
+In addition, here are a few things that Swiftype is doing to ensure our compliance with GDPR and to enable our customers to achieve their own compliance: 
+
+Swiftype follows appropriate security measures and precautions in accordance with GDPR.
+Swiftype assists with notifying regulators of breaches and promptly communicating any breaches to customers and users.
+We ensure that employees authorized to process personal data have committed to confidentiality.
+We will hold any sub-processors that handle personal data, including our data center partners, to the same data management, security, and privacy practices and standards to which we hold ourselves.
+Swiftype assists our customers, insofar as possible, in responding to data subject requests that they may receive under the GDPR.
+
+Does Swiftype process personal data?Yes.
+We process personal data to provide our products and services, and for other purposes as outlined in our Privacy Statement.Can Swiftype assist my company with responding to an Individual Rights Request (Subject Access Request)?As a processor of personal data, we will assist our customers with responding to individual rights requests that they receive under the GDPR.
+In many cases, customers may be able address these types of requests by logging into the applicable product and using settings available within such product or by using Swiftype APIs.
+See a dedicated section below on Swiftype and GDPR Individual Rights Requests for details on handling specific types of requests by using different Swiftype product features.
+Where this is not possible, please contact us to request assistance with any such individual rights requests by emailing privacy@elastic.co.Where does Swiftype store and send my data?Swiftype uses IBM/Softlayer data centers in Texas, USA as our primary hosting platform, holding all customer data.
+Offsite backups of customer data are performed into Amazon AWS infrastructure in the US.
+We do not host any customer data within the European Union.
+We may also allow our employees located around the world to access certain data for product promotion and development, and customer and technical support purposes.
+For more information, please see our Privacy Statement.Can you host my data in the EU?At the moment, we do not provide a standard option for hosting Swiftype customerâs data within the EU, however we have technical capabilities to do so for specific cases.
+If you require this kind of service, please contact our sales team and they can assess whether your use case may be eligible.Do you offer your customers a Data Processing Addendum?Yes! We understand that our customers, and in particular, our European customers, will require, where Swiftype is a processor of EU personal data, that we execute additional terms to meet GDPR obligations with respect to the processing of that EU personal data.
+The Swiftype Data Processing Addendum is available upon request for all customers to review and use to meet your onward transfer requirements under GDPR.
+To obtain a copy of our DPA please reach out to privacy@elastic.co.How does Swiftype secure my data?We have implemented organizational and technical controls to secure our users' data, in compliance with GDPR requirements.
+Security isnât just a priority.
+It is an essential component of Swiftypeâs technology and in keeping your data safe â and has been since day one.
+Swiftype's SOC 2 certification is proof of our commitment to security and data integrity throughout our operations and services.
+For more information on security at Swiftype, please see our Security page.Does Swiftype use sub-processors to further process customer data?Yes, Swiftype relies on the services of a number of other companies for providing our services to the customers.
+Here is a list of Swiftypeâs sub-processors as of May 2018:
+
+IBM/Softlayer (USA) â data hosting
+Amazon AWS (USA) â encrypted backups storage
+Google Analytics (USA) â product usage analytics
+Stripe (USA) â credit card payments processing
+Fastly (USA) â content delivery acceleration
+New Relic (USA) â application performance monitoring
+Sentry (USA) â application exception tracking
+Who can I contact with questions regarding GDPR?Our products are used by millions of users around the world.
+To provide scalable service to our users and customers, we have included GDPR compliance information in our updated Privacy Statement and have included answers to commonly asked questions on this page.
+We encourage you to review this page first, as you may find that your topic of interest has been addressed.
+However, we also understand there are circumstances where it may help to contact us directly.
+Should you have any questions not covered here, please contact us at privacy@elastic.co.Handling Individual Rights Requests (Subject Access Requests) at SwiftypeThere are two distinct cases for handling Subject Access Requests: (i) Swiftype as Data Controller and (ii) Swiftype as Data Processor.Swiftype as Data ControllerSwiftype is deemed a âdata controllerâ with regard to personal data that Swiftype has collected directly from the data subject and where Swiftype controls the purpose and means of processing.
+This applies generally to data that is shared by data subjects interacting directly with Swiftypeâs website or services.
+It does not apply to personal data that is accessed by Swiftype in providing site search, app search or enterprise search to its customers (see Swiftype as Data Processor below).
+For all requests related to Swiftypeâs collection and processing of personal data (when we are the Data Controller), please refer to our Privacy Statement.Swiftype as Data ProcessorSwiftype is deemed a âdata processorâ with regard to personal data that is shared with or made accessible to Swiftype in providing site search, app search or enterprise search to its customers.
+In these cases, the customer acts as the âdata controllerâ because it controls the purpose and means (by way of instruction to Swiftype) of processing.
+As a processor of personal data, we will assist our customers with responding to individual rights requests that they receive under the GDPR.
+In many cases, customers may be able address these types of requests by logging into the applicable product and using settings available within such product or by using Swiftype APIs.
+See below for details on handling specific types of requests by using different Swiftype product features.
+Where this is not possible, you could contact us to request assistance with any such individual rights requests.Handling Requests to Delete Personal DataSwiftype customers control the data they process in the Swiftype services.
+Swiftype employees do not access customer data stored in Swiftype indexes and cannot respond to requests for access or correction for personal data that may be indexed in Swiftype's systems.
+Please see below for information on Swiftype product features that could be used by Swiftype customers (Data Controllers) to respond to data deletion requests from their users.Site Search ServiceFor granular data deletion, Swiftype provides a set of APIs allowing our customers to delete any data indexed in Swiftype Site Search.
+The data could be deleted on an engine level, document type level or by individual document.
+Any customer data deleted through APIs is deleted from Swiftype systems irreversibly.
+See our API documentationfor more details on relevant API methods.
+If you want to close your Site Search account and delete all data from Swiftype systems, you could log in to Swiftype Dashboard, select your Site Search account, go to your settings page and click âClose Accountâ button to permanently delete your records from Swiftype.App Search ServiceFor granular data deletion, Swiftype provides a set of APIs allowing our customers to delete any data indexed in Swiftype Site Search.
+Additionally, there is an option of deleting the data using Swiftype App Search Dashboard.
+The data can be deleted on an engine level or by individual document.
+See our API documentation for more details on relevant API methods.
+If you want to close your App Search account, please contact Swiftype Support at support@swiftype.com.Enterprise Search ServiceOn a granular level, if you need to delete a document from Swiftype Enterprise Search, you can delete it from your data source (Google Drive, Confluence, etc) and Swiftype would automatically pick up the changes and remove your documents from our data stores.
+You can also use your Account Settings dashboard to delete your data sources, and Swiftype would delete all related documents and secrets from our systems.
+To close an individual Enterprise Search account and all private data sources,log in to your organization, open your Account Settings and click "Delete" to delete your account and data from Swiftype.
+To delete a whole organization account, please contact Swiftype Support at support@swiftype.com.Handling Requests to Access or Correct Personal DataSwiftype customers control the data they process in the Swiftype services.
+Swiftype employees do not access customer data stored in Swiftype indexes and cannot respond to requests for access or correction for personal data that may be indexed in Swiftype's systems.
+Please see below for information on Swiftype product features that could be used by Swiftype customers (Data Controllers) to respond to data access or correction requests from their users.Site Search ServiceIf you need to access or update any data indexed in Swiftype Site Search, you can use our APIs to do so.
+See our API documentation for more details.
+For crawler-based engines, you can update the content on your website, and our crawlers would pick up the changes.App Search ServiceIf you need to access or update any data indexed in Swiftype App Search product, you can use our APIs or the Dashboard to do so.
+See our API documentation for more details on relevant API methods.Enterprise Search ServiceEnterprise search connections keep the data in Swiftype systems in sync with the data sources defined by our customers.
+This means, that any updates to the original data would be reflected in Swiftype Enterprise Search databases.

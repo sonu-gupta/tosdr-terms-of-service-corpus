@@ -1,0 +1,312 @@
+
+         Envoy Terms of Service Last updated on May 12, 2020 Envoy Terms of Service Last updated on May 12, 2020 Terms and Policies
+
+ Privacy policy
+
+ Terms of Service
+
+ Passport Terms
+
+ Purchases and returns
+
+ Compliance
+
+ CCPA Addendum
+
+ GDPR DPA Addendum
+
+ Subprocessors
+
+ Security and privacy
+
+
+
+
+This ENVOY SAAS Agreement (âAgreementâ) contains the terms for use of the SERVICES and is between ENVOY, Inc.
+(âENVOYâ), a Delaware corporation having a place of business at 410 TOWNSEND STREET, 4TH FLOOR, SAN FRANCISCO, CA 94107 and the party agreeing to the terms of this Agreement AND ITS AFFILIATES (âCUSTOMERâ).
+By EXECUTING AN ORDER FORM THAT REFERENCES THIS AGREEMENT, clicking an "Accept" or similar button, or otherwise using the SERVICES, CUSTOMER agrees to be bound by the terms of this Agreement.
+CUSTOMER may not use the SERVICES without agreeing to this Agreement first.
+If a written agreement regarding CUSTOMERâS use of the SERVICES exists between and has been executed by both ENVOY and CUSTOMER, the terms of that written agreement shall take precedence over this Agreement.
+
+
+1.
+Definitions
+
+"Affiliate" means, with respect to a party, any entity which directly or indirectly Controls, is Controlled by, or is under common Control with such party.
+
+
+âConfidential Informationâ has the meaning set forth in Section 9.
+
+
+âControlâ means ownership or control, directly or indirectly, of more than 50% of the voting interests of the subject entity.
+
+
+âCustomer Equipmentâ means Customerâs and its Affiliatesâ computer hardware, software and network infrastructure used to access the Services.
+
+
+âCustomer Dataâ means data, text, files, and the like that Customer inputs and/or loads into the Services or that Envoy otherwise processes on Customerâs behalf in connection with providing the Services.
+
+
+âDocumentationâ means the description of the Services licensed by Customer contained in the official Envoy Services specifications.
+
+
+âEffective Dateâ means the date this Agreement or an Order Form referencing this Agreement is first executed.
+
+
+âHardwareâ means any iPads, printers, printer stands, and the like provided by Envoy, if and as listed in an Order Form.
+
+
+âOrder Formâ means an order for the Services signed by Customer and Envoy or a Reseller.
+
+
+âResellerâ means a reseller authorized in writing by Envoy to provide the Services on Envoyâs behalf.
+
+
+âServicesâ means any Envoy cloud solution, downloadable software, and APIs licensed by Envoy to Customer, together with all Updates, as further described in the Documentation and in an Order Form.
+
+
+âSupportâ has the meaning set forth in Section 6.
+
+
+âTaxesâ means any direct or indirect local, state, federal or foreign taxes, levies, duties or similar governmental assessments of any nature, including value-added, sales, use or withholding taxes.
+
+
+âTermâ means the Term applicable to each of the Services specified on an Order Form, or if no such term period is defined, twelve (12) months, commencing on the effective date of the Order Form.
+
+
+âUpdatesâ means all Services updates and enhancements that Envoy generally makes available at no additional charge to its customers of the version of the Services purchased hereunder who are current in payment of applicable fees.
+
+
+âUsersâ means Customer's and its Affiliates' employees, agents, contractors, and consultants who are authorized by Customer to use the Services.
+
+2.
+Terms of the Services and Hardware
+
+2.1 Subject to the terms of the Agreement, Envoy grants Customer and its Affiliates a non-exclusive, non-transferable (except to a successor in interest as permitted hereunder) license to access, use, and install (only for the portions of the Services that are available for download by Envoy) the Services listed under an Order Form during the Term.
+Customerâs right to use the Services is limited to the location and other restrictions contained in in an Order Form and the Documentation.
+
+
+2.2 Any example language or agreements offered in connection with the Services (e.g., example confidentiality agreements or terms for visitors) are provided solely as examples for informational purposes and Customer is solely responsible for ensuring that any language or agreement it deploys in connection with the Services are appropriately customized and fit for Customerâs purposes.
+There is optional functionality in the Services that allows Customer to send e-mails.
+For every email sent in connection with the Services, Customer acknowledges and agrees that the Services may add a source identifier for the Services (e.g., a small logo, a âpowered byâ tag line or the like).
+
+
+2.3 Notwithstanding anything to the contrary in this Agreement, Envoy shall have the right to collect and analyze data and other information relating to the provision, use and performance of various aspects of the Services and related systems and technologies, and Envoy will be free (during and after the term hereof) to (i) use such information and data to improve and enhance the Services and for other development, diagnostic and corrective purposes in connection with the Services and other Envoy offerings, and (ii) disclose such data solely in aggregate or other de-identified form in connection with its business.
+
+
+2.4 Envoy shall provide the Hardware listed in the applicable Order Form.
+Envoy shall pass through any and all warranties provided by the applicable manufacturer(s).
+The Hardware shall be subject to the shipping and returns policies found at https://envoy.com/purchases-and-returns/.
+
+3.
+Customer Responsibilities Relating to Use of the Services
+
+3.1 As between the parties, Customer is responsible for, (i) all activities conducted under its User logins, (ii) obtaining and maintaining any Customer Equipment and any ancillary software and/or services needed to connect to, access, install (only for the portions of the Services that are available for download by Envoy), or otherwise use the Services, except for any Hardware and, (iii) ensuring that it has the proper third-party licenses to make use of the Services with.
+
+
+3.2 Customer shall use the Services solely for its internal business purposes, in compliance with applicable law (including any and all privacy and spam laws), and shall not: (a) resell, sublicense, lease, time-share or otherwise make the Services available to any third party (including customers of Customer).
+(b) process, send, or store infringing or unlawful material using the Services.
+(c) attempt to gain unauthorized access to, or disrupt the integrity or performance of, the Services or the data contained therein.
+(d) modify, copy or create derivative works based on the Services.
+(e) do any "mirroring" or "framing" of any part of the Services, or create Internet links to the Services which include log-in information, user names, passwords, and/or secure cookies.
+(f) reverse engineer the Services.
+(g) propagate any virus, worms, Trojan horses, or other programming routine intended to damage any system or data.
+(h) access or use the Services for the purpose of building a competitive product or service or copying its features or user interface.
+or (i) use the Services, or permit it to be used, for purposes of product evaluation, benchmarking or other comparative analysis intended for publication.
+
+4.
+Ownership
+
+4.1 Customer shall retain all ownership rights in and to all Customer Data passing though or generated by the Services and Customer Confidential Information.
+Envoy shall have and retain all ownership rights in the Services and all work provided by Envoy during the course of providing Support to Customer (if any).
+Envoy hereby grants Customer a royalty-free, fully paid-up, nonexclusive, license to use the foregoing on the same terms and conditions as the Services during the Term.
+
+
+4.2	Envoy shall own any suggestions, enhancement requests, recommendations, or other feedback provided by Customer or its Users relating to the operation of the Services.
+
+5.
+Fees
+
+5.1 The Fees for the Services are as stated in an Order Form.
+Unless otherwise stated in the applicable Order Form, Fees for the initial Term are due and payable net thirty (30) days from the date of electronic delivery of the Services by Envoy and are payable to Envoy or Reseller, as applicable.
+Fees for any renewal Terms are due in accordance with the above, except that they are due net thirty days from the effective date of the renewal.
+
+
+5.2 Upon execution of this Agreement, payment obligations under any Order Form are non-cancelable and, except as expressly provided in this Agreement, upon payment, all payments made by Customer are non-refundable.
+If Customer is paying by credit card, Customer shall provide Envoy all relevant information regarding Customerâs credit card prior to the provision of the Services.
+Customer represents and warrants to Envoy that such information is true and that Customer is authorized to use such payment instrument.
+Customer will promptly update its account information with any changes (for example, a change in Customer billing address or credit card expiration date) that may occur.
+Customer hereby authorizes Envoy to bill Customerâs payment instrument in advance on a periodic basis in accordance with the terms described in the Services, and Customer further agrees to pay any charges so incurred.
+Any payment not received from Customer by the due date may accrue (except for amounts then under reasonable and good faith dispute) late charges at the rate of 1.5% of the outstanding balance per month, or the maximum rate permitted by law, whichever is lower, from the date such payment was due until the date paid.
+Failure to make payments in accordance with this Section may result in suspension of Customer's ability to access or use the Services until payment is made.
+In the event Customer issues purchase orders in its normal course of business, Customer shall provide Envoy with a purchase order upon execution of this Agreement, or Order Form, or if Customer does not provide Envoy with such purchase order, Customer authorizes Envoy to accept this Agreement in lieu of a purchase order.
+
+
+5.3 Customer is responsible for monitoring Customerâs use of the Services.
+If Customer is aware that its use of the Services is found to be greater than the number of locations licensed or other metrics licensed hereunder, Customer shall notify Envoy or Reseller of such excess use.&nbsp.
+Envoy or Reseller will invoice Customer for the additional Fees for the period commencing on the date of excess use as reported above or as otherwise identified by Envoy, through the remainder of the Term, and the unpaid Fees shall be payable in accordance with Section 5.1.
+
+
+5.4 Unless otherwise provided, the fees do not include any Taxes.
+ Customer is responsible for paying all Taxes, including, but not limited to sales, use, GST, and VAT taxes, associated with its purchases hereunder, excluding Taxes based on Envoyâs or Resellerâs net income or property.
+ If an invoice includes Taxes, Customer is responsible for such Taxes, unless Customer provides a valid tax exemption certificate authorized by the appropriate taxing authority upon execution of this Agreement.  Taxes not included on an invoice shall be the responsibility of the Customer to remit to the appropriate tax authorities as necessary.
+
+6.
+Support
+
+As long as Customer is current on the payment of Fees, Envoy shall provide Support in accordance with its standard Support services.
+
+7.
+Warranties
+
+7.1 Each party represents and warrants that (i) it has the legal power to enter into and perform under this Agreement.
+and (ii) it shall comply with all other applicable laws in its performance hereunder.
+
+
+7.2 Envoy warrants to Customer that the Services will substantially conform in all material respects to the Documentation (âServices Warrantyâ).
+The Services Warranty does not apply when: (a) the Services that has been modified by any party other than Envoy.
+or (b) the Services that has been improperly used and/or installed in a manner other than as authorized under the Agreement to the extent such modification(s) or improper installation cause the Services to be nonconforming.
+As Customerâs sole and exclusive remedy and Envoyâs entire liability for any breach of the foregoing warranty, Envoy will repair or replace any nonconforming Services so that it operates as warranted or, if Envoy is unable to do so, terminate the license for such Services and return or request the Reseller to return the license fees paid for the nonconforming Services, pro-rated from the date of termination, as Customerâs sole and exclusive remedy.
+
+
+7.3 EXCEPT AS EXPRESSLY PROVIDED HEREIN, NEITHER PARTY MAKES ANY WARRANTIES OF ANY KIND, WHETHER IMPLIED, STATUTORY OR OTHERWISE, INCLUDING ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT.
+ENVOY DOES NOT WARRANT THE OPERATION OF THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+8.
+Indemnity
+
+8.1	Envoy shall defend, indemnify and hold Customer harmless against any loss, damage or costs (including reasonable attorneys' fees) incurred in connection with claims, demands, suits, or proceedings ("Claims") made or brought against Customer by a third party alleging that the use of the Services as contemplated hereunder infringes the U.S.
+intellectual property rights of such third party, provided that Customer (a) promptly gives written notice of the Claim to Envoy.
+(b) gives Envoy sole control of the defense and settlement of the Claim (provided that Envoy may not settle any Claim unless it unconditionally releases Customer of all liability).
+and (c) provides to Envoy, at Envoyâs cost, all reasonable assistance.
+
+
+8.2 Envoy may, at its sole option and expense: (i) procure for Customer the right to continue using the Services under the terms of this Agreement.
+(ii) replace or modify the Services to be non-infringing without material decrease in functionality.
+or (iii) if the foregoing options are not reasonably practicable, terminate the license for the Services and refund Customer or request the Reseller to refund the prepaid fees for the remainder of the then-current Term after the date of termination.
+
+
+8.3 Envoy shall have no liability for any Claim to the extent the Claim is based upon (i) the use of the Services in combination with any other product, service or device not furnished, recommended or approved by Envoy, if such Claim would have been avoided by the use of the Services, without such product, service or device.
+or (ii) Customerâs use of the Services in breach of this Agreement.
+
+
+8.4	The provisions of this Section 8 set forth Envoyâs sole and exclusive obligations, and Customerâs sole and exclusive remedies, with respect to infringement or misappropriation of third party intellectual property rights of any kind.
+
+
+8.5	Customer shall defend, indemnify and hold Envoy harmless against any loss, damage or costs (including reasonable attorneys' fees) incurred in connection with any Claims made or brought against Envoy by a third party alleging that the Customer Data infringes the U.S.
+intellectual property rights of such third party or Customerâs use of the Services in violation of any laws, provided that Envoy (a) promptly gives written notice of the Claim to Customer.
+(b) gives Customer sole control of the defense and settlement of the Claim (provided that Customer may not settle any Claim unless it unconditionally releases Envoy of all liability).
+and (c) provides to Customer, at Customerâs cost, all reasonable assistance.
+
+9.
+Confidentiality and Data Processing
+
+9.1 As used herein, "Confidential Information" means all confidential and proprietary information of a party ("Disclosing Party") disclosed to the other party ("Receiving Party"), whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure, including the terms and conditions of this Agreement (including pricing and other terms reflected under this Agreement), the Services, Documentation, business and marketing plans, technology and technical information, product designs, and business processes.
+Confidential Information shall not include any information that: (i) is or becomes generally known to the public without breach of any obligation owed to Disclosing Party.
+(ii) was known to Receiving Party prior to its disclosure by Disclosing Party without breach of any obligation owed to Disclosing Party.
+(iii) was independently developed by Receiving Party without breach of any obligation owed to Disclosing Party.
+or (iv) is received from a third party without breach of any obligation owed to Disclosing Party.
+
+
+9.2 Receiving Party shall not disclose any Confidential Information of Disclosing Party for any purpose outside the scope of this Agreement, except with Disclosing Party's prior written consent.
+Receiving Party shall protect the confidentiality of Disclosing Party's Confidential Information in the same manner that it protects the confidentiality of its own confidential information of like kind (but in no event using less than reasonable care).
+Notwithstanding the foregoing, Envoy may use, for its business purposes, data generated by the use of the Services in anonymized format.
+Receiving Party shall promptly notify Disclosing Party if it becomes aware of any actual or reasonably suspected breach of confidentiality of Disclosing Party's Confidential Information.
+
+
+9.3 If Receiving Party is compelled by law to disclose Confidential Information of Disclosing Party, it shall provide Disclosing Party with prior notice of such compelled disclosure (to the extent legally permitted) and reasonable assistance, at Disclosing Party's cost, if Disclosing Party wishes to contest the disclosure.
+
+
+9.4 Upon any termination of this Agreement, the Receiving Party shall continue to maintain the confidentiality of the Disclosing Party's Confidential Information as long as it remains confidential and, upon request, return to the Disclosing Party or destroy (at the Disclosing Party's election) all materials containing such Confidential Information.
+
+
+9.5	To the extent Envoy processes Company Personal Data (as defined in the DPA) that is subject to the GDPR (as defined in the DPA), the Envoy Data Protection Addendum located at https://envoy.com/gdpr-dpa will apply (âDPAâ).
+To the extent Envoy processes Personal Information (as defined in the CCPA Addendum) that is subject to the CCPA (as defined in the CCPA Addendum), the CCPA Addendum located at https://envoy.com/ccpa-dpa.
+
+10.
+Limitation of Liability
+
+10.1	EXCEPT (i) FOR CUSTOMERâS INDEMNIFICATION OBLIGATIONS.
+(ii) FOR CUSTOMERâS FAILURE TO PAY ANY FEES DUE UNDER THIS AGREEMENT.
+(iii) IN THE EVENT OF CUSTOMERâS UNAUTHORIZED USE, DISTRIBUTION OR DISCLOSURE OF ENVOYâS INTELLECTUAL PROPERTY.
+OR (iv) CUSTOMERâS MATERIAL BREACH OF SECTION 9 (âCONFIDENTIALITYâ), IN NO EVENT SHALL EITHER PARTY'S AGGREGATE LIABILITY ARISING OUT OF THIS AGREEMENT, WHETHER IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY, EXCEED THE SUBSCRIPTION FEES PAID TO ENVOY DURING SIX MONTHS PRIOR TO WHEN THE CLAIM ACCRUED.
+
+
+10.2 IN NO EVENT SHALL ENVOY HAVE ANY LIABILITY TO CUSTOMER FOR ANY LOST PROFITS OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES HOWEVER CAUSED AND, WHETHER IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY, WHETHER OR NOT IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+11.
+Terms and Termination
+
+11.1 This Agreement commences on the Effective Date and continues until all licenses granted in accordance with this Agreement have expired or have been terminated.
+The term of each Order Form shall be as set forth therein, which shall automatically renew, unless either party requests termination at least thirty (30) days prior to the end of the then-current term.
+
+
+11.2 A party may terminate this Agreement for cause: (i) upon 30 days written notice to the other party of a material breach of this Agreement if such breach remains uncured at the expiration of such period.
+(ii) immediately upon written notice if the other party becomes the subject of a bankruptcy, insolvency, receivership, liquidation, assignment for the benefit of creditors or similar proceeding.
+and (iii) as otherwise provided herein.
+
+
+11.3	The partiesâ rights and obligations under Sections 4, 5, 7.3, 8, 9, 10, 11.3, 11.4, and 12 shall survive termination of this Agreement.
+
+
+11.4 Within thirty (30) days after termination of this Agreement, Customer shall certify in writing to Envoy that all copies of the Services (where applicable), Updates, and Documentation in any form, including partial copies within modified versions, have been destroyed or returned to Envoy.
+
+12.
+General
+
+12.1 The parties are independent contractors, and no partnership, franchise, joint venture, agency, fiduciary or employment relationship between the parties is created hereby.
+There are no third-party beneficiaries to this Agreement.
+
+
+12.2	Notices shall be in writing, sent using a recognized private mail carrier or the United States Postal Service and effective on proof of delivery.
+
+
+12.3	Each party may include the other's name and logos in its customer or vendor lists and other materials.
+
+
+12.4	No amendment or waiver of any provision of this Agreement shall be effective unless in writing and signed by Customer and Envoy.
+To the extent of any conflict between this Agreement and any other schedule or attachment, this Agreement shall prevail unless expressly stated otherwise.
+Notwithstanding any language to the contrary therein, no terms stated in a purchase order or in any other order document (other than a statement of work, or other mutually executed order document expressly incorporated herein) shall be incorporated into this Agreement, and all such terms shall be void.
+This Agreement, which includes all documents referenced herein, statements of work and attachments hereto, represents the entire agreement of the parties, and supersedes all prior or contemporaneous agreements, proposals or representations, written or oral, concerning its subject matter.
+
+
+12.5	No failure or delay in exercising any right hereunder shall constitute a waiver of such right.
+Except as otherwise provided, remedies provided herein are in addition to, and not exclusive of, any other remedies of a party at law or in equity.
+If any provision of this Agreement is held by a court of competent jurisdiction to be contrary to law, such provision shall be modified by the court and interpreted so as best to accomplish the objectives of the original provision to the fullest extent permitted by law, and the remaining provisions shall remain in effect.
+
+
+12.6	Neither party shall be liable to the other for any delay or failure to perform hereunder (excluding payment obligations) due to a natural disaster, actions or decrees of governmental bodies or communications line failure which (i) hinders, delays or prevents a party in performing any of its obligations, and (ii) is beyond the control of, and without the fault or negligence of, such party, and (iii) by the exercise of reasonable diligence such party is unable to prevent or provide against (âForce Majeure Event).
+
+
+12.7	Neither party may assign its rights or obligations hereunder, whether by operation of law or otherwise, without the prior written consent of the other (not to be unreasonably withheld).
+Notwithstanding the foregoing, either party may assign this Agreement in its entirety, without consent of the other party, to its successor in interest in connection with a merger, reorganization, or sale of all or substantially all assets or equity not involving a direct competitor of the other party.
+Any attempted assignment in breach of this Section shall be void.
+This Agreement shall bind and inure to the benefit of the parties, their respective successors and permitted assigns.
+For clarity, Envoy may use subcontractors in the ordinary course of business.
+
+
+12.8	This Section 12.8 shall apply only if Customer is a federal government entity.
+Envoy provides the Services, including related technology, for ultimate federal government end use solely in accordance with the following: Government technical data and software rights related to the Services include only those rights customarily provided to the public as defined in this Agreement.
+This customary commercial license is provided in accordance with FAR 12.211 (Technical Data) and FAR 12.212 (Software) and, for Department of Defense transactions, DFAR 252.227-7015 (Technical Data â Commercial Items) and DFAR 227.7202-3 (Rights in Commercial Computer Software or Computer Software Documentation).
+If greater rights are needed, a mutually acceptable written addendum specifically conveying such rights must be included in this Agreement.
+
+
+12.9	Each party agrees to comply fully with all applicable regulations of the United States Department of Commerce and with the United States Export Administration Act, as amended from time to time, and with all applicable laws and regulations of other jurisdictions with respect to the importation and use of the Services.
+
+
+12.10	This Agreement shall be governed exclusively by the internal laws of the state of California, without regard to its conflicts of laws rules.
+The United Nations Convention on Contracts for the International Sale of Goods shall not apply.
+The parties hereby consent to the exclusive jurisdiction of the state and federal courts located in San Francisco, County, California, for resolution of any disputes arising out of this Agreement.
+
+Contact Information
+
+If you have any questions or comments about our Terms of Service as
+outlined above, you can contact us at hi@envoy.com.
+
+
+Envoy, Inc.
+410 Townsend St, Suite 410
+San Francisco, CA 94107
+United States
+
+Last updated on May 12, 2020

@@ -1,0 +1,15 @@
+
+        1.
+Privacy Policy (for all extensions) â¢ This extension does not collect any user data â¢ This extension does not sync any data to any remote server.
+It only uses local storage (chrome.storage.local or window.localStorage) â¢ This extension does not monitor the user â¢ This extension does not communicate with any remote servers unless provided in the "Privacy Policy (per-extension)" â¢ Permissions that this extension uses are explained in the "Permissions are Explained" section of the FAQs page 2.
+Privacy Policy (per-extension) 2.1 Notifier for Gmailâ¢ Extension This extension uses the official Gmail feed to fetch new emails.
+There is no server-side interaction other than interacting with gmail.com to fetch new emails or get email's body on a user-action (click on the toolbar button) 2.2 Turbo Download Manager Extension This extension only downloads files per user request.
+There is no server-side interaction other than downloading these files.
+2.3 MediaPlayer - Video and Audio Player Extension This extension uses offline tools to parse and play videos.
+There are no server-side activities other than fetching a remote video/audio link.
+2.4 Gmailâ¢ Notifier (Developer Edition) Extension This extension only communicates with Gmail to show unread emails or to perform an action like mark an email as read.
+There are no other server-side activities.
+2.5 Media Converter and Muxer - Audio Tools Extension There are no server-side activities.
+2.6 Open Two-Factor Authenticator Extension There are no server-side activities.
+
+      

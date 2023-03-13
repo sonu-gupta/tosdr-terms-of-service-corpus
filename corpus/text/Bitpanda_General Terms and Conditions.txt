@@ -1,0 +1,1362 @@
+
+General Terms and ConditionsBitpanda GmbH
+1.
+General Provisions
+1.1.
+The general terms and conditions herein ("GTC") exclusively apply to any and all transactions, contracts and business relationships with Bitpanda GmbH, with its corporate seat in A-1020 Vienna, Campus 2, Jakov-Lind-StraÃe 2 ("Bitpanda"), in particular including transactions and business relationships with/on any online or electronic platform (e.g.
+https://www.bitpanda.com/ and https://exchange.bitpanda.com) or mobile application of Bitpanda and associated APIs of such platform or application (âBitpanda Systemsâ).
+Bitpanda also offers services in cooperation with third parties, in particular with Bitpanda Metals GmbH.
+For services of such third-party providers, their terms and conditions may apply in addition to these GTC.
+
+1.2.
+Bitpanda offers services only to and enters into contracts only with persons of legal age.
+
+1.3.
+For an overview of the definitions used in these GTC please refer to Annex I.
+
+2.
+Becoming a Bitpanda Client
+2.1.
+Persons interested in using Bitpanda Systems have to register themselves on a Bitpanda System by providing Bitpanda with valid and true information as required in the registration process.
+A person having successfully completed the registration process (which is confirmed by Bitpanda) is called a "Bitpanda Client" and âyouâ.&nbsp.
+
+2.2.
+In order to use the trading options on a Bitpanda System you as a Bitpanda Client have to verify your account.
+Your trading limits depend on such verification level.
+The verification processes and requirements depend mainly on security requirements, in particular AML considerations, and may change from time to time depending on the legal framework.&nbsp.
+
+2.3.
+You ensure that you keep any and all details ofl your password confidential and that you only act for yourself and have opened the account only for yourself.
+It is also forbidden to act as intermediary of any kind or broker of any kind or trustee of any kind for any person or to allow access of any kind to the account to any person other than yourself.
+As a preventive security measure, Bitpanda recommends that each Bitpanda Client uses the two factor authentication identification components ("2FA").
+
+2.4.
+Persons having US citizenship or being located in the United States may not become a Bitpanda Client according to regulatory reasons.
+Depending on the respective local regulatory framework Bitpanda may exclude other jurisdiction from Bitpanda's services as well.&nbsp.
+
+2.5.
+When a password is reset, Bitpanda pauses any payment to and/or transfer of Tokens (as defined in item 3.1) to you or out of Bitpanda Systems for security reasons for a maximum period of 48 hours.
+You confirm that you are aware of this security measure and accept it.
+
+2.6.
+You, as a Bitpanda Client, shall&nbsp.
+
+2.6.1.
+ensure prompt execution of any contracts and shall refrain from activities which would thwart or endanger such execution.&nbsp.
+
+2.6.2.
+immediately report all defects or other problems which you either cause or are made aware of and shall assist Bitpanda in remedying the problem.
+
+2.6.3.
+immediately update via a Bitpanda System or submit to Bitpanda via a registered mail address any changes to your personal data (name, mailing/postal address and email address).
+You are aware and accept that Bitpanda shall always use the last email address and last postal address which you shared with Bitpanda, and that any message delivered to such email or postal address shall be legally delivered.&nbsp.
+
+2.6.4.
+at all times ensure that you have your 2FA available and in usable condition, if used by you.
+In case of loss of the 2FA, you must immediately inform Bitpanda about this loss and follow Bitpanda support team membersâ instructions.
+You acknowledge and accept that such instructions may be deferred depending on the utilisation of the Bitpanda support team and neither Bitpanda nor Bitpanda Metals GmbH is liable for any of your claims due to such a delay.
+If you are not able to follow the instructions and comply with the security rules and requirements, you will neither be able to access the relevant page nor your Bitpanda Client Account again and the Bitpanda Client's Account including any Token may not be and cannot be used until you can find/remember/regain the correct 2FA.
+You are aware and accept this "No Recover Policy" which is a major and important immanent part of a system dealing with cryptographic blockchain-based digital information units.
+
+2.7.
+Bitpanda requires certain specified information from you in the process of becoming a Bitpanda Client.
+You are aware and accept herewith that Bitpanda may at Bitpanda's sole discretion decide at which point in time you must deliver copies of passports (in notarised and apostilled form or not) and any other documents required by law and/or as defined in Data Protection Terms.
+if being a legal entity copies of company register excerpts or equivalent documents (in notarised and apostilled form or not) and any other documents required by law or as defined in the Data Protection Terms.&nbsp.
+
+3.
+Bitpanda Broker 
+3.1.
+Bitpandaâs group provides Bitpanda Systems for the exchange of (i) cryptographic blockchain-based digital information units, such as, but not limited to, Bitcoin, Dash, Ripple, Bitcoin Cash, Ether and Litecoin, ("E-Token"), (ii) fiat token ("F-Tokenâ together with E-Token referred to as "Tokenâ), (iii) precious metals (âM-Tokenâ) or (iv) the sell and purchase of Token with a currency that is legal tender (gesetzlich anerkanntes Zahlungsmittel).
+The E-Token traded on Bitpanda Systems can be changed, amended or modified at any time and at the sole discretion of Bitpanda.
+The services with respect to M-Token are exclusively offered by Bitpanda Metals GmbH and not by Bitpanda itself.&nbsp.
+
+3.1.1.
+An exchange (Tausch) and sale/purchase (Verkauf/Kauf) with Bitpanda is exclusively done in the following way: You offer bindingly to exchange, sell or buy (part of) Token(s) to Bitpanda.
+To make such a binding offer you have to (i) correctly fill in all necessary, valid and correct data on Bitpanda's respective trading screen and (ii) click/confirm either the "Buy now" or "Sell now" button (item (ii) referred to as the "Final Offer Click").
+The conditions offered by Bitpanda for your order are valid for one minute ("Price Guarantee") which is the maximum time to validate and confirm the conditions by the Final Offer Click.
+You acknowledge and agree that Bitpanda may at any time and at its sole discretion change the duration of the Price Guarantee and/or may vary the Price Guarantee for certain Token.
+For the avoidance of doubt in this context the word "buy" is to be interpreted and qualified exclusively as "binding offer to accept the receipt of E-Token in exchange for the specified amount in a currency which is legal tender or F-Token" or "binding offer to accept the receipt of F-Token in exchange for the specified amount in a currency which is legal tender" and the word "sell" "is to be interpreted and qualified exclusively as "binding offer to accept the receipt of F-Token in exchange for Token".
+
+3.1.2.
+âBitpanda Savingsâ with Bitpanda is exclusively done in the following way: You offer bindingly to purchase (part of) E-Token on a regular and recurring basis from Bitpanda (âMultiple Debit Orderâ).
+To make such binding offer you have to (i) correctly fill in all necessary, valid and correct data on Bitpanda's respective trading screen and (ii) click/confirm "Confirm now" button (item (ii) referred to as the "Final Offer Click Savings" together with the Final Offer Click the âFinal Offer Clicksâ).
+For the avoidance of doubt in this context "Confirm now" is to be interpreted and qualified exclusively as "binding offer to accept the receipt of E-Token on a regular and recurring basis in exchange for the specified amount in a currency which is legal tenderâ.&nbsp.
+
+3.1.3.
+A âBitpanda Swapâ with Bitpanda is exclusively done in the following way: You offer bindingly to exchange (part of) E-Token into another type of E-Token or (part of) F-Tokens into another type of F-Token.
+To make such binding offer you have to (i) correctly fill in all necessary, valid and correct data on Bitpanda's respective trading screen and (ii) click/confirm "Swap now" button (item (ii) referred to as the "Final Offer Click Swap" together with the Final Offer Click.
+the âFinal Offer Clicksâ).
+For the avoidance of doubt in this context "swap now" is to be interpreted and qualified exclusively as "binding offer to accept the receipt of E-Token in exchange for the specified amount of another type of E-Token" or âbinding offer to accept the receipt of F-Token in exchange for the specified amount of another type of F-Tokenâ.
+
+3.1.4.
+The offers mentioned in item 3.1.1., 3.1.2.
+and 3.1.3.
+are herein referred together as "Bitpanda Client Offer".
+You are bound by a Bitpanda Client Offer for a period of one week after the respective Final Offer Click ("Offer Period").
+Bitpanda immediately sends you confirmation upon receipt of a Bitpanda Client Offer.
+
+3.1.5.
+After having received a Bitpanda Client Offer Bitpanda may or may not accept such offer by factual fulfilling of the offer (tatsÃ¤chlicher ErfÃ¼llung des Angebots) at Bitpanda's sole discretion within the Offer Period (the "Contract Conclusion and Order Fulfillment Action" or "CCOFA").
+For any payments in currency that is legal tender from and to you, Bitpanda shall use a payment service provider.
+Where Bitpanda factually fulfilled the Bitpanda Client Offer without full receipt of the payment as agreed in the Bitpanda Client Offer, you are obliged to pay such outstanding amount ("Default in Payment").
+In case of any Default in Payment the consequences as outlined in item 4.2.
+and 8.8.
+apply.&nbsp.
+
+3.2.
+Any figures, numbers, exchange reference prices or other relevant publications by Bitpanda, either on relevant websites or mobile applications or in another way, are in no case offers, nor binding offers, nor guarantees for an exchange but always to be seen as invitations to you to provide offers for exchange to Bitpanda (invitation ad offerendum).
+
+3.3.
+Bitpanda exclusively allows Bitpanda Clients to make exchange offers based on positive balances on the respective Bitpanda Client Account.
+Short selling, meaning an offer with respect to Token which are not registered as having a positive balance on the respective Bitpanda Client Account, is forbidden and blocked by the system.
+A Bitpanda Client Offer is technically limited with your positive balance of such offer and the limits pursuant to your verification level.
+Bitpanda reserves the right to further limit the range of a Bitpanda Client Offer at Bitpanda's sole discretion to certain specified limits per Bitpanda Client.&nbsp.
+
+3.4.
+Delays in the processing of the Bitpanda Client Offers can occur due to unforeseen technical disruptions.
+Therefore, neither Bitpanda nor Bitpanda Metals GmbH offer any guarantee of immediate offer processing nor assume any liability related thereto, in particular not with respect to any changes of prices, valuations or other conditions with respect to any offered Token or services, except the Price Guarantee as outlined in item 3.1.1.
+of these GTC.&nbsp.
+
+3.5.
+You are aware that there might be significant delays when shipping Token to your Bitpanda Account Wallet, since most Token are stored "cold", which means offline.
+Respectively additional non-automated handling might be necessary triggering such delays.&nbsp.
+
+4.
+Bitpanda Client Account
+4.1.
+Bitpanda Systems allow only one account per Bitpanda Client ("Bitpanda Client Account").
+Double-accounts are strictly forbidden.
+Should another account (the "double-account") be created in addition to your first account (the "original-account"), the following applies: Bitpanda has the right to block and keep the double-account locked.
+Token which are stored on the double-account will be transferred by Bitpanda to the Bitpanda Client's original-account provided that the Bitpanda Client can proof (for example via the identification service used by Bitpanda) that they are the same person.
+In such cases, Bitpanda is authorised to charge an administrative fee of EUR 5.00 and if necessary, deduct the fee from the transferred Token(s).
+
+4.2.
+Bitpanda reserves the right to lock and/or freeze and/or close a Bitpanda Client Account (including the block (Blockierung) of a transaction, reverse (RÃ¼ckabwicklung) of a transaction, suspension (Aussetzung) of a transaction, rescission (RÃ¼cktritt) from a contract/transaction, the loss of any vouchers) immediately and without further notice to the Bitpanda Client, if 
+4.2.1.
+such Bitpanda Client has been accused of (including any reasonably documented media reports or market rumors on): fraud, terrorist financing, money laundering, tax fraud, or any other breach or violation of relevant criminal, administrative or tax laws in any country of the world, being part of a Ponzi scheme of any kind, using matrix programs/pyramid programmes/multi-level marketing or other high-risk business detrimental to customers of any kind (in particular if participating in a programme as set forth under item 13.v.).
+unlawful activity in any country of the world.
+forbidden gambling.
+intellectual property or proprietary rights infringement, counterfeit or unauthorised goods.
+using/distributing drugs and drug paraphernalia or substances designed to mimic illegal drugs.
+producing/distributing adult content and services.
+using unfair, predatory or deceptive practice via customers or persons.
+etc.
+
+4.2.2.
+Bitpanda has been informed of official investigations (by any competent public authority, in particular but not limited to any public prosecutors in the field of criminal law or tax agents) against such Bitpanda Client with respect to fraud, terror financing, money laundering, tax fraud, or any breach or violation of relevant criminal, administrative or tax laws in any country of the world.
+
+4.2.3.
+a Bitpanda Client has breached his obligations against Bitpanda under the GTC (e.g.
+any delayed payment) without curing said breach within 10 âBusiness Daysâ.
+
+4.2.4.
+a Bitpanda Client has breached any rules or regulations of a payment service provider.
+
+4.2.5.
+a Bitpanda Client has breached any rules or regulations of Bitpanda Metals GmbH.
+
+4.2.6.
+a Bitpanda Client has opened more than one account with Bitpanda.
+
+4.2.7.
+a Bitpanda Client breaches the single payment service provider account rule (item 8.11.) and uses together with another Bitpanda Client the same payment service provider account (e.g.
+bank account, Neteller account, etc) or use a third-party bank account, third-party credit cards etc.
+
+4.2.8.
+a Bitpanda Client uses an account without legal entitlement to use such an account.
+
+4.2.9.
+a Bitpanda Client conceals the correct identity by providing incorrect data regarding the Bitpanda Client Account or an account with a payment service provider.
+
+4.2.10.
+a Bitpanda Client materially breaches the payment rules, in particular but not limited to item 8.12., as set forth under the GTC causing significant efforts without curing the problems within 10 Business Days.
+
+4.2.11.
+a Bitpanda Client materially breaches the rules of the Tell-a-Friend Programme (set forth under item 15.5.) and does not cure the breaches within a reasonable grace period (depending on the breach between 24 hours and 5 Business Days).
+
+4.2.12.
+a Bitpanda Client manipulates Bitpanda Systems or any Bitpanda groupâs services.
+Such manipulation is in particular any use of an automated system (e.g.
+bot) or any other use which contradicts normal and typical trading behaviour of human beings and, hence, indicates the involvement of a certain technology, software and/or any system automating such trading, except such use has been previously agreed with Bitpanda.
+Using an automated system (e.g.
+bot) is only permitted if you (i) use Bitpanda Pro and (ii) use the official APIs provided on Bitpanda Pro in their original and unmodified state.
+
+4.2.13.
+a Bitpanda Client conducts their business in such a way or uses Bitpanda Systems in such a way that leads to Direct Debit Chargebacks, credit card chargebacks or violations of regulations of involved banks or credit card companies.
+
+4.2.14.
+a Bitpanda Client conducts their business in such a way or uses Bitpanda Systems in such a way that causes damage, disadvantages or losses for Bitpanda and/or impairs any Bitpanda Service.&nbsp.
+
+4.3.
+If Bitpanda is engaged by you to remedy a declared and/or alleged deficiency and it is proven that no deficiency exists, existed or that the deficiency is or was in your sphere, Bitpanda is entitled to charge compensation for any resulting expense.
+
+4.4.
+Bitpanda may charge â in addition to any damage claims which Bitpanda might have against such Bitpanda Client â for Bitpanda's additional efforts in connection with items 4.2.
+and 4.3.
+a processing fee of up to EUR 50.00 or any part of E-Token having the value of up to EUR 50.00 at the time of the measure set in accordance with item 4.2.
+and 4.3.
+
+4.5.
+Bitpanda System uses its own token system (F-Token, E-Token and M-Token) which are booked in the respective storing sub-accounts (each a "Wallet") of the respective Bitpanda Client Account.
+Only F-Token, E-Token and M-Token booked in the respective Wallets in the Bitpanda Client Account may and can be used for making a Bitpanda Client Offer with respect to offering Token.
+The Wallet for F-Token is named "Fiat Wallet".&nbsp.
+
+4.6.
+F-Token, which are exclusively offered by Bitpanda, are designated&nbsp.
+
+4.6.1.
+for support and facilitation reasons as an extra service towards Bitpanda Clients, in particular to enable the Bitpanda Client to act faster with respect to Bitpanda Client Offers.
+
+4.6.2.
+for the exclusive use of such F-Token within a Bitpanda System to exchange for E-Token.
+An exchange of F-Token outside of a Bitpanda System is impossible.
+An exchange of F-Token to another Bitpanda Client is impossible.&nbsp.
+
+4.7.
+F-Token are designated to provide for quick options to act as "support tools" for the Bitpanda Clients and shall in no event be seen as a deposit (Einlage) of any kind.
+Therefore, if a Bitpanda Client does not use an F-Token in exchange for another Token within a period of 12 months after such F-Token has been booked on the Bitpanda Client's Wallet ("Reference Period"), Bitpanda shall deduct F-Token having the monetary value of EUR 5.00 (based on the figures used by Bitpanda in the Bitpanda System) from the Bitpanda Clients Account per calendar month as long as the Bitpanda Client does not make valid use of the respective F-Token.
+Every time the Bitpanda Client uses the respective F-Token, the Reference Period restarts from zero.
+
+4.8.
+You may send your M-Token to other Bitpanda Clients however, the Bitpanda System prohibit and do not allow the trade of M-Token between Bitpanda Clients.&nbsp.
+
+4.9.
+Airdrops 
+4.9.1.
+For any airdrop by Bitpanda itself ("Bitpanda Airdrop") Bitpanda automatically books the respective Token or any other digital information unit distributed in such Bitpanda Airdrop to the respective Bitpanda Client Account.&nbsp.
+
+4.9.2.
+For any airdrop by persons other than Bitpanda, Bitpanda does not automatically credit any Token or any other digital information unit to the respective Bitpanda Client Account.
+You have to monitor any airdrop possibilities yourself and if you want to participate in such airdrops you must withdraw the respective Token from the Bitpanda system and book it into the respective system which you think fits to participate in such airdrops.
+Bitpanda does not provide advice on  other airdrops or on ways to participate in such airdrops and you move the Token at your own risk out of a Bitpanda System.
+Bitpanda does not and will not inform you on airdrops other than Bitpanda Airdrops.
+
+5.
+Bitpanda Fork Policies
+5.1.
+Bitpanda applies the fork policy as attached hereto in Annex III ("Bitpanda Fork Policy") and you accept the Bitpanda Fork Policy as part of the GTC.
+
+6.
+BITPANDA TO GO
+6.1.
+Bitpanda Systems offer vouchers, which can be used by you in exchange for Token on Bitpanda Systems ("Bitpanda To Go" or "Token-Voucher").
+
+6.2.
+'Bitpanda To Go' is distributed via partner firms and can be exclusively used within a Bitpanda System after having become a Bitpanda Client.&nbsp.
+
+6.3.
+Each Token Voucher has to be used in one single transaction.
+This means that the Token Voucher may not be split up for different transactions but may be used only for one single Bitpanda Client Offer.
+The exchange rates at the time of the use of the Token Voucher via Bitpanda Systems (and not at the time of the purchase of the Token Voucher) apply (see item 8.1.).
+
+6.4.
+Each Token Voucher is valid only for a period of 3 years after the date of purchase of such Token Voucher.
+
+6.5.
+Each Token Voucher is individualised and there is no possibility to recover any damaged Token Voucher or lost Token Voucher.
+Any such purchaser of Token Voucher is solely liable to keep the Token Voucher in such condition that it can further be used in the Bitpanda System.
+Bitpanda assumes no liability for any damage or loss (including theft) of any Token Voucher by a purchaser of such Token Voucher and Bitpanda assumes no liability for any circumstances which are in the Token Voucher purchaser's sphere resulting in the fact that the Token Voucher cannot be used in a Bitpanda System.
+
+7.
+Bitpanda Index
+7.1.
+Bitpanda Systems offer the option to purchase, sell or exchange several E-Token in one transaction via the "Bitpanda Index".
+To exchange and purchase/sell via Bitpanda Index, the respective provisions in section 3 (in particular 3.1.1., 3.1.2.
+and 3.1.3.) of these general terms and conditions shall apply equally.
+
+7.2.By using Bitpanda Index, you can create a number of Bitpanda customer offers with one 'click' and purchase, sell or exchange E-Token according to a predefined allocation of funds.
+This means that the Bitpanda customer creates combined Bitpanda customer offers for E-Token according to the allocation of funds they have selected.
+
+7.3.
+Bitpanda Systems offer different allocations of funds from which Bitpanda customers can choose freely and independently.
+The weighting of the allocation of funds and the respective (re)calculation of the allocation of funds is carried out by external partners who are independent of Bitpanda ("Index Provider") and Bitpanda has no influence on this.
+You acknowledge and accept that the allocation of funds is not created by Bitpanda itself and that the unlimited availability of the allocation of funds in Bitpanda Systems cannot be guaranteed at all times.
+In particular, Bitpanda reserves the right, at its sole discretion, to change, modify or terminate the offered allocation of funds at any time and to exclude or remove individual tokens from the allocation of funds or not to include individual tokens in the allocation of funds if there are important reasons for this (e.g.
+regulatory requirements).
+Bitpanda ensures that neither financial instruments nor other regulated financial products are included in an allocation of funds.
+
+7.4.
+The current balance of E-Token held using Bitpanda Index is recorded and displayed in a separate wallet in the respective Bitpanda customer account ("Index Wallet").
+You, as a Bitpanda customer, do not purchase a complete product or an index-representing token, but individual E-Token according to the allocation of funds you have selected (e.g.
+BCI5).
+
+7.5.
+The allocation of funds provided by Bitpanda Systems are adjusted to the parameters (e.g.
+market capitalisation) specified in the respective allocation of funds ("Rebalancing") pursuant to a predefined period of time (e.g.
+at the end of the month).
+Rebalancing creates corresponding Bitpanda customer offers for the exchange, purchase or sale of E-Token recorded and displayed in the Index Wallet.
+You hereby confirm and grant Bitpanda the right to carry out the corresponding and periodic exchange, purchase and/or sale orders for E-Token according to the allocation of funds you have selected.
+In addition, you accept and agree to pay all applicable fees in connection with the exchange, purchase and/or sale orders placed in the Rebalancing process.
+Rebalancing will generally take place no later than four business days after the end of a period.
+Bitpanda reserves the right, however, to only execute exchange, buy or sell orders within the scope of Rebalancing at its sole discretion once certain minimum sizes per order have been reached.
+You are aware and hereby confirm that the rebalancing may have tax implications for you as a Bitpanda customer (see point 13.1.
+ix).
+
+7.6.
+It can sometimes be the case that certain E-Token included in the allocation of funds are not offered in Bitpanda Systems.
+In such cases, Bitpanda will take appropriate steps to integrate these E-Token into Bitpanda Systems within a reasonable period of time.
+Should Bitpanda have successfully completed the integration of the respective E-Token, this E-Token will be added to the next Rebalancing and the corresponding Index Wallet at the price displayed in Bitpanda Systems on the day of the subsequent Rebalancing.
+The actual extent to which E-Token are integrated into Bitpanda Systems (e.g.
+trading options, wallet services) is at Bitpanda's sole discretion.
+In particular, Bitpanda reserves the right not to provide a separate wallet in Bitpanda Systems for certain E-token included in an allocation of funds.
+in such cases you can only exchange the respective E-Token for other Tokens available in Bitpanda Systems.
+
+7.7.
+You can exchange the E-Token recorded and displayed in the Index Wallet for other Tokens at any time by creating a corresponding Bitpanda customer offer.
+Such a Bitpanda customer offer must refer to either (i) the total number of E-Token displayed and recorded in the Index Wallet or (ii) a proportionate number of E-Token displayed and recorded in the Index Wallet corresponding to the ratio of the selected allocation of funds.
+You confirm and accept that such customer offer - in total or proportionate - may only be possible above a certain minimum amount.
+It is not possible to exchange individual E-Token which are displayed and booked in the Index Wallet.
+Alternatively, you can transfer the E-Token recorded and displayed in the Index Wallet directly to the corresponding wallet in your Bitpanda customer account.
+
+7.8.
+You acknowledge and accept that Bitpanda Index can be terminated or discontinued at any time.
+If Bitpanda Index is terminated, Bitpanda will inform you of any such termination within a reasonable period of time.
+You can then either sell or exchange (Swap) the Tokens displayed and booked in the Index Wallet or transfer them to the corresponding Wallet on your customer account.
+If you do not take action, Bitpanda will credit the equivalent value (pursuant to the prices displayed and offered within Bitpanda systems) of the displayed Tokens and held in the Index Wallet to your Wallet or Fiat Wallet within a reasonable period of time (and deduct the respective fees incurred for this).
+This is done at Bitpanda's sole discretion.
+This notice period may also be waived for important reasons.
+
+7.9.
+The E-Token recorded and displayed in the Index Wallet can neither be sent to other Bitpanda customers nor to wallet addresses outside of Bitpanda Systems.
+Partial removal of individual E-Token is also excluded.
+
+8.
+Prices, Payment Conditions, Exchange and Transfer Conditions
+8.1.
+Prices and/or exchange rates published in connection with the Final Offer Click are final and binding for the Bitpanda Client Offer (each a "Final Rate").
+
+8.2.
+Final Rates contain the following parts, which are shown on the webpage of the Final Offer Click: 
+8.2.1.
+in case you want to purchase F-Token: 
+i.
+offered amount in a currency that is legal tender 
+ii.
+F-Token received if offer is accepted by Bitpanda 
+iii.
+bonus in F-Token (volume of the bonus depending on which payment method you have chosen) booked directly on the Euro Wallet if offer is accepted by Bitpanda 
+iv.
+Final Rate, being the sum of items i-iii above 
+8.2.2.
+in case you want to purchase E-Token: 
+i.
+offered amount in a currency that is legal tender 
+ii.
+E-Token received if offer is accepted by Bitpanda 
+iii.
+bonus in the respective E-Token (volume of the bonus depending on which payment method you have chosen) booked directly on the E-Token Wallet if offer is accepted by Bitpanda 
+iv.
+Final Rate, being the sum of items i-iii above 
+8.2.3.
+in case you want to exchange F-Token for E-Token: 
+i.
+offered F-Token 
+ii.
+E-Token received if offer is accepted by Bitpanda 
+iii.
+Final Rate, being the sum of items i-ii above 
+8.2.4.
+in case you want to exchange E-Token for F-Token: 
+i.
+offered E-Tokens 
+ii.
+F-Token received if offer is accepted by Bitpanda 
+iii.
+Final Rate, being the sum of items i-ii above 
+8.2.5.
+in case you want to exchange E-Token for another different E-Token: 
+i.
+offered E-Token&nbsp.
+
+ii.
+other different E-Token received if offer is accepted by Bitpanda 
+iii.
+Final Rate, being the sum of points i-ii above 
+8.2.6.
+in case you want to exchange F-Token for another different F-Token: 
+i.
+offered F-Token 
+ii.
+other different F-Token received if offer is accepted by Bitpanda 
+iii.
+Final Rate, being the sum of points i-ii above 
+8.2.7.
+In case you want to use Bitpanda Savings: 
+i.
+offered amount in a currency that is legal tender 
+ii.
+E-Token received if offer is accepted by Bitpanda and pursuant to the applicable exchange rates listed on Bitpanda Systems at the time of CCOFA which occurs at the latest within 72 hours after the point in time specified by you in advance 
+iii.
+Final Rate, being the sum of points i-ii above 
+8.3.
+Each Bitpanda Client Offer must at least have a monetary value (based on the figures used by Bitpanda System), stated by the respective Final Rate of EUR 1.00.&nbsp.
+
+8.4.
+Payments in a currency which is legal tender to and from Bitpanda to and from you, are transferred by the respective payment service provider and not by Bitpanda itself.
+
+8.5.
+Transfers of Token are conducted by Bitpanda within Bitpanda Systems.
+
+8.6.
+Final Rates and/or any other payments or services have to be paid and/or transferred by you immediately after the Final Offer Click.
+
+8.7.
+In case of using Bitpanda Savings, you can choose between SEPA Direct Debit mandate or recurring credit card debiting as payment method: 
+8.7.1.
+SEPA Direct Debit mandate: The respective payment amount is immediately payable and due for collection on the respective collection time, which Bitpanda can freely determine in advance.
+By using SEPA Direct Debit mandate, you hereby revocably grant Bitpanda or a company affiliated with Bitpanda a SEPA Direct Debit mandate in order to collect the payments payable by you when due from your specified account by means of a recurring and regular SEPA Direct Debit mandate.
+You acknowledge and agree that the time of collection from your bank account may be up to ten days prior to the respective recurring purchase time specified by you.
+You hereby also authorise your bank to redeem the Direct Debits.
+Your bank is also entitled to decline Direct Debits, especially if your account does not have sufficient cover.
+You have the right to initiate a chargeback to your account within 56 calendar days (8 weeks) from the debit date without stating any reasons (âDirect Debit Chargebackâ).
+In such case, the terms and conditions as agreed by you with your bank apply.
+Please note: The claim due, according to the Final Rate accepted and confirmed by you in the Multiple Debit Order (as defined in section 8.2.7.) will remain payable in case of a Direct Debit Chargeback.
+Since you have been informed of the amount and the debit dates accordingly, you revocably waive the right to obtain pre-notifications before collections of Direct Debits are made.
+You are obliged to provide sufficient funds on your account on the due date.
+If collection via SEPA Direct Debit mandate is not possible (e.g.
+bank refuses or rejects the Direct Debit), you will bear any resulting costs (e.g.
+bank fees) and you authorise Bitpanda to execute a Direct Debit again on a later date.
+This also applies to all costs incurred to Bitpanda in connection with a Direct Debit Chargeback and/or revocation of a SEPA Direct Debit mandate.
+You authorise and grant Bitpanda the right to deduct such costs directly from any of your Token.
+The provisions as set forth in section 8.9.
+and 8.10.
+apply equally in these cases.
+You are aware and accept that the initial setup of a SEPA Direct Debit mandate may take up to ten calendar days after submitting your necessary data to Bitpanda until it is fully implemented and hence, Direct Debits can be executed (the same applies in  case you amend the amount of your Multiple Debit Order).
+
+8.7.2.
+Recurring credit card payment: The respective payment amount is immediately payable and due for collection on the respective recurring purchase point in time specified by you in advance.
+Hence, you authorise Bitpanda to charge your credit card accordingly and in accordance with the general terms and conditions applicable for your credit card.
+You are obliged to provide sufficient funds on your credit card on the due date.
+If collection by credit card is not possible (e.g.
+insufficient funds), you will bear any resulting costs (e.g.
+credit card fees).
+In such a case, the provisions of point 8.9.
+and 8.10.
+apply equally.&nbsp.
+
+8.7.3.
+If execution of a Multiple Debit Order is not possible, for whatever reason, no E-Token will be credited to your Bitpanda Client Account.
+In such a case, Bitpanda will notify you by e-mail of the failure of executing the order.&nbsp.
+
+8.7.4.
+You may revoke a Multiple Debit Order issued by SEPA Direct Debit or credit card at any time.
+A revocation of the SEPA Direct Debit mandate shall take effect no later than two Business Days after your revocation was communicated to us.
+Please note that your Multiple Debit Order issued via SEPA Direct Debit mandate will still be executed after revocation or pause, provided that your revocation or pause falls between the time of collection from your bank account and the respective recurring purchase time.
+
+8.7.5.
+Bitpanda is entitled to refuse the Bitpanda Savings service to individual Bitpanda Clients for objective reasons.&nbsp.
+
+8.8.
+Until the purchase price, including all fees and expenses, and/or any other outstanding amounts and/or claims have been fully paid, or any Token in exchange have been fully transferred to Bitpanda, any Token or proceeds thereof, remain the property of Bitpanda (Reservation of Title.
+Eigentumsvorbehalt) and Bitpanda has a right of retention (ZurÃ¼ckbehaltungsrecht) regarding the Token of the respective Bitpanda Client.
+This reservation remains in force regardless of any form of processing or blending of goods, which may take place in any location worldwide.&nbsp.
+
+8.9.
+Your payment/transfer is delayed if the respective payment/transfer is not booked on Bitpanda's accounts (including Wallets and storages of Bitpanda) at the time when the respective CCOFA (as set forth under item 3.1.5.) has been completed by Bitpanda or a collection via SEPA Direct Debit mandate cannot be fulfilled (see point 8.7.).
+Bitpanda cannot be in delay because Bitpanda either accepts an offer by completing the respective CCOFA or denies an offer in all other cases of not completing the respective CCOFA.&nbsp.
+
+8.10.
+In the case you are in delay with your transfer, Bitpanda may charge reminder fees to a reasonable relation to the amount in delay/value of transferred Token in delay and as far as such fees are necessary to cover adequate costs of Bitpanda to administer such delay and enforce Bitpanda's rights (a total amount of at least EUR 5.00 up to a maximum of EUR 15.00 will be charged).
+In case the respective Bitpanda Client does not settle debts within a reasonable time, Bitpanda reserves the right to entrust a debt collection agency with the collection of the claimed debt.
+In such case(s) Bitpanda will additionally charge EUR 5.00 processing fee for claims between EUR 0 and EUR 500.00 and EUR 10.00 processing fee for claims of more than EUR 500.00.
+Furthermore, any additional expenses charged by the debt collection agency towards Bitpanda complying with the "Verordnung des Bundesministers fÃ¼r wirtschaftliche Angelegenheiten Ã¼ber die HÃ¶chstsÃ¤tze der Inkassoinstituten gebÃ¼hrenden VergÃ¼tungen" (BGBI Nr.
+141/1996 idgF), will be charged to the Bitpanda Client, as long as these are reasonable and necessary to cover adequate prosecution costs.
+
+8.11.
+Bitpanda allows within the single account rule (item 4.1.) also only a single match between a Bitpanda Client Account and a payment service provider account (e.g.
+bank account, Neteller account, etc).
+Respectively any account with a payment service provider may be used only by one single Bitpanda Client.
+The name of the payment service user must match the name of the Bitpanda Client attached to the respective Bitpanda Client Account.
+
+8.12.
+You have to fully comply with the data disclosure requirements in the payment processes, in particular when paying via SEPA.
+If you do not comply with the data disclosure requirements Bitpanda cannot match the respective payment with your Bitpanda Client Account with the consequence that Bitpanda has to start a manual tracking process, for which Bitpanda shall charge you a processing fee in addition to any damage claims (if any) according to item 4.3.
+above.
+
+8.13.
+Bitpanda reserves the right in all cases where a failure occurs with respect to payments from Bitpanda to you, which is in your sphere (e.g.
+incorrect IBAN provided by you or technical failure of your payment service provider, etc) to transfer instead (parts of) available F-Token having the same value in a currency which is legal tender at the time when the failure has occurred.
+The received F-Token completely replace the payment without any further claim.
+
+8.14.
+Bitpanda reserves the right to change, amend and/or disallow accepted payment methods at its own discretion.
+
+8.15.
+In the case of transferring E-Token from and to a Bitpanda System to an external blockchain, meaning out of or into a Bitpanda System,&nbsp.
+
+8.15.1.
+transaction fees or miner-fees may occur, which must be settled directly by the Bitpanda Client.
+
+8.15.2.
+the transaction-ID, as generated by the network, serves as irrefutable proof of the completed transfer of E-Token from Bitpanda to Bitpanda Client's last disclosed wallet-address.
+Such transaction-ID will also be communicated to the Bitpanda Client's last disclosed email address as part of a delivery confirmation email.
+
+8.15.3.
+the transaction is completed and cannot be reversed once the transaction appears on an external blockchain network.
+You are aware and accept that from this point onwards Bitpanda has no influence anymore on the transaction and whether or not you have access to such transferred E-Token via your last disclosed wallet-address.
+You are aware and accept that the transfer can only be accepted by a confirmation on the blockchain and that Bitpanda assumes no liability whatsoever that such confirmation is given.
+You assume full responsibility for the receipt of the adequate transaction confirmation by an external blockchain.
+
+8.15.4.
+upon the transfer of the E-Token out of a Bitpanda System the assumption of risk, especially the risk of deterioration and loss, passes to you.
+
+8.16.
+You are solely responsible for the accuracy of your own wallet-addresses outside of a Bitpanda System and for ensuring that they are correct and kept up to date.
+This applies in particular to a transfer from a certain E-Token to a wallet-address which is meant for another E-Token (e.g.
+Bitcoin to Litecoin).
+Should the E-Token be transferred to your last disclosed wallet address, the E-Token cannot be transferred back or sent to another wallet-address.
+Bitpanda assumes no liability whatsoever for any failures with respect to wallet addresses outside of a Bitpanda System.&nbsp.
+
+8.17.
+You are solely responsible for the accuracy of your own wallet-addresses inside a Bitpanda System and for ensuring that they are correct and kept up to date.
+This applies in particular to a transfer from a certain E-Token to a wallet address which is meant for another E-Token (e.g.
+Bitcoin to Litecoin).
+Should the E-Token be transferred to your wrong E-Token Wallet, the E-Token cannot be transferred back or sent to another E-Token Wallet.
+Bitpanda assumes no liability whatsoever for any failures of a Bitpanda Client with respect to wallet addresses inside a Bitpanda System.
+
+8.18.
+You are obliged to ensure that in the case of E-Token refunds which are made by third parties onto the hot wallet of Bitpanda, that these transactions can be assigned faultlessly to you.
+Such a case may occur, when you transfer E-Token from Bitpanda's hot wallet to a third party and the recipient sends the appropriate refunds back to Bitpandaâs hot wallet.&nbsp.
+
+9.
+Right of withdrawal
+9.1.
+You must explicitly give up your 14-day right of withdrawal, from which consumers benefit according to section 11 of the "Fern- und AuswÃ¤rtsgeschÃ¤fte-Gesetz" (the "FAGG"), in order to allow Bitpanda in accordance with section 18 para 1 no 11 FAGG to transfer E-Token or any other cryptographic blockchain-based digital information units (as digital content not stored on a physical data carrier) before the right of withdrawal expires.
+Bitpanda Systems transmit a confirmation of the closed contract to the respective Bitpanda Client according to section 5 para 2 of the FAGG immediately after the CCOFA.
+
+10.
+Bitpanda Pro
+10.1.
+In addition to the services outlined in item 3.
+Bitpanda offers an exchange service enabling you to obtain prices for your purchases and sales of E-Token via Bitpanda Pro (https://exchange.bitpanda.com or its associated APIs).
+Bitpanda Pro provides an order book exchange platform for various E-Token and F-Token trading pairs and eligible Bitpanda Clients may use this service.&nbsp.
+
+10.2.
+Persons interested in using Bitpanda Pro have to be a Bitpanda Client in order to create a âBitpanda Pro Exchange Accountâ.
+You fund your Bitpanda Pro Account by depositing (i) E-Token and/or F-Token via your Bitpanda Client Account (see point 4.), (ii) supported Token from an external wallet or (iii) directly via available payment service providers pursuant to point 8.
+You can only use your funds in your Bitpanda Pro Account to trade on Bitpanda Pro.
+In order to withdraw E-Token and/or F-Token from your Bitpanda Pro Account you have to transfer such Token to your Bitpanda Client Account or F-Token via available payment service providers.
+You are aware and accept that you cannot withdraw any Token that are held in Open Orders.
+
+10.3.
+Whenever you access Bitpanda Pro (through https://exchange.bitpanda.com or its associated APIs) you accept and agree to this GTC and the applicable trading rules as outlined in Annex II (âTrade Rulesâ) which are an integral part of this GTC.
+Further, you accept and agree to pay all applicable fees in connection with your order(s) placed on Bitpanda Pro.
+In particular, you authorise Bitpanda to automatically deduct fees from your Bitpanda Pro Account or Bitpanda Client Account, in case the Bitpanda Pro Account has insufficient funds.
+You empower and grant Bitpanda the right to deduct such fees from your E-Token.
+If no E-Token is available, then the equivalent value will be deducted from available token on your Bitpanda Accounts.
+You find the current rates of the Bitpanda Pro trading fees displayed on Bitpandaâs website.
+
+11.
+Bitpanda Card
+11.1.
+If you sign up to use the digital asset-backed debit card service (âBitpanda Cardâ) the following terms will apply and you expressly agree to these terms and conditions.
+
+11.2.
+In order to provide the Bitpanda Card Service to you, we have partnered with UAB FinansinÄs paslaugos, company code 304406236, registered in the commercial register of the Republic of Lithuania, having a head office at MÄnulio g.
+11-101, Vilnius, Lithuania (âContisâ).
+Contis is the issuer of the Bitpanda Card and is a member of the Visa card schemes (âVisaâ), which will be used to enable your Bitpanda Card to operate as a regular debit card.
+When you sign up for the Bitpanda Card you also agree to the Contis Bitpanda Card Account Terms and Conditions (available at https://www.bitpanda.com/en/legal#terms-contis) and Contis Privacy Policy (available at https://www.bitpanda.com/en/legal#privacy-contis).
+
+11.3.
+To be able to sign up and use the Bitpanda Card you must (i) have a fully verified Bitpanda Client Account, (ii) be a resident in the Euro Area (i.e.
+resident of a European Union Member State that has adopted the euro as its currency), (iii) have assets (i.e.
+any kind of offered and available token within the Bitpanda system) worth an equivalent value of at least EUR 100.00 within the Bitpanda system (including Bitpanda Pro) and (iv) have downloaded and installed the Bitpanda mobile app.
+
+11.4.
+You can order a Bitpanda Card only on your legal name as registered with your Bitpanda Client Account.
+Therefore, please make sure your name registered with Bitpanda is spelled correctly.
+You acknowledge and accept that you are only allowed to order and have one active Bitpanda Card per Bitpanda Client Account.
+
+11.5.
+You can only use your Bitpanda Card at places where Visa credit and debit card payments are accepted.
+Please note that you can connect up to two specific assets of your choice to your Bitpanda Card.
+The default asset that you connect to your Bitpanda Card is called the âMain payment assetâ (e.g.
+your E-Token wallet for Bitcoin) and the optional asset that will be used as a fallback asset is called the âFallback payment assetâ (e.g.
+your E-Token wallet for Ethereum).
+Please make sure to always have sufficient funding on your Main payment asset or Fallback payment asset as transactions can only be completed successfully if you have enough funds on these two assets.
+If a payment is too big to be covered by the connected Main payment asset, the full amount will be deducted from the Fallback payment asset.
+This helps to avoid failed transactions if your Main payment asset runs low on funds.
+If neither the Main payment asset nor the Fallback payment asset cover the transaction costs (including fees), then the transaction will be cancelled and fail, and your card will be declined at the respective point of sale.
+
+11.6.
+Any payments and transactions made via your Bitpanda Card will be facilitated in EUR.
+This means that whenever you use (i.e.
+purchase or ATM withdrawal) your Bitpanda Card the following happens: 
+i.
+If you connected an asset other than a euro wallet as your Main payment asset and/or Fallback payment asset, then the respective amount will be automatically sold from your connected Main or Fallback payment asset to your euro wallet.
+You hereby grant Bitpanda the right to conduct such automatic sales (including trading premiums).
+The sale will be performed in accordance with item 3.1.1 and item 8.2.4 of these GTCs.
+
+ii.
+The respective amount sold to your euro wallet will then be deducted from your euro wallet to settle your purchase or transaction for which you used the Bitpanda Card.
+
+11.7.
+Whenever you use your Bitpanda Card and your connected Main payment asset and/or Fallback payment asset is deducted from a wallet other than a euro wallet, your respective Token will be sold and converted to your euro wallet.
+For such a sale, the standard Bitpanda premium structure is applied.
+Besides the trading premium, an additional ATM withdrawal fee and a foreign exchange fee is applied.
+Fees may vary depending on your BEST VIP Level.
+You can find a detailed overview of all the fees here bitpanda.com/card#fees.
+
+11.8.
+Please note that for certain payments and transactions such as reservations for hotels or car rentals or any other kind of deposits, we have to deduct the value of the respective payment upfront.
+This means that the sale from your chosen Main payment asset and/or Fallback payment asset to your euro Wallet and the respective EUR deduction will simultaneously take place at the time you initiate such a payment or transaction.
+
+11.9.
+You acknowledge and accept that certain limits (such as but not limited to spending limits, ATM withdrawal limits, the number of transactions you may perform within a specific time frame) may be applied.
+Furthermore, you acknowledge that such limits may change and/or be amended at any time at Bitpandaâs sole discretion.
+
+11.10.
+Bitpanda clients who are considered BEST VIPS are eligible to receive cashback on purchases conducted with the Bitpanda Card, if the chosen and connected Main payment asset and Fallback payment asset is an asset other than a fiat wallet (âCashbackâ).
+Any Cashback will be credited and paid out solely in BTC.
+The Cashback amount you may receive is a specific percentage of your purchase conducted with the Bitpanda Card and depends on your BEST VIP level.
+You hereby acknowledge and accept that the Cashback feature itself, amounts of Cashback and/or forms of payouts of potential Cashback may be amended, changed or terminated at any time at Bitpandaâs sole discretion and you do not have a legal claim against Bitpanda to receive any kind of Cashback in any form.
+The Cashback will be credited directly to your BTC wallet on Bitpanda after each successful transaction conducted with your Bitpanda Card.
+You acknowledge and agree that the crediting of the Cashback may be delayed and Bitpanda shall not be liable for any losses arising out of or in connection with a late credit of Cashback (e.g.
+losses due to price changes).
+
+11.11.
+If your BEST VIP level changes before 11:00 PM CET, such a change will be reflected in your card conditions after 23:59 CET of the same day the level changes.
+For example, if you go from BEST VIP level 1 to level 2 on Monday, at 16:00 CET, then all new BEST VIP benefits for your Bitpanda Card will start to apply on the same Monday, at 23:59 CET.
+Any changes in your BEST VIP level after 11 PM CET will be applied at 23:59 CET on the next day after such a change.
+
+11.12.
+Once a transaction has been completed successfully, there will be an entry in your Bitpanda history, showing all transactions (including Cashback) conducted using your Bitpanda Card.
+Bitpanda will strive to ensure that the transactions shown in the Bitpanda history and in your dashboard are current and accurate at all times.
+However, due to technical or other issues, discrepancies between the transactions shown in the Bitpanda history and the actual transaction might occur.
+You hereby acknowledge and accept that Bitpanda will not be liable for any direct or indirect losses resulting out of any discrepancies between your Bitpanda history and the actual transaction.
+
+11.13.
+If a transaction fails, you will receive a push notification (given you have enabled push notifications) with instructions on how to proceed.
+Most payments may fail due to insufficient funds in your connected wallet.
+Make sure you have enough funds in your chosen Main payment asset and/or Fallback payment asset to cover the payment amount.
+Transactions will also fail if you exceed your daily card limits, if your card is blocked or any other reason (such as but not limited to: you have entered an incorrect pin, your Main payment asset and/or Fallback payment asset was in maintenance mode while initiating the payment, a technical issue occurred on the merchantâs side, etc).
+You acknowledge and accept that Bitpanda will not be liable for any direct or indirect losses resulting out of any failed transaction for any reason.
+
+11.14.
+If you receive a refund (for inter alia security deposits, cancelled transactions, chargebacks) such a refund will always be credited to your euro wallet, excluding Bitpanda trading- and transaction premiums.
+If you have received Cashback for purchases that are, for whatever reason, refunded, you hereby grant Bitpanda the right to deduct the received Cashback directly from your euro wallet.
+If your euro wallet has insufficient funds, the equivalent value will be deducted from the available Token on your Bitpanda Account.
+Furthermore, you grant Bitpanda the right to deduct funds from the available Token on your Bitpanda Account, should you have used your Bitpanda Card successfully (e.g.
+offline) without having enough assets on your Main or Fallback payment asset.
+
+11.15.
+From time to time, Bitpanda may add new services and promotions for the Bitpanda Card and will announce them to you accordingly.
+All such new services and promotions may be amended, changed or terminated anytime at Bitpandaâs sole discretion and you do not have a legal claim against Bitpanda to receive any kind of said new services and promotions in any form.
+
+11.16.
+If you lost your Bitpanda Card, or your Bitpanda Card was stolen, we highly recommend to instantly block the Bitpanda Card in your Bitpanda mobile app.
+Bitpanda will not bear any losses or damages caused due to lost or stolen cards.
+In some instances, we will need to block the card for you.
+This could happen for, inter alia, the following reasons: You have entered the CVV incorrectly 3 times and/or you have entered the PIN incorrectly 3 times.
+Replacements for stolen or lost Bitpanda Cards may be charged with a service fee from Bitpanda.
+If you received a replacement for your Bitpanda Card, you must destroy and must not use your old Bitpanda Card.
+
+11.17.
+Your Bitpanda Card will renew automatically after three years and a new card will be sent to you at no additional cost.
+For further information regarding termination please see item 13.
+and 19 of Contis Bitpanda Card Account Terms and Conditions.
+
+11.18.
+Please note that Bitpanda, together with Visa, makes every possible effort to use state-of-the-art technology to keep your Bitpanda Card as safe as possible.
+We would urge you to also use your Bitpanda Card cautiously and apply the necessary safety measures.
+Therefore, we highly recommend keeping the following in mind: Never share your CVV, PIN or SMS codes with anyone else.
+Bitpanda staff members will never ask for your CVV, PIN or SMS code.
+It is up to you to keep your card safe and Bitpanda does not take any responsibility for any mistakes or carelessness that may occur on your behalf.
+
+11.19.
+With the Bitpanda Card, we strive to make it as easy and convenient for you to spend your digital assets in real life.
+By doing so, we encourage you to also use your Bitpanda Card in line with this intended purpose (âFair-Use-Policyâ).
+Therefore, Bitpanda reserves the right to withdraw or disqualify you from using Bitpanda Card and/or exclude you from receiving any kind of Cashback, if you are having mainly and/or consistently set your euro wallet as Main payment asset, and/or if you use the Bitpanda Card in any other harmful way or if you breach any of the clauses set forth in this GTCs or any other Terms of Bitpanda Group or its partners or subsidiaries.
+
+12.
+Data Protection
+12.1.
+In the course of delivering the negotiated services, Bitpanda is compliant with the GDPR as set forth in the Data Protection Terms.&nbsp.
+
+13.
+Risks
+13.1.
+You as a Bitpanda Client understand and accept the following risks in connection with using Bitpanda Systems.
+In particular, but without being limited to these examples, you understand the inherent risks set forth above and hereinafter: 
+i.
+Risk of software weaknesses: The underlying software application and software platform, the Bitpanda Systems, mobile applications and System technology, the smart contract systems and other involved software and technology and technical concepts and theories are still in an early development stage and unproven.
+There is no guarantee or warranty that the process for receipt, use and ownership of any cryptographic blockchain-based digital information units will be uninterrupted or error-free and there is an inherent risk that the software and related technologies and theories could contain weaknesses, vulnerabilities or bugs causing, inter alia, the complete loss of any cryptographic blockchain-based digital information units, in particular but not limited to token, Euros or any value of any cryptographic blockchain-based digital information units.
+
+ii.
+Regulatory risk: Blockchain technologies allow new forms of interaction.
+It is possible that certain jurisdictions will apply existing regulations, or introduce new regulations addressing, on blockchain technology-based applications, which may have negative influence on the current setup of the systems and which may, inter alia, result in substantial modifications to the/any cryptographic blockchain-based digital information units/Bitpanda System technology, including its termination or the loss of any cryptographic blockchain-based digital information units or any value which any cryptographic blockchain-based digital information units might have.
+Bitpanda System technology is planned for a market, which is not regulated by financial markets rules.
+It is the design and intended structure not to fall under any financial market rules and Bitpanda and Bitpanda Metals GmbH intend to design, modify and/or adapt the Bitpanda System technology in such way that financial market rules are not applicable on any cryptographic blockchain-based digital information units and/or Bitpanda System technology.
+Respectively within the regulatory risk category also changes in the Bitpanda System technology with respect to such adaptions, amendments and re-designs may cause termination or the loss of any cryptographic blockchain-based digital information units or any value which any cryptographic blockchain-based digital information units might have.
+
+iii.
+Risk of abandonment/lack of success: The allocation of any cryptographic blockchain-based digital information units and the development of the any cryptographic blockchain-based digital information units technologies might be abandoned for a number of reasons, including lack of interest from industry, community and/or the public, lack of funding, lack of commercial success or prospects (e.g.
+caused by competing projects).
+Respectively even if Bitpanda System technology is partially or fully developed and launched, it could happen that any cryptographic blockchain-based digital information units do not receive any functionality.
+
+iv.
+Risk of theft and internet vulnerability: The underlying software application and software platform, the Bitpanda System technology, the smart contract system(s), other involved software, other technology components and/or platforms may be exposed to electronic or physical attacks that could result in the theft or loss of cryptographic blockchain-based digital information units, or the theft or loss of private data, impacting the ability to develop, launch or use Bitpanda System technology.
+You should be aware that SMS/messages and email services are vulnerable to spoofing and phishing attacks and should use care in reviewing messages purporting to originate from Bitpanda or Bitpanda Metals GmbH.
+ You should always log into your Bitpanda Client Account through https://www.bitpanda.com to review any transactions or required actions if you have any uncertainty regarding the authenticity of any communication or notice.
+You should note that phishing attacks often occur despite SMS or email or equivalent services, via search engines or ads in search engines, or other fraudulent links.
+Neither Bitpanda nor Bitpanda Metals GmbH take any responsibility for lost Token or any other funds due to spoofing, phishing or other equivalent attacks.
+
+v.
+Risk of blockchain mining attacks: As with any other public blockchain-based systems, the Bitpanda System technology may be susceptible to attacks including but not limited to double-spend attacks, majority mining power attacks, âselfish-miningâ attacks, and race condition attacks or any other mining or non-mining related attacks.
+Any successful attacks present a risk to the Bitpanda System technology, expected proper execution and sequencing of cryptographic blockchain-based digital information units transactions and expected proper execution and sequencing of software computations.
+
+vi.
+Risk of depreciation in value/extreme volatility: As cryptographic blockchain-based digital information units are not regulated the value of cryptographic blockchain-based digital information units is assessed differently.
+Respectively the value of cryptographic blockchain-based digital information units in whatever form might experience extreme volatility and/or the value of cryptographic blockchain-based digital information units might decline to zero.
+As additional cost with respect to regulatory or other risks might be triggered â and if such cost are added for the purpose of calculation to the value of cryptographic blockchain-based digital information units (whatever value you might give to the cryptographic blockchain-based digital information units) â cryptographic blockchain-based digital information units might also decline in their value to zero.
+
+vii.
+General risk: There is no guarantee/warranty whatsoever on cryptographic blockchain-based digital information units and/or the success of the Bitpanda System technology, expressed or implied, to the extent permitted by law, and that cryptographic blockchain-based digital information units are created and obtained at the sole risk of the Bitpanda Client on an âas isâ and âunder developmentâ basis and without, to the extent permitted by law, any guarantees/warranties of any kind, including, but not limited to, warranties of title or implied warranties, merchantability or fitness for a particular purpose.
+
+viii.
+Market and community risk: You are aware of the risks of soft and hard forks and splitting including the broad possible changes to Bitpanda System technology which might be imposed by the market or community on Bitpanda/Bitpanda System technology.&nbsp.
+
+ix.
+Tax risk: The tax consequences of the allocation or purchase of cryptographic blockchain-based digital information units (in whatever form) as well as the exchange of cryptographic blockchain-based digital information units, the holding of cryptographic blockchain-based digital information units (in whatever form), the alienation of cryptographic blockchain-based digital information units (in whatever form) and/or any other action or transaction related to cryptographic blockchain-based digital information units may have tax implications at the level of a Bitpanda Client.
+therefore, you should contact your own tax advisors on the tax consequences in connection with the cryptographic blockchain-based digital information units and the Bitpanda System technology.
+by making a Bitpanda Client Offer to Bitpanda, using Bitpanda Pro and/or by receiving, using or holding cryptographic blockchain-based digital information units, and to the extent permitted by law, you agree not to hold any associated party (including Bitpanda, Bitpanda's auditors, Bitpanda's contractors, Bitpanda's advisors, Bitpanda's employees or Bitpanda's founders) liable for any tax liability associated with or arising from making an Bitpanda Client Offer, using Bitpanda Pro, the allocation, use or ownership of cryptographic blockchain-based digital information units or any other action or transaction related to cryptographic blockchain-based digital information units.
+
+14.
+Warnings
+14.1.
+Investing in cryptographic blockchain-based digital information units is highly speculative with a risk of loss of the entire capital invested.
+Such investment is only suitable for users, who can bear a loss of the entire invested capital.
+
+14.2.
+Investing in cryptographic blockchain-based digital information units means investing in something totally new and unpredictable.
+Such investment is only suitable for users, who want to take maximum risk.
+
+14.3.
+Cryptographic blockchain-based digital information units are no currencies or means of payment and are neither accepted by states, central banks nor must a private person accept them in any way.
+
+14.4.
+Bitpanda does not take any responsibility for the prices of precious metals and you trade in precious metals at your behalf and risk.&nbsp.
+
+14.5.
+Bitpanda does not take any responsibility for cryptographic blockchain-based digital information units that are or tend to be collateralised, backed or pegged by a currency that is legal tender or any other asset of whatever form (e.g.
+stablecoins) as all actions in connection to such cryptographic blockchain-based digital information units are in the sole responsibility of its issuer and Bitpanda has no discretion over such actions.
+You agree and confirm that such cryptographic blockchain-based digital information units are collateralised, backed or pegged solely by the issuer and not by Bitpanda itself.
+Therefore, you cannot redeem or convert such cryptographic blockchain-based digital information units with Bitpanda.
+
+14.6.
+You use the offered Bitpanda Systems at your own risk.
+
+15.
+Miscellaneous
+15.1.
+Bitpanda manages the Bitpanda Systems with due care.
+Nevertheless, systems for the exchange of cryptographic blockchain-based digital information units combine various new fields of experimental technology and it is very likely that interruptions, failures and other problems occur.
+Neither Bitpanda nor Bitpanda Metals GmbH gives any guarantee with respect to finding solutions for any such problems as soon as possible.
+Bitpanda and Bitpanda Metals GmbH assume no responsibility other than to try to find solutions and therefore assumes no liability whatsoever for any damage caused by interruptions of a Bitpanda System because any such interruptions are immanent in an experimental field of technology.
+
+15.2.
+You are aware that technology-based systems like Bitpanda Systems need maintenance work and development work and that for such work interruptions of the systems (planned and unplanned) are necessary and system immanent.
+
+15.3.
+Bitpanda shall&nbsp.
+
+15.3.1.
+via business clients only be liable for any direct and foreseeable damage in the case of intent or in cases physical damages of persons negligently caused by Bitpanda.&nbsp.
+
+15.3.2.
+via consumers only be liable for any direct and foreseeable damage in the case of intent, gross negligence or in cases of physical damages of persons negligently caused by Bitpanda.
+
+15.3.3.
+in no case be liable for indirect damages, consequential damages, especially regarding damages to other software, lost profit, pure property damages of a Bitpanda Client or third-party damage.&nbsp.
+
+15.3.4.
+in particular not be liable for damages caused by interruptions of Bitpanda Systems which are necessary for maintenance work or to avoid network disturbances and/or which are caused by inevitable occurrences which are outside Bitpanda's and Bitpanda Metals GmbHâs control (e.g.
+energy network disturbances.
+regulatory authority interference or on-site visits.
+strikes, riots, environmental causes like earthquakes, storms, etc.
+wars or national or international conflicts with and without arms.
+international or national sanctions against certain products, services, persons, countries.
+legal limitations to cryptographic blockchain-based digital information units at any time or place worldwide.
+network interference, computer failures or criminal activities through third parties (for example hacking).
+
+15.3.5.
+not be liable for and cannot guarantee that the security certificates displayed on any Bitpanda System are completely secure.&nbsp.
+
+15.3.6.
+not be liable for any loss of users' data (e.g.
+due to hacker attacks) which are beyond Bitpanda's and Bitpanda Metals GmbHâs sphere.
+A Bitpanda Client shall be informed immediately about the loss of data.&nbsp.
+
+15.3.7.
+assume no liability for (i) stored E-Token in any hot and/or cold wallet for a Bitpanda Client.
+(ii) information of the Bitpanda Client used for transactions into or out of Bitpanda Systems, (iii) transactions into or out of Bitpanda Systems, (iv) a Bitpanda Client or person using websites, mobile applications or services, not provided by Bitpanda or Bitpanda Metals GmbH such as third party wallet services or any other services of any third party and (v) any user's login data, Bitpanda Client login data, 2FA data, or other user data.
+In using websites or services, not provided by Bitpanda or Bitpanda Metals GmbH such as wallet services or any other services of any third parties, Bitpanda and Bitpanda Metals GmbH expressly disclaim any liability for the third-party services and are not responsible for the performance of the third-party services or supplier.
+You as a Bitpanda Client use these services completely at your own risk.
+Funds sent to such third parties cannot be reverted, as these parties are not willing to.
+We can and will not check the reliability of these third parties.
+We have no obligation to contact or solve the problem with any third party.
+
+15.4.
+Bitpanda undertakes to care for the E-Token stored by the Bitpanda Client to the extent to which it is reasonably technically manageable in Bitpanda Systems and endeavours to store the majority of these "cold" â meaning offline.
+
+15.5.
+Tell-a-Friend Programme
+
+15.5.1.
+Bitpanda offers a refer-a-friend programme for an undetermined period of time.
+A respective referral code for this programme can be found in the Bitpanda Client's Account.
+You may recommend a person to register as a new Bitpanda Client ("Promoter") and to use the Promoter's referral code ("Promoter Referral Code").&nbsp.
+
+15.5.2.
+You, as a Promoter, receive EUR 10.00 in F-Token for every new Bitpanda Client Account created by using the Promoter Referral Code (âPromotion Awardâ) meeting the following requirements: The referred Bitpanda Client has to complete the verification successfully, deposit at least EUR 25.00 and purchase E-Token or M-Token of an equivalent amount of at least EUR 25.00 via Bitpanda Broker (Bitpanda Pro excluded).
+Provided these requirements are met, the referred Bitpanda Client also receives EUR 10.00 as an award.
+These two awards will be booked in form of F-Token, respectively, and can be time-displaced.
+You acknowledge and accept that Bitpanda may modify or terminate the account opening bonus at any time at its sole discretion.
+In particular, Bitpanda reserves the right to modify or cancel both the account opening bonus for the Promoter and the amount received by the referred Bitpanda Client depending on the location/residence and/or nationality of the persons involved.
+
+15.5.3.
+Within the context of this Tell-a-Friend Programme and for any other context, a Promoter may only use advertising materials provided by Bitpanda.
+Alterations to these materials or the use of materials created by the Promoter are strictly forbidden.
+&nbsp.
+
+15.5.4.
+Spamming, cold calling or any other intrusive advertising measures are strictly forbidden.&nbsp.
+
+15.5.5.
+Any act on behalf of Bitpanda is forbidden (e.g.
+sending messages on behalf or in the name of Bitpanda to persons.
+publishing postings or publishing any statement on behalf of Bitpanda, editing the logo(s), brands or other material of Bitpanda, promoting any discounts for the services of Bitpanda (except for discounts which are published by Bitpanda themselves)).&nbsp.
+
+15.5.6.
+Any Promoter must refrain from any Pay Per Click (PPC) or Search Engine Marketing (SEM) activity, including but not limited to Google Adwords, Bing Ads, in terms of (i) advertising on behalf of Bitpanda and leading users directly to Bitpanda Systems, the Promoterâs website or any other third party website as a result of that paid advertising, as well as (ii) bidding on Bitpanda brand terms, including any forms of misspellings and typos, also (iii) using Bitpanda brand terms, including any misspellings or typos within the paid ads text, and (iv) directly competing against Bitpanda ads in order to show on the search results pages.
+
+15.5.7.
+Any Promotion Award is booked in the Bitpanda Client Account of the Promoter and must be redeemed within 180 days by using it in exchange for E-Token.
+If a Promotion Award is not used validly within 180 days, it becomes invalid.
+
+15.5.8.
+Persons with residence/seat in Germany are excluded from participation in the "Tell-a-Friend Programme" due to regulatory reasons in Germany.
+
+15.6.
+You may not transfer E-Token out of the Bitpanda Systems in an ICO (Initial Coin Offering), or a comparable offer where digital currency or assets are returned, to the respective smart contract unless specifically authorised by Bitpanda.
+Should you do so anyway, the returned digital currency or assets will be credited to Bitpanda (see item 8.18.
+which applies).
+You accept to meet these regulations and agree to help the support with the return of the digital currency or assets.
+Thus, Bitpanda is entitled to a reimbursement of costs.&nbsp.
+
+15.7.
+Bitpanda has the right to disclose any data to any competent authority if the data is requested to be disclosed by such authority in order to track or investigate any relevant cases under the Austrian Criminal Code (StGB).
+Bitpanda reserves the right to cooperate with such authorities to the maximum extent possible.
+
+15.8.
+You accept and confirm with each transaction hereunder that you accept and confirm these GTC in the current form.
+
+15.9.
+If one or more of the provisions of these GTC or one or more of the schedules hereto are or will become invalid or unenforceable, or if one or more of the provisions of these GTC or one or more of the schedules hereto are or will become incomplete, the other provisions of these GTC and the schedules hereto will remain valid without limitation, save that the main obligations of the parties hereunder remain unaffected.
+Such provision â having been found illegal or unenforceable in whole or in part, shall be ineffective solely to the extent of such determination of invalidity or unenforceability only with respect to the jurisdiction in which it has been found illegal or unenforceable, without having any effect on any other jurisdiction.
+Each invalid or unenforceable provision shall be replaced or completed by a valid and enforceable provision in such a way that the new provision closely reflects the legal and economic effects the parties have concurrently aimed at in the invalid or unenforceable provision.
+
+15.10.
+Changes to and amendments of these GTC, including this clause, may be made by Bitpanda at any time and become effective at the earlier of (i) the Bitpanda Client accepts online the amended GTC or (ii) within 1 month after having published such changes or amendments.
+
+15.11.
+The GTC exclusively govern the relationship between you and Bitpanda and supersede any prior statements or agreements.
+Any terms and conditions (AGB) of you are excluded from being applicable on the relationship between you and Bitpanda.
+
+15.12.
+The failure of Bitpanda to enforce or to exercise, at any time or for any period of time any term of or any right or remedy arising pursuant to or under the GTC shall not constitute, and shall not be construed as, a waiver of such term or right or remedy and shall in no way affect Bitpanda's right to enforce or exercise it later, provided that such right is not time barred, expired or precluded.
+Any waiver to this effect must be explicitly made in writing.
+
+15.13.
+Bitpanda and you agree on English language with respect to our communication.
+Subject to the German terms in brackets referring to Austrian legal terms (which shall be interpreted only with respect to their meaning under Austrian law and with respect to the German language term in brackets), any other language used shall be only used for purposes of convenience.
+Respectively every communication or notice shall be made in English language.
+The English language version of these GTC is the prevailing version.
+
+15.14.
+The GTC and any transaction hereunder shall be governed by and construed in accordance with the laws of the Republic of Austria to the exclusion of the provisions of the United Nations Convention on the International Sale of Goods and without giving effect to any statutory conflict of law provisions or rules that would cause the application of the law of any jurisdiction other than Austria.
+
+15.15.
+Any and all disputes or divergences or claims shall be exclusively dealt with the court having pertinent competence for 1010 Vienna.&nbsp.
+
+
+
+
+
+Definitions 
+
+In the GTC, the following terms have the meanings specified or referred to in the following overview and shall be equally applicable to both the singular and plural forms.
+
+
+
+
+Annex I
+2FA 
+means the proof of identity of a Bitpanda Client by combining two different and independent components (factors).
+
+Bitpanda 
+has the meaning given to it in point 1.1.
+
+Bitpanda Airdrop 
+is the free distribution of token to existing wallet addresses of Bitpanda itself.&nbsp.
+
+Bitpanda Card 
+has the meaning given to it in point 11.1.
+
+Bitpanda Client 
+has the meaning given to it in point 2.1.
+
+Bitpanda Client Account 
+has the meaning given to it in point 4.1.
+
+Bitpanda Client Offer 
+has the meaning given to it in point 3.1.4.
+
+Bitpanda Pro Account 
+has the meaning given to it in point 10.2.
+
+Bitpanda Fork Policy 
+has the meaning given to it in point 5.1 and is added to this GTC in Annex III.&nbsp.
+
+Bitpanda Index 
+has the meaning given to it in point 7.1.
+
+Bitpanda Pro Account 
+has the meaning given to it in point 10.2.
+
+Bitpanda Savings 
+has the meaning given to it in point 3.1.2.
+
+Bitpanda Swap 
+has the meaning given to it in point 3.1.3.
+
+Bitpanda Systems 
+has the meaning given to it in 1.1.
+
+Bitpanda To Go 
+has the meaning given to it in point 6.1.
+
+Business Day 
+is a working day on which Austrian credit institutions are open to the public.
+
+CCOFA or Contract Conclusion and Order Fulfillment Action 
+has the meaning given to it in point 3.1.5.
+
+Contis 
+has the meaning given to it in point 11.2.
+
+Default in Payment 
+has the meaning given to it in point 3.1.5.
+
+Direct Debit Chargeback 
+has the meaning given to it in point 8.7.1.
+
+E-Token 
+has the meaning given to it in point 3.1.
+
+F-Token 
+has the meaning given to it in point 3.1.
+
+Fair-Use-Policy 
+has the meaning given to it in point 11.19.
+
+Fallback Payment Asset 
+has the meaning given to it in point 11.5.
+
+Fiat Wallet 
+has the meaning given to it in point 4.5.
+
+Final Offer Click 
+has the meaning given to it in point 3.1.1.
+
+Final Offer Click Savings 
+has the meaning given to it in point 3.1.2.
+
+Final Offer Click Swap 
+has the meaning given to it in point 3.1.3.
+
+Final Offer Clicks 
+has the meaning given to it in point 3.1.2.
+and 3.1.3.
+
+Final Rate 
+has the meaning given to it in point 8.1.
+
+Fork 
+has the meaning given to it in Annex I n 1.
+
+Index Provider 
+has the meaning given to it in 7.3.
+
+Index Wallet 
+has the meaning given to it in point 7.4.
+
+Main Payment Asset 
+has the meaning given to it in point 11.5.
+
+M-Token 
+has the meaning given to it in point 3.1.
+
+Multiple Debit Order 
+has the meaning given to it in point 3.1.2.
+
+Offer Period 
+has the meaning given to it in point 3.1.4.
+
+Price Guarantee 
+has the meaning given to it in point 3.1.1.
+
+Promotion Award 
+has the meaning given to it in point 15.5.2.
+
+Promotor 
+has the meaning given to it in point 15.5.1.
+
+Promotor Referral Code 
+has the meaning given to it in point 15.5.1.
+
+Reference Period 
+has the meaning given to it in point 4.7.
+
+Token 
+has the meaning given to it in point 3.1.
+
+Token Voucher 
+has the meaning given to it in point 6.1.
+
+Trade Rules 
+has the meaning given to it in point 10.3.
+
+Wallet 
+has the meaning given to it in point 4.5.
+
+
+Annex II
+Trade Rules Bitpanda Pro&nbsp.
+
+1.
+Trading
+1.1.
+Bitpanda provides and operates a central limit order book online trading platform called Bitpanda Pro where you can settle trades in E-Token and F-Token trading pairs.
+You will find the available order books listed in your Bitpanda Pro Account.
+You acknowledge and agree that the provisions set out in the GTC for Bitpanda Clients and Bitpanda Client Accounts apply likewise to Bitpanda Pro users and their Bitpanda Pro Accounts.
+
+1.2.
+Any person using or trading on Bitpanda Pro does so entirely at its own risk.
+
+1.3.
+In these Trade Rules, the terms defined in the GTC apply likewise, except otherwise specified or referred to in the following overview and such definition shall be equally applicable to both the singular and plural forms:&nbsp.
+
+Balance 
+means the Bitpanda Clientâs total asset value on its Bitpanda Pro Account less any amounts held for Open Orders and fees.
+The total asset value is the gross value of all your Token for the relevant Order Book with the value of the Quote Token based on the last trade price and including the Token allocated to Open Orders.&nbsp.
+
+Base Token 
+means the Token being traded on the Order Book, namely the first Token in the trading pair (e.g.
+on the BTC-EUR Order Book, BTC is the Base Token and F-Token is the Quote Token).
+
+Suspended Mode 
+means that no new orders can be placed and Open Orders will not be executed.
+It is only possible to cancel Open Orders.
+
+Limit Order 
+means an Order to buy or sell a specified quantity of a Token at a specified price.
+Such Limit Order will only be executed at the specified price or a better price.&nbsp.
+
+Maker Order 
+means an Order posted to the Order Book by placing a limit order below all pending sell orders for buy, and above the pending buy orders for sell.
+Such Maker Order will remain open at that price on the Order Book until it is 
+
+
+cancelled.
+or 
+
+
+completely executed by one or more Orders placed by another Bitpanda Client at the same price.
+
+
+
+Market Order 
+means an Order to buy or sell a specified quantity of a Token at the best available price of existing Orders on the Order Book.
+
+Order 
+has the meaning given to it in point 2.1.
+of this Annex II.
+
+Order Book 
+means each order book on which Orders are placed for trading in a trading pair offered on Bitpanda Pro.
+
+Open Order 
+means an Order which has been placed but not executed, cancelled, deactivated or expired.
+
+Quote Token 
+means the Token in which trading is denominated on the Order Book, namely the second Token in the trading pair (e.g.
+on the BTC-EUR Order Book, BTC is the Base Token and F-Token is the Quote Token).
+
+Scheduled Maintenance 
+means a planned temporary pause for maintenance or upgrades.
+
+Stop Order 
+means an instruction to place an Order to buy or sell a specified quantity of a Token if and when the last trade price on the Order Book touches the price specified in the Stop Order.
+After placing a Stop Order it is active until it is executed (i.e.
+when price specified in the Stop Order is triggered).
+
+Taker Order 
+means an order posted at the same price as one or more existing Orders.
+Such a Taker Order results in an immediate execution at that price and to the extent of the total quantity of those existing Orders.&nbsp.
+
+Trade Rules 
+has the meaning given to it in point 10.3.
+GTC.
+
+
+2.
+Orders
+2.1.
+You can instruct to buy or sell a specified quantity of Base Token at a specified price in the Quote Token (Order) provided that you have the required positive Balance of the relevant Token on your Bitpanda Pro Account which covers the total value of the Order and any applicable fees.
+With placing an Order, the respective specified quantity of Token of such Order is set aside.
+For purposes of effectuating a trade, you authorise Bitpanda to take temporary control of the Token that you are disposing of in the respective Order.
+
+2.2.
+On Bitpanda Pro you can place an Order as a Limit, Market or Stop Order.
+You can cancel an Open Order at any time before it is executed, and no fees will be charged for cancelled Orders.&nbsp.
+
+2.3.
+Limit Orders 
+2.3.1.
+A Limit Order will be immediately placed in the Order Book and may result in a Maker Order or a Taker Order, or an Order that is partially a Maker Order and partially a Taker Order.
+The placed Order will remain on the Order Book until you cancel it.
+
+2.4.
+Market Orders 
+2.4.1 Bitpanda cannot and does not guarantee that a Market Order will be executed at a specified price.
+You agree and accept that a Market Order may execute at a number of different prices, based on the quantity of the Market Order and the quantities of the existing Orders on the Order Book at the time.
+In particular, you are aware and accept that a Market Order may execute at a price less favourable than the most recent trade price, in some cases significantly less.
+
+2.4.2.
+A Market Order is always a Taker Order.&nbsp.
+
+2.5.
+Stop Orders 
+2.5.1.
+A Stop Order must be placed as a Stop Limit Order which posts a Limit Order when the stop price is triggered.
+Such a Stop Order is not placed to the Order Book and is not visible to others, but any resulting Order (i.e.
+the Limit Order when the stop price is triggered) is posted and visible.&nbsp.
+
+2.5.2.
+You are aware and acknowledge that a Stop Limit Order is not guaranteed to execute.
+The placed Order will remain on the Order Book until you cancel it or until it gets completely executed.&nbsp.
+
+2.6.
+Minimum order sizes 
+2.6.1.
+For Orders on Bitpanda Pro minimum order sizes apply.
+You find current minimum order sizes on Bitpandaâs Website 
+2.6.2.
+Bitpanda will periodically update order minimums as mentioned in item 2.6 to reflect the current state of marketplaces and value of assets.
+You are aware and accept that such order minimums may change from time to time and are not guaranteed.
+
+2.7.
+Execution and Settlement 
+2.7.1.
+Execution takes place provided that a Maker Order matches with a Taker Order and an Order may be matched with one or more Orders at the same price.
+The matched Orders will be settled by Bitpanda immediately in form of the respective debits and credits to the involved Bitpanda Pro Accounts.&nbsp.
+
+2.8.
+Matching engine and order priorities 
+2.8.1.
+Bitpanda Pro matches Taker Orders with Open Maker Orders on each Order Book based on price-time priority.
+This means that each time a Taker Order is placed this order is matched with the earliest in time Maker Order at the best price on the Order Book.
+Should the Taker Order not be completely fulfilled, it may be matched with any subsequent Maker Orders at that price, in the sequence those Maker Orders were posted.
+Should such a Taker Order still not be completely executed as described previously, it is matched with one or more Maker Orders at the next best price, in the sequence those Maker Orders were posted.
+This process is repeated until the Taker Order is completely executed.&nbsp.
+
+2.9.
+Trading fees 
+2.9.1.
+Orders are charged with a maker fee for each Maker Order and a taker fee for each Taker Order posted on the Order Book.
+Fees will be charged in the Token you receive and are calculated as a percentage of the Order quantity.
+For example: on the BTC-EUR Order Book, you, as a buyer of BTC, pay fees in BTC and the seller of BTC pays fees in EUR.
+Fees are charged on a per trade basis and will be deducted automatically once an Order is matched.
+If an Order qualifies partially as a Maker Order and partially as a Taker Order, a maker fee applies to the part posted as a Maker Order and a taker fee applies to the part posted as a Taker Order.&nbsp.
+
+2.9.2.
+You are aware and accept that trading fees may vary from time to time and between Order Books.
+Any such updated fees will apply prospectively to any Orders or other transactions that take place following the effective date of such updated fees.
+Furthermore, you are aware and acknowledge that fees will be deducted from your respective Bitpanda account as set forth under item 10.3.
+in this GTC.
+The current Bitpanda Pro trading fees are displayed at https://www.bitpanda.com/en/pro/fees 
+2.9.3.
+Bitpanda offers volume-based fee discounts.
+The current fee discounts can be found at https://www.bitpanda.com/en/pro/fees.
+You are aware and accept that fee discounts are not guaranteed and may change or be abandoned anytime at Bitpandaâs sole discretion.&nbsp.
+
+2.10.
+Market Integrity 
+2.10.1.
+All executed Orders are final and wonât be cancelled except where (i) Bitpanda is obliged to do so pursuant to applicable law or regulations or (ii) due to a material technical error (e.g.
+Orders or executions do not comply with these rules).
+In case of a technical error Bitpanda will make all reasonable efforts and act in good faith in accordance with industry standards in order to restore the positions which would have been without the occurrence of an error.&nbsp.
+
+2.10.2.
+Bitpanda has the right to cancel Open Orders in the following circumstances: 
+i.Orders placed by Bitpanda Clients who have infringed the GTC, in particular rules set out in item 4.
+of the GTC which apply to Bitpanda Pro Accounts likewise and/or using the API in a manner that unreasonably burdens the platform.&nbsp.
+
+ii.
+Orders involving an obvious error with respect to price, quantity, or other parameters.
+
+iii.
+If required for technical reasons or by any applicable law or regulation.
+
+2.10.3.
+In general, Bitpanda has the right to take any action (e.g.
+halting of trading, restrict access, modifying parameters in order to mitigate risks, cancelling Orders resting in the Order Book, or any other actions deemed to be in the best interest of Bitpanda Pro) or deemed appropriate to ensure and preserve the market integrity of Bitpanda Pro.&nbsp.
+
+2.11.
+Interruptions 
+2.11.1.
+In case of the occurrence of technical errors preventing or negatively impacting a Bitpanda Clientâs ability to properly use Bitpanda Pro (e.g.
+placing/cancelling of Orders, access to Bitpanda Systems and APIs) it is at Bitpandaâs sole discretion to take adequate measures in respect of one or more Order Books, in particular: 
+i.
+temporarily disable depositing or withdrawing Token.
+
+ii.
+cancel Open Orders.
+
+iii.
+disable the option to place new Orders (you can only cancel existing ones), to sign-in, to access Bitpanda Proe and/or to access via APIs.&nbsp.
+
+2.12.
+Prohibitions 
+2.12.1.
+Bitpanda Clients using Bitpanda Pro are not allowed to place Orders which result in self-execution (i.e.
+the same Bitpanda Client would act as both the maker and taker for the trade), such Orders will be rejected.
+If two Orders of different quantities would result in self-execution, the smaller Order is cancelled, and the larger Order is decremented by an amount equivalent to the smaller quantity.
+The remainder of the larger Order remains open.
+
+2.12.2.
+Further, you are prohibited from engaging in any market manipulation (specifically includes, without limitation: front-running, wash trading, spoofing, layering, churning, and quote stuffing).
+Market manipulation of any kind (including action on Bitpanda Systems or outside of Bitpanda Systems) is strictly prohibited.
+Market manipulation is any action taken by any market participant or a person acting in concert with a participant which intends to: 
+i.
+scam or mislead other traders.
+
+ii.
+control or manipulate the price or trading volume of a Token.
+or 
+iii.
+assist, encourage, facilitate, finance, endorse or support either of the above.&nbsp.
+
+2.12.3.
+Bitpanda does not use circuit breakers or automated trading halts based on predetermined price bands.
+However, as provided in section 2.10.
+and 2.11., Bitpanda may, at its sole discretion, halt trading or take other action that seems appropriate to attain market integrity, prevent market manipulation or to maintain the proper operation of Bitpanda Systems.
+
+2.13.
+Transparency and information 
+2.13.1.
+Bitpanda grants to every Bitpanda Client equal access right to Bitpanda Pro including its APIs.
+In addition, all users of Bitpanda Pro receive full and real-time access to the available market information shown on Bitpanda Systems.
+Market information contains the following: 
+i.
+Limit Orders placed on the Order Books (price and quantity).
+and 
+ii.
+all executions (price, quantity and time) 
+2.13.2.
+Bitpanda Systems do not show Stop Orders which have been placed but not yet triggered and any information about which user placed or cancelled an Order.
+
+2.13.3.
+Bitpanda also trades its corporate funds on Bitpanda Pro.
+However, it does not have any special priority and these Trade Rules apply without exceptions for Bitpanda, in particular with the same market information and without access to inside information.
+Bitpanda does not engage in front-running.&nbsp.
+
+2.13.4.
+The same applies for all Bitpanda employees (including employees of Bitpanda group).
+Bitpanda group prohibits all its employees from using insider, corporate or similar information to trade Token.
+Such employees are subject to internal trading policies and trade surveillance programmes.
+
+2.14.
+Application Programming Interfaces 
+2.14.1.
+Bitpanda may provide access to specific data and information through APIs (âApplication Programming Interfaceâ).
+You can only use these in their original and unmodified state and via your Bitpanda Client Account.
+Upon completion of the application for the creation of an API key you will receive an email with a confirmation link.
+After clicking on the link in the email you will receive the API key which is the only time the API key is displaced.
+If you do not remember this API key in the future, you might have to create a new one.&nbsp.
+
+2.14.2.
+You are aware and accept that the scope and concrete form of APIs is at Bitpandaâs sole discretion and that APIs may be modified or abandoned by Bitpanda at its sole discretion anytime.
+Bitpanda may set limits on the number of API calls that may be made at its sole discretion.
+If you exceed these limits or violate any other terms in this Trade Rules or GTC, Bitpanda may moderate your activity or cease offering you access to the APIs at its sole discretion.
+
+2.14.3.
+You grant Bitpanda a fully paid-up, royalty-free, non-exclusive, worldwide, transferable, sublicensable, irrevocable right and licence under all of your intellectual property rights to (i) use your name, likeness or brand including all of your trademarks, logos (Logos), etc to the extent it is incorporated into your application and in connection with the maintenance, development and promotion of our Bitpanda services, and (ii) use, perform, display to the public, reproduce, distribute, make available, and import your application to provide, maintain, develop and market the Bitpanda Systems and services.
+Upon termination or abandonment of your API and written request from you, we will make commercially reasonable efforts to remove reference to your application and any of your Logos from our Bitpanda Systems.
+
+2.14.4.
+Our brands and names (Bitpanda Logos), and all intellectual property rights therein and thereto are and shall at all time remain the sole and exclusive property of Bitpanda and are protected by applicable laws and treaties.
+All rights not expressly granted herein are withheld.&nbsp.
+
+2.14.5.
+It is in your sole responsibility to adequately secure and keep secret your API keys.
+You accept full responsibility for any use of Bitpanda Pro that is facilitated through API keys, and/or any other applications which you may authorise (including any activities by you or any third parties that have access to your account information whether authorised or not).
+You find more information on our API via https://developers.bitpanda.com/exchange/ 
+ 2.15.
+Scheduled Maintenance 
+2.15.1.
+Bitpanda will use reasonable endeavours to ensure that the Bitpanda Pro can be accessed by you in accordance with these Trade Rules.
+However, Bitpanda may suspend trading on Bitpanda Pro temporarily for maintenance or upgrades and will make reasonable efforts to inform you about such Scheduled Maintenance.
+You acknowledge that this may not be possible in cases of emergency and accept the risks associated with the fact that you may not always be able to access, use or carry out transactions using your Bitpanda Pro Account.
+
+
+
+
+
+Annex III
+Bitpanda Fork Policy 
+
+
+A fork is a situation in which a blockchain splits into two separate chains temporarily or permanently ("Fork").
+Forks are a natural occurrence during mining, where two chains following the same consensus rules temporarily have the same accumulated proof-of-work and are both considered valid.
+They can also occur as a consequence of the use of two distinct sets of rules trying to govern the same blockchain.
+Forks have been used in cryptocurrencies in order to add new features to a blockchain or to reverse the effects of hacking or catastrophic bugs on a blockchain as was the case with the fork between Ethereum and Ethereum Classic.
+Notably, Forks have been widely discussed in the context of the bitcoin scalability problem.
+
+
+
+Bitpanda does not automatically support Forks of any cryptographic blockchain-based digital information units.
+
+
+
+Bitpanda assesses each case, and each Fork on a case by case basis and Bitpanda may at its sole discretion decide whether to support a Fork or not and whether to communicate that to you or not.
+
+
+
+If Bitpanda decides not to support a Fork but you want to participate in a Fork, you would have to move the respective E-Token onto such third-party wallet which you think fits for supporting such a Fork.
+Bitpanda herewith advises you to take enough time into consideration to move the respective E-Token, because Bitpanda cannot and will not give any guarantees to any transfers out of/outside of Bitpanda Systems.
+Bitpanda does not advise on how much time is enough but suggests that you carefully consider all relevant facts.
+
+
+
+You must monitor the market by yourself to stay informed about Forks.
+Bitpanda has no duty to inform you of any Forks.
+
+
+
+Bitpanda may decide at its sole discretion to suspend/temporarily shut down any exchange, trading or any transaction with respect to E-Token which are part of a Fork or influenced by a Fork to a major extent.
+This applies to Forks which are supported by Bitpanda and also to Forks which are not supported by Bitpanda.&nbsp.
+
+
+
+If Bitpanda decides â at Bitpanda's sole discretion â to try to support a Fork, Bitpanda shall decide which chain is the original blockchain in the fork scenario.
+Consequently, Bitpanda shall inform you of such decisions and will endeavour to integrate the new cryptographic blockchain-based digital information units resulting from the Fork into Bitpanda Systems.
+However, Bitpanda gives no guarantee that such integration takes place and shall inform you at its sole discretion on when and how and at which distribution rate such new cryptographic blockchain-based digital information units resulting from the Fork can be used in Bitpanda Systems.
+Respectively, Bitpanda holds any resulting new cryptographic blockchain-based digital information units balances for and on behalf of you from the time of the split until the time of distribution to you in cold storage (meaning offline).
+You are aware and accept that it is impossible to withdraw/or transfer any such new cryptographic blockchain-based digital information units balances out of a supported Fork until Bitpanda decides at Bitpanda's sole discretion to go live with such new cryptographic blockchain-based digital information units in Bitpanda Systems.
+You are aware and accept that there might be situations where Bitpanda may decide in a commercially reasonable way not to integrate such new cryptographic blockchain-based digital information units in  Bitpanda Systems and that in such cases you have no right to claim damages or compensation of any kind from Bitpanda.
+You are aware that Bitpanda will always only try to integrate new cryptographic blockchain-based digital information units but in no case gives any guarantee that such integration can be done or is fixed for a certain point in time.
+
+
+

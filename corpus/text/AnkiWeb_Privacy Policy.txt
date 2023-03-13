@@ -1,0 +1,102 @@
+
+         AnkiWeb 
+
+
+Log in 
+Sign up 
+ Privacy Policy Please read this page in conjunction with our terms and conditions.
+ Email 
+A valid email address is required to sign up for an account.
+We use your email address to send you important information about Anki and your account, such as a reset link when you forget your password.
+
+We will not send you email unrelated to Anki.
+ User Data 
+When you add cards via AnkiWeb, or use the synchronization feature in the Anki clients to send your data to AnkiWeb, we store the card data, associated media files, and your review history.
+This user data is not visible to other users of the service by default, but can be optionally shared.
+This data is visible to support staff when investigating problems with the service, and problems you report.
+In the interests of research and product development, we may use your review history and options (but not the text or media on cards) for statistical purposes, such as calculating the average pass rate across all users.
+ Cookies 
+AnkiWeb uses an internet technology called "cookies" to keep you logged in to the website.
+The cookies allow us to associate the actions you take with the correct account.
+The logout option on AnkiWeb will allow you to remove your login cookie.
+AnkiWeb previously used Google Analytics for usage statistics, and it may have stored some tracking cookies on your computer.
+AnkiWeb ignores any tracking cookies set by Google Analytics, and you can safely use your browser's cookie manager to delete them if you wish.
+ Logs 
+All requests made to AnkiWeb, whether they be through a web browser or through one of the Anki clients, are logged.
+We record the date and time, the location on AnkiWeb that is being accessed, your IP address, browser version, and referring page when present.
+When you access the service while logged in, a numerical user ID is recorded.
+Email-related operations may log your email address.
+We store this information for security purposes (such as blocking malicious access attempts), for diagnosing problems, for analysing usage of the service, and for providing support.
+Logs are automatically removed after 1 month.
+ Version Checks 
+The first time you start the downloadable computer version of Anki, a unique, anonymous ID is randomly generated.
+Each time Anki is started, it checks to see if it is up to date.
+When it does this, it sends its version, your operating system version, and the anonymous ID to AnkiWeb.
+AnkiWeb records this information, so we can keep track of how many people have Anki installed, and how many people use Anki on different platforms.
+ Syncing 
+When you use the synchronization feature to transfer data between an Anki client and AnkiWeb, the client sends the program version and operating system version.
+AnkiWeb stores this information along with the date in your account, and may tell the client it needs to upgrade.
+We store this information to help us answer your questions on the support site, and for usage statistics.
+ Forum 
+Our forum is provided by a third party, Discourse.
+Posts you make on the forum will be visible to the general public.
+Your email address and IP address are only visible to support staff, and may be used to help us locate your AnkiWeb account when you post a support request.
+ Support Site 
+Our support site is provided by a third party, ENTP.
+If you do not mark a ticket as private when posting it, the data you entered into the support ticket will be visible to the general public.
+When you post a ticket or comment, ENTP provides us with your email address and IP address.
+We store this information to help us locate your AnkiWeb account when you post a support request.
+We delete the email address and IP address we receive from ENTP after 1 month.
+ Locations 
+We use servers and cloud services located inside secure data centers in the EU and the USA to store your data.
+Portions of AnkiWeb are cached by a content distribution network which stores data on servers close to you.
+We use a cloud provider located in the USA to send you emails related to your account.
+Support staff may store a temporary copy of your user data on secure local machines to reproduce a problem you report.
+A copy of a subset of AnkiWeb metadata is stored locally for internal testing purposes.
+We remove email addresses and IP addresses from the data.
+ Third Party Sharing 
+The cards and associated media files you add to AnkiWeb are private by default.
+We will only make them available to the public if you explicitly share them.
+AnkiWeb makes use of secure third party data centers and cloud services in order to store and process your data, and to send you emails related to your account.
+We may share your data with law enforcement authorities when required to do so by law.
+We may extract the review history of your cards to share with others for academic research purposes.
+This will not include the contents of your cards (such as text or media files), and the data will not include any information that would personally identify you.
+When you post a public support request, we may need to paste an excerpt from your user data for communication purposes (such as "I had a look at the 'to study' card").
+If you do not wish such excerpts to be made public, please mark your ticket as private when writing to us.
+As decks and add-ons are contributed by other Anki users, they may contain links to third party servers not under our control.
+ Data Retention 
+We will retain your user data while you continue to use the service.
+As mentioned in our terms and conditions, account data may expire if the account has not been used in 6 months or more.
+If you wish to remove your user data, you can delete your AnkiWeb account from the Account section of the website.
+If you delete your account, we will delete your user data.
+Some of your user data may remain in backups and logs when your account is deleted.
+This data will automatically expire within a month.
+If an email we sent to you previously bounced or was marked as spam, we will retain a record of this so we can avoid sending to that address again.
+Any posts you made to the support site will need to be removed separately.
+We will retain information when legally required to do so.
+ Keeping Data Safe 
+We endeavour to keep your data safe by following best practices such as encrypting your data in transit, keeping machines up to date, and maintaining backups.
+No system can ever be completely secure, so we strongly recommend you store a local copy of your user data.
+You can use the Export functionality in Anki clients in order to save a backup of your data.
+As your password secures your account, please ensure you use a secure password, and don't use the same password on multiple sites.
+If you don't already use one, we highly recommend a password manager like 1Password or LastPass - they make life easier and keep you more secure.
+ Lawful Basis Data processing laws require us to state the lawful basis we use for processing your data.
+
+Data you provide to us such as your email address and card content is necessary for providing the service to you (servicing a contract).
+Statistics that we collect from your data are used to improve the service, and for research (servicing a contract, and legitimate interests).
+Access logs are used for diagnostic and analytical purposes, and for detecting misuse of the service (servicing a contract, and legitimate interests).
+ Changes If significant changes to this policy are made, we will notify you via a message when visiting the website, a message when you use the synchronization feature, or via email. Transfer In the event of a company acquisition, restructure, or bankruptcy, we may
+transfer your data to a different legal entity.
+The new legal entity shall
+respect your privacy in the same way, and notify you if
+they wish to use your data in a way not described here. Contact If you have any questions about this privacy policy, please drop us a line on the support site.
+
+Last updated 2018-09-02.
+
+
+Apps
+About 
+Support
+Terms 
+Privacy 
+

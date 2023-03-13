@@ -1,0 +1,53 @@
+
+By using or paying for Mullvad VPN ABâs Mullvad VPN service, you agree to these terms.
+Any material changes to these terms will be notified via a prominent notice on mullvad.net/blog at least one month before the changes are applied.
+If you wish to exercise your right to reject such changes, you should stop using the service (for refunds, see below). The service The VPN service protects personal information with the use of encryption and masks user metadata by hiding the user's IP address and replacing it with one of ours.
+This replacement address is shared with many other users, which not only protects each individual's user data but also hides his or her pattern of activity.
+Therefore, the traceable chain between users and their online activity is broken.
+Please read more about protecting your privacy at mullvad.net/help/first-steps-towards-online-privacy/.
+To protect ourselves, our customers, and the quality of our service, we block TCP port 25 because of email spam and ports 137, 138, 139, and 445 due to a Microsoft security issue.
+We also hijack DNS requests (port 53) in order to prevent DNS leaks.
+We do not block or filter domains except when requested by the owner of an IP address or when known botnet addresses cause our servers to be null-routed by hosting providers.
+We do not modify, redirect, or inject data into users' traffic.
+
+Port-forwarding (2021-03-22)
+
+Port-forwarding is not allowed on an account that has an active subscription.&nbsp.
+It is therefore not possible to:
+
+Adding forwarding ports to accounts that has a subscription
+Add a subscription to an account that has forwarded ports
+ Access to the service To use the service, you need to use a Mullvad account number together with the Mullvad VPN app, or with another WireGuardÂ® or OpenVPN client and our downloadable configuration files.
+You can generate an account number at mullvad.net/account/create.
+The cost for the service is â¬5 per month.
+An account can be used on up to 5 devices.
+You can see how much time is left on your account by visiting the account page on mullvad.net or looking in the Mullvad VPN app.
+Please be sure to write down your account number in a safe place. Payment We accept payment by cash in bills (EUR, USD, GBP, SEK, DKK, NOK, CHF, CAD, AUD, NZD) sent by regular mail, Bitcoin, Bitcoin Cash, credit card, SEPA, PayPal, iOS in-app purchases, our Mullvad vouchers, and Swish.
+One month is equal to â¬5 when purchased directly from mullvad.net.
+The price may vary when purchasing through the App Store or an official reseller.
+The service is activated as soon as the payment is credited and time starts counting down.
+These terms will expire at the end of the period purchased.
+If you wish to subscribe to the service, you can sign up for a PayPal subscription.
+With a subscription, â¬5 is automatically deducted from your PayPal account each month.
+You may cancel the subscription at any time from your account page on mullvad.net (select Unsubscribe under the PayPal tab).
+Once canceled, no more money will be withdrawn, and the service and these terms will expire when the current month ends. Refund policy We offer users a 30-day money-back guarantee if you wish to withdraw from these terms or if you are not satisfied with our service.
+The 30-day period starts when your payment is made.
+In the event of a withdrawal, you will be refunded and the expiration date of your account's VPN time will be adjusted to reflect the refunded time.
+If you wish to exercise your right to a refund, please read our refund guide at mullvad.net/help/refunds/. Exceptions We do not offer refunds for cash payments.
+Refund requests for purchases made through the App Store or an official reseller must be made directly with them.
+We cannot offer refunds in these instances. Privacy We want you to remain anonymous when using our service, and it is therefore our policy to never store any activity logs or metadata and to have as minimal data retention as possible.
+However, in some situations we might process your personal data if you, for example, pay by wire transfer, credit card, PayPal, or Swish, or send an e-mail to report a problem.
+In those cases, the General Data Protection Regulation (âGDPRâ) and other data protection laws may apply to the processing.
+For more information, please read our Privacy Policy at mullvad.net/help/privacy-policy/. Disclaimers Mullvad VPN reserves the right to modify the service by updating the software or making changes to certain features.
+We will attempt to prevent interruptions and defects in the service and on our website.
+Despite our best efforts, the service is provided on an âas isâ and âas availableâ basis, and we do not guarantee that the service will be available at all times, nor the accuracy of the service or any material provided by the service or on the Mullvad website.
+You are solely responsible for your use of the service. Applicable law and venue The terms shall be construed in accordance with and governed by the substantive laws of Sweden.
+Any dispute, controversy, or claim arising out of or in connection with the terms shall be handled by the National Board for Consumer Disputes (ARN) or the Swedish courts, with the city of Gothenburg's district court as the court of first instance. Contact information We only offer customer support via email to support@mullvad.net.
+Our Sweden-based support team operates during weekday office hours (Central European Time).
+Mullvad VPN AB
+Reg.
+no.
+559238-4001
+Address: PO Box 53049, 40014 Gothenburg, Sweden
+"WireGuard" is a registered trademark of Jason A.
+Donenfeld.

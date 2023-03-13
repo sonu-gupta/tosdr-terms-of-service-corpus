@@ -1,0 +1,41 @@
+
+Privacy
+Snoozz does not collect or analyse any personal data.
+Your tabs, windows, IPs, and geolocations are completely secure and never leave your device.
+As of v2.4.3, Snoozz collects a minimal amount of anonymous click data to help improve Snoozz in the future.
+Only your selected choice (Tomorrow Morning, Next Week etc...) and the time selected (3:45pm -&gt.
+1545) in the popup is transmitted.
+For complete transparency, all collected data is available on the Snoozz Stats page.
+The data passes through my own server (also open source) and there are no 3rd party tools involved in any way.
+An explanation of what data is being collected is described in great detail in this post on Github.
+If you hate progress and technological advancement, you can opt out on the Settings page of the extension.
+Snoozz is still completely open source and you can browse the code yourself to make sure there is no funny business.
+Permissions
+alarms
+A single alarm is created (and reused) to wake up your tabs at the correct time.
+If no tabs are waking up in the next hour, the alarm is set to be triggered again in an hour.
+notifications
+Send you notifications when a tab is reopened.
+(Can be turned off through your system preferences)
+tabs
+Used to fetch only the metadata from your tabs (title, url, favicon).
+No metadata is passively recorded - it is only saved when users perform a specific action to snooze a tab or window.
+storage
+Used to store snoozed tabs and windows.
+Used to store user preferences which can be configured the settings page.
+Only local storage is used for this extension.
+Old tabs are deleted periodically.
+You can adjust the frequency of this on the settings page.
+contextMenu
+Used to create the Snoozz submenu in your context menu.
+Only appears when you right click on a link with a valid href attribute.
+This can be turned off on your settings page.
+idle
+When the idle state changes to active, the extension will open any overdue tabs or recalculate the next alarm time.
+commands
+Used to configure keyboard shortcuts on compatible browsers.
+Shortcuts are off by default.
+Data Retention
+Deleting this extension will delete all your data and preferences.
+It cannot be recovered at all.
+If you would like to retain your data, please export it from the settings page before removing the extension.

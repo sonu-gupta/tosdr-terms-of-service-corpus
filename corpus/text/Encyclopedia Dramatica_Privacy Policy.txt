@@ -1,0 +1,124 @@
+
+At Encyclopedia Dramatica (abbreviated ED in this document), hosted at https://encyclopediadramatica.rs, physically located somewhere between Nigeria and Romania, we take privacy very seriously.
+Thus, we have provided this policy information.
+
+Contents
+
+1 De facto acceptance
+2 Situations
+
+2.1 On wiki
+
+2.1.1 Email
+2.1.2 Advertisement
+2.1.3 Cookies
+2.1.4 CheckUser
+2.1.5 Articles
+2.1.6 Media
+2.1.7 Legal
+
+
+2.2 On Forum
+2.3 On IRC
+
+
+3 Definitions
+ De facto acceptance
+In order to use, browse, edit or connect to ED, you must accept our policies.
+If you don't conform to them, you should leave promptly.
+
+Situations
+Now, we are going to depict the ways your user data is stored with us and how we will share it with third parties.
+
+On wiki
+This is data related with https://encyclopediadramatica.rs, our network main site and wiki.
+
+Email
+We will never give away or sell your email, but we reserve the right to send you email whenever we want for whatever reason we please.
+
+Advertisement
+We will never sell nor share your information with third parties for advertisement.
+ED's demographics are well known and no more additional data is required.
+All the ads are hosted on our network and the links within them can share some information with them when clicked, such as:
+
+
+Hour of link clicking
+IP of user
+
+Country
+Approximated location (not very accurate)
+
+
+Browser used
+Screen resolution
+OS used
+
+This is gathered only when the link is clicked.
+
+All the data given is what you give in every site you visit, and it may be used by the advertisers to make impersonal statistics of their campaign.
+
+Cookies
+There are two main cookies when visiting ED's wiki.
+
+
+Cloudflare cache's
+MediaWiki's
+
+Cloudflare stores a small cookie in your browser for defining the date you last visited the site, thus deciding whether to send you a new cached copy of a piece of content or making no changes.
+
+Also, MediaWiki stores a cookie for setting up a "user session" when you log in, bound to your user account.
+Ergo, we can provide more accurate support, our blocks are more effective and you don't need to log in every time you close the site.
+
+CheckUser
+CheckUser is a tool for getting IPs, UserAgents and XFF headers from users, and its associated edits.
+It can only be used by two staff members in the bureaucrat usergroup.
+It is used cautiously for fighting wiki vandalism and for keeping disruptive users banned.
+
+Articles
+We already have a strong article content policy, but, there are some things that you must understand:
+
+
+Content is usually kept forever, and only the bureaucrats can hide it (either way, it could be mirrored before then)
+We mostly never remove content
+We are a satirical wiki based in a country without legislation for most of the crimes we'd be accused of if we weren't satirical.
+No DMCAs can take content down nor lawsuits for defamation and such actions cannot affect ED.
+We are very unreserved, and our users are too, so don't expect very civil messages.
+Removing content without permission is usually useless.
+We have zero liability for the content our users publish.
+
+Media
+We remove content as quickly as possible that is associated with:
+
+
+Child pornography
+Warez
+
+Porn, sadistic images and other content is usually not deleted.
+We are very permissive.
+
+Legal
+We are based offshore with no legislation regarding international copyright, defamation and many other things.
+We are a satirical website and no content coming from us should be taken seriously.
+Also:
+
+Satire is a kind of humor, along with parody.
+These fall under the fair use clause of copyrighted material and this is valid in most courts worldwide.
+
+We are not liable for any of the content our users post.
+Wikis are open to anyone.
+
+On Forum
+
+to be done
+
+On IRC
+Our IRC is located at irc.wtfux.org, which is not owned by ED.
+It has its own set of policies and rules.
+We recommend that you learn them for yourself.
+
+Definitions
+
+You: End user.
+ED: Abbreviation for Encyclopedia Dramatica.
+Cloudflare: CDN used by us for performance purposes.
+

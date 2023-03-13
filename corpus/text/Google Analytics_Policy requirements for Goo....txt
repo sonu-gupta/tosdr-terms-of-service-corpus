@@ -1,0 +1,31 @@
+
+        Policy requirements for Google Analytics Advertising FeaturesGoogle Analytics Advertising Features allow you to enable features in Analytics that aren't available through standard implementations.
+Advertising features include:
+
+Remarketing with Google Analytics
+Google Display Network Impression Reporting
+Google Analytics Demographics and Interest Reporting
+Integrated services that require Google Analytics to collect data for advertising purposes, including the collection of data via advertising cookies and identifiers
+
+By enabling the Advertising Features, you enable Google Analytics to collect data about your traffic via Google advertising cookies and identifiers, in addition to data collected through a standard Google Analytics implementation.
+Regardless of how you send data to Google Analytics (for example, via the Google Analytics tracking code, Google Analytics SDK, or the Measurement Protocol), if you use Google Analytics Advertising Features, you must adhere to this policy.
+ When you use Google Analytics Advertising Features, you are the sole controller under all applicable data protection legislation.
+
+This means you will not identify users or facilitate the merging of personally identifiable information with additional information collected through any Google advertising product or feature unless you have robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that identification or merger, and are using a Google Analytics feature that expressly supports such identification or merger.
+Irrespective of usersâ consent, you must not attempt to disaggregate data that Google reports in aggregate.
+Learn more about PII in Google's contracts and policies
+
+If you've enabled any Google Analytics Advertising features, you are required to notify your visitors by disclosing the following information in your privacy policy:
+
+
+The Google Analytics Advertising Features you've implemented.
+How you and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as Google advertising cookies) or other third-party identifiers together.
+How visitors can opt-out of the Google Analytics Advertising Features you use, including through Ads Settings, Ad Settings for mobile apps, or any other available means (for example, the NAI's consumer opt-out).
+
+We also encourage you to point users to Google Analytics' currently available opt-outs for the web. European Union user consent policy When using Google Analytics Advertising Features, you must also comply with the European Union User Consent Policy. Interest-based advertising If you've enabled interest-based advertising, including Remarketing, with Google Analytics in connection with other Google services, you must follow the policies applicable to those Google services (like the Google Ads Policy for Personalized advertising and its sensitive category restrictions, and the Platform Program Policies).
+If you use Google Analytics to collect sensitive information about your visitors, as described in the Google Ads sensitive category restrictions, you may not use Google Analytics to collect data for the purpose of interest based advertising.
+You can disable interest-based advertising via the advanced ads-personalization setting.
+Because laws across countries and territories vary, and because Google Analytics can be used in many ways, Google is unable to provide the exact language you need to include in your privacy policy.
+Only you understand the unique aspects and special considerations of your business, and your privacy policy should account for this information that only you can provide.
+This policy was last updated December 9, 2019. Give feedback about this article Choose a section to give feedback on
+      

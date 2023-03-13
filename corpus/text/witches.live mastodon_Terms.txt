@@ -1,0 +1,19 @@
+
+        We work hard to keep witches.live safe and free from corporate and government influence and data harvesting as much as possible.
+We will not sell data for any reason, or collect anything that is not used as a matter of course for providing federated services.
+We will also defederate with any instance known to sell user data or otherwise engage in attempts to turn their instance into a means of production instead of as a community service.
+
+That said, this is a public social networking service that federates with other services automatically, and no end-to-end encryption is used even for posts that are "locked" or "private".
+Determined bad-faith admins of other instances may exploit federation or undiscovered flaws in Mastodon software to access these kinds of posts, so please use encrypted channels and services for sensitive data instead of witches.live or federated services in general.
+
+Similarly, we only keep ephemeral logs for debugging and system administration.
+All attempts will be made to have any content or posts kept up for the life of the service with the expectation that that is the intent of a public post.
+However, your content can be deleted using available software functionality, which will automatically send a federated request to delete to other servers aware of your account and content.
+
+In order for this service to work, you have to understand that any content you post will be aggregated and broadcast worldwide and a potentially unlimited number of times, often by servers not under our control.
+Witches.live does not claim any rights of authorship.
+you retain ownership of any and all content that you own that you post, but please understand that posting here grants both witches.live and any current or future Mastodon-compatible instances that federate with witches.live a license for unlimited and worldwide broadcast of that content in perpetuity.
+Again, we will make a best effort to honor any request to delete content that you posted, however it is technically possible for both glitches to occur that make deleted content recoverable by third parties, and there is no guarantee that a request to delete content will be honored by federated servers that we do not and cannot control.
+Hopefully someday we can finally end capitalism and not need boring and scary disclaimers like this.
+
+This instance uses Mutant Standard emoji, which are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.

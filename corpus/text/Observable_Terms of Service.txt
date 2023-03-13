@@ -1,0 +1,546 @@
+
+        
+The Observable Terms of Service
+Effective date: March 12, 2019
+A.
+Definitions
+
+Short version:
+We use these basic terms throughout the agreement, and they have specific meanings.
+
+
+The âAgreementâ refers, collectively, to all the terms, conditions, and notices contained or referenced in this document (the âTerms of Serviceâ or the âTermsâ) and all other operating rules, policies, and procedures that we may publish from time to time on the Website.
+The âServiceâ refers to the applications, software, products, and services provided by Observable.
+The âWebsiteâ refers to Observableâs website located at observablehq.com, and all content, services, and products provided by Observable at or through the Website.
+It also refers to Observable-owned subdomains of observablehq.com, such as api.observablehq.com and ancillary websites, such as observableusercontent.com.
+âThe User,â âThe Customer,â âYou,â and âYourâ refer to the individual person, company, or organization that has visited or is using the Website or Service.
+that accesses or uses any part of the account.
+or that directs the use of the account in the performance of its functions.
+Individual users must be at least 13 years of age.
+âObservable,â âWe,â and âUsâ refer to Observable, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
+An âAccountâ represents your legal relationship with Observable.
+A âUser Accountâ represents an individual Userâs authorization to log in to and use the Service and serves as a Userâs identity on Observable.
+A âTeam Accountâ refers to an Account created by a User on behalf of an entity, such as a company, non-profit organization, or group.
+âTeamsâ are shared workspaces that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many notebooks at once.
+A User Account can be a member of any number of Teams.
+âContentâ refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service.
+âContentâ also includes Services.
+âUser-Generated Contentâ is Content, written or otherwise, created or uploaded by our Users.
+âYour Contentâ is Content that you create or own.
+
+B.
+Account Terms
+
+Short version:
+User and Team Accounts have different administrative controls.
+A human must create your account.
+You must be at least 13 years old.
+You must provide a valid external identity.
+You may not have more than one free account.
+You alone are responsible for your account and anything that happens while you are signed in to or using your account.
+You are responsible for keeping your account secure.
+
+1.
+Account Controls
+
+Users.
+All Users retain ultimate administrative control over their User Accounts and the Content within them.
+Teams.
+Within the Service, the Team creator must designate one or more User Accounts as âownersâ who are delegated ultimate administrative control of the Team.
+The owners of each Team retain administrative control over the members of those Teams and all User-Generated Content posted to the notebooks within those Teams, subject to these Terms.
+Team members can manage User access to the Teamâs data and notebooks.
+
+2.
+Required Information
+You must log in with a valid email address â or a supported identity provider, such as GitHub, linked to a valid email address â in order to complete the signup process.
+For User Accounts, any other information requested, such as your real name, is optional.
+To complete signup for Team Accounts, a company name, your real name, and valid payment information must also be provided.
+If you are entering into this Agreement on behalf of an entity, you represent that you are authorized to enter into the Agreement and bind the entity to these Terms.
+3.
+Account Requirements
+You must create a User Account before you can create a Team Account.
+We have a few simple rules for accounts on Observable.
+
+You must be a human to create an account.
+Accounts registered by âbotsâ or other automated methods are not permitted.
+One person or legal entity may maintain no more than one free account.
+You may not create an Account for the use of anyone under the age of 13.
+While we are thrilled to see brilliant youngsters get excited by exploring data sets and visualizing algorithms, we must comply with United States law.
+Observable does not target our Service to children under 13, and we do not permit any Users under 13 on our Service.
+If we learn of any User under the age of 13, we will terminate that Userâs account immediately.
+If you are a resident of a country outside the United States, your countryâs minimum age may be older.
+In such a case, you are responsible for complying with your countryâs laws.
+Your login may only be used by one person â i.e., a single login may not be shared by multiple people.
+A paid Team Account may only provide access to as many User Accounts as it has paid for.
+Overall, the number of Users accessing Team notebooks associated with your Team Account must not exceed the number we have authorized for your Team Account.
+
+4.
+User Account Security
+You are responsible for keeping your account secure while you use our Service.
+
+You are responsible for all content posted and activity that occurs under your account (even if the content is posted by others).
+You are responsible for maintaining the security of your account.
+Observable cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+You will promptly notify Observable if you become aware of any unauthorized use of, or access to, our Service through your Account, by sending an email to support@observablehq.com.
+
+C.
+Acceptable Use
+
+Short version:
+Observable hosts a wide variety of collaborative notebooks from all over the world, and that collaboration only works when our users are able to work together in good faith.
+While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on content you can post, conduct on the service, and other limitations.
+In short, be courteous to each other, and donât spam.
+
+1.
+Compliance with Laws and Regulations
+Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control laws, or other laws in your jurisdiction.
+You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
+2.
+Content Restrictions
+You agree that you will not under any circumstances upload, post, host, or transmit any content that:
+
+is unlawful or promotes unlawful activities;
+is or contains sexually obscene content;
+is libelous, defamatory, or fraudulent;
+is discriminatory or abusive toward any individual or group;
+contains or installs any active malware or exploits, or uses our platform for exploit delivery (such as part of a command and control system).
+or
+infringes on any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other rights.
+
+3.
+Conduct Restrictions
+While using Observable, you agree that you will not under any circumstances:
+
+harass, abuse, threaten, or incite violence towards any individual or group, including Observable employees, officers, and agents, or other Observable Users;
+use our servers for any form of excessive automated bulk activity (for example, spamming), or relay any other form of unsolicited advertising or solicitation through our servers, such as get-rich-quick schemes;
+attempt to disrupt or tamper with Observableâs servers in ways that could harm our Website or Service, to place undue burden on Observableâs servers through automated means, or to access Observableâs Service in ways that exceed your authorization;
+impersonate any person or entity, including any of our employees or representatives, including through false association with Observable, or by fraudulently misrepresenting your identity or siteâs purpose.
+or
+violate the privacy of any third party, such as by posting another personâs personal information without consent.
+
+4.
+Services Usage Limits
+You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without Observableâs express written permission.
+5.
+Scraping
+Scraping refers to extracting data from our Website via an automated process, such as a bot or web crawler.
+You may scrape the website solely for the following reasons:
+
+Search engines may scrape public pages on the Website for inclusion into search indexes.
+Archivists may scrape public pages on the Website for archival purposes.
+
+You may not scrape Observable for spamming purposes, including for the purposes of selling Observable usersâ personal information, such as to recruiters, headhunters, and job boards.
+All use of Observable data gathered through scraping must comply with the Privacy policy, described in Section D.
+6.
+Data Collection and Privacy
+Misuse of Observable Usersâ Personal Information is prohibited.
+Any person, entity, or service collecting data from Observable must comply with the Privacy policy described in Section D of this Agreement, particularly in regards to the collection of our Usersâ Personal Information.
+If you collect any Observable Userâs Personal Information from Observable, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it.
+You agree that you will reasonably secure any Personal Information you have gathered from Observable, and you will respond promptly to complaints, removal requests, and âdo not contactâ requests from Observable or Observable Users.
+7.
+Excessive Bandwidth Use
+If we determine your bandwidth usage to be excessive in relation to other Observable users, we reserve the right to suspend your account or throttle your notebook hosting until you can reduce your bandwidth consumption.
+8.
+User Protection
+You agree not to engage in activity that significantly harms our Users.
+We will resolve disputes in favor of protecting our Users as a whole.
+D.
+Privacy
+
+Short version:
+We collect your information only with your consent.
+We only collect the minimum amount of personal information that is necessary to fulfill the purpose of your interaction with us.
+We donât sell your personal information to third parties and we only use it as this Agreement describes.
+
+1.
+Information Observable Collects
+We may collect basic browsing information from all visitors to the Website, including the visitorâs browser type, language preference, referring site, and the date and time of each visitor request.
+We may also collect potentially personally-identifying information like Internet Protocol (IP) addresses.
+If you log in to Observable, we may require additional information: a valid email address, name, avatar image, biographical paragraph, and an account name from a supported identity provider.
+If you sign up for a Team Account, we may require additional information: a valid business name, a business URL, a designated User to act as an owner of the team, and valid payment information.
+âUser Personal Informationâ is any information about one of our users which could, alone or together with other information, personally identify him or her.
+Information such as a user name, an email address, a real name, and a photograph are examples of âUser Personal Information.â
+User Personal Information does not include aggregated, non-personally identifying information.
+We may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
+2.
+What Information Observable Does Not Collect
+We do not intentionally collect sensitive personal information, such as social security numbers, genetic data, health information, or religious information.
+Although Observable does not request or intentionally collect any sensitive personal information, we realize that you might store this kind of information in your account, such as in a notebook.
+If you store any sensitive personal information on our servers, you are consenting to our storage of that information on our servers, and you are responsible for complying with any regulatory controls regarding that data.
+We do not intentionally collect User Personal Information that is stored in your notebooks or any other free-form content inputs.
+Information in your notebooks belongs to you, and you are responsible for it, as well as for making sure that your content complies with our Terms of Service.
+If your notebook has been published and is now public, anyone (including Observable employees) may view its contents.
+If you have included private or sensitive information in your public notebook, such as email addresses, that information may be indexed by search engines or used by third parties.
+In addition, while we do not generally search for content in your private notebooks, we may scan our servers for certain tokens or security signatures, or for known active malware.
+3.
+How We Share the Information We Collect
+We do share User Personal Information with your permission, so we can perform services you have requested or communicate on your behalf.
+For example, if you suggest a notebook to another Observable User, we will send them an email including your name and Observable login, and a link to your suggested notebook.
+If you join a Team Account, the other members of the team will be able to view and edit any team notebooks you create.
+We will respect your choices.
+We do not share, sell, rent, or trade User Personal Information with third parties for their commercial purposes.
+We do not host advertising on Observable.
+We may occasionally embed content from third party sites, such as YouTube, and that content may include ads.
+Any advertisements on individual Observable notebooks are not sponsored by, or tracked by, Observable.
+We do not disclose User Personal Information outside Observable, except in the situations listed in this section or when compelled to by law.
+We do share certain aggregated, non-personally identifying information with others about how our users, collectively, use Observable.
+For example, we may compile statistics on the usage of open source libraries across Observable.
+However, we do not sell this information to advertisers or marketers.
+We may share User Personal Information with your permission, so we can perform services you have requested.
+We may share User Personal Information with a limited number of third-party vendors who process it on our behalf to provide or improve our service, and who have agreed to privacy restrictions similar those in our Terms of Service.
+Our vendors may perform services such as payment processing, sending email on our behalf, content delivery networking, error log analysis, and other similar services.
+We may share User Personal Information if we are involved in a merger, sale, or acquisition.
+If any such change of ownership happens, we will notify you on our website or by email before any transfer of your User Personal Information.
+4.
+Public Information on Observable
+Much of Observable is public-facing.
+If your content is public-facing, third parties may access and use it in compliance with our Terms of Service.
+We do not sell that content.
+it is yours.
+However, we do allow third parties, such as internet archives, to compile public-facing Observable information.
+Your Personal Information, associated with your content, may be gathered by third parties in these compilations of Observable data.
+If you do not want your Personal Information to appear in third partiesâ compilations of Observable data, please do not make your Personal Information publicly available.
+5.
+Cookies
+Observable uses cookies (and similar technologies, such as HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of Observable.
+The cookies Observable sets are essential for the operation of the website or are used for performance or functionality.
+By using the Website, you agree that we can place these types of cookies on your computer or device.
+If you disable your browser or deviceâs ability to accept cookies, you will not be able to log in or use the Service.
+Certain pages on our site may set other third party cookies.
+For example, we may embed content, such as videos, from another site that sets a cookie.
+Or another userâs notebook may embed a third party video.
+While we try to minimize these third party cookies, we canât always control what cookies this third party content sets.
+6.
+Tracking and analytics
+We use a number of third party analytics and service providers to help us evaluate our usersâ use of Observable, compile statistical reports on activity, and improve our content and website performance.
+In addition, we use our own internal analytics software to provide features and improve our service and performance.
+We do not permit third parties other than our analytics and service providers to track our usersâ activity over time on Observable.
+We do not track your online browsing activity on other online services.
+E.
+User-Generated Content
+
+Short version:
+You own the content you create, but you allow us certain rights, so that we can display and share the content you post.
+You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service.
+We have the right to remove content or close Accounts if we need to.
+
+1.
+Responsibility for User-Generated Content
+You may create or upload User-Generated Content while using the Service.
+You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you or Team Users post, upload, link to or otherwise make available via the Service, regardless of the form of that Content.
+We are not responsible for any public display or misuse of your User-Generated Content.
+2.
+Observable May Remove Content
+We do not pre-screen User-Generated Content, but we have the right (though not the obligation) to refuse or remove any User-Generated Content that, in our sole discretion, violates any Observable terms or policies.
+3.
+Ownership of Content, Right to Post, and License Grants
+You retain ownership of and responsibility for Your Content.
+If youâre posting anything you did not create yourself or do not own the rights to, you agree that you and your Team Users are responsible for any Content you post.
+that you will only submit Content that you have the right to post.
+and that you will fully comply with any third party licenses relating to Content you post.
+Because you retain ownership of and responsibility for Your Content, we need you to grant us â and other Observable Users â certain legal permissions, listed in Sections E.4 â E.6.
+These license grants apply to Your Content.
+If you upload Content that already comes with a license granting Observable the permissions we need to run our Service, no additional license is required.
+You understand that you will not receive any payment for any of the rights granted in Sections E.4 â E.6.
+The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
+4.
+License Grant to Us
+We need the legal right to do things like host Your Content, publish it, and share it.
+You grant us and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the Website and provide the Service.
+This includes the right to do things like copy it to our database and make backups.
+show it to you and other users you choose to show it to.
+parse it into a search index or otherwise analyze it on our servers.
+share it with other users you choose to share it with.
+run it in a notebook environment.
+and perform it, in case Your Content is something like music or video.
+We need these rights for both public and private notebooks because these rights are necessary for providing the Service.
+This license does not grant Observable the right to sell Your Content or otherwise distribute or use it outside of our provision of the Service.
+5.
+License Grant to Other Users
+Any User-Generated Content you or your Team Users post publicly may be viewed by others.
+By publishing your notebooks, you agree to allow others to view, âimportâ and âforkâ your notebooks.
+This means that others may load your published Content into notebooks they control, or make their own copies of your published Content in notebooks they control.
+When you publish a notebook, you grant each User of Observable a nonexclusive, worldwide license to use, display, and perform Your Content through the Observable Service and to reproduce Your Content solely on Observable as permitted through Observableâs functionality (for example, through forking).
+If you are uploading Content you did not create or own, you are responsible for ensuring that the Content you upload is licensed under terms that grant these permissions to other Observable Users.
+6.
+Contributions Under a Notebook License
+Whenever you make a suggestion to a notebook containing notice of a license, you license your suggestion under the same terms, and you agree that you have the right to license your suggestion under those terms.
+If you have a separate agreement to license your contributions under different terms, such as a contributor license agreement, that agreement will supersede.
+This style of collaboration is widely accepted as the norm in the open-source community, where itâs commonly referred to by the shorthand âinbound=outboundâ.
+7.
+Moral Rights
+You retain all moral rights to Your Content that you upload, publish, or submit to any part of the Service, including the rights of integrity and attribution.
+However, you waive these rights and agree not to assert them against us, to enable us to reasonably exercise the rights granted in Section E.4, but not otherwise.
+To the extent this agreement is not enforceable by applicable law, you grant Observable the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.
+F.
+Private Notebooks
+
+Short version:
+You may have access to private notebooks.
+We treat the content of private notebooks as confidential, and we only access it for support reasons, to fix errors in the Service, with your consent, or if required to for security reasons.
+
+1.
+Control of Private Notebooks.
+User Accounts and Team Accounts may have private notebooks, which allow the User or Team to restrict access to Content.
+2.
+Confidentiality of Private Notebooks.
+Observable considers the contents of private notebooks to be confidential to you or your team.
+Observable will protect the contents of private notebooks from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.
+3.
+Access.
+Observable employees may only access the content of your private notebooks in the following situations:
+
+With your consent and knowledge, for support reasons.
+If Observable accesses a private notebook for support reasons, we will ask for and obtain the notebook authorâs permission first.
+When access is required for maintenance reasons, to fix an error in the Service, or to upgrade notebooks for a new version of the Service.
+When access is required for security reasons, including to prevent abuse, and to maintain ongoing confidentiality, integrity, availability, and resilience of Observableâs systems and Service.
+When access is required for analytics reasons, to learn how Observable users are making use of the Service.
+
+4.
+Exclusions.
+If we have reason to believe the contents of a private notebook are in violation of the law or of these Terms, we have the right to access, review, and remove them.
+Additionally, we may be compelled by law to disclose User Personal Information or the contents of your private notebooks in response to a valid subpoena, court order, warrant, or similar government order, or when we believe in good faith that disclosure is reasonably necessary to protect our property or rights, or those of third parties or the public at large.
+In complying with court orders and similar legal processes, we strive for transparency.
+When permitted, we will make a reasonable effort to notify users of any disclosure of their information, unless we are prohibited by law or court order from doing so, or in rare, exigent circumstances.
+G.
+Copyright Infringement and DMCA Policy
+If you are a copyright owner and you believe that content on Observable violates your copyright, please contact us by emailing support@observablehq.com.
+There may be legal consequences for sending a false or frivolous takedown notice under the Digital Millennium Copyright Act.
+Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
+It is the policy of Observable, in appropriate circumstances and in its sole discretion, to disable and/or terminate the accounts of users who repeatedly infringe upon the copyrights or other intellectual property rights of Observable and/or others.
+To send a takedown request under the Digital Millennium Copyright Act, you must:
+
+Identify the copyrighted work you believe has been infringed.
+Identify the material on the Website you allege is infringing the copyrighted work.
+In common cases, this may simply be a notebook URL.
+Explain what the affected user would need to do in order to remedy the infringement.
+Provide your contact information, including email address, name, telephone number, and physical address.
+Provide additional contact information, if you know it, for the alleged infringer.
+Include the following statement: âI have a good faith belief that use of the copyrighted materials described above on the infringing web pages is not authorized by the copyright owner, or its agent, or the law.
+I have taken fair use into consideration.â
+Also include the following statement: âI swear, under penalty of perjury, that the information in this notification is accurate and that I am the copyright owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed.â
+Include your physical or electronic signature.
+
+Email your takedown notice, including elements 1 through 8 above, to support@observablehq.com.
+H.
+Intellectual Property Notice
+
+Short version:
+We own the service and all of our content.
+In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.
+
+1.
+Observableâs Rights to Content
+Observable and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service.
+We reserve all rights that are not expressly granted to you under this Agreement or by law.
+The look and feel of the Website and Service is copyright Â© Observable, Inc.
+All rights reserved.
+You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from Observable.
+I.
+Advertising on Observable
+
+Short version:
+We do not generally prohibit the use of Observable for advertising or promotional notebooks.
+However, we expect our users to follow certain limitations, so that Observable does not become filled with spam.
+
+1.
+Observable Notebooks
+Observable notebooks are intended to host Content.
+You may include static images, links, and promotional text in a notebook, but they must be related to the notebook you are hosting on Observable.
+You may not advertise to Other Users through Observableâs collaborative tools, such as by sending monetized or excessive bulk notebooks as suggestions, or sending advertisements through notebook comments.
+2.
+Spamming and Inappropriate Use of Observable
+Advertising Content, like all Content, must not violate the law or these Terms of Use, for example through excessive bulk activity such as spamming.
+We reserve the right to hide or remove any advertisements that, in our sole discretion, violate any Observable terms or policies.
+J.
+Payment
+
+Short version:
+You are responsible for any fees associated with your use of Observable.
+We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if prices change.
+
+1.
+Pricing
+Our pricing and payment terms are available at observablehq.com/teams (unless otherwise negotiated by both parties and stated in an order form).
+If you agree to a subscription price, that will remain your price for the duration of the payment term.
+however, prices are subject to change at the end of a payment term.
+2.
+Upgrades, Downgrades, and Changes
+
+We will immediately bill you when you sign up for a Team Account.
+If you change from a monthly billing plan to an annual billing plan, we will immediately bill you for a full year, subtracting any payment you have already made for the remainder of the month.
+When you add Users to your Team Account, we will prorate them on your next monthly bill.
+If you are on an annual billing plan, we may prorate them for the remainder of the year in advance of your next scheduled annual bill.
+You may cancel your service at any time by going into your Teamâs settings.
+If you choose to cancel your account, you may lose access to Content, features or capacity of your Account.
+
+3.
+Billing Schedule.
+No Refunds
+
+For monthly or annual payment plans, the Service is billed in advance on a monthly or annual basis respectively and is non-refundable.
+There will be no refunds for partial months or partial years of service, downgrade refunds, or refunds for months or years unused with an open Team Account.
+however, the service will remain active for the length of the paid billing period.
+In order to treat everyone equally, no exceptions will be made.
+
+4.
+Authorization
+By agreeing to these Terms, you are giving us permission to charge your on-file credit card or other approved methods of payment for fees that you authorize for Observable.
+5.
+Responsibility for Payment
+You are responsible for all fees, including taxes, associated with your use of the Service.
+By using the Service, you agree to pay Observable any charge incurred in connection with your use of the Service.
+If you dispute the matter, contact support@observablehq.com.
+You are responsible for providing us with a valid means of payment for a Team Account.
+Free Accounts are not required to provide payment information.
+K.
+Cancellation and Termination
+
+Short version:
+You may close your account at any time.
+If you do, weâll treat your information responsibly.
+
+1.
+Account Cancellation or Deletion
+It is your responsibility to properly cancel your account with Observable.
+You may request cancellation or deletion of your User Account by emailing support@observablehq.com from the email address associated with your account.
+You can cancel your Team Account at any time by going into the team settings from your teamâs profile page, and clicking on âBillingâ, and then âCancel subscriptionâ.
+The team settings provide a simple, no-questions-asked cancellation link.
+To delete your Team Account, email the request to support@observablehq.com from a team ownerâs email address.
+2.
+Upon Cancellation
+A cancelled User or Team Account will be placed into a read-only mode.
+You may continue to log in and browse your public and private notebooks, but may not create new notebooks or edit existing ones.
+Your public notebooks will continue to be visible and searchable on Observable.
+Cancelled Team Accounts will become read-only after the end of their current paid period, and will not be billed again.
+You may receive a final, prorated bill for any users added to your Team Account between your last paid bill and account cancellation.
+Cancelled User or Team accounts may be reactivated at any time.
+3.
+Upon Deletion
+We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile, the Content of your private notebooks, your Secrets, and any other private information stored on Observable within 90 days of receiving the deletion request or termination (though some information may remain in encrypted backups).
+This information can not be recovered once your account is deleted.
+We will not delete Content that you have contributed to other Usersâ notebooks or that other Users have forked from your notebooks.
+Your published notebooks will no longer be accessible on the Observable website, but copies of published notebooks will be retained, so that any forks, imports and embeds that may depend on them will continue to function.
+4.
+Observable May Terminate
+Observable has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately.
+Observable reserves the right to refuse service to anyone for any reason at any time.
+5.
+Survival
+All provisions of this Agreement which by their nature should survive termination will survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
+L.
+Communications with Observable
+
+Short version:
+We use email and other electronic means to stay in touch with our users.
+
+1.
+Electronic Communication Required
+For contractual purposes, you (1) consent to receive communications from us in an electronic form via the email address you have submitted or via the Service.
+and (2) agree that all Terms of Service, agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that those communications would satisfy if they were on paper.
+This section does not affect your non-waivable rights.
+2.
+Legal Notice to Observable Must Be in Writing
+Communications made through email or any electronic messaging system will not constitute legal notice to Observable or any of its officers, employees, agents or representatives in any situation where notice to Observable is required by contract or any law or regulation.
+Legal notice to Observable must be in writing and served on Observableâs legal agent.
+3.
+No Phone Support
+Observable only offers support via email, in-Service communications, and electronic messages.
+We do not offer telephone support.
+M.
+Disclaimer of Warranties
+
+Short version:
+We provide our service as is, and we make no promises or guarantees about this service.
+
+Observable provides the Website and the Service âas isâ and âas available,â without warranty of any kind.
+Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Website and the Service including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy, and non-infringement.
+Observable does not warrant that the Service will meet your requirements.
+that the Service will be uninterrupted, timely, secure, or error-free.
+that the information provided through the Service is accurate, reliable or correct.
+that any defects or errors will be corrected.
+that the Service will be available at any particular time or location.
+or that the Service is free of viruses or other harmful components.
+You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.
+N.
+Limitation of Liability
+
+To the maximum extent permitted by applicable law, each partyâs total cumulative liability to the other party or any third party under this Agreement from all causes of action and all theories of liability will be limited to and will not exceed the fees youâve actually paid us during the 24 months preceding the claim giving rise to such liability.
+
+You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from
+
+the use, disclosure, or display of your User-Generated Content;
+your use or inability to use the Service;
+any modification, price change, suspension or discontinuance of the Service;
+the Service generally or the software or systems that make the Service available;
+unauthorized access to or alterations of your transmissions or data;
+statements or conduct of any third party on the Service;
+any other user interactions that you input or receive through your use of the Service.
+or
+any other matter relating to the Service.
+
+Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose.
+We will have no liability for any failure or delay due to matters beyond our reasonable control.
+O.
+Release and Indemnification
+
+Short version:
+You are responsible for your use of the service.
+If you harm someone else or get into a dispute with someone else, we will not be involved.
+
+If you have a dispute with one or more Users, you agree to release Observable from any and all claims, demands, and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
+You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneysâ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement.
+Observable will (1) promptly give you written notice of the claim, demand, suit or proceeding.
+(2) give you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases Observable of all liability).
+and (3) provide to you all reasonable assistance, at your expense.
+P.
+Changes to These Terms
+
+Short version:
+As Observable grows and continues to add features, we may update these Terms of Service.
+When a material change is made, weâll post notice of the update on the Website.
+
+We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments.
+Such modifications and additional terms and conditions will be effective immediately and incorporated into this Agreement.
+Your continued use of the Website constitutes agreement to our revisions of these Terms of Service.
+When a material change to the Terms of Service is made, we will post a notice of the update on the Website.
+We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.
+Q.
+Miscellaneous
+1.
+Governing Law
+Except to the extent applicable law provides otherwise, this Agreement between you and Observable and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions.
+You and Observable agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
+2.
+Non-Assignability
+Observable may assign or delegate these Terms of Service, in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section E.4.
+You may not assign or delegate any rights or obligations under the Terms of Service without our prior written consent, and any unauthorized assignment and delegation by you is void.
+3.
+Section Headings and Summaries
+Throughout this Agreement, each section includes titles and brief summaries of the following terms and conditions.
+These section titles and brief summaries are not legally binding.
+4.
+Severability, No Waiver, and Survival
+If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the partiesâ original intent.
+The remaining portions will remain in full force and effect.
+Any failure on the part of Observable to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision.
+Our rights under this Agreement will survive any termination of this Agreement.
+5.
+Amendments.
+Complete Agreement
+This Agreement may only be modified by a written amendment signed by an authorized representative of Observable, or by the posting by Observable of a revised version in accordance with Section P.
+Changes to These Terms.
+These Terms of Service represent the complete and exclusive statement of the agreement between you and us.
+This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and Observable relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
+6.
+Publicity
+If you publicly display the name of your company or organization on your Account or otherwise publicly display its trademarks or logos on your User or Team profile page, you allow us to use your companyâs or organizationâs name to identify you as an Observable customer in our promotional materials.
+You may revoke this permission by removing your company or organization name from public display and notifying us at support@observablehq.com to stop using your organizationâs name in our promotional materials.
+However, Observable will have no obligation to remove or recall any prior use or distribution of the promotional materials.
+7.
+Questions
+Questions about the Terms of Service? Contact us at support@observablehq.com.
+8.
+Thanks
+These Terms of Service were adapted from GitHubâs Terms of Service, Privacy Statement and DMCA Takedown Policy under the Creative Commons Zero license.
+Thanks, GitHub!

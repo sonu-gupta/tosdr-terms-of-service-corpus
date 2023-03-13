@@ -1,0 +1,420 @@
+
+        Print this pageTwilio Privacy Statement
+
+Effective Date May 25, 2018, updated on January 8, 2021 
+
+(View the prior version of our privacy statement here.)
+
+
+
+Twilio is a cloud communications platform that provides software developers with building blocks to add communications to web and mobile applications or manage email applications (such as through our SendGrid products and services).
+
+
+Interested in how Twilio processes your data as a user of the Authy Mobile or Desktop App? See the 
+Authy App Privacy Notice.
+Looking for how Twilio processes your data as a user of the Frontline Mobile App? Check out the 
+Frontline App Privacy Notice
+.
+
+
+If youâre a SendGrid user, you can click here to see what specific privacy controls apply to our SendGrid products and services.
+
+
+We understand that when you use Twilioâs platform you are placing your trust in us to handle your data appropriately, including the personal information of you and your end users.
+That is why we take a âNo Shenanigansâ approach to data protection.
+
+
+
+Part of our âNo Shenanigansâ approach is to make sure that you, the developer, have information about how we process personal information in connection with your use of our products and services, including our website.
+We want to enable you to make informed decisions about your personal information when building your software applications on Twilioâs platform.
+We also want to provide you with relevant information to help your end users make informed decisions about their personal information when they use your software applications built on Twilioâs platform.
+
+
+
+
+Weâre realists here.
+And, as much as our Privacy Team wishes it were otherwise, we know that most developers donât spend their time reading privacy notices...
+
+
+But they do read API docs! So, weâve added information to our Twilio 
+API docs
+ and SendGrid 
+Documentation
+ about personal information processing to give you information to help you build in a smarter, more privacy-aware way.
+
+
+So, letâs say youâve read everything here and youâve checked out our product-specific API docs, but you still have more questions or concerns about how weâre processing personal information, or you would like to know more about how to exercise your rights.
+You can contact our Privacy Team in the Office of the Data Protection Officer by either emailing us at privacy@twilio.com or, by writing to us at:Worldwide headquarters375 Beale Street, Suite 300, San Francisco, CA 94105European headquarters25-28 North Wall Quay, Dublin 1, IrelandTable of Contents
+ Letâs Get Oriented 
+ How Twilio Processes Your Personal Information 
+ What Personal Information Twilio collects 
+ What Customer Account Data Twilio Processes When You Visit Our Website, Sign Up for a Twilio Event, or Make a Request for Information About Twilio and Why 
+ What Customer Account Data Twilio Processes When You Communicate with Our Sales or Customer Support Teams and Why 
+ What Customer Account Data Twilio Processes When You Sign Up for and Log Into a Twilio Account and Why 
+ Other Customer Account Data We Collect and Why 
+ How Long We Store Your Customer Account Data 
+ How To Make Choices About Your Customer Account Data 
+ California Consumer Access and Deletion Rights 
+
+
+ How Twilio Processes Your End Usersâ Personal Information 
+ What Customer Usage Data and Customer Content Twilio Processes and Why 
+ How Long Do We Store Customer Usage Data and Customer Content and Exercising Choices About End User Personal Information 
+
+
+ When and Why We Share Your Personal Information Or Your End Usersâ Personal Information 
+ Transfers of Personal Information Out of the EEA and Switzerland 
+ SendGrid Services 
+ Data Collection and Email 
+ Customer Content and Email Recipientsâ Personal Information 
+ Data Subject Rights and Opt Outs 
+
+
+ Automated Decision Making 
+ Handling disputes relating to our data protection practices 
+ How We Secure Personal Information 
+ Other Information You May Find Useful 
+ Information from Children 
+ Do-Not-Track Signals 
+ Changes to Our Privacy Notice 
+
+
+Letâs Get OrientedTwilio processes two broad categories of personal information when you use our products and services: 
+
+Your personal information as a customer (or potential customer) of Twilioâs services â information that we refer to as Customer Account Data, and 
+The personal information of your end users who use or interact with your application that youâve built on Twilioâs platform, like the people you communicate by way of that application â this category contains both your Customer Usage Data (e.g., communications metadata) and your Customer Content (e.g., the contents of communications).
+
+Twilio processes these categories of personal information differently because the direct relationship we have with you, our customer, is different than the indirect relationship we have with your end users.How Twilio Processes Your Personal InformationData protection laws and privacy laws in certain jurisdictions, like the European Economic Area (EEA), differentiate between âcontrollersâ and âprocessorsâ of personal information.
+A controller decides why and how to process personal information.
+
+A processor processes personal information on behalf of a controller based on the controllerâs instructions.
+When Twilio processes your Customer Account Data, the Twilio entity with whom you are contracting is acting as a controller.
+
+
+Broadly speaking, we use Customer Account Data to further our legitimate interests to:
+
+understand who our customers and potential customers are and their interests in Twilioâs product and services, 
+manage our relationship with you and other customers, 
+carry out core business operations such as accounting, filing taxes, and fulfilling regulatory obligations and
+help detect, prevent, or investigate security incidents, fraud and other abuse and/or misuse of our products and services.
+
+What Personal Information Twilio collectsWhile weâre on the subject of Customer Account Data and Customer Usage Data, weâd like to give you a brief summary of the categories of personal information that might be found in the Customer Account Data and Customer Usage Data that we collect from our customers and their end users, so you can know at a glance what weâre talking about.
+
+We collect and process your personal information: 
+
+When you visit a Twilio public-facing website like twilio.com, twilio.org, authy.com, or sendgrid.com, sign up for a Twilio event, like SIGNAL, or make a request to receive information about Twilio or our products, like a Twilio whitepaper or a newsletter;
+When you contact our Sales Team or Customer Support Team.
+and
+When you sign up for a Twilio, Authy, or SendGrid account and use our products and services.
+
+We call this personal information Customer Account Data.
+We also collect Customer Usage Data from you when you send or receive communications through your use of our services.
+This data might take different forms, and we might use it for different purposes â read on for more information.Learn MoreDepending on your interactions with us, we might collect the following categories of personal information, and for the following reasons:
+
+We collect Identifiers, like your name and contact information (Customer Account Data), when you sign up or use our products or services and to do things like allow you to use our products, verify your identity, and communicate with you.
+We collect Commercial information when we keep track of the services that you purchase from us and our communications history about those services.
+We collect Financial information, such as your payment information, when you pay for our services.
+We collect Internet and other electronic activity information, such as communications metadata, as you interact with our website or use our services.
+This metadata may be information about how you interact with our websites and the information on them.
+what features you use on our service.
+or it may be your Customer Usage Data as you send communications over the service.
+We collect Geolocation information when you use our products or services.
+Depending on the product or service, this could be location based on your IP address, or, such as if you are using our IoT products and services, based on the cell tower to which a mobile device is connected, or Wi-Fi triangulation.
+We collect Professional or employment information, such as your company or employer or your role at your company.
+If you attend an event or fill out a form or survey with us, we might collect your age, your gender, or other information that counts as characteristics of protected classifications.
+however, we will only collect those with your knowledge and opt-in consent.
+
+You can always read more in our API documentation about how we treat personal information we process using our service.
+
+When weâre processing your personal information as our customer, weâre generally processing Customer Account Data or Customer Usage Data.
+When we do, weâre a controller, as we described above, and this Privacy Statement details the rules that control our use of that data.
+In addition, as a processor and a service provider, we process Customer Content that may include personal information from any of those categories, plus others.
+If youâre an end user of a customer of ours, our customer will be able to help you with more details on what categories theyâre collecting and using.
+If youâre our customer, you can read more about our responsibilities as a service provider in our CCPA Notice.What Customer Account Data Twilio Processes When You Visit Our Website, Sign Up for a Twilio Event, or Make a Request for Information About Twilio and WhyWhen you visit our website, sign up for a Twilio event or request more information about Twilio, we collect information automatically using tracking technologies, like cookies, and through web forms where you type in your information.
+We collect this information to provide you with what you request through the web form, to learn more about who is interested in our products and services, and to improve navigation experience on our pages.Learn MoreInformation You Share Directly: In some places on Twilioâs public-facing websites, you can fill out web forms to ask to be contacted by our Sales Team, sign up for a newsletter, register for a Twilio event, or take a survey.
+The specific personal information requested on these forms will vary based on the purpose of the form.
+We will ask you for information necessary for us to provide you with what you request through the form (for example, we will ask you for your email address if you want to sign up for an email newsletter and for your phone number if you want a member of our Sales Team to call you).
+We may also ask you for additional information to help us understand you better as a customer like your Twilio use case, your company name, or your role at your company.
+If you sign up to receive ongoing marketing communications from Twilio, like a newsletter, you can always choose to opt out of further communications through a preferences page which will be linked from any marketing email you receive from Twilio.
+You can also contact our Customer Support Team to communicate your choice to opt out.
+Information We Collect Automatically: When you visit Twilio websites, including our web forms, we and our service providers acting on our behalf automatically collect certain information using tracking technologies like cookies, web beacons, and similar technologies.
+We use this information to understand how visitors to our websites are using them and which pages and features of the websites are most popular.
+This helps us understand how we can improve our websites and track performance of our advertisements.
+In addition, we use tracking technologies to help improve the navigation experience on Twilio websites.
+We donât sell this information to third parties, though.
+For more details on our use of cookies and tracking technologies, please see our Cookie Notice.What Customer Account Data Twilio Processes When You Communicate with Our Sales or Customer Support Teams and WhyYou may share personal information, like your contact information, with a member of our Sales or Customer Support Team when you communicate with them.
+We keep a record of this interaction.
+
+Learn MoreIf you contact our Sales or Customer Support Teams, those teams keep a record of that communication, including your contact details and other information you share during the course of the communication.
+We store this information to help us keep track of the inquiries we receive from you and from customers generally so we can improve our products and services and provide training to team members.
+This information also helps our teams manage our ongoing relationships with our customers.
+Because we store a record of these communications, please be thoughtful about what information you share with our Sales and Customer Support Teams.
+While we will take appropriate measures to protect any sensitive information you share with us, it is best to avoid sharing any personal or other sensitive information in these communications not necessary for these teams to assist you.What Customer Account Data Twilio Processes When You Sign Up for and Log Into a Twilio Account and WhyWhen you sign up for an account with us, we ask for certain information like your contact details and billing information so we can communicate with you and so you can pay for our products and services.
+We also collect some information automatically, like your IP address, when you log in to your account or when your software application built on Twilio makes requests to our APIs.
+We use this to understand who is using our services and how, and to detect, prevent and investigate fraud, abuse, or security incidents.
+
+Learn MoreInformation You Share Directly: When you sign up for a Twilio account with us, youâll be asked to give us your name, email address, and optionally, your company name, and to create a password.
+You can also name your account (or accounts, if you have more than one).
+We collect this information so we know who you are, we can communicate with you about your account(s), and we can recognize you when you communicate with us through the account portal or otherwise.
+
+When you sign up for a SendGrid account, we ask you for a username, email address, and ask you to create a password.
+Similarly, we collect this information so we can identify you on our service, provide the service to you, communicate with you about your account, and recognize you when you communicate with us.
+
+We also use your email address to send you information about other Twilio products, services or events in which we think you may be interested.
+You can opt out of further marketing communications through your marketing preferences page linked from any marketing email you receive from Twilio.
+Or, you can contact our Customer Support Team to communicate your choice to opt-out.
+When you first sign up for an account, we also ask you for a telephone number so we can communicate a verification code to that telephone number and have you enter the code into our website.
+This helps us ensure youâre actually a human being.
+A Twilio team member may also contact you at this number to help you with onboarding unless you tell us you donât want us to contact you.
+When you set up two-factor authentication for your account, weâll ask you to enter a telephone number to set up the process.
+You have the option to use that telephone number as the method for us to communicate verification codes to you to verify that it is you logging into your account.
+You can alternatively use the Authy App for verification codes.
+When you upgrade your trial account, weâll ask you to provide our payment processor with your payment method information like a credit card or your Paypal account, and/or your billing address.
+Our payment processor, acting on our behalf, gathers this so we can bill you for your use of our products and services.
+Our payment processor will share your billing address with Twilio.
+Your billing address may also be used by Twilio for tax calculation and audit purposes.
+
+For some products, we may also obtain a physical address from you that includes a proof of address, name, or other identification information.
+For example, to get a phone number in certain countries, local law may require us to have a physical service address on file for the individual who will be using that Twilio number, whether thatâs you or your end user, and/or proof of identity and physical service address.
+We call these âsubscriber records.â
+We may have to share subscriber records with the local telecommunications carrier that provides local connectivity services or with local government authorities.
+We may also use this physical service address for tax purposes.
+
+Similarly, for some of our products, you or your end user, whoever is going to be making use of the product, may have to complete an application form providing details about your company and your intended use of the product, like when you are interested in getting a short code.
+Weâll use this information for the purpose for which it was gathered from you.
+We may also use it in connection with improving our own internal processes and services or training our team members.
+Information We Generate or Collect Automatically.
+When you sign up for an account with Twilio, weâll automatically assign you and your account(s) unique IDs called SIDs and weâll automatically generate an API token for each of your accounts.
+These are used like a username and password to make API requests.
+Instead of using these API tokens, you can provision API Keys, and use your API key for authentication when making requests to our APIs.
+We keep a record of these credentials so we know it is you making the requests when your application makes requests to our API using these credentials.
+In addition, when you use our account portal, we collect your IP address and other data through tracking technologies like cookies, web beacons, and similar technologies.
+We use this information to understand how customers are using our platform, who those customers are (if they are a company and the IP address is associated with that company), what country they are logging in from (for analytics and export control purposes), and to help improve the navigation experience.
+For more details on our use of cookies and tracking technologies, please see Twilioâs Cookie Notice, and SendGridâs page on Website Navigational Information.
+Note that we also collect the IP address of your devices or servers when you make requests to our APIs.
+When you use our APIs, we also collect and process the information contained in those interactions.
+For more information about how personal information is processed in that context, see the section below on âHow Twilio Processes End Usersâ Personal Informationâ and our API Docs.
+All information we collect when you sign up for a Twilio account and interact with the Twilio account portal or our products or services may be used to detect, prevent, or investigate security incidents, fraud, or abuse and misuse of our platform and services.
+We will also use it, and share it with our service providers, as needed for our operational purposes â such as to do things to function as a business and provide our services to you.Other Customer Account Data We Collect and WhyWe may collect information about you, as our customer, from publicly-available sources so we can understand our customer base better.Learn MoreWe may use publicly-available information about you through services like LinkedIn, or we may obtain information about your company from third party providers to help us understand our customer base better, such as your industry, the size of your company, and your companyâs website URL.How Long We Store Your Customer Account DataTwilio will store your Customer Account Data as long as needed to provide you with our services and to operate our business.
+If you ask Twilio to delete specific personal information from your Customer Account Data (see âHow To Make Choices About Your Customer Account Dataâ below), we will honor this request unless deleting that information prevents us from carrying out necessary business functions, like billing for our services, calculating taxes, or conducting required audits.
+Learn MoreHere is an overview of how long we hold on to Customer Account Data in a form that can be used to identify you, unless there is a specific need or obligation to retain your information longer (like in the case of an open investigation, audit or other legal matter):
+
+Customer Account Data stored in our customer relationship management system(s) is generally stored up to 7 years following closure of your account.
+Invoice records, including their digital equivalent, may be retained in identifying form by Twilio for longer periods for accounting, tax, and audit purposes depending on and in accordance with applicable law.
+
+Similarly, where we collect subscriber records, such as a physical address or identity information, in connection with providing our communications products and services, we will retain this data as needed for legal, security and anti-fraud purposes and depending on and in accordance with applicable local law.
+We may retain your communications with Twilioâs Customer Support Teams for up to 3 years after your account is closed.
+Apart from the above, within 60 days following closure of your account, we will either delete other Customer Account Data or transform it such that it can no longer be used to identify you.
+How To Make Choices About Your Customer Account DataYou can make various choices about your Customer Account Data through the account portal, such as accessing it, correcting it, deleting it, or updating your choices about how it is used, when you log into your Twilio account or through the marketing preferences center.
+Any other requests about your data you cannot make through these self-service tools, you can request by emailing privacy@twilio.com or contacting Customer Support.
+Learn MoreClosing Your Account and Deletion.
+To request closure or deletion of your Twilio account, you can email us at privacy@twilio.com or contact Customer Support.
+You should know that closure and/or deletion of your Twilio account will result in you permanently losing access to your account and data in the account.
+Please note that certain information associated with your account may nonetheless remain on Twilioâs servers in an aggregated form that does not identify you or your end users.
+Similarly, data, including personal information, associated with your account we are required to maintain for legal purposes or for necessary business operations (see âHow Long We Store Your Customer Account Dataâ section above) will be retained after account closure until no longer needed.
+Promotional Communications.
+You can choose not to receive promotional emails from Twilio by following the unsubscribe/opt-out instructions in those emails.
+You can also opt-out by contacting Customer Support.
+Please note that even if you opt out of promotional communications, we may still send you non-promotional messages relating to things like updates to our terms of service or privacy notices, security alerts, and other notices relating to your access to or use of our products and services.
+
+Cookies and Tracking Technologies.
+How you make choices about cookies and other tracking technologies depends on the type of cookie or tracking technology being used.
+For details on how to manage your preferences for cookies and tracking technologies, please check out our Cookie Notice, and SendGridâs Website Navigational Information page.
+Other Choices About Your Customer Account Data.
+In addition, you can express other choices about your Customer Account Data (i.e., accessing it, deleting it, restricting its use, porting it, or withdrawing consent for its use) by contacting privacy@twilio.com.
+If you are an end user of an application built on Twilioâs platform and not a direct customer of Twilio, you should direct requests relating to your personal information to the relevant application provider in accordance with the application providerâs own privacy policy.California Consumer Access and Deletion RightsFor those customers that would like more information about our use of Customer Account Data or Customer Usage Data, you have the ability to request: 
+
+that we provide details about the categories of personal information that we collect about you, including how we collect and share it.
+
+that we provide you access to the personal information we collect about you.
+and 
+that we delete the personal information we have about you.
+
+
+
+
+Please be aware that when you ask us for these things, we will take steps to verify that you are authorized to make the request.Learn MoreAs part of the services we provide to our customers, we provide you with a number of self-service features at no additional cost, including the ability to access your data, download a copy of your data, delete your data, or restrict the use of your data.
+If you need more help than that, let our Support team know.
+we will provide reasonable and timely assistance to assist you.
+Please keep in mind that when you ask us for your personal information, or you ask us to delete your personal information, we may need to withhold or retain some of that personal information for security, legal, or anti-fraud reasons.
+Also, we do need some of the Customer Account Data and Customer Usage Data we have to maintain customer accounts.
+If you ask us to delete that information, we may not be able to continue providing you our services.
+This also means that we wonât be able to provide access to or delete information about customers who are the point of contact for businesses that use our services.
+If you would like to request access or deletion, you may contact our Support team or email privacy@twilio.com.How Twilio Processes Your End Usersâ Personal InformationYour end usersâ personal information typically shows up on Twilioâs platform in a few different ways: 
+
+Communications-related personal information about your end users, like your end usersâ phone numbers for number-based communications, your end usersâ email addresses for email communications, IP addresses for IP-based communications, device status (indicating whether a device is available for messaging), or device tokens for push notifications, show up in our systems when you use or intend to use this information to contact your end user through use of our products and services.
+Your end usersâ personal information may show up in âfriendly names,â which are strings you provide, if you choose to include your end usersâ personal information as part of a string.
+
+Your end usersâ personal information may also be contained in the content of communications you (or your end users) send or receive using Twilioâs products and services.
+
+We call the information in the first two bullets above Customer Usage Data.
+The information in the third bullet is what we refer to as Customer Content.
+
+As noted above, data protection law (including privacy law) in certain jurisdictions, like the EEA, differentiate between âcontrollersâ and âprocessorsâ of personal information.
+When Twilio processes Customer Content, we generally act as a processor.
+When we process Customer Usage Data, we act as a processor in many respects, but we may act as a controller in others.
+For example, we may need to use certain Customer Usage Data for the legitimate interests of billing, reconciling invoices with telecommunications carriers, and in the context of troubleshooting and detecting problems with the network.What Customer Usage Data and Customer Content Twilio Processes and WhyWe use Customer Usage Data and Customer Content to provide services to you and to carry out necessary functions of our business as a communications service provider.
+We do not sell your end usersâ personal information and we do not share your end usersâ information with third parties for those third partiesâ own business interests.
+Learn MoreThe particular end user personal information Twilio processes when you, our customer, use our products and services and the reason Twilio processes depends on how you use our products and services and which Twilio products and services you use.
+For that reason, our API docs for each of our products and services are the best place to find information about our processing of personal information when you use that Twilio product and service.
+
+In many cases, you can opt to store records of your communications, or other activities, on Twilio, which may include your end usersâ personal information.
+You may also have the option to use additional features or tools within Twilioâs products or services that allow you to do things such as analyze the records, including end user personal information, in your Twilio account.
+In those cases, Twilio will process this information to provide you with the service you request.
+In addition, records containing end user personal information may, from time to time, also be used in debugging or troubleshooting or in connection with investigations of security incidents, as well as for the purposes of detecting and preventing spam or fraudulent activity, and detecting and preventing network exploits and abuse.
+It may also be anonymized, as allowed by law, and we may use data that can no longer identify you or relate to you for our legitimate business needs.How Long Do We Store Customer Usage Data and Customer Content and Exercising Choices About End User Personal InformationDetails regarding how long your end user personal information may be stored on Twilio systems and how to delete, access, or exercise other choices about end user data will depend on which Twilio products and services you are using and how you are using them.
+For that reason, our API docs for each of our products and services, along with SendGridâs documentation, are the best place to find more detailed information about managing end user data collected and stored in connection with your use of our products and services, as well as the particular data retention periods for your use case.
+
+Learn MoreAs a Twilio customer, if the Twilio product or service you use enables you to store records of your usage on Twilio, including personal information contained within those records, and you choose to do so, then Twilio will retain these records for as long you instruct.
+In some cases, use of extended storage may cost more.
+If you later instruct us to delete those records, we will do so.
+Please note that it may take up to 30 days for the data to be completely removed from all systems.
+In some cases, a copy of those records, including the personal information contained in them, may nonetheless be retained to carry out necessary functions like billing, invoice reconciliation, troubleshooting, and detecting, preventing, and investigating spam, fraudulent activity, and network exploits and abuse.
+Sometimes legal matters arise that also require us to preserve records, including those containing personal information.
+These matters include litigation, law enforcement requests, or government investigations.
+If we have to do this, we will delete the impacted records when no longer legally obligated to retain them.
+We may, however, retain or use records after they have been anonymized, if the law allows.
+When and Why We Share Your Personal Information Or Your End Usersâ Personal InformationWe do not sell or allow your Customer Account Data to be used by third parties for their own marketing purposes, unless you ask us to do this or give us your consent to do this.
+Further, we do not sell your end usersâ personal information.
+We also do not share it with third parties for their own marketing or other purposes, unless you instruct us to do so.
+You can read more in our CCPA Notice.
+
+Learn MoreBelow are the different scenarios under which we may share your data with third parties.
+
+
+Telephony operators as necessary for proper routing and connectivity.
+Twilio provides an easier way for developers to build applications that make use of the publicly switched telephone network (PSTN) to send communications.
+Therefore, communications-related data is shared with and received from telephony operators as necessary to route and connect those communications from the sender to the intended recipient.
+How those telephony operators handle this data is generally determined by those operatorsâ own policies and local regulations.
+Other communications service providers for proper routing and connectivity.
+Twilio also enables sending or receiving communications through communications service providers that do not use the PSTN, such as Viber and Facebook Messenger (referred to as Over-the-Top (OTT) communications service providers).
+If you choose to use Twilio to send or receive communications by way of these providers, Twilio will share communications data with these providers as necessary to route and connect those communications from the sender to the intended recipient.
+How those OTT communications service providers handle this data is determined by their own policies.
+Third-party service providers or consultants.
+Twilio engages certain third-party service providers to carry out certain data processing functions on our behalf.
+These providers are limited to only accessing or using this data to provide services to us and must provide reasonable assurances they will appropriately safeguard the data.
+In addition, Twilio uses Sift Science as a service provider to help us detect potentially fraudulent or malicious accounts or customer activity.
+Sift Science uses machine learning as part of its service and certain Customer Account Data Twilio shares with them may be used in building machine learning models to help detect potential fraud or malicious activity that not only benefits Twilio, but other Sift Science customers as well.
+Sift Science provides additional information about their data practices in their privacy notice.
+Twilio does not share end user personal data with Sift Science.
+Sub-processors.
+We may share Customer Content with sub-processors who assist in providing the Twilio services, like our infrastructure provider, or as necessary to provide optional functionality like transcriptions.
+An up-to-date list of Twilio's sub-processors is located here.
+Add-on Partners.
+Add-ons are additional features, functionality or services offered by Twilioâs Add-on Partners (third parties not affiliated with Twilio).
+Twilio may make Add-ons available through the Twilio Marketplace.
+Some Add-ons may need to access or collect some of your information, including personal information.
+If you choose to use an Add-on, Twilio will share your information with the Add-on Partner so you can use the Add-on.
+Twilio does not control Add-on Partnersâ use of your information and their use of your information will be in accordance with their own policies.
+If you do not want your information to be shared with an Add-on Partner, then you should not use the Add-on.
+Compliance with Legal Obligations.
+We may disclose your or your end usersâ personal information to a third party if (i) we reasonably believe that disclosure is compelled by applicable law, regulation, legal process, or a government request (including to meet national security, emergency services, or law enforcement requirements), (ii) to enforce our agreements and policies, (iii) to protect the security or integrity of our services and products, (iv) to protect ourselves, our other customers, or the public from harm or illegal activities, or (v) to respond to an emergency which we believe in good faith requires us to disclose data to assist in preventing a death or serious bodily injury.
+If Twilio is required by law to disclose any personal information of you or your end user, we will notify you of the disclosure requirement, unless prohibited by law.
+Further, we object to requests we do not believe were issued properly.
+You can read more in our Law Enforcement Guidelines.
+Other Twilio Group Entities.
+We may share your personal information or your end usersâ personal information within the Twilio group of companies, such as with a subsidiary of Twilio Inc.
+We and our subsidiaries will only use the information as described in this notice.
+Business transfers.
+If we go through a corporate sale, merger, reorganization, dissolution or similar event, data we gather from you may be part of the assets transferred or shared in connection with the due diligence for any such transaction.
+In that situation, and that situation only, we might transfer your data in a way that constitutes a sale under applicable law.
+If we do, weâll let you know ahead of time, and any acquirer or successor of Twilio may continue to process data consistent with this notice.
+Aggregated or de-identified data.
+We might also share data with third parties if the data has been de-identified or aggregated in a way so it cannot be used to identify you or your end users.
+
+If youâre a Californian interested in what personal information we have shared lately for our business purposes, hereâs a list:
+
+Identifiers
+Commercial information
+Financial information
+Internet or other electronic activity information
+Geolocation information
+Professional or employment information
+
+By âour business purposes,â we mean that we only share personal information as we describe in this section (in other words, with telephony operators, communications providers, and so on).Transfers of Personal Information Out of the EEA and SwitzerlandWhen you use our account portal, or our other products and services, personal information of you and your end users processed by Twilio may be transferred to the United States, where our primary processing facilities are located, and possibly to other countries where we or our service providers operate.
+These transfers will often be made in connection with routing your communications in the most efficient way.
+
+Twilio employs appropriate safeguards for cross-border transfers of personal data, as required by applicable local law, including Binding Corporate Rules and Standard Contractual Clauses.Learn MoreWhile Twilio relies on strong transfer mechanisms to protect the data we transfer across borders, we understand that data transfer mechanisms do not operate in a vacuum.
+You can read more about the appropriate technical and operational safeguards Twilio has taken to safeguard our customers' personal data.
+But first, an overview of our transfer mechanisms.
+
+Twilioâs Binding Corporate Rules. Twilio has established and implemented a set of Binding Corporate Rules (âBCRsâ) for internal transfers of personal information between Twilio group companies in the European Union and Twilio group companies elsewhere.
+Twilioâs BCRs have been approved by European Union Data Protection Authorities and are a commitment by Twilio to adequately protect personal information that Twilio processes regardless of where the information resides.
+You can access Twilioâs BCR controller and processor policies here.
+
+Standard Contractual Clauses. Where Twilioâs BCRs do not apply, including to cross-border data transfers of the SendGrid services, we rely instead on other safeguards to transfer personal information outside the EEA and Switzerland, such as European Union Model Clauses, also known as Standard Contractual Clauses.
+
+Twilio's Data Protection Addendum. For more information about our cross-border data transfer mechanisms, please see the Data Protection Addendum which is part of your agreement with us.
+We provide this DPA by default, as an additional layer of protection for all our customers.SendGrid ServicesThe SendGrid services work a little differently from the rest of Twilioâs services, and weâd like to make sure youâre aware of those differences.
+Most importantly, SendGrid services are not currently covered by Twilioâs Binding Corporate Rules, which means that we rely on Standard Contractual Clauses (which you can find in our Data Protection Addendum) for any cross-border data transfers relating to the SendGrid services.
+However, even where SendGrid services are not covered by our Binding Corporate Rules, we are committed to providing a high level of data protection for our SendGrid customers.
+There are a few other elements that are specific to the SendGrid services, and you should read on for more information.Learn MoreData Collection and Email For the most part, the SendGrid services collect the same data the Twilio services collect, and for the same reasons.
+The SendGrid services also collect some additional data in the form of web beacons placed in the body of emails delivered using the SendGrid platform.
+This allows us to keep track of whether or not an email has been delivered, opened, clicked on, whether it bounced or was treated as spam.
+You may learn more about these web beacons on our Website Navigational Information page.Customer Content and Email Recipientsâ Personal InformationLike Twilio, SendGrid is a data processor for Customer Content, like email communications contents and the contents of marketing campaigns.
+SendGrid is also a data processor for email recipientsâ email addresses and other recipientsâ personal information.Data Subject Rights and Opt OutsSendGrid takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete and up to date.
+You can manage, access, or delete many of your account and profile settings within the dashboard provided through the SendGrid platform, including, in some instances, your end usersâ personal information.
+
+
+
+Additionally, you can opt out of receiving marketing emails from us at any time by clicking the 'unsubscribe' link at the bottom of our marketing messages.
+Please note that it may take up to three days to remove your contact information from our marketing communications lists, so you may receive correspondence from us for a short time after you make your request.
+You will not be able to opt out of service emails from us, such as billing emails, unless you deactivate your account.Automated Decision Making Twilio may use automated decision making using a variety of signals derived from account activity to help identify and suspend accounts sending spam or engaged in other abusive or fraudulent activity.
+Holders of accounts suspended under these circumstances are notified of the suspension and given an opportunity to request human review of the suspension decision.Handling disputes relating to our data protection practicesWe hope we can resolve any disputes relating to our data protection practices between us.
+You can raise your concern or dispute by emailing our Privacy Team at privacy@twilio.com or by writing to us at: 
+Twilio Inc., 375 Beale Street, Suite 300, San Francisco, CA 94105 (our worldwide headquarters)
+or
+Twilio Ireland Limited, 25-28 North Wall Quay, Dublin 1, Ireland (our EEA headquarters).
+For individuals in the EEA, you have additional rights to make a complaint to a competent data protection authority or commence proceedings in a court of competent jurisdiction in accordance with applicable data protection laws.
+
+
+Learn MoreIf you have a dispute with us relating to our data protection practices, please contact us by email at privacy@twilio.com.
+
+If we canât resolve the dispute through those channels and you are not in the EEA or Switzerland, please see Section 18 (Agreement to Arbitrate) of our Terms of Service, which describes how disputes will be resolved between us.
+As described in that section, the American Arbitration Association (http://www.adr.org) will conduct the dispute resolution proceedings.
+Please be sure to review our Terms of Service, including Section 18, before you use any of our products and services.
+For those in the EEA or Switzerland, if you have a dispute with us relating to our data protection practices or are not satisfied with how weâve addressed your concerns or questions, you may complain to an independent dispute resolution provider, at no cost to you.
+We outline this process in our Privacy Shield Statement (while we do not rely on Privacy Shield for data transfers, we continue to comply with the framework, including its dispute resolution process).
+
+If you are a resident of the EEA, you also have the right to lodge a complaint with your local data protection authority or the Data Protection Commissioner in Ireland (where our EEA headquarters are based).
+
+Irish Data Protection Commissioner
+Officer of the Data Protection Commissioner
+Canal House, Station Road, Portarlington, Co.
+Laois, R32 AP23, Ireland
+Phone: +353 57 868 4757
+Fax: +353 57 868 4757
+Email: info@dataprotection.ie 
+
+
+For more information about Twilioâs complaint handling procedures, see Twilioâs BCR: Complaint Handling Procedure.How We Secure Personal InformationWe use appropriate technical and organizational measures to protect the security of your personal information both online and offline.
+These measures vary based on the sensitivity of the personal information we collect, process and store and the current state of technology.
+We also take measures to ensure service providers that process personal data on our behalf also have appropriate security controls in place.
+
+Learn MorePlease note that no service is completely secure.
+While we strive to protect your data, we cannot guarantee that unauthorized access, hacking, data loss or a data breach will never occur.
+To protect the confidentiality of your account and protect from unauthorized use of your account, we recommend enabling two-factor authentication for your account.
+Additionally, you must keep your account password and Auth Token confidential and not disclose them publicly or to unauthorized individuals â this includes accidentally distributing them in a binary or checking them into source control.
+Please let us know right away if you think your password or Auth Token was compromised or misused.
+For instructions on changing your password, click here.
+For instructions on changing your Auth Token, click here.
+
+Similarly, if you provision an API Key, you should keep your secret, well...
+secret.
+You should store your API Key Account SID and secret in a secure location.
+Information on provisioning and revoking API Keys can be found here.
+Other Information You May Find UsefulHereâs some other information about our privacy practices, such as how we handle certain types of data like childrenâs data or protected health information, how we handle do-not-track signals, what to expect if we make changes to our notice, and the legal bases for processing personal information.
+
+
+Learn MoreInformation from ChildrenWe do not knowingly permit children (under the age of 13 in the US or 16, if you live in the EEA) to sign up for a Twilio account.
+If we discover someone who is underage has signed up for a Twilio account, we will take reasonable steps to promptly remove that personâs personal information from our records.
+If you believe a person who is underage has signed up for a Twilio account, please contact us at privacy@twilio.com.Do-Not-Track SignalsTwilio does not currently respond to web browserâs Do-Not-Track signals.
+You can learn more about Do Not Track here, and you can learn more about the cookies the Twilio website sets here and, for the SendGrid website, here.Changes to Our Privacy NoticeWe may change our Privacy Notice from time to time.
+If we make changes, weâll revise the âEffectiveâ date at the top of this notice, and we may provide additional notice such as on the Twilio website homepage, account portal sign-in page, or via the email address we have on file for you.
+We will comply with applicable law with respect to any changes we make to this notice and seek your consent to any material changes if this is required by applicable law.
+Legal Basis for Processing Personal Information (EEA only)
+If you are from the EEA, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
+
+However, we will normally collect personal information from you only where we need the personal information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms, or where we have your consent to do so.
+In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person such as in the case where we request personal information from you in the context of a government audit or in response to a request from law enforcement.
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact information provided in the introduction section of this privacy statement.

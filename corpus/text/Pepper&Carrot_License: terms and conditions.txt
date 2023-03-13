@@ -1,0 +1,9 @@
+
+        To contribute to the project, you can read [the full documentation here](https://www.peppercarrot.com/static14/documentation) ## License: terms and conditions By submitting any content to the Pepper&Carrot [webcomics repository](https://framagit.org/peppercarrot/webcomics), such as new translations, improvements to translations, issues, or other content, (âYour Contentâ), you accept that you release it under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) License (âCC BY 4.0â).
+You acknowledge that you understand this license and you permit everyone to use Your Content under this license.
+You warrant that you have the right to grant this permission and you understand that under the terms of the CC BY 4.0 license you cannot later revoke it.
+You are of course still free to make derivatives and translations of Pepper&Carrot and distribute them under other licenses, so long as you comply with the applicable licenses.
+But if you wish to have them included in this repository or on [the official website](https://www.peppercarrot.com/), you must release them under CC BY 4.0.
+(This does not apply to files in the `fonts/` directory, which are released under their own separate license agreements.) All the attributions are listed on the [AUTHOR.md](https://framagit.org/peppercarrot/webcomics/blob/master/AUTHORS.md) files at the root of the repository and also under the [Author](https://www.peppercarrot.com/en/static7/author) menu on [the main website](https://www.peppercarrot.com/ "peppercarrot.com").
+
+      

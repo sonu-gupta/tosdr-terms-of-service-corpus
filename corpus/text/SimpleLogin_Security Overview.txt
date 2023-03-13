@@ -1,0 +1,84 @@
+
+         Security Overview Keeping your data safe and secure is a huge responsibility and a top priority for us.
+Hereâs how we make it happen. Domains
+SimpleLogin currently operates on the following domains:
+
+simplelogin.io
+simplelogin.co
+simplelogin.fr
+slmail.me
+
+All domains implement the following standards:
+DNSSEC
+DNSSEC or Domain Name System Security Extensions is an extension of the DNS protocol that provides cryptographic assurance of the authenticity and integrity of responses.
+Itâs intended as a defense against network attackers who are able to manipulate DNS to redirect their victims to servers of their choice.
+Without DNSSEC, a malicious hacker can point SimpleLogin MX record to their own server and receive emails sent to SimpleLogin servers.
+Certification Authority Authorization (CAA)
+CAA is a standard that allows SimpleLogin to restrict which Certificate Authorities (CA) are allowed to issue certificates for our domains.
+By default, every public CA is allowed to issue certificates for any domain name in the public DNS, provided they validate control of that domain name.
+That means that if thereâs a bug in any one of the many public CAsâ validation processes, every domain name is potentially affected.
+This has happened in the past, affecting Google, Windows Live among others.
+CAA provides a way for domain holders to reduce that risk.
+Without CAA, someone could potentially obtain an unauthorized SSL certificate for SimpleLogin domains that could allow man-in-the-middle hacks.
+All SimpleLogin certificates are issued by Letsencrypt.
+Hardenize reports
+Hardenize is a comprehensive security tool that provides assessment of web site network and security configuration.
+Here are Hardenize reports for our domains:
+
+simplelogin.io
+simplelogin.fr
+simplelogin.co
+slmail.me
+ Mail Servers
+Currently SimpleLogin has 2 mail servers located at
+
+mx1.simplelogin.co (Germany datacenter) and
+mx2.simplelogin.co (Netherlands datacenter).
+
+Our mail servers support the following security standards.
+SPF
+SPF(Sender Policy Framework) is a protocol that allows domain name owners to control which internet hosts are allowed to send email on their behalf.
+By default, only our mail servers can send emails on behalf of SimpleLogin.
+We use the strictest SPF policy which is -all.
+Without SPF, anyone can send emails that seem to come from SimpleLogin.
+DKIM
+DKIM (Domain Keys Identified Mail) is an email authentication technique that allows the receiver to check that an email was indeed sent and authorized by the owner of that domain.
+This is done by giving the email a digital signature.
+All emails sent from SimpleLogin servers, including emails forwarded to your mailbox and emails sent from your mailbox are DKIM-signed.
+DMARC
+DMARC is an email-validation system.
+It is designed to give email domain owners the ability to protect their domain from unauthorized use, commonly known as email spoofing.
+Built around SPF and DKIM, a DMARC policy tells the receiving mail server what to do if neither of those authentication methods passes.
+SimpleLogin uses a strict DMARC policy that rejects emails that fail the SPF or DKIM check.
+Email TLS
+Emails sent to our servers are encrypted using TLS 1.1, 1.2 or 1.3.
+Network attackers canât uncover what is being communicated, even when they can see all the traffic.
+Others
+In addition to the above standards, SimpleLogin mail servers also implement the following recommended standards:
+
+MTA-STS
+TLS-RPT
+DANE
+ Web Servers
+SimpleLogin currently has 2 web servers located at
+
+app.simplelogin.io (Germany datacenter) and
+mx2.simplelogin.co (Netherlands) as failover.
+
+All data is encrypted via SSL/TLS when transmitted from our servers to your browser.
+In addition, we also implement the following measures:
+
+Only support TLS v1.2 and v1.3.
+TLS v1.3 supports Forward Secrecy.
+Do not support previous versions (SSL, TLS 1.0, TLS 1.1) that are deprecated.
+DANE, HSTS, CSP, SRI, Expect CT, X-Frame-Options, XSS Protection
+
+We take reasonable security measures such as password protection, two-factor authentication for internal logins, and a whitelist of people who can deploy changes to the server.
+Our web app does not serve any 3rd party hosted JavaScript, except a script from Paddle, our payment processor. Database &amp.
+File Storage
+Currently our database and file storage system are hosted in AWS Paris datacenter.
+The database is using Postgresql, is encrypted at rest and backed up everyday.
+Backups older than 7 days are deleted.
+The database is only accessible from our mail and web servers.
+File storage is based on S3 which is used to store user profile pictures and temporary bounced emails.
+The bounced emails are deleted after 7 days.

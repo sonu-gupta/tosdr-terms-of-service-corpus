@@ -1,0 +1,203 @@
+
+
+1.
+Overview
+
+ This agreement shows the level, limitations, and quality characterizations of the integrated cloud infrastructure services provided under the legal name of ArvanCloud belonging to Noyan ArvanCloud Company.
+Henceforth, ArvanCloud will be referred to as the company.
+The company is bound to provide the promised level of quality to the user who is benefiting from one or more of ArvanCloudâs infrastructural services.
+
+ This agreement provides a detailed explanation of the accessibility, maintenance, and limitations of ArvanCloudâs infrastructural services.
+Furthermore, services provided in case of disruptions in such services are elaborated.
+It is worth mentioning that all types of service disruptions of the company will be examined according to the present document, and compensations will be offered.
+
+ This agreement applies to those who have paid the service fees and are not in debt to the company.
+The service in question must also be active.
+Such services will not be extended to users who have a negative balance or are in debt to the company.
+
+ Using any of ArvanCloudâs infrastructural services connotes to complete agreement with the content of this page.
+Rejecting the agreement means the terminations of all services.
+Therefore, if the user does not agree to the SLA, we ask that they refrain from using our products and services.
+
+ Any change and updates in the content of this page will be informed to the user through various means such as letter, fax, email, or notification in the user panel.
+Nonetheless, users are responsible for checking this page periodically to learn the latest updates to the agreement.
+
+
+2.
+Definition
+
+
+The 30 days: The period of 30 calendar days beginning with paying and activating one of the cloud infrastructural services.
+
+
+Access Time: The time the user has accessed the services without disruptions (other than the pre-defined limitations) 
+
+Penalties: If the Service fails to meet the above service level, the Customer will receive a credit equal to the result of the Service Credit calculation for this SLA.
+
+
+Monthly Expense: The monthly payment made for every 30 days of active service.
+
+
+Monthly Uptime Access Ratio: The ratio of the time of cloud infrastructural service accessed, activated, or available to use compared to the amount of the disruption in 30 days.
+
+
+Disruption: Any disruptions in any of cloud infrastructural services that are in line with the conditions on this page and are not part of the pre-defined limitations are acknowledged, and the duration will be calculated for the credit service.
+The disruptions are defined separately for each cloud service.
+
+
+Monthly Uptime Access Ratio: The ratio of the time of cloud infrastructural service accessed, activated, or available to use compared to the amount of the disruption in 30 days.
+
+
+Credit Service: The calculated credit for the duration of disruption in cloud services.
+This does not include the pre-defined limitations of each service.
+
+
+Professional Credit Service Price Rate:  The Professional Consultation, Support, and Customer Service package price.
+
+
+Enterprise Credit Service Price Rate:  The Enterprise Consultation, Support, and Customer Service package cost.
+
+
+3.
+Limitations
+
+ The following reasons for disruptions are not applicable to the Credit Services: 
+
+3.1.
+The disruption is out of the companyâs control:  Instances such as natural disasters, war, terrorist attacks, riots, governmental actions, interruptions in worldwide internet network, telecommunication infrastructure, network routing of the customerâs internet, and any other interruptions outside of the companyâs control.
+
+
+3.2.
+The source of disruption belongs to the customer:  Having set the wrong configuration in the user panel, or hardware, software, or network issues such as website or bandwidth problems on the customer's side.
+
+
+3.3.
+The disruptions are caused by the customerâs misuse of the services:  For instance, illegal or misuse of the services, or using malware to benefit from the resources provided for the customer, any activities that include sending malware, impersonation, sending spams, hacking, or any other kind of misuse of the service results in immediate and permanent termination of services to the customer.
+
+
+3.4.
+The disruptions caused by the application of Terms of Service:  For instance, legal verdicts have requested the termination of the customerâs services from national and international judicial entities.
+
+
+ 4.
+Credit Services in Breaching the SLA Terms 
+
+ The company is responsible for providing monthly uptime access for each cloud service unless limitations and restrictions apply.
+
+ When disruption has occurred, the ratio of disruption duration to the active duration in the 30 days will be calculated according to the monthly expense of each service, and the information will be accessible in the user panel of the customer.
+
+ The percentage of monthly uptime access is calculated through the following: 
+ Monthly Uptime % = (Maximum Available Minutes-Downtime) / Maximum Available Minutes x 100 
+ If, for example, a service is down for 20 minutes in one month, the percentage will be calculated like the following: 
+ ArvanCloudâs Credit Services for each service is explained in the following: 
+
+ 4.1.
+CDN 
+
+
+ 4.1.1.
+Disruption:  The disruption in the connection between the users and ArvanCloud edge servers when trying to access the websiteâs content.
+
+
+ 4.1.2.
+Credit Service Table 
+ No.
+CDN Monthly Uptime Duration Percentage Professional Credit Service Price Rate SEnterprise Credit Service Price Rate 1 99.00%â¤A&lt.
+99.00% 10% 20% 2 97.00%â¤A&lt.
+99.00% 20% 30% 3 95.00%â¤A&lt.
+97.00% 30% 50% 4 A&lt.
+95.00% 50% 100% 
+ 4.2.
+Cloud Server 
+
+
+ 4.2.1.
+Disruption 
+
+
+ 4.2.1.1.
+Cloud Server:  When the cloud server is down or is turned off and accessing it is not possible.
+
+
+ 4.2.1.2.
+Cloud Disk:  when it is not possible to read or access data on the disk.
+
+
+ 4.2.1.3.
+Network:  The cloud serverâs connection is lost with the internet or the intranet so that the send and receive of the cloud traffic in all geographical locations are interrupted.
+(In case the source of the interruption is the internet links or the telecommunication infrastructure of the data center, the credit services are not applied.) 
+
+ 4.2.2.
+Credit Service Table 
+ No.
+Cloud Server and Cloud Disk Monthly Uptime Duration Percentage Professional Credit Service Price Rate Enterprise Credit Service Price Rate 1 99.00%â¤A&lt.
+99.00% - 10% 2 97.00%â¤A&lt.
+99.00% 10% 20% 3 95.00%â¤A&lt.
+97.00% 20% 30% 4 A&lt.
+95.00% 40% 50%  Please make sure to read the guidelines on this page to configure the service with your own cloud service.
+In order to prevent future issues in using your cloud services, you need to configure and adapt the cloud service sensitivity according to the guidelines while also having our support team check them for you.
+Otherwise, the company will not be responsible for future problems.
+
+
+ 4.3.
+Video Platform (Video Hosting and Live Streaming Service): 
+
+
+ 4.3.1.
+Disruptions 
+
+
+ 4.3.1.1.
+Storage Space:  The disruptions that occur in saving or playing the video content (loaded on the video storage space) of the user.
+
+
+ 4.3.1.2.
+Live Streaming:  The disruptions in the output live stream (watched by other users) when the input content has no issues.
+
+
+ 4.3.2.
+Credit Service Table 
+ No.
+Video Hosting and Live Streaming Infrastructureâs Uptime Duration Percentage Professional Credit Service Price Rate Enterprise Credit Service Price Rate 1 99.00%â¤A&lt.
+99.00% - 10% 2 97.00%â¤A&lt.
+99.00% 10% 20% 3 95.00%â¤A&lt.
+97.00% 20% 30% 4 A&lt.
+95.00% 40% 50% 
+ 4.4.
+Cloud Storage: 
+
+
+ 4.4.1.
+Disruptions 
+
+
+ 4.4.1.1.
+ In case the Cloud Storage is down so that the users cannot send or receive data.
+(In case the source of the interruption is the internet links or the telecommunication infrastructure of the data center, the credit services are not applied.) 
+
+ 4.4.2.
+Credit Service Table 
+ No.
+Cloud Storage Uptime Duration Percentage Professional Credit Service Price Rate Enterprise Credit Service Price Rate 1 99.00%â¤A&lt.
+99.00% - 10% 2 97.00%â¤A&lt.
+99.00% 10% 20% 3 95.00%â¤A&lt.
+97.00% 20% 30% 4 A&lt.
+95.00% 40% 50% 
+ 5.
+Maximum Credit Service 
+
+ Once the company has assessed the issues according to the terms of this agreement, the credit service will be activated in order to compensate for the monthly uptime access.
+The company will not be responsible for compensating the possible losses of the user.
+The maximum credit service is 100% of the monthly expense of the down service.
+Thus, the compensated expense will not be more than the monthly expense, and the compensations will not be provided for other losses of the customer.
+
+
+ 6.
+Requesting and Using Credit Service 
+
+ When requesting credit service, the customer needs to send an official letter or a ticket to the support team of the company titled âCredit Service Request.â The service downtime logs and reports must be included in the letter.
+Credit Service can be requested up to 20 days following the disruption in the service.
+The company will examine your request to see its submitted time and whether the interruptions were part of the applied restrictions and limitations, after which the credit service will be calculated and provided for the user.
+This credit service can only be used for the cloud services provided and under no conditions will the financial settlement be offered.
+
+ Last Update: January 2022 

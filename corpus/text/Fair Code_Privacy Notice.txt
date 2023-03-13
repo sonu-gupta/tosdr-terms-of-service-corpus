@@ -1,0 +1,13 @@
+
+         Privacy notice This privacy notice is to inform you about which data will be processed and stored, for what purposes, and what your rights are. Scope  This privacy notice applies to donations for FairEmail, NetGuard and XPrivacyLua.
+ Who The responsible person is Marcel Bokhorst, Van Doesburg-erf 194, 3315 RG Dordrecht, the Netherlands, contactable via email. What  By donating, your name and email address, the app name, the amount and currency, the transaction number, and the date/time of the donation will be processed and stored ("the data").
+ Why The data will be processed and stored to confirm your donation by email, to answer questions about donations and for tax return purposes. Basis The data will be processed and stored to comply with local tax regulations. How  The donation will be processed by PayPal, the ASN bank (bank transfer) or LiteBit (Bitcoin).
+
+The donation will be confirmed by sending an email via Amazon SES.
+The data will be stored for 7 years on servers located in the European Union.
+The data will be secured with two-factor authentication and will only be accessible to a limited number of authorized persons.
+The data will not be shared with third parties and will not be used for automatic decisions.
+The data will not be stored on your device. Rights  You can request a copy of the data (see under What) and rectification of the data via email, but local tax regulations do not allow me to delete the data.
+
+You can complain to a data protection authority.
+Copyright Â© 2021 by Marcel Bokhorst (M66B)

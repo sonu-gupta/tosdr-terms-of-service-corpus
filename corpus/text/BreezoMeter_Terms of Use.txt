@@ -1,0 +1,707 @@
+
+         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NK8XSV3&l=dataLayer" height="0" width="0" style="display:none;visibility:hidden"></iframe&gt.
+Summer 2021: Extreme Weather, Heatwaves &amp.
+Wildfires 
+Products 
+ Products Overview Air quality data APIs for businesses
+
+ Air Pollution API Real-time air quality data for your business Pollen API Global multi-species pollen API Fires API Location-specific fire information
+
+ API Documentation How to use and integrate our APIs API Login 
+
+
+Solutions 
+ Air Purification &amp.
+Smart Homes Air quality alerts for residential and commercial settings
+
+ Medical Devices &amp.
+Digital Health Pollution alerts for medical devices and health apps
+
+ Automotive &amp.
+Smart Mobility Preventing in-cabin contamination &amp.
+passenger exposure to harmful pollution
+
+ Media &amp.
+Advertising Environmental data for advertisers and publishers to increase ROI
+
+
+
+Plans
+Resources 
+ Use Cases Innovative customer integrations and benefits
+
+ Resource Center Informative premium content about air pollution, pollen data, and API integrations
+
+
+
+Company 
+ About Us 
+ Careers 
+
+
+Blog
+
+Contact Us
+
+
+Check Your Air Quality
+Contact Us Terms of Use - BreezoMeter Air Quality Data Table of content 
+BreezoMeter App End User License Agreement
+Terms of Use for Breezometer Services
+BreezoMeter App Privacy Policy
+BreezoMeter Website Terms of Use
+ BreezoMeter App End User License Agreement  By clicking the âacceptâ or âokâ button, or installing and/or using the BreezoMeter Ltd.
+mobile software application (the â Appâ), you expressly acknowledge and agree that you are entering into a legal agreement with BreezoMeter Ltd.
+(â BreezoMeterâ, â weâ, â usâ or â ourâ) and have understood and agreed to comply with, and be legally bound by, the terms and conditions of this BreezoMeter App End User License Agreement (â Agreementâ).
+You hereby waive any applicable rights to require an original (non-electronic) signature or delivery or retention of non-electronic records, to the extent not prohibited under applicable law.
+If you do not agree to be bound by this Agreement, please do not download, install or use the App.
+
+
+
+Ability to Accept. By installing the App you affirm that you are over thirteen (13) years of age.
+If you are between the age of thirteen (13) and eighteen (18) years then, prior to installing the App, you must first review this Agreement with your parent or guardian to make sure that you and your parent or guardian understand its terms and conditions and agree to them.
+
+
+License. Subject to the terms and conditions of this Agreement, we hereby grant you a personal, revocable, non-exclusive, non-sublicensable, non-assignable, non-transferable license (âLicenseâ) to: (i) download, install and use the App on a mobile telephone, tablet or device (each a âDeviceâ) that you own or control.
+and (ii) access and use the App on that Device in accordance with this Agreement and any applicable Usage Rules (defined below).
+The the App is not able to provide âindoorâ air quality, specifically in industrial areas, labs, research facilities, construction sites and factory courtyards In this case, we can add a clause warning that the content provided by the App is not intended to apply to such areas.
+
+
+License Restrictions. You agree not to, and shall not permit any third party to: (i) sublicense, redistribute, duplicate, publish, sell, lease, lend or rent the App and/or its Content.
+(ii) make the App and/or its Content, commercially or otherwise, available over a network where it could be used by multiple devices owned or operated by different people at the same time.
+(iii) disassemble, reverse engineer, decompile, decrypt, or attempt to derive the source code of, the App.
+(iv) copy (except for back-up purposes), modify, improve, or create derivative works of the App or any part thereof.
+(v) circumvent, disable or otherwise interfere with security-related features of the App or features that prevent or restrict use or copying of any content or that enforce limitations on use of the App.
+(vi) remove, alter or obscure any proprietary notice or identification, including copyright, trademark, patent or other notices, contained in or displayed on or via the App.
+(vii) use the BreezoMeter name, logo or trademarks without our prior written consent.
+and/or (viii) use the App to violate any applicable laws, rules or regulations, or for any unlawful, harmful, irresponsible, or inappropriate purpose, or in any manner that breaches this Agreement.
+
+
+Account. In order to use some of the App features, you may have to create or use an account (an âAccountâ).
+If you create an Account, you must provide accurate and complete information for yourself.
+You are solely responsible for the activity that occurs in your Account, and you must keep your Account password secure.
+You must notify us immediately of any unauthorized use of your Account.
+
+
+Usage Rules. If you are downloading the App from a third party mobile device platform or service provider (â Distributorâ), please be aware that the Distributor may have established usage rules which also govern your use of the App (â Usage Rulesâ).
+You acknowledge that, prior to downloading the App from a Distributor, you have had the opportunity to review and understand, and will comply with, its Usage Rules.
+The Usage Rules that are applicable to your use of the App are incorporated into this Agreement by this reference.
+You represent that you are not prohibited by any applicable Usage Rules and/or applicable law from using the App.
+if you are unable to make such a representation you are prohibited from installing and/or using the App.
+
+
+Location Data. Certain features or functionality (â Featuresâ) of the App may collect or be dependent on data related to your geographic location (â Location Dataâ).
+If you wish to use these Features, you acknowledge that BreezoMeter may collect information about the physical location of your Device and agree to provide or to make your Location Data accessible to us.
+To the extent that we do collect Location Data, we shall use it in accordance with our Privacy Policy (defined below).
+If you do not provide or make such Location Data accessible, then the Features may be limited or not operate.
+
+
+Use of the App in a Vehicle. If you are using the App in a vehicle, you agree: (i) to comply with all applicable traffic laws.
+and (ii) if you are the driver, not to use the App unless your vehicle is stationary and legally parked.
+
+
+Intellectual Property Rights.
+
+Ownership.
+The App is licensed and not sold to you under this Agreement and you acknowledge that BreezoMeter and its licensors retain all title, ownership rights and Intellectual Property Rights (defined below) in and to the App (and its related software).
+We reserve all rights not expressly granted herein to the App.
+â Intellectual Property Rightsâ means any and all rights in and to any and all trade secrets, patents, copyrights, service marks, trademarks, know-how, or similar intellectual property rights, as well as any and all moral rights, rights of privacy, publicity and similar rights of any type under the laws or regulations of any governmental, regulatory, or judicial authority, whether foreign or domestic.
+
+Content.
+The content on the App, including without limitation, the text, information, documents, descriptions, products, software, graphics, photos, sounds, videos, interactive features, and services (the â Materialsâ), and the User Submissions (defined below), and the trademarks, service marks and logos contained therein (â Marksâ, and together with the Materials and User Submissions, the â Contentâ), is the property of BreezoMeter and/or its licensors and may be protected by applicable copyright or other intellectual property laws and treaties.
+âBreezoMeterâ and the BreezoMeter logo are Marks of BreezoMeter Ltd.
+and/or its affiliates.
+All other Marks used on the App are the trademarks, service marks, or logos of their respective owners.
+
+Use of Content.
+The content on the App is provided to you âAS ISâ for your personal use only and may not be used, copied, distributed, transmitted, broadcasted, displayed, sold, licensed, de-compiled, or otherwise exploited for any other purpose whatsoever without our prior written consent.
+If you download or print a copy of the content, you must retain all copyright and other proprietary notices contained therein.
+
+Third Party Open Source Software.
+Portions of the App may include third party open source software that are subject to third party terms and conditions (âThird Party Termsâ).
+A list of any third party open source software and related Third Party Terms is available at https://www.breezometer.com/.
+If there is a conflict between any Third Party Terms and the terms of this Agreement, then the Third Party Terms shall prevail but solely in connection with the related third party open source software.
+
+
+
+
+User Submissions.
+
+ The App may permit the sharing of content by you and other users, including but not limited to information, opinions, recommendations, inventions and/or feedback that you may provide BreezoMeter in connection with the App and/or your experience while using the App (â User Submissionsâ).
+Your User Submissions may be posted to the App, or otherwise made publicly available.
+You understand that, whether or not such User Submissions are published, we do not guarantee any confidentiality with respect to any User Submissions.
+You shall be solely responsible for your User Submissions and the consequences of sharing them.
+We have complete discretion whether to publish your User Submissions and we reserve the right without further notice to you, to monitor, censor, edit, remove, delete, and/or remove any and all User Submissions at any time and for any reason.
+
+License to User Submissions.
+Subject to this Agreement and the terms of our Privacy Policy, by submitting User Submissions, you hereby grant us a worldwide, irrevocable, non-exclusive, royalty-free, perpetual, sub-licensable and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the User Submissions only in connection with the App, including without limitation to redistribute part or all of your User Submissions (and derivative works thereof), and you hereby waive any moral rights in your User Submissions, to the extent permitted by law.
+You also hereby grant each App user and Third Party Source (defined below) a non-exclusive right to use, reproduce, distribute, prepare derivative works of, display and perform such User Submissions in accordance with this Agreement.
+
+
+
+
+Third Party Sources and Content.
+
+ The Site enables you to view, access, link to, and use content and/or information based on raw data, including observational data, gathered by third party sources (â Third Party Sourcesâ), not owned or controlled by us (â Third Party Contentâ).
+Such Third Party Content is subject to third party terms and conditions (â Third Party Termsâ) and provided without BreezoMeter or any other professional person monitoring, examining, validating or altering in any way such information, and without any verification whether such information is true, complete or accurate.
+
+ A list of the Third Party Sources and their related Third Party Terms is available at Data Sources Attribution.
+If there is a conflict between any Third Party Terms and the terms of this End User License Agreement, then the Third Party Terms shall prevail but solely in connection with the related Third Party Sources.
+
+For the avoidance of doubt, all such Third Party Sources are and shall continue to be the owners of all such Third Party Content.
+ We are not affiliated with and have no control over any Third Party Sources.
+We do not assume any responsibility for the content, terms of use, privacy policies, actions or practices of, any Third Party Sources.
+Please read the terms of use and privacy policy of any Third Party Source that you interact with before you engage in any such activity.
+
+We are not responsible for, and we expressly disclaim all warranties regarding, the accuracy, appropriateness, usefulness, safety, or Intellectual Property Rights (defined below) of, or relating to, any Third Party Content.
+We do not endorse any advertising, promotions, campaigns, products, services or other materials that are included in any Third Party Content or communicated to you from a Third Party Source.
+ By using the App, you may be exposed to Third Party Content that is inaccurate, offensive, indecent, or objectionable.
+You always have the choice of deciding whether or not to interact with a Third Party Source or to view and use Third Party Content.
+Your interaction with a Third Party Source and your use of, and reliance upon, any Third Party Content is at your sole discretion and risk.
+
+ You are solely responsible and liable for your interaction with Third Party Sources.
+You agree to waive, and hereby do waive, any legal or equitable rights or remedies you may have against BreezoMeter, and release BreezoMeter from any and all liability, arising from your use of and interaction with any Third Party Content and/or Third Party Source.
+If you have any query or complaint regarding a Third Party Source or Third Party Content, you agree to contact the Third Party Source directly.
+
+
+
+
+Payments
+
+ The License granted hereunder is currently for free, however, we may in the future charge a fee for certain features and/or uses or in-app purchases.
+You will not be charged for any such uses of the App unless you first agree to such charges, but please be aware that any failure to pay applicable charges may result in you not having access to some or all of the App.
+
+ Please be aware that your use of the App may require and utilize Internet connection or data access.
+To the extent that third party service provider or carrier charges for your Internet or data usage are applicable, you agree to be solely responsible for those charges.
+
+
+
+
+Information Description.
+We attempt to be as accurate as possible and provide you with real-time air quality information.
+However, please be aware that since such Third Party Content provided and displayed within the App is received from Third Party Sources, such information may appear in a delay and/or may be partial or inaccurate, and therefore we cannot and do not warrant that the content available on the App is accurate, complete, reliable, current, or error-free.
+We reserve the right to make changes in or to the content, or any part thereof, without the requirement of giving you any notice prior to or after making such changes to the content.
+
+
+Privacy.
+We will use any personal information that we may collect or obtain in connection with the App in accordance with our privacy policy which is available at this link (â Privacy Policyâ), and you agree that we may do so.
+Please also be aware that certain personal information and other information provided by you in connection with your use of the App may be stored on your Device (even if we do not collect that information).
+You are solely responsible for maintaining the security of your Device from unauthorized access.
+
+
+Warranty Disclaimers.
+
+ THE APP IS PROVIDED ON AN âAS ISâ AND âAS AVAILABLEâ BASIS WITHOUT WARRANTIES OF ANY KIND INCLUDING, WITHOUT LIMITATION, REPRESENTATIONS, WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AND THOSE ARISING BY STATUTE OR FROM A COURSE OF DEALING OR USAGE OF TRADE.
+
+ WE DO NOT WARRANT THAT THE APP WILL OPERATE ERROR-FREE, THAT THE APP IS FREE OF VIRUSES OR OTHER HARMFUL CODE OR THAT WE WILL CORRECT ANY ERRORS IN THE APP.
+YOU AGREE THAT WE WILL NOT BE HELD RESPONSIBLE FOR ANY CONSEQUENCES TO YOU OR ANY THIRD PARTY THAT MAY RESULT FROM TECHNICAL PROBLEMS, INCLUDING WITHOUT LIMITATION IN CONNECTION WITH THE INTERNET (SUCH AS SLOW CONNECTIONS, TRAFFIC CONGESTION OR OVERLOAD OF OUR OR OTHER SERVERS) OR ANY TELECOMMUNICATIONS OR INTERNET PROVIDERS.
+
+ 14.3.
+THE CONTENT PROVIDED AND DISPLAYED WITHIN THE APP IS NOT INTENDED TO BE, AND SHALL NOT BE CONSIDERED BY YOU TO BE, A SUBSTITUTE FOR THE TESTING OR REPORTING OF THECONCENTRATION OF POLLUTION ELEMENTS BY THE APPLICABLE INSTITUTION(S) OR SERVICE PROVIDER(S) AUTHORIZED TO DO SO UNDER APPLICABLE LAWS AND REGULATIONS.
+THE APP AND ITS CONTENT SHALL NOT CONSTITUTE ANY FORM OF CONSULTATION, OPINION, DIAGNOSIS, AND/OR RECOMMENDATION OF ANY KIND, AND SHALL NOT BE RELIED UPON, FOR ANY PURPOSE WHATSOEVER, INCLUDING BUT NOT LIMITED TO, FOR THE PURPOSE OF MAKING DECISIONS CONCERNING YOUR OR ANY OTHER PERSONâS HEALTH, FORMULATING OR SUPPORTING REGULATIONS, ASCERTAINING TRENDS, ACTING AS GUIDANCE, OR SUPPORTING ANY OTHER GOVERNMENTAL OR PUBLIC DECISION-MAKING.
+YOU HEREBY ACKNOWLEDGE AND AGREE THAT THE CONTENT PROVIDED BY THE APP IS BASED ON RAW DATA, INCLUDING OBSERVATIONAL DATA, WHICH ARE NOT FULLY VERIFIED OR VALIDATED, ARE SUBJECT TO CHANGE, SHOULD BE CONSIDERED PRELIMINARY, AND ARE PROVIDED SOLELY FOR THE PURPOSE OF REPORTING AND FORECASTING THE AIR QUALITY INDEX (AQI).
+ANY AND ALL OFFICIAL REGULATORY AIR QUALITY DATA MUST BE OBTAINED FROM THE EPAâS AIR QUALITY SYSTEM (AQS).
+
+IF YOU HAVE A DISPUTE WITH ANY OTHER APP USER, YOU AGREE THAT WE ARE NOT LIABLE FOR ANY CLAIMS OR DAMAGES ARISING OUT OF OR CONNECTED WITH SUCH A DISPUTE.
+WE RESERVE THE RIGHT, BUT HAVE NO OBLIGATION, TO MONITOR ANY SUCH DISPUTE.
+Applicable law may not allow the exclusion of certain warranties, so to that extent such exclusions may not apply.
+
+
+
+Limitation of Liability.
+
+ UNDER NO CIRCUMSTANCES SHALL BREEZOMETER BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES, OR FOR ANY LOSS OF DATA, REVENUE, BUSINESS OR REPUTATION, THAT ARISES UNDER OR IN CONNECTION WITH THIS AGREEMENT, OR THAT RESULTS FROM THE USE OF, OR THE INABILITY TO USE, THE APP EVEN IF BREEZOMETER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+ IN ANY EVENT, BREEZOMETERâS TOTAL AGGREGATE LIABILITY FOR ALL DAMAGES AND LOSSES THAT ARISE UNDER OR IN CONNECTION WITH THIS AGREEMENT, OR THAT RESULT FROM YOUR USE OF OR INABILITY TO USE THE APP, SHALL NOT IN ANY CIRCUMSTANCE EXCEED THE TOTAL AMOUNTS, IF ANY, ACTUALLY PAID BY YOU TO BREEZOMETER FOR USING THE APP WITHIN THE THREE (3) MONTHS PRECEDING THE DATE OF BRINGING A CLAIM.
+
+
+
+
+Indemnity.
+You agree to defend, indemnify and hold harmless BreezoMeter and our affiliates, and our respective officers, directors, employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs and expenses (including but not limited to attorneyâs fees) arising from: (i) your use of, or inability to use, the App.
+(ii) your violation of this Agreement.
+and (iii) your violation of any third party right, including without limitation any copyright, property, or privacy right.
+Without derogating from or excusing your obligations under this section, we reserve the right (at your own expense), but are not under any obligation, to assume the exclusive defense and control of any matter which is subject to an indemnification by you if you choose not to defend or settle it.
+You agree not to settle any matter subject to an indemnification by you without first obtaining our express approval.
+
+
+Export Laws.
+You agree to comply fully with all applicable export laws and regulations to ensure that neither the App nor any technical data related thereto are exported or re-exported directly or indirectly in violation of, or used for any purposes prohibited by, such laws and regulations.
+
+
+Updates and Upgrades.
+We may from time to time and at our sole discretion provide updates or upgrades to the App, and/or its structure and/or its design, as well as its scope and/or availability (each a âRevisionâ), but are not under any obligation to do so.
+Such Revisions will be supplied according to our then-current policies, which may include automatic updating or upgrading without any additional notice to you.
+You consent to any such automatic updating or upgrading of the App.
+All references herein to the App shall include Revisions.
+This Agreement shall govern any Revisions that replace or supplement the original App, unless the Revision is accompanied by a separate license agreement which will govern the Revision.
+We reserve the right to limit or cease the service at any given time, in whole or part, for a limited or unlimited period of time, all at our sole discretion, including without limitation, in order to perform construction maintenance and/or setup activates with regard to the services and/or any of its systems.
+
+
+Term and Termination.
+
+ This Agreement is effective until terminated by us or you.
+We reserve the right, at any time, to: (i) discontinue or modify any aspect of the App.
+and/or (ii) terminate this Agreement and your use of the App with or without cause, and shall not be liable to you or any third party for any of the foregoing.
+If you object to any term or condition of this Agreement or any subsequent modifications thereto, or become dissatisfied with the App in any way, your only recourse is to immediately discontinue use of the App.
+
+ Upon termination of this Agreement, you shall cease all use of the App.
+This Section 19 and Sections 8 (Intellectual Property Rights), 13 (Privacy), 14 (Warranty Disclaimers), 15 (Limitation of Liability), 16 (Indemnity), and 20 (Assignment) to 23 (General) shall survive termination of this Agreement.
+
+
+
+
+Assignment. This Agreement, and any rights and licenses granted hereunder, may not be transferred or assigned by you but may be assigned by BreezoMeter without restriction or notification.
+
+Modification. We reserve the right to modify this Agreement at any time by sending you an in-App notification and/or publishing the revised Agreement on the App.
+Such change will be effective ten (10) days following the foregoing notification thereof, and your continued use of the App thereafter means that you accept those changes.
+
+
+Governing Law and Disputes. This Agreement shall be governed by and construed in accordance with the laws of the State of New York, U.S.A., without regard to its conflict of laws rules.
+You agree to submit to the personal and exclusive jurisdiction of the courts located in New York, NY, and waive any jurisdictional, venue, or inconvenient forum objections to such courts.
+Notwithstanding the foregoing, we may seek injunctive relief in any court of competent jurisdiction.
+
+
+General.
+This Agreement, and any other legal notices published by us in connection with the App, shall constitute the entire agreement between you and BreezoMeter concerning the App.
+In the event of a conflict between this Agreement and any such legal notices, the terms of the applicable notice shall prevail with respect to the subject matter of such notice.
+No amendment to this Agreement will be binding unless in writing and signed by BreezoMeter.
+If any provision of this Agreement is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Agreement, which shall remain in full force and effect.
+No waiver of any term of this Agreement shall be deemed a further or continuing waiver of such term or any other term, and a partyâs failure to assert any right or provision under this Agreement shall not constitute a waiver of such right or provision.
+YOU AGREE THAT ANY CAUSE OF ACTION THAT YOU MAY HAVE ARISING OUT OF OR RELATED TO THE APP MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES.
+OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
+
+
+
+
+ Terms of Use for Breezometer Services  Upon your use and/or entry to Breezometer application and/or your use of Breezometer services and/or Breezometer website and/or any of Breezometerâs forums, blogs and/or page in the various social networks (whether as a visitor or a user) (the â Serviceâ), you hereby declare that you acknowledge and agree to the following: 
+
+ It is hereby clarified that the Service offered is an initial and experimental version of the Service, which is distributed at the moment as a trial and free version.
+Therefore, any use of the Service will be made upon your sole and exclusive responsibility and liability and entirely at your own risk.
+
+ Breezometer does not warrant that the Service will be provided stably, safely and/or without mistakes, bugs, errors, failures, crashes and/or interruptions.
+The Service is provides âas isâ, without liability or warranty of any kind whatsoever, whether specific or implied.
+
+ The information displayed within the Service is based on raw information that is gathered by the Israeli Ministry of Environment and published by it from time to time, without Breezometer or any other professional person monitoring, examining or validating such information, and without any verification if such information is true, complete or accurate.
+
+Since the information displayed within the Service is received from third parties, such information may appear in a delay and/or may be partial or inaccurate.
+ The information displayed within the Service does not replace any examination for concentration of pollution elements, by the authorized institutions according to the laws of the state of Israel and/or by any other authorized services providers.
+Such information does not constitute any consultation, opinion, diagnosis, and/or recommendation of any kind, and may not be based upon for any purposes whatsoever.
+
+ The Service is for your personal use only, and you are not permitted to use the Service for any commercial activity and/or for any other purpose, Without derogating from the foregoing it is clarified, that you are not entitled to use any information displayed within the Service in industrial areas, labs, research facilities, construction sites and factory courtyards, as such terms are defined in the Israeli Work Safety Ordinance (new addition) 5730 â 1970 and the Israeli Work Safety Regulations (environmental monitoring and biological monitoring of employees in harmful elements).
+
+ You are not entitled to copy, distribute, duplicate, publish or transfer to third parties any information displayed within the Service, or any part thereof, nor to change, publish, broadcast, transfer, sell, distribute or make any commercial use with any information displayed within the Service, or any part thereof.
+
+ To the extent you are willing to use Breezometer application on your smartphone, you hereby acknowledge that Breezometer may gather non-personal information about the physical location of your smartphone, in order to provide you the Service customized per your location.
+You can prevent the sharing of your smartphone location through your smartphoneâs settings, however please note that by preventing such sharing, Breezometer may not be able to provide you the Service or any part thereof.
+
+ All rights in and to the Service, including without limitation any tradenames, trademarks, patents, design, commercial secrets, copyrights and other intellectual property rights, whether registered or not, are and shall be exclusively owned by Breezometer, and you shall not have any right and/or claim and/or demand in connection therewith.
+
+ Without derogating from the foregoing it is clarified, that any information, opinion, recommendation, invention and/or feedback that you may provide Breezometer in connection with the Service and/or your experience while using the Service, including without limitation any improvement, revision, modification or adjustment that may be made by Breezometer as a result thereof, shall be the exclusively property of Breezometer, and you shall not have any right and/or claim and/or demand with respect thereto.
+
+You acknowledge that Breezometer reserves the right to change and/or update the Service and/or its structure and/or its design, as well as its scope and/or availability, all at its sole discretion.
+ Breezometer reserves the right to limit or cease the Service at any given time, in whole or part, for a limited or unlimited period of time, all at Breezometerâs sole discretion, including without limitation, in order to perform construction maintenance and/or setup activates with regard to the Services and/or any of its systems.
+
+ Breezometer, its management, its employees and/or anyone acting on its behalf or in its name, will not be liable for any damage or loss of any kind, whether direct or indirect, including but not limited incidental, special, consequential or exemplary damages, that may be caused to any user of the Services or to other third party, in connection with the Services, the use of the Service and/or any information displayed within the Service, including without limitation in connection with any limitation, cessation or discontinuation of the Service, temporarily or permanently.
+By using the Services you hereby irrevocable waive any claim and/or demand with respect thereto.
+
+ Breezometer reserves the right to change or modify, from time to time, at its sole discretion, these Terms of Use.
+Posting the modified Terms of Use on Breezometerâs application or website will give effect to the revised terms within 14 days as of such posting.
+Thereafter, your continuing use of the Services will constitute your expressed agreement to abide by such revised terms.
+If you do not agree to the modified Terms of Use, you are not entitled to continue using of the Service.
+
+This Agreement will be governed by the laws of the State of Israel.
+The sole and exclusive jurisdiction for any dispute in connection with these Terms of Use will be the competent courts of Tel Aviv-Yafo.
+
+ 
+
+ BreezoMeter App Privacy Policy This is the privacy policy (â Privacy Policyâ) that governs how we, BreezoMeter Ltd.
+(â BreezoMeterâ, â weâ, â ourâ or â usâ), use Personal Information (defined below) that we collect, receive and store about individuals in connection with the use of the BreezoMeter application (the â Appâ).
+
+ We have implemented this Privacy Policy because your privacy, and the privacy of other users, is important to us.
+This Privacy Policy explains our online information practices and the choices you can make about the way your Personal Information is collected and used in connection with the App.
+â Personal Informationâ means any information that may be used, either alone or in combination with other information, to personally identify an individual, including, but not limited to, a first and last name, a personal profile, an email address, a home or other physical address, or other contact information.
+
+ This Privacy Policy forms part of the Appâs end user license agreement (â EULAâ) which can be viewed from within the App.
+Any capitalized but undefined term in this Privacy Policy shall have the meaning given to in the EULA as applicable.
+
+
+Consent and Modification.By using the App, you consent to the terms of this Privacy Policy and to our collection, processing and sharing of Personal Information for the purposes set forth herein.
+If you do not agree to this Privacy Policy, please do not access or otherwise use the App.
+We reserve the right, at our discretion, to change this Privacy Policy at any time.
+Such change will be effective ten (10) days following our notification to you or by our posting the revised Privacy Policy on the website https://www.breezometer.com/ (the â Siteâ) and/or the App.
+Your continued use of the App thereafter means that you accept those changes.
+
+
+What Personal Information We Collect and How We Collect It. We do not currently require you to provide Personal Information in order to have access to general information available on the App. &nbsp.
+But, we receive and/or collect Personal Information from you in the following ways: 
+ Account.
+If you are an App user then you may be required to create an account (â Accountâ).
+When you create an Account you will be asked to provide us with certain mandatory information such as your name, email address, and a password that you will use for your Account.
+You may also choose to provide additional Personal Information as part of the Account registration process and in connection with your ongoing use of your Account.
+
+ Profile.
+Some parts of the App may enable you to build a public profile in connection with your Account (â Profileâ).
+Your Public Profile will include your user name.
+You may also choose to include a picture and other Personal Information in your Profile.
+
+ âContact Usâ Information.
+If you send us a feedback form or a âContact Usâ request, whether by submitting an online form that we make available on the App or by sending an email to an email address that we display on the App, you may be required to provide us with certain information such as your name and email address.
+
+ Share with Friends Service.
+The App enables you to invite your friends to use the App by sending them an invitation email or message.
+If you send or post an invitation message we may collect Personal Information about the recipient such as their email address or their third party website account (e.g.
+Facebook) user name and id.
+
+ Location Data.
+We provide certain location-based services (â Location Servicesâ) in connection with the App that are dependent on data related to the geographic location of your mobile device on which the App is installed (â Location Dataâ).
+If you choose to participate in these Location Services and use the App, you agree that we may collect or obtain Location Data from your mobile device.
+You should be able to use the settings on your mobile device to turn off location-sharing features.
+
+ Log Files.
+The App may make use of log files.
+The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet App Provider (ISP), date/time stamp, referring/exit pages, clicked pages and any other information your browser may send to us.
+We may use such information to analyze trends, administer the App, track userâs movement around the App, and gather demographic information.
+
+ Cookies and Other Tracking Technologies.
+The App may utilize âcookiesâ and other tracking technologies.
+A âcookieâ is a small text file that may be used, for example, to collect information about App activity.
+Certain cookies and other technologies may serve to recall Personal Information, such as an IP address, previously indicated by an App user.
+Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser 
+ Mobile Device Data.
+We may collect limited information from your mobile device in order to provide the App.
+Such information may include your mobile device type, mobile device id, and date and time stamps of App use.
+In addition, we may deploy tracking technologies within the App to help us gather aggregate statistics, but we will not use Personal Information for such purposes.
+
+
+Publicly Available Information.Your Profile and any publicly available content that you post on or via the App (â User Submissionsâ) may be publicly available to other App users, and may also be accessed and used by people off the App.
+The notices and tools that we provide on the App should help inform you which information will be made publicly available.
+If you publish your contact information in any User Submissions or as part of your Profile, you may receive unsolicited messages from App users or the public.
+We therefore encourage you to only post information that you are sure you want to be accessible to anyone 
+
+
+
+The Way We Use Personal Information.If you submit or we collect Personal Information through the App, then such Personal Information may be used by us in the following ways: 
+ We will use your Personal Information to provide and improve the App, to contact you in connection with the App and certain programs or offerings that you may have registered for, and to identify and authenticate your access to the parts of the App that you are authorized to access.
+
+ We may use your designated email address to: (i) send you updates or news regarding the App and our products and the products of third parties.
+and/or (ii) respond to a âContact Usâ or administrative request (for example, to change your password).
+and/or (iii) inform you about any program or product updates and/or problems in connection with the Airnow observational data provided to you as part of the Appâs content.
+
+If you include Personal Information in your Profile or User Submissions that you post to a public area of the App, then such Personal Information will be generally publicly available.
+ If you choose to send your friend an invitation email or message we will use the contact information that you provide, or make available, to automatically send your friend an email or message inviting them to download the App.
+Your name or email address may be included in the invitation email or message.
+
+ We may transfer your Personal Information to our subsidiaries or affiliated companies for the purpose of storing or processing such information on our behalf.
+Such information may be transferred to other countries around the world.
+We require that these parties agree to process such information in compliance with our Privacy Policy.
+
+ We may share your Personal Information with our third party service providers and partners, but only to assist us with our business operations and to provide the App.
+Such information may be transferred to other countries around the world.
+We use commercially reasonable efforts to only engage or interact with third party service providers and partners that post a privacy policy governing their processing of Personal Information.
+
+ We may disclose your Personal Information or any information you submitted via the App if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request.
+(ii) enforce our EULA, including investigations of potential violations thereof.
+(iii) detect, prevent, or otherwise address fraud or security issues.
+or (iv) protect against harm to the rights, property or safety of BreezoMeter, our users, yourself or the public.
+
+
+
+
+Use of Anonymous Information. We may collect and use Anonymous Information (as defined below) or disclose it to third party service providers in order to improve the App and enhance your experience with the App.
+We may also disclose Anonymous Information (with or without compensation) to third parties, including advertisers and partners.
+â Anonymous Informationâ means information which does not enable identification of an individual user, such as aggregated information about the use of the App.
+
+
+Opting Out.You may choose not to receive future promotional, advertising, or other App-related emails from us by selecting an unsubscribe link at the bottom of such emails that you receive from us.
+Please note that even if you opt out of receiving the foregoing emails, we may still send you a response to any âContact Usâ request as well as administrative emails (for example, in connection with a request to change your password) that are necessary to facilitate your use of the App.
+
+
+Choice At all times, you may choose whether or not to provide or disclose Personal Information.
+If you choose not to provide mandatory Personal Information, you may still visit parts of the App but you may be unable to access certain options, programs, offers, and services that involve our interaction with you.
+
+
+Access/Accuracy.To the extent that you do provide us with Personal Information, we wish to maintain accurate Personal Information and keep you up-to-date in connection with services, information and/or data provided to you as part of the Appâs content.
+If you would like to delete or correct any of your Personal Information that we may be storing, you may submit an access request by sending an email to support@breezometer.com.
+Your email should include adequate details of your request.
+
+
+Childrenâs Privacy.The App is not structured to attract children under the age of 13 years.
+Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years.
+If we learn that we have collected Personal Information from a child under 13 years, we will delete that information as quickly as possible.
+If you believe that we might have any such information, please contact us at support@breezometer.com.
+
+
+Security.The security of Personal Information is important to us.
+We follow generally accepted industry standards, including the use of appropriate administrative, physical and technical safeguards, to protect the Personal Information submitted to us.
+However, no method of transmission over the Internet, or method of electronic storage, is 100% secure.
+Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security or confidentiality.
+If you have any questions about security on the App, you can contact us at support@breezometer.com.
+
+
+Merger, Sale or Bankruptcy. In the event that we are acquired by or merged with a third party entity, or in the event of bankruptcy or a comparable event, we reserve the right to transfer or assign Personal Information in connection with the foregoing events, without any notice.
+
+
+California Privacy Rights. California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes.
+To make such a request, please send an email to support@breezometer.com.
+Please note that we are only required to respond to one request per customer each year.
+
+
+Our California Do Not Track Notice.We do not currently respond or take any action with respect to web browser âdo not trackâ signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumerâs online activities over time and across third-party web sites or online services.
+We may allow third parties, such as companies that provide us with analytics tools, to collect personally identifiable information about an individual consumerâs online activities over time and across different web sites when a consumer uses the App.
+
+ We are committed to protecting your privacy.
+Protecting your privacy online is an evolving area, and we are constantly evolving the App to meet these demands.
+If you have any comments or questions regarding our Privacy Policy, or your Personal Information that we may be storing and using, please contact us at support@breezometer.com.
+
+ BreezoMeter Website Terms of Use PLEASE READ THE FOLLOWING CAREFULLY BEFORE ACCESSING AND/OR USING ANY PART OF THE SITE.
+ By using any part of the Site (defined below), you expressly acknowledge and agree that you are entering into a legal agreement with BreezoMeter Ltd.
+(â BreezoMeterâ, â weâ, â usâ or â ourâ) and have understood and agree to comply with, and be legally bound by, the following terms and conditions (the â Termsâ).
+You hereby waive any applicable rights to require an original (non-electronic) signature or delivery or retention of non-electronic records, to the extent not prohibited under applicable law.
+If you do not agree to be bound by these Terms, please do not use any part of the Site.
+The term â Siteâ means the BreezoMeter website available at https://www.breezometer.com/, as well as any services, features and content made available to you thereon.
+For the avoidance of doubt, if you download the BreezoMeter App (BreezoMeterâs mobile software application product) from the Site or receive access to any other BreezoMeter products or services made available for developers or businesses from the Site, additional terms and conditions will apply to your use of such products or services.
+
+
+
+Ability to Accept.
+&nbsp.
+By using the Site you affirm that you are over thirteen (13) years of age.
+ If you are between the ages of thirteen (13) and eighteen (18) years, then, prior to using the Site, you must first review these Terms with your parent or guardian to make sure that you and your parent or guardian understand them.
+
+
+License. Subject to your full compliance with these Terms, we grant you a non-exclusive, non-sublicensable and non-transferable license to access, use and display locally the Site and the Content (as defined below), to the extent we hold such rights, and solely for purpose of using the Site.
+
+
+License Restrictions.
+ You shall not: (i) copy, distribute or modify any part of the Site without our prior written authorization.
+(ii) use, modify, create derivative works of, transfer (by sale, resale, license, sublicense, download or otherwise), reproduce, distribute, display or disclose Content (defined below), except as expressly authorized herein.
+(iii) disrupt servers or networks connected to the Site.
+(iv) use or launch any automated system (including without limitation, ârobotsâ and âspidersâ) to access the Site.
+and/or (v) circumvent, disable or otherwise interfere with security-related features of the Site or features that prevent or restrict use or copying of any Content or that enforce limitations on use of the Site.
+
+
+Location Data.Certain features or functionality (â Featuresâ) of the Site may collect or be dependent on data related to your geographic location (â Location Dataâ).
+ If you wish to use these Features, you agree to provide or to make your Location Data accessible to us.
+To the extent that we do collect Location Data, we shall use it in accordance with our Privacy Policy (defined below).
+If you do not provide or make such Location Data accessible, then the Features may be limited or not operate.
+
+
+Intellectual Property Rights.
+
+ Ownership.
+Your use of the Site is licensed and not sold to you under these Terms and you acknowledge that BreezoMeter and its licensors retain all title, ownership rights and Intellectual Property Rights (defined below) in and to the Site (and its related software).
+We reserve all rights not expressly granted herein to the Site.
+ As used herein, the term â Intellectual Property Rightsâ means any and all rights in and to any and all trade secrets, patents, copyrights, service marks, trademarks, know-how, or similar intellectual property rights, as well as any and all moral rights, rights of privacy, publicity and similar rights of any type under the laws or regulations of any governmental, regulatory, or judicial authority, whether foreign or domestic.
+  
+
+ Content.
+The content, including, without limitation, information, data, text, photographs, videos, audio clips, written posts, articles, comments, software, scripts, graphics, and interactive features generated, provided or otherwise made available on or through the Site (collectively, the â Materialsâ), as well as the User Submissions (defined below) and the trademarks, service marks and logos contained therein (collectively, â Marksâ, and together with the Materials and User Submissions, the â Contentâ), is the property of BreezoMeter and/or its licensors and may be protected by applicable copyright or other intellectual property laws and treaties.
+âBreezoMeterâ and the BreezoMeter logo are Marks of BreezoMeter Ltd.
+and/or its affiliates.
+All other Marks used on the Site are the trademarks, service marks, or logos, as applicable, of their respective owners.
+
+
+Use of Content.
+The Content on the Site is provided to you âAS ISâ for your personal use only and may not be used, copied, distributed, transmitted, broadcasted, displayed, sold, licensed, de-compiled, or otherwise exploited for any other purpose whatsoever without our prior written consent.
+If you download or print a copy of the Content, you must retain all copyright and other proprietary notices contained therein.
+You acknowledge that all Content accessed or used by you is at your own risk and you will be solely responsible for any damage or loss to you or any other party resulting therefrom.
+
+
+
+
+User Submissions.
+
+ The Site may permit the sharing of content by you and other users, including but not limited to information, opinions, recommendations, inventions and/or feedback that you may provide BreezoMeter in connection with the Site and/or your experience while using the Site (â User Submissionsâ).
+Your User Submissions may be made publicly available through the Site.
+You understand and agree that, whether or not such User Submissions are published, we do not guarantee any confidentiality with respect to any User Submissions.
+You shall be solely responsible for your User Submissions and the consequences of sharing them.
+We have complete discretion whether to publish your User Submissions and we reserve the right without further notice to you, to monitor, censor, edit, remove, delete, and/or remove any and all User Submissions at any time and for any reason.
+Each User Submission, whether publicly posted or privately transmitted, is the sole responsibility of the user who originated such User Submission.
+You warrant that all User Submissions originated by you are accurate, complete, up-to-date, and in compliance with all applicable laws, rules and regulations.
+You acknowledge that all Content, including User Submissions, accessed by you using the Site is at your own risk, and you will be solely responsible for any damage or loss to you or any other party resulting therefrom.
+We do not guarantee that any Content you access on or through the Site is or will continue to be accurate.
+
+
+License to User Submissions.
+Subject to these Terms and the terms of our Privacy Policy, you hereby grant us, by submitting User Submissions, a worldwide, irrevocable, non-exclusive, royalty-free, fully-paid, perpetual, sub-licensable and transferable license to use, reproduce, distribute, prepare derivative works of, publicly display, and publicly perform the User Submissions in connection with the Site, including without limitation to redistribute part or all of your User Submissions (and derivative works thereof), and you hereby waive any moral rights in your User Submissions, to the extent permitted by law.
+You also hereby grant each of our users and Third Party Sources (defined below) a non-exclusive right to use, reproduce, distribute, prepare derivative works of, display and perform such User Submissions in accordance with these Terms.
+
+
+
+
+Third Party Sources and Content.
+
+ The Site enables you to view, access, link to, and use content and/or information based on raw data, including observational data, gathered by third party sources (â Third Party Sourcesâ), not owned or controlled by us (â Third Party Contentâ).
+Such Third Party Content is subject to third party terms and conditions (â Third Party Termsâ) and provided without BreezoMeter or any other professional person monitoring, examining, validating or altering in any way such information, and without any verification whether such information is true, complete or accurate.
+
+ A list of the Third Party Sources and their related Third Party Terms is available at Data Sources Attribution.
+If there is a conflict between any Third Party Terms and the terms of these Terms, then the Third Party Terms shall prevail but solely in connection with the related Third Party Sources.
+
+For the avoidance of doubt, all such Third Party Sources are and shall continue to be the owners of all such Third Party Content.
+ We are not affiliated with and have no control over any Third Party Sources.
+We do not assume any responsibility for the content, terms of use, privacy policies, actions or practices of, any Third Party Sources.
+Please read the terms of use and privacy policy of any Third Party Source that you interact with before you engage in any such activity.
+
+We are not responsible for, and we expressly disclaim all warranties regarding, the accuracy, appropriateness, usefulness, safety, or Intellectual Property Rights of, or relating to, any Third Party Content.
+We do not endorse any advertising, promotions, campaigns, products, services or other materials that are included in any Third Party Content or communicated to you from a Third Party Source.
+ By accessing or using the Site, you may be exposed to Third Party Content that is inaccurate, offensive, indecent, or objectionable.
+You always have the choice of deciding whether or not to interact with a Third Party Source or to view and use Third Party Content.
+Your interaction with a Third Party Source and your use of, and reliance upon, any Third Party Content is at your sole discretion and risk.
+
+ You are solely responsible and liable for your interaction with Third Party Sources.
+You agree to waive, and hereby do waive, any legal or equitable rights or remedies you may have against BreezoMeter, and release BreezoMeter from any and all liability, arising from your use of and interaction with any Third Party Content and/or Third Party Source.
+If you have any query or complaint regarding a Third Party Source or Third Party Content, you agree to contact the Third Party Source directly.
+
+
+
+
+Payments.
+
+ Your use and access of the Site hereunder is currently free of charge, however, we may in the future charge a fee for certain features and/or uses.
+You will not be charged for any such uses of the Site unless you first agree to such charges, but please be aware that any failure to pay applicable charges may result in your not having access to some or all of the Site.
+
+ Please be aware that your use of the Site may require and utilize Internet connection or data access.
+To the extent that third party service provider or carrier charges for your Internet or data usage are applicable, you agree to be solely responsible for those charges.
+
+
+
+
+Information Description.We attempt to be as accurate as possible and provide you with real-time air quality information.
+ However, please be aware that since such Third Party Content provided and displayed within the Site is received from Third Party Sources, such information may appear in a delay and/or may be partial or inaccurate, and therefore we cannot and do not warrant that the content available on the Site is accurate, complete, reliable, current, or error-free.
+We reserve the right to make changes in or to the content, or any part thereof, without the requirement of giving you any notice prior to or after making such changes to the content.
+
+
+Privacy.
+ We will use any personal information that we may collect or obtain in connection with the Site in accordance with our privacy policy, which is available at this link (â Privacy Policyâ), and you agree that we may do so .Please also be aware that certain personal information and other information provided by you in connection with your use of the Site may be stored on your computer or other device (even if we do not collect that information).
+You are solely responsible for maintaining the security of your computer or other device from unauthorized access.
+
+
+Warranty Disclaimers.
+
+ THE SITE IS PROVIDED ON AN âAS ISâ AND âAS AVAILABLEâ BASIS WITHOUT WARRANTIES OF ANY KIND INCLUDING, WITHOUT LIMITATION, REPRESENTATIONS, WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AND THOSE ARISING BY STATUTE OR FROM A COURSE OF DEALING OR USAGE OF TRADE.
+
+ WE DO NOT WARRANT THAT THE SITE WILL OPERATE ERROR-FREE, THAT THE SITE IS FREE OF VIRUSES OR OTHER HARMFUL CODE OR THAT WE WILL CORRECT ANY ERRORS IN THE SITE.
+ YOU AGREE THAT WE WILL NOT BE HELD RESPONSIBLE FOR ANY CONSEQUENCES TO YOU OR ANY THIRD PARTY THAT MAY RESULT FROM TECHNICAL PROBLEMS, INCLUDING WITHOUT LIMITATION IN CONNECTION WITH THE INTERNET (SUCH AS SLOW CONNECTIONS, TRAFFIC CONGESTION OR OVERLOAD OF OUR OR OTHER SERVERS) OR ANY TELECOMMUNICATIONS OR INTERNET PROVIDERS.
+
+ THE REPORTS PROVIDED BY THE SITE DO NOT REFLECT POLLUTION LEVELS INSIDE STRUCTURES OR IN, OR IN THE IMMEDIATE VACINITY OF, SITES ASSOCIATED WITH HIGH RISKS OF POLLUTION OR TOXICITY, SUCH AS, BUT NOT LIMITED TO, INDUSTRIAL AREAS, CONSTRUCTION SITES, LABS OR RESEARCH FACILITIES OR WASTE COLLECTION, DISPOSAL OR TREATMENT SITES.
+YOU SHALL NOT RELY ON, AND WE MAKE NO WARRANTY REGARDING, REPORTS FROM THE SITE IN CONNECTION WITH ANY OF THE FOREGOING.
+
+ THE CONTENT PROVIDED AND DISPLAYED WITHIN THE SITE IS NOT INTENDED TO BE, AND SHALL NOT BE CONSIDERED BY YOU TO BE, A SUBSTITUTE FOR THE TESTING OR REPORTING OF THE CONCENTRATION OF POLLUTION ELEMENTS BY THE APPLICABLE INSTITUTION(S) OR SERVICE PROVIDER(S) AUTHORIZED TO DO SO UNDER APPLICABLE LAWS AND REGULATIONS.
+THE SITE AND THE CONTENT PROVIDED SHALL NOT CONSTITUTE ANY FORM OF CONSULTATION, OPINION, DIAGNOSIS, AND/OR RECOMMENDATION OF ANY KIND, AND SHALL NOT BE RELIED UPON FOR ANY PURPOSE WHATSOEVER, INCLUDING BUT NOT LIMITED TO, FOR THE PURPOSE OF MAKING DECISIONS CONCERNING YOUR OR ANY OTHER PERSONâS HEALTH, FORMULATING OR SUPPORTING REGULATIONS, ASCERTAINING TRENDS, ACTING AS GUIDANCE, OR SUPPORTING ANY OTHER GOVERNMENTAL OR PUBLIC DECISION-MAKING.
+YOU HEREBY ACKNOWLEDGE AND AGREE THAT THE CONTENT PROVIDED BY THE SITE IS BASED ON RAW DATA, INCLUDING OBSERVATIONAL DATA, WHICH ARE NOT FULLY VERIFIED OR VALIDATED, ARE SUBJECT TO CHANGE, SHOULD BE CONSIDERED PRELIMINARY, AND ARE PROVIDED SOLELY FOR THE PURPOSE OF REPORTING AND FORECASTING THE AIR QUALITY INDEX (AQI).
+ANY AND ALL OFFICIAL REGULATORY AIR QUALITY DATA MUST BE OBTAINED FROM THE EPAâS AIR QUALITY SYSTEM (AQS).
+
+ IF YOU HAVE A DISPUTE WITH ANY USER OF THE SITE AND/OR THIRD PARTY SOURCE, YOU AGREE THAT WE ARE NOT LIABLE FOR ANY CLAIMS OR DAMAGES ARISING OUT OF OR CONNECTED WITH SUCH A DISPUTE.
+WE RESERVE THE RIGHT, BUT HAVE NO OBLIGATION, TO MONITOR ANY SUCH DISPUTE.
+
+Applicable law may not allow the exclusion of certain warranties, so to that extent such exclusions may not apply.
+
+
+
+Limitation of Liability.
+
+ TO THE FULLEST EXTENT PERMISSIBLE BY LAW, BREEZOMETER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, EXEMPLARY, SPECIAL, CONSEQUENTIAL, OR INCIDENTAL DAMAGES OF ANY KIND, OR FOR ANY LOSS OF DATA, REVENUE, PROFITS OR REPUTATION, ARISING UNDER THESE TERMS OR OUT OF YOUR USE OF, OR INABILITY TO USE, THE SITE.
+Some jurisdictions do not allow the limitation or exclusion of liability for incidental or consequential damages, so the above limitations may not apply to you.
+
+ IN NO EVENT SHALL THE AGGREGATE LIABILITY OF BREEZOMETER ARISING UNDER, OR IN CONNECTION WITH, THESE TERMS, OR OTHERWISE OUT OF YOUR USE OF, OR INABILITY TO USE, THE SITE, EXCEED THE TOTAL AMOUNT OF FEES, IF ANY, PAID BY YOU TO BREEZOMETER FOR USING THE SITE DURING THE THREE (3) MONTHS PRIOR TO YOUR BRINGING THE CLAIM.
+
+ THE FOREGOING LIMITATIONS AND EXCLUSIONS IN THIS SECTION â12 SHALL APPLY: (i) EVEN IF BREEZOMETER HAS BEEN ADVISED OF THE POSSIBILITY OF ANY DAMAGES OR LOSSES.
+(ii) EVEN IF ANY REMEDY SET FORTH HEREIN FAILS OF ITS ESSENTIAL PURPOSE.
+AND (iii) REGARDLESS OF THE BASIS OR THEORY OF LIABILITY.
+
+
+
+
+Indemnity. You agree to defend, indemnify and hold harmless BreezoMeter and our affiliates, and our respective officers, directors, employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs and expenses (including but not limited to attorneyâs fees) arising from: (i) your use of, or inability to use, the Site.
+(ii) your violation of these Terms.
+and (iii) your violation of any third party right, including without limitation any copyright, property, or privacy right.
+ Without derogating from or excusing your obligations under this section, we reserve the right (at your own expense), but are not under any obligation, to assume the exclusive defense and control of any matter which is subject to an indemnification by you if you choose not to defend or settle it.
+You agree not to settle any matter subject to an indemnification by you without first obtaining our express approval.
+
+
+Term and Termination.
+
+ We reserve the right, at any time, to: (i) discontinue or modify any aspect of the Site.
+and/or (ii) terminate these Terms and your use of and access to the Site with or without cause, and shall not be liable to you or any third party for any of the foregoing.
+If you object to any term or condition of these Terms or any subsequent modifications thereto, or become dissatisfied with the Site in any way, your only recourse is to immediately discontinue use of the Site.
+
+ This Section ââ14.2 and Sections â5 ( Intellectual Property Rights), â10 ( Privacy), â11 ( Warranty Disclaimers), â12 ( Limitation of Liability), â13 ( Indemnity), and â15 ( Assignment) to â18 ( General) (inclusive), as well as any provision of these Terms which by nature ought to survive, shall survive termination of these Terms and your use of or access to the Site.
+
+
+
+
+Assignment. These Terms (and any rights and obligations hereunder), may not be assigned by you, but may be assigned by BreezoMeter without restriction or notification.
+Any unauthorized assignment shall be null and void.
+
+
+Modification.  We reserve the right to modify these Terms at any time by publishing the updated Terms on the Site.
+ Such modification will be effective upon publication of the updated Terms, and your continued use of any part of the Site thereafter shall constitute your acceptance of those modifications and the updated Terms.
+
+
+Governing Law and Disputes.  These Terms and any dispute between you and BreezoMeter in connection with the Site shall be governed by and construed in accordance with the laws of the State of New York, U.S.A., without regard to its conflict of laws rules.
+Any claim, dispute or controversy between you and BreezoMeter shall be subject to the exclusive jurisdiction of the courts located in New York, NY, and you hereby irrevocably submit to the personal and exclusive jurisdiction of such courts and waive any jurisdictional, venue, or inconvenient forum objections to such courts.
+provided, however, that BreezoMeter may seek injunctive relief in any jurisdiction worldwide.
+
+
+General.  These Terms, and any other legal notices published by us in connection with the Site, shall constitute the entire agreement between you and BreezoMeter concerning the Site.
+If any provision of these Terms is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms, which shall remain in full force and effect, and the invalid provision shall be substituted with a provision that most closely approximates the original legal and economic effect of the invalid provision.
+ No waiver of any term of these Terms shall be deemed a further or continuing waiver of such term or any other term, and a partyâs failure to assert any right or provision under these Terms shall not constitute a waiver of such right or provision.
+Any waiver must be in writing and duly signed by the waiving party.
+All section and sub-section headings used in these Terms are for convenience only, and shall not be relied upon or used in interpreting these Terms.
+Any notices to BreezoMeter must be sent using the tools made available on the Site.
+YOU AGREE THAT ANY CAUSE OF ACTION THAT YOU MAY HAVE ARISING OUT OF OR RELATED TO THE SITE MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES.
+ OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
+
+
+
+ Headquarters  24 HaNamal St, P.O.
+Box 33887, Haifa, Israel 3303124 
+
+twitter
+linkedin
+youtube
+facebook
+ Products 
+Overview
+Plans
+
+Core Products:
+
+Air Pollution API
+Pollen API
+Fires API
+
+
+
+For Developers:
+
+API Documentation
+API Login
+
+
+ Solutions 
+Air Purification &amp.
+Smart Homes
+Medical Devices &amp.
+Digital Health
+Automotive &amp.
+Smart Mobility
+Media &amp.
+Advertising
+ Resources 
+Blog
+Use Cases
+Resource Center
+Check Your Air Quality
+Air Quality App
+ About Us 
+Company
+News and Events
+Careers
+Contact Us
+
+Copyright Â© 2021 BreezoMeter, All Rights Reserved. Terms of Use Cookies Policy Privacy Policy  This website uses cookies to ensure you get the best experience on our website.
+Learn more  Got It! 
+      

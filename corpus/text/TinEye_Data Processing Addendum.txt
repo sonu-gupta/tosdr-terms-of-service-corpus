@@ -1,0 +1,66 @@
+
+         TinEye Services Data Processing Addendum This Data Processing Addendum ("DPA"), forms part of the Services License Agreement (âAgreementâ) between Idee Inc.
+d.b.a.
+TinEye ("TinEye") and you or the entity you represent ("Customer").
+All capitalized terms not defined in this DPA shall have the meanings set forth in the Agreement. 1.
+Definitions "Customer Data" means any Personal Data that TinEye processes on behalf of Customer as a Data Processor in the course of providing Services, as more particularly described in this DPA.
+"Data Protection Laws" means all data protection and privacy laws applicable to the processing of Personal Data under the Agreement, including, where applicable, EU Data Protection Law.
+"Data Controller" means an entity that determines the purposes and means of the processing of Personal Data.
+"Data Processor" means an entity that processes Personal Data on behalf of a Data Controller.
+"EU Data Protection Law" means (i) prior to 25 May 2018, Directive 95/46/EC of the European Parliament and of the Council on the protection of individuals with regard to the processing of Personal Data and on the free movement of such data ("Directive") and on and after 25 May 2018, Regulation 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of Personal Data and on the free movement of such data (General Data Protection Regulation) ("GDPR").
+and (ii) Directive 2002/58/EC concerning the processing of Personal Data and the protection of privacy in the electronic communications sector and applicable national implementations of it (as may be amended, superseded or replaced).
+"EEA" means, for the purposes of this DPA, the European Economic Area, United Kingdom and Switzerland.
+"Personal Data" means any information relating to an identified or identifiable natural person.
+"Processing" has the meaning given to it in the GDPR and "process", "processes" and "processed" shall be interpreted accordingly.
+"Security Incident" means any unauthorized or unlawful breach of security that leads to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of or access to Customer Data.
+"Services" means any product or service provided by TinEye to Customer pursuant to the Agreement. 2.
+Relationship with the Agreement 2.1 The parties agree that DPA shall replace any existing DPA the parties may have previously entered into in connection with the Services.
+2.2 Except for the changes made by this DPA, the Agreement remains unchanged and in full force and effect.
+If there is any conflict between this DPA and the Agreement, this DPA shall prevail to the extent of that conflict.
+2.3 Any claims brought under or in connection with this DPA shall be subject to the terms and conditions, including but not limited to, the exclusions and limitations set forth in the Agreement.
+2.4 In no event shall any party limit its liability with respect to any individual's data protection rights under this DPA or otherwise.
+Customer further agrees that any regulatory penalties incurred by TinEye in relation to the Customer Data that arise as a result of, or in connection with, Customerâs failure to comply with its obligations under this DPA or any applicable Data Protection Laws shall count toward and reduce TinEyeâs liability under the Agreement as if it were liability to the Customer under the Agreement.
+2.5 No one other than a party to this DPA, its successors and permitted assignees shall have any right to enforce any of its terms.
+2.6 This DPA shall be governed by and construed in accordance with governing law and jurisdiction provisions in the Agreement, unless required otherwise by applicable Data Protection Laws. 3.
+Scope and Applicability of this DPA This DPA applies where and only to the extent that TinEye processes Customer Data that originates from the EEA and/or that is otherwise subject to EU Data Protection Law on behalf of Customer as Data Processor in the course of providing Services pursuant to the Agreement. 4.
+Roles and Scope of Processing 4.1 Role of the Parties.
+As between TinEye and Customer, Customer is the Data Controller of Customer Data, and TinEye shall process Customer Data only as a Data Processor acting on behalf of Customer.
+4.2.
+Customer Processing of Customer Data.
+Customer agrees that (i) it shall comply with its obligations as a Data Controller under Data Protection Laws in respect of its processing of Customer Data and any processing instructions it issues to TinEye.
+and (ii) it has provided notice and obtained (or shall obtain) all consents and rights necessary under Data Protection Laws for TinEye to process Customer Data and provide the Services pursuant to the Agreement and this DPA.
+4.3 TinEye Processing of Customer Data.
+TinEye shall process Customer Data only for the purposes described in this DPA and only in accordance with Customerâs documented lawful instructions.
+The parties agree that this DPA and the Agreement set out the Customerâs complete and final instructions to TinEye in relation to the processing of Customer Data and processing outside the scope of these instructions (if any) shall require prior written agreement between Customer and TinEye.
+4.4 Details of Data Processing
+
+(a) Subject matter: The subject matter of the data processing under this DPA is the Customer Data.
+(b) Duration: The duration of the data processing under this DPA is until the termination of the Agreement in accordance with its terms.
+(c) Purpose: The purpose of the data processing under this DPA is the provision of the Services to the Customer and the performance of TinEye's obligations under the Agreement (including this DPA) or as otherwise agreed by the parties.
+(d) Nature of the processing: TinEye provides automated image search and matching technology, as described in the Agreement.
+(f) Types of Customer Data:
+(i) Users: identification and contact data (name, address, title, contact details, username).
+financial information (credit card details, account details, payment information).
+employment details (employer, job title, geographic location, area of responsibility);
+(ii) Images and meta-data: Customer collection images and search images, unique image names or identifiers.
+Meta-data from any source including any embedded in images, provided separately by customer, added by customer during their use of the Services, or automatically extracted from images.
+4.5 Notwithstanding anything to the contrary in the Agreement (including this DPA), Customer acknowledges that TinEye shall have a right to use and disclose data relating to the operation, support and/or use of the Services for its legitimate business purposes, such as billing, account management, technical support, product development and sales and marketing.
+To the extent any such data is considered Personal Data under Data Protection Laws, TinEye is the Data Controller of such data and accordingly shall process such data in accordance with the TinEye Privacy Policy and Data Protection Laws.
+4.6 Tracking Technologies.
+Customer acknowledges that in connection with the performance of the Services, TinEye employs the use of cookies, unique identifiers and similar tracking technologies. 5.
+Security 5.1 Security Measures.
+TinEye shall implement and maintain appropriate technical and organizational security measures to protect Customer Data from Security Incidents and to preserve the security and confidentiality of the Customer Data, in accordance with TinEye's security standards described in TinEyeâs Security Policy.
+5.2 Updates to Security Measures.
+Customer is responsible for reviewing the information made available by TinEye relating to data security and making an independent determination as to whether the Services meet Customerâs requirements and legal obligations under Data Protection Laws.
+Customer acknowledges that the Security Measures are subject to technical progress and development and that TinEye may update or modify the Security Measures from time to time provided that such updates and modifications do not result in the degradation of the overall security of the Services purchased by the Customer.
+5.3 Customer Responsibilities.
+Notwithstanding the above, Customer agrees that except as provided by this DPA, Customer is responsible for its secure use of the Services, including securing its account authentication credentials, protecting the security of Customer Data when in transit to and from the Services and taking any appropriate steps to securely encrypt or backup any Customer Data uploaded to the Services. 6.
+Additional Security 6.1 Confidentiality of processing.
+TinEye shall ensure that any person who is authorized by TinEye to process Customer Data (including its staff, agents and subcontractors) shall be under an appropriate obligation of confidentiality (whether a contractual or statutory duty).
+6.2 Security Incident Response.
+Upon becoming aware of a Security Incident, TinEye shall notify Customer without undue delay and shall provide timely information relating to the Security Incident as it becomes known or as is reasonably requested by Customer. 7.
+Return or Deletion of Data Upon termination or expiration of the Agreement, TinEye shall delete all Customer Data (including copies) in its possession or control, save that this requirement shall not apply to the extent TinEye is required by applicable law to retain some or all of the Customer Data, or to Customer Data it has archived on back-up systems, which Customer Data TinEye shall securely isolate and protect from any further processing, except to the extent required by applicable law. 8.
+Cooperation 8.1 If a law enforcement agency sends TinEye a demand for Customer Data (for example, through a subpoena or court order), TinEye shall attempt to redirect the law enforcement agency to request that data directly from Customer.
+As part of this effort, TinEye may provide Customerâs basic contact information to the law enforcement agency.
+If compelled to disclose Customer Data to a law enforcement agency, then TinEye shall give Customer reasonable notice of the demand to allow Customer to seek a protective order or other appropriate remedy unless TinEye is legally prohibited from doing so.
+8.2 To the extent TinEye is required under EU Data Protection Law, TinEye shall (at Customer's expense) provide reasonably requested information regarding the Services to enable the Customer to carry out data protection impact assessments or prior consultations with data protection authorities as required by law.

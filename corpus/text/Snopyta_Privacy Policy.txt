@@ -1,0 +1,117 @@
+
+         Privacy Policy This page informs you of our policies regarding the collection and use of data when you use a service provided by us.
+We use your data only to provide our service.
+No data will ever be shared.
+Scope
+The following privacy policy is valid for all listed services on the following website: https://snopyta.org 
+
+Additional privacy policies extensions per service can be found below.
+Controller
+The party responsible for this website (the "controller") for purposes of data protection law is:
+
+Noah Seefried
+ Am RÃ¶sgraben 9 91567 Herrieden Germany legal@snopyta.org 
+Definitions Definitions as described in Article 4(1,2) GDPR:  'personal data' means any information relating to an identified or identifiable natural person 
+ 'processing' means any operation on personal date such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction 
+Personal data we process and collect
+ When you visit our website and services, your IP address and user agent are automatically processed by our web server.
+This is technically always necessary.
+Then, our server needs your IP address to send responses (e.g.
+website content) to your browser.
+By default, we do not process any other personal data of you.
+The legal basis for the processing your IP address and user agent is Article 6(1) lit.
+b GDPR.
+Our legitimate interest is to provide our content if you want to access it.
+ Session identifiers  While currently logged in, we keep a temporary session identifier on your computer that your software uses to prove your authentication state.
+This is erased immediately after you log out or the session expires.
+We do not use these identifiers to track your visit or evaluate how you use the services provided by us.
+ We do not use any third party cookies or tracking of any kind.
+ Logging  By default, no identifiable data such as IP addresses of any user for any service are retained.
+To fix problems or stop attacks, it may be necessary to temporarily store access or error logs.
+If this is the case we store data such as but not limited to a timestamp, your IP, your useragent and the URL you access.
+The data collected is kept for as long as is necessary to resolve the problem, but for a maximum of 24 hours.
+This is different for the email server! Full maillogs (they include IP address and maybe other informations like your client) are kept for 24 hours.
+This is needed to prevent abuse (spam, malware) and to get aware of issues with remote mailservers (bounces, blacklisting).
+ E-Mail Support  The content and the fact of any mail will not be connected to any of your accounts expect you tell us in an email which account you are using.
+We periodically delete old requests that are closed (at the latest after one year).
+ Registration data  When you register an account with us, we collect and process certain personal data from you as your registration data.
+For example we need your username or mail address to allocate data.
+You can either delete your user account on the respective service or by writing us an email to support@snopyta.org with your deletion request.
+The legal basis for this data processing is Article 6(1) lit.
+b GDPR.
+
+Storage of collected information
+ All of your data is stored in a secure data center by Hetzner Online in Helsinki (Finland) or Nuremberg/Falkenstein (Germany).
+We strongly suggest encrypting as much as possible client side for your privacy.
+ Encryption  We try to encrypt things where it is possible.
+Most machines have full disk encryption while some of them are not fully encrypted.
+Next to this we encrypt as much as the respective services allow.
+ We do not share nor look into personal data  We retain only the bare minimum of information about each user that is required to make the service work.
+We do not sell or share any of it.
+We do not access your personal data, such as but not limited to emails, messages and files during normal operation.
+We only will do, if it is needed for troubleshooting or preventing abuse of our services.
+If this is the case, we will contacting you prior to that and ask for your permission.
+Once these measures have been completed we will be contacting you (if legally allowed) and report to you, which personal we have accessed, changed or otherwise processed.
+ Account deletion  You may choose to delete an account on snopyta.org at any time.
+Doing so will destroy all the data we retain that is associated with your account.
+The usernames associated with deleted accounts may remain unavailable for others to use.
+
+Access to your information Federation Some of the services provided by snopyta.org such as Nextcloud and Mastodon are operating based on so called federation protocols.
+This enables users signed up at different service providers to interact with each other.
+Because of the nature of the protocols (ability to send each other messages, likes, share files, chat) some of the data is naturally shared with other entities.
+However, sharing data with other service provider is the user's choice and is configured by the users in their settings per service including the decision of with whom and what to share. Embeds and previews You may be shown embedded videos and link previews from other websites while using services provided by snopyta.org.
+This may expose you to web tracking by external services.
+On our website is no third party embed unless the score pictures at xmpp.html.
+Per service additional privacy policies and exceptions status.snopyta.org  The status site is hosted on Uberspace.
+While we have disabled any logfiles there, they may retain further logs.
+ Further details about Uberspace can be found below.
+ Searx We do not log any search query nor create any form of profile. PrivateBin All files uploaded and text pasted to the service end-to-end encrypted in your browser.
+We have no way to decrypt that information. Nextcloud All files transmitted to the Nextcloud are encrypted with a keypair based on the user password.
+However, this does not apply to calendars, contacts, news, tasks, bookmarks and so on.
+They are stored in plain-text in a database (the database server itself has full disk encryption). E-Mail E-Mails are stored in plaintext on the server unless encrypted by the user (GPG).
+The disk of the server itself is encrypted.
+IP addresses of logged in users are stored per device on the server as long as logged in.
+The maillog is kept for 24 hours.
+ etherpad.snopyta.org and pad.snopyta.org Content of the pad is stored in plaintext.
+There is no data stored which could connect you to a pad by default. EtherCalc Content of the sheet is stored in plaintext.
+There is no data stored which could connect you to a sheet by default. Gitea Sharing data (e.g.
+mail, website) is the users choice and is configured by the users in the account settings. Jabber / XMPP Advanced privacy policy for xmpp service 
+In short:
+ We force TLS encryption for clients and servers.
+ No IP address is stored on the server.
+Your messages are stored for three days inside the archive.
+ If you do not encrypt your messages they are stored in plain-text.
+You can disable the archive in your client, if supported by the client.
+ Your uploaded files are not encrypted by default.
+They are stored for 3 days. Mastodon By default no IP or other personal data is stored on the server.
+If you register an account, some data is stored.
+ Details can be found in the Mastodon Privacy Policy TinyTinyRSS When you subscribe to a feed, it will be stored in the database and referenced to your account.
+A feed entry which was read is marked as read in the database.
+Read feed entries are purged after per-user configured time. Invidious A more technical privacy policy is available on the Invidious site. DNS services There are no IP addresses nor any queries logged by default.
+In order to prevent abuse we monitor traffic volume which may result in temporary enabling logs to block IP addresses.
+These logs are deleted immediately after action has been taken and are kept for a maximum of 24 hours.
+Personal data third parties process and collect for us Hetzner Online GmbH, Germany and Finland  The Hetzner Online GmbH (take a look at their privacy policy) provides our servers.
+ They may log access attempts (IP, user agent, transmitted bytes) to detect DDoS attacks and so on.
+
+ We have a data processing agreement according to Article 28 GDPR with Hetzner Online GmbH.
+
+ The legal basis for the processing of your personal data is Article 6(1) lit.
+b GDPR.
+ Our legitimate interest and the interest of the Hetzner Online GmbH is to detect/block attack-like behavior, and to provide our services.
+ Uberspace  Uberspace (take a look at their privacy policy) provides the webhosting for the status page.
+ They may log access attempts (IP, user agent, transmitted bytes) to detect DDoS attacks and so on.
+
+ The legal basis for the processing of your personal data is Article 6(1) lit.
+b GDPR.
+ Our legitimate interest and the interest of Uberspace is to detect/block attack-like behavior, and to provide our status page.
+
+Your rights
+ Under the General Data Protection Regulation (GDPR) and The Data Protection Act 2018 (DPA) you have a number of rights with regard to your personal data.
+ You have the right to request from us access to and rectification or erasure of your personal data, the right to restrict processing, object to processing  as well as in certain circumstances the right to data portability.
+If you have provided consent for the processing of your data you have the right (in certain circumstances)  to withdraw that consent at any time which will not affect the lawfulness of the processing before your consent was withdrawn.
+
+More
+If you have any questions about this Privacy Policy, please contact us:
+
+Mail: legal@snopyta.org
+

@@ -1,0 +1,69 @@
+
+At Vice Media, we take information security seriously.
+We want to encourage those who have discovered possible security vulnerabilities in our applications to disclose it to us in a responsible manner.
+
+We will work with security researchers to validate and respond to vulnerabilities that are reported to us.
+We won't take legal action against or suspend or terminate your account access provided you discover and report security vulnerabilities in accordance with this Responsible Disclosure Policy.
+Vice Media reserves all of its legal rights in the event of any noncompliance.
+
+
+Testing for security vulnerabilities
+
+You may only test against an account for which you are the account owner or an agent authorized by the account owner to conduct such testing.
+
+
+Vice Media prohibits the following types of research
+
+
+Accessing, or attempting to access, data that does not belong to you
+Executing, or attempting to execute, a denial of service attack
+Sending, or attempting to send, unsolicited or unauthorized email, spam or other forms of unsolicited messages
+Testing third party websites, applications or services that integrate with Vice Media
+Knowingly posting, transmitting, uploading, linking to, sending or storing any malware, viruses or similar harmful software
+Research conducted by minors, individuals on sanctions lists or individuals in countries on sanctions lists
+
+
+Reporting potential vulnerabilities
+
+Share the details of any suspected vulnerabilities with the Vice Media Security Team by sending an email to infosec@vice.com.
+You can also use our PGP to encrypt these communications.
+
+Please do not publicly disclose these details without express written consent from Vice Media.
+In reporting any suspected vulnerabilities, please include the following information: 
+
+Exploit details with adequate information to allow us to reproduce your steps
+Your email address
+Your name as it should be displayed on this page if you would like it to be
+Your Twitter handle if you would like it displayed next to your name below
+
+
+No compensation
+
+Vice Media does not compensate individuals or organizations for identifying potential or confirmed vulnerabilities.
+Requests for monetary compensation will be deemed in violation of this Responsible Disclosure Policy.
+
+
+Vice Media's commitment
+
+To all security researchers who follow this Responsible Disclosure Policy, Vice Media promises to: 
+
+Acknowledge receipt of your report in a timely manner
+Provide an estimated time frame for addressing the vulnerability
+Notify you when the vulnerability is fixed
+Publicly acknowledge your responsible disclosure, if you wish
+
+
+Shout Outs
+
+
+Special thanks to to the following individuals and organizations who have participated in our responsible disclosure program:
+
+Cody Zacharias - @now
+Alexis Laborier
+Shivam Kamboj Dattana - @sechunt3r
+vijiln - @vijiln
+Prathamesh Joshi - @Pr4th4m_Joshi
+Sumit Grover - @sumgr0
+Fariq Fadillah Gusti Insani - @fariqfgi
+Mukhammad Akbar (Abay) - abaykan.com
+

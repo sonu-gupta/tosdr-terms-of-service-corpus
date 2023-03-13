@@ -1,0 +1,158 @@
+
+
+ info@empirestreaming.com | Toll Free: (888) 494-5822 
+Media Creek
+Network Status
+Technical Support
+Customer Login
+
+
+Home
+Streaming
+
+Radio Streaming
+Content Delivery
+Dedicated Streaming Servers
+
+
+Solutions
+
+Virtual Radio Studio
+Podcaster
+Mobile Applications
+Desktop Players
+Analytics &amp.
+Alerts
+Ad Insertion
+Professional Consulting
+Empire Audience Network
+
+
+About Us
+Contact Us
+
+
+Home
+Streaming
+
+
+Radio Streaming
+Content Delivery
+Dedicated Streaming Servers
+
+
+Solutions
+
+
+Virtual Radio Studio
+Podcaster
+Mobile Applications
+Desktop Players
+Analytics &amp.
+Alerts
+Ad Insertion
+Professional Consulting
+Empire Audience Network
+
+
+About Us
+Contact Us
+ Advertising Revenue Share Program Advertising Revenue Share Program
+General Info:
+EmpireStreamingâs ad-insertion system operates using metadata triggers to trigger and specify the length of the ad break.
+We provide pre-made 30, 60, 90, and 120 second trigger files upon service sign-up.
+Or, you can create your own trigger files by putting these tags in the âartistâ or âtitleâ field using a metadata tag editor:
+30 Second Trigger â ADWTAG_30000
+60 Second Trigger â ADWTAG_60000
+90 Second Triggers â ADWTAG_90000
+120 Second Trigger â ADWTAG_122000
+
+
+Broadcasters are required to run 4 minutes worth of ad-breaks per hour for streams which are not using audio pre-rolls, or 3 minutes and 30 seconds (3:30) worth of ad-breaks per hour for streams which are using audio pre-rolls.
+
+A maximum of two (2) minutes is allowed pre ad break, with a separation of at least 15 minutes in-between each ad break.
+
+You may not run two trigger files back to back.
+Our system will not detect the 2nd trigger and therefore not inject any ads.
+
+Broadcasters must point all listeners to the stream server that EmpireStreaming has provided.
+Credit will not be given for listeners who are listening through a stream not provided by EmpireStreaming.
+We highly suggest the use of PLS and ASX files to give to directories such as iTunes, TuneIn, etc.
+
+
+How does it work?
+
+
+Our ad-insertion servers look for the tags enclosed in the metadata of the trigger files, which specifies the length of the ad break.
+
+Once our system sees the metadata, it will overlay our network spots over the top of your stream for the specified ad break length
+
+Once the ad break finishes, it will go back to your stationâs stream.
+
+
+Ad-insertion Setup:
+
+ Once you are encoding and pointing your listeners to the stream server that we have provided you, and once we have verified that you are correctly running the ad-break trigger files, we will set up your stream(s) on our ad-insertion platform.
+This can take up to 7 days from the point that you begin running the trigger files.
+
+
+Reports and Payments:
+
+
+
+Within 40-50 days following the end of each broadcast month, EmpireStreaming will provide a revenue/impressions report showing ad-insertion revenue for the specified month.
+
+Ad impressions are calculated based on a CPM (cost per 1000 impressions).
+
+Broadcasters are required to submit an invoice to EmpireStreaming for the amount specified in the revenue/impressions report within 3 months of receiving the report.
+Revenue payments will not be sent unless an invoice is received by EmpireStreaming.
+
+Ad revenue will be considered abandoned if broadcaster does not submit an invoice within 3 months of receiving the report.
+It is the broadcasterâs responsibility to reach out if a revenue report is not received.
+
+United States based broadcasters MUST have a valid form W9 on file with EmpireStreaming before any payments can be released.
+Without a valid W9, any proceeds will be considered abandoned and future payments will not be paid out.
+Broadcaster may submit proper form W9 and be paid, but only within a 3 month history of ad payments.
+Example: Broadcaster submits W9 in September, only the months of June, July, and August will be added as account payments.
+
+EmpireStreaming will distribute ad-revenue payments within 100-140 days following the end of corresponding month.
+Only those Broadcasters whose EmpireStreaming accounts are current (i.e., active Advertising Supported Package and not delinquent) are eligible to receive payment from EmpireStreaming.
+
+EmpireStreaming requires a minimum of $100 in accumulated revenues for payment via check.
+There is no minimum revenue requirement for payment via PayPal.
+
+EmpireStreaming has the right to modify the terms of the âAdvertising Revenue Share Programâ at any time.
+
+For the latest terms and conditions about EmpireStreamingâs âAdvertising Revenue Share Programâ â including information about how to receive your payment from EmpireStreaming â please refer to EmpireStreaming âAdvertising Revenue Share Programâ details page, which is available at: https://empirestreaming.com/adshare
+
+For questions regarding revenue, payment status, or other, please e-mail support@empirestreaming.com or open a ticket in client area.
+
+Last modified: February 15, 2017. Locate Us
+EmpireStreaming Headquarters
+
+
+
+6360 Broad Street #5398
+Pittsburgh PA 15206
+
+
++1 (888) 494-5822
+
+
+info@empirestreaming.com
+
+
+https://www.empirestreaming.com Streaming Services
+Radio Streaming
+Content Delivery
+Dedicated Streaming Servers
+ Legal
+Terms of Service
+Privacy
+DMCA
+Advertising Revenue Share Program
+A Media Creek Company Copyright 2021 EmpireStreaming.com.
+A Media Creek Company.
+All Rights Reserved.
+
+      

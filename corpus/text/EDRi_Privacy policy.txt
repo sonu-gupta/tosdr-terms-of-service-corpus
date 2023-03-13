@@ -1,0 +1,57 @@
+
+This policy is applicable to edri.org and all personal data processed via publicly available digital services provided by European Digital Rights (EDRi), AISBL registered at 12 Rue Belliard, 1040 Brussels, Belgium.
+Communications
+Website
+We use data to provide you with the edri.org page, make sure it remains secure and use anonymous data for reporting and evaluation purposes.
+We honour encrypted browsing (https) by default.
+Our websites are managed by our trustworthy service provider, Spectre Operations, based in the Netherlands.
+Spectre Operations acts as a processor of data whereas EDRi is the data controller.
+We have signed a data processing agreement with Spectre Operations.
+Spectre Operations will only use the logs and any other information for troubleshooting the supplied services and for monitoring usage patterns for security purposes.
+Our website does not use cookies or web beacons.
+We have no control over tracking technologies used by sites and services to which we link.
+The processing of web usage data is kept to a minimum.
+For reporting and evaluation purposes, we collect some statistics on the visits and downloads on our website with Matomo, a web analytics platform that gives us 100% data ownership .
+All data collected is anonymised, and we do not share it with third parties.
+The server software retains access logs (which contain individual IP addresses and pages visited) for the purposes of troubleshooting and generating aggregate statistics.
+We use this information to provide an indication of faults and to identify peak usage times so that we can decide when to make major site modifications.
+Emails
+When you send us an emails it will be stored on our email server in the Netherlands and potentially on recipientsâ local devices.
+As a result, emails are susceptible to lawful access under Dutch jurisdiction.
+Our current service provider is Spectre Operations (see below).
+Each EDRi employee is responsible for managing and enforcing data minimisation with regard to the communications that s/he receives or sends, and we endeavour to keep this information stored securely through the use of encrypted emails.
+We do not solicit information on political and religious beliefs or medical information.
+When such sensitive personal information is provided to us through our email or postal addresses, we delete or anonymise this information as soon as possible.
+EDRi staff members use PGP to encrypt emails.
+You can find their keys on the EDRi website and on public keyservers.
+Mailing lists
+We run a variety of open and closed mailing lists hosted on our servers at Spectre Operations.
+If you subscribe to one of our public mailing lists, the membership of these mailing lists is kept confidential, and only available to selected EDRi staff members for the purpose of list management.
+Traffic data of emails we send and receive through the services of Spectre Operations is subject to the Netherlands data retention legislation.
+We only log details of the email addresses and mail servers involved in delivery.
+Newsletters and press releases
+If you subscribe to EDRi-gram or to one of EDRiâs other newsletters, including the press releases, the information you provide, such as your e-mail address, names and background will be stored and processed on our self-hosted CRM.
+It will only be used by EDRiâs comms team to send you the mailings you subscribed to and to understand click and open rates of our mailings.
+The information will never be shared with third parties of any kind.
+Aggregate information about subscribers such as the number of subscribers can be used for other publications.
+EDRi commonly uses (âdoubleâ) confirmed opt-in for subscribers to any mailinglist unless you email us, call us or orally tell us to add you to a given mailinglist.
+In any of those cases the legal ground for the collection and processing is Article 6.1 (a) GDPR.
+By using professional, self-hosted mailinglist software like Mailman and CiviCRM, EDRi aims at minimising the abuse risk of email addresses by third parties.
+Subscribers can subscribe or unsubscribe themselves, without any intervention from EDRi.
+Maintenance, system operation and security of the mailinglists are delegated to Spectre Operations and subscribers may also be added via an opt-in system attached to a campaign website .
+Social Media
+European Digital Rights uses social media and social networking services to advance our work.
+These applications require the use of third party service providers.
+Notably, we have a YouTube, Facebook, and a Twitter account.
+Please note that these services engage in extensive data collection and processing practices that are governed by their own terms of service.
+
+
+Your rights
+If you have any questions regarding our privacy policy or require any clarifications, please contact brussels(at)edri.org.
+You have the right to access, to rectify, to erasure, to object, to restrict processing, to data portability, to withdraw your consent and to launch a complaint with your local data protection authority.
+We are governed by the Belgian data protection authority (https://www.autoriteprotectiondonnees.be/citoyen).
+Changes to this policy
+In the event that this policy is changed at any time, the date and nature of the change will be clearly indicated in this document.
+In the event that the change has a material impact on the handling of your personal information, we will contact you to seek your consent.
+The previous version from January 2019 can be found here.
+[Last updated on 15 September 2020]

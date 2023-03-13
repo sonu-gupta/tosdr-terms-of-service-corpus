@@ -1,0 +1,133 @@
+
+         Vidazoo LegalVidazoo LegalLegal ResourcesWebsite Terms of UseTerms and ConditionsPublisher GuidelinesData Protection AddendumData Protection Addendum - SaaSCCPA AddendumPrivacy PolicyCookies PolicyPrivacy Notice For California ResidentsPrivacy Rights PolicyInformation Security PolicyPowered by GitBookData Protection Addendum[Last Modified: December 3, 2020]
+In case of any conflict between the terms of the Agreement and the terms of this Addendum, the terms of this Addendum shall prevail.
+The terms used in this Addendum shall have the meanings set forth below.
+Capitalized terms not otherwise defined herein shall have the meaning given to them in the relevant article of the EU General Data Protection Regulation (GDPR).
+In consideration of the mutual obligations set out herein, the parties hereby agree that the terms and conditions set out below shall be added as an Addendum to the Principal Agreement.1.
+Privacy Definitions1.1.
+âApplicable Privacy Lawsâ means any and all applicable international, national, federal, and state data protection and privacy laws, (including the EU Privacy Laws (GDPR, ePrivacy and any other applicable regulation) as applicable to the collection and processing of Personal Data, as defined below).
+
+1.2.âConsentâ means an End User informed and freely given consent, that meets the requirements stipulated under article 7 of the GDPR or under Purpose 1 of the IAB TCF Policy (as such term is defined below).
+
+1.3.âControllerâ means an entity that determines the purposes and means of processing Personal Data;
+1.4.âEnd Userâ means a human end user or a visitor of a Publisherâs website or any other digital property operated by Publisher.
+
+1.5.âIAB Consent Management Frameworkâ means the IAB tech labsâ technical specification for the GDPR transparency &amp.
+consent framework.
+
+1.6.
+"IAB TCF Policy" means the IAB Europe Transparency &amp.
+Consent Framework â Policies Version 2020-11-18.3.2a available at: https://iabeurope.eu/wp-content/uploads/2020/11/TCF_v2-0_Policy_version_2020-11-18-3.2a.docx-1.pdf.
+
+1.7.âLegitimate Interestâ means, one out of six lawful bases for personal data processing under the GDPR.
+Shall have its definition under the GDPR, Art.
+6.
+
+1.8.
+âEU Privacy Lawâ means and of the applicable EU privacy laws and regulations, including, without limitation: (a) prior to 25 May 2018, EU Directive 95/46/EC and any applicable national legislation implementing it.
+(b) as of 25 May 2018 onwards, EU Regulation 2016/679 (the âGeneral Data Protection Regulationâ) and any applicable national legislation made under or pursuant to it.
+and (c) EU Directive 2002/58/EC and any applicable national legislation implementing it.
+in each case as amended or superseded.
+and 
+1.9.
+âPersonal Dataâ means any information relating to an identified or identifiable natural person.
+an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+
+1.10.âPlatformâ means Vidazooâs marketplace and/or media player and/or any other code, script and technology integrated within Publisherâs web property or otherwise integrated within Publisherâs services, which is the subject matter of the Agreement between the Parties.
+
+1.11.âSensitive Dataâ means data that is given a higher level of protection under applicable local law and includes social security numbers and other government-issued identifiers, insurance plan numbers, financial account numbers, precise information about past, present, or potential future health or medical conditions or treatments, including genetic, genomic, and family medical history, sexual orientation or other sexual information.
+In certain jurisdictions such as Australia and European Union, Sensitive Information may also include information that reveals race, financial or criminal history, ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or data that concerns an individualâs health, whether or not tied to Personal Data.
+1.12.âServicesâ means Vidazooâs Platform and respective Services that are the subject matter of the Agreement between the Parties.
+
+1.13.
+"Signal" as such term is defined under the IAB TCF Policy.
+
+1.14.âTraffic Sourceâ means any channel, source or action taken by Publisher or on Publisherâs behalf to generate traffic or to derive such traffic to Publisherâs digital properties.
+2.
+Role and Classification of the Parties
+The parties acknowledge that in relation to any data shared in accordance with the Agreement, as between the parties, Publisher is a Controller of Personal Data relating to its End Users and Vidazoo is a Processor of Personal Data that it processes about End Users on behalf of Publisher, in order to provide its Services and operate its Platform.
+Publisher further acknowledges that Vidazoo is a Vendor as such term is defined under the IAB TCF Policy.
+The subject-matter and duration of the Processing carried out by Vidazoo on behalf of Publisher, the nature and purpose of the Processing, the type of Personal Data and categories of Data Subjects are described in Schedule A.
+Each Party, shall represent and ensure the compliance of its Personal Data collection and processing activities according to Applicable Privacy Law.
+
+3.
+Data Ownership
+As between the Parties, each Party owns all data that such Party collects.
+As to Vidazoo, such data may include, without limitation: information collected from End Users when interacting or engaging with the Platform of Services.
+Normally, such data shall not include Personal Data unless required to provide and maintain the Services or to prevent fraud, or otherwise comply with applicable laws, or as otherwise consented by End Users.
+4.
+Compliance
+Each Party, shall use reasonable efforts to comply with its responsibilities under Applicable Privacy Laws.
+Each Party shall process End Usersâ Personal Data only for purposes that have been properly notified to Visitors and shall ensure that it has a lawful basis for processing End Usersâ Personal Data consistent with the requirements of Applicable Privacy Laws and any necessary consents obtained from Visitors.
+5.
+Consent
+Publisher acknowledges and agrees that the Platformâs integration and Vidazooâs Services are dependent and based upon End Userâs Consent or any other demonstrated lawful basis (including Legitimate Interest), that shall be obtained by Publisher and which Vidazoo relies on, amongst others, in its capacity as a Vendor.
+Publisher also acknowledges that it shall be able to demonstrate such Consent at any time and represents that such Consent is existed.
+In addition, Publisher will be able to support transmission of Consent and opt out parameters, as further detailed in Schedule B.
+Vidazoo shall not be liable with respect to the obtaining of any required consent or with respect to the Signal provided by the Publisher and shall transfer the Signal "as is" and as it was provided to Vidazoo by the Publisher as further reflected in Schedule B.
+6.
+Transparency and Choice.
+Each Party shall, at all times, use reasonable efforts to comply with its respective privacy and cookie policies and disclosures.
+Each Party shall ensure that its services and/or digital properties each includes prominently posted privacy and cookie policies that describe in a legally sufficient manner the Personal Data that it collects, how it uses and shares such Personal Data, and how End Users can withdraw consent, or otherwise opt out of such use in accordance with Applicable Privacy Laws.
+7.
+Representations and Warranties.
+Publisher represents and warrants that any ad request that will be sent to the Platform will include the applicable Consent parameter and the Signal so that any returned content will be lawfully served.
+Applicable Consent parameter will be determined by Publisher as per the supported consent management Parameters that are detailed in Schedule A, as may be updated from time to time by Vidazoo or by its Advertisers.
+Publisher acknowledges and agrees that such requests are directly transmitted to the end Advertiser's platform, and such Advertiser's platform will respond as per Publisher's request.
+Therefore, Vidazoo, as the tech provider, has no control over such parameters or over the Signal and shall not be responsible for any parameter or Signal that was unlawfully or misleadingly sent by Publisher, nor liable for any damage or damages resulted by it.
+
+8.
+Liability
+Each Party agrees that it will be liable and responsible for its respective obligations under this Addendum for any damage or damages (including fines) incurred by such Partyâs violation or breach of obligations, whether such damage or claim is caused directly or as a result of third party claim.
+Each Parties liability for its obligations under the DPA shall not be limited.
+9.
+Amendments
+Vidazoo reserve the right, at its discretion, to revise or update the Terms at any time.
+Such amendments shall be effective upon publication of the amended Terms.
+The last revision will be reflected in the âLast Modifiedâ heading.
+Publisherâs continued use of the Services thereafter constitutes its consent to such changes and Publisher agree to be bound by them, therefore Vidazoo ask Publisher to check back periodically to review the most updated Terms.
+Schedule A: Details of processing of Personal Data
+
+This Schedule A includes certain details of the Processing of Personal Data as required by Article 28(3) GDPR.
+
+
+Subject matter and duration of the Processing of Personal Data.
+
+Processing carried out in connection with the provision of the services of displaying video advertisement through the Platform.
+The duration shall be for the term of the Agreement with an additional period of 60 days from the expiration of the Agreement until deletion of Publisher data by Vidazoo in accordance with the terms of the Agreement and this Addendum.
+
+The nature and purpose of the Processing of Personal Data
+
+To provide the Services in accordance with the Agreement.
+
+The types of Personal Data to be Processed
+
+IDs such as: (i) a unique identifier stored on an end-user's device, (ii) a unique identifier generated on the basis of device information, or (iii) a resettable advertising ID associated with a mobile device or an application.
+
+
+The categories of Data Subject to whom the Personal Data relates
+
+Users / Data Subject in the EEA that viewed targeted and personalized ads provided in the Platform by third party advertisers which are placed on the Publisher inventory.
+Schedule B: Consent Management Parameters 
+
+Case
+
+Action
+CMP IAB Framework parameters available
+Publisher will pass the GDPR and CONSENT parameters to Vidazoo's player based on the Vidazoo's technical documentation available at Vidazoo's Platform Wiki and Vidazoo will pass the parameters and Signal accordingly to the Advertisers "as is".
+
+CMP IAB Framework parameters are not available
+Publisher will initiate the call to Vidazoo's player without any special parameters and Vidazoo will make a call to its Advertisers without passing any special parameters.
+In this case some advertisers will treat the Ad Request as the consent has been granted and process the request by serving Personalized or Contextual Ads, while others will not process the request.PreviousPublisher GuidelinesNextData Protection Addendum - SaaSLast updated 7 months agoWas this page helpful?Contents1.
+Privacy Definitions2.
+Role and Classification of the Parties3.
+Data Ownership4.
+Compliance5.
+Consent 6.
+Transparency and Choice.
+7.
+Representations and Warranties.
+8.
+Liability9.
+AmendmentsSchedule A: Details of processing of Personal Data Schedule B: Consent Management Parameters 
+      

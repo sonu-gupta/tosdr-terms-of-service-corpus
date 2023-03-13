@@ -1,0 +1,221 @@
+
+        Terms of Service
+
+Last updated: December 1, 2021.
+
+These Customer Terms of Service (âTermsâ) describe the terms under which DeepSource Corp.
+(âDeepSourceâ âUsâ, âWeâ, âOurâ) provides a subscriber (âYouâ, âYourâ, âYourselfâ) access to and use of Our Services.
+By accessing and/or using Our Services,
+a.
+You agree to be bound by these Terms and acknowledge having read the Privacy Policy located at deepsource.io/privacy
+b.
+You warrant to Us that You have attained the age of majority and are legally competent to enter into this agreement.
+c.
+That, in the event You are entering into these Terms on behalf of any entity/company or its group, You possess the requisite authority to bind such entities, company, or its groups to these Terms.
+You and DeepSource shall be hereinafter collectively be referred to as âPartiesâ and individually as âPartyâ.
+1.
+DEFINITIONS
+
+Account means any accounts or instances created by You or on Your behalf for access and use of the Services.
+
+API means the application programming interfaces developed, enabled by or licensed to DeepSource that permits certain functionalities provided by the Services.
+
+Customer Data means all electronic data, text, messages, personal data or other materials, including without limitation Personal Data of Users and end-users, submitted to the Services by You through Your Account in connection with Your use of the Services.
+
+Confidential Information means all information disclosed by one Party to the other Party which is in tangible form and labelled âconfidentialâ (or with a similar legend) or which a reasonable person would understand to be confidential given the nature of the information and circumstances of disclosure.
+Notwithstanding the foregoing, Confidential Information shall not include any information which (a) was publicly known and made generally available in the public domain prior to the time of disclosure by the disclosing party.
+(b) becomes publicly known and made generally available after disclosure by the disclosing party to the receiving party through no action or inaction of the receiving party.
+(c) is already in the possession of the receiving party at the time of disclosure by the disclosing party as shown by the receiving partyâs files and records prior to the time of disclosure.
+(d) is obtained by the receiving party from a third-party without a breach of such third-partyâs obligations of confidentiality.
+(e) is independently developed by the receiving party without use of or reference to the disclosing partyâs Confidential Information, as shown by documents and other competent evidence in the receiving partyâs possession.
+or (f) is required by law to be disclosed by the receiving party, provided that the receiving party shall, to the extent legally permitted, give the disclosing party written notice of such requirement prior to disclosing so that the disclosing party may seek a protective order or other appropriate relief.
+
+Documentation means any written or electronic documentation, images, video, text or sounds specifying the functionalities of the Services provided or made available by DeepSource to You or Your Users through the Services or otherwise.
+
+Personal Data means any information relating to an identified or identifiable natural person that is submitted by You to the Services as part of Customer Data.
+
+Pricing Plan means the price plans made available by DeepSource for Services chosen by You available at deepsource.io/pricing
+
+Privacy Policy means the privacy policy of DeepSource available at deepsource.io/privacy
+
+Process means any operation or set of operations which is performed on Personal Data or on sets of Personal Data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+
+Security Policies and Procedure means security policies and procedures of DeepSource available at deepsource.io/security
+
+Services means the cloud-based proprietary platform of DeepSource (found at deepsource.io enabling code scanning to identify and fix bugs, anti-patterns and performance issues or any new services that DeepSource may introduce as a service to which You may subscribe to, and any updates, modifications or improvements thereto, including individually and collectively, the API, Software and any Documentation.
+
+Software means software provided by Us (either by download or access through the internet) that allows You to use any functionality in connection with the Service(s).
+
+Subscription Charges means all charges associated with Your Account and use of the Services.
+
+Subscription Term means the period during You have agreed to subscribe to the Services as specified in the Pricing Plan.
+
+Third-Party Services shall mean third-party application(s) or service(s) integrating with the Services through APIs or otherwise enabled through the Services.
+
+User means a designated user within the Services, including an Account administrator, agents and other designated users.
+2.
+YOUR RIGHTS
+Subject to Your compliance with these Terms and solely during the Subscription Term, You have the limited, non-exclusive, revocable right to access and use the Services for your internal business purposes in accordance with the subscription plan set forth in the Pricing Plan.
+3.
+YOUR OBLIGATIONS
+
+3.1 Your Account: You can create an Account upon signing up with either your a) GitHub.
+b) Gitlab.
+or c) Bitbucket account (âAccount Partners'').
+Further You agree and authorize us to process any information or data needed to create your Account based on the information You have provided to the Account Partners.
+You agree that your access and use of the Services shall be limited to the number of Users based on the Pricing Plan (defined below) opted by You and that You shall keep your login credentials confidential.
+
+3.2 Acceptable Use: You agree not to (a) license, sublicense, sell, resell, rent, lease, transfer, assign, distribute, time share or otherwise commercially exploit or make the Services available to any third-party, other than Users in furtherance of its internal business purposes as expressly permitted by these Terms.
+(b) modify, adapt, or hack the Services or otherwise attempt to gain or gain unauthorized access to the Services or related systems or networks.
+(c) use the Services to Process any Personal Data.
+(d) violate any law or regulation, including, without limitation, any applicable export control laws, privacy laws or any other purpose not reasonably intended by DeepSource.
+(e) use the Services to store or process any content that infringes upon any personâs intellectual property rights or is unlawful, racist, hateful, abusive, libelous, obscene, or discriminatory.
+or (f) âcrawl,â âscrape,â or âspiderâ any page, data, or portion of or relating to the Services (through use of manual or automated means);
+
+3.3 You represent and warrant to DeepSource that You own or have the necessary rights to provide the Customer Data to DeepSource and that doing so does not violate any applicable law, proprietary or privacy rights.
+DeepSource shall have no liability for any claims with respect to the Services arising in connection with the inaccuracy or insufficiency of Customer Data.
+4.
+SERVICES
+
+4.1 Any enhancements, new features or updates (âUpdatesâ) to the Services are also subject to these Terms and DeepSource reserves the right to deploy Updates at any time.
+
+4.2 The Services may temporarily be unavailable due to scheduled downtime for upgrades and maintenance in which case DeepSource shall use commercially reasonable endeavours to notify You in advance.
+
+4.3 Notwithstanding anything to the contrary contained elsewhere, DeepSource shall not be liable for unavailability of the Services caused by circumstances beyond DeepSourceâs reasonable control, such as, but not limited to, acts of God, acts of government, acts of terror or civil unrest, technical failures beyond DeepSourceâs reasonable control (including, without limitation, inability to access the internet), or acts undertaken by third-parties, including without limitation, distributed denial of service attacks.
+5.
+INTELLECTUAL PROPERTY RIGHTS
+
+5.1 Except for the rights granted You under clause 2, all rights, title and interest in and to all intellectual property and/or proprietary rights, title and interest in or related to the Services, including patents, inventions, copyrights, trademarks, domain names, trade secrets or know-how shall belong to and remain exclusively with DeepSource.
+
+5.2 DeepSource shall have a royalty-free, worldwide, transferable, sub-licensable, irrevocable and perpetual license to incorporate into the Services or otherwise use any suggestions, enhancement requests, recommendations or other feedback it receives from You.
+You own the rights to the Customer Data that You provide to DeepSource.
+DeepSource does not claim ownership over such Customer Data.
+
+5.3 All rights not expressly provided to You are herein are reserved.
+6.
+THIRD-PARTY SERVICES
+You acknowledge and agree that Your use of Third-Party Services will be subject to the terms and conditions and privacy policies of such third-party and that DeepSource shall not be liable for Your enablement, access or use of such Third-Party Services, including for processing of Customer Data by such third-party.
+You should contact that Third-Party Service provider for any issues arising in connection with use of such Third-Party Service.
+7.
+CHARGES AND PAYMENT
+
+7.1 Subscription Charges: The Subscription Charges are due in full and payable in accordance with clause 7.2, when You subscribe to the Services.
+The Subscription Charges are specified on our Website(s) Pricing Plan.
+However, do note that the Subscription Charges are subject to periodic changes/revisions, however such changes shall be promptly communicated to You in advance.
+
+7.2 Payment: You agree to provide Us with your credit card information for billing purposes or shall make the payment through Automated Clearing House (âACHâ) or Wire to DeepSource (âPayment Methodâ), and You represent and warrant that you are authorized to use the designated Payment Method and that You authorize Us (or our third-party payment processor) to charge your Payment Method for the total amount of your Subscription Charges.
+
+7.3 Refunds: Unless otherwise specified in these Terms, all Subscription Charges are non-refundable.
+No refunds shall be issued for partial use or non-use of the Services by You.
+
+7.4 Late Payments/Non-payment of Subscription Charges: You acknowledge that credit card payments are subject to the approval of the card issuer and We will not be liable in any way if a card issuer refuses to accept a payment for any reason.
+We will notify You in the event We do not receive payment towards Subscription Charges within the due date.
+We must receive payments within a maximum of fourteen (14) days from the date of Our notice.
+If We do not receive payment within the foregoing time period, in addition to the right to other remedies available under law, We may suspend Your access to and use of the Service(s) until We receive Your payment towards the Subscription Charges as specified and/or terminate Your Account.
+
+7.5 Applicable Taxes: Unless otherwise stated, the Subscription Charges do not include any taxes, levies, duties or similar governmental assessments, including value-added, sales, use or withholding taxes assessable by any local, state, provincial or foreign jurisdiction (collectively âTaxesâ).
+8.
+TERM, TERMINATION, SUSPENSION
+
+8.1 The Subscription Term shall be as set forth in the relevant Pricing Plan chosen by You.
+
+8.2 Termination by You: You may terminate their Account and subscription to the Services at any time not less than2 business days prior written notice, but You will remain liable for all Subscription Charges for the Subscription Term.
+Unless Your Account and subscription to the Services is terminated, Your subscription to the Services will renew for a Subscription Term equivalent in length to the then expiring Subscription Term at DeepSourceâs then prevailing Subscription Charges.
+
+8.3 Termination and Suspension by DeepSource: DeepSource may suspend or terminate Your access to and use of the Your Account or the Services immediately without any prior written notice if You are in violation of the terms of these Terms.
+
+8.4 Termination for Insolvency: Notwithstanding anything contained herein, either Party may terminate these Terms without notice if the other Party becomes insolvent, makes or has made an assignment for the benefit of creditors, is the subject of proceedings in voluntary or involuntary bankruptcy instituted on behalf of or against such Party (except for involuntary bankruptcies which are dismissed within sixty (60) days, or has a receiver or trustee appointed for substantially all of its property.
+
+8.5 Effect of Terminating Your Account: Following the termination of Your Account either by You or DeepSource, DeepSource shall delete the Customer Data from within the Services immediately upon effective termination of Your Account.
+9.
+CONFIDENTIALITY &amp.
+DATA PROTECTION AND SECURITY
+
+9.1 Confidentiality obligations: Each of the Parties will protect the otherâs Confidential Information from unauthorized use, access or disclosure in the same manner as each of the Parties protects its own Confidential Information, and in any event, no less than reasonable care.
+Except as otherwise expressly permitted under these Terms, each of the Parties may use the otherâs Confidential Information solely to exercise its respective rights and perform its respective obligations under these Terms and shall disclose such Confidential Information solely to those of its respective employees, representatives and agents who have a need to know such Confidential Information for such purposes and who are bound to maintain the confidentiality of, and not misuse, such Confidential Information.
+The provisions of this subsection shall supersede any non-disclosure agreement by and between the Parties entered prior to these Terms that would purport to address the confidentiality of any Confidential Information and such agreement shall have no further force or effect with respect to the Confidential Information.
+
+9.2 You understand and acknowledge that, in connection with the use of the Services, DeepSource may Process any Personal Data in accordance with these Terms and DeepSourceâs Privacy Policy.
+
+9.3 Any source code provided as a part of the Customer Data shall be purged immediately after generating and displaying the bug fix reports except for source code blocks in which issues are identified, to be displayed for reference in the user interface.
+
+9.4 DeepSource may Process Your Customer Data to provide, maintain and improve the Services, or prevent or address any technical problems, or at Your request in connection with support requests.
+
+9.5 You acknowledge and agree that DeepSource may access or disclose information about your Account and Your Users in order to comply with the law or respond to lawful requests or legal process, or prevent any infringement of DeepSourceâs customersâ or DeepSourceâs proprietary rights.
+Further, at DeepSourceâs sole discretion, any suspected fraudulent, abusive, or illegal activity by You may be referred to law enforcement authorities.
+
+9.6 Security of the Services.
+Protection of Your Data: DeepSource shall maintain reasonable administrative, physical, and technical safeguards for protection of the security, confidentiality and integrity of Your Data in accordance with the Security Policies and Procedure.
+These safeguards will include, but will not be limited to, measures designed to prevent unauthorized access to or disclosure of Your Data (other than by Your and Your Users).
+DeepSource shall not be responsible or liable for any deletion, correction, damage, destruction or loss of Your Data that does not arise from a breach by DeepSource of its obligations.
+10.
+DISCLAIMER OF WARRANTIES
+
+10.1 THE SERVICES, INCLUDING ALL SERVER AND NETWORK COMPONENTS ARE PROVIDED ON AN âAS ISâ AND âAS AVAILABLEâ BASIS.
+ALL EXPRESS OR IMPLIED REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY OR NON-INFRINGEMENT, ARE HEREBY EXCLUDED.
+
+10.2 YOU ACKNOWLEDGES THAT DeepSource DOES NOT WARRANT THAT THE ACCESS TO THE SERVICE, WHICH IS PROVIDED OVER INTERNET AND VARIOUS TELECOMMUNICATIONS NETWORKS, ALL OF WHICH ARE BEYOND DeepSourceâS CONTROL, WILL BE UNINTERRUPTED, TIMELY, SECURE, ERROR-FREE OR FREE FROM VIRUSES OR OTHER MALICIOUS SOFTWARE.
+11.
+LIMITATION OF LIABILITIES
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL EITHER PARTY, ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUPPLIERS OR LICENSORS BE LIABLE TO ANY PERSON FOR ANY INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, COVER OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOST PROFITS, LOST REVENUE, LOST SALES, LOST GOODWILL, LOSS OF USE OR LOST CONTENT, IMPACT ON BUSINESS, BUSINESS INTERRUPTION, LOSS OF ANTICIPATED SAVINGS, LOSS OF BUSINESS OPPORTUNITY) HOWEVER CAUSED, UNDER ANY THEORY OF LIABILITY, INCLUDING, WITHOUT LIMITATION, CONTRACT, TORT, WARRANTY, BREACH OF STATUTORY DUTY, NEGLIGENCE OR OTHERWISE, EXCEPT PAYMENT OBLIGATIONS OF YOU EVEN IF EITHER PARTY HAS BEEN ADVISED AS TO THE POSSIBILITY OF SUCH DAMAGES OR COULD HAVE FORESEEN SUCH DAMAGES.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, DeepSourceâS AGGREGATE LIABILITY AND THAT OF ITS AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, SUPPLIERS AND LICENSORS, RELATING TO THE SERVICES, WILL BE LIMITED TO AN AMOUNT EQUAL TO TWELVE MONTHS OF THE SUBSCRIPTION CHARGES PAID FOR THE SERVICES PRIOR TO THE FIRST EVENT OR OCCURRENCE GIVING RISE TO SUCH LIABILITY.
+12.
+INDEMNIFICATION
+
+12.1 Indemnification by DeepSource: Subject to Your compliance with these Terms, DeepSource will indemnify and hold You harmless, from and against any claim brought against You by a third-party alleging that the Services You subscribed to infringes or misappropriates such third-partyâs valid patent, copyright, or trademark (an âIP Claimâ).
+DeepSource shall, at its expense, defend such IP Claim and pay damages finally awarded against You in connection therewith, including the reasonable fees and expenses of the attorneys, provided that (a) You promptly notify DeepSource of the threat or notice of such IP Claim.
+(b) DeepSource has or will have the sole and exclusive control and authority to select defense attorneys, defend and/or settle any such IP Claim.
+and (c) You fully cooperate with DeepSource in connection therewith.
+DeepSource will have no liability or obligation with respect to any IP Claim if such claim is caused by (i) compliance with designs, data, instructions or specifications provided by You.
+(ii) modification of the Services by anyone other than DeepSource.
+or (iii) the combination, operation or use of the Services with other hardware or software where the Services would not by themselves be infringing.
+If use of the Services by You has become, or in DeepSourceâs opinion is likely to become, the subject of any IP Claim, DeepSource may at its own option and expense (a) procure for You the right to continue using the Services as set forth hereunder.
+(b) replace or modify the Services to make it non-infringing.
+or (c) if options (a) or (b) are not commercially and reasonably practicable as determined by DeepSource, terminate Your subscription to the Services and repay You, on a pro-rated basis, any Subscription Charges You have previously paid DeepSource for the corresponding unused portion.
+This clause states DeepSourceâs sole, exclusive and entire liability to You and constitutes Your sole remedy with respect to an IP Claim brought by reason of access to or use of the Services by You.
+
+12.2 Indemnification by You: You will indemnify and hold DeepSource harmless against any claim brought by a third-party against DeepSource, and its respective employees, officers, directors and agents arising from Your acts or omissions in connection with clause 3 of these Terms provided that (a) DeepSource promptly notifies You of the threat or notice of such a claim, (b) You have or will have the sole and exclusive control and authority to select defense attorneys, defend and/or settle any such claim.
+and (c) DeepSource fully cooperates with You in connection therewith.
+You will have no obligation or liability with respect to any such claim arising out of the gross negligence or wilful misconduct of DeepSource.
+13.
+MISCELLANEOUS
+
+13.1 Assignment: Any rights or obligations hereunder may be assigned by DeepSource without the prior written consent of the other Party.
+However, You shall not assign any rights or obligations hereunder without the prior written consent of DeepSource.
+These Terms binds, and inures to the benefit of, the Parties and their respective successors and permitted assigns.
+
+13.2 Entire Agreement: These Terms together with any supplementary terms, constitute the entire agreement, and supersede any and all prior agreements between You and DeepSource with regard to the subject matter hereof.
+These Terms shall prevail over the terms or conditions in any purchase order or other order documentation You or any entity that You represent provides (all such terms or conditions being null and void), and, except as expressly stated herein, there are no other agreements, representations, warranties, or commitments which may be relied upon by either Party with respect to the subject matter hereof.
+In case of a conflict between these Terms and an Pricing Plan, these Terms shall prevail.
+
+13.3 Amendment: We may amend these Terms from time to time, in which case the new Terms will supersede prior versions.
+We will notify You of any material revisions not less than ten (10) days prior to the effective date of any amendments to these Terms and Your continued use of the Services following the effective date of any such amendment may be relied upon by Us as Your acceptance of any such amendment.
+You can review the most current version of the Terms at any time by visiting this page.
+
+13.4 Severability.
+No Waiver: If any provision in these Terms is held by a court of competent jurisdiction to be unenforceable, such provision shall be modified by the court and interpreted so as to best accomplish the original provision to the fullest extent permitted by applicable law, and the remaining provisions of these Terms shall remain in effect.
+DeepSourceâs non-exercise of any right under or provision of these Terms does not constitute a waiver of that right or provision of these Terms.
+
+13.5 Relationship of the Parties: The Parties are independent contractors.
+These Terms do not create a partnership, franchise, joint venture, agency, fiduciary or employment relationship among the Parties.
+
+13.6 Survival: All clauses which, by their nature are intended to survive, including without limitation clauses 1 (Definitions), 5 (Intellectual Property Rights), 7 (Charges and Payment), 9 (Confidentiality), 10 (Disclaimer of Warranties), 11 (Limitation of Liability), 12 (Indemnification), 13 (Miscellaneous) shall survive any termination of DeepSourceâs agreement with respect to use of the Services by You.
+Termination shall not limit either Partyâs liability for obligations accrued as of or prior to such termination or for any breach of these Terms.
+
+13.7 Notices and Consent to Electronic Communications: All notices to be provided by DeepSource to You under these Terms may be delivered in writing (i) by nationally recognized overnight delivery service (âCourierâ) or to the contact mailing address provided by You while subscribing to the Services.
+or (ii) electronic mail to the e-mail address provided for Your Account.
+DeepSourceâs address for a notice to DeepSource in writing by Courier is 2261, Market Street , #4022, San Francisco, California- 94114 with a CC to legal@deepsource.io for electronic mail.
+All notices shall be deemed to have been given immediately upon delivery by electronic mail, or if otherwise delivered upon receipt or, if earlier, two (2) business days after being deposited in the mail or with a Courier as permitted above.
+
+13.8 Publicity Rights: You hereby grant DeepSource the right to identify You as DeepSourceâs customer on DeepSourceâs websites and/or marketing collateral and to include Your use of the Services in case studies.
+
+13.9 Export Control: You shall not export, directly or indirectly, any technical information or products using such information acquired from the other Party under these Terms to a location or in a manner that at the time of export requires an export license or other governmental approval, without first obtaining the written consent to do so in accordance with applicable law.
+You further agree not to use the Services for any purpose prohibited by applicable export laws and regulations, including without limitation, nuclear, chemical, or biological weapons proliferation, or development of missile technology.
+
+13.10 Governing Law and Dispute Resolution: These Terms shall be governed by the laws of State of Delaware, USA without regard to conflict of law principles.
+Any disputes or differences arising under, relating to or connected with these Terms shall be resolved by mediation first, failing which they shall be resolved by final and binding arbitration administered by the American Arbitration Association, in accordance with its commercial arbitration rules for the time being in force.
+The arbitration shall be presided by a sole arbitrator appointed mutually by the Parties.
+The seat and venue of arbitration shall be Wilmington, Delaware and the language used shall be English.
+ANY DISPUTES UNDER THESE TERMS SHALL TAKE PLACE ON AN INDIVIDUAL BASIS.
+CLASS ACTION AND CLASS ARBITRATIONS ARE NOT PERMITTED.
+YOU UNDERSTAND THAT BY AGREEING TO THESE TERMS, YOU WAIVE YOUR RIGHT TO PARTICIPATE IN CLASS ACTIONS.

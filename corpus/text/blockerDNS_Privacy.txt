@@ -1,0 +1,127 @@
+
+         Privacy Information Updated November 12, 2021: Removed section about use of Google Analytics to analyze web site traffic.
+Google Analytics hasn't been used since May 2021.
+For users with logging enabled, added source IP address to list of data points logged for each DNS query.
+Privacy is important! In fact, one of the primary purposes of blockerDNS is to increase privacy while browsing the internet.
+This is an honest one-man operation run by me, Tambe Barsbay.
+My family uses blockerDNS, my friends use it, and I myself use it.
+This privacy policy was written by me, and not a team of lawyers.
+I've tried to keep it as simple and easy to understand as possible but if you have any questions please email support@blockerdns.com.
+Unless otherwise stated, all the policies and explanations apply to a default account that has not opted into additional data logging/collection.
+In other words, the lack of logging and data collection as explained below is the default for all new and existing users.
+However, features like the data analytics dashboard, by their nature, require user data to be logged.
+So for those users that would like to take advantage of these additional tools, the option to explicitly opt-in and turn on logging is offered.
+The relevant privacy information for those that have opted into logging is listed in a separate section below.
+
+Abbreviations
+DoT: DNS over TLSDoH: DNS over HTTPSDo53: Standard DNS over TCP or UDP  Information we collectUse of informationSharing of informationSecurityYour choicesCookiesInformation for users with logging enabledBrowser extensionContacting us 
+ Information we collect To sign up for our service, users must register with an email address and password, which is the extent of personal data we store.
+For users that sign in with their Google account instead of registering directly with blockerDNS, we only store their email address since there is no password needed.
+Our payment processor is Stripe, and their checkout process asks users for the basics needed to charge their credit card.
+They ask for the following: email, credit card number, expiration, CVC, name on card, billing address, phone number, country/region, city, state and ZIP code.
+Before submission of this data, the user's IP address is appended, solely for possible usage towards identifying fraudulent sign-ups.
+We do not retrieve or store any of this data on our servers.
+It is stored only by Stripe and only for the purpose of maintaining a subscription.
+Stripe's privacy policy can be found here.
+We do not log DNS requests, regardless of the protocol (DoT, DoH or Do53).
+We only keep basic track of how often requests are made, and the protocol that was used.
+Depending on the protocol, incoming requests are associated to a specific user in one of two ways.
+For DoT and DoH, requests arrive through unique private URLs that are assigned to users when they sign up.
+For Do53, since requests don't arrive through unique private URLs, they are associated to a user by the source IP address, a registered list of which is customizable by the user on their account page.
+The policy of no DNS request logging applies even in the case of an error during the process.
+The debugging information that is logged only includes the user's username (or IP address for Do53), and does not include any information about the DNS request itself.
+As for why we keep track of how often requests are made, it's solely for the purpose of preventing abuse, with abuse being defined as the user freely disseminating their unique URL or registering IP addresses to their account from the entire internet so that others may use the service without signing up legitimately.
+Abuse of our service will be assumed if the frequency of communication with our servers is very significantly higher than one would expect for a typical account.
+It should be noted though that usage of blockerDNS's service isn't tied to any particular device, and non-business users are encouraged to share their subscription with family and maybe even a friend or two.
+
+Use of information As mentioned above, the only private user data we store is the user's email address.
+The email address is associated with a randomly generated string of letters that we prepend to ".blockerdns.com" to serve as their unique, personal URL that is used to access our service.
+Additionally, we will use this email address to contact the user regarding their service with blockerDNS.
+We may also use the email address to request feedback about the quality of our service from users.
+User emails will never be sold or otherwise provided to any third-party and will never be used for marketing.
+We do not log DNS requests, regardless of the protocol (DoT, DoH or Do53).
+We only keep basic track of how often requests are made, and the protocol that was used.
+Depending on the protocol, incoming requests are associated to a specific user in one of two ways.
+For DoT and DoH, requests arrive through unique private URLs that are assigned to users when they sign up.
+For Do53, since requests don't arrive through unique private URLs, they are associated to a user by the source IP address, a registered list of which is customizable by the user on their account page.
+The policy of no DNS request logging applies even in the case of an error during the process.
+The debugging information that is logged only includes the user's username (or IP address for Do53), and does not include any information about the DNS request itself.
+As for why we keep track of how often requests are made, it's solely for the purpose of preventing abuse, with abuse being defined as the user freely disseminating their unique URL or registering IP addresses to their account from the entire internet so that others may use the service without signing up legitimately.
+Abuse of our service will be assumed if the frequency of communication with our servers is very significantly higher than one would expect for a typical account.
+It should be noted though that usage of blockerDNS's service isn't tied to any particular device, and non-business users are encouraged to share their subscription with family and maybe even a friend or two.
+Our payment processor is Stripe, and their checkout process asks users for the basics needed to charge their credit card.
+They ask for the following: email, credit card number, expiration, CVC, name on card, billing address, phone number, country/region, city, state and ZIP code.
+Before submission of this data, the user's IP address is appended, solely for possible usage towards preventing fraudulent sign-ups.
+We do not retrieve or store any of this data on our servers.
+It is stored only by Stripe and only for the purpose of maintaining a subscription.
+Stripe's privacy policy can be found here.
+As described above, we use Google Analytics to monitor the traffic to our web site.
+Google Analytics is unable to track users of our service, as we block them.
+But visitors to our web site that are not users may read Google's privacy information here.
+
+Sharing of information blockerDNS is not some huge corporation with "affiliates" or "marketing partners" that get to see all your private data.
+This is a small web business run by one person.
+And as mentioned above, user emails, the only private data we store, will never be sold or otherwise provided to any third-party.
+
+Security It goes without saying that security is taken very seriously.
+We know that this what everyone says, but please read on.
+If you sign in to blockerDNS with your Google account, we only access and store your email address.
+As a result, we aren't able to lose your personal private data since we don't have any of it.
+If you signed up for blockerDNS with a direct registration with us, we do have one private piece of your data stored, which of course is your appropriately salted and hashed password.
+(If you enable 2-Step login, we also store that information as well.)
+
+Your choices As an active user there is no data that a user can request to be deleted, since we don't store any personal data on our end.
+The closest thing to private data we store is the user's email, which is needed as a basic identifier so we can provide our service.
+For premium (paid) users only, a minimal amount of private data is stored with our payment processor, Stripe.
+The data that is stored is that which was provided by the user at checkout/sign-up.
+This typically includes email, name, billing address and credit card.
+We typically also append the IP address that a user signed up from (for possible future fraud prevention or mitigation purposes) to the Stripe data.
+Active users generally cannot have this data deleted since it is needed to maintain a subscription.
+(However, if a user insists on having no data with Stripe, we can likely work out a personal solution where, say, they prepay for a certain period of service, and once the payment is processed we can then remove all data from Stripe.
+Or we can come to an agreement on another form of payment, etc.) Inactive users can request that we remove their data from Stripe.
+Removable data would include credit card information and any stored billing address.
+On the blockerDNS side, inactive users additionally can request that we delete their email address from our database since they are no longer using our service by emailing us at support@blockerdns.com.
+However, it should be noted that the email address used to submit the request, along with the email address to be deleted as noted in the email bodyâif it is different, will remain archived in our email storage as with all emails.
+Our email is hosted with Google's G Suite service.
+As a non-user, you may opt out of Google Analytics data collection by using a browser extension provided by Google.
+As a user of our service this is unnecessary as we block Google Analytics as part of our ad and tracker blocking.
+It should be noted that anything regarding Google Analytics only applies to website traffic and not to the actual blockerDNS service for which no tracking or analytics happens.
+
+
+Cookies Please be aware that cookies are only relevant to our website, and not the actual blockerDNS service.
+Our service itself is customizable DNS which doesn't set, or have anything to do with, cookies.
+blockerDNS offers two methods for registration and sign-up.
+The first, signing in with Google, is offered for convenience.
+With this method, users don't need a new sign in and password for our service, we don't need to store their password and so we don't have any private data to even lose because security is outsourced to Google.
+However, for more privacy conscious users that prefer to avoid Google altogether, we also offer the option of signing up directly and securely with blockerDNS.
+blockerDNS sets up to three cookies for the sole purpose of maintaining your sign-in state.
+Additionally, cookies are set by Google Sign-In, Google Analytics and Stripe.
+Google's overall privacy policy can be accessed here.
+Privacy information relating to Google Analytics is available here.
+And Stripe's privacy policy can be found here.
+As mentioned above, this only applies to our website and has nothing to do with our service itself.
+You can sign up for our service, or sign in to our website to edit account settings, and then clear any and all cookies if you prefer since they aren't in any way related to actually using blockerDNS.
+
+Information for users with logging enabled If, and only if, you have enabled logging for your account, data on your DNS requests (essentially your internet browsing history) will be saved.
+Specifically, every DNS request will be saved with your username, a timestamp, the source IP address, the protocol used (i.e., DoT, DoH, etc.), the domain requested and the result of the request (i.e., allowed, blocked, blacklist, etc.).
+This data is used in the data analytics dashboard only.
+It is not sold or otherwise provided to third-parties or monetized in any way.
+You have full control of your data.
+Logging can be disabled at any time, you can download a copy of your data at any time (i.e., if you want to analyze it your own way offline), you can limit how far back your logs go by enabling auto deletion of older data, and you can delete all of your stored data at any time.
+Go to your account settings to manage your data.
+
+Browser extension For users of the blockerDNS extension for Google Chrome, Microsoft Edge or Firefox, the only information we have is that which is provided to us by the respective add-on/extension store (i.e., number of extension downloads, etc.).
+We collect absolutely no information while the extension is being used.
+All of the filtering/ad blocking is done locally by the extension.
+That is to say, the extension does not "phone home" with your data or send any requests back to us.
+We don't even collect the kind of legitimate information lots of other developers do that lets them see how you use their product so they can figure out where things need improving.
+That said, the extension does occasionally talk to the blockerDNS servers for one sole purpose, though, and that is to check if there is an updated version of the ad and tracker block list.
+When the extension is first installed it comes with a built-in list, and we originally planned on putting out a new version of the extension through the Google Chrome, Microsoft Edge or Firefox web stores with a fresh built-in list each time we updated it.
+But the add-on/extension store review processes for new extension versions take a few days.
+And since we prefer users to have the latest block lists as soon as possible, we added the ability for the extension to check for updated lists.
+The request it makes to our server does not include any user information whatsoever.
+No authentication, no id number, nothing.
+
+Contacting us If you have any questions please contact us at support@blockerdns.com.
+
+

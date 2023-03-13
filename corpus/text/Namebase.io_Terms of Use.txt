@@ -1,0 +1,356 @@
+
+        HDNS, a DNS resolver we built to make Handshake domains accessible from any device is live! Set up HDNS Set up HDNS Domain searchAbout HNSBuy/Sell HNSSupportLog InSign UpDomain searchAbout HNSBuy/Sell HNSSupportLog InSign UpLast revised on: March 28, 2019Terms of UseThese Terms of Use (âTermsâ) are a contract between you and Namebase Inc.
+and its wholly-owned subsidiary, Namebase Limited (collectively, âNamebaseâ, âusâ, âourâ, and âweâ).
+
+By signing up to use an account through https://testnet.namebase.io, https://namebase.io, or any associated websites, APIs, or mobile applications (collectively the "Site"), you agree that you have read, understood, and accept all of the terms and conditions contained in these Terms, as well as our Privacy Policy.
+If you do not agree with all of the provisions of these Terms, do not access and/or use the Site.
+
+You may not access or use the Site or accept the Terms if you are not at least 18 years old.
+
+Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.
+All such additional terms, guidelines, and rules are incorporated by reference into these Terms so please read them.
+
+The section titles in these Terms are for convenience only and have no legal or contractual effect.
+The word âincludingâ means âincluding without limitationâ.
+
+
+
+SERVICES
+
+
+
+General Namebase Services.
+Your Namebase account ("Account") encompasses the following basic Namebase services: (i) a hosted wallet that allows you to store, track and manage Handshake Coins only (the "Namebase Wallet").
+(ii) functionality whereby you may sell Handshake Coins to Namebase or purchase Handshake Coins from Namebase.
+and (iii) use of domain name registration and related services on the Handshake Blockchain network (âHandshake Blockchainâ) (collectively the "Namebase Services").
+
+
+
+The Handshake Blockchain.
+The Handshake Blockchain is part of an open source proposal to create a decentralized certificate authority composed of a decentralized blockchain with the intention to replace the current system of centralized trusted internet infrastructure.
+For more information on the operation of the Handshake Blockchain as well as the domain name registration and related functionality of the Handshake Blockchain see https://handshake.org/files/handshake.txt (the âWhitepaperâ).
+Namebase does not own or control the Handshake Blockchain, and all functionality related to domain name registration on the Handshake Blockchain are subject to the underlying protocol rules of the Handshake Blockchain, which functionality may be amended at any time without notice to you or us.
+The Namebase Services do not include any guarantee that the Handshake Blockchain will be functional or remain operational.
+Namebase is not responsible to determine whether the domain name(s) you select, or the use you or others make of the domain name(s), or other use of the Namebase Services or the Handshake Blockchain, infringes legal rights of others.
+It is your responsibility to know whether or not the domain name(s) you select or use or allow others to use infringe legal rights of others.
+
+
+
+The Handshake Coin.
+Users on the Handshake Blockchain must obtain âHandshake Coinsâ in order to engage in transactions for the sale or purchase of domain names on the Handshake Blockchain.
+You understand that the Handshake Coins stored in your Namebase Wallet can only be redeemed for Namebase Services, including for purposes of registering (or requesting to register via an auction) domain names on the Handshake Blockchain and cannot be redeemed for cash or goods or services of any other merchant or third party.
+Handshake Coins are âburnedâ (i.e., removed from circulation) upon redemption for a domain name on the Handshake Blockchain.
+
+
+
+
+
+ACCOUNTS
+
+
+
+Account Creation.
+In order to use the Namebase Services, you must register for an Account and provide certain information about yourself as prompted by the Account registration form.
+You represent and warrant that: (a) all required registration information you submit is truthful and accurate.
+(b) you will maintain the accuracy of such information.
+You may delete your Account at any time, for any reason, by emailing help@namebase.io.
+Namebase may suspend or terminate your Account in accordance with Section 8.
+Namebase may, in its sole discretion, refuse to open an Account for you.
+
+
+
+Account Verification.
+During registration of your Account, you agree to provide us with the information we request for the purposes of identity verification and the detection of money laundering, terrorist financing, fraud, or any other financial crime and permit us to keep a record of such information as required.
+You may be required to complete additional verification procedures before you are permitted to use certain Namebase Services pursuant to our Bank Secrecy Act (âBSAâ) and Anti-Money Laundering (âAMLâ) Compliance Program (collectively, our âBSA/AML Programâ).
+
+
+
+Account Responsibilities.
+You are responsible for maintaining the confidentiality of your Account login information and are fully responsible for all activities that occur under your Account.
+You agree to immediately notify Namebase of any unauthorized use, or suspected unauthorized use of your Account or any other breach of security.
+Namebase cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements.
+You are responsible for keeping your email address up to date in your Account.
+We assume no responsibility for any loss that you may sustain due to compromise of account login credentials due to no fault of Namebase and/or failure to follow or act on any notices or alerts that Namebase may send you.
+You agree to comply with Section 5.3 (Acceptable Use Policy) in connection with your use of your Account and the Namebase Services.
+
+
+
+
+
+NAMEBASE WALLET
+
+
+
+Namebase Wallet.
+Your Namebase Wallet enables you to store, track and manage Handshake Coins contained in your Namebase Wallet and utilize the Namebase Services.
+Your Namebase Wallet can only store Handshake Coins and will not hold any USD, other fiat, or any other virtual currencies (e.g., bitcoin).
+
+
+
+Restrictions: You understand that: (a) all Handshake Coins held in your Namebase Wallet are limited in use.
+(b) Handshake Coins held in your Namebase Wallet can be redeemed solely in connection with the Namebase Services.
+and (c) underlying redemption of Handshake Coins is limited to purchasing (or requesting to purchase via an auction) domain names on the Handshake Blockchain.
+
+
+
+Sale/Purchase of Handshake Coins.
+Eligible users in certain jurisdictions may sell Handshake Coins held in their Namebase Wallet to Namebase for the agreed upon price set forth on the Site.
+Handshake Coins can only be sold to Namebase.
+Namebase does not facilitate the exchange of Handshake Coins to other users or third-parties for other fiat or virtual currencies.
+Namebase may also, in its sole discretion, allow eligible users in certain jurisdictions to purchase Handshake Coins from Namebase.
+All Handshake Coins purchased from Namebase must be held in your Namebase Wallet.
+The Namebase Services facilitate the purchase of Handshake Coins only directly from Namebase from Namebaseâs own inventory.
+Namebase does not facilitate the exchange of fiat or virtual currencies for Handshake Coins between users or third-parties.
+Namebase reserves the right to deny or delay any purchase or sale of Handshake Coins and does not guarantee availability of Handshake Coins for purchase or sale.
+You understand that you may be required to provide additional information and undergo Account verification procedures as set forth by Namebase in order to engage in any such transactions.
+
+
+
+Other Virtual Currencies.
+NAMEBASE CANNOT REVERSE A TRANSACTION WHICH
+HAS BEEN BROADCAST TO THE HANDSHAKE BLOCKCHAIN.
+UNDER NO
+CIRCUMSTANCES SHOULD YOU ATTEMPT TO USE YOUR NAMEBASE WALLET TO
+STORE, SEND, REQUEST, OR RECEIVE VIRTUAL CURRENCIES IN ANY FORM THAT ARE NOT SUPPORTED BY NAMEBASE.
+NAMEBASE IS NOT RESPONSIBLE OR LIABLE IN CONNECTION WITH ANY ATTEMPT TO USE NAMEBASE SERVICES FOR ANY ACTIVITIES OR VIRTUAL CURRENCIES THAT NAMEBASE DOES NOT SUPPORT.
+
+
+
+Operation of Handshake Blockchain.
+Namebase does not own or control the Handshake Blockchain or the underlying software protocols which govern the operation of Handshake on our platform.
+In general, the underlying protocols are open source, and anyone can use, copy, modify, and distribute them.
+By using the Site or Namebase Services, you acknowledge and agree (i) that Namebase is not responsible for operation of the Handshake Blockchain and that Namebase makes no guarantee of their functionality, security, or availability.
+and (ii) that the Handshake Blockchain is subject to sudden changes in operating rules (âforksâ), and that such forks may materially affect the value, function, and/or even the name of Handshake you store in the Namebase platform.
+In the event of a fork, you agree that Namebase may temporarily suspend Namebase operations (with or without advance notice to you) and that Namebase may, in its sole discretion, decide whether or not to support (or cease supporting) either branch of the forked protocol entirely.
+You acknowledge and agree that Namebase assumes absolutely no responsibility whatsoever in respect of an unsupported branch of a forked protocol.
+
+
+
+
+
+ACCESS TO THE SITE AND NAMEBASE SERVICES
+
+
+
+License.
+Subject to these Terms, Namebase grants you a non-transferable, non-exclusive, revocable, limited license to use and access the Site and related content, materials, information (collectively, the "Content") solely for your own personal, noncommercial use.
+Any other use of the Site or Content is expressly prohibited and all other right, title, and interest in the Site or Content is exclusively the property of Namebase and its licensors.
+
+
+
+Certain Restrictions.
+The rights granted to you in these Terms are subject to the following restrictions: (a) you shall not license, sell, rent, lease, transfer, assign, distribute, host, or otherwise commercially exploit the Site, whether in whole or in part, or any content displayed on the Site.
+(b) you shall not modify, make derivative works of, disassemble, reverse compile or reverse engineer any part of the Site.
+(c) you shall not access the Site or Namebase Services in order to build a similar or competitive website, product, or service.
+and (d) except as expressly stated herein, no part of the Site may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means.
+Unless otherwise indicated, any future release, update, or other addition to functionality of the Site shall be subject to these Terms.
+All copyright and other proprietary notices on the Site (or on any content displayed on the Site) must be retained on all copies thereof.
+
+
+
+Modification.
+Namebase reserves the right, at any time, to modify, suspend, or discontinue the Site and the Namebase Services (in whole or in part) with or without notice to you.
+You agree that Namebase will not be liable to you or to any third party for any modification, suspension, or discontinuation of the Site or any part thereof.
+
+
+
+Site and Service Availability.
+Namebase shall use commercially reasonable efforts to attempt to provide the Site and the Services on a twenty-four (24) hours a day, seven (7) days a week basis.
+You acknowledge and agree that from time to time this site may be inaccessible or inoperable for any reason including, but not limited to, equipment malfunctions.
+periodic maintenance, repairs or replacements that Namebase undertakes from time to time.
+or causes beyond our reasonable control or that are not reasonably foreseeable including, but not limited to, interruption or failure of telecommunication or digital transmission links, hostile network attacks, network congestion or other failures.
+You acknowledge and agree that Namebase has no control over the availability of this Site or Services on a continuous or uninterrupted basis, and that Namebase assumes no liability to You or any other party with regard to such, including but not limited to loss of revenue.
+
+
+
+Customer Support and Complaints.
+If you have questions about any aspect of the Services or would like to request assistance in connection with your use of the Services, you can send an email to support@namebase.io or contact us at the address set out below.
+If you are dissatisfied with any aspect of the Services you have received from Namebase, you can send a complaint to complaints@namebase.io.
+We will review the complaint and provide you with a response in writing.
+You may also raise your complaint and seek resolution using the Online Dispute Resolution Platform which can be found at: https://ec.europa.eu/consumers/odr/main/index.cfmevent=main.home2.show&lng=EN
+
+
+
+Ownership of intellectual property rights.
+All the intellectual property rights, including copyrights, patents, trademarks, and trade secrets, in the Site and its content are owned by Namebase or Namebaseâs suppliers.
+Neither these Terms (nor your access to the Site) transfers to you or any third party any rights, title or interest in or to such intellectual property rights, except for the limited access rights set out in Section 4.1.
+Namebase and its suppliers reserve all rights not granted in these Terms.
+There are no implied licenses granted under these Terms.
+
+
+
+
+
+COMPENSATION.
+
+You agree to compensate and hold Namebase (and, to the extent permitted in your jurisdiction, its officers, employees, and agents) harmless, including costs and lawyersâ fees, from any claim or demand made by any third party due to or arising out of (a) your use of the Site, (b) your breach of these Terms, or (c) your breach of applicable laws or regulations.
+Namebase reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to compensate us, and you agree to cooperate with our defense of these claims.
+You agree not to settle any matter without having first obtained written consent from Namebase.
+Namebase will try to notify you of any such claim, action or proceeding upon becoming aware of it.
+
+
+
+THIRD-PARTY LINKS &amp.
+ADS.
+OTHER USERS
+
+
+
+Third-Party Links &amp.
+Ads.
+The Site may contain links to third-party websites and services, and/or display advertisements for third parties (collectively, âThird-Party Links &amp.
+Adsâ).
+Such Third-Party Links &amp.
+Ads are not under the control of Namebase, and Namebase is not responsible for any Third-Party Links &amp.
+Ads.
+Namebase provides access to these Third-Party Links &amp.
+Ads only as a convenience to you, and does not review, approve, monitor, endorse, warrant, or make any representations with respect to Third-Party Links &amp.
+Ads.
+You use all Third-Party Links &amp.
+Ads at your own risk, and should apply a suitable level of caution and discretion in doing so.
+When you click on any of the Third-Party Links &amp.
+Ads, the applicable third partyâs terms and policies apply, including the third partyâs privacy and data gathering practices.
+You should read these carefully and make whatever investigation you feel necessary or appropriate before proceeding with any transaction in connection with such Third-Party Links &amp.
+Ads.
+
+
+
+
+
+LIMITATION ON LIABILITY 
+
+NAMEBASE IS RESPONSIBLE TO YOU ONLY FOR FORESEEABLE LOSS AND DAMAGE CAUSED BY US.
+IF WE DO NOT REASONABLY MEET OUR COMMITMENTS TO YOU, WE ARE RESPONSIBLE FOR LOSS OR DAMAGE YOU SUFFER THAT IS A FORESEEABLE RESULT OF OUR BREAKING THIS CONTRACT OR OUR FAILING TO USE REASONABLE CARE AND SKILL.
+WE ARE NOT RESPONSIBLE FOR ANY LOSS OR DAMAGE THAT IS NOT FORESEEABLE.
+LOSS OR DAMAGE IS FORESEEABLE IF EITHER IT IS OBVIOUS THAT IT WILL HAPPEN OR IF, AT THE TIME THE CONTRACT WAS MADE, BOTH WE AND YOU KNEW IT MIGHT HAPPEN, FOR EXAMPLE, IF YOU DISCUSSED IT WITH US DURING YOUR ACCOUNT CREATION.
+
+
+
+
+
+NAMEBASE IS NOT LIABLE FOR BUSINESS LOSSES.
+IF YOU USE OUR SERVICES FOR ANY COMMERCIAL OR BUSINESS PURPOSE WE WILL HAVE NO LIABILITY TO YOU FOR ANY LOSS OF PROFIT, LOSS OF BUSINESS, BUSINESS INTERRUPTION, OR LOSS OF BUSINESS OPPORTUNITY.
+
+
+
+
+NAMEBASE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY A VIRUS, OR OTHER TECHNOLOGICAL ATTACKS OR HARMFUL MATERIAL THAT MAY INFECT YOUR COMPUTER EQUIPMENT, COMPUTER PROGRAMMES, DATA OR OTHER PROPRIETARY MATERIAL RELATED TO YOUR USE OF THE NAMEBASE SITE AND/OR SERVICES.
+
+
+
+
+
+NAMEBASE IS NOT LIABLE FOR THINGS WHICH ARE OUTSIDE OF OUR CONTROL.
+WE (AND OUR AFFILIATES) CANNOT BE LIABLE FOR OUR INABILITY TO DELIVER OR DELAY AS A RESULT OF THINGS WHICH ARE OUTSIDE OUR CONTROL.
+
+
+
+
+
+NAMEBASE DOES NOT EXCLUDE OR LIMIT IN ANY WAY ITS LIABILITY TO YOU WHERE IT WOULD BE UNLAWFUL TO DO SO.
+THIS INCLUDES LIABILITY FOR DEATH OR PERSONAL INJURY CAUSED BY OUR NEGLIGENCE OR THE NEGLIGENCE OF OUR EMPLOYEES, AGENTS OR SUBCONTRACTORS.
+FOR FRAUD OR FRAUDULENT MISREPRESENTATION.
+
+
+
+ACCOUNT TERMINATION AND SUSPENSION.
+
+
+
+Subject to this Section, these Terms will remain in full force and effect while you use the Site and the Namebase Services.
+
+
+
+We may terminate orsuspend your rightsto use the Site (including your Account) and the Namebase Srvices at any time at our sole discretion, including for any use of the Site, your Account or the Namebase Services without notice in certain circumstances as follows:
+â¢ you breach any provision of these Terms or documents referred to in these Terms.
+â¢ we are requested or directed to do so by any competent court of law, government authority, public agency, or law enforcement agency.
+â¢ we have reason to believe you are in breach of any applicable law or regulation.
+â¢ we have reason to believe you are involved in any fraudulent activity, money laundering, terrorism financing or other criminal or illegal activity.
+or
+â¢ for security reasons, we may suspend your Account or restrict its functionality if we have reasonable concerns about: (i) the security of your Account.
+or (ii) suspected unauthorised or fraudulent use of your Account.
+We will give you notice of any suspension or restriction and the reasons for such suspension or restriction as
+soon as we can and where possible, either before the suspension or restriction is put in place, or immediately after, unless notifying you would be unlawful or compromise our reasonable security measures.
+We will lift the suspension and/or stop the restriction as soon as practicable once the reasons for the suspension and/or restriction no longer exist.
+
+
+
+Upon termination of your rights under these Terms, your Account and right to access and use the Site and Namebase Services will terminate immediately.
+In the event of a termination or suspension of your Account and subject to applicable laws or regulations, Namebase will enable you to liquidate any Handshake Coins or transfer domain names held on Namebase, provided that, if you do not claim and/or liquidate your Handshake Coins or domain names held on Namebase, Namebase will leave such Handshake Coins and/or domain namesin your Wallet or on your Account until they are claimed or are no longer eligible to be claimed by you.
+
+
+
+
+
+GENERAL A.
+Changes.
+These Terms are subject to occasional revision, and if we make any substantial changes, we may notify you by sending you an e-mail to the last e-mail address you provided to us (if any), and/or by prominently posting notice of the changes on our Site.
+You are responsible for providing us with your most current e-mail address.
+If the last e-mail address that you have provided us is not valid, or for any reason is
+not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice.
+Continued use of our Site and the Namebase Services following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+Unless otherwise required by applicable law, any changes to these Terms will be effective upon the earlier of ten (10) calendar days following our dispatch of an e-mail notice to you (if applicable) or immediately following our posting of notice of the changes on our Site and your continued use of our Site and the Namebase Services following the posting of the notice on our Site.
+These changes will be effective immediately for new users of our Site.
+B.
+Disclosures.
+Namebase is located at the address in Section 9.11.
+Namebase and its products are not registered with the U.S.
+Securities and Exchange Commission.
+Namebase does not offer securities services and you understand that investor protections available under the securities or related laws in any jurisdiction do not apply to your use of the Namebase platform or Namebase products.
+C.
+Electronic Communications for Notifying.
+The communications between you and Namebase use electronic means, whether you use the Site or send us emails, or whether Namebase posts notices on the Site or communicates with you via email.
+For contractual purposes, you (a) consent to receive communications from Namebase in an electronic form.
+and (b) agree that all terms and conditions, agreements, notices, disclosures, and other communications that Namebase provides to you electronically satisfy any legal
+requirement that such communications would satisfy if it were be in a hardcopy writing.
+The foregoing does not affect your rights under applicable law.
+D.
+Third Party Rights.
+No other party has any rights under these Terms.
+These Terms are between you and Namebase.
+No other person shall have any rights to enforce any of its terms and neither of us will need to get the agreement of any other person or party in order to end or make any changes to these Terms.
+E.
+Entire Terms.
+These Terms constitute the entire agreement between you and us regarding the use of the Site and your use of Namebase Services.
+These Terms supersede any other previous agreements or terms and conditions.
+These Terms supersede and extinguish all previous agreements between you and Namebase, whether written or oral, relating to the same subject matter.
+F.
+Waiver.
+Even if we delay in enforcing this Agreement, we can still enforce it later.
+If we delay in asking you to do certain things or in taking action, it will not prevent us taking steps against you at a later date.
+G.
+Illegal terms.
+If any provision of these Terms is, for any reason, held to be invalid or unenforceable, the other provisions of these Terms will continue in force be unimpaired and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law.
+H.
+Relationship of the parties.
+Your relationship to Namebase is that of an independent contractor, and neither party is an agent or partner of the other.
+These Terms, and your rights and obligations herein, may not be assigned, subcontracted, delegated, or otherwise transferred by you without Namebaseâs prior written consent.
+Any attempted assignment, subcontract, delegation, or transfer in breach of this Section will not be valid.
+Namebase may freely assign these Terms.
+The terms and conditions set forth in these Terms shall be binding upon assignees.
+I.
+Governing Law.
+These Terms are governed by English law.
+Any dispute between you and us in connection with these Terms may be brought in the courts of England and Wales.
+
+
+
+LEGAL_US_E # 140100879.1 J.
+Copyright/Trademark Information.
+Copyright Â© 2018 Namebase Inc.
+and Namebase LTD.
+All rights reserved.
+All trademarks, logos and service marks (âMarksâ) displayed on the Site are our property or the property of other third parties.
+You are not permitted to use these Marks without our prior written consent or the consent of such third party which may own the Marks.
+K.
+Contact Information:
+Namebase LTD.
+ATTN: CEO
+Address:6 Honduras Street London, United Kingdom EC1Y 0TH
+Telephone: +1 (857) 540-5647
+Email: support@namebase.io
+
+
+
+LearnLearning CenterFAQStatsCompanyAboutBlogPrivacy PolicyTerms of ServiceProductBuy / Sell HandshakeHandshake domainsClaim airdropLeave feedbackAPICommunityNamer NewsCommunityJoin the effortÂ©2021 Namebase, Inc | Banking services are provided by Synapse's bank partners, Members FDIC
+      

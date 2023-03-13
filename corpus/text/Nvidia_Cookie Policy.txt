@@ -1,0 +1,280 @@
+
+         Artificial Intelligence Computing Leadership from NVIDIA 
+
+
+
+
+0 Cart 
+ My Account 
+ Login LogOut 
+
+
+ PLATFORMS Autonomous Machines Cloud &amp.
+Data Center AI &amp.
+Data Science Design &amp.
+Pro Visualization HEALTHCARE &amp.
+LIFE SCIENCES High Performance Computing Networking (Mellanox) Self-Driving Cars Gaming &amp.
+Entertainment other links 
+Developers
+INDUSTRIES
+Shop
+Drivers
+Support
+About NVIDIA
+
+
+View All Products
+GPU TECHNOLOGY CONFERENCE
+NVIDIA Blog
+Community
+Careers
+TECHNOLOGIES
+ Technologies 
+
+
+ ABOUT US Company 
+Overview
+NVIDIA PARTNER NETWORK
+AI Computing Model
+HISTORY
+AWARDS
+EXECUTIVE BIOS
+CORPORATE SOCIAL RESPONSIBILITY
+NVIDIA FOUNDATION
+INVESTORS
+CONTACT US
+ Careers 
+Overview
+LIFE AT NVIDIA
+OPEN POSITIONS
+HOW WE HIRE
+UNIVERSITY RECRUITING
+OUR BENEFITS
+ News 
+Overview
+NEWSROOM
+NVIDIA BLOG
+AI PODCAST
+RESEARCH
+ Events 
+Overview
+EVENTS CALENDAR
+WEBINARS
+GPU TECH CONFERENCE
+
+
+ Company 
+NVIDIA PARTNER NETWORK 
+AI Computing Model 
+HISTORY 
+AWARDS 
+EXECUTIVE BIOS 
+CORPORATE SOCIAL RESPONSIBILITY 
+NVIDIA FOUNDATION 
+INVESTORS 
+CONTACT US 
+
+
+ Careers 
+LIFE AT NVIDIA 
+OPEN POSITIONS 
+HOW WE HIRE 
+UNIVERSITY RECRUITING 
+OUR BENEFITS 
+
+
+ News 
+NEWSROOM 
+NVIDIA BLOG 
+AI PODCAST 
+RESEARCH 
+
+
+ Events 
+EVENTS CALENDAR 
+WEBINARS 
+GPU TECH CONFERENCE 
+
+
+
+
+Company 
+BACK
+Company
+Overview
+NVIDIA PARTNER NETWORK
+AI Computing Model
+HISTORY
+AWARDS
+EXECUTIVE BIOS
+CORPORATE SOCIAL RESPONSIBILITY
+NVIDIA FOUNDATION
+INVESTORS
+CONTACT US
+
+
+Careers 
+BACK
+Careers
+Overview
+LIFE AT NVIDIA
+OPEN POSITIONS
+HOW WE HIRE
+UNIVERSITY RECRUITING
+OUR BENEFITS
+
+
+News 
+BACK
+News
+Overview
+NEWSROOM
+NVIDIA BLOG
+AI PODCAST
+RESEARCH
+
+
+Events 
+BACK
+Events
+Overview
+EVENTS CALENDAR
+WEBINARS
+GPU TECH CONFERENCE
+
+
+ Back to top <div class="no-js-warning">This site requires Javascript in order to view all its content.
+Please enable Javascript in order to access all the functionality of this web site.
+Here are the <a href="http://www.enable-javascript.com/" target="_blank">instructions how to enable JavaScript in your web browser.</a></div&gt.
+COOKIE POLICY A cookie is a small data file made up of letters and numbers which is placed by a website on the device you use to access the Internet.
+Cookies serve different purposes, and may be tied to personal information.
+At NVIDIA, we use cookies to help deliver and improve our websites (such as NVIDIA.com, Geforce.com, and Developer.nvidia.com) through information about website usage and settings, as described below.
+How we use cookies is governed by this Cookie Policy and by our Privacy Policy.
+You can always choose to delete your personal data with NVIDIA by visiting our Privacy Center at any time.
+Most web browsers allow some control over the placing of cookies on your device through your browser settings.
+NVIDIA supports the âDo Not Trackâ setting provided by most web browsers, which allows you to opt-out of your online behavior being tracked while visiting our websites.
+Our system will place cookies on your device when you visit any page on our websites unless you have adjusted your browser settings to not accept cookies.
+Third parties may place cookies on your device when you view advertisements â including NVIDIA advertisements â on their websites, services, or applications.
+These cookies are governed by their respective company privacy policies.
+NVIDIA encourages you to review the privacy statements and cookie policies of the third party websites, services, or applications so you can understand how they may collect, use, and share your information.
+To find out more about cookies, including how to see what cookies have been set and how to block, manage, and delete them, please visit www.allaboutcookies.org/manage-cookies/. TYPES OF COOKIES USED BY NVIDIA 
+Session Cookies
+ âUser input cookiesâ, or session cookies, are used to keep track of a userâs input when submitting online data and allow users to be recognized from one page or selection to another.
+We also use session cookies to provide information youâve requested through an action , such as clicking a button or filling out a web form.
+Session cookies always expire after the browsing session is over.
+
+Persistent Cookies
+ Persistent cookies help websites remember your information, browsing history, and settings when you visit them in the future.
+This results in faster and more convenient access.
+Persistent cookies also help us personalize and improve your experience, which you can opt-in to at anytime through the NVIDIA Privacy Center.
+ Persistent cookies stay in a folder on your device unless you delete them manually, or until they are automatically deleted based on the retention period of the cookieâs folder.
+
+
+
+List of Cookies
+ You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+
+
+
+Functional Cookies
+ These cookies are required to operate parts of the website, such as country (for language settings), account management, event registration, driver installs, or email preferences.
+
+ COOKIE NAME COOKIE TYPE COOKIE/SOURCE PURPOSE/DATA COLLECTED __NV_DD3 __NV_DD3Manual Session cookie  First Party (NVIDIA) Enables suggestion of drivers to download for NVIDIA hardware installed on your device when you request an automated or manual scan of your device at https://www.nvidia.com/Download/index.aspx?lang=en-us.Your hardware GPU details are stored for the browser session.
+__NV_nvJson Persistent cookie (expires after 1 month). First Party (NVIDIA) Recommends the appropriate driver on future visits when you scan your system using the latest driver search tool, GPU analyser, and other device scan options (available at https://www.geforce.com/drivers).
+OperatingSystem ProductSeries ProductSeriesType ProductType Language Persistent cookie (expires after 1 year). First Party (NVIDIA) Stores options you select when you change the drop-down selection via the manual driver search on the NVIDIA driver download page (available at https://www.geforce.com/drivers).
+__NVEU_SSO / __NVSESSION Session cookie  First Party (NVIDIA) Stores login credentials when you log into the email newsletter subscriber profile page.
+__NVEU_UID Persistent cookie (expires after 1 month). First Party (NVIDIA) Stores your unique ID as part of the security verification when you log into the newsletter subscriber profile page.
+NVIDIADefaultLang Persistent cookie (expires after 1 year). First Party (NVIDIA) Remembers the local country site when you select a language.
+On future visits it redirects you to the relevant local site.
+CookiePolicy Persistent cookie (expires after 1 year). First Party (NVIDIA) Accepts this cookie policy once you land on an NVIDIA website page.
+has_js Session cookie First Party (developer.nvidia.com) Drupal uses this cookie to Indicates whether or not the visitorâs browser has JavaScript enabled.
+SSESS Persistent cookie (expires after 23 days). First Party (developer.nvidia.com) Persistent cookie for authenticated user functionality of developer.nvidia.com current_tenant Persistent cookie (expires after 4 days). Third Party (auth0) Allows secure user authentication and ensure the security of the users of our site and the data it contains.
+auth0l Persistent cookie (expires after 4 days). Third Party (auth0) ajs_user_id Persistent cookie (expires after 1 year). Third Party (auth0) _fbp Persistent cookie (expires after 3 months). Third Party (auth0) OptanonConsent Persistent cookie (expires after 6 months). Third Party (auth0) ajs_anonymous_id Persistent cookie (expires after 6 months). Third Party (auth0) AMCV_F207D74D549850760A4C98C6%40AdobeOrg Persistent cookie (expires after 6 months). Third Party (auth0) RrRL1iTsgXOgVF4_ Permanent Cookie First Party (NVIDIA) Allows Nvidia to collect log chunks sent from the same instance of GFN browser client and route them to a specific server node.
+The cookie remains alive for about 24 hours.
+See image attached for expiry time.
+lightstep_guid/gfn-client Persistent Cookie [expires in 1 week] Third Party (Lightstep) Allows Lightstep to group the spans sent from the same client.
+lightstep_session_id Persistent Cookie [expires in 1 week] Third Party (Lightstep) &nbsp.
+unibrow_(var)overlay_(var) Persistent cookie (expires after 30-90 days). First Party (NVIDIA) This cookie hides the overlay and unibrows from returning visitors.
+The unibrow cookie would be enabled if a visitor clicks on the unibrow link or the close icon.
+The overlay cookie would be enabled if the visitor clicks on the Call to Action, the close icon or the surrounding area outside of the overlay.
+
+
+
+
+
+
+Analytics Cookies
+ These cookies are used to better understand and optimize the web experience, such as pages visited or purchases made through our estore .
+
+ COOKIE NAME COOKIE TYPE COOKIE/SOURCE PURPOSE/DATA COLLECTED Icl_cid hatch_cid Persistent cookie (expires after 1 month). First Party (NVIDIA) Helps measure campaign effectiveness when you click through to an NVIDIA page as part of a marketing campaign.
+AMCV_[random string]%40AdobeOrg s_ecid AMCVS_[random string]%40AdobeOrg s_cc s_ppv s_getNewRe peat sc_cmp sc_cvp VisitorID AMCV_[random string]%40AdobeOrg and s_ecid are Persistent cookies (expire after 2 years).
+AMCVS_[random string]%40AdobeOrg, s_cc and s_ppv are Session cookies.
+s_getNewRepeat, sc_cmp, sc_cvp, VisitorID are Persistent cookies (expire after 1 month). First Party (NVIDIA) We also Collects anonymous visitor information about how you utilize our site, such as IP addresses, browser types (such as Internet Explorer, Safari, Mozilla, etc.), referring pages and pages visited.
+We use this information (a) to perform anonymous statistical analysis of Web page traffic patterns, (b) to administer our Website and servers, and (c) to improve our services." Further information about these cookies are available here: https://marketing.adobe.com/resources/help/en_US/whitepapers/cookies/cookies_analytics.html mbox Persistent cookie (expires after 2 weeks). First Party (NVIDIA) Provides the ability to test which online content and offers are most relevant to you.
+Further information about this cookie is available here: https://marketing.adobe.com/resources/help/en_US/whitepapers/cookies/cookies_target.html hatch_cid ncid ps-utid ps-utparam hatch_cid, ncid are Persistent cookies(expire after 1 month).
+ps-utid, ps-utparam are Persistent cookies (expire after 1 day). First Party (NVIDIA) Helps measure campaign effectiveness when you click through to an NVIDIA page as part of a marketing campaign.
+_mkto_trk Persistent cookie (expires after 2 years). First Party (NVIDIA) Provides information about activities (i.e., clicks) performed on NVIDIA.com web pages during your visit.
+_sdsat_6sui _sdsat_6suc _sdsat_6sui, _sdsat_6suc are Session cookies. First Party (NVIDIA) Collects information associated with your IP address including, if applicable, your place of work and other public industry details.
+Icl_session_key Persistent cookie (expires after 1 month). Third Party (hatch.com) Helps measure campaign effectiveness when you click from an NVIDIA store page to a partner e-tailer website to make a purchase.
+Nvuserpreflang Persistent cookie (expires after 1 year). First Party (NVIDIA) Remembers your preferred region on most NVIDIA websites.
+gfn-locale Session cookie First Party (NVIDIA) Remembers your preferred region when you visit the GeForce NOW section of NVIDIA.com nv.nvidmData Persistent cookie (expires after 20 minutes of user inactivity). First Party (NVIDIA) Stores session information.
+The cookie is created when the user first logs in and is deleted when the user logs out.
+nv.nvidmNoissesPersist Persistent cookie (expires after 3 months). First Party (NVIDIA) Stores long term session.
+This cookie is created when the user first logs in and is deleted when the user logs out.
+accessToken Session cookie First Party (NVIDIA) Saves a token used for the Checkout process.
+Edge Persistent cookie (expires after 2 years).
+ Third Party (NVIDIA) Helps measure campaign effectiveness, and content performance.
+This cookie is used to serve relevant products to shoppers based on browsing behavior.
+uid di/dt bt uvc ssc/psc/uvc loc Persistent cookie (expires after 1 month). Third Party (addthis.com ) Allows addthis.com to collect data in accordance with its policies (available at addthis.com/privacy).
+These cookies collect data about your usage of NVIDIAâs websites, and addthis collates this data in the aggregate.
+(UID) Uniquely assigned machine-generated user ID.
+(DI/DT) Maintenance cookies that help manage expiration for other cookies.
+(BT) User interest modelling.
+(UVC) Measures repeat shares.
+(SSC/PSC/UVC) These cookies are used in recording user sharing and social activity.
+_cs_id,
+_cs_s,
+_cs_vars,
+_cs_ex,
+_cs_c,
+_cs_optout
+cs_vars is a session cookie and expires at the end of session.
+_cs_s is a persistent cookie and expires after 30 minutes.
+_cs_ex is a persistent cookie and expires after 30 days.
+_cs_id, _cs_c, _cs_optout are persistent cookies and expires after 13 months. Third Party (NVIDIA) _cs_id cookie contains ContentSquare's user identifier
+_cs_s cookie contains the number of pageviews within the running session for ContentSquare Solution
+_cs_vars cookie is used by ContentSquare to record custom variables
+_cs_ex cookies is used by ContentSquare to exclude some visitors from the collection
+_cs_c cookies is used by ContentSquare to save the user consent to be tracked
+_cs_optout cookies is used by ContentSquare to exclude some visitors from the collection
+ContentSquare is a solution which aggregates usage and frequency data to improve user experience.
+Statistics created are anonymous.
+ Corporate Social Responsibility 
+ Current Report 
+ Social Impact of the GPU 
+ NVIDIA Foundation 
+ Product Recycling 
+ Report Archive 
+ Communities 
+ NVIDIA Partner Network 
+ GeForce Forums 
+ Developer Forums 
+ Cuda Zone 
+ Resources 
+ Contact Us 
+ Privacy Policy 
+ Privacy Center 
+ Company Policies 
+ GPU Ventures 
+ GTC On-Demand 
+ NVIDIA Blog 
+ Find Us Online Facebook Twitter YouTube Twitch NVIDIA UK - UNITED KINGDOM 
+ Privacy Policy 
+ Legal Info 
+ Contact Us 
+ Copyright Â© 2020 NVIDIA Corporation NVIDIA websites use cookies to deliver and improve the website experience.
+See our cookie policy for further details on how we use cookies and how to change your cookie settings.
+NVIDIA websites use cookies to deliver and improve the website experience.
+See our cookie policy for further details on how we use cookies and how to change your cookie settings.
+Accept 
+      

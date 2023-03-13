@@ -1,0 +1,267 @@
+
+Effective date: May 7th, 2021.
+These Terms of Service, as amended from time to time (âTermsâ), are entered into by and between FingerprintJS, Inc., a Delaware corporation (âFingerprintJSâ), and the customer identified during Onboarding (âCustomerâ).
+âOnboardingâ means the process by which Customer procures from FingerprintJS a subscription to use the Service through a self-service sign-up process made available on FingerprintJSâs website.
+These Terms and any terms agreed-to during Onboarding are collectively referred to herein as the âAgreementâ.
+By accessing or using the Service (as defined below) or clicking a button or checking a box marked âSubmitâ, âI Agreeâ, âI Acceptâ, or something similar, or by otherwise affirmatively manifesting assent to this Agreement, Customer signifies that Customer has read, understood, and agrees to be bound by this Agreement as of Customerâs completion of Onboarding (such date, the âEffective Dateâ).
+
+
+FingerprintJS Service.
+
+Subscription.
+Subject to the terms and conditions of this Agreement, and in each case solely during the Subscription Term: (a) FingerprintJS hereby grants Customer a limited, revocable, non-exclusive, non-transferable (except in compliance with Section 13.i) right and license to install the Agent on the Customer Website solely as necessary to use the Service in accordance with the Documentation.
+and (b) Customer and its Users may remotely access the Dashboard.
+Such use is limited to Customer's internal use.
+Customer and each User must keep Credentials confidential and not share them with anyone else.
+Customer is responsible for (i) its Usersâ compliance with this Agreement and actions taken through their Credentials and (ii) disabling access to the Service by any User who is no longer an employee of Customer.
+
+Restrictions.
+Customer shall not use the Service for any purposes beyond the scope of the access granted in this Agreement.
+Customer shall not at any time, directly or indirectly (and shall not allow and third party to): (a) copy, modify, or create derivative works of the Service or any component thereof.
+(b) rent, lease, lend, sell, license, sublicense, assign, distribute, publish, transfer, or otherwise make available the Service or any component thereof.
+(c) reverse engineer, disassemble, decompile, decode, adapt, or otherwise attempt to derive or gain access to the Agent or any other software component of the Service, in whole or in part.
+(d) remove any proprietary notices from the Service or any component thereof.
+(e) use the Service or any component thereof in any manner or for any purpose that infringes, misappropriates, or otherwise violates any intellectual property right or other right of any person, or that violates any applicable law.
+or (f) use the Service or any component thereof for any benchmarking purpose or for the purpose of developing or assisting in the development of a product or service that competes with the Service or that utilizes functions and features similar to those of the Service.
+
+
+
+Support Terms.
+During the Subscription Term, FingerprintJS will use commercially reasonable efforts to respond in a timely manner to support tickets sent by Customer to support@fingerprintjs.com.
+
+Data Rights.
+
+Visitor Data.
+
+License Grant.
+Customer grants FingerprintJS a non-exclusive, non-transferable (except in compliance with Section 13.i) right and license to: (i) use, copy, store, transmit, display, modify and create derivative works of Visitor Data as necessary to provide the Service to Customer under this Agreement and as otherwise described in the Privacy policy.
+and (ii) aggregate the Visitor Data with other data in a de-identified form and may use such derived data for any lawful purpose both during and after the Subscription Term.
+Data Processing.
+To the extent FingerprintJS processes any Personal Information contained in the Visitor Data, FingerprintJS will process such Personal Information solely under the instruction of and on behalf of Customer.
+If Customer is established in the European Economic Area, the United Kingdom, or Switzerland, or if any Personal Information contained in the Visitor Data otherwise falls within the scope of the European Data Privacy Legislation, FingerprintJS will process any such Personal Information in accordance with FingerprintJSâs GDPR data processing addendum, which will be incorporated by reference into this Agreement and can be accessed at https://dev.fingerprintjs.com/docs/dpa-gdpr (as modified from time to time).
+If Customer is subject to the California Consumer Privacy Act and its implementing regulations (âCCPAâ) and the Personal Information includes Personal Information of California residents, FingerprintJS will process any such Personal Information in accordance with FingerprintJSâs CCPA data processing addendum, which will be incorporated by reference into this Agreement and can be accessed at https://dev.fingerprintjs.com/docs/dpa-ccpa (as modified from time to time).
+Notwithstanding the foregoing, if the parties agree in writing to use a different data processing addendum, such data processing addendum will apply in lieu of either of the foregoing data processing addenda.
+
+
+Usage Data.
+FingerprintJS may collect Usage Data and use it to operate, improve and support the Service and for other lawful business practices, such as analytics, benchmarking and reports.
+However, FingerprintJS will not disclose Usage Data to third parties, including in benchmarks or reports, unless it has been (a) de-identified so that it does not individually identify Customer, its Users or any other person and (b) aggregated with usage data across other FingerprintJS customers.
+Security.
+FingerprintJS uses reasonable technical and organizational measures designed to protect the Service and Visitor Data.
+
+
+
+
+Customer Obligations.
+Customer (a) is solely responsible for its Visitor Data (including its content) and compliance with all Applicable Laws in its use of the Service and (b) represents and warrants that it has made all necessary disclosures and obtained all necessary consents required for its submission of data and granting of rights to FingerprintJS under this Agreement without violating or infringing any third-party intellectual property or privacy rights or Customer or third-party terms of service or privacy policies.
+
+Commercial Terms.
+
+Types of Plans.
+As described on the FingerprintJS pricing page (located at https://fingerprintjs.com/pricing/) (the âPricing Pageâ), two tiers of the Service are made available by FingerprintJS: (a) a free tier (âFree Planâ) and (b) a paid tier (âPaid Planâ).
+Except as otherwise expressly noted, both the Free Plan and Paid Plan are subject to the terms of this Agreement.
+Fees and Taxes.
+Fees are as described on the Pricing Page.
+All fees and expenses are non-refundable except as set out in Section 10.i (FingerprintJS Indemnity).
+Customer is responsible for any sales, use, GST, value-added, withholding or similar taxes or levies that apply to any amounts payable by Customer hereunder, whether domestic or foreign (âTaxesâ), other than FingerprintJSâs income tax.
+Fees and expenses are exclusive of Taxes.
+
+Payment.
+Billing.
+Customer must provide FingerprintJS with a current, valid accepted method of payment (as it may be updated from time to time, âPayment Methodâ) in order to purchase and use a Paid Plan.
+FingerprintJS uses a third party payment processor (currently Stripe, Inc.
+(âStripeâ)) to process payments using the provided Payment Method.
+By starting a Paid Plan and providing or designating a Payment Method, Customer agrees to be bound by Stripeâs Services Agreement available at https://stripe.com/us/legal and further authorizes FingerprintJS to charge Customer any applicable fees at the then current rate, and any other charges Customer may incur in connection with Customerâs use of the Service, to Customerâs Payment Method.
+Customer acknowledges that the amount billed each period may vary for reasons that may include the particular number of Unique Browser Instances during such period, different plan options or services, promotional offers, and/or changing a plan, and Customer authorizes FingerprintJS to charge Customerâs Payment Method for such varying amounts, which may be billed in one or more charges.
+Fees for the Service may be billed at the beginning of the applicable billing cycle or at a later period, depending on the specific details of the Customerâs Paid Plan (as described on the Pricing Page).
+After Customerâs initial billing cycle, and again after any subsequent billing cycle, Customerâs subscription will automatically commence on the first day following the end of such period (each a âRenewal Commencement Dateâ) and continue for an additional equivalent period, at FingerprintJSâs then-current price for such subscription.
+Customer agrees that its Payment Method will be subject to this automatic renewal feature unless Customer cancels its subscription at least thirty (30) days prior to the Renewal Commencement Date.
+By subscribing, Customer authorizes FingerprintJS to charge Customerâs Payment Method for the initial billing cycle and any subsequent billing cycle.
+Customer reserves the right to change the timing of its billing as indicated in this Section 5.iii.
+FingerprintJS may authorize your Payment Method in anticipation of subscription or other charges.
+Fee Changes.
+FingerprintJS, in its sole discretion and at any time, may modify the fees for the Service.
+Any fee change will become effective at the end of the then-current billing cycle.
+FingerprintJS will provide Customer with reasonable prior notice of any change in fees.
+Customerâs continued use of Service after a fee change comes into effect constitutes Customerâs agreement to pay the modified fee amount.
+Suspension of Service.
+FingerprintJS may suspend Customerâs access to the Service if (a) Customer breaches Section 1.ii (Restrictions) or Section 4 (Customer Obligations), (b) if Customerâs account is 30 days or more overdue or (c) if Customerâs actions risk harm to other customers or the security, availability or integrity of the Service.
+Where practicable, FingerprintJS will use reasonable efforts to provide Customer with prior notice of the suspension.
+Once Customer resolves the issue requiring suspension, FingerprintJS will promptly restore Customerâs access to the Service in accordance with this Agreement.
+
+
+
+Warranty Disclaimer.
+
+Disclaimers.
+THE SERVICE IS PROVIDED âAS ISâ.
+FINGERPRINTJS AND ITS SUPPLIERS MAKE NO OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NONINFRINGEMENT.
+FINGERPRINTJS DOES NOT WARRANT VISITOR DATA WILL BE ACCURATE OR PRESERVED WITHOUT LOSS.
+FINGERPRINTJS IS NOT LIABLE FOR DELAYS, FAILURES OR PROBLEMS INHERENT IN USE OF THE INTERNET AND ELECTRONIC COMMUNICATIONS OR OTHER SYSTEMS OUTSIDE FINGERPRINTJSâS CONTROL.
+FEATURES OF THE SERVICE DESIGNED TO DETECT AND FILTER CATEGORIES OF DATA HAVE INHERENT LIMITATIONS.
+FINGERPRINTJS DOES NOT GUARANTEE THAT THE SERVICE WILL DETECT OR FILTER ALL DATA WITH COMPLETE ACCURACY.
+CUSTOMER IS SOLELY RESPONSIBLE FOR ITS OWN DATA HANDLING POLICIES.
+CUSTOMER MAY HAVE OTHER STATUTORY RIGHTS, BUT ANY STATUTORILY REQUIRED WARRANTIES WILL BE LIMITED TO THE SHORTEST LEGALLY PERMITTED PERIOD.
+
+
+
+
+Term and Termination.
+
+Term.
+This Agreement starts on the Effective Date and continues until terminated in accordance with this Agreement (the âSubscription Termâ).
+
+Termination.
+Either party may terminate this Agreement if the other party (a) fails to cure a material breach of this Agreement (including a failure to pay fees) within 30 days after written notice, (b) ceases operation without a successor or (c) seeks protection under a bankruptcy, receivership, trust deed, creditorsâ arrangement, composition or comparable proceeding, or if such a proceeding is instituted against that party and not dismissed within 60 days.
+Notwithstanding anything to the contrary in this Agreement, FingerprintJS may, in its sole and absolute discretion (x) terminate any Free Plan at any time and for any reason without notice and (y) terminate any Paid Plan for any reason with thirty (30) daysâ prior written notice.
+Effect of Termination.
+Upon expiration or termination of this Agreement, (a) Customerâs right to use the Service (including its license to any Agent) will terminate, and (b) Customer shall immediately cease any and all use of and access to the Service.
+At the disclosing partyâs request upon expiration or termination of this Agreement, the receiving party will delete all of the disclosing partyâs Confidential Information (as defined in Section 11) in its possession or control.
+Customer acknowledges that following termination it shall have no further access to any Visitor Data input into the Service, and that FingerprintJS may delete any such data as may have been stored by FingerprintJS at any time.
+Visitor Data and other Confidential Information may be retained in the receiving partyâs standard backups after deletion but will remain subject to this Agreementâs confidentiality restrictions.
+Survival.
+These Sections survive expiration or termination of this Agreement: 1.ii (Restrictions), 3.i (Visitor Data) (but solely as it relates to derived data), 3.ii (Usage Data), 4 (Customer Obligations), 5.ii (Fees and Taxes), 6.i (Disclaimers), 7.iii (Effect of Termination), 7.iv (Survival), 8 (Ownership), 9 (Limitations of Liability), 10 (Indemnification), 11 (Confidentiality), 13 (General Terms) and 14 (Definitions).
+Except where an exclusive remedy is provided, exercising a remedy under this Agreement does not limit other remedies a party may have.
+
+
+
+Ownership.
+Neither party grants the other any rights or licenses not expressly set out in this Agreement.
+Except for FingerprintJSâs use rights in this Agreement, between the parties Customer retains all intellectual property and other rights in Visitor Data provided to FingerprintJS.
+Except for Customerâs limited license and use rights set forth in Section 1 of this Agreement, FingerprintJS and its licensors retain all intellectual property and other rights in the Service and any related FingerprintJS technology, including any modifications or improvements to these items made by FingerprintJS.
+If Customer provides FingerprintJS with feedback or suggestions regarding the Service or other FingerprintJS offerings, FingerprintJS may use the feedback or suggestions without restriction.
+
+Limitations of Liability.
+
+Consequential Damages Waiver.
+NEITHER FINGERPRINTJS NOR ITS SUPPLIERS WILL HAVE ANY LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT FOR ANY LOSS OF USE, LOST DATA, LOST PROFITS, FAILURE OF SECURITY MECHANISMS, INTERRUPTION OF BUSINESS OR ANY INDIRECT, SPECIAL, INCIDENTAL, RELIANCE OR CONSEQUENTIAL DAMAGES OF ANY KIND, EVEN IF INFORMED OF THEIR POSSIBILITY IN ADVANCE.
+
+Liability Cap.
+FINGERPRINTJSâS (AND ITS SUPPLIERSâ) ENTIRE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT WILL NOT EXCEED IN AGGREGATE THE AMOUNTS PAID OR PAYABLE BY CUSTOMER TO FINGERPRINTJS DURING THE 12 MONTHS IMMEDIATELY PRECEDING THE CLAIM (OR, IF FEWER THAN 12 MONTHS HAVE ELAPSED UNDER THE AGREEMENT, THE AVERAGE MONTHLY FEES PAID OR PAYABLE BY CUSTOMER TO FINGERPRINTJS UNDER THE AGREEMENT MULTIPLIED BY 12).
+Nature of Claims and Failure of Essential Purpose.
+The waivers and limitations in this Section 9 apply regardless of the form of action, whether in contract, tort (including negligence), strict liability or otherwise and will survive and apply even if any limited remedy in this Agreement fails of its essential purpose.
+
+
+
+Indemnification.
+
+FingerprintJS Indemnity.
+FingerprintJS will defend Customer from and against any third-party claim to the extent alleging that the Service, when used as authorized by Customer, infringes a third-partyâs U.S.
+patent, copyright or trademark, and will indemnify Customer against any damages or costs awarded against Customer (including reasonable attorneysâ fees) or agreed in settlement by FingerprintJS resulting from the claim.
+In response to an actual or potential infringement claim, if required by settlement or injunction or as FingerprintJS determines necessary to avoid material liability, FingerprintJS may at its option: (a) procure rights for Customerâs continued use of the Service, (b) replace or modify the alleged infringing portion of the Service to avoid infringement without reducing the Serviceâs overall functionality or (c) terminate Customerâs access to the infringing portion of the Service and refund to Customer any pre-paid, unused fees for the terminated portion of the applicable Subscription Term.
+FingerprintJSâs obligations in this Section 10 do not apply (i) to infringement resulting from Customerâs modification of the Agent or use of the Service in combination with items not provided by FingerprintJS, (ii) to infringement resulting from use of a non-supported version of the Agent, (iii) to unauthorized use of the Service, or (iv) if Customer settles or makes any admissions about a claim without FingerprintJSâs prior written consent.
+This Section 10 sets out Customerâs exclusive remedy and FingerprintJSâs entire liability regarding infringement of third-party intellectual property rights.
+Customer Indemnity.
+At FingerprintJSâs request, Customer will defend FingerprintJS and its affiliates from and against any third-party claim based upon or arising from Visitor Data or FingerprintJSâs collection, storage, or processing thereof in compliance with this Agreement, and, regardless of whether FingerprintJS requests Customer to defend against such a claim, will indemnify FingerprintJS and its affiliates against any damages or costs awarded against FingerprintJS or its affiliates (including reasonable attorneysâ fees) or agreed in settlement by Customer resulting from the claim.
+Indemnity Procedures.
+The party seeking defense and indemnification hereunder (the âIndemnified Partyâ) must provide the party from whom indemnification is sought (the âIndemnifying Partyâ): (a) prompt written notice of any claim for which indemnification is sought (provided that a failure to provide such notice will not relieve the Indemnifying Party of its obligations under this Section 10 except to the extent material prejudice results from such failure).
+(b) all reasonable cooperation, at the Indemnifying Partyâs request and expense, in the defense and settlement of the claim.
+and (c) sole control of the defense and settlement of the claim (provided that (i) where Customer is the Indemnifying Party, such control only accrues to the extent FingerprintJS requests Customerâs defense of the claim and (ii) the Indemnifying Party may not agree to any settlement that places any obligation on the Indemnified Party without the Indemnified Partyâs written consent, not to be unreasonably withheld, conditioned, or delayed).
+
+
+
+Confidentiality.
+
+Definition.
+âConfidential Informationâ means information disclosed under this Agreement that is designated by the disclosing party as proprietary or confidential or that should be reasonably understood to be proprietary or confidential due to its nature and the circumstances of its disclosure.
+FingerprintJSâs Confidential Information includes the terms and conditions of this Agreement and any technical or performance information about, and all nonpublic aspects of, the Service.
+
+Obligations.
+As receiving party, each party will (a) hold in confidence and not disclose Confidential Information to third parties except as permitted in this Agreement, and (b) only use Confidential Information to fulfill its obligations and exercise its rights in this Agreement.
+The receiving party may disclose Confidential Information to its employees, agents, contractors and other representatives having a legitimate need to know (including, for FingerprintJS, the subcontractors referenced in Section 13.ix), provided it remains responsible for their compliance with this Section 11 and they are bound to confidentiality obligations no less protective than this Section 11.
+Exclusions.
+These confidentiality obligations do not apply to information that the receiving party can document (a) is or becomes public knowledge through no fault of the receiving party, (b) it rightfully knew or possessed prior to receipt under this Agreement, (c) it rightfully received from a third party without breach of confidentiality obligations or (d) it independently developed without using the disclosing partyâs Confidential Information.
+The receiving party may disclose Confidential Information if required by Applicable Laws, subpoena or court order, provided (if permitted by Applicable Laws) it notifies the disclosing party in advance and cooperates in any effort to obtain confidential treatment.
+
+Remedies.
+Unauthorized use or disclosure of Confidential Information may cause substantial harm for which damages alone are an insufficient remedy.
+Each party may seek appropriate equitable relief, in addition to other available remedies, for breach or threatened breach of this Section 11.
+
+
+
+Publicity.
+Neither party may publicly announce this Agreement except with the other partyâs prior written consent or as required by Applicable Laws.
+However, FingerprintJS may include Customer and its trademarks in FingerprintJSâs customer lists and promotional materials but will cease this use at Customerâs written request.
+
+General Terms.
+
+Assignment.
+Neither party may assign this Agreement without the prior written consent of the other party, except that either party may assign this Agreement in connection with a merger, reorganization, acquisition or other transfer of all or substantially all its assets or voting securities.
+Any non-permitted assignment is void.
+This Agreement will bind and inure to the benefit of each partyâs permitted successors and assigns.
+Governing Law, Jurisdiction and Venue.
+This Agreement is governed by the laws of the State of Delaware and the United States without regard to conflicts of laws provisions and without regard to the United Nations Convention on the International Sale of Goods.
+The jurisdiction and venue for actions related to this Agreement will be the state and United States federal courts located in New Castle County, Delaware and both parties submit to the personal jurisdiction of those courts.
+Notices.
+Except as set out in this Agreement, notices under this Agreement must be in writing to the addresses on the first page.
+Either party may update its address with notice to the other party.
+FingerprintJS may also send operational notices to Customer by email or through the Service.
+Entire Agreement.
+This Agreement is the partiesâ entire agreement regarding its subject matter and supersedes any prior or contemporaneous agreements regarding its subject matter.
+In this Agreement, headings are for convenience only and âincludingâ and similar terms are to be construed without limitation.
+The terms in any Customer purchase order or business form will not amend or modify this Agreement and are expressly rejected by FingerprintJS.
+any of these Customer documents are for administrative purposes only and have no legal effect.
+Amendments.
+FingerprintJS may, in its sole discretion and from time to time, modify this Agreement by posting a revised version of this Agreement on its website.
+If FingerprintJS modifies the Agreement, FingerprintJS will use commercially reasonable efforts to notify Customer of the changes.
+If Customer does not agree to the revised Agreement, then Customer may not use or continue to use the Service.
+Changes will become effective no sooner than seven (7) days after they are posted.
+provided that changes addressing new functions or changes made for legal reasons will be effective immediately.
+Waivers and Severability.
+Waivers must be signed by the waiving partyâs authorized representative and cannot be implied from conduct.
+If any provision of this Agreement is held invalid, illegal or unenforceable, it will be limited to the minimum extent necessary so the rest of this Agreement remains in effect.
+
+Audit Rights.
+Upon FingerprintJSâs written request, Customer shall certify in a signed writing that Customerâs use of the Service is in full compliance with the terms of this Agreement.
+Force Majeure.
+Neither party is liable for any delay or failure to perform any obligation under this Agreement (except for a failure to pay fees) due to events beyond its reasonable control, such as a strike, blockade, war, act of terrorism, riot, internet or utility failures, refusal of government license or natural disaster.
+Subcontractors.
+FingerprintJS may use subcontractors and permit them to exercise FingerprintJSâs rights, but FingerprintJS remains responsible for their compliance with this Agreement and for its overall performance under this Agreement.
+Independent Contractors.
+The parties are independent contractors, not agents, partners or joint venturers.
+Open Source.
+Certain aspects of the Service may contain or be provided with third-party components subject to the terms and conditions of âopen sourceâ software licenses (âThird-Party
+Open Sourceâ).
+Third-Party Open Source may be identified in the Service (or a portion thereof), the Documentation, or FingerprintJS shall provide a list of the Third-Party Open Source to Customer upon Customerâs written request.
+To the extent required by the license that accompanies the Third-Party Open Source, the terms of such license will apply in lieu of the terms of this Agreement with respect to such Third-Party Open Source, including, without limitation, any provisions governing access to source code, modification, or reverse engineering.
+For clarity, Third-Party Open Source does not include any open source software created by FingerprintJS.
+
+
+
+Definitions.
+
+
+âAgentâ means the FingerprintJS JavaScript agent and any related code that the Customer installs on the Customer Website in connection with its use of the Service.
+âApplicable Lawsâ means all relevant local, state, federal and international laws, regulations and conventions, including those related to data privacy and data transfer, international communications and export of technical data or Personal Information.
+âBrowserâ means a particular software application designed to allow interactive access to the World Wide Web such as, by way of example and without limitation, Google Chrome, Firefox, Apple Safari, and Microsoft Edge.
+âCredentialsâ means user IDs, passwords, accounts, license keys or other Service access mechanisms provided by FingerprintJS.
+âCustomer Websiteâ means the website of Customer on which the Agent is installed.
+âDashboardâ means the hosted user interface made available by FingerprintJS at https://dashboard.fingerprintjs.com through which Customer can access certain information in connection with the Service.
+"Documentation" means the documentation made available to Customer by FingerprintJS for use with the Service at https://dev.fingerprintjs.com/docs (as modified from time to time).
+"European Data Privacy Legislation" means, as applicable: (i) Regulation (EU) 2016/679.
+(ii) the "UK GDPR" as defined in The Data Protection, Privacy and Electronic Communications (Amendment Etc.) (EU Exit) Regulations 2019.
+and (iii) the Swiss Federal Act on Data Protection 1992 (as amended).
+âPersonal Informationâ means information relating to identified or identifiable natural persons that may be included within Visitor Data.
+âPrivacy Policyâ means the FingerprintJS Privacy Policy, the current version of which is available at https://dev.fingerprintjs.com/docs/privacy-policy (as modified from time to time).
+âServiceâ means FingerprintJSâs proprietary fingerprinting-as-a-service offering, FingerprintJS.
+The Service includes the Dashboard, the Agent, and the server-side software that analyzes Visitor Data.
+âUnique Browser Instanceâ means a single instance of a single Browser on a single device initiated by a visitor to the Customer Website in an individual calendar month.
+[1] 
+âUsage Dataâ means technical, log, usage and other data related to Customerâs general use of the Service.
+âUserâ means any employee or contractor of Customer that Customer allows to use the Service on its behalf.
+âVisitor Dataâ means the Customer Website session data collected in connection with the Service.
+____________________________________________________________________________________
+[1] By way of example, a visitor who accesses the Customer Website via Google Chrome on a given device in a given calendar month counts as one (1) Unique Browser Instance.
+If the same visitor accesses the Customer Website via Firefox or a different device in the same calendar month, that counts as two (2) Unique Browser Instances (one (1) for the Google Chrome instance on the initial device and one (1) for the Firefox instance on the same device or the Google Chrome instance on a different device, respectively) in the applicable calendar month.
+
+
+Updated 10 months ago 
+Whatâs Next
+
+Start your free subscription now
+
+
+Did this page help you?
+Yes
+No
+      

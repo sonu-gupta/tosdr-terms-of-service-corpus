@@ -1,0 +1,45 @@
+
+        Got it!This website uses cookies, including for Google Analytics and to display ads More infoCookie Consent plugin for the EU cookie law Open Camera Privacy Policy &lt.
+Main Page.
+
+Open Camera accesses and records camera sensor and microphone data, which is used for the purpose
+of taking photos and recording videos, to fulfil its purpose as a camera.
+Microphone permission is also used for the optional "Audio control" options.
+Open Camera requires permission (at least for Android 9 and earlier, or using versions of Open Camera older than 1.48.3) to "access photos, media and files on your devices" (storage permission), as this permission is required for Android to save resultant files such as photos and videos to your device.
+Location permission is required for the optional geotagging features (for photos and videos, including stamp and subtitles options).
+When relevant option(s) are enabled, your device location will be stored in photo/video/subtitle files.
+Location permission is also required to connect to Bluetooth remote control devices.
+Bluetooth permission is required for communicating with some supported Bluetooth remote control devices.
+Since Open Camera also uses operating system APIs, you should review relevant privacy policies such as for your device, manufacturer, operating system and/or Google accounts.
+For example:
+
+The optional voice control option uses the Android speech recognition service.
+When enabled, audio data is likely to be sent to remote servers by Android to perform speech recognition.
+
+The "addresses" option for photo stamp or video subtitles uses the Android Geocoder API.
+When enabled, this requires that your device transmits location data across the Internet to a third party (which may depend on what "backend services" are installed on your device).
+
+Apps/services such as cloud services on your device may auto-upload photos and videos that are saved on your device.
+
+
+Although Open Camera is ad-free, the Open Camera website has ads via Google Adsense: Third party vendors, including Google, use cookies to
+serve ads based on a user's previous visits to this website or other websites.
+Google's use of advertising cookies enables it and
+its partners to serve ads based on people's visit to this sites and/or other sites on the Internet.
+You may opt out of personalised
+advertising by visiting Google's Ads Settings.
+The cookies of other third-party
+vendors or ad networks may also be used to serve ads.
+You can opt out of some third-party vendors' uses of cookies for personalised advertising by visiting
+www.aboutads.info.
+
+Update: I have instructed Google to not display personalised ads to users in the EEA.
+Note that cookies are still used for serving even non-personalised ads.
+The Open Camera website also uses Google Analytics which uses cookies, please see their
+Privacy Policy for more details.
+Also see "How Google uses information from sites or apps
+that use our services".
+Android is a trademark of Google LLC.
+Open Camera Privacy Policy.
+This website uses icons from third party sources, see licences.
+Open Camera on Sourceforge.

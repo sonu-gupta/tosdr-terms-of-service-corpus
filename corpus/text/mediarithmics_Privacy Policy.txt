@@ -1,0 +1,311 @@
+
+         Privacy Policy
+
+mediarithmics SAS is a marketing and analytics software editor.
+mediarithmics solutions may collect and process personal data.
+
+
+In the current context of Big Data and continuous technological evolution, we are aware that personal data processing requires software market players to take more and more responsibility.
+As a consequence, we take privacy and personal data protection very seriously and commit to: 
+
+Apply without exception the current regulations about personal data privacy,
+Make it our duty to raise awareness, to advise and to control our Clients when using our solutions,
+Ensure a complete transparency to end-users concerning the processing of their personal data.
+
+
+
+Regarding personal data management and processing, we take on two roles: 
+
+Provider of a marketing software
+Provider of a service to match device identifiers from third-party providers
+
+The hereunder policy details our commitments towards these two roles.
+ 
+
+MEDIARITHMICS â MARKETING SOFTWARE PROVIDER
+
+
+
+We provide our Clients with software solutions through SaaS (Software as a Service) cloud services.
+Every Client is given a dedicated instance and access.
+mediarithmics acts as a Data Processor under the General Data Protection Regulation (GDPR).
+
+ 
+
+Principles for providing our Software Solutions
+
+
+
+
+Strict isolation of our Clientâs personal data
+
+Applying Â« Privacy by design Â» principles requires to strictly isolate the personal data collected by each Client using mediarithmics solutions.
+Collected data is the exclusive property of our Clients.
+mediarithmics makes no usage of its Client data, nor process any cross-Clients enrichments.
+
+
+
+Availability of all tools and services required for compliance
+
+mediarithmics solutions gather a package of services and features that enables regulation compliance and allows users to exercise their rights, including: 
+
+Collection and consent management features
+Services to access usersâ personal data
+Services to delete usersâ personal data
+Services to proceed to bulk deletions of personal data
+
+
+
+
+Advisory duty and intransigence on our Client regulation compliance
+
+We require our Clients to strictly comply with the current regulations on personal data protection when they use our software solutions.
+
+In order to support them, we offer our expertise and advice on how to implement and configure our solutions.
+As a Data Processor, we also have a duty to alert whenever we notice a usage that seems noncompliant, either on data collection or data processing.
+
+
+
+Description of our Software Solutions
+
+
+
+mediarithmics software solutions are part of a complete and integrated marketing platform.
+Acting as a Data Controller under the GDPR, our Clients are responsible for their usage of our solutions, regarding the data they collect, or the features they use.
+
+
+
+This usage must be defined and detailed in a Record of processing activities, which should include: 
+
+The description of collected data and the storage duration
+The purpose that justifies the collection
+The list of mediarithmics features that are used to process this data
+
+
+
+To ensure transparency and provide web users with information on our solutions, we detail below the possible usages our Clients may operate.
+
+Those descriptions may not reflect our Clients reality: to get the most accurate information, please refer to the privacy policies of their respective supports.
+
+
+   
+Purposes
+We recommend our Clients to use our software solutions to serve two purposes: 
+
+To improve their customer, prospects or user knowledge by understanding their behaviours and expectations
+To offer personalized marketing content to their customers, prospects or users
+
+
+
+Collected data
+Clients can collect various natures of data using our solutions: 
+
+Activity history (e.g.
+metadata coming from the websites or mobile applications browsing history, exposure to advertising campaigns, etc.)
+User profiles (e.g.
+age range, gender, etc.)
+Emails
+Device advertising identifiers (cookies, mobile identifiers)
+Customer identifiers (CRM id, etc.)
+Hashed emails identifiers
+Precomputed audience lists
+
+
+
+Each nature can be used to collect standard information (e.g.
+Â« URL Â» for browsing activity, Â« Gender Â» for a given profile, etc.) or specific information (Â« Product universe Â» for an e-commerce company, Â« article category Â» for a news website, etc.).
+
+
+The collected data may be pseudonymized (e.g.
+cookie identifier) or fully identifiable (e.g.
+email).
+
+
+
+When setting-up our software solutions, each of our Clients configures the data they wish to collect (with the legal obligation to inform end-users and obtain their consent before capturing).
+
+
+
+We strictly forbid the use of our solution to collect and process sensitive data as defined in the GDPR.
+
+
+
+Usable features
+The features available within our software solutions can be related to the following categories: 
+
+Data collection from different channels: embedded scripts in web pages, queries on mediarithmics public APIs from servers or mobile applications, flat-files transmissions
+Segmentation: user lists built by queries on collected data
+Web site and mobile application advertising campaigns (which can target lists of users identified by their cookies or mobile advertising identifiers)
+Email advertising campaigns (which targets users using their emails)
+Transmission of user lists to third party providers (e.g.
+to broadcast an advertising campaign with another provider)
+Data exploration and analytics
+
+
+
+As for collected data, our Clients are legally obliged to inform the users about features they use to process their personal data.
+
+
+
+
+Consent management, user communication
+
+
+
+Each of our Clients, acting as a Data Controller under the GDPR, must: 
+
+Inform its users about the data they collect, the storage time and the processing of the data
+Obtain user consent to collect and process personal data
+Enable users to exercise their rights to access, modify and delete their personal data
+
+
+
+mediarithmics provides its clients with the necessary tools to fulfil their obligations, including a consent management and traceability system, and automated services to access, edit and delete data.
+
+Each Client defines the way these services are exposed to end-users and is legally obliged to enable them to comply with the regulation.
+
+
+
+Exercising your rights
+
+
+
+Your rights of data access, edition, opposition and deletion must be exercised directly against our Clients, as well as the consultation of the consents you gave.
+ 
+
+Personal data security and storage
+
+
+
+mediarithmics implements state of the art practices to ensure personal data security, including: 
+
+Enforcement of security principles at each step of the software creation process, from conception and development to maintenance
+âDefence in depthâ: each software layer is secured (applications, infrastructures and networks)
+Encryption of communications
+Physical separation of the databases hosting cookies and mobile identifiers in databases from the databases storing the rest of personal data
+
+
+
+Personal data is hosted on dedicated servers within OVH datacentres in France.
+ 
+ 
+ 
+ 
+ 
+
+
+
+MEDIARITHMICS â DEVICE IDENTIFIER MATCHING SERVICE PROVIDER
+
+
+
+Besides its software solutions, mediarithmics provides its clients with a service to reconcile, for a given device, the identifiers coming from multiple providers.
+In this role, mediarithmics acts as a Data Processor under the GDPR.
+
+
+
+
+Why do we offer this service? 
+
+
+
+The need to match a device on different websites
+Reconciling device identifiers from multiple providers is a prerequisite to:
+
+Allow clients that own several brands to reconcile the browsing history of their end-users on their multiple website domains / applications 
+Operate targeted campaigns on third party websites or applications
+
+
+
+Device identification
+Assuming that the necessary consents have been given by the end-user, there are two ways to identify a device: 
+
+In the case of mobile applications: through the advertising identifier of the device (Â« IDFA Â» for iOS-based systems, Â« AAID Â» for Android-based systems).
+
+In the case of websites: through an identifier embedded in a cookie.
+
+
+
+
+In the first case, the advertising identifier can be accessed within any application on the device, with a unique value: it is therefore possible to reconcile a given device from an application to another and exchange information between providers (e.g.
+between an application selling advertisement inventory and advertisers buying this inventory).
+
+
+In the second case, the advertising identifier is embedded in a cookie, stored in a web browser.
+This cookie may only be read by the website that wrote it: this website can be the one you are browsing (in this case it will be a Â« first-party Â» cookie) or a third-party website (in this case, a Â« third-party Â» cookie).
+
+Therefore, in order to reconcile a device browsing two different websites or in order to exchange information between providers, third-party cookies with third-party identifiers must be used.
+
+
+mediarithmics ensures a matching of third-party identifiers for a given device and offers it as a service, allowing to reconcile a device browsing websites on different domains and expose it to targeted ads.
+
+
+
+
+Service usage principles
+
+
+
+This service is offered to each of our Clients.
+Through the use of our generic scripts to collect website browsing activity, our Clients can enrich the service database and use it to identify a known web browser from one site to another.
+
+
+To remain consistent with our software editor role, we do not sell this data.
+The access to this service is included in our contracts for the marketing software solutions.
+
+
+
+
+Description of the service 
+
+
+
+Purpose
+
+
+Match third-party cookie identifiers for a given web browser to reconcile its browsing activity on various websites and retarget it afterwards.
+
+
+Operation of the service 
+
+
+
+Collection and matching
+
+When our tracking scripts are loaded on web pages, they call the websites of our partners to get the identifiers they gave to the web browser.
+If the identifiers are known, the device browsing activity will be linked to an existing device.
+If not, the identifiers will be stored by the service for future use.
+
+
+
+Transmission to third party providers
+
+When our Clients share audiences (lists of users) with third-party providers, they may use this service to send identifiers that are already known by the provider.
+
+
+
+Processed data
+
+
+In the scope of this service, we only process cookie identifiers, considered as pseudonymous personal data.
+The third-party providers for which we operate this matching service include: Google DoubleClick, AppNexus, SmartAdServer, BidSwitch.
+
+
+
+Consent
+
+
+
+The collection and processing of your personal data in the scope of this service can only be operated under your consent.
+
+We ask our Clients to obtain the consent of their users, on the web sites on which they collect data, and in compliance with the regulation.
+
+
+At any time, you can give or take back your consent.
+
+
+
+
+
+
+

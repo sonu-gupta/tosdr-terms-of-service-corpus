@@ -1,0 +1,333 @@
+
+
+InfoSec HandbookBlog
+News
+Series
+Terminal tips
+Recommendations
+Glossary
+Contact
+About us
+Menu
+Blog
+News
+Series
+Terminal tips
+Recommendations
+Glossary
+RSS/Atom
+Contact
+About us
+
+
+Privacy policyThank you for your interest in our privacy policy.
+This policy contains information about how we process your personal data and about your rights according to the European GDPR (General Data Protection Regulation).
+References below to âweâ or âusâ refer to the operator of this website.
+Our website and this privacy policy are provided under Czech and European law.ScopeThe following privacy policy is valid for https://infosec-handbook.eu/.A short version of our privacy policy
+By default, our web server processes your IP address.
+Processing your IP address is technically necessary to send our content to your client.
+By default, we do not log any personal data of you.
+Log files are automatically encrypted after one day and stored in encrypted format for ten days.
+We do not track your browsing behavior or anything else.
+We do not try to identify you.
+We do not collect statistics.
+We do not set any cookies.
+We do not serve ads.
+Your rights are explained in Articles 15â21 and 77 of the European GDPR.
+In case of any questions related to this privacy policy, feel free to contact us.
+For further information about our security measures, read our security policy.
+Contact detailsWe are private individuals domiciled in different European countries, operating this website and its web server.
+Our server is physically located in Germany.
+The controller in terms of the GDPR is:
+
+Mr.
+Jakub RytÃ­Å, M.Sc.190 00 Praha 9, VysoÄanyCzech RepublicContact details
+Contents
+Definitions
+Personal data we process
+Personal data third parties process for us
+Accessing our website using mirrors and archives
+Your rights (Articles 15â20 GDPR)
+Right to object (Article 21 GDPR)
+Right to lodge a complaint with a supervisory authority (Article 77 GDPR)
+Changelog
+DefinitionsThere are several definitions in the GDPR.
+The most important definitions are:
+
+âpersonal dataâ means any information relating to an identified or identifiable natural person
+âprocessingâ means any operation [â¦] on personal data [â¦] such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction
+
+If we talk about your personal data in the following, we mean anything that can be used to identify you.
+Examples are your name, e-mail address, and IP address.
+When we talk about âprocessing of personal data,â we mean any type of processing.Personal data we processWhen you visit our website, your IP address and user-agent are automatically processed by our web server.
+We automatically get this data from your client (e.g., your web browser or RSS/Atom feed reader).
+Our web server needs your IP address to send our contents back to your client.
+By default, we do not process any other personal data from you.
+Furthermore, our web server doesnât store your IP address permanently (e.g., in log files).
+The legal basis for processing your personal data, as explained above, is Article 6(1) f GDPR.
+Our legitimate interest is providing our content.LoggingOur web server writes information about particular client-side requests to so-called log files.
+We use these log files to detect attack-like behavior and to improve our services.
+Our web server automatically encrypts all log files after one day using public-key cryptography.
+The encrypted log files are automatically deleted after ten days.
+In case of abnormal requests (for technical people: all HTTP status codes except 200, 302, 304), we only log the following.
+Unusual requests include repeated attempts to access denied files or other attack-like behavior:
+
+timestamp ("[31/Dec/2016:12:01:10 +0100]")
+IP address (â123.123.123.123â)
+HTTP status code (â403â)
+bytes transmitted (â157â)
+first line of request for each request/HTTP version (âGET /secrets.bak HTTP/1.1)
+user-agent (âMozilla/5.0 (Windows NT 6.1.
+rv:60.0) Gecko/20100101 Firefox/60.0â)
+in some cases, our web application firewall also logs full client-side requests and full server-side responses
+
+We use this data to identify new attacks, audit blocked requests, and unblock legitimate users, if necessary.
+We store blocked IP addresses for 14 days.
+We also use this data to identify broken links (for technical people: HTTP status code 404).
+The legal basis for processing your personal data, as explained in this section, is Article 6(1) f GDPR.
+Our legitimate interests are blocking attacks and improving our services.Personal data third parties process for usThe following third parties process personal data for us:netcup GmbH, GermanyThe netcup GmbH (read their privacy policy) provides our servers.
+The netcup GmbH may log access attempts (IP address, user-agent) for all of its customers (including us) to detect DDoS attacks, attack-like behavior, and so on.
+We concluded a data processing agreement according to Article 28 GDPR with netcup GmbH.
+The legal basis for processing your personal data is Article 6(1) f GDPR.
+Our legitimate interest and the interest of the netcup GmbH is detecting/blocking attack-like behavior and proving our content.Tutao GmbH, Germany (e-mail only)The Tutao GmbH (read their privacy policy) provides our mail server.
+It isnât necessary to send us any e-mails to access our website.
+If you decide to contact us, you agree that Tutao GmbH and we process your personal data (e.g., name, e-mail address) to answer your request. We do not use your e-mail address for marketing purposes or tracking.
+We immediately delete your e-mails after your request is answered.
+The legal basis for processing your personal data is Article 6(1) a GDPR.
+You may withdraw your consent with this at any time.Accessing our website using mirrors and archivesThird parties may provide our content as a mirror (reflecting the current content) or as an archived website (reflecting outdated content).
+Kindly note that this privacy policy doesnât cover such mirrors or archives.Your rights (Articles 15â20 GDPR)According to Articles 15 to 20 of the GDPR, you have several rights concerning your personal data processed by us:
+
+Art.
+15: Right of access
+Art.
+16: Right to rectification
+Art.
+17: Right to erasure
+Art.
+18: Right to restriction of processing
+Art.
+19: Notification obligation regarding rectification or erasure of personal data or restriction of processing
+Art.
+20: Right to data portability
+
+You may exercise your rights by contacting us.Right to object (Article 21 GDPR)
+You have the right to object, on grounds relating to your particular situation, at any time to processing of personal data concerning you which is based on point e or f of Article 6(1) GDPR, including profiling based on those provisions.
+We no longer process the personal data unless we demonstrate compelling legitimate grounds for the processing which override the interests, rights and freedoms of you or for the establishment, exercise or defence of legal claims.
+This doesnât affect the lawfulness of processing based on consent before its withdrawal (point c of Article 13(2) GDPR).
+Right to lodge a complaint with a supervisory authority (Article 77 GDPR)Without prejudice to any other administrative or judicial remedy, you have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or place of the alleged infringement if you consider that the processing of personal data relating to you infringes the GDPR.ChangelogWe updated this page on May 28, 2020.
+For transparency, we provide a complete changelog of this page on codeberg.orgexternal link.Latest activity
+
+tutorial
+KeePassXC and YubiKeys â Setting up the challenge-response mode
+Dec 12, 2020 Â· NEW
+
+
+myths
+Signal messenger myths
+Nov 5, 2020 Â· UPDATED
+
+
+Web server security
+Web server security â Part 3: TLS and security headers
+Nov 3, 2020 Â· UPDATED
+
+
+tutorial
+NTS â Securing NTP with RFC 8915
+Oct 4, 2020 Â· NEW
+
+
+tutorial
+Signify
+Sep 28, 2020 Â· NEW
+
+categories
+ask-us-anything
+3
+authentication
+5
+discussion
+6
+hack-the-box
+1
+home-network-security
+6
+knowledge
+5
+limits
+3
+monthly-review
+12
+myths
+7
+privacy
+13
+tutorial
+12
+vulnerability
+1
+web-server-security
+9
+tag cloud2fa
+36c3
+ad-blocking
+afwall
+ama
+android
+apache
+appeals
+assessment
+audit
+blogging
+bluetooth
+caa
+camera
+capec
+career
+certifications
+cms
+comptia
+covid19
+crlite
+cryptcheck
+csp
+ct
+ctf
+curl
+cutycapt
+cve
+cvss
+cwe
+dejablue
+dns
+dnssec
+doh
+dot
+e-foundation
+e-mail
+e2ee
+ecsm2019
+ecsm2020
+encryption
+ethics
+exif
+fail2ban
+federation
+fido2
+firefox
+firewall
+fscrypt
+ftp
+gdm
+gdpr
+gnupg
+grub
+hackthebox
+hardenize
+https
+hugo
+hygiene
+infosechandbook
+ios
+iot
+ips
+isolation
+jitsi-meet
+joomla
+keepassxc
+keybase
+knob
+kr00k
+kresd
+lan
+lets-encrypt
+libreoffice
+lineageos
+lnav
+logging
+luks
+malvertising
+mastodon
+matrix
+metadata
+minisign
+mintotp
+modsecurity
+monitoring
+nas
+nextcloud
+nginx
+nitrokey
+ntp
+ntpsec
+nts
+observatory
+ocsp
+open-source
+openpgp
+openssl
+osint
+ot-security
+owasp
+pam
+password
+pdfex
+pentesting
+photo
+phpbb
+policy
+privacy
+privacy-policy
+privacyscore
+privacytools
+prtg
+python
+rcs
+redaction
+remote-access
+rom
+router
+sandbox
+server-security
+sha1
+side-channel-attack
+signal
+signify
+simjacker
+social-engineering
+software-security
+ssh
+standard
+survey
+tls
+tor
+tracking
+turris-omnia
+u2f
+ultravnc
+usbguard
+verification
+vnc
+waf
+web-server
+webauthn
+webbkoll
+wibattack
+wlan
+wordpress
+wpa2
+wpa3
+xmpp
+yubikeyRSS/Atom
+Â·
+Sitemap
+Â·
+Privacy policy
+Â·
+Security policy
+Â·
+Changelog
+Â·
+Copyright
+Mirror (codeberg.org)
+      

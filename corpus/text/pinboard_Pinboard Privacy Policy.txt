@@ -1,0 +1,17 @@
+
+         Privacy Policy 
+I recognize that many users joined Pinboard especially for its privacy features.
+Privacy bugs are second in priority only to data integrity bugs.
+Pinboard runs on dedicated servers that only I have access to.
+Wherever possible, the site uses SSL.
+My goal is to have the site be SSL by default as soon as practicable.
+I do not share individual user data with third parties under any circumstances.
+The site will never show ads.
+With the exception of Google Analytics on certain public pages, and payment buttons on the signup and upgrade pages, Pinboard does not serve third-party content anywhere on the site.
+Google Analytics scripts are not served to logged-in users.
+The site tracks clickthroughs on your bookmarks for the sole purpose of generating a 'history' page for your account.
+This information is stored in the Pinboard database.
+You can disable this behavior on your settings page.
+If there is a privacy breach, I promise to disclose it as soon as possible on the site blog and Twitter account.
+If you spot a privacy leak, please report it discreetly to support@pinboard.in.
+Please do not store truly sensitive information on Pinboard.

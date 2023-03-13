@@ -1,0 +1,276 @@
+
+Last Updated: July 23, 2019
+Brave Software International SEZC
+These Brave Publisher Terms of Service ("Terms") apply to your access to and use of Services (as defined in Section 1 below) provided by Brave Software International SEZC, a Cayman Islands company ("Company" or "we").
+By accessing or using our Services, you agree to these Terms.
+If you do not agree to these Terms, including the mandatory arbitration provision and class action waiver in Section 15, do not access or use our Services.
+
+If you have any questions about these Terms, please contact us at contributors@basicattentiontoken.org.
+You and Company agree as follows:1.
+Overview and ScopeCompany has released a decentralized, open-source platform (the "Platform") for advertising, contributions to publishers, and other attention-based services in connection with the Brave browser.
+People who use the Brave browser may activate the Platform's rewards feature ("Brave Rewards") for making optional contributions in Basic Attention Tokens ("BAT") to publishers and for earning BAT for viewing or interacting with advertisements.
+These Terms govern the services (the "Services") that Company makes available to Brave browser users who activate Brave Rewards ("Brave Rewards Users"), including the ability to make BAT contributions, earn BAT from viewing advertisements, and obtain related services through the Platform.2.
+EligibilityIn order to access and use our Services, you must
+
+(a) be at least 18 years old and have the capacity to enter into a legally binding agreement,
+(b) comply with all the terms and conditions set forth in these Terms, and
+(c) activate the Services as described in Section 3 below.
+
+You may not access or use our Services if:
+
+(d) you have been suspended from using our Services,
+(e) under the applicable law of the jurisdiction(s) in which you reside or conduct business, you are prohibited from using the Services or do not have the requisite licenses or other governmental authorizations to use the Services,
+(f) you are located in a country that is subject to a U.S.
+government embargo or that has been designated by the U.S.
+government as a "terrorist supporting" country,
+(g) you are listed on any U.S.
+government list of prohibited or restricted parties, or
+(h) your use of the Services breaches any other agreement to which you are a party.
+
+If you are accessing or using our Services on behalf of another person or entity: references to "you" in these Terms collectively refer to you and that person or entity, and you represent that you are authorized to accept these Terms on that person or entity's behalf and that the person or entity agrees to be responsible to us if you or the other person or entity violates these Terms.
+If you are the parent or legal guardian of individual(s) between 16 and the legal age of majority in the jurisdiction where you reside, you may allow those individual(s) to use the Services solely under your direct supervision and only in accordance with these Terms, provided that you agree that you will remain liable for all activities of such individual(s), including their breach of these Terms, and references to "you" shall refer jointly to you and such individual(s).3.
+Activation &amp.
+Deactivation, User Wallet, Uphold Wallet3.1 ActivationTo become a Brave Rewards User, you must activate the Services within your Brave browser, and review and accept these Terms with Company.
+When you activate the Services, a BAT user wallet will be created for you in the Brave browser ("User Wallet") through a third party wallet provider, Uphold, Inc.
+("Uphold").
+You agree to comply with Uphold's Terms and Conditions, available at https://uphold.com/en/legal/membership-agreement, in connection with your use of the User Wallet.
+You may be required to complete additional verification steps with Uphold before using certain features of the Services.
+Company has no responsibility or liability with respect to any disputes or any relations whatsoever between you and Uphold.3.2 DeactivationYou can discontinue being a Brave Rewards User at any time by deactivating the Services in your Brave browser.3.3 User WalletThe private cryptographic key needed to authenticate you as the owner of the User Wallet is stored only locally in your Brave Browser.
+Company has no access to this key and cannot restore or replace it if it is lost.
+Accordingly, you are strongly advised to take the following precautions, as failure to do so may result in loss of access to your User Wallet:
+
+(a) maintain the security of your User Wallet by protecting your access to your computer and your User Wallet,
+(b) promptly notify us if you discover or otherwise suspect any security breaches related to your User Wallet, and
+(c) use the private key backup functionality provided by the Brave browser and safeguard your backup private key file as you would safeguard other important financial information.
+Company has no responsibility or liability with respect to your use of your User Wallet, or your inability to use or access your User Wallet, regardless of cause.
+
+To contribute to registered publishers ("Brave Verified Publishers") as a Brave Rewards User, you may add BAT to your User Wallet in your Brave browser.
+Once added to your User Wallet, BAT cannot be withdrawn.
+It can only be used for the purpose of making contributions as part of the Services. More information about adding BAT to your User Wallet is available at https://brave.com/faq and at https://support.brave.com/hc/en-us/categories/360001053052-Rewards.3.4 Uphold WalletAs of Brave version 0.69, it is possible to verify your User Wallet with Uphold.
+This links your Uphold account with your Brave Browser, claiming ownership of your User Wallet (a "Verified Wallet").
+Once linked, Uphold processes your direct tips as part of your Uphold account.
+These tips are transfered directly by Uphold: Company is not a party to these transactions, and information about these transactions is transmitted from your Brave Browser directly to Uphold so that they can process said transactions.
+Your relationship with respect to this Verified Wallet is exclusively with Uphold, not Company, and is governed exclusively by the terms of your agreement with Uphold.
+Features in future versions of the Brave Browser may integrate or interact with your Verified Wallet.
+With a Verified Wallet, you are responsible for maintaining exclusive control of your Uphold account.
+Company is unable to assist you should you fail to maintain exclusive control of your Uphold account or require any other assistance with your Verified Wallet.4.
+ContributionsThe Brave Rewards feature in your Brave browser allows you to support the Brave Verified Publishers by contributing BAT to them subject to these Terms.
+This feature provides several mechanisms for you to contribute BAT from your User Wallet to Brave Verified Publisher(s).
+Currently, these mechanisms include automatic attention-based monthly contributions ("Auto-Contribute") and direct tips ("Tipping").
+When you first enable the Brave Rewards feature in your Brave Browser, please familiarize yourself with the these options.
+You can learn more about how Brave Rewards works in your Brave browser at https://brave.com/faq/ and at https://support.brave.com/hc/en-us/categories/360001053052-Rewards.
+To use the Auto-Contribute mechanism, you select a monthly total amount of BAT to contribute to the sites you visit.
+The Brave browser assesses the attention you pay to the sites you visit, according to a reasonable attention metric that Company determines, and assigns your monthly BAT contribution among those sites based on that metric.
+To use the Tipping mechanism, you select a one-time or recurring amount of BAT to be contributed to a particular site.
+You can change your monthly Auto-Contribute amount or recurring Tipping amounts at any time in the Brave Rewards pane of your Brave browser.
+If you have not verified your User Wallet with Uphold, your Brave browser uses a privacy-protecting protocol to assign your BAT contributions to a site.
+This protocol is designed to ensure that we know how much BAT has been contributed to each site, without knowing which Brave Rewards Users support which sites, preserving your privacy.
+The total amount of Brave Rewards User contributions assigned to each site is calculated approximately every calendar month.
+Contributions are sent from User Wallets and made available to sites that are Brave Verified Publishers through a process facilitated by our third-party wallet provider, Uphold.
+This process is typically completed by the 8th day of the following calendar month.
+For operating the Service, we charge Brave Verified Publishers a fee equal to 5% of the contributions assigned to them.
+Sites and content creators must become Brave Verified Publishers in order to receive contributions.
+If you attempt to contribute to a site that is not a Brave Verified Publisher when the contribution is attempted, that attempted contribution will not be completed at that time.
+Your Brave browser will periodically check whether the site has become a Brave Verified Publisher.
+Ninety days after the attempted contribution, if the site is still not a Brave Verified Publisher, your Brave browser will stop checking and cancel the unsuccessful contribution attempt.
+If the site becomes a Brave Verified Publisher during this period, the contribution will be processed at that time.5.
+User Growth PoolThe User Growth Pool is a pool of Company-owned BAT allocated to encouraging use of the Platform and Services.
+We may from time to time make UGP Grants available to you.
+UGP Grants allow you to use Brave Rewards without adding BAT to your User Wallet.
+Instead, Company makes contributions to Brave Verified Publishers from the User Growth Pool.
+We make UGP Grants for the specific purpose of encouraging your use of the Services to support Brave Verified Publishers whose work you appreciate.
+UGP Grants are exclusively for use by actual humans using the Brave Browser.
+Any other use of UGP Grants is prohibited, including attempts to:
+
+(a) use automated means to accept or make contributions though UGP Grants,
+(b) use the same UGP Grants multiple times such as through the use of many copies of the Brave browser, or
+(c) use UGP Grants for your own personal enrichment.
+When you opt to use a UGP Grant through your Brave browser, the BAT is not sent to your User Wallet.
+Instead, your Brave browser is given a ticket indicating that we may supplement your contributions to Brave Verified Publisher(s) with a UGP Grant.
+You have a limited time (typically a few months) in which to contribute to Brave Verified Publishers with a UGP Grant, after which the ticket will expire.
+When you make a contribution to Brave Verified Publisher(s) with a UGP Grant, we send a quantity of BAT corresponding to the grant amount directly to those Brave Verified Publisher(s).
+
+In previous versions of the Brave browser, it was possible to allocate UGP Grants to sites which were not Brave Verified Publishers.
+Brave servers will maintain these portions of UGP Grants on behalf of unverified publisher sites indefinitely.
+If we are holding BAT that was previously allocated to a site via a UGP Grant and they become a Brave Verified Publisher, they will receive this BAT as part of their first month of publisher contributions.
+When you attempt to contribute BAT from a UGP Grant to a Brave Verified Publisher, we may undertake additional analysis to ensure that your contribution is legitimate.
+We reserve the right not to fulfill a UGP Grant or prohibit you from using UGP Grants at our discretion, including if we detect attempts to defraud us, to use automated means to use UGP Grants, to use the same UGP Grant multiple times, or to misuse the UGP Grant in any way.
+In particular, we will not contribute BAT we own to any person or organization, who in our sole judgement:
+
+(a) engages in or advocates for violence, online or offline,
+(b) directly incites violence against individuals or groups, online or offline, or
+(c) directly threatens any person, place, organization or group.
+6.
+Brave AdsBrave Rewards includes private ads.
+When you enable Brave Rewards, these ads provide you with an opportunity to earn BAT.
+In order to earn in this way:
+
+(a) You must be using a version of the Brave browser with Brave Rewards and ads enabled.
+(b) You must see or interact with one or more ads.
+(c) You must be in compliance with these terms, and you must not be suspended.
+(d) You must claim your BAT once a month.
+This claim process may involve a challenge to prove that you are human.
+
+If all these requirements are met, you earn BAT based on the specific ads you were shown over the course of the given monthly cycle.
+You earn BAT equal to approximately 70% of the revenue Company earns from the ad campaigns shown to you.
+As a convenience, estimated earnings are displayed in Brave Rewards.
+Your actual earnings may differ from this estimate.
+We do not guarantee ad earnings until we have verified that the conditions above are met.
+You must then claim your earnings at the end of each monthly cycle.
+Private ads are only available in certain regions, which we may change from time to time.
+If you're not in one of these regions, ads will not be available in Brave Rewards for you.
+You may not make any attempt to view ads not intended for your region.
+You'll only see ads if there are ads in the catalog which match your Brave Rewards profile.
+For this reason, we don't guarantee that there will be ads available for you, even if private ads are available in your region.
+You can support Brave Verified Publishers with the BAT you earn from ads.
+You will soon be able to withdraw it directly by connecting your User Wallet with a verified Uphold account.
+This integration is not yet complete in released versions of the Brave Browser.
+The Services is designed to protect your privacy, and Company does not learn which ads you saw, only an aggregate of how much BAT you earned.
+From time to time, ad campaigns may perform differently from our projections and tallies of the ads you've seen or interacted with may be delayed.
+You may disable ads at any time within your Brave browser.7.
+TaxesYou are responsible for determining what, if any, taxes apply to your use of the Services, and for withholding, collecting, reporting and remitting the correct taxes, if any, to the appropriate tax authorities.
+Company is not responsible for withholding, collecting, reporting, or remitting any tax arising from your use of the Services.8.
+Brave Verified Publishers and AdvertisersCompany is not a party to and has no responsibility or liability with respect to any communications, transactions, interactions, disputes or any relations whatsoever between you and any Brave Verified Publisher or Brave Advertiser.
+Company has no control over and has no responsibility or liability with respect to Brave Verified Publisher content.
+Company and has no responsibility or liability with respect to Brave Advertiser content.
+Company does not have any obligation to investigate or verify the reputation, conduct, morality or criminal background of any Brave Verified Publisher or Brave Advertiser.
+While the Brave browser may denote URLs that belong to Brave Verified Publishers, such denotation indicates only that the Brave Verified Publisher is registered with Company and eligible to receive publisher contributions, and not that Company endorses the Brave Verified Publisher.
+While the Brave browser may display ads from Brave Advertisers, such display indicates only that the Brave Advertiser is registered with Company and eligible to place ads, and not that Company endorses the Brave Advertiser.9.
+PrivacyThe information you provide to Brave U.S.
+via the Brave browser when accessing the Services is subject to the Brave Browser Privacy Policy, available at https://brave.com/privacy/.
+The Brave browser sends information related to Publisher URL activity, vote totals, and contributions to the Company server for our provision and support of the Services, but as noted above, consistent with our mission to protect user privacy, we have incorporated privacy-protecting technology into the Services that is designed and intended to prevent us, Brave Verified Publishers, or other third parties from identifying such information to particular Brave Rewards Users.
+Although the Company server necessarily receives IP addresses from the network in connection with our Services, we discard such IP addresses.
+We also receive User Wallet addresses and related information from Uphold in connection with our Services, but we delete components of that information that are identifiable to Brave Rewards Users and use the remaining information only to facilitate contributions as part of the Services.10.
+Prohibited ConductWhile using or accessing our Services, you will not:
+
+(a) violate any applicable law, contract, intellectual property or other third-party right or commit a tort;
+(b) engage in, encourage or promote any activity that violates these Terms;
+(c) attempt to circumvent any content-limiting techniques we employ;
+(d) develop or use any non-Brave scripts or applications designed to scrape, or extract data from the Services;
+(e) use the Services in any manner that could interfere with, disrupt, negatively affect or inhibit other users from utilizing the Services or that could damage, disable, overburden or impair the functioning of the Services in any manner;
+(f) use the Services for benchmarking purposes or for the purpose of developing a competitive product.
+or
+(g) manipulate, or attempt to manipulate, the Services in any way.
+11.
+Acknowledgment of Risks Related to Platform and BATAs noted above, the integration of the Platform with the Brave browser is an integral part of the Services.
+You acknowledge and agree that there are risks associated with accessing and using the Platform and holding BAT, as disclosed and explained in Exhibit C of the BAT Terms of Sale, available at https://basicattentiontoken.org/terms-and-conditions/.
+If you have any questions regarding these risks, please contact us at contributors@basicattentiontoken.org.
+By using the Services and the Platform and holding BAT, you expressly acknowledge and assume these risks.
+12.
+IndemnificationTo the fullest extent permitted by applicable law, you will indemnify, defend and hold harmless Company and our respective past, present and future employees, officers, directors, contractors, consultants, equity holders, suppliers, vendors, service providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns (the "Company Parties") from and against all claims, demands, actions, damages, losses, costs and expenses (including attorneys' fees) that arise from or relate to:
+
+(a) your access or use of the Services, including any contributions you make as part of the Services,
+(b) your responsibilities or obligations under these Terms,
+(c) your violation of these Terms, or
+(d) your violation of any rights of any other person or entity.
+
+Company reserves the right to exercise sole control over the defense, at your expense, of any claim subject to indemnification under this Section 12.
+This indemnity is in addition to, and not in lieu of, any other indemnities set forth in a written agreement between you and Company.13.
+Disclaimers
+To the fullest extent permitted by applicable law and except as otherwise specified in writing by us:
+
+
+
+(a) the Services are made available on an "as is" and "as available" basis without warranties of any kind;
+
+
+(b) we expressly disclaim all implied warranties as to the Services, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, title and non-infringement;
+
+
+(c) we do not represent or warrant that the Services are reliable, current or error-free, meet your requirements, or that defects in the Services will be corrected; and
+
+(d) we cannot and do not represent or warrant that the Services are free of malware or other harmful components.
+
+
+Some jurisdictions do not allow the exclusion of certain warranties or disclaimer of implied terms in contracts with consumers, so some or all of the exclusions of warranties and disclaimers in this section may not apply to you.14.
+Limitation of Liability
+(a) To the fullest extent permitted by applicable law:
+
+
+
+(i) in no event will Company or any of the Company Parties be liable to you for any indirect, special, incidental, consequential, or exemplary damages of any kind (including, but not limited to, where related to loss of revenue, income or profits, loss of use or data, or damages for business interruption) regardless of the form of action, whether based in contract, tort (including, but not limited to, simple negligence, whether active, passive or imputed), or any other legal or equitable theory (even if the party has been advised of the possibility of such damages and regardless of whether such damages were foreseeable); and
+
+(ii) in no event will the aggregate liability of Company and the Company Parties (individually or jointly), whether in contract, warranty, tort (including negligence, whether active, passive or imputed), or other theory, arising out of or relating to the Services or these Terms exceed the total amount of BAT you contribute as part of the Services.
+
+
+
+(b) The limitations set forth in Section 14(a) will not limit or exclude liability for the gross negligence, fraud or intentional, willful or reckless misconduct of Company.
+
+(c) Some jurisdictions do not allow the limitation or exclusion of liability for incidental or consequential damages.
+Accordingly, some of the limitations of this section may not apply to you.15.
+ReleaseTo the fullest extent permitted by applicable law, you release Company and the other Company Parties from responsibility, liability, claims, demands and/or damages (actual and consequential) of every kind and nature, known and unknown (including, but not limited to, claims of negligence), arising out of or related to disputes between you and other Brave Rewards Users, Brave Verified Publishers, Brave Advertisers, Uphold or the acts or omissions of third parties.
+You expressly waive any rights you may have under California Civil Code Â§ 1542 as well as any other statute or common law principles that would otherwise limit the coverage of this release to include only those claims which you may know or suspect to exist in your favor at the time of agreeing to this release.
+16.
+Dispute Resolution.
+Arbitration
+Please read the following section carefully because it contains additional provisions applicable only to individuals located, resident, or domiciled in the United States.
+If you are located, resident, or domiciled in the United States, this section requires you to arbitrate certain disputes and claims with Company and limits the manner in which you can seek relief from us.
+1.
+Binding Arbitration.Except for any disputes, claims, suits, actions, causes of action, demands or proceedings arising from or related to the Services, including the Terms (collectively, "Disputes") in which either Party seeks injunctive or other equitable relief for the alleged unlawful use of intellectual property, including, without limitation, copyrights, trademarks, trade names, logos, trade secrets or patents, or small claims disputes in which you or Company seeks to bring an individual action in small claims court located in the county of your billing address, you and Company:
+
+(i) waive your and Company's respective rights to have any and all Disputes resolved in a court, and
+(ii) waive your and Company's respective rights to a jury trial.
+Instead, you and Company will arbitrate Disputes through binding arbitration (which is the referral of a Dispute to one or more persons charged with reviewing the Dispute and making a final and binding determination to resolve it instead of having the Dispute decided by a judge or jury in court).
+2.
+No Class Arbitrations, Class Actions or Representative Actions.
+Any Dispute is personal to you and Company and will be resolved solely through individual arbitration and will not be brought as a class arbitration, class action or any other type of representative proceeding. There will be no class arbitration or arbitration in which an individual attempts to resolve a Dispute as a representative of another individual or group of individuals.
+Further, a Dispute cannot be brought as a class or other type of representative action, whether within or outside of arbitration, or on behalf of any other individual or group of individuals.3.
+Federal Arbitration ActThe enforceability of this Section 16 will be both substantively and procedurally governed by and construed and enforced in accordance with the Federal Arbitration Act, 9 U.S.C.
+Â§ 1 et seq.
+(the "FAA"), to the maximum extent permitted by applicable law.4.
+Notice.
+Informal Dispute ResolutionEach Party will notify the other Party in writing of any Dispute within thirty (30) days of the date it arises, so that the Parties can attempt in good faith to resolve the Dispute informally.
+Notice to Company shall be sent by e-mail to Company at contributors@basicattentiontoken.org.
+Notice to you shall be by email to the then-current email address in your Account or using other means of notification via the Services as applicable.
+Your notice must include:
+
+(i) your name, postal address, email address and telephone number,
+(ii) a description in reasonable detail of the nature or basis of the Dispute, and
+(iii) the specific relief that you are seeking.
+
+If you and Company cannot agree how to resolve the Dispute within thirty (30) days after the date notice is received by the applicable Party, then either you or Company may, as appropriate and in accordance with this Section 16, commence an arbitration proceeding or, to the extent specifically provided for in Section 16.1, file a claim in court.5.
+Venue &amp.
+ArbitratorAny arbitration will occur in San Francisco County, California although you may elect to hold the arbitration in your county of residence.
+Arbitration will be conducted confidentially by a single arbitrator in accordance with the Streamlined Arbitration Rules and Procedures of the Judicial Arbitration and Mediation Services ("JAMS Rules"), which are hereby incorporated by reference.
+The state and federal courts located in San Francisco County, California will have exclusive jurisdiction over any appeals and the enforcement of an arbitration award.6.
+Authority of Arbitrator.
+Exchange of Information.
+Fees &amp.
+CostsAs limited by the FAA, these Terms and the applicable JAMS Rules, the arbitrator will have
+
+(i) the exclusive authority and jurisdiction to make all procedural and substantive decisions regarding a Dispute, including the determination of whether a Dispute is arbitrable, and
+(ii) the authority to grant any remedy that would otherwise be available in court.
+provided, however, that the arbitrator does not have the authority to conduct a class arbitration or a representative action, which is prohibited by these Terms.
+The arbitrator may only conduct an individual arbitration and may not consolidate more than one individual's claims, preside over any type of class or representative proceeding or preside over any proceeding involving more than one individual.
+The arbitration will allow for the discovery or exchange of non-privileged information relevant to the Dispute.
+For any arbitration you initiate, you will pay the filing fee (up to a maximum of $250), and Company will pay the remaining JAMS fees and costs.
+For any arbitration initiated by Company, Company will pay all JAMS fees and costs.
+7.
+Rules of JAMSThe JAMS Rules and additional information about JAMS are available on the JAMS website.
+By agreeing to be bound by these Terms, you either
+
+(i) acknowledge and agree that you have read and understand the JAMS Rules, or
+(ii) waive your opportunity to read the JAMS Rules and any claim that the JAMS Rules are unfair or should not apply for any reason.
+8.
+Severability of Dispute Resolution.
+ArbitrationIf any term, clause or provision of this Section 16 is held invalid or unenforceable, it will be so held to the minimum extent required by law, and all other terms, clauses and provisions of this Section 16 will remain valid and enforceable.9.
+Opt OutYou have the right to opt out of binding arbitration within 30 days of the date you first accepted the Terms or before May 1st 2019, whichever is the later, by notifying Company via email at support@basicattentiontoken.org.
+In order to be effective, the opt-out notice must include your full name and address and clearly indicate your intent to opt out of binding arbitration.
+By opting out of binding arbitration, you are agreeing to resolve Disputes in accordance with Section 17.17.
+Governing Law and VenueThese Terms will be governed by and construed and enforced in accordance with the laws of the Cayman Islands, without regard to conflict of law rules that would cause the application of the laws of any other jurisdiction.
+Any Dispute between the Parties arising out of relating to these Terms or its subject matter or formation (including non-contractual Disputes of claims) that is not subject to arbitration will be resolved in the courts of the Cayman Islands.18.
+Changes to these TermsWe may make changes to these Terms from time to time.
+If we make changes, we will notify you of the amended Terms within the Brave browser and update the "Last Updated" date above.
+Unless we say otherwise in our notice, the amended Terms will be effective immediately and your continued access to or use of the Services after we provide notice will confirm your acceptance of the changes.
+If you do not agree to the amended Terms, you must stop accessing and using the Services.19.
+Termination and SuspensionWe reserve the right, without notice and in our sole discretion, to terminate or suspend your right to access or use the Services with immediate effect.
+We are not responsible for any loss or harm related to your inability to access or use the Services.20.
+SeverabilityIf any term, clause or provision of these Terms is held unlawful, void or unenforceable, then that term, clause or provision will be severable from these Terms and will not affect the validity or enforceability of any remaining part of that term, clause or provision, or any other term, clause or provision of these Terms.21.
+MiscellaneousThese Terms constitute the entire agreement between you and us relating to your access to or use of the Services, and supersede any prior agreements with Company or its affiliates, express or implied, relating to the Services.
+We may make changes to these Terms from time to time as reasonably required to comply with applicable law or regulation.
+You may not assign your rights and obligations under these Terms without our express written consent.
+Our failure to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision.
+We will not be liable for any delay or failure to perform any obligation under these Terms where the delay or failure results from any cause beyond our reasonable control.
+Your access to or use of the Services does not create any form of partnership, joint venture or any other similar relationship between you and us.
+Except as otherwise provided in herein, these Terms are intended solely for the benefit of you and us and are not intended to confer third-party beneficiary rights upon any other person or entity.
+You agree and acknowledge that all agreements, notices, disclosures, and other communications that we provide to you, including these Terms, may be provided in electronic form.

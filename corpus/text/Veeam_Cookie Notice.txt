@@ -1,0 +1,495 @@
+
+         Last update: July 29, 2021 Veeamâs websites, advertisements, emails, and online services may use certain automatic data collection technologies, such as cookies, web beacons, and pixel tags, to collect data, including personal information.
+This data helps us to understand our usersâ behavior, web searches, and where on our websites users have visited.
+We use cookies to distinguish among different users of our website, to help us provide you with a good experience when you browse our websites, and to allow us to improve our websites.
+What is a âCookieâ? A cookie is a small text file that is sent to or accessed from your web browser or your computer's hard drive.
+A cookie typically contains the domain from which the cookie originated (e.g., veeam.com), the âlifetimeâ of the cookie (i.e., when it expires) and a randomly generated identifier.
+A cookie also may contain device-specific information, such as information about the browser, the operating system, etc.
+When a user visits www.veeam.com (or any of the Veeam websites), our server recognizes the cookie, giving us information that helps us to calibrate the userâs experience (e.g., if the user chose a specific language in which to view the website).
+And when combined with information on cookies from other users, this gives us a broad picture over time about how visitors use Veeamâs websites.
+Types of Cookies Cookies set by Veeam on Veeam websites and other digital properties are called first party cookies.
+and used to facilitate and improve your experience on Veeamâs websites.
+We have carefully chosen these cookies and have taken steps to ensure that your privacy and personal data is always protected and respected.
+Third party cookies are placed by third parties that provide services to Veeam and/or to you.
+Third party cookies may be used by advertising services to serve up tailored advertising to you on Veeamâs website, or by third parties providing analytics services to Veeam.
+Cookies are usually categorized as session cookies or persistent cookies.
+Session cookies are temporary and only remain on your computer or device from the point at which you visit Veeamâs websites until you close your browser.
+Session cookies are used to track your use of Veeamâs websites.
+Persistent cookies remain on your computer or device for a predetermined period and are activated each time you visit Veeamâs website to store your preferences and other information for your current and future visits.
+In addition to cookies, Veeam may use web beacons, pixel tags, and other tracking technologies on our websites to help us customize them and improve your experience.
+To learn more about cookies, web beacons and other data collection technology, you can visit www.allaboutcookies.org. How Veeam Uses Data Collection Technology This data we collect from the use of cookies helps us to understand our usersâ behavior, web searches, and where on our websites users have visited.
+We use cookies to distinguish among different users of our website, to help us provide you with a good experience when you browse our websites, and to allow us to improve our websites.
+Specifically, Veeam uses the following types of cookies (click on each type of cookie to see a list of the cookies that fall into each category as well as specific information such as who places that cookie and how long it lasts on your devices):
+
+
+Strictly Necessary Cookies. These cookies are required for the operation of the website, such as to enable users to register or log in to the website.
+These cannot be disabled.
+
+
+ Strictly Necessary Cookies DomainExpirationDescription sso-auth-flag.veeam.com1 dayThe cookie is used to indicate that the user has started a session.
+Created at login and disposed at logout.veeamId.veeam.com1 dayThis cookie is used to identify registered Veeam user.Vzz8KVDTBFkPuU6b.veeam.com1 monthThe cookie is set when a user logs into the system with @veeam.com email.
+Its purpose to simplify site's support.o365-demos.veeam.comSessionUser targeting to show the content without registration for https://www.veeam.com/nas-backup-demo.htmlvas-demos.veeam.comSessionUser targeting to show the content without registration on https://www.veeam.com/application-backup-demos.htmlhc_navpane_width.veeam.com1 yearUsed in order to store the width of the navigation panel for specific pages.keyrequested.veeam.com1 minuteThis cookie is used to show sent license notice.eula_accepted.veeam.com1 yearThis cookie is used for tracking Veeam users who accepted EULA while downloading Veeam products.hpe_tss_parisgo.veeam.comSessionUser targeting to show content without registration.[abcdef0123456789]{32}.veeam.comSessionSession cookie used to maintain the veeam.com website functionality._ALGOLIAcommunity.veeam.com6 monthsEnables inner site search at community.veeam.comSessioncommunity.veeam.comSessionStores the users' session condition at community.veeam.comCookieScriptConsent.veeam.com1 monthThis cookie is used by Cookie-Script.com service to remember visitor cookie consent preferences.
+It is necessary for Cookie-Script.com cookie banner to work properly.JSESSIONIDwww.veeam.comSessionGeneral purpose platform session cookie, used by sites written in JSP.
+Usually used to maintain an anonymous user session by the server.x_page.veeam.com5 yearsIn-house developed cookie that displays the page or document the user accesses.
+It captures the pages that contain resources (documentation, adds, products info).
+Marks that user downloaded a resource.x_referrer.veeam.com5 yearsIn-house developed cookie that displays where the user came to the page/document from (other portals, search engines like Google, etc.).AWSELBwww.veeam.com15 minutesThis cookie name is associated with the Amazon Web Services Elastic Load Balancing functionality for routing client request on the server.check.veeam.comSessionIn-house developed cookie._gid.veeam.com1 dayThis cookie name is associated with Google Analytics.
+It is used by gtag.js and analytics.js scripts and according to Google Analytics this cookie is used to distinguish users._dc_gtm_UA-154008-5.veeam.com1 minuteThis cookie is associated with sites using Google Tag Manager to load other scripts and code into a page.
+Where it is used it may be regarded as Strictly Necessary as without it, other scripts may not function correctly.
+The end of the name is a unique number which is also an identifier for an associated Google Analytics account.x_time.veeam.com5 yearsIn-house developed cookie that captures when the accessing of a page or document starts.ga_PMJS81E58L.veeam.com2 yearsThis cookie name is associated with Google Universal Analytics.
+This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier.
+It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports.
+By default it is set to expire after 2 years, although this is customizable by website owners._ga.veeam.com2 yearsThis cookie name is associated with Google Universal Analytics - which is a significant update to Google's more commonly used analytics service.
+This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier.
+It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports.
+By default it is set to expire after 2 years, although this is customisable by website owners.LocalSiteOfChoice.veeam.com1 yearSet only one time when user visits the first time the website.
+The cookie will auto detect the language of browser and the initial pop-window where the user can select his preferred language will be automatically filled in with the detected language from the browser.
+The user can still select afterwards whatever language he wants from the language drop down list which is permanent on the site.PHPSESSID.veeam.comSessionCookie generated by applications based on the PHP language.
+This is a general purpose identifier used to maintain user session variables.
+It is normally a random generated number, how it is used can be specific to the site, but a good example is maintaining a logged-in status for a user between pages.NewVisitorDevice.veeam.com1 yearIn-house developed cookiedateTimeOffsetwww.veeam.comSessionIn-house developed cookieBLOGSESSIDwww.veeam.comSessionCookie used to store session ID for Veeam Blog user.hideCookieNotice.veeam.comSessionThis cookie is used to show or hide cookie notice.BrowserId_secveeam--c.documentforce.com1 yearUsed to log secure browser sessions/visits for internal-only product analytics.x-bz-refresh-attendee-token-30976events.bizzabo.com2 years 8 monthsBizaboo cookie for processing events.bz-cookieevents.bizzabo.com5 minutesBizaboo cookie for processing events.Name
+Domain
+Expiration
+Description sso-auth-flag
+.veeam.com
+1 day
+The cookie is used to indicate that the user has started a session.
+Created at login and disposed at logout.
+veeamId
+.veeam.com
+1 day
+This cookie is used to identify registered Veeam user.
+Vzz8KVDTBFkPuU6b
+.veeam.com
+1 month
+The cookie is set when a user logs into the system with @veeam.com email.
+Its purpose to simplify site's support.
+o365-demos
+.veeam.com
+Session
+User targeting to show the content without registration for https://www.veeam.com/nas-backup-demo.html
+vas-demos
+.veeam.com
+Session
+User targeting to show the content without registration on https://www.veeam.com/application-backup-demos.html
+hc_navpane_width
+.veeam.com
+1 year
+Used in order to store the width of the navigation panel for specific pages.
+keyrequested
+.veeam.com
+1 minute
+This cookie is used to show sent license notice.
+eula_accepted
+.veeam.com
+1 year
+This cookie is used for tracking Veeam users who accepted EULA while downloading Veeam products.
+hpe_tss_paris
+go.veeam.com
+Session
+User targeting to show content without registration.
+[abcdef0123456789]{32}
+.veeam.com
+Session
+Session cookie used to maintain the veeam.com website functionality.
+_ALGOLIA
+community.veeam.com
+6 months
+Enables inner site search at community.veeam.com
+Session
+community.veeam.com
+Session
+Stores the users' session condition at community.veeam.com
+CookieScriptConsent
+.veeam.com
+1 month
+This cookie is used by Cookie-Script.com service to remember visitor cookie consent preferences.
+It is necessary for Cookie-Script.com cookie banner to work properly.
+JSESSIONID
+www.veeam.com
+Session
+General purpose platform session cookie, used by sites written in JSP.
+Usually used to maintain an anonymous user session by the server.
+x_page
+.veeam.com
+5 years
+In-house developed cookie that displays the page or document the user accesses.
+It captures the pages that contain resources (documentation, adds, products info).
+Marks that user downloaded a resource.
+x_referrer
+.veeam.com
+5 years
+In-house developed cookie that displays where the user came to the page/document from (other portals, search engines like Google, etc.).
+AWSELB
+www.veeam.com
+15 minutes
+This cookie name is associated with the Amazon Web Services Elastic Load Balancing functionality for routing client request on the server.
+check
+.veeam.com
+Session
+In-house developed cookie.
+_gid
+.veeam.com
+1 day
+This cookie name is associated with Google Analytics.
+It is used by gtag.js and analytics.js scripts and according to Google Analytics this cookie is used to distinguish users.
+_dc_gtm_UA-154008-5
+.veeam.com
+1 minute
+This cookie is associated with sites using Google Tag Manager to load other scripts and code into a page.
+Where it is used it may be regarded as Strictly Necessary as without it, other scripts may not function correctly.
+The end of the name is a unique number which is also an identifier for an associated Google Analytics account.
+x_time
+.veeam.com
+5 years
+In-house developed cookie that captures when the accessing of a page or document starts.
+ga_PMJS81E58L
+.veeam.com
+2 years
+This cookie name is associated with Google Universal Analytics.
+This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier.
+It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports.
+By default it is set to expire after 2 years, although this is customizable by website owners.
+_ga
+.veeam.com
+2 years
+This cookie name is associated with Google Universal Analytics - which is a significant update to Google's more commonly used analytics service.
+This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier.
+It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports.
+By default it is set to expire after 2 years, although this is customisable by website owners.
+LocalSiteOfChoice
+.veeam.com
+1 year
+Set only one time when user visits the first time the website.
+The cookie will auto detect the language of browser and the initial pop-window where the user can select his preferred language will be automatically filled in with the detected language from the browser.
+The user can still select afterwards whatever language he wants from the language drop down list which is permanent on the site.
+PHPSESSID
+.veeam.com
+Session
+Cookie generated by applications based on the PHP language.
+This is a general purpose identifier used to maintain user session variables.
+It is normally a random generated number, how it is used can be specific to the site, but a good example is maintaining a logged-in status for a user between pages.
+NewVisitorDevice
+.veeam.com
+1 year
+In-house developed cookie
+dateTimeOffset
+www.veeam.com
+Session
+In-house developed cookie
+BLOGSESSID
+www.veeam.com
+Session
+Cookie used to store session ID for Veeam Blog user.
+hideCookieNotice
+.veeam.com
+Session
+This cookie is used to show or hide cookie notice.
+BrowserId_sec
+veeam--c.documentforce.com
+1 year
+Used to log secure browser sessions/visits for internal-only product analytics.
+x-bz-refresh-attendee-token-30976
+events.bizzabo.com
+2 years 8 months
+Bizaboo cookie for processing events.
+bz-cookie
+events.bizzabo.com
+5 minutes
+Bizaboo cookie for processing events.
+
+
+Performance Cookies. These cookies allow us to recognize and count the number of visitors to our websites, to learn how users navigate the websites, and to help us to improve how the website functions
+ Performance Cookies DomainExpirationDescription AMCV_[ABCDEF0123456789]{24}%40AdobeOrg.veeam.com2 yearsAMCV cookie is used by Adobe to identify a unique visitor.AMCVS_[ABCDEF0123456789]{24}%40AdobeOrg.veeam.comSessionThe AMCVS cookie serves as a flag indicating that the session has been initialized.
+Its value is always 1 and discontinues when the session has ended.mboxSession.veeam.tt.omtrdc.net31 minutesAdobe Target - this cookie helps run tests on websites to see which menus, links, content and banners work the best.mboxPC.veeam.tt.omtrdc.net2 yearsAdobe Target - this cookie helps run tests on websites to see which menus, links, content and banners work the best.mbox.veeam.com31 minutesCookie set by Adobe SiteCatalyst analytics software - used for measuring the performance of page content using A/B split testing._mkto_trk.veeam.com2 yearsThis cookie is associated with an email marketing service provided by Marketo.
+This tracking cookie allows a website to link visitor behaviour to the recipient of an email marketing campaign, to measure campaign effectiveness.xlly_s.youku.com1 dayCollects data on visitor interaction with the website's video-content.
+This data is used to make the website's video-content more relevant towards the visitor._sp_ses.7c84.events.bizzabo.com30 minutesThis cookie is associated with Snowplow and stores unique session ID for website performance analysis purposes._sp_id.7c84.events.bizzabo.com2 yearsThis cookie is associated with Snowplow and stores unique user ID for website performance analysis purposes.Name
+Domain
+Expiration
+Description AMCV_[ABCDEF0123456789]{24}%40AdobeOrg
+.veeam.com
+2 years
+AMCV cookie is used by Adobe to identify a unique visitor.
+AMCVS_[ABCDEF0123456789]{24}%40AdobeOrg
+.veeam.com
+Session
+The AMCVS cookie serves as a flag indicating that the session has been initialized.
+Its value is always 1 and discontinues when the session has ended.
+mboxSession
+.veeam.tt.omtrdc.net
+31 minutes
+Adobe Target - this cookie helps run tests on websites to see which menus, links, content and banners work the best.
+mboxPC
+.veeam.tt.omtrdc.net
+2 years
+Adobe Target - this cookie helps run tests on websites to see which menus, links, content and banners work the best.
+mbox
+.veeam.com
+31 minutes
+Cookie set by Adobe SiteCatalyst analytics software - used for measuring the performance of page content using A/B split testing.
+_mkto_trk
+.veeam.com
+2 years
+This cookie is associated with an email marketing service provided by Marketo.
+This tracking cookie allows a website to link visitor behaviour to the recipient of an email marketing campaign, to measure campaign effectiveness.
+xlly_s
+.youku.com
+1 day
+Collects data on visitor interaction with the website's video-content.
+This data is used to make the website's video-content more relevant towards the visitor.
+_sp_ses.7c84
+.events.bizzabo.com
+30 minutes
+This cookie is associated with Snowplow and stores unique session ID for website performance analysis purposes.
+_sp_id.7c84
+.events.bizzabo.com
+2 years
+This cookie is associated with Snowplow and stores unique user ID for website performance analysis purposes.
+
+
+Targeting Cookies. These cookies are used to identify visitors between different websites, e.g.
+content partners, banner networks.
+Those cookies may be used by companies to build a profile of visitor interests or show relevant ads on other websites.
+
+ Targeting Cookies DomainExpirationDescription pr-pr.veeam.com1 yearEncoding user email address for progressive profiling functionality.bargain_site.veeam.comSessionCheck if the user had the Bargain web site referral._gcl_au.veeam.com3 monthsUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services.MUID.bing.com1 yearThis cookie is widely used my Microsoft as a unique user identifier.
+It can be set by embedded microsoft scripts.
+Widely believed to sync across many different Microsoft domains, allowing user tracking.6suuid.6sc.co2 yearsRegisters user behaviour and navigation on the website, and any interaction with active campaigns.
+This is used for optimizing advertisement and for efficient retargeting.test_cookie.doubleclick.net15 minutesThis cookie is set by DoubleClick (which is owned by Google) to determine if the website visitor's browser supports cookies._uetsid.veeam.com1 dayThis cookie is used by Bing to determine what ads should be shown that may be relevant to the end user perusing the site._uetvid.veeam.com16 days 6 hoursUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences._gd_svisitorwww.veeam.com2 yearsCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads._an_uidwww.veeam.com7 daysPresents the user with relevant content and advertisement.
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers._gd_visitorwww.veeam.com2 yearsCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads._gd_sessionwww.veeam.com4 hoursCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.personalization_id.twitter.com2 yearsThis cookie carries out information about how the end user uses the website and any advertising that the end user may have seen before visiting the said website.UserMatchHistory.linkedin.com1 monthThis cookie is used to track visitors so that more relevant ads can be presented based on the visitor's preferences.bcookie.linkedin.com2 yearsThis is a Microsoft MSN 1st party cookie for sharing the content of the website via social media.lidc.linkedin.com1 dayThis is a Microsoft MSN 1st party cookie that ensures the proper functioning of this website._fbp.veeam.com3 monthsUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.fr.facebook.com3 monthsContains browser and user unique ID combinaton, used for targeted advertising.bscookie.www.linkedin.com2 yearsUsed by the social networking service, LinkedIn, for tracking the use of embedded services.IDE.doubleclick.net1 yearThis cookie carries out information about how the end user uses the website and any advertising that the end user may have seen before visiting the said website.YSC.youtube.comSessionThis cookie is set by YouTube to track views of embedded videos.VISITOR_INFO1_LIVE.youtube.com6 monthsThis cookie is set by Youtube to keep track of user preferences for Youtube videos embedded in sites;it can also determine whether the website visitor is using the new or old version of the Youtube interface.BrowserId_sec.force.com1 yearCollects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.spsp.bizzabo.com1 yearThis cookie is associated with Eventbrite and is used to deliver content tailored to the end user's interests and improve content creation.
+This cookie is also used for event-booking purposes.ce_need_secure_cookie.veeam.comSessionUsed to determine cookie policy parameters for Crazyegg website optimization tool.Name
+Domain
+Expiration
+Description pr-pr
+.veeam.com
+1 year
+Encoding user email address for progressive profiling functionality.
+bargain_site
+.veeam.com
+Session
+Check if the user had the Bargain web site referral.
+_gcl_au
+.veeam.com
+3 months
+Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+MUID
+.bing.com
+1 year
+This cookie is widely used my Microsoft as a unique user identifier.
+It can be set by embedded microsoft scripts.
+Widely believed to sync across many different Microsoft domains, allowing user tracking.
+6suuid
+.6sc.co
+2 years
+Registers user behaviour and navigation on the website, and any interaction with active campaigns.
+This is used for optimizing advertisement and for efficient retargeting.
+test_cookie
+.doubleclick.net
+15 minutes
+This cookie is set by DoubleClick (which is owned by Google) to determine if the website visitor's browser supports cookies.
+_uetsid
+.veeam.com
+1 day
+This cookie is used by Bing to determine what ads should be shown that may be relevant to the end user perusing the site.
+_uetvid
+.veeam.com
+16 days 6 hours
+Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+_gd_svisitor
+www.veeam.com
+2 years
+Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+_an_uid
+www.veeam.com
+7 days
+Presents the user with relevant content and advertisement.
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.
+_gd_visitor
+www.veeam.com
+2 years
+Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+_gd_session
+www.veeam.com
+4 hours
+Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+personalization_id
+.twitter.com
+2 years
+This cookie carries out information about how the end user uses the website and any advertising that the end user may have seen before visiting the said website.
+UserMatchHistory
+.linkedin.com
+1 month
+This cookie is used to track visitors so that more relevant ads can be presented based on the visitor's preferences.
+bcookie
+.linkedin.com
+2 years
+This is a Microsoft MSN 1st party cookie for sharing the content of the website via social media.
+lidc
+.linkedin.com
+1 day
+This is a Microsoft MSN 1st party cookie that ensures the proper functioning of this website.
+_fbp
+.veeam.com
+3 months
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+fr
+.facebook.com
+3 months
+Contains browser and user unique ID combinaton, used for targeted advertising.
+bscookie
+.www.linkedin.com
+2 years
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+IDE
+.doubleclick.net
+1 year
+This cookie carries out information about how the end user uses the website and any advertising that the end user may have seen before visiting the said website.
+YSC
+.youtube.com
+Session
+This cookie is set by YouTube to track views of embedded videos.
+VISITOR_INFO1_LIVE
+.youtube.com
+6 months
+This cookie is set by Youtube to keep track of user preferences for Youtube videos embedded in sites;it can also determine whether the website visitor is using the new or old version of the Youtube interface.
+BrowserId_sec
+.force.com
+1 year
+Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+sp
+sp.bizzabo.com
+1 year
+This cookie is associated with Eventbrite and is used to deliver content tailored to the end user's interests and improve content creation.
+This cookie is also used for event-booking purposes.
+ce_need_secure_cookie
+.veeam.com
+Session
+Used to determine cookie policy parameters for Crazyegg website optimization tool.
+
+
+Functionality Cookies. These cookies are used to recognize visitors when they return to the website and allow other aspects of the website to function as intended such as personalization and remembering your saved preferences.
+ Functionality Cookies DomainExpirationDescription PopupBannerRejected.veeam.comSessionAMCV cookie is used by Adobe to identify a unique visitor.tucommunity.veeam.com2 yearsSet for internal community events - unique hash.anon:new_visitcommunity.veeam.com30 minutesBoolean true/false.tcommunity.veeam.comSessionSet for internal community events - session value.lastactivitycommunity.veeam.com6 monthsString: timestamp.
+Collapsedcommunity.veeam.com1 yearHolds collapsed content.topicscommunity.veeam.com2 daysNumerical ID's of the topics visited by the user - Used to identify returning visitors to a topic page._wchtbl_do_not_processwww.veeam.com1 hourFunctional cookie that remembers information that changes the way the website behaves or looks._wchtbl_pixel_syncwww.veeam.com1 hour Functional cookie that remembers information that changes the way the website behaves or looks._wchtbl_uidwww.veeam.com1 yearFunctional cookie that remembers information that changes the way the website behaves or looks._wchtbl_sidwww.veeam.comSessionFunctional cookie that remembers information that changes the way the website behaves or looks.drift_campaign_refreshwww.veeam.com30 minutesSets a unique ID for the specific user.
+This allows the website to target the user with relevant offers through its chat functionality.drift_aidwww.veeam.com2 yearsThis is the anonymous identifier token used to tie the user to the profile within the Drift system.
+This allows Drift to remember the information that this user has provided through the chat on subsequent site visits.driftt_aidwww.veeam.com2 yearsThis is the anonymous identifier token used to tie the user to the profile within the Drift system.
+This allows Drift to remember the information that this user has provided through the chat on subsequent site visits.AnalyticsSyncHistory.linkedin.com1 monthUsed to store information about the time a sync with the lms_analytics cookie took place for users in the Designated Countries.lang.ads.linkedin.comSessionUsed to store language preferences to serve up content in the stored language.lang.linkedin.comSessionUsed to store language preferences to serve up content in the stored language.BIGipServerabjweb-nginx-app_httpsgo.veeam.comSessionMarketo MunchkinEnables Marketo forms functionality.isg.youku.com6 monthsAllows users to view videos.
+We embed videos from Youku channel.
+This may set cookies on your computer once you click on the Youku video player.cna.youku.com20 yearsAllows users to view videos.
+We embed videos from Youku channel.
+This may set cookies on your computer once you click on the Youku video player.cna.mmstat.com10 yearsAllows users to view videos.
+We embed videos from Youku channel.
+This may set cookies on your computer once you click on the Youku video player.sca.mmstat.comSessionAllows users to view videos.
+We embed videos from Youku channel.
+This may set cookies on your computer once you click on the Youku video player.Name
+Domain
+Expiration
+Description PopupBannerRejected
+.veeam.com
+Session
+AMCV cookie is used by Adobe to identify a unique visitor.
+tu
+community.veeam.com
+2 years
+Set for internal community events - unique hash.
+anon:new_visit
+community.veeam.com
+30 minutes
+Boolean true/false.
+t
+community.veeam.com
+Session
+Set for internal community events - session value.
+lastactivity
+community.veeam.com
+6 months
+String: timestamp. Collapsed
+community.veeam.com
+1 year
+Holds collapsed content.
+topics
+community.veeam.com
+2 days
+Numerical ID's of the topics visited by the user - Used to identify returning visitors to a topic page.
+_wchtbl_do_not_process
+www.veeam.com
+1 hour
+Functional cookie that remembers information that changes the way the website behaves or looks.
+_wchtbl_pixel_sync
+www.veeam.com
+1 hour&nbsp.
+Functional cookie that remembers information that changes the way the website behaves or looks.
+_wchtbl_uid
+www.veeam.com
+1 year
+Functional cookie that remembers information that changes the way the website behaves or looks.
+_wchtbl_sid
+www.veeam.com
+Session
+Functional cookie that remembers information that changes the way the website behaves or looks.
+drift_campaign_refresh
+www.veeam.com
+30 minutes
+Sets a unique ID for the specific user.
+This allows the website to target the user with relevant offers through its chat functionality.
+drift_aid
+www.veeam.com
+2 years
+This is the anonymous identifier token used to tie the user to the profile within the Drift system.
+This allows Drift to remember the information that this user has provided through the chat on subsequent site visits.
+driftt_aid
+www.veeam.com
+2 years
+This is the anonymous identifier token used to tie the user to the profile within the Drift system.
+This allows Drift to remember the information that this user has provided through the chat on subsequent site visits.
+AnalyticsSyncHistory
+.linkedin.com
+1 month
+Used to store information about the time a sync with the lms_analytics cookie took place for users in the Designated Countries.
+lang
+.ads.linkedin.com
+Session
+Used to store language preferences to serve up content in the stored language.
+lang
+.linkedin.com
+Session
+Used to store language preferences to serve up content in the stored language.
+BIGipServerabjweb-nginx-app_https
+go.veeam.com
+Session
+Marketo MunchkinEnables Marketo forms functionality.
+isg
+.youku.com
+6 months
+Allows users to view videos.
+We embed videos from Youku channel.
+This may set cookies on your computer once you click on the Youku video player.
+cna
+.youku.com
+20 years
+Allows users to view videos.
+We embed videos from Youku channel.
+This may set cookies on your computer once you click on the Youku video player.
+cna
+.mmstat.com
+10 years
+Allows users to view videos.
+We embed videos from Youku channel.
+This may set cookies on your computer once you click on the Youku video player.
+sca
+.mmstat.com
+Session
+Allows users to view videos.
+We embed videos from Youku channel.
+This may set cookies on your computer once you click on the Youku video player.
+Managing Cookies Many browsers accept cookies automatically, but you can adjust the settings in your browser to disable this automatic acceptance of cookies.
+How you control this will be different on different browsers.
+For more information on how to control cookies, check your browser or deviceâs settings for how you can control or reject cookies, or visit the following links:
+Apple Safari
+Google Chrome
+Microsoft Edge
+Microsoft Internet Explorer
+Mozilla Firefox
+Opera
+Android (Chrome)
+Blackberry
+Iphone or Ipad (Chrome)
+Iphone or Ipad (Safari)
+In addition, you may opt-out of some third-party cookies through the Network Advertising Initiativeâs Opt-Out Tool.
+Note that if you choose not to accept cookies, you may experience limited functionality of our websites.

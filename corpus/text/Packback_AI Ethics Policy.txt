@@ -1,0 +1,48 @@
+
+         Packback AI Ethics Policy 
+Last updated: 10/22/19
+
+Packback is a platform dedicated to inspiring studentsâ curiosity, growth, and intrinsic motivation to learn.
+Artificial intelligence (AI) is an excellent tool for supporting learning through the delivery of immediate, scalable feedback, and has the potential to make quality educational experiences more accessible for students everywhere.
+The Packback team takes the responsibility of being a platform that incorporates algorithms into the learning process extremely seriously, and we have developed an ethical policy used internally to guide decisions around our AIâs development and usage. 
+This ethical policy has been based upon the standard set out in âEthics Guidelines for Trustworthy AIâ published by the European Union as a supplement to GDPR (General Data Protection Regulation).
+Packbackâs Ethical Guidelines for Educational AI 1) Prioritize the well-being of students, above all else.
+We believe Ethical Educational AI must deliver meaningful improvements to the well-being of those who use it.
+Students are Packbackâs ultimate stakeholders.
+While we work with instructors, TAs, Institutions, and Systems, we are ultimately accountable to the students who work and learn on Packback.
+Any feature added to our AI or platform must contribute to the well-being of students (in the form of enjoyment, motivation, course success, or long-term educational or employment prospects, etc.) either directly, or indirectly via features that enable instructors and institutions to deliver a more personalized, sustainable, enjoyable, and effective learning experience to students. We believe Ethical Educational AI must provide actionable feedback.
+Instead of retroactive measurement of a studentsâ success, a core design tenant of Packbackâs AI is to keep moving high-quality feedback earlier in the process of a student interacting with the system, and allow students to keep improving the quality of their submissions instead of immediate penalization.  2) Be a supplement for people.
+not a substitute.
+We believe Ethical Educational AI must build solutions that augment and empower educators, not seek to replace them.
+Algorithms are an excellent tool to support educators, particularly in the face of increasing class sizes, as AI is a complement to the skills of humans.
+Where instructors are excellent at critical thought, empathetic communication, connection with students, and combinatory thinkingâ¦while algorithms are excellent at the continuous, real-time application of set rules with consistency.
+Our system exists to expand the capabilities of instructors by supplementing their work with highly scalable resources to lead to the best possible learning experience for students.
+
+To build a system that attempts to fully automate the role of an instructor in the educational process would not only be an impossible task, but a deeply unethical one that contradicts the first tenant of our AI Ethics Guidelines (âCommitment to the well-being of students, above all else.â) as the student-instructor relationship is critical to the learning experience and well-being of students. 3) Do no harm.
+We believe Ethical Educational AI must continuously seek to reduce bias in its feedback or classification.
+Packback is committed to combating bias in our AI that would unfairly impact users on the basis of their gender, age, race, language-learner status, or other human factors outside of their control.
+Packback collects only user data essential to delivering immediate and essential value to people using Packback.
+Itâs easier to prevent demographic data from being used as training data in AI systems if that data is not collected in the first place.  We believe Ethical Educational AI must considerâand design forâthe worst possible scenarios.
+All of Packbackâs AI features are analyzed from a lens of how it could increase the well-being of the people using our platform, as well as how they could possibly harm them.
+Features added to the Packback AI are subjected to critical questioning on ways the addition could introduce bias into our system or negatively impact the well-being of people using the Packback platform.
+We seek continuous feedback from outside parties to supplement our own judgment, including the feedback of students, instructors, administrators, and third-party auditors specializing in security and accessibility about ways to increase student well-being in our platform and reduce risk.  We believe Ethical Educational AI has been built to take preventative measures to protect data security and privacy.
+Our team prioritizes the security of all user data, and gives users control of their own data stored on Packback.
+Proactive measures are taken by the Packback team to adhere to the most stringent of current standard of data privacy best practices.
+Harm through inaction, poor preparation, or carelessness is just as significant as harm caused by deliberate action.
+For more information about Data Security at Packback, please visit our Compliance Center. 4) Be transparent and explainable in plain language.
+We believe Ethical Educational AI must be transparent and explainable in plain language.
+Packbackâs product team prioritizes building simple, explainable, understandable AI, instead of adding complexity to our algorithms.
+Since Packbackâs algorithms have a bearing on studentsâ grades, it is critically important that any decisions made by our AI can be explained by people, to people.
+While more complex models exist that could improve the accuracy of classification on Packback, our team believes in maintaining simple and explainable algorithms as a core principle of our product development process.
+Members of Packbackâs team must be able to confidently explain why the AI made a recommendation or assigned a score that it did in plain language.
+People using the Packback platform should receive consistent, understandable feedback throughout their experience using the platform.  5) Be held accountable by humans.
+We believe Ethical Educational AI must be validated by human oversight.
+Packback provides human oversight to audit and verify the recommendations of our AI to ensure checks-and-balances.
+Any recommendations made by our AI that could have an impact on a studentsâ grade or participation score are either directly verified or audited by human oversight by members of our Moderation or Support teams.
+ We believe Ethical Educational AI must defer to decisions made by people, when those decisions conflict with AI recommendations.
+The design team at Packback continues to look for ways to use AI to make recommendations to help people make more informed, scalable decisions, involving people in processes rather than removing them.
+If a qualified individual in a course has taken an action that would contradict the AIâs recommendation, their action should take precedence. We believe Ethical Educational AI should be able to be challenged and questioned by the people it serves.
+People using the Packback platform have a right to challenge decisions made about their data and request an explanation of why a decision was made.
+Students, instructors, and administrators have the right to a transparent explanation of why an AI-based decision was made and have the right to request a re-evaluation of that decision by a member of the Packback team.
+
+If you feel that a piece of your data was wrongly flagged, moderated, or scored by our AI and would like an explanation or re-evaluation, please contact our support team.

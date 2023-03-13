@@ -1,0 +1,32 @@
+
+        Security controlsBelow are some of the major controls we leverage to secure our cloud service infrastructure:
+Infrastructure and Physical SecurityWhen we selected an infrastructure provider, we drew on our technical teamâs experience in developing and operating market-leading cloud services.
+This enabled us to build in security and availability at every layer, from physical security through to computer, network, and storage.
+We complement these measures with well-defined security and access policies, and prove our security using ongoing third-party audits and certification.
+We protect your data at every point in our infrastructure, including compute, storage, and network transmission.
+We ensure that all of our service providers meet our data protection standards.We continuously monitor the health of our service and show customers those metrics via this trust portal.Secure PersonnelOur security-focused culture starts at the highest level with a chief security officer who reports directly to the CEO on security issues.
+It extends throughout the company via a security team that trains employees to watch for social engineering attacks like phishing, and tests them regularly to ensure compliance.
+We also support this culture with a policy that limits the amount of employees who have access to production systems.Our security controls govern employees and contractors before, during, and after their time at Okta.Our security team builds security into our culture by promoting security awareness and testing employees to ensure compliance.We reduce risk by limiting production access to those that need it to do their jobs, while continuing to monitor their access.Secure Development LifecycleWe begin building security into our software before we write any line of code.
+Strict security checkpoints govern every step of our development lifecycle from design through to coding, testing, and deployment.
+Our internal security team works with independent external security researchers to validate our software security.
+Each year, we train our developers in the latest secure programming and code review techniques.
+Our software security is regularly reviewed by peers, in-house security researchers, and third-party security assessors.
+Our software development lifecycle includes more than 60,000 tests.
+Our coding tools automatically assess software security as they build our web applications.Our internal penetration testing team continually audits source code per OWASP standards to measure source code integrity.Secure Customer DataOktaâs data protection meets the highest industry standards, complying with FedRAMP and NIST 800-53, HIPAA, and ISO 27001 requirements.
+Our state-of-the-art encryption technology protects customer data both at rest and in transit to the userâs browser, leaving no weak spots for attackers.
+We encrypt all customer data at the data field level, ensuring that we protect all of your sensitive information.We protect every customer individually with several unique encryption keys.We protect those encryption keys using Amazonâs industry-tested key management service.Security and Penetration TestsWe aggressively hunt for bugs in our software using four concurrent security programs.
+Our internal tests work in conjunction with third-party security audits, a public bug bounty program, and a highly-responsive customer bug reporting program.
+We also believe in the customerâs right to conduct a penetration test on Okta, and so we provide them with test environments to do that.We support multiple security and penetration testing programs in parallel.We provide environments to support customersâ own penetration tests on Okta systems.Our public bug bounty program allows anyone to test our system security and report bugs.Our people make the differenceOur security experts have worked for the worldâs leading SaaS companies.
+We incorporate their research directly into our products in a cycle of continuous improvement.
+Read our security blog for industry news and insights.
+Iâm really impressed with Oktaâs responsiveness.
+Within an hour or two, we always get a response to acknowledge that a request has gone through.
+Its technicians own even the trickiest problems and work right through to completion.
+Thatâs an important thing for us.
+
+Grant Holton Picard, Enterprise Architect for Oxfam InternationalRead customer success story
+Okta has demonstrated, not just to us, but to industry analysts and security experts, that they take security very seriously, and that it's a service that we'll be able to trust.
+
+Den Jones, Senior Manager IT services, AdobeRead customer success storyLearn more about Oktaâs securityWant to dive deeper into Oktaâs approach to security? Follow the links below:
+Okta Security Technical WhitepaperDownload the whitepaperOkta SecOps on Security: Protecting Your Okta OrgsWatch the presentationSecurity Deep-Dive: Adaptive Authentication for Enhanced SecurityWatch the presentationHow we work with AWS to improve securityWatch the videoHow Okta Designed a Comprehensive Approach to SecurityDownload the whitepaperHands-on security training: Advanced Security: Protect the Modern Perimeter with OktaRegister now
+      

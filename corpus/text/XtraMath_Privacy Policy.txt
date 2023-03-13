@@ -1,0 +1,201 @@
+
+        Open nav menu Close nav menu
+Donate
+Resources
+Support
+Enter code
+Create account
+Sign in
+
+Your browser does not support all features used by our website.
+Some elements may not display correctly.
+For the best experience, use an up-to-date browser such as Chrome, Firefox, Edge, or Safari, and ensure javascript is enabled.Printable version
+XtraMath Privacy PolicyIntroductionXtraMath is committed to protecting data privacy.
+We strictly adhere to this Privacy Policy, which explains what user data we collect and how we use it.
+This policy and our
+Terms of Service
+are known collectively as our âTerms.â We may change these Terms from time to time, but will provide notice as specified in the Terms of Service document.
+
+This policy is effective May 25, 2018, and replaces our prior privacy policy
+.
+Summary
+
+
+We collect the minimum amount of data required to operate our program.
+We use parentsâ and teachersâ Personal Data to operate our program and, with their permission, to contact them about the program.
+We use studentsâ Personal Data only to operate our program.
+We use de-identified student data to improve our program.
+We protect student data and have signed the
+Student Privacy Pledge.
+We do not advertise to students, sell their data, or profile them in any way.
+We comply with applicable data privacy laws, such as FERPA, COPPA, and GDPR.
+We never sell user data to third parties.
+
+
+What Data We CollectXtraMath collects the minimum amount of data required to operate our program.
+Below we summarize the data we collect on students, teachers, and parents.
+For an up-to-date list that shows what user data we collect, and how we use that data, see Appendix B,
+Record of Data Processing.Definitions
+
+
+
+Data includes all information connected with a personâs or educational entityâs use of XtraMath.
+This includes, but is not limited to, Personal Data, metadata, usage and performance data.
+
+Personal Data includes any data that can directly or indirectly identify an individual person.
+For example: an email address is always considered Personal Data.
+a studentâs grade level generally is not, but could be in conjunction with other information.
+
+School includes: individual schools.
+teachers acting on behalf of schools.
+school districts.
+and other local educational entities.
+
+
+Student DataWe collect a studentâs first name, grade level, and program settings from the studentâs parent or teacher.
+As the student uses XtraMath, we collect usage and performance data, such as when they signed in, how many questions they answered correctly, and how long it took them to answer questions.
+If a student signs in via a single sign-on provider, such as Google, we collect an identifier from the provider that allows us to authenticate their sign-in.
+We do not collect the student email address that may be used for such a sign-in.
+Other personal information about the student could be inferred from data that we collect.
+If a student account belongs to a class, for example, then we could infer that they attend a certain school.Parent DataWe collect a parentâs name and email address when they sign up for an account.
+If they sign up using a single sign-on provider, we also collect an identifier that allows us to authenticate their sign-in.
+We also collect some metadata and account settings, such as their time zone, the language they used to sign up, and their email preferences.
+A parent supplies a password when they create an account.
+The password is hashed (scrambled) on the userâs computer before it is ever sent to XtraMath.
+We do not have access to a userâs original password, and cannot obtain it from the hashed version that we receive.
+Other personal information about the parent could be inferred from data that we collect.
+For example, we could infer that a parent whose account is linked to a student account is the parent or guardian of that student.Teacher DataWe collect the same data for teacher accounts as parent accounts, with a few additions.
+For example, we collect the name by which students address the teacher, such as âMs.
+Smith.â We also collect information about each class that the teacher creates, such as its name and its end date.
+Other personal information about the teacher could be inferred from data we collect.
+For example, we could infer that the teacher works at a specific school based on their email address.How We Use and Share DataXtraMath processes user data in order to establish and maintain accounts, to provide educational activities to students, to compile and deliver reports about those activities to teachers and parents, and to understand and improve our programâs effectiveness.
+For an up-to-date list that shows the specific types of user data we collect, and how we use that data, see Appendix B,
+Record of Data Processing.Student DataA studentâs Personal Data is used internally to provide the student with appropriate educational activities, and to report their performance to their parents and teachers.
+We may access student Personal Data when providing customer support or investigating a reported issue with our program.Parent and Teacher DataA parentâs or teacherâs Personal Data is used internally for sign-in purposes and, with permission, to send them reports, announcements, and alerts related to XtraMath.
+We may access a parentâs or teacherâs Personal Data when providing them with requested support.Sharing Personal Data with Third PartiesWe release Personal Data to third parties only in the following circumstances:
+
+
+When the user requests the disclosure, such as a teacher sharing their class with another teacher.
+
+When the third party is a trusted service provider, and the data is required to adequately perform the service.
+We carefully vet our service providers and their security practices.
+For details, see Appendix A,
+List of Third Party Providers.
+
+When required by law or a court order.
+
+
+In the event of a joint venture, sale or merger with a third party.
+The third party would be required to uphold our Terms, including our Privacy Policy for all existing accounts.
+We would provide advance notice before sharing data with that third party.
+
+
+
+XtraMath never releases Personal Data for any kind of third-party advertising.Use of De-identified DataWe may use de-identified usage data internally to analyze and improve our educational services, and to develop new products or features.
+We will never attempt to re-identify data that has been de-identified.
+We may release de-identified data to educational researchers for the purpose of evaluating the effectiveness of our program.
+We will not release de-identified data unless we are confident it cannot be re-identified, due to the removal of all direct and indirect personal identifiers, and the educational researchers have agreed in writing that they will not attempt to re-identify any individuals, classes, or Schools.
+We may use aggregate de-identified data, such as the number of users of our service, for promotional purposes.How We Securely Store DataXtraMath takes security seriously.
+We implement a variety of industry-standard security measures to prevent any unauthorized access to our usersâ data.
+Such measures include, but are not limited to: data minimization.
+encrypting data in transit via HTTPS.
+hashing sensitive data, like passwords.
+deletion of outdated data.
+locked physical facilities.
+employee training.
+and administrator account security.Data Storage and International TransferXtraMath stores and processes all data on servers in the United States.
+All servers that store XtraMath data are operated by trusted third party processors with whom we have contractual Data Processing Addendums.
+Our providers are certified under the
+EU-US Privacy Shield and Swiss-US Privacy Shield, to better protect the data of our international users.
+For details, see Appendix A,
+List of Third Party Providers.Data Breach ResponseWhile we use industry-standard practices to safeguard data, no service can guarantee absolute data security.
+We have a Breach Response Plan, which we will follow if we ever discover that Personal Data has been accessed improperly.
+As part of our response, we will: take action to stop further data loss or unauthorized access.
+investigate how the breach occurred.
+promptly contact all affected users via email.
+and contact law enforcement and government agencies when appropriate.Data Retention and DeletionXtraMath retains Personal Data only for as long as necessary to ensure continuity of math skill-building for students, and for the convenience of parents and teachers.
+We close user accounts, and delete all associated identifiable data, upon request.
+Most types of data are also deleted automatically after a certain amount of time has passed.
+For details, see Appendix B,
+Record of Data Processing.
+We may retain de-identified, aggregate data, which cannot identify any individual user, for research and program improvement purposes.
+Such data is deleted once no longer necessary for these purposes.
+We will provide certification of data deletion upon request.Compliance with Data Privacy LawsXtraMath intends to comply with the data privacy and data protection laws of all jurisdictions where it operates.
+See the XtraMath and Student Data Privacy whitepaper for the latest information on compliance.
+Some specific examples of legislation that we comply with are described below.United States
+Childrenâs Online Privacy Protection Act (COPPA):
+As a non-profit organization, XtraMath is not subject to
+COPPA.
+Nevertheless, we fully comply with the law as if we were subject to it.
+Children under the age of 13 may not create accounts.
+We only collect usage and performance data from students as a result of their performing educational activities, and we only use that data for educational purposes.
+If we gain actual knowledge that a child is using XtraMath without the appropriate consent, we terminate the account.
+
+Family Education Rights Protection Act (FERPA):
+Schools in the United States may provide student data to XtraMath while complying with
+FERPA.
+When a School provides us with a studentâs Personal Data (or PII â Personally Identifiable Information) under the FERPA school official exemption, they remain in control of that data.
+XtraMath will only use and disclose that data as specified in our Terms and as allowed by law.International
+General Data Protection Regulation (GDPR):
+XtraMath affirms and respects all data subject's rights under
+GDPR.
+We minimize the data we collect and process, and use data only as described in this policy.
+For detailed information about what data we process, for what purpose, for how long, and our basis for doing so under the GDPR, see Appendix B,
+Record of Data Processing.
+To object to processing, or to request data deletion or access, contact our Data Protection Officer at privacy@xtramath.org.Cookies and Local Storage
+XtraMath intends to discontinue the use of cookies by August 1, 2018.
+
+XtraMath uses two types of cookies.
+These cookies can be cleared via browser settings â
+aboutcookies.org
+provides cookie management instructions for many specific browsers.
+
+
+
+
+Google Analytics
+cookies allow us to see data such as the number of site visitors we get, and which pages they visit the most.
+
+Vimeo
+cookies are stored when users play the videos on our homepage, and primarily keep track of the video player settings.
+
+
+
+The XtraMath website uses âLocalStorageâ files to remember a userâs sign-in information (if they choose to do so).
+We also use âSessionStorageâ to improve performance during student activities by temporarily storing activity data on the device.
+Use of LocalStorage and SessionStorage is not required to use XtraMath.
+Users can remove remembered sign-in information at any time via the appropriate sign-in page.
+Users can also clear all LocalStorage by using the âClear nowâ button on our
+support page, or via browser settings.
+The XtraMath mobile apps use application data for the same purposes as browser LocalStorage and SessionStorage.
+Users can still remove remembered sign-in information via the appâs sign-in pages.
+Uninstalling the app will remove all locally stored data.
+Some devices also allow users to clear locally stored app data without uninstalling the app.Contact UsFor data privacy questions or concerns, to object to processing, or to request access to or deletion of your or your childâs Personal Data, email us at privacy@xtramath.org.
+You may also write to us at: XtraMath, 4700 42nd Ave SW #580, Seattle, WA 98116Appendix A: List of Third Party ProvidersThis list will be kept up-to-date to include all third-party providers with which XtraMath shares user data.Provider NameData shared with ProviderPurposeRelevant PoliciesAWSUser account data, including name, email address, and program usage.Database hosting via remote serversPrivacy PolicyGoogleAnonymous ID created by cookieWebsite analyticsPrivacy Policy
+Opt-out Browser Add-onMaxMindIP addressGeolocation servicePrivacy PolicyVimeoAnonymous ID created by cookie, video player settingsEnable playback of embedded videos (remember volume, if video is paused, etc)Privacy PolicyAppendix B: Record of Data ProcessingWe have compiled this record in order to provide users with as much transparency as possible into how we use their data.
+This record also helps us to comply with European law.
+Unless otherwise noted in the record below, we process user data based on our legitimate interests.Account TypeType of DataProcessing PurposeDeletionStudentFirst name, PIN, parent or teacher email, classAccount access and identificationUpon account closure1.
+Some information is deleted upon removal from the class or linked account.Single-sign-on provider and hashed IDAccount access using optional 3rd party credentialUpon request or account closure1Grade levelDetermine initial activity level.
+When de-identified and aggregated, used to analyze program usage.Upon account closure1Program settings: current program, UI options, preferred language, etc.Activity customization.
+When de-identified and aggregated, used to analyze program usage.Upon account closure1Activity dataActivity customization and creation of progress reports.
+When de-identified and aggregated, used to analyze program usage.Upon account closure1.
+Some data is deleted when user restarts a program.
+Detailed activity data is deleted after one year.Parent or TeacherName, âaddressed asâ name, email address, hashed passwordAccount access and identificationUpon account closure2, 3Email addressSend announcements, alerts, reports, and/or reminders via emailProcessing ceases upon request.
+Data deletion upon account closure2, 3Email addressShare with linked accounts that have access to same student or class (for increased transparency and security of student data)Data deletion upon account closure2, 3Account settings: account type, email preferences, time zone, etc.Create progress reports and maintain data preferencesUpon account closure2, 3Electronic identifiers: account change timestamps, version number, etc.Technical support and account securityUpon account closure2, 3Single-sign-on provider and hashed IDAccount access using optional 3rd party credentialUpon request or account closure2, 3IP addressDetermine time zone upon sign-upNot storedHashed IP addressAccount securityAfter 1 year or upon account closure2, 3TeacherHashed IP addressExpedite classroom setup on multiple devicesAfter 24 hoursClass name, class end date, student namesCreate progress reports and facilitate program usageUpon request, account closure3, or one year after class end date.All usersHashed IP address, change logsNetwork securityAfter 90 daysDe-identified and aggregated usage dataProduct improvement and development, promotional activities, and educational researchUntil no longer useful
+Student accounts: account closure occurs upon request, automatically after two years of account inactivity, or one month after being unlinked from all parent and teacher accounts.
+Parent accounts: account closure occurs upon request, or automatically after two years of account inactivity.
+Teacher accounts: account closure occurs upon request.
+
+
+ About
+Donate
+ Resources
+Support
+Mobile App
+ Privacy
+Terms
+Copyright Â© 2020-2021 XtraMath.
+All rights reserved.
+XtraMathÂ® is a U.S.
+registered trademark.
+      

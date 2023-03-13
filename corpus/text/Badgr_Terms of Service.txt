@@ -1,0 +1,319 @@
+
+         BADGR TERMS OF SERVICE
+Hello and welcome to Badgr, a service provided by Concentric Sky, Inc., a U.S.
+corporation (âCSky,â âus,â âwe,â or âourâ) through our websites (badgr.io, badgr.com, and badgr.org), and our APIs (collectively âthe Siteâ or âBadgrâ).
+Badgr is an online platform to create, curate, issue, receive, explore, and share micro-credentials (âBadgesâ).
+Badgr allows organizations to access tools to issue Badges to Badge Recipients as well as various related administrative tools and services, and it allows individuals to receive Badges as an indicator of accomplishment or skill (e.g.
+successful completion of a degree or a continuing education course).
+As used in these Badgr Terms of Service, âyou,â âyours,â âthey,â âthemâ refers to the person and/or organization logging into Badgr or otherwise accessing the Site.
+If you are a Badge recipient or just visiting our Site, the Badgr Terms of Service is the master contract that governs your use of Badgr as a Badge recipient or when visiting our Site.
+If you are accessing Badgr on behalf of an organization with a business account, the Badgr Terms of Service is the master contract that governs your use of Badgr and access to the Site unless your organization has a master agreement with us.
+An organization with a business account might, for example, access Badgr to issue Badges via the web interface, facilitate a Badge transfer on behalf of one or more badge recipients (e.g.
+a clearinghouse) or to access the Badgr API to enable automated Badge issuance.
+If your organization has a master agreement with us, these Badgr Terms of Service are incorporated into and made a part of that master agreement and they apply to your access to the Site and use of Badgr.
+In all cases, your access and use of the Site is subject to the terms and conditions set out below in these Badgr Terms of Service and the other documents listed below (collectively, âTermsâ).
+The Terms consist of the following documents:
+
+Badgr Terms of Service.
+These contain the core legal and commercial terms that apply to your use of Badgr.
+Where there is a master agreement in place, however, the master agreement will control.
+Badgr Privacy Policy.
+This policy describes how we collect, manage, use, store, and share data in our capacity as a controller, including when you are just visiting our Site, you are only accessing Badgr to receive Badges, or you contact us for Badgr services pricing or other information and your organization does not yet have a business account.
+It also describes your rights of access, deletion, and correction of your data.
+Badgr Business Account Privacy Policy.
+This policy describes how we collect, receive, use, store, share, transfer, and process data in our capacity as a processor, including processing personal information in connection with the use of Badgr under a Business Account (defined below).
+It also describes the rights of access, deletion, and correction of data of users accessing Badgr through a Business Account.
+Data Processing Addendum (DPA).
+This explains how we process data, including in compliance with European Data Protection Laws (defined in the DPA) and the California Consumer Privacy act of 2018 (CCPA), where applicable.
+
+We have tried to make these documents as easy to read as possible, but in some places for legal reasons, some of the language is necessarily âlegalese.â You indicate your agreement to these Terms by clicking or tapping on a button indicating your acceptance of these Terms, by executing a document that references them, or by using Badgr.
+TERMS OF SERVICE
+1.
+THE BADGR SERVICE.
+
+1.1 Description. Badgr is an online platform to create, curate, issue, receive, explore, and share Badges.
+Users can access tools to issue Badges to learners and other persons eligible to receive a Badge (each a âBadge Recipientâ), as well as associated administrative tools and services.
+Badge Recipients and other individuals eligible to receive a Badge can utilize Badgr to receive, organize and display Badges).
+Badgr also includes features that integrate with products and services offered by third parties to facilitate the micro-credentialing process and the sharing of Badges.
+For example, the Badgr Pathways tool allows users to interact with Badges from other Open Badge Specification compliant platforms.
+
+1.2 Open Badges.
+
+
+a. Badges are based on the Open Badge Specification developed through the work of IMS Global Learning Consortium, Inc.
+(âIMS Globalâ) and its members, including CSky.
+CSky expects all users to respect the Open Badge Specification.
+CSky plays no role in determining the value or veracity of a Badge, and CSky does not endorse or vouch for the qualifications of any Badge Recipient.
+The issuer of a Badge is solely responsible for determining the value and veracity of each Badge and the qualifications of each prospective Badge Recipient.
+
+b. In 2020 IMS Global launched the Badge Connectâ¢ API open standard, an initiative that was developed in partnership with its members, including CSky.
+As a supporter of the Badge Connect standard, CSky allows third parties to send Badges between Badgr and third-party services on behalf of Badge Recipients.
+The third party accessing Badgr for such purposes is solely responsible for obtaining the Badge Recipientâs consent in advance of accessing Badgr for such purposes and for ensuring it shares the Badge Recipientâs Badges only with third-party services the Badge Recipient has expressly authorized.
+Any third party accessing Badgr to facilitate Badge sharing must have a Business Account.
+
+c. When a Badge is issued by the owner of a Business Account, pursuant to the Open Badge Specifications, Badgr creates a publicly available webpage for the Badge.
+This means the Badge and the associated Badge meta-data automatically becomes publicly available information upon issuance.
+In addition, once a Badge is issued, that Badge becomes sharable at the discretion of the Badge Recipient.
+Notwithstanding this change in status, an issuer of a Badge always has the ability to correct Badge information or delete a Badge through its Business Account.
+
+1.3 Eligibility. You may only access and use Badgr if you can form a binding contract with CSky and only in compliance with these Terms and all applicable laws.
+You must be 13 years old or older to use Badgr.
+
+1.4 Changes to Badgr. We reserve the right to modify or discontinue Badgr (or any part or feature thereof) with or without notice.
+For example, we may change Badgrâs pricing at any time or add new fees and charges from time to time, but will provide notice to you of these changes via information on the Site.
+You acknowledge that CSky may establish general practices and limits concerning use of Badgr, including, without limitation, the maximum period of time that data or other content will be retained on our servers.
+CSky shall not be liable to you or to any third party for any modification, suspension or discontinuance of Badgr.
+
+1.5 Prohibited Uses. Except for access to facilitate Badge sharing under the Badge Connectâ¢ API open standard as described in Section 1.2.b.
+above or where you have otherwise received express permission from CSky, you are at all times prohibited from accessing or otherwise using the Site: (a) to build a competitive product or service or (b) in conjunction with any other services that you sell or otherwise monetize.
+You are at all times prohibited from circumventing, or attempting to circumvent, any limitations that we impose on your account, Badgr Content, or other services provided through the Site, including without limitation the Badgr APIs.
+2.
+ACCOUNT MANAGEMENT.
+
+2.1 Registered Users. Some Badgr features are only available if you register a user account.
+Users who register an account (each a âRegistered Userâ) have access to additional features and functions of the Site, for example, only Registered Users can create, curate, and issue Badges.
+
+2.2 Account Owner. The person registering for Badgr is the owner of such Badgr account (âAccount Ownerâ), provided that if you are registering for Badgr on behalf of an organization, such organization shall be the Account Owner of the Business Account (âBusiness Account Ownerâ).
+If you are registering for Badgr on behalf of an organization, you represent and warrant that you have authority to bind such organization to these Terms and in such case âyouâ and âyourâ as used in these Terms refers to that organization.
+A âBusiness Accountâ is a Badgr account created on behalf of and maintained by an organization and which is used for non-personal reasons (i.e.
+not used solely for receiving Badges).
+Examples of the types of organizations that might have a Business Account are: a corporation or other for-profit business entity, a public institution, such as a university or state agency, a public charity, and a private foundation.
+
+2.3 Registered User Types.
+
+
+a.
+Badge Recipient. A Badge Recipient must become a Registered User before it can use Badgr to share any Badges issued within Badgr.
+To register, the following information is typically required: email, first name, last name/family name.
+
+b.
+Business Account User Types.
+
+
+(1) Administrator. The Business Account Owner shall designate one or more administrators who shall have full access to, and administration rights over, all areas of the Site available to the Business Account Owner (âAdministratorâ).
+The Business Account Owner may change the Administrators at any time through the Site.
+The Administrator must also be a Registered User.
+
+(2) Editors and Staff Members. âEditorsâ are mid-level administrators who may create, edit, delete, and issue Badges.
+âStaff Membersâ are minimum-level administrators who can issue Badges that have been created by the Administrator or Editors.
+The Administrator may choose to designate one or more Editors and/or Staff Members.
+Editors and Staff Members must also be Registered Users.
+
+2.4 Registration. If you choose to register for a user account, you agree to provide and maintain accurate, complete, and current information about yourself as prompted by the registration form.
+You are responsible for maintaining the confidentiality of your login credentials and account information, and are fully responsible for any and all activities that occur under your account.
+Registered Users agree to (a) immediately notify CSky of any suspected or actual unauthorized use of their password or account or any other breach of security, and (b) ensure that they exit from their Registered User account at the end of each session when accessing the Site.
+CSky will not be liable for any loss or damage arising from a Registered Userâs failure to comply with this provision.
+
+2.5 Third-Party Registration and Login. We may offer you the ability to register an account using Facebook, Google, or other third-party services.
+If you choose to register via a third-party service or connect an account from a third-party service to your Badgr account, CSky may have access to certain information made available by you through such third-party service.
+CSky does not control, is not responsible for, does not endorse, and fully disclaims any and all liability associated with your use of such third-party services.
+Third-party products and services are subject to the terms and conditions and privacy policies of such third-party providers.
+You represent and warrant that you will comply with all terms and conditions associated with such third-party services, and agree to defend and hold CSky, its subsidiaries and affiliates harmless from any claim or demand, including reasonable attorneysâ fees, arising out of or relating to any such third-party services.
+3.
+USER CONTENT.
+
+3.1 User Content. All information, data, text, software, music, sound, photographs, graphics, video, messages, tags and/or other materials shared through Badgr, whether publicly posted or privately transmitted (âUser Contentâ), are the responsibility of the Account Owner.
+You agree to not post any User Content that you did not create or that you do not possess the right, title or interest in and to, including, without limitation, all copyright and rights of publicity contained therein.
+
+3.2 User Content License Grant. By posting User Content, you grant CSky a perpetual, worldwide, royalty-free, non-exclusive, sublicensable, transferable license to use, copy, translate, distribute, reproduce, modify, adapt, publicly perform and publicly display User Content in connection with our legitimate business interests, including without limitation, the Site, the promotion, advertising, or marketing of Badgr, and other uses supported by or related to the Open Badge Specification.
+You understand that the technical processing and transmission of data associated with Badgr, including User Content, may require: (a) transmissions over various networks.
+and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
+You acknowledge and agree that CSky may preserve User Content and may also disclose User Content if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (w) comply with legal process, applicable laws or government requests.
+(x) enforce these Terms.
+(y) respond to claims that any content violates the rights of third parties.
+or (z) protect the rights of CSky, its users, or the public.
+
+3.3 Feedback. You acknowledge and agree that any suggestions, comments, ideas, improvements or other feedback concerning Badgr (collectively âFeedbackâ), you provide to CSky is non-confidential and CSky is hereby granted a non-exclusive, transferable, royalty-free, sublicensable, irrevocable, perpetual, worldwide right and license to use, disclose, reproduce, modify, license, transfer, and otherwise utilize or distribute your Feedback in connection with the Site or other products and services offered by CSky, without credit or compensation to you.
+4.
+OUR RIGHTS.
+
+4.1 Ownership and Content License Grant. The Site contains content (âBadgr Contentâ) that may be protected by trademark, patent, copyright, trade secret, or other propriety rights and laws.
+CSky grants you a limited license to access and use the Site and Badgr Content, provided that you keep all copyright or other proprietary notices intact.
+Using the Site does not give you ownership of any intellectual property rights in Badgr or the Badgr Content you access.
+The foregoing license is subject to these Terms and does not permit use of any data mining, robots, scraping or similar data gathering or extraction methods.
+Any use of the Site or the Badgr Content other than as specifically authorized herein is strictly prohibited and will terminate your license.
+The technology and software, including source code, underlying Badgr is the property of CSky (âSoftwareâ).
+Any rights not expressly granted herein are reserved by CSky.
+
+4.2 Restrictions. You may not (a) copy, modify, create a derivative work from, decompile, decode, reverse engineer, reverse assemble or otherwise attempt to discover any source code in the Software.
+(b) sell, assign, sublicense, grant a security interest in or otherwise transfer any right in the Software or any portion or component thereof.
+(c) attempt to access or derive the source code or architecture of any part of Software.
+or (d) access Badgr by any means other than through the interfaces provided by CSky and as expressly authorized under the Terms.
+
+4.3 Our Trademarks. The name and logo of CONCENTRIC SKY and BADGR, and other names and logos we use in connection with the Site are trademarks and service marks of CSky (collectively the âMarksâ).
+Other company, product, and service names and logos used and displayed via the Site may be trademarks or service marks of their respective owners who may or may not endorse or be affiliated with or connected to CSky.
+Nothing in these Terms shall be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of Marks, without our prior written permission in each instance.
+All goodwill generated from the use of Marks will inure to our exclusive benefit.
+5.
+THIRD PARTY CONTENT.
+Under no circumstances will CSky be liable in any way for any content posted or otherwise shared on the Site by third parties or links to websites and services maintained by third parties.
+We cannot guarantee that any such third-party content will be free from any errors or omissions, or for any loss or damage of any kind incurred as a result of the use of any content posted, emailed or otherwise made available via the Site.
+CSky disclaims any responsibility or liability related to your access or use of such third-party content.
+You acknowledge that CSky does not pre-screen content, but that CSky and its designees shall have the right (but not the obligation) in their sole discretion to refuse or remove any content that is available via the Site.
+Without limiting the foregoing, CSky and its designees shall have the right to remove any content, including User Content, which violates these Terms or is deemed by CSky, in its sole discretion, to be otherwise objectionable.
+You agree that you must evaluate, and bear all risks associated with, the use of any content, including any reliance on the accuracy, completeness, or usefulness of such content.
+6.
+YOUR RESPONSIBILITIES.
+
+6.1 Legal Compliance. You represent and warrant that you will comply with all laws and regulations applicable to your use of the Site.
+
+6.2 Personal Data. If you provide us with personal data about a third party, or if a third party gives us your personal data, you represent and warrant that you have valid consent to provide us with such personal data and you acknowledge and agree that we can process such personal data.
+
+6.3 Your Conduct. When using the Site you are responsible for your conduct, User Content, and communications.
+You agree to not:
+
+a. Interfere with or disrupt the Site or servers or networks connected to the Site, or disobey any requirements, procedures, policies or regulations of networks connected to the Site;
+
+b. Stalk or otherwise harass another person or organization;
+
+c. Impersonate any person or organization, or falsely state or otherwise misrepresent your affiliation with a person or organization;
+
+d. Create serial accounts for disruptive or abusive purposes or squat on accounts to prevent legitimate use by others;
+
+e. Forge headers or otherwise manipulate identifiers in order to disguise the origin of any content transmitted through the Site;
+
+f. Issue mass unsolicited Badges or continue to issue Badges to any Badge Recipient after such Badge Recipient has requested that you stop issuing Badges to them;
+
+g. Upload, post, e-mail, transmit or otherwise make available any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment.
+
+h. Use spiders, crawlers, robots or any other means to access the Site or substantially download, reproduce or archive any portion of the Site;
+
+i. Modify, damage, disrupt, disable, overburden, impair, alter or interfere with the use, features, functions, operation, security or maintenance of the Site or the rights or use and enjoyment of the Site by any other person or organization in any manner.
+or
+
+j. Post, email or otherwise transmit any Badge or other content that:
+
+(1) is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, pornographic, libelous, invasive of anotherâs privacy, or hateful racially or ethnically or otherwise objectionable;
+
+(2) you do not have a right to transmit under any law or under contractual or fiduciary relationships;
+
+(3) infringes any intellectual property or other proprietary rights of CSky or any third party;
+
+(4) constitutes unsolicited or unauthorized advertising, promotional materials, or any other form of solicitation, or use any distribution lists including any person who has not given specific permission to be included in such a process (commercial or otherwise);
+
+(5) contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment.
+or
+
+(6) in the sole judgment of CSky, is objectionable or which restricts or inhibits any other person from using or enjoying Badgr, or which may expose CSky or its users to any harm or liability of any type.
+7.
+FEES AND PAYMENT.
+
+7.1 Fees. You agree to pay to CSky any fees (including all sales, use, value- added and similar taxes) for any product or service offered by CSky, within the Site or otherwise, you purchase or use in accordance with the pricing and payment terms presented to you for such service.
+You will be billed using the billing method you select through your account management page.
+If you have elected to pay fees by credit card, you represent and warrant that the credit card information you provide is correct and you will promptly notify us of any changes to such information.
+Fees paid by you are non-refundable, except as provided in these Terms or when required by law.
+If payments on undisputed amounts are not received within thirty (30) days, we reserve the right to suspend access to Badgr.
+If payments on undisputed amounts are not received within sixty (60) days, we reserve the right to terminate any account and/or User Content associated with such Account Owner.
+
+7.2 Subscriptions. Some of our service offerings are billed on a subscription basis (âSubscriptionsâ).
+Subscriptions are billed in advance on a recurring, periodic basis (each a âBilling Cycleâ).
+Billing Cycles are typically annual, depending on a particular Subscription.
+Unless you request cancelation by contacting us at help@badgr.io your Subscription will automatically renew at the end of each Billing Cycle.
+
+7.3 Price Changes. We may change the fees charged for a service at any time, provided that, for any services billed on a subscription basis, the change will become effective only at the end of the then-current billing cycle of your Subscription.
+We will provide you with reasonable prior written notice of any change in fees to give you an opportunity to cancel your Subscription before the change becomes effective.
+8.
+INDEMNIFICATION.
+To the extent not prohibited by law, you agree to indemnify, defend and hold harmless, CSky, its employees, officers, directors, agents, suppliers and licensors (âCSky Partiesâ) from and against any and all damages, losses, liabilities and costs, including without limitation, reasonable attorneysâ fees, arising from your access and use of the Site, your user account, your violation of these Terms, your User Content, and the account for which you are the Account Owner, including the activities of any Administrator, Editor, or Staff Member affiliated with such account.
+9.
+TERMINATION.
+You agree that CSky, in its sole discretion, may suspend or terminate your account (or any part thereof) or use of the Site and remove and discard any content within Badgr, for any reason, including, without limitation, for lack of use or if we believe that you have violated or acted inconsistently with the letter or spirit of these Terms.
+Cause for such termination shall include, but not be limited to: (a) any violation of these Terms.
+(b) any request or order issued by a court or a law enforcement or other government official.
+(c) a request by you (for example, self-initiated account deletions).
+(d) discontinuance or material modification of Badgr.
+(e) unexpected technical or security issues or problems.
+(f) extended periods of inactivity.
+(g) your engagement in fraudulent or illegal activities.
+and (h) your failure to pay any fees due to CSky.
+CSky shall not be liable to you or any third party for any termination of your account.
+All pre-paid fees are non-refundable and no refund will be issued.
+If you are a Business Account Owner, we can, upon request, return or delete the Customer Data in your Business Account.
+provided that prior to making such request, you have deleted all Badge classes and revoked all issued Badges.
+Please note, however, that revocation of issued Badges will result in the Badges becoming unverifiable which is contrary to the intended purpose of the Open Badge Specification.
+As a reminder, issued Badges and their associated meta-data remain viewable on the Site until such time as the Badge Recipient requests deletion of the Badge or the issuer of the Badge affirmatively deletes the Badge.
+10.
+DISCLAIMER OF WARRANTIES.
+YOUR USE OF THE SITE IS AT YOUR SOLE RISK.
+BADGR IS PROVIDED ON AN âAS ISâ AND âAS AVAILABLEâ BASIS, WITH ALL FAULTS.
+THE CSKY PARTIES EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT, NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE, TO THE MAXIMUM AMOUNT PERMITTED BY LAW.
+THE CSKY PARTIES MAKE NO WARRANTY THAT: (a) THE SITE WILL MEET YOUR REQUIREMENTS.
+(b) THE SITE WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE.
+(c) THE RESULTS THAT MAY BE OBTAINED FROM USE OF THE SITE WILL BE ACCURATE OR RELIABLE.
+(d) THE CONTENT AVAILABLE THROUGH THE SITE IS OF A PARTICULAR QUALITY, IS ACCURATE, CURRENT OR COMPLETE.
+OR (e) THAT ANY ERRORS IN THE SITE WILL BE CORRECTED.
+ANY MATERIAL DOWNLOADED FROM OR OTHERWISE ACCESSED THROUGH THE SITE IS ACCESSED AT YOUR OWN RISK, AND YOU SHALL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY OR PERSON, INCLUDING, BUT NOT LIMITED TO, YOUR COMPUTER SYSTEM AND ANY DEVICE YOU USE TO ACCESS THE SITE, OR ANY OTHER LOSS THAT RESULTS FROM ACCESSING SUCH MATERIALS.
+11.
+LIMITATION OF LIABILITY.
+
+11.1. THE CSKY PARTIES SHALL NOT BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (REGARDLESS OF WHETHER SUCH DAMAGES WERE FORESEEABLE OR CSKY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (a) THE USE OF OR INABILITY TO USE THE SITE.
+(b) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR CONTENT RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH THE SITE.
+(c) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA.
+(d) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SITE.
+OR (e) ANY OTHER MATTER RELATING TO THE SITE.
+IN NO EVENT SHALL THE CSKY PARTIESâ TOTAL LIABILITY TO YOU FOR ALL CLAIMS ARISING UNDER OR RELATING TO THESE TERMS EXCEED FIFTY US DOLLARS ($50.00) IN TOTAL.
+
+11.2 THE CSKY PARTIES ASSUME NO RESPONSIBILITY FOR THE TIMELINESS, DELETION, MISDELIVERY OR FAILURE TO STORE ANY CONTENT (INCLUDING, BUT NOT LIMITED TO, YOUR USER CONTENT), USER COMMUNICATIONS OR PERSONALIZATION SETTINGS.
+12.
+PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT.
+If you are a copyright owner or an agent thereof and believe that any material available on the Site infringes upon your copyrights, you may submit a notification of claimed infringement (âNotificationâ) pursuant to the Digital Millennium Copyright Act (âDMCAâ) by providing CSkyâs agent designated to receive Notifications (âCopyright Agentâ) with a notice containing the information described below.
+Please note that under 17 U.S.C.
+Â§ 512(f) any person who knowingly materially misrepresents that material is infringing may be subject to liability for damages.
+Also note that the information provided in a Notification may be forwarded to the person who posted the allegedly infringing material.
+All Notifications must include the following (see 17 U.S.C Â§ 512(c)(3) for further details):
+
+A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+Identification of the copyrighted work claimed to have been infringed or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled and information reasonably sufficient to permit CSky to locate the material;
+Information reasonably sufficient to permit CSky to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted;
+A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+and
+A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+Designated Agent: Director of Operations, Concentric Sky, Inc.
+1045 Willamette St.
+Eugene, OR 97401 Phone: 541-342-8456 Email: help@badgr.io
+If you believe that material you posted to the Site that was removed (or to which access was disabled) as a result of a Notification is not infringing, or that you have the authorization from the copyright owner, the copyright ownerâs agent, or pursuant to the law, to post and use the material, you may send a written counter notification (âCounter Notificationâ) to the Copyright Agent containing the information described below.
+Please note CSky is required to send a copy of your Counter Notification to the party who submitted the Notification and that in response to a Counter Notification that person may file a lawsuit against you seeking a determination of its rights with respect to the material.
+
+Please also note that under 17 U.S.C.
+Â§ 512(f), any person who knowingly materially misrepresents that material was removed or disabled by mistake or misidentification may be subject to liability for damages.
+All Counter Notifications must contain the following (see 17 U.S.C.
+Â§ 512(g)(3) for further details):
+Your physical or electronic signature;
+Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled;
+A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or a misidentification of the material to be removed or disabled.
+and
+Your name, address, and telephone number, and a statement that you consent to the jurisdiction of the Federal District Court for the District in which the address you list is located, or if that address is located outside of the United States, for the District of Oregon, and a statement that you will accept service of process from the person who provided notification of the alleged infringement or an agent of such person.
+
+Upon receipt of a Notification or Counter Notification, CSky will comply with the applicable procedures set forth in 17 U.S.C.
+Â§ 512.
+Pursuant to 17 U.S.C.
+Â§ 512(i)(1)(A), it is CSkyâs policy to terminate, in appropriate circumstances, user account holders who are repeat infringers.
+13.
+MISCELLANEOUS.
+
+13.1 Entire Agreement. These Terms, including documents incorporated by reference, constitute the entire agreement between you and CSky concerning your use of Badgr and supersede any prior or contemporaneous agreements, whether written or oral, between you and CSky with respect to the subject matter hereof.
+
+13.2 No Third-Party Beneficiaries. Unless otherwise expressly provided in these Terms, there shall be no third-party beneficiaries to these Terms.
+
+13.3 Assignment. These Terms, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by CSky without restriction.
+
+13.4 Choice of Law and Forum.
+Arbitration. The laws of the State of Oregon, excluding any rule or principle that would refer to and apply the substantive law of another state or jurisdiction, shall govern these Terms.
+To the extent allowed by applicable law, any claims or causes of action arising from or relating to your access and use of Badgr must be instituted within six (6) months from the date upon which such claim or cause arose or was accrued.
+Further, any dispute arising out of or related to the Terms shall be resolved by binding arbitration, through and pursuant to the rules of Arbitration Services of Portland, and judgment on any such award may be entered in any court having jurisdiction.
+Any arbitration shall be conducted in Lane County, Oregon.
+The prevailing party in any arbitration shall be entitled to recover its reasonable attorneysâ fees, at trial (or hearing) or on appeal.
+If you are based in the European Economic Area, our Privacy Shield Statement includes important information about the resolution of disputes between you and CSky.
+
+13.5 Section Headings.
+Summaries. Throughout these Terms, each section includes titles and brief summaries.
+These section titles and brief summaries are not legally binding.
+
+13.6 Non-Waiver.
+Severability.
+Survival. The failure of CSky to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision.
+If any provision of these Terms shall be held to be invalid or unenforceable under applicable law, then such provision shall be construed, limited, modified or, if necessary, severed to the extent necessary to eliminate its unenforceability.
+CSkyâs rights under these Terms will survive any termination.
+LAST UPDATED: April 8, 2022

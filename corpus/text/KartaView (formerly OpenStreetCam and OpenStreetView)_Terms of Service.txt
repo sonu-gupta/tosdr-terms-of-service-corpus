@@ -1,0 +1,153 @@
+
+         LeaderboardBlogSign InGet the AppKartaView is a free and open platform for street level imagery.
+Anyone can contribute images with a smartphone and our open source apps.
+
+KartaView will detect salient features from the uploaded images such as signs, lanes and road curvature to improve KartaView.Download .apkLoginTerms and Conditions of Use for KartaView English Welcome to the future of mapping.
+Here is our Terms and Conditions, hopefully nice and easy to follow.
+ContentsEffective as of 13 December 2019Services Offered through KartaViewAccount InformationOpen Source LicenseMIT License TermsUser Contributed ContentDuration of Services.
+TerminationRight of cancellationDisclaimersOther QualificationsLimitation of liabilityAttribution and Governing LawMiscellaneousGeneral provisionsCopyright clauses1.
+Effective as of 13 December 2019 These Terms and Conditions of Use apply to your use, as a consumer (âUserâ, âyouâ), of the services offered through the KartaView portal (kartaview.org) and/or the KartaView app (collectively âKartaView Productsâ) and/or the Improve OSM portal (https://improveosm.org) and/or the Improve OSM app (collectively âImprove OSM Productsâ and together with the KartaView Products the âKartaViewâ) offered by Grab Taxi Holdings Pte.
+Ltd.
+(and/or its related corporation) ("Grab", âweâ, âusâ) (âTerms and Conditions of Useâ).
+Please read these Terms and Conditions of Use carefully before you access and use KartaView.
+Your access and use of KartaView indicates that you accept these Terms and Conditions of Use.
+If you do not accept these Terms and Conditions of Use, do not access or otherwise use KartaView.
+These Terms and Conditions of Use represent the agreement ("Agreement") between you and us with respect to KartaView.
+All references herein to "you" and "your" means you, your employees, agents, and contractors, and any other entity on whose behalf you accept these Terms and Conditions of Use, all of whom shall also be bound by this Agreement.
+Grab may revise these Terms and Conditions of Use at any time in accordance with the provisions of this clause, including with effect during the existing user relationship.
+We shall notify you of such changes via email with due notice before the changes take effect, however no later than 7 calendar days before the proposed changes take effect, which you agree shall be sufficient notice.
+Should you disagree with the changes you can terminate our contractual relationship governed by these Terms and Conditions of Use.
+If you do not agree to be bound by the changes, you shall immediately cease all access and/or use of KartaView.
+You further agree that if you continue to use and/or access KartaView after being notified of such changes to these Terms and Conditions of Use, such use and/or access shall constitute an affirmative: (i) acknowledgement by you of these Terms and Conditions of Use and its changes.
+and (ii) agreement by you to abide and be bound by these Terms and Conditions and its changes.
+2.
+Services Offered through KartaView KartaView is a platform with various functions.
+Through this platform, Grab collects, stores and distributes georeferenced street view imagery with the purpose of helping the OpenStreetMapÂ® (" OSM") community improve the quality of the map data.
+The use by you of the KartaView is free of charge.
+3.
+Account Information You agree: (a) when signing up for KartaView, to provide Grab with true, accurate, current, and complete information about yourself, and (b) to inform Grab promptly of any changes to such information to keep it true, accurate, current and complete.
+You further agree that you are 18 years of age or older and have the authority and rights to download and/or use or register for KartaView.
+If you provide Grab with any information that is untrue, inaccurate, not current or incomplete, or Grab has reasonable grounds to suspect so, Grab has the right to suspend or terminate your access to KartaView.
+
+All of your account information, as well as other personal information provided by you to Grab, is subject to Grab's privacy policy located at https://kartaview.org/privacy-policy.
+Your use of KartaView indicates that you accept the terms of this Terms and Conditions of Use and of the privacy policy, which may be updated from time to time.
+By sending the registration data, you are offering to conclude a user relationship with us based on these Terms and Conditions of Use.
+We will confirm promptly receipt of your offer, however we reserve the right to decide on whether to accept your offer or not.
+Should your request for registration not be confirmed by us to you by email to the email address you stated within a period of 24 hours, you will no longer be bound to your offer.
+When we activate the user account, we will confirm the acceptance of your order for registration by e-mail, this confirmation will create a user relationship for an unlimited period, based on these Terms and Conditions of Use.
+
+You further agree and acknowledge that any use and/or access of KartaView and any information, data or communications referable to your account shall be deemed to be, as the case may be: (i) access and/or use of KartaView by you.
+or (ii) information, data or communications posted, transmitted and validly issued by you.
+You agree to be bound by any access and/or use of KartaView (whether such access or use are authorised by you or not) and you agree that we shall be entitled (but not obliged) to act upon, rely on or hold you solely responsible and liable in respect thereof as if the same were carried out or transmitted by you. 4.
+Open Source License KartaView consists of an iOS application, an Android application and a Website-based application from www.kartaview.org).
+KartaView is developed by Grab with the aim of creating the biggest possible repository of street level photography imagery, and thus Grab would like to open source KartaView (" MIT License"), under the terms of the MIT License, and by licensing its imagery under Creative Commons Attribution-ShareAlike 4.0 International (" CC-By-SA License"), with the license terms available at https://creativecommons.org/licenses/by-sa/4.0/legalcode.
+The content which you submit, post, display, upload on or via KartaView is therefore subject to the rules of the afore-mentioned MIT License and CC-By-SA License, fact which is hereby acknowledged and confirmed by you.
+
+KartaView uses open source libraries within its mobile applications as set out in http://grb.to/oss-attributions.
+You are free to copy, distribute, transmit and adapt data on KartaView, as long as you comply with the applicable open source license and credit Grab and the KartaView contributors.
+We require that you use the credit âÂ© Grab and KartaView Contributors".
+5.
+MIT License Terms Copyright 2020 âÂ© Grab and KartaView Contributorsâ
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 6.
+User Contributed Content You are solely responsible for your conduct and any data, text, information, names, images, graphics, photos, imagery and other content (the âContentâ) that you submit, post display on or via KartaView.
+Grab does not claim ownership of any Content that you post on or through KartaView.
+You represent and warrant that (i) you own the Content posted by you on or through KartaView or otherwise have the right to grant the rights and licenses set forth in these Terms and Conditions of Use.
+(ii) the posting and use of your Content on or through KartaView does not violate, misappropriate or infringe on the rights of any third party, including, without limitation, privacy rights, publicity rights, copyrights, trademark and/or other intellectual property rights.
+(iii) you agree to pay for all royalties, fees, and any other monies owed by reason of Content you post on or through KartaView.
+and (iv) you have the legal right and capacity to enter into these Terms and Conditions of Use in your jurisdiction.
+You hereby grant to Grab a worldwide, royalty-free, non-exclusive, perpetual, irrevocable license to do any act that is restricted by copyright, database right or any related right (which will include without limitation the right to host, publish, distribute or use) over anything within the Content, whether in the original medium or any other.
+These rights explicitly include commercial use, and do not exclude any field of endeavor.
+These rights include, without limitation, the right to sub-license the Content through multiple tiers of sub-licensees and to sue for any copyright violation directly connected with Grabâs rights under these Terms and Conditions of Use.
+You agree that Grab may at any time filter, alter, modify, redact, crop or delete your Content in whole or in part in its discretion, including in order to render the Content suitable for use on KartaView.
+To the extent allowable under applicable local laws and copyright conventions, you also waive and/or agree not to assert against Grab or its licensees any moral rights, including without limitation any moral rights in such Content which you may have under the Copyright Act of Singapore (Cap.
+63) (including those rights set out or referred to under Part IX therein) or any other similar legislation now existing or in future enacted anywhere in the world), or other rights that you may have in your Content that would otherwise preclude Grab from filtering, altering, deleting, or using, copying or distributing your Content.
+You acknowledge and agree that we may continue to store, display and otherwise exercise the rights with respect to your Content after termination, deactivation, or archiving of your account.
+For the avoidance of doubt, this clause shall survive the termination of these Terms and Conditions of Use.
+7.
+Duration of Services.
+Termination The KartaView can be used by you for an unlimited period of time, subject to the provisions of these Terms and Conditions of Use.
+Grab reserves the right to terminate your access to KartaView at any time for any or no reason and without notice to you.
+You may request to delete your KartaView data at any time by notifying Grab via: (i) an email addressed to geo.kartaview@grabtaxi.com or (ii) a letter addressed to âLegal Departmentâ at 9 Straits View, Marina One West Tower, #23-07/12, Singapore 018937.
+Any such deletion by you shall be effected within a reasonable time after Grab's receipt of your notice.
+Upon any termination of your KartaView account and data, Grab shall have no liability to you or any further obligations.8.
+Right of cancellation As a consumer, you have the right to cancel this Agreement within 14 days without stating grounds.
+The cancellation period is fourteen days from the date on which this Agreement was concluded.
+
+To exercise your right of cancellation, you must notify us (e.g.
+by posted letter, fax or email) of your decision to cancel this Agreement.
+
+You may also fill in and send the sample cancellation form on our KartaView portal or in the KartaView app electronically.
+Should you opt to do this, we will send you confirmation that we have received such cancellation (e.g.
+by email to the email address you have stated for your user account).
+In the case of a contract to provide digital content that is not delivered on a physical medium, the right of cancellation shall expire if we have commenced performing the contract after you gave us your express permission to do so and at the same time confirmed that you understand that you would lose your right of cancellation when the contract began to be performed by us.9.
+Disclaimers You must evaluate, and will bear all risks associated with, the use of any Content, including any reliance on the quality, integrity, accuracy, completeness, or usefulness of such Content.
+We may refuse or delete any Content, including Content of which we become aware that is in breach of these Terms and Conditions of Use, is otherwise contrary to law, or is otherwise inappropriate in our discretion.
+We do not guarantee the accuracy, integrity or quality of any Content.
+Under no circumstances will we be liable in any way for any Content, including, but not limited to, liability for any errors, inaccuracies, or omissions in any Content, or for any loss or damage of any kind incurred as a result of the use of any Content.
+We will have no obligation or liability to you to maintain, store, or license Content, protect and maintain Content owners' intellectual property rights, or to enforce these Terms and Conditions of Use.
+You hereby waive and release any claims you may have against us arising or resulting from use or misuse of Content or your inability to effectively use Content, your failure to comply with these Terms and Conditions of Use, or for any act, omission, or conduct of any other KartaView user.
+You are solely responsible for your interaction with other users of KartaView.
+You agree that Grab is not responsible or liable for the conduct of any user.
+Grab reserves the right, but has no obligation, to monitor or become involved in disputes between you and other users.
+Exercise common sense and your best judgment when interacting with others, including when you submit or post Content.
+KartaView is provided "as is" and without warranties of any kind either express or implied.
+Grab disclaims all warranties, express or implied, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose.
+Applicable law may not allow certain warranty exclusions, so one or more of the above disclaimers may not apply to you.10.
+Other Qualifications You understand and agree that KartaView is downloaded to your wireless device at your own discretion and risk and that you will be solely responsible for any damages to your wireless device, or loss of data, that results from the download of such application.
+Grab does not warrant that KartaView will not infringe on third party intellectual property rights.
+Grab also does not warrant that your use of KartaView will be uninterrupted or error-free.
+Rather, temporary interruptions of KartaView may occur from time to time.
+Grab will exercise reasonable efforts to attempt to limit or prevent such occurrences, but in no event will Grab be liable for any financial or other damages due to such interruptions.
+Grab has technological and operational security policies and procedures to protect your information from loss, misuse, alteration, or unintentional destruction, but Grab makes no representations or warranties regarding the security of KartaView or the transmission of data or information to and from Grab and your wireless device.
+Grab will not be liable to you or anyone else in the event of any unauthorized infiltration of any of its systems.
+11.
+Limitation of liability To the extent permitted under applicable law, under no circumstances shall Grab or its licensors (or their licensors and suppliers) be liable to you or anyone else for any loss, injury, or damages (including but not limited to any compensatory, punitive, special, incidental, indirect, exemplary or consequential damages) arising out of or in connection with the use by you or anyone else of KartaView, any defects in KartaView, or any breach of this Agreement, even if Grab or its licensors have been advised of the possibility of such damages.
+Applicable law may not allow the limitation or exclusion of liability or incidental or consequential damages, so the above exclusion may not apply to you. Indemnification To the extent permitted by applicable law, you agree to indemnify, defend and hold Grab and its licensors (including their respective licensors, suppliers, assignees, subsidiaries, affiliated companies, and the respective officers, directors, employees, shareholders, agents and representatives of each of them) free and harmless from and against any liability, loss, injury (including injuries resulting in death), demand, action, cost, expense, or claim of any kind or character, including but not limited to attorney's fees, arising out of or in connection with (i) your access to or use of KartaView.
+(ii) your breach or alleged breach of these Terms and Conditions of Use.
+(iii) your violation of any third-party right, including without limitation, any intellectual property right, publicity, confidentiality, property or privacy right.
+(iv) your violation of any laws, rules, regulations, codes, statutes, ordinances or orders of any governmental and quasi-governmental authorities, including, without limitation, all regulatory, administrative and legislative authorities.
+or (v) any misrepresentation made by you.
+You will cooperate as fully required by Grab in the defense of any claim.
+Grab reserves the right to assume the exclusive defense and control of any matter subject to indemnification by you, and you will not in any event settle any claim without the prior written consent of Grab.12.
+Attribution and Governing Law This Terms and Conditions of Use shall be governed by Singapore law, without regard to the choice or conflicts of law provisions of any jurisdiction, and any disputes, actions, claims or causes of action arising out of or in connection with this Terms and Conditions of Use shall be referred to the Singapore International Arbitration Centre (âSIACâ), in accordance with the Rules of the SIAC as modified or amended from time to time (the âRulesâ) by a sole arbitrator appointed by the mutual agreement of you and Grab (the âArbitratorâ).
+If you and Grab are unable to agree on an arbitrator, the Arbitrator shall be appointed by the President of SIAC in accordance with the Rules.
+The seat and venue of the arbitration shall be Singapore, in the English language and the fees of the Arbitrator shall be borne equally by you and Grab, provided that the Arbitrator may require that such fees be borne in such other manner as the Arbitrator determines is required in order for this arbitration clause to be enforceable under applicable law.13.
+Miscellaneous This Agreement constitutes the entire agreement between Grab and you with respect to the subject matter hereof.
+Grab's or your failure to require performance of any provision shall not affect that party's right to require performance at any time thereafter, nor shall a waiver of any breach or default of this Agreement constitute a waiver of any subsequent breach or default or a waiver of the provision itself.
+If any provision herein is held unenforceable, then such provision will be modified to reflect the intention of the parties, and the remaining provisions of this Agreement will remain in full force and effect.
+You may not resell, assign, or transfer any of your rights hereunder.
+Any such attempt may result in termination of this Agreement, without liability to Grab.
+Notwithstanding the foregoing, Grab may assign this Agreement to any affiliate at any time without notice.
+By using KartaView, you consent to receive from Grab all communications, including notices, agreements, legally required disclosures or other information in connection with KartaView (collectively, " Notices") electronically.
+Grab may provide such Notices by posting them on Grab's website or by downloading such Notices to your wireless device.
+If you desire to withdraw your consent to receive Notices electronically, you must discontinue your use of KartaView.
+Grab may email or send text messages to you from time to time to inform you about our products and services that we think will interest you, unless you inform us that you opt out from receiving such communications.
+If you have any questions regarding the terms of this Agreement, please contact Grab by sending an email to geo.kartaview@grabtaxi.com.
+KartaView and Grab and their logos are registered and unregistered trademarks of Grab.
+All other trademarks, service marks, logos and trade names used on the KartaView app or on www.Grab.com are the property of their respective owners.14.
+General provisions The User hereby expressly acknowledges that he or she has read, understood and accepted each and every provision of these Terms and Conditions of Use.
+In accordance with Article 1203 of the Romanian Civil Code, the User hereby expressly acknowledges and accepts the clauses headed Disclaimers, Other qualifications, Limitation of Liability, Indemnification and Termination as well as each and every provision of these Terms and Conditions of Use providing: (i) in our favor (i) limitations of liability, (ii) the right to unilaterally terminate our contractual relationship with you, (iii) the right to suspend the performance of our obligations or B) in respect of the User (i) the loss of rights, (ii) the loss of benefit of term, (iii) the limitation of the right to raise exceptions, (iv) the limitation of the right to contract with third parties, (v) tacit extension of the contractual relationship with us, (vi) the applicable law, (vii) arbitration clauses or provisions derogating from competent courts' jurisdiction rules.
+No person or entity who is not a party to these Terms shall have any right under the Contracts (Rights of Third Parties) Act, Chapter 53B of Singapore or other similar laws to enforce any term of these Terms, regardless of whether such person or entity has been identified by name, as a member of a class or as answering a particular description.
+For the avoidance of doubt, this shall not affect the rights of any permitted assignee or transferee of these Terms
+Statutory warranty provisions apply.
+15.
+Copyright clauses Copyright Notice All materials and content on websites, applications and software operated or otherwise made available by Grab (âGrab Platformâ) are protected by intellectual property laws.
+Save where stated otherwise, all intellectual property rights in the materials and content are reserved by Grab or its licensor.
+Without prior written consent from Grab or its licensor, no one shall, by any means, reproduce, distribute, print or play, use hyperlinks to connect or transmit, use method of mirror images to load to any other server, store to an information retrieval system, or use for any commercial purpose, any content on Grab Platform.
+For the avoidance of doubt, your access and use of Grab Platform does not transfer to you any rights, title or interest in or to any intellectual property rights owned by Grab.
+ Reporting Suspected Infringement of Grab IP If you come across any counterfeit Grab merchandise, infringement, or any other unauthorized activities concerning Grab IP, please report it to us by sending an email to us (infringements@grab.com).
+When reporting to us, kindly include a description and screenshot(s) of the infringing content or unauthorized activities to facilitate our investigation.
+ Submission of Request to Takedown Infringing Content on Grab platform If you believe that any content made available on our platform violates your intellectual property rights, you may inform us of the same by sending an email (with sufficient proof of your IP ownership as well as a screenshot and description of the infringement attached) to our designated representative:  Grab Abuse Response Team  Address: 3 Media Close, #01-03/06, Singapore 138498  Email: infringements@grab.com 
+
+Kindly note that where copyright infringement in Singapore is alleged, as per the Singapore Copyright Act 2021 and Copyright Regulations 2021, the notice should be accompanied with sufficient information as set out in the said Regulations
+By submitting an email to us via infringements@grab.com, you acknowledge that you are initiating a legal process in good faith and understand that any fraudulent and/or abusive notice may result in legal consequences.Â© 2020 KartaViewBlogJOSM PluginTerms and ConditionsPrivacy Policy 
+      

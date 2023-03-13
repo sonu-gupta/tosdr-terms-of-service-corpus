@@ -1,0 +1,339 @@
+
+        This website uses cookiesWe use cookies to personalise content and ads, to provide social media features and to analyse our traffic.
+We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that youâve provided to them or that theyâve collected from your use of their services[#OOI_PERSONAL_INFORMATION#] Use necessary cookies only Allow all cookies Show details OK Use necessary cookies only Allow selection Allow all cookies NecessaryPreferencesStatisticsMarketing Show details Cookie declaration [#IABV2SETTINGS#] About cookies âNecessary (37)âPreferences (7)âStatistics (18)âMarketing (24)âUnclassified (0)Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website.
+The website cannot function properly without these cookies.
+NameProviderPurposeExpiryType__RequestVerificationTokenCookiebotHelps prevent Cross-Site Request Forgery (CSRF) attacks.SessionHTTP_abckCookiebotUsed to detect and defend against replay-cookie-attacks â The cookie is necessary for the security and integrity of the website.
+1 yearHTTPak_bmscCookiebotThis cookie is used to distinguish between humans and bots.
+This is beneficial for the website, in order to make valid reports on the use of their website.1 dayHTTPASP.NET_SessionId [x2]CookiebotPreserves the visitor's session state across page requests.SessionHTTPASPXAUTHCookiebotIdentifies the user and allows authentication to the serverSessionHTTPbm_miCookiebotUsed in context with the website's BotManager.
+The BotManager detects, categorizes and compiles reports on potential bots trying to access the website.1 dayHTTPbm_svCookiebotUsed in context with the website's BotManager.
+The BotManager detects, categorizes and compiles reports on potential bots trying to access the website.1 dayHTTPbm_szCookiebotUsed in context with the website's BotManager.
+The BotManager detects, categorizes and compiles reports on potential bots trying to access the website.1 dayHTTPCookieConsent [x4]CookiebotStores the user's cookie consent state for the current domain1 yearHTTPZD-arturos [x2]ZendeskUsed to push or test different features in relation to the websiteâs Zendesk integration on a single user basis.
+PersistentHTMLZD-suid [x2]ZendeskUnique id that identifies the user's session.PersistentHTML__cfduid [x3]ZendeskCookiebotUsed by the content network, Cloudflare, to identify trusted web traffic.30 daysHTTP__cfruid [x3]ZendeskCookiebotThis cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
+SessionHTTPCONSENT [x2]YouTubeUsed to detect if the visitor has accepted the marketing category in the cookie banner.
+This cookie is necessary for GDPR-compliance of the website.
+200 monthsHTTPARRAffinityCybotUsed to distribute traffic to the website on several servers in order to optimise response times.SessionHTTPARRAffinitySameSiteCybotUsed to distribute traffic to the website on several servers in order to optimise response times.SessionHTTP__cf_bm [x2]ZendeskCookiebotThis cookie is used to distinguish between humans and bots.
+This is beneficial for the website, in order to make valid reports on the use of their website.1 dayHTTP_zendesk_session [x3]ZendeskCookiebotPreserves users states across page requests.SessionHTTP_zendesk_shared_session [x3]ZendeskCookiebotPreserves users states across page requests.SessionHTTP_zendesk_thirdparty_testZendeskTests whether the website user's browser allows third party cookies.SessionHTTP_help_center_sessionZendeskPreserves users states across page requests.SessionHTTP Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+NameProviderPurposeExpiryTypeCookieConsentBulkSetting-#CookiebotEnables cookie consent across multiple websitesPersistentHTMLMasterPopupCookiebotDetermines if the popup should be displayed to the user.30 daysHTTPuserlang [x2]CookiebotRemembers the user's selected language version of a website1 yearHTTPZD-settingsZendeskArbitrary settings for the user's preferences when browsing a Zendesk knowledge base.PersistentHTMLZD-store [x2]ZendeskRegisters whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user.PersistentHTML Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+NameProviderPurposeExpiryType_ga [x4]GoogleGoogle Tag ManagerRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.2 yearsHTTP_ga_# [x2]Google Tag ManagerUsed by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.
+2 yearsHTTP_gat [x4]GoogleCookiebotUsed by Google Analytics to throttle request rate1 dayHTTP_gid [x4]GoogleGoogle Tag ManagerRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.1 dayHTTPZD-buid [x2]ZendeskUnique id that identifies the user on recurring visits.PersistentHTMLcollectGoogleUsed to send data to Google Analytics about the visitor's device and behavior.
+Tracks the visitor across devices and marketing channels.SessionPixelhc:#:recently_visited_articlesZendeskRegisters which articles the user has visited in a Zendesk knowledge base.PersistentHTML Marketing cookies are used to track visitors across websites.
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+NameProviderPurposeExpiryType_gcl_auGoogle Tag ManagerUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+3 monthsHTTPIDEGoogleUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.1 yearHTTPpagead/landing [x2]GoogleCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+SessionPixeltest_cookieGoogleUsed to check if the user's browser supports cookies.1 dayHTTPads/ga-audiencesGoogleUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.SessionPixelVISITOR_INFO1_LIVEYouTubeTries to estimate the users' bandwidth on pages with integrated YouTube videos.179 daysHTTPYSCYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.SessionHTTPyt.innertube::nextId [x2]YouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.PersistentHTMLyt.innertube::requests [x2]YouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.PersistentHTMLyt-remote-cast-installed [x2]YouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-connected-devices [x2]YouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-device-id [x2]YouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-fast-check-period [x2]YouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-app [x2]YouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-name [x2]YouTubeStores the user's video player preferences using embedded YouTube videoSessionHTML Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+We do not use cookies of this type.
+â[#IABV2_LABEL_PURPOSES#]â[#IABV2_LABEL_FEATURES#]â[#IABV2_LABEL_PARTNERS#] [#IABV2_BODY_PURPOSES#] [#IABV2_BODY_FEATURES#] [#IABV2_BODY_PARTNERS#] Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site.
+For all other types of cookies we need your permission.
+This site uses different types of cookies.
+Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Your consent applies to the following domains: www.cookiebot.com, www.cybot.com, manage.cookiebot.com, support.cookiebot.com
+ Cookie declaration last updated on 5/4/21 by Cookiebot 
+ What is CCPA? 
+ What is GDPR? 
+ Pricing 
+ Help 
+ Functions 
+ Resellers 
+ Log in Try for free Terms of Service 
+
+Share 1.
+Agreement Between You and Cybot A/S 1.1.
+These Terms of Service (the âTermsâ) govern your acquisition and use of services on our website cookiebot.com.
+By accepting these Terms, either by clicking a box indicating your acceptance or by executing an order form or other document referring to these Terms, you agree that these Terms form part of the agreement between you and Cybot A/S (âCybotâ) (the âAgreementâ).
+1.2.
+These Terms were last updated on March 16, 2018 and are effective between you and Cybot as of the date when you place an order or set up an account at cookiebot.com.
+Cybot reserves the right to change these Terms from time to time.
+If such changes are considered material, Cybot will inform registered customers about the changes by email, and the changes will take effect one month after such emails have been sent.
+Your continued use of our website or services after such changes will constitute acknowledgment and acceptance of the modified Terms.
+1.3.
+In case of any discrepancies between the wording of our website and these Terms, these Terms prevail.
+1.4.
+These Terms as well as all other texts throughout the website are translated from English to other languages.
+These are unofficial translations and are only provided as convenience translations.
+They should therefore be interpreted in accordance with their English language versions which will prevail in the event of any discrepancy between the English version and the translation.
+Cybot assumes no liability for any errors, omissions or ambiguities in the translations.
+Any person or entity choosing to rely on the translated content does so at their own risk.
+When in doubt, please always refer to the official English language version.
+The Services We Deliver â and What You Need to Do 2.1.
+EUâs General Data Protection Regulation (GDPR) and EUâs ePrivacy Directive 2009/136/EC (ePR) test
+2.1.1.
+Cybot offers a free GDPR/ePR test which analyzes your website to give you an indication of whether or not your website is compliant with the rules relating to online tracking set out in the GDPR and ePR.
+2.1.2.
+The GDPR/ePR test is only based on some basic requirements in the GDPR and ePR and is furthermore only an analysis of up to 5 subpages of your website.
+It is therefore not a complete analysis of your website.
+Therefore, a positive test response must not be taken as a guarantee that your website fulfills all requirements set out in the GDPR and ePR.
+2.1.3.
+The Disclaimer of Warranty as set out in clause 9 and the Limitation of Liability as set out in clause 10 also apply to the use of the GDPR/ePR test.
+2.1.4.
+If you wish to perform a complete analysis of your website, you must sign up for a Cookiebot CMP subscription, cf.
+clause 2.2.
+2.2.
+Cookiebot CMP Subscription
+2.2.1.
+Subject to the sign-up procedure on our website and payment of the Subscription Fee (as defined in clause 3.1 below), Cybot will deliver to you the services (âCookiebot CMPâ) described on our website.
+2.2.2.
+Cookiebot Consent Management Platform (CMP) is designed as a service to facilitate compliance with EU regulations concerning the use of cookies on your website and to help you obtain the relevant consents to the use of cookies from the users of your website.
+Cybot is only the service provider of the IT infrastructure, and it is your own responsibility to ensure correct implementation and provide relevant input to the system, including drafting an appropriate wording of the request for consents and providing the necessary information to the users of your website in order to obtain an âinformedâ, âpriorâ and âimpliedâ or âexplicitâ consent as appropriate.
+The relevant EU legislation is not necessarily implemented in the same way in all EU countries, and we cannot guarantee that using Cookiebot CMP will automatically lead to compliance with all relevant rules and regulations concerning the use of cookies or the collection of consents to the use of cookies.
+We encourage you to seek local legal advice to ensure compliance with local legislation when implementing the solution on your website and to tailor the wording of the consents to be shown on your website.
+2.2.3.
+If you own multiple websites, Cookiebot CMP can ask your users for a consent that covers all your domains (a âBulk Consentâ) on the userâs first visit to any of your websites.
+You must guarantee that you are the rightful owner of all domains listed on Cookiebot CMPâs âdomain listâ or that you otherwise have the necessary rights to include such websites on the âdomain listâ.
+The functionality of the Bulk Consent is dependent on the userâs acceptance of third-party cookies in the web browser used to access your website.
+2.2.4.
+If you use Cookiebot CMP to exempt specific strictly necessary cookies in case a user declines the use of cookies, it is your responsibility to ensure that such cookies are strictly necessary to enable the basic functionality that the user actively seeks on your website in accordance with current legislation.
+2.2.5.
+Cookiebot CMP itself automatically sets up to two cookies in the userâs web browser when the user visits your website: The first-party cookie âCookieConsentâ which stores the userâs consent and â if you enable âBulk Consentâ in Cookiebot CMP â the third-party cookie âCookieConsentBulkTicketâ which stores an encrypted key to enable Bulk Consent across your domains as described in clause 2.2.3 above.
+Both cookies expire automatically for renewal after 12 months from the date of the userâs consent.
+2.2.6.
+A user may withdraw a consent at any time by deleting the two cookies mentioned in clause 2.2.5.
+Alternatively, a user can change a consent at any time by clicking a link that activates Cookiebot CMPâs ârenewâ method as described at cookiebot.com/en/developer.
+This functionality requires that you insert a link to the method from your website, e.g.
+from your website privacy policy, or implement Cookiebot CMPâs cookie declaration which contains the appropriate link for consent renewal.
+2.2.7.
+A user consent is logged and documented by registration of the userâs anonymized IP number, browser user agent, website URL, date and time of consent and a unique, encrypted key that is stored in a data center with Cybotâs cloud vendor, Microsoft Ireland Operations Ltd in Dublin, Ireland.
+You may download a copy of the consent log from the Cookiebot Manager after which it is your own responsibility to handle the log copy data in accordance with current legislation.
+After 12 months, the consent is automatically deleted from our log and then used only in an aggregated, anonymized form as part of the statistics that you have access to in Cookiebot CMP.
+2.2.8.
+If your subscription is managed by an authorized Cookiebot CMP reseller, the reseller will have access to collected data and configurations when managing your subscription, but the reseller has no right to share, use or sell the collected data and configurations.
+Collected data and configurations will not be shared with or sold to other third parties by Cybot.
+2.3.
+Cybot is the data processor and acts only on instruction by you as the data controller.
+Cybot takes the appropriate technical and organizational security measures to protect data against accidental or unlawful destruction, loss or alteration and against unauthorized disclosure, misuse or illegal processing.
+Cybot is subject to the safeguards provided for in the legislation of Denmark, where the company is established.
+2.4.
+Cybot organizes its resources to provide a high level of service with at least 99.9% uptime on the operation of the cloud service and a response time of less than 1 business day for critical support requests (blocking event) and 10 business days for non-critical support requests (non-blocking event).
+2.5.
+Cookiebot CMP is a self-serve service.
+As a customer, you can submit questions, comments or suggestions using the helpdesk at cookiebot.com/en/helpdesk.
+If you are dissatisfied with the service provided, please contact Cybot.
+If the case cannot be resolved, you can use the European Commissionâs online complaint portal at ec.europa.eu/consumers/odr/.
+3.
+Prices 3.1.
+Cookiebot CMP Subscription
+3.1.1.
+All the following subscriptions will include monthly website scans, consent banner and cookie declaration on your website as well as a consent log and tracking reports for documentation and frontend API for easy implementation.
+3.1.2.
+Current prices can be found at cookiebot.com/en/pricing.
+3.1.3.
+The prices may be changed by Cybot at any time subject to 90 daysâ notice which will be sent to you by email if you have registered a user account on our website.
+3.1.4.
+Premium
+3.1.4.1.
+In addition to the functions mentioned in clause 3.1.1, the Premium plan includes customizable banner, customizable declaration, multiple languages, email reports, data export, geolocation, Bulk Consent, consent statistics and internal domain alias.
+3.1.4.2.
+The function âinternal domain aliasâ, as mentioned in clause 3.1.4.1, may only be used for non-production domains, e.g.
+domains for development, testing and staging.
+The delivered domain alias will only have limited functionality, e.g.
+consent will not be logged for these types of domains.
+3.1.4.3.
+You can change the scan frequency for a domain from âmonthlyâ to âdailyâ for an extra fee, as set out in clause 3.1.2.
+3.1.5.
+Trial Version
+3.1.5.1.
+If you sign up for a trial version of Cookiebot CMP, you may use the service free of charge for 30 days.
+The trial version allows access to all functions of Cookiebot CMP except manual domain scans.
+In addition, the number of domains is limited to 10, and the number of pages being scanned is limited to 100 per domain.
+3.1.6.
+Free Subscription
+3.1.6.1.
+If your domain contains 100 pages or less, you can sign up for a Free subscription, which is free of charge.
+You can only sign up for the Free Subscription for one domain.
+3.1.6.2.
+The Free Subscription does not include the functions mentioned in clause 3.1.4.1.
+3.1.6.3.
+The Free Subscription will be automatically upgraded to a trial version if a scan of your domain shows that it contains more than 100 pages.
+You will be notified of such upgrade by email.
+4.
+Payment and Invoicing 4.1.
+Subscriptions are billed monthly in arrears or yearly in advance and are payable by bank transfer or credit card.
+You must provide us with valid and updated credit card information when signing up for Cookiebot CMP with your credit card.
+You authorize us to recurrently charge such credit card or bank account for all services you have accepted to buy from our website.
+By accepting a billing agreement using PayPal, you authorize Cybot A/S as a merchant to initiate payment collection without further consent from you.
+4.2.
+You are obliged to keep your payment details up to date.
+You can renew your payment authorization via the âMy accountâ menu on our website after login.
+4.3.
+We will draw the first monthâs/yearâs subscription fee including any applicable VAT one month after the domain(s) has/have been added to your account.
+If you pay by bank transfer, you must pay your invoice within 30 days of receipt.
+4.4.
+Any additional domains added to your Cookiebot CMP account during the yearly payment term will be billed separately to align the billing cycle for the additional domain and your other domain(s).
+4.5.
+After each monthly domain scan, Cookiebot CMP will automatically fix the size of the next subscription fee for each domain name based on the number of subpages found.
+4.6.
+Whether the subscription fee is paid by bank transfer or credit card, invoices will be sent to the email address registered on your Cookiebot CMP account.
+When you log into Cookiebot CMP, you can view and download invoices issued to you under the âMy accountâ menu.
+4.7.
+You may change the payment term on your user account at cookiebot.com at any time.
+4.8.
+If you pay by credit card, we will defray all transaction fees.
+If you pay by bank transfer to our accounts in Germany or Denmark, you are required to defray all transaction costs.
+4.9.
+Local VAT will be charged from customers situated in the EU except companies that have registered a valid VAT number with us (âreverse chargeâ).
+The exception does not apply to Danish companies.
+Customers outside the EU will not be charged VAT.
+4.10.
+If you are a company situated in the EU and qualify for VAT exemption, and your VAT number is not valid according to the European Commissionâs VIES VAT number validation system on the date of invoice (order and/or recurring order), we will charge VAT which will not be refunded.
+4.11.
+All orders will be charged in US Dollars (USD), Euro (EUR), Pound Sterling (GBP), Swiss Franc (CHF), Polish Zloty (PLN), Danish Krone (DKK), Norwegian Krone (NOK) or Swedish Krona (SEK) depending on your account currency setting.
+5.
+Term and Termination 5.1.
+The Agreement and your subscription to our services will be effective from the moment you sign up for our services on our website and until the subscription and the Agreement is terminated by you or us.
+5.2.
+You may cancel your subscription or remove a domain from your configuration at any time without notice to expire at the end of the current billing period.
+You can cancel your subscription by clicking âCancel my accountâ under the âMy accountâ menu on our website.
+Your data (including account information, invoices and collected user consents) will be permanently deleted without further warning or any option to restore.
+It is your obligation to delete the Cookiebot CMP scripts on your website before you cancel your account since the scripts will not work from the time you cancel your account.
+5.3.
+Yearly payments made in advance will not be refunded if you cancel your subscription or remove a domain from your Cookiebot CMP account.
+6.
+Responsible Use and Conduct By visiting our website and accessing the information, resources, services, products and tools we provide for you, both free and payable, either directly or indirectly (the âResourcesâ), you agree to use these Resources only for the purposes permitted by (a) these Terms and (b) applicable laws, regulations and generally accepted online practices or guidelines.
+Wherein, you understand that:
+a.
+In order to access our Resources, you may be required to provide certain information about yourself (such as identification, contact details, etc.) as part of the registration process or as part of your ability to use the Resources.
+You agree that any information you provide will always be accurate, correct and up to date.
+b.
+You are responsible for maintaining the confidentiality of any login information associated with any account you use to access our Resources.
+Accordingly, you are responsible for all activities that occur under your account(s).
+c.
+You may only permit authorized users who possess rightfully obtained login information to use the Resources, and you must ensure that anyone who uses the Resources does so only for your authorized use and complies with these Terms.
+d.
+You may not make the Resources or any login information available to any third party, including, without limitation, in any form by rental, service bureau, hosting, time sharing arrangement or demonstration of the Resources to any third party.
+e.
+Accessing (or attempting to access) any of our Resources by any means other than through the means we provide is strictly prohibited.
+You specifically agree not to access (or attempt to access) any of our Resources through any automated, unethical or unconventional means.
+f.
+Engaging in any activity that disrupts or interferes with our Resources, including the servers and/or networks at which our Resources are located or to which they are connected, is strictly prohibited.
+This includes restricting in any way any other authorized user from using the Resources.
+g.
+Attempting to copy, duplicate, reproduce, sell, trade or resell our Resources is strictly prohibited unless otherwise agreed in writing.
+h.
+The Resources may not be used in any way that is unlawful or which harms Cybot as determined by Cybot in its sole discretion.
+i.
+You must use your best efforts to cooperate with and assist Cybot in identifying and preventing any unauthorized use, copying or disclosure of the Resources or any portion thereof.
+j.
+If you learn of any actual or threatened infringement of the Resources through piracy, or if any piracy claim is made against you by a party other than Cybot in connection with your use of the Resources, you must notify Cybot as soon as possible.
+k.
+You are solely responsible for any consequence, loss or damage which Cybot may directly or indirectly incur or suffer due to any unauthorized activities conducted by you as described above and which may incur criminal or civil liability.
+l.
+We may provide various open communication tools on our website, such as a help desk, blog comments, blog posts, public chat, forums, message boards, newsgroups, product ratings and reviews, various social media services, etc.
+You understand that we do not generally pre-screen or monitor the content posted by users of these various communication tools which means that if you choose to use these tools to submit any type of content to our website it is your personal responsibility to use these tools in a responsible and ethical manner.
+By posting information or otherwise using any open communication tools as mentioned, you agree that you will not upload, post, share or otherwise distribute any content that:
+i.
+Is illegal, threatening, defamatory, harassing, degrading, intimidating, fraudulent, deceptive, invasive, racist or contains any type of improper or inappropriate language;
+ii.
+Infringes on any trademark, patent, trade secret, copyright or other proprietary right of any party;
+iii.
+Contains any type of unauthorized or unsolicited advertising.
+or
+iv.
+Impersonates any person or entity, including any Cybot employees or representatives.
+m.
+We have the right to remove at our sole discretion any content that we find in our judgment does not comply with these Terms along with any content that we find to be otherwise offensive, harmful, objectionable, inaccurate or in violation of any third-party copyrights or trademarks.
+We are not responsible for any delay or failure in relation to the removal of such content.
+If you post content that we choose to remove, you hereby consent to such removal, and you also consent to waiving any claim against us.
+n.
+We do not assume any liability for any content posted by you or any other third-party users of our website.
+However, any content posted by you using any open communication tools on our website, provided that it does not violate or infringe on any third-party copyrights or trademarks, becomes the property of Cybot, and as such this gives us a perpetual, irrevocable, worldwide, royalty-free, exclusive license to reproduce, modify, adapt, translate, publish, publicly display and/or distribute it as we see fit.
+This only refers and applies to content posted via open communication tools as described and does not apply to information that is provided as part of the registration process necessary in order to use our Resources.
+All information provided as part of our registration process is covered by our Privacy Policy.
+7.
+Indemnification You agree to indemnify and hold harmless Cybot and its parent company and subsidiaries or affiliates and their executive officers, managers, employees, donors, resellers, agents and licensees for and against all losses, expenses, damages and costs, including reasonable attorneysâ fees, resulting from any violation of these Terms or the failure to fulfil any obligations relating to your account incurred by you or any other person using your account.
+We reserve the right to take over the exclusive defense of any claim for which we are entitled to indemnification under these Terms.
+In such event, you must provide us with such cooperation as is reasonably requested by us.
+8.
+Privacy Your privacy is very important to us, and this is why we have created a separate Privacy Policy in order to explain in detail how we collect, manage, process, secure and store your private information.
+Our Privacy Policy is included under the scope of these Terms.
+To read our Privacy Policy in its entirety, please visit cookiebot.com/en/privacypolicy.
+9.
+Disclaimer of Warranty 9.1.
+By using our website or services, you understand and agree that all Resources we provide are âas isâ and âas availableâ.
+This means that we do not represent or warrant to you that:
+a.
+the use of our Resources will meet your needs or requirements;
+b.
+the use of our Resources will be uninterrupted, timely, secure or free from errors;
+c.
+the information obtained by using our Resources will be accurate or reliable.
+nor that
+d.
+any defects in the operation or functionality of any Resources we provide will be repaired or corrected.
+9.2.
+Furthermore, you understand and agree that:
+a.
+any content downloaded or otherwise obtained through the use of our Resources is downloaded or obtained at your own discretion and risk.
+that you are solely responsible for any damage to your computer or other devices for any loss of data that may result from the download of such content.
+and that
+b.
+no information or advice, whether expressed, implied, oral or written, obtained by you from Cybot or through any Resources we provide will create any warranty, guarantee or conditions of any kind, except for those expressly outlined in these Terms.
+9.3.
+Unless otherwise expressed, Cybot expressly disclaims all warranties, guarantee and conditions of any kind, whether express or implied, including but not limited to any implied warranties, guarantee and conditions of merchantability, fitness for a particular purpose and non-infringement.
+10.
+Limitation of Liability In conjunction with the Disclaimer of Warranty as explained above, you expressly understand and agree that any claim against us will be limited to the amount you have paid in the previous 12 months, if any, for use of products and/or services.
+Cybot will not be liable for any direct, indirect, incidental, consequential or exemplary loss or damage which may be incurred by you as a result of using our Resources or as a result of any changes, data loss or corruption, cancellation, loss of access or downtime to the full extent that applicable limitation of liability laws allow.
+11.
+Copyrights/Trademarks 11.1.
+All content and materials available at cookiebot.com defined as the Resources in clause 6, including but not limited to text, graphics, website name, code, images and logos are the intellectual property of Cybot and are protected by applicable copyright and trademark law.
+Any inappropriate use, including but not limited to the reproduction, distribution, display or transmission of any content on this site is strictly prohibited unless specifically authorized by Cybot.
+11.2.
+These Terms do not grant you any ownership interest in or to our Resources but only a limited right of use that is revocable in accordance with these Terms or the Agreement.
+Cybot does not grant any license or other right to use any of our trademarks, service marks, copyrightable material or other intellectual property except as expressly provided in these Terms or agreed to in writing.
+11.3.
+In addition, you agree to refrain from any act which in any way compromises our Resources, including but not limited to: (i) reverse engineering, reverse compiling, decrypting, disassembling or otherwise attempting to derive the source code of the Resource.
+(ii) modifying, translating or creating derivative works of the Resources.
+(iii) sublicensing, reselling, renting, leasing, distributing, marketing, commercializing or otherwise transferring rights or usage to the Resources.
+or (iv) embedding the Resources in any third-party applications unless explicitly permitted.
+11.4.
+Upon request from Cybot, you must be able and ready to confirm at any given time that you adhere to the provisions of this clause.
+If you fail to deliver such confirmation within 15 working days from receiving the request, this may be considered, at Cybotâs sole discretion, a material breach of these Terms.
+12.
+Governing Law and Venue 12.1.
+This website is controlled by Cybot, Denmark.
+By accessing our website or buying our services, you agree that the laws of Denmark, excluding however the general rules of Danish law on governing law, apply to all matters relating to the use of our website and the purchase of any products or services through this site.
+12.2.
+In the event of any dispute or disagreement arising under or in connection with these Terms or the Agreement (including a dispute or disagreement as to the validity of the Terms or the Agreement), such dispute or disagreement will be referred to and resolved under the exclusive jurisdiction of the Danish courts.
+13.
+Contact Information If you have any questions or comments about these Terms of Service as outlined above, you can contact us at:
+Cybot A/SHavnegade 391058 CopenhagenDenmark
+Phone: +45 50 333 777Email: mail@cookiebot.comCompany reg.
+no.: DK34624607 New Google Consent Mode&nbsp.
+Cookiebotâ¢ CMP integrates perfectly with the new Google Consent Mode.
+
+ Try now 
+
+
+Make your websiteâs use of cookies and online tracking compliant today
+
+Try for free 
+
+
+
+
+
+
+
+
+
+Subscribe to our newsletter
+Â© Cookiebot.
+All rights reserved.
+Cookiebot is a trademark of Cybot. Cybot is registered in Denmark.
+Company reg.
+no.: DK34624607.
+
+ Blog 
+ Cookie Declaration 
+ Privacy Policy 
+ Terms of Service 
+ About 
+ Resellers 
+
+Language: English 
+ Dansk English Deutsch EspaÃ±ol FranÃ§ais Italiano 
+
+Currency: Euro 
+ Swiss franc - CHFDanish krone - kr.Euro - â¬Pound sterling - Â£Norwegian krone - kr.Polish zÅoty - zlSwedish krona - kr.US Dollars - $
+

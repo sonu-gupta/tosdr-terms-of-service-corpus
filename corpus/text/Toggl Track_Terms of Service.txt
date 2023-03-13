@@ -1,0 +1,635 @@
+
+
+Products
+Blog
+Our mission
+Working at TogglWe're hiringLog inTry Toggl
+
+Products
+Blog
+Our mission
+Working at TogglWe're hiring
+Try TogglLog inLegal TermsTerms of ServiceTerms of ServicePrivacy PolicyPrivacy PolicyData Protection PolicyData Protection PolicySub-processor ListSub-processor ListBeta TermsBeta TermsCookie ListCookie ListTable of ContentsIntroduction1.
+Interpretation2.
+Parties, Formation of contract, term3.
+Special categories of users4.
+Forfeiture of the right of withdrawal5.
+Licence6.
+Service7.
+Payment8.
+User's undertakings9.
+Representative's undertakings10.
+User Account11.
+Organization Owner12.
+Data rights13.
+Personal Data14.
+Contributions15.
+Disclaimer of warranties16.
+Limitation of liability17.
+Indemnification18.
+Changes19.
+Termination20.
+Consumer withdrawal21.
+Effects of termination22.
+Assignment, other disposals23.
+Notices24.
+Law, jurisdiction25.
+MiscellaneousData Processing AgreementTerms of ServiceIntroductionThese terms of service describe the rights and obligations of the User and the Supplier in connection with the Service and form an essential part of a binding contract between them (capitalised words used in this introduction, including the words "User", "Supplier" and "Service", are defined below in section 1.1).
+If you are reading this text, there is a good chance that you may be about to become, or perhaps already are, a User.
+So please do consider these terms carefully as they are likely to affect your rights and obligations.
+If you wish to enjoy the Service as a consumer, i.e., a natural person (an individual) acting for purposes outside his or her trade, business, craft or profession, then please pay particular attention to section 3.1 and articles 4 and 20.
+You are also advised that, before proceeding to create an account, you should study the documentation pertaining to the Service (links to which are provided below under the definition of "Documentation") and consider carefully whether the Service is likely to meet your requirements, for a consumer's right to withdraw from this contract and the right to withdraw from subscriptions are excluded under article 4.
+You should bear in mind that, even though certain subscriptions may be available free of charge, the more feature-rich Service Plans are always paid.
+This means that placing an order for a Service Plan often entails an obligation to pay.
+Please consult the Documentation prior to ordering anything and, when you do place an order, pay attention to the information displayed upon each step of the procedure to be certain that what you are ordering is indeed what you desire and that the terms presented are acceptable.
+If you are not of legal age (which is likely to be the case if you are under 18) or otherwise do not possess full active legal capacity, then the Service is not for you (see section 3.2).
+If you are associated with a patent assertion entity (also known as a patent troll), please see section 3.3.
+If you are entering into this Agreement on behalf of a company, organization or another legal entity, you are agreeing to this Agreement for that entity and representing to Supplier that you have the authority to bind such entity and its affiliates to this Agreement, in which case the terms âCustomer,â âOrganization Ownerâ or a related capitalized term herein shall refer to such entity and its affiliates.
+If you do not have such authority, or if you do not agree with this Agreement, you must not use or authorize any use of the Services.
+Should you find anything in these Terms that you do not agree with, please do not use any of the Features, close your User Account and remove all Software and other items forming part of the Service from your systems, devices, storage media and repositories.
+Regardless of your purposes and whether you agree with the Terms, please consider the Supplier's Privacy Policy (https://toggl.com/track/legal/privacy).
+This document describes how, when and why the Supplier collects information about individuals (including but not limited to customers), how and for what purposes these personal data are processed, who processes them and what rights the individuals have in connection with the data concerning them.1.
+Interpretation1.1.
+The following terms, when capitalised, shall have the meanings ascribed to them below:
+
+"Agreement" â the contract between the Parties, comprising the Terms, the Privacy Policy, the Data Protection Policy, the Sub-processor List and such other terms concerning the Service as the Parties may agree to;
+
+"Beta Feature" â a component, property or an aspect of the Service that has not been made commercially available or released to Users other than the ones who have voluntarily opted to participate in beta testing;
+
+"Beta Terms" â Beta Testing Terms of Service, available at https://toggl.com/legal;
+
+"Beta Testing User" â a User who has voluntarily opted to participate in beta testing following the terms and conditions set out in Beta Terms;
+
+"Customer" â anyone other than the Supplier that has a User Account.
+Each Customer is also a User (i.e., a particular type of User) and, unless the context otherwise requires, should interpret the term "Customer" as referring specifically to him;
+
+"Data Protection Policy" â the Supplier's data protection policy, available at https://toggl.com/track/legal/data-protection;
+
+"Data Subject" â any natural person (individual) to whom any of the Relevant Data relate;
+
+"Documentation" â the meaning of this term is twofold: (a) where Service usage is concerned (i.e., in the technical and operational context), it means the current technical documentation and user guidance pertaining to the Software, as published and periodically updated on the Supplier's Software-dedicated website or as the Supplier may otherwise from time to time provide, including particularly Software support and knowledge base articles (https://support.toggl.com), API documentation (https://developers.track.toggl.com/) and notes on integrations (https://www.toggl.com/track/integrations).
+(b) in the commercial context (i.e., where prices, billing or payment are concerned) it means the current information on the prices of Service Plans and the methods of their calculation and payment, as published and periodically updated here: https://toggl.com/track/pricing/, or as the Supplier may otherwise from time to time provide;
+
+"DPA" â the data processing agreement at the end of these Terms;
+
+"Feature" â a component, property or an aspect of the Service;
+
+"GDPR" â Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
+
+"Guest User" â anyone besides the Customer and the Supplier that accesses the Customer's User Account, including particularly anyone whose respective access has been authorised or caused (whether knowingly or not) by the Customer;
+
+"Intellectual Property" â any and all trademarks, service marks, domain names and business names, brands, rights pertaining to inventions, designs, databases and proprietary information (including, without limitation, trade secrets and know-how), patents, copyrights (including both economic as well as moral rights) and any and all other items treated as intellectual property or rights thereof under applicable law;
+"Organization" â a logical space in the Service user environment to which all the Customer's Organizations are assigned;
+"Organization Data" â the data that are stored or otherwise processed in, through or by means of a given Organization, including all such User Data;
+"Organization Owner" â the Customer having ultimate responsibility for a given Organization, its contents and all activities (including all data processing) performed in, through or by means of that Organization and Organization(s) assigned to that Organization.
+Organization Owner is also referred to as the "Owner" in these Terms.
+
+"Party" â each of the User and the Supplier (collectively, "the Parties");
+
+"Personal Data" â any information relating to an identified or identifiable natural person (individual).
+This term has the same meaning as 'personal data' under the GDPR;
+
+"Privacy Policy" â the Supplier's privacy policy, available at https://toggl.com/track/legal/privacy;
+
+"Relevant Data" â Personal Data that form part of Organization Data;
+
+"Representative" â anyone who represents the User upon his entry into the Agreement or in any transaction related hereto (e.g., ordering or terminating a Service Plan or amending or terminating the Agreement);
+
+"Service" â depending on the context, either: (a) the Supplier's providing (i) the Software and/or (ii) one or more resources or other benefits for use in conjunction with the Software and/or (iii) technical support services concerning the foregoing.
+or (b) the above items collectively, any of them separately or any combination of any of them, notwithstanding that the item(s) in question may not consist in a service (as, e.g., in the case of locally installable Software);
+
+"Service Plan" â a subscription, on the terms hereof, to a particular set of Features offered by the Supplier.
+A Service Plan may but need not have a specific name, such as, for example, "Free", "Starter", "Premium" or "Enterprise".
+The significance of such names, if any, is explained in the Documentation, as are other differences between Service Plans (such as which Features a given Service Plan includes, what are the main characteristics of these Features, the prices of Service Plans and, if relevant, the technical aspects in which Service Plans vary, e.g., in terms of their compatibility with third-party items).
+A Service Plan is required for each Organization and each Organization does come with a Service Plan.
+It is possible to switch from one Service Plan to another, thereby adding or removing Features in relation to the Organization;
+
+"Software" â the Supplier's time tracking software (currently branded Toggl) and such other Supplier-developed computer programs as the Supplier may make available in conjunction therewith, including such patches, updates, upgrades, other modifications and replacements thereof as the Supplier may from time to time provide.
+Each of the foregoing may take the form of an on-demand service, a local installation or a combination thereof;
+
+"Sub-processor" â a third party engaged by the Supplier to process Relevant Data in connection with the Service;
+
+"Sub-processor List" â a list of third parties (sub-processors) who, under their arrangements with the Supplier, may process Relevant Data in connection with the Service.
+This list is periodically updated and currently available here: https://toggl.com/track/legal/sub-processors;
+
+"Subscriber" â in relation to each Service Plan, the Customer to whom the Service Plan belongs (which usually means the Customer who ordered the Service Plan unless the same has transferred to another Customer, if permitted hereunder);
+
+"Supplier" â either (a) Toggl OÃ, an Estonian private limited company, registered number 11346813, established and doing business at Toggl OÃ, TornimÃ¤e 5, 2nd floor, Tallinn 10145, Estonia, email support@track.toggl.com, telephone +372 712 1144.
+or (b) Toggl Inc, a Delaware corporation, file number 5675394, established and doing business at Suite 403-A, 1013 Centre Road, Wilmington, DE 19805, USA, email support@track.toggl.com, telephone +372 712 1144.
+as determined under article 2 of the Terms separately with respect to (Î±) the Agreement in so far as it does not concern any Service Plan specifically or the User acting as an Organization Owner.
+(Î²) the Parties' relationship in the context of a particular Service Plan.
+and (Î³) the Parties' relationship in the context of the User acting as an Organization Owner;
+
+"Terms" â these terms of service, including the DPA;
+
+"User" â anyone other than the Supplier that downloads, saves, installs, uses, accesses, interacts with, or is the recipient of the Service or possesses or controls, directly or indirectly, any item that forms part of the Service, including, without limitation: (a) the Customer.
+(b) anyone who performs any of the above acts on the Customer's behalf or through his User Account, whether authorised to do so or not.
+(c) anyone who accesses a resource (e.g., visits a web page or retrieves a file, information or other object) that is located on the Service or forms a part thereof.
+(d) anyone with a copy of any Software.
+Each User should interpret this term as referring specifically to him unless the context otherwise requires;
+
+"User Account" â a Service user account whose purpose is to allow its holder to use one or more Features (i.e., enjoy the end-user benefits thereof);
+
+"User Data" â any data, including Personal Data, that a User processes (e.g., collects, enters, records, stores, alters, arranges, deletes, uses, transmits, discloses or makes available) through a User Account or otherwise by means of the Service;
+
+"Workspace" â a logical space in the Service user environment where one or more Customers may use the Features available to them, as further described in the Documentation;
+1.2.
+In these Terms: (a) the words "herein", "hereto", "hereof", "hereunder", "hereby" and "herewith" refer to the Agreement.
+(b) words denoting a gender or genders are to be construed as referring to all genders appropriate in the context.
+and (c) save where the context clearly otherwise determines, the word "item" means any legal object, i.e., anything tangible or intangible (including any electronic object and any right or other benefit) that is capable of being the object of a right, duty or a capacity.
+1.3.
+This Agreement constitutes the entire contract between the Parties relating to the subject matter hereof, superseding all prior agreements and understandings of the Parties concerning that matter.
+If any provision of the Agreement conflicts with any Service-related information provided elsewhere, the provision in the Agreement shall prevail.2.
+Parties, Formation of contract, term2.1 The identity of the Supplier, i.e., which of the entities specified under the definition of "Supplier" the User is contracting with, depends on the type of User and the User's domicile or, upon ordering a paid Service Plan, the domicile of the party paying for the Service Plan, and is determined separately with respect to:
+(a) the Agreement in so far as it does not concern any Service Plan specifically or the User acting as an Organization Owner;
+(b) the Agreement in relation to each Service Plan specifically, i.e., the Parties' relationship in the context of a particular Service Plan.
+and
+(c) the Agreement in so far as it concerns the rights and obligations of the User as an Organization Owner and the Supplier's corresponding rights and obligations (including their respective rights and obligations under the DPA), i.e., the Parties' relationship in the context of the User acting as an Organization Owner.
+2.2 A separate Agreement shall form under each of subsections 2.1(a), 2.1(b) and 2.1(c) as follows:
+(a) where the User, or, in the case of subsection 2.1(b), the person or entity paying for the Service Plan, is domiciled in the United States of America (U.S.), the relevant Agreement shall form between the User and Toggl Inc as the Supplier;
+(b) where the User, or, in the case of subsection 2.1(b), the person or entity paying for the Service Plan, is domiciled in any jurisdiction other than the U.S.
+or his domicile cannot be determined, the relevant Agreement shall form between the User and Toggl OÃ as the Supplier.
+2.3 Consequently, most Users will have more than one Agreement and the identity of the Supplier in those Agreements may but need not be the same.
+Specifically, as per the rules under sections 2.1 and 2.2:
+(a) each User shall have an Agreement under subsection 2.1(a) with the Toggl entity that corresponds to his domicile according to section 2.2.
+The Agreement referenced in the first paragraph of this subsection: (Î±) shall be effective upon the earlier of (i) the party to be identified as the User consenting to the Terms, whether explicitly or impliedly, with implied consent being deemed to have been given by the performance of any of the acts mentioned in the definition of "User", and (ii) the said party becoming identifiable by any of the characteristics used in these Terms to define a User or a Customer (except the attribute "other than the Supplier").
+(Î²) is for an indefinite term, continuing in force until terminated pursuant to its terms or on statutory grounds, except that certain of its provisions (as identified herein) will survive any termination hereof;
+(b) the Subscriber and any User who enjoys any of the benefits of a Service Plan in relation to which he is not the Subscriber shall, as respects the given Service Plan, have an Agreement under subsection 2.1(b) with (i) the Toggl entity corresponding to the Subscriber's domicile, in the case of a free Service Plan, or (ii) in the case of a paid Service Plan, the Toggl entity corresponding to the domicile of the payer.
+The Agreement referenced in the first paragraph of this subsection: (Î±) between the Supplier and the Subscriber shall be effective upon the Supplier's acceptance of the order for the Service Plan, whether explicitly or impliedly, with implied acceptance being deemed to have been given by making the relevant Features available.
+(Î²) between the Supplier and a User other than the Subscriber shall be effective upon any of the Service Plan's benefits becoming available to the User.
+and, in either case (Î³) shall terminate upon (i) a new Agreement being made between the Supplier and a Subscriber under subsection 2.1(b) in relation to the Organization concerned, i.e., where the Service Plan pertaining to the Organization is replaced by another, (ii) the expiry of the Service Plan, (iii) the User ceasing to be a member of the Organization (in which event the Agreement in question will only terminate in respect of the particular User), (iv) the Organization being closed, or (v) the party paying for the Service Plan being replaced by another whose domicile, if the Agreement were made anew with him as the payer, would, as per point (b)(ii) above, cause the same to form with a Toggl entity other than the current Supplier, or the existing payer's domicile being changed respectively.
+(Î´) where point (Î³)(v) applies, a new Agreement under subsection 2.1(b) shall automatically form with the Toggl entity corresponding to the new domicile of the payer;
+(c) the Organization Owner shall always have an Agreement under subsection 2.1(c) with the Toggl entity having issued the Service Plan then-effective in relation to the given Organization, i.e., each time that the Organization becomes subject to an Agreement between the Supplier and a Subscriber under subsections 2.1(b) and 2.3(b) a new Agreement under subsection 2.1(c) shall form between the Organization Owner and the respective Toggl entity, with the Owner's previous Agreement under that subsection terminating respectively (and such re-establishment of contract having no effect on the Service).
+2.4 A separate contract is always formed between the Supplier and each User.
+No User is party to, or a third-party beneficiary or a protected or otherwise interested third party under, another User's contract with the Supplier, or can raise any claim based on or in connection with that contract.
+2.5 The Supplier's undertakings with regard to the Service are to the Customer only and no one else may demand, or shall rely on, the Supplier's performance of its respective obligations (or any other obligation that the Supplier may have under its Agreement with the Customer).3.
+Special categories of users3.1 The Service is for business users, to be enjoyed as a workplace tool.
+It is not intended for personal or household use or any other consumer application.
+Any natural person (individual) wishing to use any of the Features for a purpose unrelated to his trade, business, craft or profession must, before obtaining a Service Plan for the respective Feature(s), notify the Supplier that he wishes to use the Service as a consumer.
+The User's failure to provide such notice will, to the maximum extent permitted by law, result in the following: (a) the User not being able to rely on being a consumer, i.e., he shall be deemed to have waived the respective right.
+(b) no consumer law applying to the Parties' relations.
+and (c) the User forfeiting any and all consumer rights hereunder, including particularly, if applicable, the right to withdraw from the Agreement and the Service Plan in question.
+3.2 As far as natural persons are concerned, the Service is only intended for those who have full active legal capacity.
+Such capacity is usually attained by becoming of legal age (the age of majority), which commonly occurs at the age of 18.
+Individuals whose active legal capacity is restricted are also restricted from being Users and must not perform any of the acts mentioned in the definition of "User".
+The Customer must ensure that any natural person whom he causes to become a User (e.g., by causing the person to access the Customer's User Account or a resource that is located on or forms a part of the Service) has full active legal capacity.
+Also, each natural-person User and Representative shall, by having assumed the respective role (explicitly or impliedly), be deemed to have represented to the Supplier that he is, and, in the Representative's case, that both he and the User are, at least 18 years old and capable of entering into contracts.
+The above representation is deemed to be made every time that the person causes himself (and, in the Representative's case, when he causes the User) to be exposed to the Service.
+3.3 Patent assertion entities (also referred to as non-practicing entities or patent trolls), meaning persons or entities that derive or seek to derive a substantial part of their revenue from the offensive assertion of patent or other intellectual property rights, are generally restricted from being Users and shall not enjoy any of the rights that a Customer is intended to have hereunder, except as otherwise provided in the following part of this section.
+A patent assertion entity and anyone acting on behalf, on the instructions or for the benefit of, or directly or indirectly controlling, being controlled by, or under common control with, such an entity is prohibited from being a User and must not perform any of the acts mentioned in the definition of "User", save upon the Supplier's prior, explicit and informed consent and the respective person or entity having given such undertakings and assurances as the Supplier reasonably may request.4.
+Forfeiture of the right of withdrawal4.1 The User hereby requests that the Supplier's performance of the Agreement commence immediately and that the benefits to which the User is entitled hereunder, including, where applicable, the Features authorised under his Service Plan(s), be made available to him immediately.
+The User acknowledges and agrees that by making the above requests he loses the right (if any) to withdraw from the Agreement and, where applicable, the right to withdraw from the Service Plan(s) in question.
+The User further requests that the Features to be authorised under any future Service Plan he may obtain be made available to him immediately upon the Service Plan's commencement.
+The User acknowledges and agrees that by requesting this (and the respective Features becoming available to him) he loses the right, if any, to withdraw from the Service Plan.5.
+Licence5.1.
+Subject to the terms set forth herein, the Supplier grants to the below Party, and the latter accepts, the following limited, non-exclusive and restrictedly-transferable right:
+(a) to the Subscriber â the right use, during the term of his Service Plan, the Features available under that Service Plan;
+(b) to the Customer â the right to access and use his User Account during the term hereof in a manner and by such means as consistent with the Service Plans whose benefits he is entitled to enjoy;
+(c) to the User having a complete end user copy of a Software product â the right to install, store and use the respective Software copy during the term hereof on a device for which it is intended.
+Each of the above rights shall be exercised solely for the respective Party's own internal legitimate purposes and none of these rights shall be sublicensed, assigned, encumbered or otherwise disposed of, save if and to the extent otherwise permitted under section 22.1.
+5.2.
+A User who enjoys the benefits of a Service Plan in relation to which he is not the Subscriber shall, in the context of that Service Plan, be deemed to be a sub-licensee of the Subscriber.
+For the avoidance of doubt, the benefits of a Service Plan do not include the rights of an Organization Owner.
+The rights and obligations attaching to the Owner's role cannot be sublicensed or delegated (but they are restrictedly-transferable).
+5.3.
+The Service is intended for normal end use, respecting the rights, freedoms and legitimate interests of others, and may only be accessed through the interfaces that the Supplier has provided or authorised therefor.
+5.4.
+Where Documentation is available concerning a particular Feature, the Feature should be used in accordance with that Documentation.
+5.5.
+Reproduction of the Software by persons other than the Supplier is only allowed for the purposes of Software installation and backup, and only to the extent that such reproduction is necessary for using the Software in accordance with this Agreement.
+5.6.
+As between the Parties, all Service-related Intellectual Property shall vest in, and is retained by, the Supplier.
+The User shall not acquire any right thereto or otherwise in connection with the Service, except for the limited rights of use expressly set forth in this Agreement.6.
+Service6.1.
+The Supplier will use commercially reasonable efforts to provide the Subscriber with the benefit of all Features authorised under his Service Plan.
+6.2.
+The level of Service to which the Customer is entitled (including the nature, scope, availability, means of accessing and providing and other particulars of the Supplier's Software-related technical support services) may depend on the Service Plan chosen.
+The Documentation explains in more detail the effects that the selection of a Service Plan can have on the Service.
+6.3.
+Unless otherwise provided in the Documentation or specifically agreed between the Customer and the Supplier: (a) the Customer may contact the Supplier for technical support at the email address specified in the definition of "Supplier" or by using such error reporting or customer feedback features as may be available via the Service.
+(b) the Supplier aims to respond to support requests within 24 business hours and endeavours to resolve Software errors and Service defects within reasonable time but makes no commitment as to how quickly support will be provided or such matters will be resolved.
+6.4.
+The User acknowledges and agrees that:
+(a) the Service (i) has not been designed to meet his specific requirements, (ii) may from time to time suffer interruptions and be occasionally unavailable, (iii) has and will continue to have certain bugs and vulnerabilities, and (iv) should not be relied upon in inherently dangerous circumstances;
+(b) the Software, the Service and anything offered or delivered as a part of, in conjunction with, or by means of any Feature is provided on an "as is" and "as available" basis;
+(c) his selection of a Service Plan and use of any of the Features are at his own risk, as are his exposure to, down- and uploading of, as well as transmission, receipt, storage, possession, disclosure and other handling of data, computer programs, software code or other items through or due to the Service.
+6.5.
+The Service may provide links, references or access to third-party websites, resources or services and the latter may provide the same with respect to the Service.
+The Supplier is not responsible for the existence or qualities (including the availability, reliability and security) of such external sites, resources or services, does not endorse them and shall not be liable for any loss, damage, expenses or other undesirable consequences attributable thereto.
+6.6.
+The Supplier has no obligation to enhance, modify or replace any part of the Service, or continue developing or releasing new versions thereof.
+6.7.
+The Supplier may: (a) discontinue the Service or cease providing the same to any Customer on a month's notice.
+(b) cease providing the Service to any User other than a Customer without notice.
+(c) suspend or restrict access to the Service for anyone whose payment hereunder is overdue more than 6 days or whose use of the Service conflicts with the Agreement.
+(d) suspend, limit or terminate the availability of Features in relation to an Organization whose properties do not conform to its then-current Service Plan (e.g., if there are more members in the Organization than the Service Plan allows) or replace that Service Plan with one to which the Organization conforms.
+and (e) suspend performance under the Agreement in whole or in part with immediate effect if legally required to do so.7.
+Payment7.1.
+Anyone who orders a Service Plan or permits or causes one to be ordered on his behalf is deemed to have agreed to and accepted liability for the payment of all fees and charges associated with the Service Plan, and consented to the same being calculated, billed, revised and adjusted according to the rules that the Supplier has established therefor (as described in this Agreement and the Documentation).
+The same applies to anyone who permits or causes himself to be designated as a payer for a Service Plan (e.g., by allowing another User to specify him as such upon ordering a Service Plan) or otherwise assumes responsibility for incurring Service Plan related fees and charges.
+7.2.
+Unless otherwise specifically agreed: (a) Service Plan subscription fees for any billing period will be determined on a single Organization, number of members in the Organization and a monthly amount per Organization member basis, i.e., for each Service Plan: a specified monthly amount per Organization member multiplied by the number of members in the Organization to which the Service Plan pertains multiplied by the number of months in the billing period applying to the Service Plan (e.g., if the monthly charge per Organization member is $9, the Organization has five members and the billing period is one year, then the subscription fee for that billing period will be $9*5*12=$540).
+(b) the billing cycle in relation to a Service Plan is either monthly or annual (as chosen upon subscription), starting on the day the Service Plan commences or, if a free trial period applies, on the day immediately following the trial.
+(c) payment for the Service Plan is due in advance by the first day of the relevant billing period.
+7.3.
+Payments for a Service Plan shall be in the agreed currency, using a payment method acceptable to the Suppler (which, unless otherwise specified in the Documentation, includes credit card, PayPal and wire transfer).
+7.4.
+The Supplier may vary the fees, rates and the billing cycle applicable to the Customer's Service Plan upon a month's notice.
+If the Customer does not agree with the respective change(s), his sole remedy shall be to cancel the Agreement or the Service Plan in question, with failure to do so signifying his agreement to the change(s).
+7.5.
+The Supplier's fees are non-refundable.
+For instance: (a) if the Agreement or a Service Plan is terminated or varied mid-billing period, the Customer will not be entitled to any refund (including any partial refund) as concerns that billing period.
+(b) payments attributable to future billing periods will not be refunded unless otherwise explicitly agreed.
+7.6.
+Upon on an upgrade or a downgrade from one paid Service Plan to another the amounts that the Customer prepaid for the original Service Plan (i.e., the credit remaining on the relevant subscription) will be applied against the amounts payable for the new Service Plan.
+7.7.
+The Supplier's fees and rates are exclusive of value added and sales taxes and other public dues (except for those based on the Supplier's income), save where the Supplier has otherwise explicitly stated.
+The User shall be solely responsible for all public dues that may be levied on his purchase, receipt, import, export, use or enjoyment of anything provided hereunder.
+7.8.
+All sums owed to the Supplier must be paid in full, without deducting any currency conversion or payment-related charges.
+7.9.
+The User acknowledges that: (a) his payments are handled by third-party service providers.
+(b) the Supplier is not responsible for these parties or their services and has no liability as concerns payment processing.
+(c) late payment may result in the suspension of Service, restriction of access to certain or all of the Features or the termination of the Agreement.
+7.10.
+The Supplier may, in its absolute discretion, charge interest on overdue amounts at either 18% per annum or the relevant statutory rate, whichever it elects.8.
+User's undertakings8.1 The Customer must be a person (natural or legal) or an entity with legal capacity.
+8.2 Upon opening a User Account, ordering a Service Plan, becoming an Organization Owner, and otherwise when transacting with the Supplier, the User shall use his true legal name and provide such true and accurate contact and other information as requested (the Supplier only asks for information that is warranted by the circumstances).
+8.3 The User must comply, and the Customer shall cause each Guest User to comply, with all legal requirements applicable to his use of the Service, handling of Organization Data and other activities hereunder (including export control provisions and requirements as to the processing of Personal Data).
+8.4 The User warrants that his User Data and, in the Customer's case, the User Data of Guest Users are lawful and acquired properly and that his data processing activities and, in the Customer's case, those of Guest Users are legal.
+8.5 The User further warrants that he will not use the Service for sending unsolicited communications or uploading, transmitting, delivering, running, controlling or storing harmful code, malware or illegal content, and, in the Customer's case, that no Guest User will do so.
+8.6 If the Supplier reasonably believes that User Data or the User's data processing activities violate the law or otherwise conflict with the Agreement, it may, in its absolute discretion: (a) ask the User to take such action as the Supplier considers necessary for remedying the matter (which, where feasible and legally permitted, will be the preferred option).
+or (b) remove, disable, restrict access to, or delete the data concerned without being liable (neither to the User nor anyone else) for any loss, damage or other undesirable consequences resulting therefrom.
+8.7 Without prejudice to any of his statutory obligations, the User undertakes that he will not, and the Customer further undertakes that no Guest User will: (a) interfere with the proper functioning of the Service.
+(b) impose an unreasonable load on the Service or its infrastructure.
+(c) consume any resource or otherwise use any item hereunder in a manner or to an extent that prejudices another User's enjoyment of the Service.
+(d) reproduce the Software, except as expressly permitted herein.
+(e) translate, adapt, arrange or otherwise alter the Software or reproduce the results of any such activity.
+(f) distribute or redistribute, including sell, rent, lease, lend or otherwise make available, the Software (neither the original Software nor any copy thereof) or any other part of the Service.
+(g) decompile, disassemble or otherwise reverse engineer the Software.
+(h) remove, alter, hide or obscure any copyright notice, trademark or other proprietary rights notice embedded in, appearing on or otherwise pertaining to any part of the Service.
+(i) create or attempt to create any product or service that is substantially similar to, or performs the same or substantially similar functions as, or otherwise competes with any part of the Service, or purports to be created, provided or approved by the Supplier or its licensors.
+or (j) cause anyone else to do any of the foregoing.9.
+Representative's undertakings9.1.
+The Representative personally warrants to the Supplier that: (a) his principal, upon becoming and while being a Customer, conforms to the description provided in section 8.1.
+(b) he is authorised to act on the User's behalf.
+and (c) the transactions he makes on the User's behalf, including, if applicable, this Agreement, are binding on the User.
+9.2.
+The Representative agrees that if he opens a User Account for a principal who does not conform to the description of section 8.1 or if any transaction he makes on the User's behalf proves to be void due to his lack of authority, he shall, if the Supplier in its absolute discretion so elects and respectively informs the Representative, be deemed to have opened the User Account or, as applicable, entered into the transaction on his own behalf (i.e., in place of the principal whom he represented or purported to represent).10.
+User Account 10.1.
+The Customer shall be fully responsible for the activity that occurs under his User Account, including all data processing and other acts performed through or by means thereof, and must notify the Supplier promptly upon learning of any security breach relating to or unauthorised use of his User Account.
+ 10.2.
+It shall be the User's own responsibility to maintain the confidentiality of his usernames, passwords, access tokens and similar credentials.
+ 10.3.
+The Supplier has no obligation to monitor or access any User Account but may do so if reasonably warranted (e.g., to provide technical support, prevent illegal or harmful activity, perform its duties hereunder or comply with a legal obligation).
+ 10.4.
+The Supplier may, in its sole discretion, temporarily or permanently disable, close or restrict access to any User Account that is used for infringing on anyone's Intellectual Property or proprietary or personal rights or to perform any of the acts mentioned in section 8.7, and shall not be liable for any loss, damage or other undesirable consequences resulting therefrom.11.
+Organization Owner11.1.
+Each Organization must have an Owner, i.e., there must always be a Customer (Organization Owner) who is ultimately responsible for the Organization, and it is for the Customers participating in the Organization (the members thereof) to ensure that an Owner is designated and accepts the pertaining responsibility.
+Organization members are jointly and severally liable for their Organization having an Owner and the Owner being a real person (natural or legal) who can be reached at the email and physical addresses specified in the Organization as the Owner's details.
+In the case of sole-member Organizations, i.e., where there is only one Customer to whose User Account the Organization attaches, the responsibility and liability described in this section fall to the respective Customer.
+11.2.
+The default Organization Owner is the Customer who created the Organization or on whose behalf the Organization was created, but the identity of the Owner can be changed in Organization settings, provided that the Customer to whom the role is to be assigned agrees to assume the same and the requirements of section 22.1 are complied with.
+11.3.
+Should there be any doubt or dispute as to who created a given Organization, on whose behalf it was created or who the Organization Owner is, the Supplier is authorised to determine the same, with its respective determination binding on all parties concerned.
+For the avoidance of doubt, it is not the Supplier's duty to allocate responsibility or resolve disputes between Organization members and the Supplier will use the above authority only as an ultimate measure in situations where the rights, freedoms, assets or legitimate interests of the Supplier or other parties (such as, e.g., Users, data subjects or Intellectual Property owners) are at risk or need to be defended, or where the exercise of such authority is necessary for the performance of the Agreement or to comply with a legal obligation to which the Supplier is subject.
+11.4.
+Where a Service Plan terminates due to it being replaced by another, so shall the Organization Owner's rights and obligations as an Owner with respect to the related Organization, and his role as a Organization Owner is re-established in relation to the Supplier having issued the new Service Plan, i.e., the Owner's Agreement under subsection 2.1(c) is automatically replaced as per subsection 2.3(c), without the Service being deemed to have ceased or recommenced by reason thereof.
+The same applies respectively upon the renewal or reissuance of a Service Plan.
+11.5.
+The Owner shall ensure that Organization Data are lawful and acquired properly and that all data processing and other activities performed in, through or by means of the Organization are legal.12.
+Data rights12.1.
+The User acknowledges that the rights he has and the control he can exercise in relation to Organization Data, including the ability to access, process and dispose of the same, are commensurate with his role in the Organization.
+There may be other Users in the Organization, including but not limited to the Organization Owner, whose status or privileges permit them to enable, disable, limit, suspend or terminate, or whose decisions may otherwise affect, the User's access to and his rights concerning Organization Data.
+The same applies in relation to the Organization itself, its sub-environments and the Features available in connection therewith.
+In case another User exercises such power or there is a disagreement concerning anyone's permissions or privileges in a Organization or rights with respect to Organization Data, it is a matter to be resolved between Users.
+The Supplier has no obligation to intervene, and usually does not intervene, in such disputes and in any event is not responsible for any User's decisions, acts or omissions in relation to, or which affect, another User.
+12.2.
+As between the Parties, Organization Data belong to the Organization Owner and his instructions as to Organization Data override those of any other User.
+The User acknowledges this and shall not hold the Supplier liable for any undesirable consequences that he or anyone else may suffer due to the Supplier's disposal or processing of User Data pursuant to the instructions of an Owner other than the User where those User Data form part of that Owner's Organization Data.
+
+12.3.
+The User, whether an Owner or not, acknowledges and agrees that if an Organization is closed (whomever by), then the Supplier has no obligation to maintain or provide Organization Data and may, unless legally prohibited, delete the same.13.
+Personal DataNote on interpretation: the terms 'controller' and 'processor' have the meanings assigned to them in the GDPR.
+13.1.
+Each of the User and the Representative acknowledges that certain information relating to him is collected and otherwise processed by the Supplier or its nominees.
+Where such information constitutes Personal Data, the respective processing is subject to the Privacy Policy.
+The Privacy Policy lists a number of purposes for which the Supplier may process Personal Data.
+In the User's and the Representative's case, the processing is largely warranted by the Supplier's preparation and performance of contracts between itself and the User (notably, the Agreement and transactions related to the Agreement) and the need to comply with certain legal obligations to which the Supplier is subject (e.g., obligations arising from legislative or regulatory acts concerning taxation, accounting, financial reporting, prevention of terrorism or money laundering, or judicial or administrative process).
+However, the purposes of the processing may not be limited to the above.
+The Privacy Policy gives a more thorough account of the purposes for which the Supplier (as a 'controller') processes Personal Data and of other matters concerning such processing
+13.2.
+The allocation of roles and responsibilities in the processing of Relevant Data is as follows: (a) the Organization Owner is the 'controller' of these data.
+(b) the Supplier is the 'processor' thereof.
+(c) a Sub-processor is also a 'processor' of Relevant Data but one who acts under the Supplier's responsibility (and thus enjoys the protection mentioned in section 16.5).
+(d) any enquiry, request, objection, complaint or demand that the User as a Data Subject may have in connection with such processing (i.e., where the information processed relates to the User) should be addressed to, and resolved by, the Organization Owner (with such assistance from the Supplier as may be necessary and appropriate in light of its role as the 'processor' of the respective information).
+13.3.
+The DPA sets out further rights and obligations of the Organization Owner and the Supplier in relation to the processing referenced in section 13.2.14.
+Contributions14.1 With respect to any product of intellectual activity, including any object of Intellectual Property, that is submitted, contributed or otherwise knowingly made available for inclusion in the Software or any other part of the Service, the Supplier shall be deemed to have been granted a non-exclusive, royalty-free, worldwide, perpetual (save as limited by law), irrevocable, freely transferable and fully sublicensable right to use, distribute, reproduce, modify, adapt, publish, translate, transmit, publicly perform, display and make available the same (in whole or in part) and to incorporate it into other items, including works and inventions, in any form or medium now known or hereafter developed.
+Anyone making such a contribution warrants to the Supplier that he is authorised to do so and that neither he nor any author of any item embedded in his contribution will seek any compensation or reimbursement in connection therewith15.
+Disclaimer of warranties15.1.
+Any warranty of the Supplier not expressly stated herein shall be deemed withheld.
+The Supplier disclaims, to the maximum extent permitted by applicable law, all statutory and implied warranties and course of performance, course of dealing and usage related expectations with respect to the Service.
+15.2.
+Without prejudice to the generality of the foregoing, the Supplier in particular makes no representation and gives no warranty or guarantee: (a) that the Service is fit for any particular purpose, accurate, timely, of satisfactory quality, enjoyable, available regardless of, or in any specific, jurisdiction, or non-infringing of third-party rights.
+(b) that access to or the operation or use of the Service will be uninterrupted, secure or error-free.
+(c) that any error or defect in the Service will be corrected.
+(d) that the Service or any means by which it is accessed or used is free of malware or other harmful components.
+(e) with respect to any third-party item.
+or (f) to anyone who is not a Customer.
+15.3.
+The Supplier's disclaimers in connection with the Service apply both to the Service as a whole and each component thereof.16.
+Limitation of liability16.1.
+To the extent not prohibited by applicable mandatory law, and subject to section 16.2:
+(a) the Service is provided "as is" and "as available", with all faults and defects.
+and, in any event
+(b) the Supplier shall not be liable (under any theory of liability), neither to the User nor anyone else, for any undesirable consequences, including any loss or damage of whatever nature, whether foreseeable or not and even if advised of the danger thereof, that result from (i) any installation, implementation, upgrade, downgrade, modification or customisation of the Software not carried out by the Supplier, (ii) failure to use a Feature in accordance with the Documentation, the Agreement or applicable law, (iii) using a Feature in conjunction with an item not provided or approved by the Supplier, (iv) using a third-party item in conjunction with a Feature not in accordance with the relevant third-party documentation or instructions, (v) not applying an available fix, patch, update, service pack or upgrade that would have avoided the harmful event, (vi) inherently dangerous application of any of the Features or anything else provided hereunder, (vii) any unauthorised accessing or use of a Customer's User Account or any Organization, (viii) any unauthorised use of any User's credentials, (ix) any communication received or transaction entered into through or by means of the Service, (x) anyone's statements or conduct on any site, page or other medium forming part of the Service, or (xi) anything attributable to anyone other than the Supplier;
+(c) where subsection (b) does not apply, the Supplier shall not be liable (under any theory of liability), neither to the User nor anyone else, for any loss of profit, business or opportunity, or any special, consequential, incidental, indirect, punitive or non-patrimonial loss or damages, whether foreseeable or not and even if advised of the danger thereof.
+The Supplier may only be held liable for the User's direct financial loss;
+(d) the Supplier's total cumulative liability arising out of, related to, or in connection with this Agreement, the Service, the Documentation, the processing of Personal Data, or anything else, shall not exceed (i) the total financial consideration (exclusive of value added and sales taxes and other public dues) that the User paid to the Supplier in connection with the Service during the 12 months immediately preceding the month in which the liability event (i.e., the event/s or circumstance/s underlying the Supplier's liability) occurred, or (ii) if the User had no obligation to make such payments during the period mentioned, then EUR 50 (fifty euros);
+(e) this section is without prejudice to the exclusions and limitations of liability that apply by operation of other provisions hereof.
+16.2.
+Subsections 16.1(a) â 16.1(d) shall neither exclude nor limit mandatory liability for any: (a) wilful breach by the Supplier of any of its obligations.
+or (b) death or personal injury caused by a defective item produced by the Supplier (mandatory product liability)
+16.3.
+Neither Party shall be liable for breaching his obligations due to a circumstance that is beyond his control and which he reasonably could not have foreseen or avoided and which, or whose consequences, he reasonably cannot be expected to overcome, such as, for example, a force of nature, conduct of public authorities, war, civil unrest, act of terror, nontrivial cyberattack, failure of a third-party hosting, internet or utility service or any other circumstance qualifying as force majeure under applicable law â to the extent that the respective circumstance prevented or hindered the Party's performance.
+For the avoidance of doubt, this section shall not limit the amount of, or excuse the User from paying, any fee or other sum that the User owes hereunder.
+16.4.
+Nothing herein shall prevent the Supplier from invoking, or otherwise prejudice the Supplier's recourse to, any statutory defence, remedy or exclusion or limitation of liability.
+16.5.
+The protection afforded to the Supplier hereunder, and any statutory protection that the Supplier may enjoy, extends to anyone who acts on the Supplier's behalf, exercises its rights or performs its duties or assists the Supplier in doing the same.17.
+IndemnificationThe User shall defend, indemnify and hold harmless the Supplier, its officers, directors, employees, contractors, agents and representatives from and against all claims made by and all damages, liabilities, penalties, fines, costs and expenses payable to any third party that arise from the User's or, if the User is a Customer, then his own or any Guest User's: (a) breach of any obligation, representation or warranty hereunder.
+(b) misuse of any Feature.
+or (c) infringement of anyone's Intellectual Property or proprietary or personal rights.18.
+Changes18.1.
+The User acknowledges that, from time to time, circumstances may arise that make it necessary or desirable to vary certain provisions of this Agreement.
+Such circumstances include: (a) the Supplier's launch of a new service or a modification to the Service.
+(b) a significant change in the Supplier's operating environment.
+(c) an order or a judgment being entered against or in favour of the Supplier.
+(d) a significant corporate event, such as, e.g., the Supplier's merger, acquisition or transformation.
+(e) the Supplier's transfer of the enterprise or a part of the enterprise to which the Agreement pertains.
+(f) the ambiguity, invalidity, voidability or unenforceability of a provision herein.
+(g) any other event whose occurrence or expected occurrence in the Supplier's reasonable judgment necessitates an amendment hereto.
+18.2.
+The User agrees that: (a) upon any of the circumstances referenced in the preceding section the Supplier may make such changes to the Agreement as it reasonably deems appropriate.
+(b) the Supplier may amend the Agreement as follows: (i) if the User is a Customer, then by providing him with the revised text of the Agreement or the revised part thereof or with a URL specifying a location where the same is available on the internet, or (ii) if the User is not a Customer, then by any of the means described in point (i) or by posting the revised text of the Agreement or the revised part thereof on such page of the Supplier's website as then used for publishing materials such as the Terms.
+(c) if he is a Customer and the revised version of the Agreement substantially reduces his rights or increases his responsibilities, the Supplier will give him reasonable notice of such new version's entry into force.
+18.3.
+Notwithstanding anything herein to the contrary, the Supplier may modify the Service or any part thereof at any time and for any reason, with or without notice.
+Unless otherwise expressly agreed, the use of any new features, versions, releases, updates or other modifications that the Supplier may make available in connection with the Service shall be subject to the Agreement.
+The User's continued use of the Service after any such modification shall constitute his consent to the respective modification(s).
+18.4.
+if the User does not agree with the Supplier's changes (whether to the Agreement or the Service), his sole remedy shall be to terminate the Agreement and stop using all Features.19.
+Termination19.1.
+In this article, the term "Agreement" means the Agreement referenced in subsection 2.1(a) and words such as "herein", "hereto", "hereof" and "hereunder" refer to that Agreement, unless otherwise specified.
+19.2.
+The Agreement between the Supplier and a Customer can only be terminated by closing the Customer's User Account.
+For the avoidance of doubt, where the Customer has more than one User Account, closing an account will only terminate the Agreement pertaining to that account.
+19.3.
+The Agreement between the Supplier and a User other than a Customer can be terminated by notice to the other Party or, if giving notice to the User is impracticable or would result in unreasonable delay or expense, then by the Supplier's ceasing all activities hereunder, except those which are necessary for providing the Service to another User, the protection or enforcement of the Supplier's or other parties' rights, freedoms or legitimate interests, the exercise of the Supplier's statutory rights or freedoms, or to comply with a legal obligation.
+19.4.
+To close his User Account, the Customer must log in to the account, choose "close account" under "profile settings" and confirm that he wishes the account to be closed.
+However, it should be appreciated that Features (including the appearance, titles and location of menus, tabs, fields, buttons, icons and other objects displayed on the Service) are subject to change, meaning that the steps required of the Customer to close his User Account may vary from time to time.
+The Supplier will endeavour to keep this procedure as straightforward as possible and will update the Documentation if any changes are made thereto.
+If the Customer has difficulties closing his User Account, he should contact the Supplier and follow its instructions.
+19.5.
+Either Party may close the Customer's User Account and shall by so doing be deemed to have terminated the Agreement (which, in the civil law context, means 'cancellation', not 'withdrawal'), effective upon the closure of the account, provided that: (a) if the User Account is closed by the Supplier, the Customer must be given at least a month's notice thereof (unless section 19.6 or 20.5 applies or the User Account is closed at the Customer's request).
+and (b) where the User Account is closed by a Party entitled to withdraw from the Agreement, such Party has failed to notify the other that by closing the User Account he is exercising his right to withdraw (which notice must be served prior to or concurrently with closing the User Account and shall result in the Agreement being deemed to have been terminated by withdrawal).
+19.6.
+Upon a Party's material breach of Agreement the other Party may terminate the Agreement forthwith.
+Without prejudice to any statutory provision as to what constitutes a material breach, such a breach hereof shall be deemed to have occurred if a Party, having breached any of his principal obligations hereunder or under the Agreement referenced in subsection 2.1(b), fails to discontinue or remedy such breach within 14 days (or, where exceptional circumstances render this period unreasonably short, such longer time as reasonably required) after notice from the other Party specifying the breach and requiring it to be discontinued or remedied.
+19.7.
+Any termination hereof will terminate all Agreements that the User may have under subsection 2.1(b), except that, if the User is a Customer with more than one User Account, the termination will not affect his Agreements under subsection 2.1(b) in relation to Service Plans whose benefits he is entitled to enjoy by reason of a User Account other than the one being closed.
+19.8.
+The termination of a Service Plan terminates the related Agreement under subsection 2.1(b).
+19.9.
+The Agreement under subsection 2.1(c) will only terminate as described in subsection 2.3(c) (with automatic re-establishment of contract) or upon the relevant Organization being closed, and is incapable of being terminated otherwise.
+Instructions on how to close an Organization are provided in the Documentation.20.
+Consumer withdrawalNotes on the application of this article: (a) the provisions of this article only apply if and to the extent that the forfeiture of the right of withdrawal under article 4 (i.e., the consumer's forfeiture of his right to withdraw from the Agreement and Service Plans) proves to be void.
+(b) insofar as permitted by law, the application of this article is subject to the Subscriber having notified the Supplier as per section 3.1 that he wishes to use the Service as a consumer.
+(c) if a provision of this article applies and conflicts with another provision located elsewhere in the Agreement, it prevails over that other provision.
+20.1.
+If the Subscriber is a consumer and acted as such upon acquiring a Service Plan, he may withdraw from the Service Plan within 14 days without giving any reason.
+The withdrawal period will expire after 14 days from the commencement of the Service Plan (which, if the Service Plan is subject to a free trial period, coincides with the commencement of the trial).
+To meet the withdrawal deadline, it is sufficient for the Subscriber to send his communication concerning his exercise of the right of withdrawal before the withdrawal period has expired.
+20.2.
+To exercise the right of withdrawal, the Subscriber must inform the Supplier (i.e., the Toggl entity having issued the Service Plan concerned) of his decision to withdraw from the Service Plan by an unequivocal statement (e.g., a letter sent by post or email to the appropriate address specified under the definition of "Supplier").
+The Subscriber may use the following model withdrawal form, but it is not obligatory:
+To Toggl OÃ, TornimÃ¤e 5, 2nd floor, Tallinn 10145, Estonia, support@toggl.com [or] To Toggl Inc, Suite 403-A, 1013 Centre Road, Wilmington, DE 19805, USA, support@toggl.com [choose the appropriate entity and delete the brackets along with their contents]
+I hereby give notice that I withdraw from my contract for the provision of the following service: my Service Plan titled "[replace these brackets and their contents with the name of the Service Plan]", ordered on [replace these brackets and their contents with the date of the order].
+Name of consumer: [replace these brackets and their contents with the Subscriber's name]
+Address of consumer: [replace these brackets and their contents with the Subscriber's postal address if the withdrawal notice is sent by post or the Subscriber's email address if the notice is sent by email]
+Signature of consumer (only if this notice is on paper): [delete these brackets along with their contents.
+if the withdrawal notice is on paper, the Subscriber's signature must be placed here]
+Date: [replace these brackets and their contents with the date of the withdrawal notice]
+20.3.
+If the Subscriber's withdrawal from a Service Plan would result in the relevant Organization being left with no Service Plan, the Organization must be closed.
+In such a case, the Subscriber's statement under section 20.2 shall be accompanied by his closing the respective Organization (instructions on how to do that are provided in the Documentation).
+Should the Subscriber fail to close the Organization as required under this section, it may be closed by the Supplier (in its absolute discretion and without any notice), and the Supplier shall not be liable (neither to the Subscriber nor anyone else) for any loss, damage or other undesirable consequences resulting therefrom
+20.4.
+If the Subscriber's withdrawal from a Service Plan would result in there being no Service Plan associated with the Subscriber's User Account, the statement under section 20.2 shall be accompanied by the Subscriber's closing his User Account as described in section 19.4.
+In such a case, the Agreement referenced in subsection 2.1(a) will terminate along with the Service Plan.
+20.5.
+Where section 20.4 applies and the Subscriber fails to close his User Account as required under that section, the Supplier may, in its absolute discretion, close the Subscriber's User Account in his stead and shall by so doing be deemed to have terminated the Agreement referenced in subsection 2.1(a).
+No notice of User Account closure or Agreement termination shall be required in such a case and the Supplier shall not be liable (neither to the Subscriber nor anyone else) for any loss, damage or other undesirable consequences that may result from such closure or termination.
+20.6.
+If the Subscriber withdraws from a Service Plan, the Supplier shall reimburse to him all payments received from the Subscriber for that Service Plan (less the amount referenced in section 20.7), including, if applicable, the costs of delivery (with the exception of the supplementary costs resulting from the Subscriber's choice of a type of delivery other than the least expensive type of standard delivery offered by the Supplier), without undue delay and in any event not later than 14 days from the day on which the Supplier is informed of the Subscriber's decision to withdraw from the Service Plan.
+The reimbursement will be effected by the same means of payment as the Subscriber used for the initial transaction, unless the Subscriber has expressly agreed otherwise.
+In any event, the Subscriber will not incur any fees as a result of such reimbursement.
+20.7.
+The Subscriber acknowledges and agrees that by reason of his requests under article 4 (causing the Supplier's performance of the Agreement to commence immediately and the benefits of Service Plans to become available during the withdrawal period) the reimbursement under section 20.6 will be reduced by an amount proportionate to what has been provided under the Service Plan until the Subscriber's withdrawal therefrom (as compared to the full coverage of the Service Plan).
+The amount of the reduction shall be determined based on the total price of the Service Plan, i.e., the price charged for the whole relevant billing period.21.
+Effects of termination21.1.
+The User understands and agrees that upon any termination of this Agreement: (a) all his rights hereunder will terminate and he must cease all activities authorised by the Agreement.
+(b) all amounts that the Supplier is entitled to be paid hereunder become due, except sums that already are.
+(c) in case the termination concerns the Agreement referenced in subsection 2.1(a), all his User Data and other information associated with his User Account and the Organizations pertaining to, or in which he participates through, that account may be deleted or become unavailable to him.
+(d) insofar as relevant hereto, he will receive no refund or other compensation for any unused time or credit on a subscription, for any licence or subscription fee, any data associated with any User Account or Organization, or for anything else.
+(e) all his Software-related obligations hereunder will survive until he fully and permanently removes all Software from his systems, devices, storage media and repositories.
+(f) the preceding subsection applies respectively in relation to any item that forms part of the Service and which the User retains after the termination hereof.
+21.2.
+Those provisions of the Agreement that either by express language or reasonable construction are intended to survive its termination (such as, e.g., provisions concerning Service-related Intellectual Property, contributions to the Service, disclaimers, limitation of liability, indemnities, choice of law and jurisdiction) shall so survive and will be enforceable notwithstanding any termination hereof.22.
+Assignment, other disposalsWith regard to assignment, sublicensing and other disposals, the Parties have agreed that:
+22.1.
+The User shall not, without the Supplier's prior explicit consent, sublicense, assign, encumber or otherwise dispose of any of his rights or obligations hereunder, except that the User may, without seeking the Supplier's consent: (a) dispose of his financial claims, i.e., claims whose sole object is the payment of money to the User.
+(b) assign this Agreement, i.e., all his rights and obligations hereunder, or cause the same to be transferred, as part of the User's general succession (including merger, acquisition and transformation), division, transfer of the enterprise (or a substantial, coherent part of the enterprise) to which the Agreement pertains or divestiture of all or substantially all of his assets as a whole, provided, however, that (i) where the User is a Customer, his Agreement under subsection 2.1(a) cannot be transferred without the User Account it governs (that Agreement and the related User Account are inseparable) and his Agreements under subsections 2.1(b) and 2.1(c) are only transferable to another Customer participating in the Organization concerned with user privileges permitting that other Customer to assume the relevant role (Subscriber, Owner or the transferor's peer), and (ii) in the case of Agreements under subsections 2.1(a) and 2.1(b), the domiciles of all relevant parties are such that if the Agreement, instead of it being transferred, were made anew between the Supplier and the transferee, the identity of the Supplier, as determined under article 2, would be the same as in the original Agreement.
+(c) where the User is a Subscriber, permit other Users to enjoy the Features available under his Service Plan as sub-licensees, but only such of these Features and solely in such manner and to such extent as necessary for the exercise of those other Users' rights hereunder.
+and (d) where the User is an Organization Owner, assign that role, i.e., his Agreement under subsection 2.1(c), to another Customer participating in the Organization concerned with user privileges permitting that other Customer to assume the Owner's role;
+22.2.
+The Supplier may: (a) sublicense, assign, encumber and otherwise dispose of any and all of its rights hereunder.
+and (b) assign this Agreement, i.e., all its rights and obligations hereunder, or cause the same to be transferred: (i) to its parent, any of its wholly- or majority-owned subsidiaries or a wholly- or majority-owned subsidiary of its parent.
+or (ii) to another entity specified in the definition of "Supplier".
+or (iii) as part of the Supplier's general succession (including merger, acquisition and transformation), division, transfer of the enterprise (or a substantial, coherent part of the enterprise) to which the Agreement pertains or divestiture of all or substantially all of its assets as a whole.
+or (iv) due to the Supplier ceasing to hold rights in the Software or the Service;
+22.3.
+Where a Party's consent is required, it shall not be unreasonably withheld or delayed.23.
+Notices23.1 The Supplier may give notice to the User: (a) through a Feature, e.g., by posting the notice on a web page that forms part of the Service or using a messaging feature of a locally installed Software application.
+(b) by email to the address associated with his User Account.
+or (c) by mail or courier to the address provided for that User under Organization Owner's details.
+23.2.
+All notices, requests, enquiries, complaints and other communications to the Supplier should be sent to the appropriate email or postal address specified under the definition of "Supplier".
+23.3.
+A notice shall be deemed to have been received: (a) the same day if given through a Feature.
+(b) the next day if given by email.
+or (c) in the case of a notice sent by mail or courier, and providing that delivery charges have been paid, five days after posting or the courier taking charge of the notice.24.
+Law, jurisdiction24.1.
+The law applicable to the Agreement and the Parties' relations, the venue for resolving disputes and the forum competent to hear such disputes depend on the identity of the Supplier, i.e., which of the entities specified under the definition of "Supplier" the User contracted with (as determined under article 2).
+24.2.
+Where the Agreement is between the User and Toggl OÃ:
+(a) the Agreement, the Parties' relations and all matters concerning the Service shall be governed by Estonian law, without the United Nations Convention on Contracts for the International Sale of Goods applying to any of the foregoing;
+(b) all disputes arising from or otherwise concerning the Agreement or the Service (including disputes concerning the formation or validity hereof) shall be resolved by arbitration as follows: (i) the matter shall be arbitrated by the Arbitration Court of the Estonian Chamber of Commerce and Industry (ACECCI).
+(ii) the proceedings shall be conducted in accordance with the ACECCI's then-current arbitration rules.
+(iii) the seat of arbitration shall be Tallinn, Estonia.
+and (iv) any decision (order, judgment or other) that the ACECCI may deliver in such a dispute shall be enforceable in all jurisdictions.
+Each Party hereby irrevocably submits to the ACECCI's jurisdiction and waives any and all objections it may have thereto;
+(c) if the above agreement as respects arbitration proves to be void or unenforceable, all disputes to which it was intended to apply shall be subject to the exclusive jurisdiction of Estonian courts, with Harju County Court in Tallinn as the court of first instance (save where the relevant rules of procedure provide for the mandatory jurisdiction of another Estonian court, in which event the latter shall apply).
+24.3.
+Where the Agreement is between the User and Toggl Inc:
+(a) the Agreement, the Parties' relations and all matters concerning the Service shall be governed by the laws of the State of Delaware and the applicable U.S.
+federal law, without the United Nations Convention on Contracts for the International Sale of Goods applying to any of the foregoing;
+(b) all disputes arising from or otherwise concerning the Agreement or the Service (including disputes concerning the formation or validity hereof) shall be subject to the exclusive jurisdiction of the appropriate courts in the State of Delaware (i.e., either the United States District Court for the District of Delaware or the Delaware state court having jurisdiction over the matter);
+(c) each Party hereby waives any right to jury trial in connection with any proceeding in any way arising out of or related to the Agreement or the Service;
+(d) in the above disputes and proceedings, the prevailing party will be entitled to recover its reasonable costs and attorneys' fees.
+24.4.
+The above provisions notwithstanding, the Supplier may, in its absolute discretion, assert and seek protection of its intellectual property and rights concerning confidential information or data processing in any forum anywhere in the world (including by way of injunction and other preventive measures).25.
+MiscellaneousIf any provision of the Agreement proves to be void by reason of it violating mandatory law, and unless the Supplier in its absolute discretion otherwise elects (in which event the following shall not apply), such provision shall be deemed to have been amended to one which is valid, achieves the purpose of the original provision as nearly as possible and maximally preserves the balance of obligations between those affected (i.e., the balance originally intended).
+The amendment shall be effective as of the moment when the original provision became void.Data Processing Agreement1.
+Object1.1 This DPA is between the Supplier and the Organization Owner and forms part of the Agreement referenced in subsections 2.1(c) and 2.3(c) of the Terms.
+1.2 The purpose of the DPA is to supplement the Terms as respects the processing of Relevant Data and EU Standard Contractual Data Processing Clauses (SCC) in case the data is transferred between EU and third countries.
+The DPA does not concern any other data or the processing thereof.
+The Supplier's obligations under this DPA must be viewed accordingly, i.e., as only relating to the processing of Relevant Data and not applying in any other context.2.
+Roles2.1 The purposes of processing Relevant Data are determined by the Organization Owner or by the Owner jointly with other members of the Organization (or jointly with certain of such members or a particular member).
+As between the Parties, these purposes are determined by the Owner.
+2.2 Consequently, and in line with the role allocation specified under section 13.2 of the Terms, the Parties acknowledge and agree that with regard to the processing of Relevant Data: (a) the Organization Owner is the 'controller' and the Supplier is the 'processor'.
+(b) the Supplier will, pursuant to article 6 below, authorise third parties identified in the Sub-processor List to perform certain processing operations under its responsibility (such parties being 'processors', too).
+(c) the Supplier and Sub-processors process these data on the Organization Owner's behalf and on his instructions.
+2.3 As part of his obligations under section 11.5 of the Terms, the Owner shall be responsible for the accuracy, quality and legality of Relevant Data, the means by which the same are acquired and the instructions he provides as to the processing thereof.3.
+Details of processing3.1The Supplier will process Relevant Data only as necessary to carry out the Owner's instructions or as required by law to which the Supplier or the processing is subject (which includes any judicial, arbitral, administrative or otherwise mandatory order or judgment made, recognised or enforceable under that law).
+3.2 The Organization Owner hereby instructs the Supplier to process Relevant Data: (a) as necessary in connection with the Service, which, particularly but without limitation, includes any processing that is (i) requested or initiated by Users in their use of the relevant Organization or Features in connection with that Organization, or (ii) otherwise required for the Supplier's performance of its obligations in relation to the Organization or its users.
+and (b) for as long as the purposes described in subsection (a) warrant such processing.
+3.3 For the avoidance of doubt, section 3.2: (a) sets out the Owner's current instructions as to the processing of Relevant Data.
+(b) does not prevent the Owner from giving further instructions (which shall be reasonable, lawful and documented) or the Supplier from processing Relevant Data as may be necessary in light of such further instructions.
+(c) does not restrict the Supplier from processing Relevant Data for as long as legally required (e.g., to comply with the GDPR or legal acts concerning taxation, accounting, financial reporting or counter-terrorism or -money laundering) and, if so required (but only to the extent required), exceeding the duration of processing warranted by the Owner's instructions.
+The Owner thus acknowledges and agrees that each operation that the Supplier performs on Relevant Data will continue until the Supplier is no longer legally obliged to perform the same.
+3.4 The operations that the Supplier performs on Relevant Data will include storage and such other operations as appropriate in light of this article 3 (e.g., retrieval, transmission, erasure, restriction and disclosure pursuant to the Owner's instructions or as required by law).
+Certain of these operations have been described in the Privacy Policy.4.
+Relevant Data4.1 Personal Data whose processing is permitted
+The types of Personal Data that a User (including the Owner) is allowed to process as part of Organization Data are limited to those which the User is legally permitted to process.
+The Owner undertakes that Organization Data will not include, and neither he nor any other User who accesses the Organization (including any such Guest User) will use the Service for the processing of, Personal Data whose processing is legally prohibited.
+4.2 Personal Data whose processing is restricted
+The Owner acknowledges that the processing of certain types of Personal Data is restricted or limited under the GDPR and that non-compliance with the relevant restrictions or limitations may result in substantial penalties, including fines, being imposed on, or other punitive, remedial or compensatory measures being taken against, the Owner, the Supplier and the User involved in the processing (if different from the Owner).
+4.3 Consequently, the Owner undertakes that, absent the Supplier's prior explicit consent, Organization Data will not include, and neither he nor any other User who accesses the Organization (including any such Guest User) will use the Service for the processing of, Personal Data that fall within either of the following categories: (a) 'special categories of personal data' (also known as 'sensitive information') as described for the time being in Article 9 of the GDPR, including particularly but without limitation genetic data, biometric data and data concerning health.
+(b) 'personal data relating to criminal convictions and offences or related security measures' as described for the time being in Article 10 of the GDPR.5.
+Data subjects5.1 The Owner will determine who the Data Subjects are, or he may determine this jointly with other members of the Organization (or jointly with certain members or a particular member thereof).
+As between the Parties, the Owner shall be deemed to have determined the same.
+5.2 The categories of Data Subjects include but may not be limited to: (a) Users having access to the Organization, including such Guest Users.
+(b) Users who interact with the Features applied via the Organization.
+(c) employees, contractors, consultants, associates and agents of (i) the Owner, (ii) the Subscriber of, or payer for, the Service Plan pertaining to the Organization, or (iii) the Users mentioned in the preceding subsections.
+and (d) parties with whom the Owner or the above Subscriber, payer or User does business or has other relations.6.
+Sub-processors6.1 The Owner agrees that persons and entities on the Sub-processor List may be retained as Sub-processors (and authorises the Supplier to engage them), provided that each Sub-processor, insofar as relevant considering the processing operations it performs, assumes or is made subject to data protection obligations substantially similar to those set forth in this DPA (but in any event no less protective of Relevant Data than the DPA).
+These obligations may be either contractual or apply by operation of law.
+In the former case, the respective contract shall be in writing (which includes electronic form) or shall at least be made in a manner that identifies the parties and allows repeated reproduction of its terms.
+6.2 The Owner instructs that if sub-processing of Relevant Data is to be carried out by an international organisation or in a country not participating in the European Economic Area (EEA) and not being the Swiss Confederation, then the sub-processing be performed: (a) by an organisation or in a jurisdiction (respectively) that ensures an adequate level of protection for the Relevant Data concerned, i.e., that the transfer of these data from the EEA be based on an 'adequacy decision' as per the GDPR.
+or, absent an adequacy decision (b) subject to such safeguards and other conditions as required under the GDPR.
+save if and to the extent that the requirement for an adequacy decision or safeguards has been legally derogated from.
+The transfer of Relevant Data from the EEA in compliance with the above instruction to a party identified in the Sub-processor List requires no further instruction by the Owner.
+6.3 At least 10 days before authorising a third party not mentioned in the Sub-processor List to act as a Sub-processor the Supplier shall update the Sub-processor List made available online accordingly, i.e., at least 10 days before the engagement takes effect.
+Supplier undertakes to keep this list updated regularly to enable its Users to stay informed of the scope of sub-processing associated with the Services.
+6.4 The Owner may reasonably object to the new sub-processor engagement by providing the Supplier notice to that effect (setting out his grounds for the objection) within 10 days of having been informed as per section 6.3.
+In case the Owner does so object, the Supplier will endeavour to provide him a commercially reasonable alternative not involving the processing the Owner objected to.
+Such an alternative may, e.g., consist in a modification to the Service or a change of Service Plan.
+If the Supplier is unable to provide the Owner with an alternative acceptable to him or (in its sole discretion) concludes that no alternative is feasible and respectively informs the Owner, and the objection is not withdrawn, then the relevant Organization shall be closed.
+6.5 If the Owner does not object to the new sub-processor engagement in accordance with section 6.4, he shall be deemed to have authorised the engagement.
+6.6 The Supplier shall be liable to the Owner for the acts and omissions of Sub-processors to the same extent that the Supplier would itself be liable under the Agreement were it to commit those acts or omissions.7.
+Security7.1 The Supplier will maintain adequate technical and organisational measures to ensure such level of security in its processing of Relevant Data as appropriate in the given circumstances.
+Certain of these measures have been described in the Data Protection Policy.
+7.2 The purpose of the above measures is to address in an appropriate manner: (a) the protection of Relevant Data against unauthorised or unlawful processing and against accidental loss, alteration or destruction.
+(b) the integrity and confidentiality of Relevant Data.
+(c) the availability and resilience of the Features pertinent to the processing of Relevant Data (to the extent such Features are authorised under the Service Plan the Owner enjoys).
+(d) the ability to restore the availability and access to Relevant Data in a timely manner after a Service failure.
+(e) the effectiveness of the means employed by the Supplier for ensuring the required level of security in its processing of Relevant Data.
+7.3 The Supplier further undertakes to: (a) ensure that the persons it authorises to process Relevant Data commit themselves to confidentiality (or will be under an appropriate statutory obligation of confidentiality) with respect to these data.
+and (b) notify the Owner without undue delay upon learning of any Personal Data breach that involves Relevant Data and may need to be communicated to the competent supervisory authority or the Data Subject(s) concerned.8.
+Supplier's assistanceData Subject's requests
+8.1 The Owner acknowledges that it is his duty, not the Supplier's, to accept, respond to, and resolve Data Subjects' requests for exercising their rights and freedoms as data subjects in connection with Relevant Data ('data subject rights'), and facilitate the exercise of these rights and freedoms.
+If any such request is addressed directly to the Supplier, it will, to the extent legally permitted, redirect the request to the Owner without undue delay.
+8.2 Upon the Organization Owner's request, and considering the nature of the Supplier's processing operations hereunder, the Supplier will, insofar as possible, take appropriate technical and organisational measures to reasonably assist the Owner in complying with his obligation to respond to Data Subjects' requests for exercising the following of their data subject rights under the GDPR: the right of access, right to rectification, right to erasure, right to restriction of processing, right to data portability, right to object, and the right not to be subject to automated individual decision-making.
+8.3 Other compliance
+Considering the nature of the Supplier's processing operations and the information available to it, the Supplier will, on the Owner's request, reasonably assist the Owner in complying with the following of his controller obligations regarding the processing of Relevant Data (as arising under the GDPR), provided, and to the extent, these obligations apply to the Owner and the information he requires is not otherwise available to him: (a) using the Service in a manner compatible with the Owner's obligation to ensure an appropriate level of security in his processing of Relevant Data.
+(b) notifying breaches of Relevant Data to the appropriate supervisory authority and the Data Subjects concerned and documenting these breaches.
+(c) conducting a data protection impact assessment concerning the processing of Relevant Data by means of the Service, and, where necessary, carrying out a review to assess whether processing is performed in accordance with the impact assessment.
+and (d) consulting with the relevant supervisory authority on matters related to the above data protection impact assessment or its subject.
+8.4 Costs of assistance
+To the extent legally permitted, the Owner shall incur all costs and expenses that may arise in connection with the assistance described in this article 8, including any fees associated with the provision of additional Features.9.
+Return and deletion of data9.1 After the completion of services relating to the processing of Organization Data (i.e., upon permanent cessation of all Service in relation to the Organization), the Supplier will: (a) at the Owner's choice, either delete or return to him all Relevant Data then stored by the Supplier.
+and (b) delete copies of these Relevant Data, save if and to the extent the law requires that the data concerned be retained.
+provided that: (Î±) if the Owner elects to have the data returned, his respective request is made reasonably prior to the Organization being closed (see section 12.3 of the Terms).
+and (Î²) if Relevant Data reasonably cannot be deleted, returned or retained separately from other Organization Data (as is likely to be the case with at least some Relevant Data), the Supplier will, as applicable, delete or return, and, if required, retain, the entire body of Organization Data then stored by the Supplier, with no obligation to organise, structure or otherwise process the same to separate Relevant Data therefrom or distinguish between Relevant Data and other Organization Data.10.
+Demonstration of compliance10.1 The Supplier shall maintain records sufficient to demonstrate its compliance with the DPA, and will retain these records as long as legally required.
+10.2 Upon the Organization Owner's request and subject to such confidentiality and non-use commitments as the Supplier reasonably may suggest, the Supplier shall, no more than once a year: (a) make available to the Owner such of the above records as necessary, and any other information that reasonably may be required, to demonstrate the Supplier's compliance with its obligations under the DPA.
+and (b) if the provision of records and other information as per the preceding subsection is not sufficient for demonstrating the Supplier's compliance, allow the Owner (or his independent third-party auditor), upon reasonable notice and at a mutually agreeable time, to conduct an audit or inspection of the Supplier's practices in processing Relevant Data.
+10.3 Any audit or inspection under subsection 10.2(b) shall be limited to what is necessary for verifying the Supplier's compliance with its obligations under this DPA, is to be conducted in a manner not unreasonably disruptive to the Supplier's and Sub-processors' business, and shall be at the Owner's expense (including as to reasonable costs and expenses of the Supplier and Sub-processors, which the Owner undertakes to reimburse).
+Last revised: April 20th 2022.Toggl Tools
+
+Your browser doesn't support HTML5 video.
+Beautifully simple work planningDiscover Plan
+
+Your browser doesn't support HTML5 video.
+Effortless time tracking and reportingDiscover Track
+
+Your browser doesn't support HTML5 video.
+Skills-based hiringDiscover Hire
+
+
+
+
+
+
+
+
+
+Your browser doesn't support HTML5 video.
+Beautifully simple work planningDiscover PlanYour browser doesn't support HTML5 video.
+Effortless time tracking and reportingDiscover TrackYour browser doesn't support HTML5 video.
+Skills-based hiringDiscover HireToggl Global
+Blog
+Our Mission
+Working at Toggl4
+Legal Terms
+Toggl Track
+Features
+Pricing
+Integrations
+Case Studies
+Mobile Apps
+Desktop Apps
+Anti-surveillance
+Knowledge Base
+Timesheet Templates
+Toggl Plan
+Product
+Pricing
+Solutions
+Customer Stories
+Project Management
+Knowledge Base
+Toggl Hire
+Product
+Pricing
+Skills Tests
+Customer Stories
+Candidate Experience
+Manifesto
+Knowledge Base
+Resources
+Fun &amp.
+Games
+Work From Home Hub
+Time Management Hub
+Business Resources
+Productivity Resources
+Blueprint Magazine
+Timesheets Magazine
+
+Discover all three Toggl tools:Effortless time trackingBeautifully simple work planningSkills-based hiringÂ© 2022 Toggl.
+All rights reserved.
+      

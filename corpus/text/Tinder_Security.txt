@@ -1,0 +1,50 @@
+
+        Security at Tinder
+
+A Secure and Trusted Place to Spark New Connections
+The Tinder Security Engineering teamâs mission is to build the best security organization in the world, ensuring our members have a secure place to spark new connections.
+Because you entrust Tinder with your information, the security of our application, and the privacy of your data is a top priority.
+Ensuring that we maintain a robust, transparent, and accountable security program is core to our commitment to you.
+
+Internal Tinder Security Practices
+The security program at Tinder protects our organization and your data at every turn utilizing a combination of industry-leading security infrastructure, responsible data practices, and security best practices to stay ahead of the evolving number of threats facing all internet services and infrastructure.
+Our security program is focused on the following domains:
+
+Internal Information Security Program: We strive to increase security and reduce risk within our digital environment.
+We proactively build secure access protocols and network architecture to enable systematic control of internal access to Tinderâs facilities, systems, and resources, using the least privilege paradigm.
+Tinder enforces the use of two-factor authentication (2FA) internally.
+
+
+Application / Infrastructure Security: Security is engineered and integrated at all levels of our development lifecycle to help enable the creation of better, safer products, and to ensure secure design and engineering principles.
+Our applications and systems, including new features, code, and configuration changes pass through security design reviews and assessments by our internal teams.
+Additionally, many of these applications and systems undergo routine independent and rigorous pen tests through reputable third-party security experts.
+
+Governance, Risk, and Compliance: At Tinder, security awareness begins on day one and it is a continuous process thereafter.
+All employees undergo security and privacy training annually.
+Security is everyoneâs responsibility at Tinder.
+We have implemented and enforced physical, operational, technical processes and controls, as well as security policies and procedures to secure our systems and member data.
+We perform extensive security risk assessments of our system and our third-party vendors regularly to ensure a secure posture.
+
+Red Team / Offensive Security: Our internal Red Team identifies previously unknown security vulnerabilities in existing systems and workflows through offensive security testing.
+This group simulates real-world attacks on all areas of the company and prioritizes upleveling security posture to address areas of greatest risk.
+Our goal is to gain insight into any potential exposures, and to continuously test to reduce the likelihood of a breach.
+
+Monitoring and Threat Management: Access to our infrastructure and systems is continuously logged and monitored.
+A security monitoring, investigation, threat hunting and response program is in place at Tinder to alert, investigate, triage, and remediate security events.
+
+
+Compliance Certifications, Standards, and Regulations
+Tinder is the first dating app to be recognized for comprehensive information security practices in accordance with internationally accepted standards, achieving the ISO/IEC 27001:2013 certification for our Information Security Management System.
+View Certificate
+In addition, we undergo yearly audits by independent firms to ensure our compliance with SOX and PCI-DSS Security requirements.
+
+Reporting Security Vulnerabilities
+Tinder welcomes input from the security research community in identifying potential issues and ways to improve the security of our applications, infrastructure, and member data.
+We encourage security researchers to responsibly disclose any potential vulnerabilities uncovered to vulnerability@gotinder.com.
+We are committed to addressing security issues responsibly and in a timely manner.
+To protect our members, we request that you please refrain from sharing information about any potential vulnerabilities with anyone outside of Tinder until we have had the opportunity to review and address them with you.
+We appreciate your help in keeping Tinder secure for our community.
+The bug bounty programâs policy and scope can be found here.
+We explicitly prohibit Denial of Service (DoS) testing, social engineering, or use of destructive automated scanning tools.
+For questions, concerns, or issues with your profile, or to report another member or profile, please visit https://www.help.tinder.com/ to contact our support team.
+

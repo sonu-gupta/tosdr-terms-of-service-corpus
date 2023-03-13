@@ -1,0 +1,264 @@
+
+         About privacy Your privacy is very important to us, and we take it seriously.
+Please read our Privacy Policy and Data consent policy below and let us know if you have any questions or other feedback regarding them, at info@urbandroid.org.
+Table of Contents
+
+
+
+Privacy and data consent policy
+Where do we access user data?
+In all apps
+In Sleep as Android
+
+
+Do we disclose any information to outside parties?
+Owner and data controller
+EU representative
+Contacting us
+Changes to our privacy policy
+
+
+
+Privacy and data consent policy
+
+Last updated: 2020/07/16
+
+We do not collect any privacy information from our users unless they explicitly agree to share such information with us.
+Where do we access user data?
+In all apps
+Bug reports 
+
+What is collected: The bug report contains the userâs email address, his locale, version and name of the used software, device firmware version and a portion of the device log.
+Sending of a debug report requires user action (needs to be explicitly send from the userâs mail application) and user may review all the information before sending and decide whether they want to share it with us or not.
+We do not ask for explicit consent as we consider collecting bug report data via email to be a legitimate interest under GDPR.
+
+How it is used by us: We use information enclosed in the bug report to provide direct customer support and to help improve the quality of our services and applications and analyse
+
+Third parties involved: We use Google GMail (email service) and Help Scout (email helpdesk service) to handle and store email and bug reports.
+Place of processing is USA.
+
+How to modify or delete the information: Request modification or deletion on our email.
+
+How to opt-out from future communications: Sending of a debug report requires user action (needs to be explicitly send from the userâs mail application), so there is no need to opt out.
+We arenât initiating any communication by ourselves.
+
+Data retention: The bug reports and conversations related to an app are kept for the lifetime of the app (i.e.
+as long as the app is publicly offered).
+Ads (personalized)
+
+What is collected &amp.
+how it is used by us: We are using only your Device Advertising ID to serve ads via Facebook Audience Network.
+We donât store any data related to ads on our premises.
+
+Third parties involved: 
+
+
+Facebook Audience Network â an advertising service provided by Facebook, Inc.
+Please read this overview of how they use information from sites or apps that use their services.
+
+
+How to modify or delete the information: https://www.facebook.com/full_data_use_policy
+
+How to opt-out from future personal data collection/personalization:
+Opt out in Sleep as Android, to turn off ads personalization only for the app.
+You can do that in Settings &gt.
+Privacy &gt.
+Donât personalize ads.
+Data backup
+Via Androidâs data backup framework
+Urbandroid offers data backup through Androidâs data backup framework, and, in case of the Sleep as Android app, also through SleepCloud (see here).
+Androidâs data backup framework uses whichever backup transport is available on the device.
+Urbandroid does not have access to the backed up data.
+More information about the data backup transport is available at https://developer.android.com/guide/topics/data/keyvaluebackup.
+
+What is collected: All user-generated app data (including user settings) except files are subject to backup.
+
+How it is used by us: We provide the user with means to back up and restore app data from the data backup framework.
+The backup itself is not under our control and none of the data is accessible to us.
+
+How to modify or delete the information: To delete the data, backup can be disabled in system settings.
+
+How to opt-out from future personal data collection: To stop backing up the data, backup can be disabled in system settings.
+In Sleep as Android
+Usage analytics
+
+What is collected: All analytics data collected are completely anonymous, i.e.
+cannot be traced back to the data subject.
+We are collecting device and app usage data â which screens and options are used, and log occurence of certain in-app events.
+
+How it is used by us: We are using analytics data to understand how users engage with our apps and to help improve the quality of our services and applications.
+
+Third parties involved: Google Analytics for Firebase
+
+How to modify or delete the information: As the data is completely anonymous and cannot be traced back to the data subject, we donât provide a way to modify or delete the stored information.
+
+How to opt-out from future personal data collection: The analytics data collected is anonymous.
+However, you can still opt out from analytics in the Sleep as Android app by enabling Settings &gt.
+Privacy &gt.
+Donât collect anonymous usage stats.
+
+Data retention: The usage analytics data related to an app are kept for the lifetime of the app (i.e.
+as long as the app is publicly offered).
+Data backup
+Via Google Drive
+In case of Sleep as Android app, data can be backed up to Google Drive.
+
+What is collected: All user-generated app data (ie.
+sleep records and user settings) except recorded sound files are subject to backup.
+
+How it is used by us: We provide the user with means to back up and restore app data from Google Drive.
+On backup, a zip file is uploaded to a folder on Google Drive.
+The app has only access to this folder and no other content on the userâs Google Drive storage.
+
+How to modify or delete the information: To delete the data, backup can be disabled in system settings and/or the file can be deleted from the userâs Google Drive.
+
+How to opt-out from future personal data collection: To stop backing up the data, backup can be disabled in system settings.
+Via Dropbox
+In case of Sleep as Android app, data can be backed up to Dropbox.
+
+What is collected: All user-generated app data (ie.
+sleep records and user settings) except recorded sound files are subject to backup.
+
+How it is used by us: We provide the user with means to back up and restore app data from Dropbox.
+On backup, a zip file is uploaded to a folder on Dropbox.
+The app has only access to this folder and no other content on the userâs Dropbox storage.
+
+How to modify or delete the information: To delete the data, backup can be disabled in system settings and/or the file can be deleted from the userâs Dropbox.
+
+How to opt-out from future personal data collection: To stop backing up the data, backup can be disabled in system settings.
+SleepCloud
+SleepCloud is a cloud backup platform developed, owned and maintained by Urbandroid (Petr NÃ¡levka), for backing up sleep data and settings from Sleep as Android app.
+
+What is collected: All stored data are completely anonymous, i.e.
+cannot be traced back to the data subject.
+The user is able to access his own data through one-way hashing function when authenticated with Google OAuth.
+SleepCloud collects the following data about the user: Country, language, preferences set in the Sleep as Android app, device model number.
+SleepCloud collects the following data in each sleep record: Start/end date and time, country, number of sleep cycles, deep sleep percentage, comment, geographic cell (city-level location), noise level, subjective rating, snoring percentage, timestamped events (such as alarms, awake times), timezone.
+
+How it is used by us: We use the data for purposes of sleep research and to help improve the quality of our services and apps.
+
+Third parties involved: Google Inc.
+provides the Google Cloud Platform (Datastore) on which SleepCloud data are stored.
+
+How to modify or delete the information: After logging in at sleepcloud.urbandroid.org, you can delete all your data using the privacy tab.
+This will decouple the user from the data.
+
+How to opt-out from future personal data collection: To stop uploading data to SleepCloud, either disconnect SleepCloud in the Sleep as Android app using Settings &gt.
+Services &gt.
+Cloud backup &gt.
+SleepCloud, or uninstall SleepCloud addon app from your phone.
+
+Data retention: We retain all personal data uploaded to SleepCloud until the user explicitly deletes them.
+Google Fit
+Sleep as Android app may use the integration with Google Fit, if enabled in the appâs settings, for:
+
+exporting sleep data to Google Fit as sleep activities
+reading data from the userâs Google Fit account for various app features as described below
+
+
+What is collected:
+
+
+sport activities in Google Fit during the day to be used as input for adding a sport tag to the sleep record
+movement activities collected during night sleep recording to be used as a base for creating awake phase in sleep records in Sleep as Android
+heart rate data collected during night to be imported into sleep records in Sleep as Android
+3rd party sleep activities in userâs Google Fit
+
+All the data are stored only either offline in the app or in Google Fit, except when user chose to backup their data to Urbandroidâs SleepCloud.
+
+How it is used by us: We do not use the collected data for anything else than the declared user-directed function.
+
+Third parties involved: Google Inc.
+provides Google Fit.
+Urbandroid accesses Fit via the Fit API, using the following scopes:
+
+Fitness.SESSIONS_API
+Fitness.HISTORY_API
+Scopes.FITNESS_ACTIVITY_READ_WRITE
+Scopes.FITNESS_BODY_READ_WRITE
+
+
+How to modify or delete the information: To delete the data, all records must be first deleted from Sleep as Android and next Google Fit sync action must be executed.
+User can also manage the data in their Google Account at the Google Account Dashboard.
+
+How to opt-out from future personal data collection: To stop uploading data to Google Fit and using data from the userâs Google Fit, disconnect Google Fit in the Sleep as Android app using Settings &gt.
+Services &gt.
+Google Fit.
+
+Data retention: We do not retain any data, all retained data are either offline in the app or in Google Fit, subject to Googleâs policy.
+Google Calendar
+Sleep as Android app may use the integration with Google Calendar, if enabled in the appâs settings, for:
+
+exporting sleep data to Google Calendar as standalone events
+reading events in the userâs primary and holiday calendars and using&nbsp.
+start, end and title fields for alarm postponing/advancing
+
+
+What is collected:
+
+
+userâs primary, sleep and holidays calendars identifiers
+already parsed calendar event identifiers â in order to remember which events were already used for postponing/advancing alarm
+
+All the data are stored only either offline in the app or in Google Calendar.
+
+How it is used by us: We do not use the collected data for anything else than the declared user-directed function.
+
+Third parties involved: Google Inc.
+provides Google Calendar.
+Urbandroid accesses the Calendar via the Calendar API, using the Calendar OAuth scope.
+
+How to modify or delete the information: To delete the data, all events from Sleep calendar can be deleted manually.
+User can also manage the data in their Google Account at the Google Account Dashboard.
+
+How to opt-out from future personal data collection: To stop uploading data to Google Calendar and using data from the userâs Google Calendar, disconnect Google Calendar in the Sleep as Android app using Settings &gt.
+Services &gt.
+Google Calendar.
+
+Data retention: We do not retain any data, all retained data are either offline in the app or in Google Calendar, subject to Googleâs policy.
+Location
+We do not read device location in our apps unless it is absolutely necessary for the core functionalities of our apps.
+We try to use the most coarse information needed for that purpose and retrieve the data in a battery efficient way.
+In most of our apps this information never leaves the device by default, unless not specified differently below.
+Location in Twilight
+The Twilight app which needs to timely react on any changes in location with respect to local sunrise and sunset times and adjust screen filtering accordingly.
+For this the apps need to access location in background.
+Twilight does not collection location and the location information never leaves the device.
+Twilight is basically completely offline and the Internet permission is only used to allow Twilight to talk to smart light devices on the local network.
+Location retrieval can be disabled in the main screen under Sun &amp.
+Location &gt.
+Automatic location.
+
+Location in Air
+The core feature of Air is to notify the usersâ about worsening in pollutant levels at their current location automatically without touching the app.
+This can only be done though retrieving location regularly though out the day.
+The location information is not stored, but only used to quite the pollutant level server for local data.
+Location retrieval cannot be disabled in-app as this would break appâs core functionality.
+But users may decide to not grant the location permission to the app.
+Location in Sleep as Android
+Sleep as Android only retrieves location when the app is used.
+typically when sleep tracking starts.
+It stores s very coarse geo cell location ~+/-10km at each sleep record to allow users to compare their sleep quality in different locations.
+The location does not leave the device unless users explicitly install the SleepCloud Backup addon and decide to send those data to their selected services.
+Location gathering and storing at sleep records can be disabled in Settings &gt.
+Privacy.
+Sleep as Android may query a weather service to show you current weather at your location in the morning.
+Do we disclose any information to outside parties?
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+This does not include trusted third parties who assist us in operating our services, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
+We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Owner and data controller
+Petr NÃ¡levka, Klausova 1147, Praha, Czech Republic
+Contact email: info@urbandroid.org
+EU representative
+Petr NÃ¡levka, Klausova 1147, Praha, Czech Republic
+Contact email: info@urbandroid.org
+Contacting us
+If there are any questions regarding this privacy policy you may contact us using the information below.
+Urbandroid Team
+info@urbandroid.org
+Changes to our privacy policy
+We reserve the right to modify our Privacy and data consent policy at any time simply by posting such modification on this site and without any other notification.
+Any such modification will be effective immediately upon posting on this site.
+It is your responsibility to review our Privacy Policy from time to time to ensure that you continue to agree with all of its terms.

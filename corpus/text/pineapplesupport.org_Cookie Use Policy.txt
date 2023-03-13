@@ -1,0 +1,233 @@
+
+
+PineappleSupport.org
+Cookie Use Policy
+
+
+Last Modified: March 6, 2019
+
+Cookies are small files of letters and numbers stored on your browser or device that enable the cookie owner to recognize the device when it visits websites or uses online services.
+The website you visit may set cookies directly, known as first-party cookies, or may trigger cookies set by other domain names, known as third-party cookies.
+While we may automatically use some cookies that are strictly necessary to provide the services you request or enable communications, we request your consent for all our other cookie uses.
+
+Types of Cookies We Use
+
+We may use the following types of cookies:
+
+
+Strictly necessary cookies.Our website requires the use of these cookies to properly operate or provide necessary functions relating to the services you request.
+They include, for example, cookies enabling page navigation and access to secure areas of the website.
+
+Analytical/performance cookies.
+These cookies allow us and our third-party service providers to recognize and count the number of visitors and to see how visitors move around our website when they are using it.
+This helps us improve how our website works by, for example, ensuring that users can easily find what they need on our website.
+These cookies generate aggregate statistics that are not associated with an individualized profile.
+
+Advertising, tracking, or targeting cookies.These cookies enable different advertising related functions.
+They may allow us to record information about your visit to our website, such as pages visited and links followed so we can make our website and the advertising displayed on it more relevant to your interests.
+These cookies may enable visitor identification across websites and over time.
+
+Third-party cookies.
+Our website may contain helpful but non-essential features or plug-ins enabling third-party services that use cookies, such as social network connectors, advertising networks, or web traffic analysis services.
+These cookies may enable visitor identification across websites and over time.
+We do not control the third partyâs use of those cookies.
+Please review each partyâs cookie disclosure before consenting to this use category.
+
+Our Privacy Policydescribes our practices for any personal data that our first-party cookies collect, store, or use.
+Except for strictly necessary cookies, all first-party cookies set by this site will expire no later than two years after your last website visit.
+Third-party cookie expiration periods are set by their respective owners.
+Please see our Cookie Tablefor a list of the individual first-party and third-party cookies potentially used on this site and their specific purposes.
+
+Cross-Border Data Transfers
+
+The cookies we use may process, store, or transfer personal data in and to a country outside your own, with privacy laws that provide different, possibly lower, protections.
+You consent to this transfer, storing, or processing when you consent to our cookie use.
+We are based in the United States.
+Please review the third-party cookie providerâs policy to learn more about its location.
+
+Your Cookie Choices
+
+Please visit our consent manager toolto make or manage your cookie use preferences.
+You may withdraw your consent for our cookie uses that are not strictly necessary at any time by re-engaging the consent manager tool.
+Most web browsers allow you to directly block all cookies, or just third-party cookies, through your browser settings.
+Using your browser settings to block all cookies, including strictly necessary ones, may interfere with proper site operation.
+
+Changes to Our Cookie Uses
+
+We will post any changes to the way we use cookies on this page and indicate on our website that we updated this cookie notice.
+If the changes materially alter how we use cookies, we will post a notice on our website and request your consent for the materially different use.
+Please check back frequently to see any updates or changes to our cookie use notice.
+
+Contact Information
+
+Please submit any questions, comments, or requests regarding this cookie use notice using the process described in our Privacy Policy.
+ 
+
+PineappleSupport.org
+Cookie Table
+
+
+Last Modified: March 6, 2019
+
+
+Cookies Used on PineappleSupport.org
+
+The following table lists all cookies potentially in use on the PineappleSupport.org website.
+We will update this table as our website changes and evolves, so please check back frequently to review any new cookie uses.
+Visit our Cookie Use Policyfor more information and choices about our cookie use, including our contact information and complaint procedures.
+Cookie Category
+Cookie Name and Provider
+Purpose
+Expiry
+Type Necessary
+PHPSESSID
+
+pineapplesupport.org
+Preserves user session state across page requests.
+Session
+HTTP Necessary
+wc_cart_hash_#
+
+pineapplesupport.org
+Unclassified
+Session
+HTML Necessary
+wc_fragments_#
+
+pineapplesupport.org
+Unclassified
+Session
+HTML Statistics
+_ga
+
+pineapplesupport.org
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+2 years
+HTTP Statistics
+_gat
+
+pineapplesupport.org
+Used by Google Analytics to throttle request rate.
+1 day
+HTTP Statistics
+_gid
+
+pineapplesupport.org
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP Statistics
+collect
+
+google-analytics.com
+Used to send data to Google Analytics about the visitorâs device and behavior.
+Tracks the visitor across devices and marketing channels.
+Session
+Pixel Marketing
+GPS
+
+youtube.com
+Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+1 day
+HTTP Marketing
+IDE
+
+doubleclick.net
+Used by Google DoubleClick to register and report the website userâs actions after viewing or clicking one of the advertiserâs ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+1 year
+HTTP Marketing
+PREF
+
+youtube.com
+Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+8 months
+HTTP Marketing
+test_cookie
+
+doubleclick.net
+Used to check if the userâs browser supports cookies.
+1 day
+HTTP Marketing
+VISITOR_INFO1_LIVE
+
+youtube.com
+Tries to estimate the usersâ bandwidth on pages with integrated YouTube videos.
+179 days
+HTTP Marketing
+YSC
+
+youtube.com
+Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+Session
+HTTP Marketing
+yt-remote-cast-installed
+
+youtube.com
+Stores the userâs video player preferences using embedded YouTube video.
+Session
+HTML Marketing
+yt-remote-connected-devices
+
+youtube.com
+Stores the userâs video player preferences using embedded YouTube video.
+Persistent
+HTML Marketing
+yt-remote-device-id
+
+youtube.com
+Stores the userâs video player preferences using embedded YouTube video.
+Persistent
+HTML Marketing
+yt-remote-fast-check-period
+
+youtube.com
+Stores the userâs video player preferences using embedded YouTube video.
+Session
+HTML Marketing
+yt-remote-session-app
+
+youtube.com
+Stores the userâs video player preferences using embedded YouTube video.
+Session
+HTML Marketing
+yt-remote-session-name
+
+youtube.com
+Stores the userâs video player preferences using embedded YouTube video.
+Session
+HTML Unclassified
+inbound_original_referral
+
+pineapplesupport.org
+Unclassified
+Persistent
+HTML Unclassified
+inbound_referral_site
+
+pineapplesupport.org
+Unclassified
+Session
+HTTP Unclassified
+inbound_url_params
+
+pineapplesupport.org
+Unclassified
+Persistent
+HTML Unclassified
+lead_session
+
+pineapplesupport.org
+Unclassified
+Session
+HTTP Unclassified
+page_views
+
+pineapplersupport.org
+Unclassified
+Persistent
+HTML Unclassified
+wp_lead_uid
+
+pineapplesupport.org
+Unclassified
+Session
+HTTP  

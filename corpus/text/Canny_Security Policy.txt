@@ -1,0 +1,13 @@
+
+        Log inSecurityWe take the security and privacy of your data on Canny very seriously.
+We understand the importance of keeping your data private and strive to keep it this way.ComplianceCanny is SOC 2 certified.
+Our report is available on request.TeamOur engineers have experience working on highly reliable, scalable, and secure systems at companies like Facebook and Google.
+We always have someone on call to address any issues or outages as fast as possible.HostingCanny uses Amazon Web Services (AWS) to host all of our applications and static resources.
+Theyâre one of the top hosting providers in the world â used by companies like Netflix, Adobe, Snap, and Atlassian.
+Only Canny engineers have access to these machines, via key-based SSH login.
+We update system software whenever updates are available.
+To learn more, read about AWS security policies.DataCanny uses Atlas, a product of MongoDB, to host our data.
+We back-up everything continuously to ensure your valuable data stays safe.
+This data is only accessible by the same group of Canny engineers who have access to hosting machines.
+Your private data will not be accessed by our team except as absolutely needed to resolve issues.
+To learn more, read about MongoDB security policies.SSLOur entire website and hosting servers are only accessible via encrypted connections â HTTPS using RSA 2048 bit keys.Contact UsIf you have any remaining questions or concerns about Cannyâs security, donât hesitate to reach out to support@canny.io.

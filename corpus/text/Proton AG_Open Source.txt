@@ -1,0 +1,21 @@
+
+         ProtonMail is Open Source! Posted on August 13, 2015November 29, 2019 by Proton Team Earlier today, we released ProtonMail 2.0 to the world.
+We are happy to announce that we are also releasing ProtonMail 2.0 as open source software! From the beginning, we have been strong proponents of open source software and the core cryptography libraries that we develop and use have been open source from day one.
+Today, we are happy to take the next step and completely open source our webmail interface.
+This means all the ProtonMail code that runs on your computer is now available for inspection.
+We hope that by opening up our platform, we will encourage additional contributors to help us make ProtonMail the worldâs most secure email service.
+Our move to open source has actually been coming for a long time.
+While it would have also been possible to open source ProtonMail 1.x, we felt that such a move was not appropriate given that the code was intended to be deprecated.
+By open sourcing ProtonMail 2.0, we are open sourcing the future of ProtonMail.
+As we continue to expand our private email service with mobile apps, you can look forward to more open source announcements as our code base matures.
+ProtonMail 2.0 can be viewed online on Github at the link below.
+As a nod to our CERN and MIT roots, we are releasing under the permissive MIT license.
+Let us know if you do something cool with our code.
+https://github.com/ProtonMail/WebClient
+We welcome all feedback at security@protonmail.ch and look forward to continuing to improve ProtonMail with your help!
+Best Regards,
+The ProtonMail Team
+Share This!Get a Free Encrypted Email Account Articles &amp.
+News 266
+
+

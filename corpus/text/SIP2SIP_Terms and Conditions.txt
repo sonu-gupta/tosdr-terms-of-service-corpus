@@ -1,0 +1,188 @@
+
+        
+Skip to main content Toggle navigation 
+
+Sign In 
+
+Help 
+
+
+ Terms and Conditions Contents
+
+General
+Terms of use
+
+Data Privacy and Storage Policy
+General
+Accounts
+Contacts
+Signaling
+Call Detail Records
+Offline Messaging
+RTP Media
+MSRP Media
+XMPP Gateway
+Protecting Data and Privacy
+
+
+ General
+SIP2SIP is a real time communications service provided by AG Projects,
+a company registered in the Netherlands, obeying to the Dutch laws.
+The purpose of this free service is the testing of the software produced and
+deployed by AG Projects to its customers.
+AG Projects reserves the right to remove any account that behaves in an
+undesirable way. Terms of use
+You may use this service as an end-user for establishing real time
+communications with other end-users on the same platform or external users
+serviced by third parties using the same protocols.
+Usage of accounts provided by this service by intermediaries deploying
+services to their end-users of their own is prohibited.
+Any party that
+wishes to deploy such services, must use their own domain and have a
+commercial agreement with AG Projects.
+The platform is fine-tuned to accommodate end-user residential users traffic
+patterns.
+If your traffic has a different pattern, like having a high
+density of audio calls, using a PBX with many extensions, calling from
+multiple devices located in different locations at the same time, using
+automatic dialers, you may want to choose a different service that is finer
+tuned for such purpose. Data Privacy and Storage Policy
+SIP2SIP infrastructure relays and stores information provided by end
+users between the users.
+If you are concerned about privacy of your own
+data and how it is used inside the platform, read below.
+As a general rule, no end-user's data is collected on purpose nor shared with
+any third-parties.
+However there is data shared implicitely by using the
+service, due to the inner working of the protocols involved. General
+When using Internet server-based infrastructures, you should not expect that
+all your information to remain private.
+Everything that goes through a
+server is subject to forces outside the control of the clients using it.
+So
+you may safely assume all data exchanged through the server is compromised
+by design.
+If you care about privacy of your data, you should find clients
+that reveal as less data as possible, then encrypt all the data that is
+possible to encrypt and never share the private key used to encrypt data
+with anyone.
+Still, no matter what client technique you are using, it is
+impossible when using a server to completely hide when communication takes
+place, between which account takes place and the source IP addresses of the
+end-points. Accounts
+SIP2SIP accounts and related information are stored in the platform
+database.
+Passwords are stored in an encrypted form in the database.
+There
+is a salt involved but in case of the database being completely compromised
+the salt can be also retrieved.
+It is advisable to use strong passwords
+that cannot be guessed by dictionary brute force attacks. Account deletion
+You can request deletion of you account.
+We will delete your account
+providing that no commercial services has been purchased (e.g.
+credit to
+call to PSTN network).
+If you did make a purchase, we are required by
+law to keep records of all monetary transactions like full name and
+addresses for up to seven years after purchase.
+To delete your account login to http://x.sip2sip.info.
+In the Identity tab
+click on the remove account button. Contacts
+The contacts present in your operating system address-book are not share
+with anyone and remain local to your SIP client. Signaling
+Signaling can be done in clear text using UDP and TCP protocols.
+You may use TLS for encrypting data between the end points and platform SIP
+and Web servers.
+There is no guarantee that encryption will work
+end-to-end, the SIP signaling part of the platform provides only hop-by-hop
+signaling security, any intermediate hop may decide to switch from TLS
+to a non-encrypted transport like UDP. Sessions
+All SIP signaling for session establishment
+(INVITE/BYE/CANCEL/PRACK/ACK SIP methods and their
+replies) relayed by the platform SIP servers are stored in cleartext for
+several days in the platform databases.
+Both end-users and the platform
+operator have access to this information for troubleshooting purposes. Registration
+No registration information (SIP REGISTER method) is stored in the
+platform. Subscriptions
+No presence dialogs (SUBSCRIBE/NOTIFY methods) and related XML
+payloads are stored in the server databases.
+Short logs about which device
+or subscriber changes its presence state are stored for troubleshooting
+purposes. Call Detail Records
+Call Details Records (CDRs) are stored for up to several months in clear
+text format in platform databases.
+CDRs contain metadata information about
+who called whom and what time and for how long.
+The IP addresses used for
+signaling and media are also stored in the CDRs. Offline Messaging Text Messages
+Messages sent using SIP MESSAGE method that cannot be delivered to local
+users of the platform are stored for later delivery in cleartext format in
+the platform database. Voicemail
+Voicemail message are sent un-encrypted over email as attachments and stored
+un-encrypted on the server voicemail server (optional).
+Voicemail can be
+enabled/disabled for each SIP account. RTP Media
+RTP streams are relayed by media relays running on the platform.
+The actual
+data is not stored anywhere.
+You may encrypt your data using SRTP but
+when using SDES method supported by most devices, the encryption keys
+are available in cleartext in the SIP signaling.
+Whomever has access to the
+signaling plane (and all SIP servers in the path always have access to it)
+will be able to decrypt any SRTP encrypted stream using SDES key
+exchange.
+The alternative is to use zRTP, where the keys are known only
+to the end-points. MSRP Media Chat Messages
+MSRP chat sessions are done over TLS connections via the platform MSRP relay
+servers.
+The content of the messages is not logged or stored anywhere.
+Users of Blin application can replicate the chat messages between multiple
+instances configured with the same account.
+The replicated chat messages
+are stored for 60 days in encrypted form in platform databases.
+The
+encryption key is not known by the server, only Blink clients posses the
+encryption/decryption key.
+If you are concerned about privacy you may
+disable chat replication in Blink. File Transfers
+MSRP file transfer sessions are done over TLS connections via the platform MSRP
+relay servers.
+The content of the files are not logged or stored but the MSRP
+relay component sees their content during the transfer. XMPP Gateway
+All chat messages and presence payloads are relayed through the SIP/XMPP
+gateway.
+Message content is not stored anywhere. Protecting Data and Privacy
+To minimise the chance of your SIP sessions and media being exposed do the
+following:
+
+Use SIP addresses that do not reveal your real name
+Use ICE NAT traversal in both end-points, this way RTP streams can flow most of the time peer to peer without passing through the server media relays that can be tapped
+Use zRTP encryption, this way you will know about men in the middle attacks trying to intercept and decrypt your data
+Don't use SIP MESSAGE method for chat messages as all message go through the signalling, which is always compromised by design when a server is in the middle
+Use end-to-end encryption mechanisms like OTR when using MSRP chat
+Use anonymization services to protect/spoof the real IP source of the client.
+This howvere just adds one level more of obfuscation, somewhere in the anonymization network the real IP used can be traced
+ Illegal Intercept
+To protect your data against being exposed over the Internet (like IP tapping), do the following:
+
+Use TLS for SIP signaling (this will encrypt signaling between client and server)
+Use zRTP for audio and video (Blink and Jitsi clients support zRTP)
+Use TLS for MSRP media
+Use OTR for Chat media (Blink client supports OTR)
+
+These would protect your data against those who try to illegally sniff
+your network traffic (like breaking into your LAN/WiFi) but have no
+access to the client or server software.
+These measures will not protect
+your data privacy against legal intercept measures if enforced and
+applied to the server infrastructure that relays the messages (you will
+likely not know if and when this happens). Lawful Intercept
+In case any entitled government agency requires access to the meta-data
+stored by SIP2SIP infrastructure, all SIP account data stored on the
+server can be considered compromised.
+Use client side encryption to
+mitigate this risk. Â© 2022 AG Projects â Real Time Communications Experts Status | Privacy 
+

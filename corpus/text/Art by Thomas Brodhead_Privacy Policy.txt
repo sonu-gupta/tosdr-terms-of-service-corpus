@@ -1,0 +1,11 @@
+
+        @media screen and (min-width:464px){.privacy-policy.main{margin:calc(1em + var(--header-height)) auto 3em auto;width:432px}}@media screen and (max-width:463px){.privacy-policy.main{margin:calc(1em + var(--header-height)) 1em 3em 1em}}.privacy-policy a:link{background:transparent}.privacy-policy h2~h2{margin-top:1.5em}.privacy-policy.main p{max-width:27em}Whatâs Your Website Privacy Policy?We use Google Analytics to see how many visitors our site gets, what pages they visit, and how they found the site (e.g., from a Google search or from a link from another site).
+This helps us understand how well the site is performing and whether it needs sprucing up.
+But we go an extra step: we cloak your identity by anonymizing the data.
+That way, we only learn the fact that someone visited the site, not who it was.
+Google explains their Privacy Policy &amp.
+Terms in detail, but you can simply opt out of Google Analytics altogether if you wish.
+If you write to us, we'll keep your email address on file to communicate with you.
+We wonât share it with third parties unless theyâve been hired to help complete our services to you.
+If you have additional questions, no problem.
+Just write or call us and weâll be happy to answer!

@@ -1,0 +1,30 @@
+
+         settings  ã¤ã³ã¹ã¿ã³ã¹ã®ãã©ã¤ãã·ã¼  ã¤ã³ã¹ã¿ã³ã¹ãªãã¬ã¼ã¿ã¼ããã®ãã©ã¤ãã·ã¼ããªã·ã¼ã¯ä¸è¨ãè¦§ä¸ããã  check_circle ãã¼ã¿ãä¿å­ããã¦ãã¾ãã ã¤ã³ã¹ã¿ã³ã¹ãªãã¬ã¼ã¿ã¼ããã¯ä½ãä¿å­ããã¦ãã¾ããã What's this?  Instance privacy aims to bring transparency to the data collected by frontends and encourage privacy friendly practices.
+There is often no privacy policy and users are forced to trust that the instance operator is not collecting data.
+However, there is a possibility that the instance operator can put false information so we encourage looking at other factors when selecting an instance.
+
+
+ password Internet address (IP Address) - This is an address that is given to your computer or internet connection.
+This can be used to find your city or region and internet provider but can change depending on your connection.
+
+ link Page viewed (Request URL) - This is what page you are viewing.
+Searches are kept private.
+
+ phonelink Device Type (User agent) - This is what browser, device, and operating system you are using.
+Advanced users can change this with an extension or browser setting.
+
+ settings Diagnostics - When this data is only collected when there is an error or only a short amount of time while diagnosing an issue.
+
+ è¿½å æå ± 
+ãã¼ã¸ã§ã³ï¼
+å½ï¼Japan
+ISPï¼GMOã°ã­ã¼ãã«ãµã¤ã³
+ Cloudflareï¼ âï¸ 
+ ã¹ããªã¼ãã³ã°ãã­ã¯ã·ã¼ï¼ âï¸ 
+ çéä¿¡ï¼ âï¸ 
+ åç»ã¹ããªã¼ãã³ã°URLï¼ https://cdn.lbryplayer.xyz 
+
+
+
+ info ã¤ã³ã¹ã¿ã³ã¹ã«ã¤ãã¦ visibility ãã©ã¤ãã·ã¼ code ã½ã¼ã¹ã³ã¼ã code ï¼ï¼ï¼ã«ç·¨éããã½ã¼ã¹ã³ã¼ã 
+      

@@ -1,0 +1,132 @@
+
+         Profile directory
+About
+Mobile apps Log in
+Sign up Home to
+539,719
+users Who authored
+26,939,210
+statuses Administered by:
+Eugen@Gargron Contact: staff@mastodon.social Code of Conduct
+Summary 
+ No racism, sexism, homophobia, transphobia, xenophobia, casteism
+
+ No sexual depictions of minors
+
+ No spam
+
+ No bots In-depth The following guidelines are not a legal document, and final interpretation is up to the administration of mastodon.social.
+they are here to provide you with an insight into our content moderation policies:
+
+ The following types of content will be removed from the public timeline: 
+Excessive advertising
+Uncurated news bots posting from third-party news sources
+Untagged nudity, pornography and sexually explicit content, including artistic depictions
+Untagged gore and extremely graphic violence, including artistic depictions
+
+
+ The following types of content will be removed from the public timeline, and may result in account suspension and revocation of access to the service: 
+Racism or advocation of racism
+Sexism or advocation of sexism
+Casteism or advocation of casteism
+Discrimination against gender and sexual minorities, or advocation thereof
+Xenophobic and/or violent nationalism
+Spreading disinformation or conspiracy theories that undermine public health
+
+
+ The following types of content are explicitly disallowed and will result in revocation of access to the service: 
+Sexual depictions of children
+Content illegal in Germany and/or France, such as holocaust denial or Nazi symbolism
+Conduct promoting the ideology of National Socialism
+
+
+ Any conduct intended to stalk or harass other users, or to impede other users from utilizing the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions, is also disallowed, and subject to punishment up to and including revocation of access to the service.
+This includes, but is not limited to, the following behaviors: 
+Continuing to engage in conversation with a user that has specifically has requested for said engagement with that user to cease and desist may be considered harassment, regardless of platform-specific privacy tools employed.
+Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called doxing or dropping dox) may be considered harassment.
+Inciting users to engage another user in continued interaction or discussion after a user has requested for said engagement with that user to cease and desist (informally called brigading or dogpiling) may be considered harassment.
+
+
+
+These provisions notwithstanding, the administration of the service reserves the right to revoke any user's access permissions, at any time, for any reason, except as limited by law. Cross-posting "Cross-posting" is the automatic copying of posts from one platform to another.
+That definition does not include the simultaneous posting to multiple platforms from the same app, such as Twidere or PostyBirb.
+If you use those apps, we consider those posts original, and the following need not apply.
+Cross-posting from Mastodon to other platforms is fully permitted.
+Cross-posting into Mastodon from another platform is permitted under the following terms:
+
+
+The posts do not include platform-specific references, e.g.
+talking about "here" meaning Twitter, or including text from other non-Mastodon users verbatim (e.g.
+cross-posted quote tweets)
+The account is at least semi-regularly monitored by the author, so that interactions from Mastodon users are not ignored
+The account being cross-posted is owned by the same person.
+Third-party copying of content is not permitted
+ Staff In addition to the site's owner, @Gargron, Mastodon.social's moderation staff include:
+
+
+ @CM_kropot 
+ @LuigiEsq 
+ @citrustwee 
+ Funding
+This server is crowdfunded by Patreon donations.
+For a list of sponsors, see joinmastodon.org Imprint Eugen Rochko
+
+c/o Grosch Postflex #92
+
+Emsdettener StraÃe 10
+
+48268 Greven
+
+Germany
+
+E-mail: hello@joinmastodon.org
+
+VAT ID: DE316095554
+
+Moderated servers
+Mastodon generally allows you to view content from and interact with users from any other server in the fediverse.
+These are the exceptions that have been made on this particular server.
+Filtered media
+Media files from these servers will not be processed or stored, and no thumbnails will be displayed, requiring manual click-through to the original file: Server
+Reason pawoo.net Inappropriate content bsd.moe Harassment freezepeach.xyz Harassment toot.love Harassment Silenced servers
+Posts from these servers will be hidden in public timelines and conversations, and no notifications will be generated from their users interactions, unless you are following them: Server
+Reason brighteon.social Conspiracy theories mstdn.foxfam.club Third-party bots noagendasocial.com Harassment shitposter.club Harassment sinblr.com Spam bsd.moe Harassment freezepeach.xyz Harassment toot.love Harassment Suspended servers
+No data from these servers will be processed, stored or exchanged, making any interaction or communication with users from these servers impossible: Server
+Reason 10minutepleroma.com Spam baraag.net Inappropriate content birdsite.link Third-party bots birdsite.monster Third-party bots catgirl.life Harassment cnet.site Harassment coom.club Harassment daffodil-11.org Spam dlf.social Inappropriate content fedi.app Harassment feminism.lgbt Harassment freespeechextremist.com Hate speech gab.ai Harassment gab.com Harassment gameliberty.club Bot that announces blocks glindr.org Transphobia iddqd.social Harassment jaeger.website Harassment kiwifarms.cc Harassment kiwifarms.is Harassment kiwifarms.net Harassment mastodonhub.com Mirroring other Mastodon accounts without permission melalandia.tk Inappropriate content mouse.services Harassment neckbeard.xyz Inappropriate content nnia.space MAPs pieville.net Harassment pl.smuglo.li Inappropriate content preteengirls.biz Inappropriate content raplst.town Harassment skippers-bin.com Inappropriate content spinster.xyz Transphobia twitter.1d4.us Third-party bots twitter.activitypub.actor Third-party bots wagesofsinisdeath.com Harassment waifuappreciation.club Harassment waifu.social Harassment weedis.life Spam yggdrasil.social Hate speech 
+
+Code of Conduct
+
+Summary
+In-depth
+
+
+
+Cross-posting
+
+
+Staff
+
+
+Funding
+
+
+Imprint
+
+Moderated servers
+ Resources
+
+Terms of service
+Privacy policy
+ Developers
+
+Documentation
+API
+ What is Mastodon? mastodon.social
+
+About
+v3.3.0rc1
+ Moreâ¦
+
+Source code
+Mobile apps
+

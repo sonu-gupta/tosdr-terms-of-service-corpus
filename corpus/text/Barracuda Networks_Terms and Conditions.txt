@@ -1,0 +1,667 @@
+
+         Terms and Conditions General Terms and Conditions Schedule 1: Software Use and Restrictions Schedule 2: Limited Warranty Schedule 3: Hosted Services Schedule 4: Additional Terms for Phishline Schedule 5: Support Services Terms Schedule 6: Professional Services Terms Schedule 7: Data Privacy Schedule 8: Migration and Upgrade Credit Program Terms Trust Center LEGAL TERMS AND CONDITIONS FOR ALL BARRACUDA PRODUCTS General Terms Applicable to all Products
+
+SCHEDULES:
+ Schedule 1: Software Use and Restrictions Schedule 2: Limited Warranty Schedule 3: Hosted Services Schedule 4: Additional Terms for Phishline Schedule 5: Support Services Terms Schedule 6: Professional Services Terms Schedule 7: Data Privacy Schedule 8: Migration and Upgrade Credit Program Terms
+ The General Terms and Conditions (âGeneral Termsâ),
+together with all applicable Schedules (collectively, the âAgreementâ) are a legal agreement between you, a legal
+entity (âCustomerâ), and Barracuda Networks, Inc.
+(âBarracudaâ).
+If you are not legally able to be bound by the Agreement or do not want to consent to the terms of the Agreement, your use of the Products is strictly prohibited.
+Your use of the Products is subject at all times to this Agreement, as amended from time to time.
+If you do not unconditionally agree to the foregoing, discontinue the installation or use of the Products.
+If you proceed with use, you are (i) representing and warranting that you are authorized to bind the Customer.
+and (ii) agreeing to the Terms.
+
+
+Order of Precedence .
+The General Terms are applicable to all Barracuda Products and set forth the terms under which the Customer may use Barracuda Products.
+Certain Products are subject to additional terms and conditions, which are set forth in the applicable âSchedule.â In the event of a conflict or inconsistency between any of the General Terms and a Schedule, the Schedule will govern.
+
+
+
+
+
+
+
+GENERAL TERMS AND CONDITIONS
+
+
+
+ PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING A BARRACUDA PRODUCT.
+BY USING A BARRACUDA PRODUCT, CUSTOMER AGREES TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+
+
+
+
+
+
+
+ IF CUSTOMER LIVES IN THE UNITED STATES, THIS AGREEMENT CONTAINS A BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER.
+IT AFFECTS CUSTOMERâS RIGHTS REGARDING HOW TO RESOLVE ANY DISPUTE WITH BARRACUDA.
+PLEASE READ IT CAREFULLY.
+
+
+
+1.
+
+Definitions.
+
+
+
+
+
+ 1.1.
+âBarracuda Materialsâ means all Barracuda proprietary materials, including, but not limited to, Deliverables, Products and intellectual property related to Products and Documentation.
+
+ 1.2.
+âDeliverablesâ means any written reports and materials that are created specifically for Customer as a result of
+Professional Services provided hereunder, as set forth in Schedule 6 (âProfessional Services Termsâ).
+
+ 1.3.
+âDeliveryâ with respect to Hardware means the date of shipment, and with respect to Software and Hosted Services means when the Software or Hosted Service is made available by Barracuda.
+
+ 1.4.
+âDocumentationâ means manuals or other materials provided by Barracuda related to the Products in electronic or other form, as amended from time to time by Barracuda.
+
+ 1.5.
+âEffective Dateâ shall mean the date of Delivery of the Products.
+
+ 1.6.
+âHardwareâ means a physical appliance provided by Barracuda.
+
+ 1.7.
+âHosted Serviceâ means the right to use a cloud system or platform hosted by Barracuda, which provides the services and functionality set forth in the applicable Specification.
+
+ 1.8.
+âHosted Service Termâ means the length of time for which a Hosted Service is purchased.
+
+ 1.9.
+âIntellectual Property Rightsâ means copyrights (including, without limitation, the exclusive right to use, reproduce, modify, distribute, publicly display and publicly perform the copyrighted work), trademark rights (including, without limitation, trade names, trademarks, service marks and trade dress), patent rights (including, without limitation, the exclusive right to make, use and sell), trade secrets, moral rights, right of publicity, authorsâ rights, contract and licensing rights, goodwill and all other intellectual property rights as may exist now and/or hereafter come into existence and all renewals and extensions thereof, regardless of whether such rights arise under the law of the United States or any other state, country or jurisdiction.
+
+ 1.10.
+âProductâ means, collectively, any Hardware, Software, Subscriptions, Hosted Service, Services and any combination thereof.
+
+ 1.11.
+âOrderâ means a written purchase order or similar ordering document, signed or submitted to Barracuda under which the Products are provided for Customerâs use.
+
+ 1.12.
+âProfessional Servicesâ means consulting services provided by Barracuda under a Statement of Work and/or set forth on an Order.
+
+ 1.13.
+âSoftwareâ means software embedded in Hardware, used to provide a Hosted Service or any software licensed to Customer as a Subscription, including any Updates thereto.
+
+ 1.14.
+âServiceâ or âServicesâ means Professional Services and Support Services.
+
+ 1.15.
+âSpecificationâ means the functionality for the Product as documented in the Product data sheet.
+
+ 1.16.
+âStatement of Workâ or âSOWâ means a document between Barracuda and Customer, describing Professional Services, rates and timelines for those Professional Services.
+
+ 1.17.
+âSubscriptionâ means a license provided by Barracuda for a Subscription Term under which Barracuda provides access to certain features and functionality, as described in the Specification, which is provided subject to the applicable Schedule, if any, and these General Terms.
+
+ 1.18.
+âSubscription Termâ means the length of time for which a Subscription is purchased.
+
+ 1.19.
+âSupport Termâ means the length of time for which the Support Service is purchased.
+
+ 1.20.
+âSupport Servicesâ means the maintenance and technical support services provided by Barracuda with respect to each
+Product, as described in Schedule 5 (âSupport Services Termsâ).
+
+ 1.21.
+âUpdateâ means minor enhancements, error corrections and bug fixes to the Software.
+
+
+
+
+
+
+2.
+
+Modification.
+ Barracuda reserves the right to modify the Agreement at any time, in its sole discretion, without liability to Customer.
+The Agreement, as amended, will be effective upon use of the Products for all existing users immediately after any amended terms are posted online.
+If Customer has signed up for email updates, Barracuda will provide email notice to Customer of the update.
+Customerâs continued use of the Products shall be deemed acceptance of the modified terms.
+
+
+3.
+
+Orders and Statements of Work.
+
+
+
+
+
+ 3.1.
+Orders.
+Products will only be provided to Customer after Barracuda has received and accepted an Order for such Product.
+Orders are not binding upon Barracuda until accepted in writing by Barracuda.
+All Orders will be governed by this Agreement and are noncancelable and nonrefundable after Delivery, except as set forth in Section 5.2 (âReturnsâ).
+
+ 3.2.
+Statements of Work.
+Each Statement of Work is governed by this Agreement.
+Barracuda will not be obligated to perform any Professional Services until a Statement of Work describing those Professional Services has been agreed upon by both parties or an Order listing those Professional Services has been accepted by Barracuda in writing.
+
+
+4.
+
+Payment Terms.
+
+
+
+
+
+ 4.1.
+Fees and Expenses.
+If Customer purchases directly from Barracuda, Customer will pay Barracuda the fees specified on the invoice associated with each Order or Statement of Work (âFeesâ).
+If Customer purchases through a Barracuda authorized reseller, all fees and other procurement and delivery terms shall be agreed upon between Customer and the applicable reseller.
+Fees for usage in excess of amounts purchased will be billed by Barracuda in the next billing cycle and Customer acknowledges that such additional fees must be paid in accordance with the terms herein.
+
+ 4.2.
+Payment.
+If Customer purchases directly from Barracuda, payment is due within thirty (30) days of the date of each invoice.
+Payment will be made by credit card, wire transfer or another prearranged payment method unless Barracuda has extended credit terms to Customer.
+All Fees described in an Order or Statement of Work will be fully invoiced in advance, unless otherwise agreed to in writing by Barracuda.
+If any payment is past due, Barracuda may, without limiting any remedies available to Barracuda, suspend performance until payment is made current.
+Customer will pay interest on all delinquent amounts at the lesser of one and one half percent (1.5%) per month or the maximum rate permitted by applicable law.
+
+ 4.3.
+Increases.
+Barracuda reserves the right to increase prices for Products at any time, provided however that any price increase for Subscriptions, Hosted Services and Support Services will not go into effect until the end of the then-current term, as applicable.
+
+ 4.4.
+Taxes.
+All Fees are exclusive of all sales, use, excise, value added, goods and services, withholding and other taxes, and all customs, duties and tariffs now or hereafter claimed or imposed by any governmental authority upon the sale or use of the Products, which shall be invoiced to and paid by the Customer.
+If Customer is required by law to make any deduction or withholding on any payments due to Barracuda, Customer will notify Barracuda and will pay Barracuda any additional amounts necessary to ensure that the net amount Barracuda receives, after any deduction or withholding, equals the amount Barracuda would have received if no deduction or withholding had been required.
+Additionally, Customer will provide Barracuda with evidence, to the reasonable satisfaction of Barracuda, showing that the withheld or deducted amounts have been paid to the relevant governmental authority.
+For purposes of calculating sales and similar taxes, Barracuda will use the address set forth on the Order or Statement of Work, as applicable, for the jurisdiction to which Products and shipments are delivered unless Customer has otherwise notified Barracuda.
+Customer will provide tax exemption certificates or direct-pay letters to Barracuda as applicable.
+
+ 4.5.
+Payment Disputes.
+Customer must notify Barracuda of any billing problems or discrepancies within sixty (60) days of the applicable Barracuda invoice date.
+Customer must send such notification to Barracuda as indicated in Section 21 (âNoticesâ).
+If Customer does not bring such problems or discrepancies to Barracudaâs attention within such sixty (60) day period, Customer agrees that it waives the right to dispute such problems or discrepancies.
+
+ 4.6.
+Offsets.
+Customer shall pay all amounts due and payable to Barracuda under this Agreement to Barracuda in full without any setoff, recoupment, counterclaim, deduction, debit or withholding for any reason (other than any deduction or withholding of tax as may be required by applicable law and in compliance with Section 4.4 (âTaxesâ).
+
+ 4.7.
+Import/Export Fees.
+Customer is responsible for any import or export fees or duties associated with its purchase or use of the Products.
+
+
+5.
+
+Title and Returns.
+
+
+
+
+
+ 5.1.
+Title.
+Ownership.
+
+
+
+
+
+ 5.1.1.
+Hardware.
+All Hardware is shipped from Barracudaâs designated manufacturing facility or point of origin (Exworks origin) (Incoterms 2010).
+Title to such Hardware and the risk of loss of or damage to Hardware shall pass to Customer at the time of shipment from Barracudaâs facility.
+Barracuda is authorized to designate a carrier pursuant to Barracudaâs standard shipping practices unless otherwise specified in writing by Customer.
+Customer must provide written notice to Barracuda within ten (10) days of Delivery of the Products of any non-conformity with the Order (e.g., Delivery of the wrong Product or incorrect quantities).
+Partial shipment is expressly permitted hereunder, and separate charges for shipping and handling will be charged on Barracudaâs invoice.
+
+
+
+
+
+ 5.1.2.
+Software.
+Barracuda retains right, title and ownership to all Software, and Customerâs license and usage rights to Software as set forth in Schedule 1 (âSoftware Use and Restrictionsâ).
+
+
+
+
+
+ 5.1.3.
+Customer Data.
+âCustomer Dataâ means all data, including text, sound, video, or image files and software, that Customer provides to Barracuda, or that is provided on Customerâs behalf.
+Customer retains ownership of Customer Data at all times.
+Barracuda will use Customer Data only in accordance with the Barracuda Privacy Policy.
+
+
+
+
+
+ 5.2.
+Returns.
+Customer may cancel all Orders for new Products (excluding renewals, upgrades and migrations) within thirty (30) days of the Effective Date of any Term (âCancellation Periodâ).â After the Cancellation Period, all Orders are non-cancellable and the Fees paid to Barracuda are nonrefundable.
+Fees for installation or training provided by Barracuda are non-cancellable and nonrefundable once performance commences.
+
+
+6.
+
+Third Party Products and Services. Third party products or services may contain features designed to interoperate with the Products.
+To use such features, Customer must obtain access to such third-party apps from their respective providers.
+If Customer chooses to utilize such third-party apps, the following terms shall apply:
+
+ (i) All governing terms and conditions, including data processing terms, shall be entered into between Customer and the applicable third-party app provider.
+
+ (ii) Customer may be required to grant Barracuda access to Customerâs account on such third-party apps.
+
+ (iii) Customer instructs Barracuda to allow the third-party app provider to access Customer Data as required for interoperation with the Products.
+and
+
+ (iv) In the event the operation of a third party app requires the processing of personal data to which the General Data Protection Regulation (âGDPRâ)
+applies in a country that does not provide adequate data protection safeguards, then Customer and the third party app provider must put in place an adequate data transfer mechanism as set forth in Arts.
+46 or 47 of the GDPR, including executing appropriate Standard Contractual Clauses, as needed.
+Barracuda shall not be responsible for any disclosure, modification or deletion of Customer Data resulting from access by such third-party app providers.
+Third party app providers do not operate as subprocessors to Barracuda.
+Barracuda is not liable for, and does not warrant or support, any such third-party apps.
+Barracuda cannot guarantee the continued availability of such third party apps, and may cease providing them without entitling Customer to any refund, credit or other compensation, if, for example, the provider of the third-party app ceases to make its product or service available in a manner acceptable to Barracuda.
+
+
+7.
+
+Professional Services. If applicable, Professional Services will be provided in accordance with these General Terms and Schedule 6 (âProfessional Services Termsâ).
+
+
+8.
+
+Support Services and Product Upgrades.
+
+ 8.1.
+Support Services.
+
+ 8.1.1.
+Support Services Purchase.
+Support Services may be purchased separately, or for Hosted Services, may be bundled into the price.
+Customer is not entitled to Support Services until Barracuda receives payment in full for such Support Services.
+
+ 8.1.2.
+Support Services Entitlement.
+For Customers with active Support Services, the following shall apply:
+
+ 8.1.2.1.
+Support Services will only be available for the specific Product for which the Support Services is purchased.
+Applying Updates or receiving Support Services on systems where no valid entitlement has been purchased is strictly forbidden and in violation of this Agreement.
+
+ 8.1.2.2.
+For Hardware, Customer is entitled to receive replacement of
+defective hardware as set forth in Schedule 5 (âSupport Services Termsâ).
+
+ 8.1.2.3.
+For Software, Customer is entitled to Updates to Software.
+Barracuda shall provide Customer with all Updates, without additional
+charge, in accordance with Schedule 5 (âSupport Services Termsâ).
+Upon Delivery to Customer, each Update will constitute Software and will thereafter be subject to and governed by this Agreement, including without limitation the license and warranty terms.
+
+ 8.1.2.4.
+Support Services for Software are required at all times for continued access to the full functionality and proper operation of the Product.
+Customer acknowledges that failure to pay for ongoing Support Services will limit or degrade the functionality of the Products.
+
+ 8.2.
+Upgrades.
+Upgrades are not included in Support Services, and may be purchased separately from Barracuda.
+
+
+9.
+
+Intellectual Property.
+
+
+
+
+
+ 9.1.
+Ownership of Barracuda Materials.
+Restrictions.
+All Intellectual Property Rights in Barracuda Materials belong exclusively to Barracuda and its licensors.
+Customer will not (and will not allow any third party to): (i) disassemble, decompile, reverse compile, reverse engineer or attempt to discover any source code or underlying ideas or algorithms in any Barracuda Materials (except to the limited extent that applicable law prohibits reverse engineering restrictions).
+(ii) sell, resell, distribute, sublicense or otherwise transfer the Barracuda Materials, or make the functionality of the Barracuda Materials available to any other party through any means (unless Barracuda has provided prior written consent).
+(iii) without the express prior written consent of Barracuda, conduct any benchmarking or comparative study or analysis involving the Barracuda Materials (âBenchmarkingâ) for any reason or purpose except, to the limited extent absolutely necessary, to determine the suitability of Products to interoperate with Customerâs internal computer systems.
+(iv) disclose or publish to any third party any Benchmarking or any other information related thereto.
+(v) use the Barracuda Materials or any Benchmarking in connection with the development of products, services or subscriptions that compete with the Barracuda Materials.
+(vi) use any Barracuda trademarks for any purpose not expressly granted by Barracuda in advance and in writing.
+or (vii) reproduce, alter, modify or create derivatives of the Barracuda Materials.
+
+ 9.2.
+Feedback.
+Customer hereby grants Barracuda a perpetual, irrevocable, worldwide license to use any Feedback (as defined below) that Customer communicates to Barracuda, without compensation, without any obligation to report on such use, and without any other restriction.
+Barracudaâs rights granted in the previous sentence include, without limitation, the right to exploit Feedback in any and every way, as well as the right to grant sublicenses.
+Notwithstanding the provisions of Section 12 (âConfidential Informationâ), Feedback will not be considered Customerâs Confidential Information.
+âFeedbackâ refers to any suggestion or idea for modifying any Products, including, without limitation, all Intellectual Property Rights in and to any such suggestion or idea.
+
+
+10.
+
+ Waiver of Consequential Damages and Limitation of Liability.
+
+
+
+
+
+
+ 10.1.
+WAIVER OF CONSEQUENTIAL DAMAGES.
+UNDER NO CIRCUMSTANCES SHALL EITHER PARTY, OR ITS SUPPLIERS, RESELLERS, PARTNERS OR THEIR RESPECTIVE AFFILIATES, BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES ARISING FROM OR RELATED TO THE PRODUCTS, WHETHER SUCH CLAIM IS BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE (EVEN IF THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES).
+
+ 10.2.
+LIMITATION OF LIABILITY.
+THE TOTAL AGGREGATE LIABILITY OF BARRACUDA AND ITS SUPPLIERS, RESELLERS, PARTNERS AND THEIR RESPECTIVE AFFILIATES ARISING FROM OR RELATED TO THIS AGREEMENT SHALL BE LIMITED TO THE TOTAL AMOUNTS OWED OR PAID BY CUSTOMER FOR THE RELEVANT PRODUCTS DURING THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE FIRST OCCURRENCE OF THE EVENTS GIVING RISE TO SUCH LIABILITY.
+
+ 10.3.
+APPLICABILITY.
+THE FOREGOING LIMITATIONS OF LIABILITY SHALL APPLY (A) TO LIABILITY FOR NEGLIGENCE.
+(B) REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT, STRICT PRODUCT LIABILITY OR OTHERWISE.
+(C) EVEN IF A PARTY IS ADVISED IN ADVANCE OF THE POSSIBILITY OF THE DAMAGES IN QUESTION AND EVEN IF SUCH DAMAGES WERE FORESEEABLE.
+(D) WHETHER THE DAMAGES ARISE FROM USE OR MISUSE OF AND RELIANCE ON THE PRODUCTS, FROM INABILITY TO USE THE PRODUCTS OR FROM THE INTERRUPTION, SUSPENSION, OR TERMINATION OF THE PRODUCTS (INCLUDING SUCH DAMAGES INCURRED BY THIRD PARTIES).
+SUCH LIMITATION SHALL APPLY NOTWITHSTANDING A FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY AND TO THE FULLEST EXTENT PERMITTED BY LAW.
+
+ THE LIMITATIONS AND EXCLUSIONS CONTAINED HEREIN WILL APPLY ONLY TO THE MAXIMUM EXTENT PERMISSIBLE UNDER APPLICABLE LAW, AND NOTHING HEREIN PURPORTS TO LIMIT EITHER PARTYâS LIABILITY IN A MANNER THAT WOULD BE UNENFORCEABLE OR VOID AS AGAINST PUBLIC POLICY IN THE APPLICABLE JURISDICTION.
+
+
+11.
+
+Export and Compliance with Laws.
+
+
+
+
+
+ 11.1.
+Export.
+
+ 11.1.1.
+The Products, including technical data, are subject to U.S.
+export control laws, including, but not limited to, the U.S.
+Export Administration Act and its associated regulations, and may be subject to export or import regulations in other countries.
+Customer agrees to strictly comply with all such regulations and acknowledges that it has the responsibility to obtain licenses to export, re-export or import Products.
+Barracuda provides multiple versions of Products targeted for specific geographic regions.
+
+ 11.1.2.
+Customer shall not: (a) permit any third party to access or use the Products in violation of any U.S.
+law or regulation.
+(b) export the Products or otherwise relocate them unless such export and/or relocation is in full compliance with all applicable local and U.S.
+laws and regulations.
+Without limiting the foregoing, Customer shall not permit any third party to access or use the Products in, or export it to, a country subject to a United States embargo (currently, Cuba, Iran, North Korea, Sudan, the Crimea Region in the Ukraine and Syria).
+or (c) authorize the relocation of the Products to a prohibited entity, territory or country, or take any action otherwise in violation of any applicable restrictions or regulations.
+
+ 11.2.
+Compliance with Laws.
+Customer agrees to comply with all applicable laws related to its performance of the obligations set forth in this Agreement, including, but not limited to, any applicable privacy laws.
+
+ 11.2.1 If Customer is a United States Government agency, the Products and Documentation qualify as âcommercial itemsâ, as that term is defined at Federal Acquisition Regulation (âFARâ) (48 C.F.R.
+2.101), consisting of âcommercial computer softwareâ and âcommercial computer software documentationâ as such terms are used in FAR 12.212.
+Consistent with FAR 12.212 and DoD FAR Supp.
+227.7202-1 through 227.7202-4, and notwithstanding any other FAR or other contractual clause to the contrary in any agreement into which this Agreement may be incorporated, Government end user will acquire the Products and Documentation with only those rights set forth in this Agreement.
+Use of either the Products or Documentation or both constitutes an agreement by the Government that the Products and Documentation are âcommercial computer softwareâ and âcommercial computer software documentationâ, and constitutes acceptance of the rights and restrictions herein.
+
+ 11.2.2.
+The Products are provided with Restricted Rights.
+Use, duplication or disclosure for or by the government of the United States, including without limitation any of its agencies or instrumentalities, is subject to restrictions set forth, as applicable: (i) in subparagraphs (a) through (d) of the Commercial Computer Software-Restricted Rights clause at FAR 52.227-19.
+or (ii) in similar clauses in other federal regulations, including the NASA FAR supplement.
+The contractor or manufacturer is Barracuda.
+Customer shall not remove or deface any restricted rights notice or other legal notice appearing on the Products or on any packaging or other media associated with the Products.
+
+
+
+
+
+
+12.
+
+Confidential Information.
+
+
+
+
+
+ 12.1.
+Definition.
+âConfidential Informationâ refers
+to the following information disclosed by one party (â Discloserâ) to the other (âRecipientâ): (a) any document Discloser marks as âConfidentialâ or âProprietaryâ.
+(b) any information Discloser orally designates as being âConfidentialâ at the time of disclosure, or which given the circumstances of the disclosure and the nature of the information would reasonably be considered confidential.
+(c) the non-public features and functions of the Products, Barracudaâs price lists, technology, trade secrets, marketing strategies, customer lists, mail lists and information concerning the design or methods of manufacture of the Products, for which Barracuda is Discloser.
+(d) this Agreement.
+and (e) any other nonpublic, sensitive information disclosed by Discloser.
+Notwithstanding the foregoing, Confidential Information does not include information that: (i) is in Recipientâs possession at the time of disclosure and not in violation of any confidentiality obligations.
+(ii) becomes known publicly, before or after disclosure, other than as a result of Recipientâs improper action or inaction.
+or (iii) is approved for release in writing by Discloser.
+
+ 12.2.
+Maintenance of Confidentiality.
+Each party agrees that it shall: (i) take reasonable measures to protect the Confidential Information by using the same degree of care, but no less than a reasonable degree of care, to prevent the unauthorized use, dissemination or publication of the Confidential Information as the Recipient uses to protect its own confidential information of a similar nature.
+(ii) limit disclosure to those persons within Recipientâs organization who have a clear and well-defined âneed to knowâ and who have previously agreed in writing to obligations at least as stringent as the provisions hereof, either prior to receipt of Confidential Information as a condition of their employment or in order to obtain the Confidential Information.
+(iii) not copy, reverse engineer, disassemble, create any works from, or decompile any prototypes, Products or other tangible objects which embody the other partyâs Confidential Information and/or which are provided to the party hereunder.
+and (iv) comply with, and obtain all required authorizations arising from, all U.S.
+and other applicable export control laws or regulations.
+Confidential Information shall not be used or reproduced in any form except as required to accomplish the purposes and intent of an Order or Statement of Work.
+Any reproduction of Confidential Information shall be the property of Discloser and shall contain all notices of confidentiality contained on the original Confidential Information.
+
+ 12.3.
+Exceptions.
+The parties agree that the foregoing shall not apply to any information that Recipient can prove, through written evidence: (i) is or becomes publicly known and made generally available through no improper action or inaction of Recipient.
+(ii) was already in its possession or known by it prior to disclosure by Discloser to Recipient.
+(iii) is independently developed by Recipient without use of, or reference to, any of Discloserâs Confidential Information.
+or (iv) was rightfully disclosed to it by, or obtained from, a third party without an obligation of confidentiality.
+Recipient may make disclosures required by law or court order provided that Recipient: (a) uses diligent efforts to limit disclosure and to obtain, if possible, confidential treatment or a protective order.
+(b) has, to the extent legally permissible, given prompt advance notice to Discloser of such required disclosure.
+
+ 12.4.
+Injunction.
+Recipient agrees that breach of this Section 12 would cause Discloser irreparable injury, for which monetary damages would not provide adequate compensation, and that in addition to any other remedy, Discloser will be entitled to seek injunctive relief against such breach or threatened breach, without proving actual damage or posting a bond or other security.
+
+ 12.5.
+Return of Confidential Information.
+With respect to each item of Confidential Information, the obligations of Section 12.2 (âMaintenance of Confidentialityâ) will terminate five (5) years after the date of disclosure.
+Upon termination of this Agreement, Recipient shall return all copies of Confidential Information to Discloser or certify, in writing, the destruction thereof.
+Where permissible by law, Recipient may retain one copy of all written materials returned to provide an archive record of the disclosure, which remains subject to the confidentiality terms of this Section 12.
+
+ 12.6.
+Retention of Rights.
+This Agreement does not transfer ownership of Confidential Information or grant a license thereto.
+Discloser will retain all right, title and interest in and to all of its Confidential Information.
+
+ 12.7.
+Collection of Customer Data.
+
+Customer agrees to allow Barracuda to collect Customer Data from its Products in order to enhance its security products and to optimize and monitor the performance of the Product.
+Customer Data will be collected electronically and automatically.
+Customer Data will be kept private and will only be reported by Barracuda in the aggregate.
+
+
+
+
+
+
+13.
+
+Term, Termination, and Survival.
+
+
+
+
+
+ 13.1.
+Term.
+This Agreement will become effective on the Effective Date and will continue in effect for such time as Customer maintains use or possession of Products.
+
+ 13.2.
+Termination for Cause.
+Either party may terminate this Agreement upon written notice of a material breach by the other party subject to a thirty (30) day cure period (âCure Periodâ).
+If the breaching party has failed to cure the breach within the Cure Period after receipt by the breaching party of written notice of such breach, the nonâbreaching party may terminate this Agreement.
+This Agreement may be automatically terminated by Barracuda in the event Customer has breached any license restriction and, in Barracudaâs determination, that breach cannot be adequately cured within the Cure Period.
+
+ 13.3.
+Support Services.
+Support Services will begin on the date of Delivery of the Products, and will continue in effect for the duration of the Support Term.
+Support Services will automatically renew at the end of any Support Term, at the then-current price, for an additional period equal to the length of the prior Support Term.
+Either party may provide notification of its intention to not renew at least sixty (60) days prior to the expiration of the then-current Support Term.
+Customer may terminate Support at any time, for its convenience, on thirty (30) daysâ prior written notice to Barracuda.
+provided, however, that no refund shall be owed and Customer is obligated to pay any remaining Fees owing for the remainder of the then-current Support Term within thirty (30) days of the effective date of the termination.
+
+ 13.4.
+Subscriptions.
+The term of each Subscription will begin on the date of Delivery of the Products, and will continue in effect for the duration of the Subscription Term.
+Subscriptions will automatically renew at the end of any Subscription Term, at the then-current price, for an additional period equal to the length of the prior Subscription Term.
+Either party may provide notification of its intention to not renew at least sixty (60) days prior to the expiration of the then-current Subscription Term.
+Customer may terminate a Subscription at any time, for its convenience, on thirty (30) daysâ prior written notice to Barracuda.
+provided, however, that no refund shall be owed and Customer is obligated to pay any remaining Fees owing for the remainder of the then-current Subscription Term within thirty (30) days of the effective date of the termination.
+
+ 13.5.
+Hosted Services.
+The term of each Hosted Service will begin on the date of Delivery, and will continue in effect for the duration of the Hosted Service Term.
+Hosted Services will automatically renew at the end of any Hosted Service Term, at the then-current price, for an additional period equal to the length of the prior Hosted Service Term.
+Either party may provide notification of its intention to not renew at least sixty (60) days prior to the expiration of the then-current Hosted Service Term.
+Customer may terminate a Hosted Service at any time, for its convenience, on thirty (30) daysâ prior written notice to Barracuda.
+provided, however, that no refund shall be owed and Customer is obligated to pay any remaining Fees owing for the remainder of the then-current Hosted Service Term within thirty (30) days of the effective date of the termination.
+
+ 13.6.
+Professional Services.
+Statements of Work.
+The term of each SOW will be as set forth in the applicable SOW.
+If no term is expressed in a SOW, then the term of that SOW will begin upon commencement of the Professional Services and will continue until the Professional Services described in that SOW are complete or the SOW is earlier terminated as set forth herein.
+Unless otherwise stated in a SOW, Customer may terminate a SOW at any time for its convenience by providing at least thirty (30) daysâ prior written notice to Barracuda.
+provided, however, that no refund will be owed and Customer is obligated to pay any amounts owing for Professional Services and Deliverables provided or performed under that SOW up to and including the date of termination.
+
+ 13.7.
+Effect of Termination.
+Except for termination of this Agreement by Barracuda for Customerâs breach, no termination of this Agreement shall impact any active Subscription, Hosted Service, Support Services or SOW that extends beyond such termination, and this Agreement shall continue to govern and be effective until expiration or termination of such Subscription, Hosted Service, Support Services or SOW.
+The provisions of Section 4 (âPayment Termsâ), Section 10 (âWaiver of Consequential Damages and Limitation of Liabilityâ), Section 11 (âExport and Compliance with Lawsâ), Section 12 (âConfidential Informationâ),
+Section 14 (âGoverning Law, Venue and Dispute Resolutionâ), and Schedule 2 (âLimited Warrantyâ) and any other terms which by their nature should survive termination shall survive termination of this Agreement.
+
+
+14.
+
+Governing Law, Venue and Dispute Resolution.
+
+
+
+
+
+ 14.1.
+GOVERNING LAW AND VENUE.
+THESE TERMS AND THE USE AND PROVISION OF PRODUCTS WILL BE GOVERNED SOLELY BY THE LAWS OF THE STATE OF CALIFORNIA, WITHOUT REFERENCE TO: (A) ANY CONFLICTS OF LAW PRINCIPLES THAT WOULD APPLY THE SUBSTANTIVE LAWS OF ANOTHER JURISDICTION TO THE PARTIESâ RIGHTS OR OBLIGATIONS.
+(B) THE 1980 UNITED NATIONS CONVENTION ON CONTRACTS FOR THE INTERNATIONAL SALE OF GOODS.
+OR (C) OTHER INTERNATIONAL LAWS.
+THE PARTIES CONSENT TO THE PERSONAL AND EXCLUSIVE JURISDICTION OF THE FEDERAL AND STATE COURTS IN SANTA CLARA COUNTY, CALIFORNIA.
+
+ 14.2.
+
+DISPUTE RESOLUTION
+
+ .
+IF CUSTOMER LIVES IN THE UNITED STATES, THIS SECTION CONTAINS A BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER.
+IT AFFECTS CUSTOMERâS RIGHTS REGARDING HOW TO RESOLVE ANY DISPUTE CUSTOMER MAY HAVE WITH BARRACUDA.
+PLEASE READ IT CAREFULLY.
+
+
+ The parties will attempt to resolve any claim, dispute or controversy (whether in contract, tort or otherwise) against Barracuda, its agents, employees, successors, assigns or affiliates (collectively for purposes of this paragraph, âBarracudaâ) arising out of or relating to this Agreement, the Barracuda Materials, Barracuda advertising, or any related purchase (a âDisputeâ) through face to face negotiation with persons fully authorized to resolve the Dispute or through mediation utilizing a mutually agreeable mediator, rather than through litigation.
+If the parties are unable to resolve the Dispute through negotiation or mediation within a reasonable time after written notice from one party to the other that a Dispute exists, the Dispute will be settled by binding arbitration in accordance with the then current CPR Rules for Non-Administered Arbitration.
+The Arbitration will be conducted before one (1) independent and impartial arbitrator.
+The arbitration hearing shall take place in Cupertino, California and will be governed by the United States Federal Arbitration Act to the exclusion of any inconsistent state laws.
+The arbitrator shall base his or her award on the terms of this Agreement and will follow the law and judicial precedents that a United States District Court Judge sitting in the county of Santa Clara, California would apply to the Dispute.
+The arbitrator shall render his or her award in writing and will include the findings of fact and conclusion of law upon which his or her award is based.
+Judgment upon the arbitration award may be entered by any court of competent jurisdiction.
+The existence, content and results of any negotiation, mediation or arbitration will be treated as confidential.
+Notwithstanding the foregoing, either party will have the right to obtain from a court of competent jurisdiction a temporary restraining order, preliminary injunction or other equitable relief to preserve the status quo or prevent irreparable harm, although the merits of the underlying Dispute will be resolved in accordance with this paragraph.
+
+ THE PARTIES AGREE TO ARBITRATE SOLELY ON AN INDIVIDUAL BASIS, AND THAT THIS AGREEMENT DOES NOT PERMIT CLASS ARBITRATION OR ANY CLAIMS BROUGHT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ARBITRATION PROCEEDING.
+THE ARBITRAL TRIBUNAL MAY NOT CONSOLIDATE MORE THAN ONE PERSONâS CLAIMS, AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A REPRESENTATIVE OR CLASS PROCEEDING.
+
+
+15.
+
+Permission to Use Logo.
+ Customer grants Barracuda permission to use Customerâs name and/or logo on the Barracuda website, or any other marketing material when referring to Customer.
+Customer will retain all title and rights in its name and logos.
+
+
+16.
+
+Changes to Products. Barracuda reserves the right at any time to modify, suspend or discontinue providing the Products or any part thereof and to alter prices, features, Specifications, capabilities, functions, licensing terms, release dates, general availability or other characteristics of any future releases in its sole discretion, without prior notice.
+
+
+17.
+
+Relationship of the Parties.
+ The parties intend that the relationship created between them by virtue of this Agreement shall be that of an independent contractor, and nothing herein shall be construed to create an agency, joint venture, partnership or other form of business association between them.
+Barracuda and its agents, employees and servants shall not be deemed to be an employee, agent or servant of Customer or its affiliated entities, if any.
+Barracuda is not to be considered an agent or employee of Customer for any purpose, and none of the benefits provided by Customer or its employees are available to Barracuda or Barracudaâs employees, agents or servants.
+Barracuda shall be solely and entirely responsible for Barracudaâs acts and for the acts of Barracudaâs agents, employees, servants and subcontractors during the performance of this Agreement.
+
+
+18.
+
+Construction.
+ The language used in this Agreement will be deemed to be the language chosen by the parties to express their mutual intent, and this Agreement will not be construed in favor of or against either party by reason of authorship.
+The headings herein are for convenience only, do not constitute a part of this Agreement and shall not be deemed to limit or affect any of the provisions hereof.
+
+
+19.
+
+Force Majeure.
+ Except with respect to payment of Fees, neither party shall be liable for any failure to timely perform any of its obligations under this Agreement if such failure is caused by the occurrence of any event beyond the reasonable control of such party, including, without limitation, fire, flood, strikes, hurricanes, and other industrial disputes, failure of raw material, failure of transport, accidents, wars, riots, insurrections, acts of God or orders of any government department or agency.
+
+
+20.
+
+Severability.
+ In the event that a provision of this Agreement is held to be invalid or otherwise unenforceable, such provision will be interpreted to fulfill its intended purpose to the maximum extent permitted by applicable law, and the remaining provisions of this Agreement will continue in full force and effect.
+
+
+21.
+
+Notices.
+ Barracuda may send notices pursuant to this Agreement to Customerâs email contact points provided by Customer, and such notices will be deemed received 24 hours after they are sent.
+Customer may send notices pursuant to this Agreement to Barracuda at 3175 South Winchester Blvd., Campbell, CA 95008, Attn: Legal Department, and such notices will be deemed received 72 hours after they are sent.
+
+
+22.
+
+Entire Agreement, Waiver and Assignment.
+
+
+
+
+
+ 22.1.
+Entire Agreement.
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes and replaces all prior or contemporaneous understandings or agreements, written or oral.
+If any term or condition in this Agreement conflicts with any term or condition in any Order, invoice or similar supplementary document submitted by Customer, the term or condition set out in this Agreement shall prevail.
+Unless otherwise expressly and mutually agreed in writing by the parties, under no circumstances shall any Order, invoice or similar supplementary document issued by Customer in connection with the Products supersede the terms of this Agreement.
+Any such documentation shall be solely for Customerâs internal business purposes, and in no event shall any terms and conditions, or other charges of any such document modify or become a part of this Agreement or become binding on Barracuda, even if signed by Barracuda.
+
+ 22.2.
+Waiver.
+Neither party will be deemed to have waived any of its rights under this Agreement by lapse of time or by any statement or representation other than by an authorized representative in an explicit written waiver.
+No waiver of a breach of this Agreement will constitute a waiver of any other breach of this Agreement.
+
+ 22.3.
+Assignment.
+Customer may not assign or transfer any of its rights or obligations under this Agreement without Barracudaâs prior written consent.
+Barracuda may freely assign its rights and obligations under this Agreement.
+Any attempted assignment or transfer in violation of the foregoing will be void.
+Except to the extent forbidden in this section, this Agreement will be binding upon and inure to the benefit of the partiesâ respective successors and assigns.
+
+
+
+
+
+
+
+Revised: September 22, 2020
+

@@ -1,0 +1,454 @@
+
+        Your PrivacyWelcome to FullContact! Weâre glad you're here and want you to know that we respect your privacy and your right to control how we collect, use, and share your personal data.
+Listed below are the purposes for which we process your data--please indicate whether you consent to such processing.
+For more information on our privacy practices, including legal bases and our use of tracking technologies like cookies, please read our Privacy Policy.PurposesReject AllAccept AllBehavioral AdvertisingLegal Basis: Consent - Opt InCreation and activation of advertisements based on a profile informed by the collection and analysis of behavioral and personal characteristics.
+we may set cookies or other trackers for this purpose.Legal Basis: Data subject has affirmatively and unambiguously consented to the processing for one or more specific purposesCookiesEssential ServicesLegal Basis: Legitimate Interest - Non-ObjectableCollection and processing of personal data to enable functionality that is essential to providing our services, including security activities, debugging, authentication, and fraud prevention, as well as contacting you with information related to products/services you have used or purchased.
+we may set essential cookies or other trackers for these purposes.Legal Basis: Necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subjectEmail MarketingLegal Basis: Consent - Opt InMarketing of our products/services to customers by email.Legal Basis: Data subject has affirmatively and unambiguously consented to the processing for one or more specific purposesAnalyticsLegal Basis: Consent - Opt InCollection and analysis of personal data to further our business goals.
+for example, analysis of behavior of website visitors, creation of target lists for marketing and sales, and measurement of advertising performance.Legal Basis: Data subject has affirmatively and unambiguously consented to the processing for one or more specific purposesCookiesSave choices 
+ProductsResolve Unify your customer + prospect data and recognize anonymous website visitors.Enrich Append customer + prospect data with multidimensional insights.Verify Fortify your fraud and identity verification strategy.FullContact Private Identity Cloudâ¢ Manage, obfuscate, and store first-party data.
+IndustriesMarTech + AdTech Fully unify first-, second- and third-party dataâwhile ensuring privacy.Identity Verification + Fraud Prevention Add deterministic, real-time signals to your hub.Brands Deliver personalized, privacy-centric experiencesâwithout cookies.
+Partners
+ResourcesSupport centerBlogResource libraryFAQDeveloper OverviewDocumentationAPI status
+AboutWhy UsTeamIdentity GraphCareersPrivacy
+Login
+Let's Talk
+
+
+Products Resolve Unify your customer + prospect data and recognize anonymous website visitors.Enrich Append customer + prospect data with multidimensional insights.Verify Fortify your fraud and identity verification strategy.FullContact Private Identity Cloudâ¢ Manage, obfuscate, and store first-party data.
+
+Industries MarTech + AdTech Fully unify first-, second- and third-party dataâwhile ensuring privacy.Identity Verification + Fraud Prevention Add deterministic, real-time signals to your hub.Brands Deliver personalized, privacy-centric experiencesâwithout cookies.
+
+Partners
+Resources Support centerBlogResource libraryFAQDeveloper OverviewDocumentationAPI status 
+About Why UsTeamIdentity GraphCareersPrivacy 
+Login
+Let's Talk
+
+
+Services Agreement
+Data Processing Addendum
+Website Terms of Use
+Privacy Policy
+Cookie Policy
+ Your Privacy Choices Services Agreement
+Last Updated: January 1, 2023
+Previous version here
+Thank you for choosing FullContact! Please carefully read these terms as they form a part of the legal agreement between you and FullContact.
+If you have any questions about these terms, please contact us at legal@fullcontact.com.
+BY ACCEPTING THIS SERVICES AGREEMENT, EITHER BY CLICKING A BOX INDICATING YOUR ACCEPTANCE OR BY EXECUTING AN ORDER FORM THAT REFERENCES THIS SERVICE AGREEMENT, YOU AGREE TO BE BOUND BY THE TERMS OF THIS SERVICE AGREEMENT.
+IF YOU ARE ENTERING INTO THIS SERVICE AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY TO THIS SERVICE AGREEMENT, IN WHICH CASE THE TERMS âYOUâ, âYOURâ
+âCUSTOMERâ, OR âCLIENTâ WILL REFER TO SUCH ENTITY AND ITS AFFILIATES AS APPLICABLE.
+IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THIS SERVICES AGREEMENT, YOU MUST NOT ACCEPT THIS SERVICES AGREEMENT AND MAY NOT USE THE FULLCONTACT DATA SERVICES.
+These terms including the URL links referenced herein and any exhibits or addenda attached hereto (âServices Agreementâ), together with the applicable Order Form(s) form the full legal agreement (âAgreementâ) between Customer and FullContact, Inc., a Delaware corporation (âFullContactâ, âusâ, or âourâ) regarding the FullContact Data Services and is made as of the date the Customer first completes an Order Form and accepts this Services Agreement (âEffective Dateâ).
+If you are an employee user of the FullContact Data Services on behalf of Customer, and FullContact and Customer have entered into a separate written agreement regarding the FullContact Data Services which is signed by Customer and FullContact, then the terms of that agreement (and not this Services Agreement) define the terms and conditions under which Customer and its employee users are permitted to use the FullContact Data Services.
+
+1.
+Definitions. As used in the Agreement:
+a.
+âAPIâ means the application program interface software in source code or executable code form, and any modified, updated, or enhanced versions of such software through which FullContact Data may be accessed under the Agreement.
+b.
+âAPI Documentationâ means the documentation and specifications for APIs that are published by FullContact from time to time at https://docs.fullcontact.com.
+c.
+âApplicable Lawsâ means international, federal, state, or local treaties, laws, rules, regulations, or ordinances applicable to the provision (in the case of FullContact) or use (in the case of Customer) of the FullContact Data Service and/or FullContact Data.
+d.
+âCustomer Applicationâ means the manner in which Customer uses and distributes FullContact Data as described in an Order Form, which may include, but not limited to, the use or distribution of FullContact Data or Derived Insights through software applications or web-based services or through electronic or written files or reports, in each case provided to Third Party End Users by Customer.
+e.
+âCustomer Privacy Policyâ means Customerâs conspicuously posted privacy policy that is associated with any commercially available website or application operated by Customer, including the Customer Application.
+f.
+âDerived Insightsâ means any data, reports, analysis or other output developed by or on behalf of Customer that is derived from FullContact Data.
+provided that such Derived Insights: (i) does not contain any FullContact Data, and (ii) is not capable of being reverse engineered, decompiled, disassembled or otherwise modified to obtain the original, unaltered form of the FullContact Data.
+g.
+âThird Party End Userâ means: (i) any independent contractor or other non-employee authorized representative of Customer.
+(ii) a third-party customer or licensee of Customer (including any employee, independent contractor or other authorized representative of such third-party customer or licensee).
+and (iii) any user of the Customer Application, who, in each case (i)-(iii), is authorized to use the FullContact Data, FullContact Data Services or Derived Insights in connection with a Permitted Use.
+h.
+âFullContact Dataâ means data collected by FullContact, Public Data, and/or data from FullContactâs data licensors, which is provided to Customer by FullContact as part of the FullContact Data Services.
+i.
+âFullContact Data Servicesâ means the identity resolution, verification, enrichment services, and other data services, and any other related professional services performed by or on behalf of FullContact, as specified in the applicable Order Form.
+j.
+âFullContact Privacy Policyâ means the FullContact privacy policy located at https://www.fullcontact.com/privacy/privacy-policy/.
+k.
+âOrder Formâ means the ordering document that refers to this Services Agreement and is executed from time to time by authorized representatives of FullContact and Customer.
+l.
+âPermitted Useâ means the manner in which Customer is authorized to use FullContact Data and FullContact Data Services, which is specified in an Order Form.
+m.
+âPersonal Dataâ means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular individual, including, but not limited to, any information that is defined as âpersonally identifiable information,â âpersonal information,â âpersonal data,â or other similar term under privacy or data protection laws.
+n.
+âPublic Dataâ means information collected by FullContact or its data licensors from publicly available sources or information that is lawfully made available to the general public.
+o.
+âSubscription Termâ means the term of any subscription to the FullContact Data Services and license to FullContact Data, which is specified in an Order Form.
+p.
+âSubmitted Informationâ means any data Customer submits to FullContact in order for FullContact to provide the FullContact Data Services.
+q.
+âUsage Dataâ means data or statistics that are produced in connection with Customerâs or its Third Party End Usersâ use of the FullContact Data Services that do not identify Customer or its Third Party End Users, and may include, but is not limited to, usage patterns, traffic logs, and user conduct.
+
+2.
+Licenses and Restrictions.
+
+a.
+Provision of FullContact Data Services.
+Subject to the terms and conditions of the Agreement, including payment of applicable fees, FullContact will provide Customer with those FullContact Data Services as specified in the applicable Order Form.
+b.
+FullContact Data License.
+Subject to the terms and conditions of the Agreement, including payment of applicable fees, FullContact hereby grants to Customer a limited, non-exclusive, non-transferable, non-sublicensable license, during the applicable Subscription Term, to use the FullContact Data solely for the Permitted Uses.
+Unless otherwise set forth on an Order Form, at the end of the applicable Subscription Term, Customer must either renew the license to the applicable FullContact Data or delete the FullContact Data in accordance with Section 7(c) of this Services Agreement [Effect of Termination].
+c.
+API License.
+If Customer is accessing FullContact Data through the FullContact API, FullContact hereby grants to Customer a limited, non-exclusive, non-transferable license, during the applicable Subscription Term, to use the API in accordance with the Order Form and any specifications included in the API Documentation.
+d.
+Restrictions.
+1.
+Customer will not use, and will not allow or require any Third Party End Users to use, FullContact Data or FullContact Data Services: (i) to determine any personâs employability, credit worthiness, credit standing, credit capacity, or other characteristics related to such personâs manner or mode of living, as listed in Section 603(d) of the Fair Credit Reporting Act.
+(ii) to make a decision by automated processing to evaluate, analyze, or predict an individualâs preferences where the decision results in the provision or denial of financial or lending services, housing, insurance, education enrollment or opportunity, criminal justice, employment opportunities, health care services, or access to essential goods or services.
+(iii) in any manner that violates Applicable Law.
+(iv) to build or support products or services that are competive with FullContact Data Services.
+or (v) in any manner that exceeds the scope of the licenses granted or the limits or restrictions set forth in the Agreement.
+2.
+In addition to the foregoing restrictions, FullContact may, at any time, impose restrictions on the use of FullContact Data or FullContact Data Services: (i) to the extent they are imposed on FullContact by Applicable Laws, any judicial or regulatory interpretations thereof, any self-regulatory frameworks or guidelines, or FullContactâs data licensors.
+or (ii) as reasonably necessary, in FullContactâs judgment, to properly manage the integrity of the FullContact Data or FullContact Data Services in light of issues concerning privacy, confidentiality and other issues to which consumers may be sensitive (collectively, âAdditional Restrictionsâ).
+FullContact agrees to provide reasonable advance notice to the Customer to the extent permitted under the circumstances.
+Customer agrees to comply with such Additional Restrictions.
+If Customer does not agree to the Additional Restrictions, Customer may request a reduction in fees payable under the affected Order Form(s) by providing FullContact with written notice within thirty (30) days of FullContact giving Customer notice of the Additional Restrictions.
+provided if such request is not timely submitted by Customer, then such right will be deemed waived as it pertains to that instance.
+e.
+Usage Data and Feedback.
+In connection with Customer acknowledges that FullContact has the right to create Usage Data and FullContact retains ownership of all right, title, and interest in and to the Usage Data.
+FullContact may use Usage Data to perform its obligations under the Agreement and for any other lawful business purpose, including, but not limited to, benchmarking, book keeping, data analysis, and to market and improve FullContactâs services, systems, and algorithms.
+Providing any suggestions, enhancement requests, recommendations, corrections, or other feedback (collectively, âFeedbackâ) is strictly voluntary.
+Customer hereby grants to FullContact a worldwide, perpetual, irrevocable, transferable, sub-licensable, royalty-free license to use and incorporate any Feedback, orally or in writing, into the FullContact Data Services, APIs, or API Documentation.
+
+3.
+Customer Application and End User Use. If, pursuant to a Permitted Use, Customer makes the FullContact Data or the FullContact Data Services available to: (i) Third Party End Users through a Customer Application (which must be specified and described on an Order Form), the terms contained in Exhibit A attached hereto shall apply.
+and (ii) Third Party End Usersâ end users (âFourth Party End Usersâ) through a Third Party End User Application, the terms contained in Exhibit B attached hereto shall apply.
+
+4.
+Submitted Information. If Customer provides FullContact any Submitted Information, the following provisions shall apply to such Submitted Information.
+a.
+License to Submitted Information.
+Customer hereby grants FullContact a worldwide, revocable, non-exclusive, royalty-free, non-transferable, limited-term license to use Submitted Information in connection with the provision of FullContact Data Services.
+FullContact will not resell or distribute any Submitted Information to FullContactâs customers generally or any other third party.
+Customer agrees that nothing contained in this Services Agreement shall restrict FullContactâs right to use, access, process, collect, disclose, share, or distribute any Personal Data that FullContact collects or receives from a different source other than Customer, even if such information is duplicative of any Submitted Information.
+Customer agrees that FullContact uses an identity graph and algorithmic processing to provide FullContactâs services that may be improved or trained by exposure to Submitted Information.
+Customer agrees that the outputs of such algorithms are FullContactâs Confidential Information.
+provided that such outputs will not contain any Submitted Information.
+b.
+Submitted Information Representations.
+Customer represents and warrants to FullContact that: (i) if Submitted Information is collected from customers or users of any Customer website or service, including Third Party End Users of a Customer Application, Customer will at all times maintain a Customer Privacy Policy that is associated with or linked to the Customer website, service, or Customer Application, which policy complies with all Applicable Laws and which clearly and accurately describes the processing, use and disclosure of Submitted Information as contemplated herein.
+(ii) Customer has obtained or possesses all rights necessary, including any third party consents required under Applicable Laws, to authorize FullContact to use the Submitted Information for the purposes contemplated hereunder and to grant FullContact the licenses set forth under Section 4(a) [Submitted Information].
+(iii) Customerâs collection and disclosure of Submitted Information for the uses contemplated hereunder complies with all Applicable Laws and, if applicable, the Customer Privacy Policy.
+and (iv) Customer will promptly notify FullContact of any notice from any governmental agency or regulatory authority alleging that the use of any Submitted Information violates Applicable Law.
+Customer agrees not to transmit or upload to FullContact, and the Submitted Information will not include, any individually identifiable health information (as that term is defined in accordance with Health Insurance Portability and Accountability Act, as amended), payment card information, bank account information, social security number, driverâs license information, government ID information about any individual, or any similar sensitive information.
+
+5.
+Confidentiality and Security Requirements.
+
+a.
+Confidential Information.
+Each party agrees that all business, technical and financial information that is designated as âConfidentialâ or âProprietary,â or is disclosed in a manner that a reasonable person would understand the confidentiality of the information disclosed is the confidential property of the disclosing party and its licensors (âConfidential Informationâ).
+FullContact Data shall be considered the Confidential Information of FullContact, and Submitted Information shall be considered the Confidential Information of Customer.
+The receiving party will hold in confidence and not use or disclose any Confidential Information of the disclosing party, except in connection with the exercise of rights granted or performance of such partyâs obligations under the Agreement.
+The receiving party shall not be obligated under this Section5(a) [Confidential Information] with respect to information if the receiving party can document such information: (i)is or has become readily publicly available through no fault of the receiving party or its employees or agents.
+(ii)is received from a third party lawfully in possession of such information and the receiving party has no knowledge of any disclosure restrictions which prohibit such third party from disclosing such information.
+(iii) was rightfully in the possession of the receiving party without restriction prior to its disclosure by the other party.
+or (iv)was independently developed by employees or consultants of the receiving party without use of or reliance on such Confidential Information.
+The receiving party may disclose Confidential Information if it is compelled by law to do so, provided the receiving party gives the disclosing party prior notice of such compelled disclosure, to the extent legally permitted, and reasonable assistance, at the disclosing partyâs expense, if the disclosing party wishes to contest or limit such disclosure.
+b.
+Security and Privacy of Personal Data.
+Each party recognizes that any data received from the other party in connection with the FullContact Data Services may include Personal Data, which both parties desire to keep secure and free from unauthorized access or use.
+Accordingly, the receiving party shall: (i) provide commercially reasonable administrative, technical, and physical security controls to prevent security breaches or unauthorized access to such Personal Data.
+(ii) promptly notify the disclosing party of any breaches, or other unauthorized activities relative to the use of such Personal Data of which it becomes aware.
+and (iii) maintain complete and accurate books and records of account with respect to all of its activities under the Agreement and all disclosures and transactions relating to such Personal Data during the term and for a period of at least two (2) years after termination or expiration of the Agreement.
+Each party will comply with applicable obligations under the Applicable Laws and provide the same level of privacy protection to Personal Data as is required by Applicable Laws.
+Each party has the right to take reasonable and appropriate steps to help ensure that the receiving party uses the Personal Data transferred in a manner consistent with the disclosing partyâs obligations under Applicable Laws.
+The receiving party will notify the disclosing party if the receiving party makes a determination that the receiving party can no longer meet its obligations under Applicable Laws.
+If the receiving party notifies the disclosing party of unauthorized use of Personal Data, the disclosing party will have the right to take reasonable and appropriate steps to stop and remediate such unauthorized use by limiting the Personal Data shared with the other party, terminating the affected Order Form(s) relevant to such unauthorized use, or such other steps mutually agreed in writing.
+With regard to the processing of any Personal Data, each party shall comply with its obligations under the Data Processing Addendum, located at https://www.fullcontact.com/privacy/data-processing-addendum/, which is incorporated into this Services Agreement by reference.
+c.
+Injunctive Relief.
+Each party acknowledges that any unauthorized use of the other partyâs Confidential Information will cause irreparable harm and injury for which there is no adequate remedy at law.
+In addition to all other remedies, at law or in equity, each party agrees that the other party shall be entitled to seek injunctive relief in the event the other party is in breach of the terms in this Section 5 [Confidentiality and Security Requirements].
+
+6.
+Fees.
+Payment Terms.
+Taxes.
+
+a.
+Fees.
+Customer will pay all fees applicable to the FullContact Data or FullContact Data Services provided by FullContact as set forth in each Order Form entered into by the parties.
+Except as otherwise specified herein or in an Order Form, payment obligations are non-cancelable, and fees paid or payable are non-refundable.
+If Customerâs consumption of FullContact Data Services exceeds the proportion of fees invoiced and paid under the applicable Order Form, then FullContact may accelerate future invoicing of fees to the extent needed to match Customerâs consumption.
+b.
+Invoices.
+FullContact will issue invoices to Customer for all amounts payable, and such invoices shall be due within fifteen (15) days after invoice date unless otherwise provided in an Order Form.
+c.
+Late Payment.
+If Customer fails to pay any past due invoice within ten (10) days after Customerâs receipt of a past due notice from FullContact, FullContact may revoke or suspend FullContact Data Services until such time as Customer brings its account completely current.
+Any invoiced amounts not subject to a good faith dispute that are not paid when due will be subject to finance charges equal to 1.5% of the unpaid balance per month or the highest rate permitted by Applicable Law, whichever is less, determined and compounded monthly from the date due until the date paid.
+If Customer fails to timely pay an invoice as set forth in this Section 6 [Fees.
+Payment Terms.
+Taxes] or in the applicable Order Form on two (2) or more occasions, FullContact may, in addition to any other remedies that FullContact may have and upon written notice to Customer, modify the payment terms to require pre-payment of any or all fees payable under any Order Forms then outstanding or entered into in the future, or require other assurances to secure Customerâs payment obligations hereunder.
+Customer must notify FullContact of any disputed amounts in any invoice (in writing) no later than thirty (30) days after the invoice date, otherwise the amount invoice shall be conclusively deemed correct.
+Customer will reimburse any costs or expenses (including, but not limited to, collection agency fees, reasonable attorneysâ fees and court costs) incurred by FullContact to collect any amount that is not paid when due upon receipt of an invoice therefor.
+d.
+Taxes.
+Other than net income taxes imposed on FullContact, Customer will bear all taxes, duties, and other governmental charges with respect to the licenses and services provided under the Agreement.
+
+7.
+Term and Termination.
+Data Deletion.
+Survival.
+
+a.
+Term.
+This Service Agreement will commence upon the Effective Date and continue until the applicable Subscription Term for each Order Form made subject to this Service Agreement has expired, unless each Order Form is earlier terminated in accordance with the terms of the applicable Order Form or this Services Agreement is earlier terminated as set forth herein.
+Except as may otherwise be expressly specified in the Order Form, Order Form(s) will automatically renew for additional successive periods of equal duration to the initial Subscription Term stated in the Order Form unless either party gives the other notice of non-renewal at least thirty (30) days before the end of the Subscription Term.
+b.
+Termination for Cause.
+Either party may terminate an Order Form or this Services Agreement, effective immediately upon written notice to the other party, if such party: (i) breaches any provision of the Agreement and does not cure such breach within thirty (30) days of written notice to such party.
+(ii) breaches a provision of the Agreement for which cure is impossible.
+or (iii) becomes the subject of a petition in bankruptcy or any other proceeding relating to insolvency, receivership, liquidation, or assignment for the benefit of creditors.
+Upon the termination of this Services Agreement for any reason, all Order Forms made subject to it shall automatically terminate.
+c.
+Effect of Termination.
+Upon termination or expiration of the Agreement, (i) all license rights granted in the Agreement (and any associated licenses to Third Party End Users) will immediately cease to exist, and (ii) Customer will irrecoverably delete, and shall cause any Third Party End Users to delete, any and all FullContact Data and Customer will be required to execute the Data Deletion Acknowledgement in the form of Exhibit C attached hereto.
+provided that Customer and any Third Party End Users will not be required to delete any data that was already in Customerâs possession prior to obtaining the same data from FullContact (as FullContact Data) hereunder, or any Derived Insights that has been derived from FullContact Data in compliance with the terms of the Agreement prior to the termination or expiration date.
+Termination for any reason (other than termination for cause by Customer pursuant to Section 7(b) [Termination for Cause]) shall not relieve Customer of the obligation to pay any fees accrued or payable to FullContact (including, if applicable, any committed fees for the remainder of the Subscription Term following the date of termination).
+d.
+Survival.
+Sections 5 [Confidentiality and Security Requirements], 7(c) [Effect of Termination], 8 [Indemnity], 9(c) [Disclaimer], 10 [Limit of Liability], and 11 [General] of this Service Agreement, as well as Customerâs obligation to pay any fees applicable to the balance of the Customerâs then-current Subscription Term, will survive any expiration or termination of the Agreement for any reason.
+e.
+Records.
+Customer will maintain business and financial records for a continuing (rolling) period of three years that contain information sufficient to verify Customerâs compliance with the terms of the Agreement, including: (i) that the use of FullContact Data complies with the Agreement.
+and (ii) following the termination of the Agreement, that the FullContact Data has been deleted in accordance with this Services Agreement.
+Without limitation to FullContactâs rights under any other provision hereof, Customer shall provide to FullContact, upon request, SQL logs in a form reasonably requested by FullContact as evidence to confirm the foregoing (âSQL Log Attestationâ).
+If such SQL Log Attestation reveals that Customer is in violation of its obligations to delete FullContact Data from its records, then Customer shall, on demand, pay FullContact the proportionate amount of the fees, on a pro-rata basis, that would have been paid to maintain such FullContact Data identified in the SQL Log Attestation for the period of time between expiration or termination of the Subscription Term and the delivery of the SQL Log Attestation to FullContact.
+
+8.
+Indemnity.
+
+a.
+Indemnity by FullContact.
+FullContact agrees to defend, indemnify, and hold Customer (and its officers, directors, employees, and agents) harmless from any claims, demands, actions, suits, investigations or proceedings brought by a third party (âClaimsâ) and resulting judgments, settlements, damages, losses, costs, fees (including reasonable attorneysâ fees and court costs) and expenses (âLossesâ) incurred by Customer to the extent due to or arising out of: (i) any allegation that FullContact Data, as provided to Customer by FullContact hereunder, used in accordance with the terms and conditions of the Agreement, infringes the intellectual property rights of such third party.
+or (ii) FullContactâs violation of Applicable Laws in connection with its provision of FullContact Data Services and FullContact Data hereunder or its use of Submitted Information.
+excluding any such Claims to the extent based on or arising out of any cause or circumstance for which Customer must indemnify FullContact under Section 8(b) hereof [Indemnity by Customer].
+In the event that any FullContact Data becomes subject to a Claim that is subject to the terms of this Section 8(a) [Indemnity by FullContact], FullContact shall at its option either: (A) modify the FullContact Data so as to avoid any alleged infringement or violation.
+(B) obtain any rights required to avoid such alleged infringement or violation.
+or (C) terminate this Services Agreement or any Order Form with respect to such FullContact Data and refund to Customer any prepaid fees applicable to the remainder of the then-current Subscription Term.
+This Section 8(a) [Indemnity by FullContact] states FullContactâs entire liability and Customerâs exclusive remedy for any Claims pertaining to the FullContact Data.
+b.
+Indemnity by Customer.
+Customer agrees to defend, indemnify, and hold FullContact (and its officers, directors, employees, and agents) harmless from any Claims and all resulting Losses to the extent due to or arising out of: (i) Customerâs breach or violation of the terms of the Agreement.
+or (ii) Customerâs violation of Applicable Laws in connection with its activities hereunder or its use or distribution of FullContact Data, excluding any such Claims to the extent based on or arising out of any cause or circumstance for which FullContact must indemnify Customer under Section 8(a) [Indemnity by FullContact] hereof.
+c.
+Procedure.
+The indemnifying partyâs obligations as set forth above are expressly conditioned upon each of the foregoing: (i) the indemnified party promptly notifying the indemnifying party in writing of any threatened or actual Claim, provided, however, that failure to give prompt notice will not relieve the indemnifying party of any liability hereunder (except to the extent the indemnifying party has suffered actual material prejudice by such failure).
+(ii) the indemnifying party having sole control of the defense or settlement of any Claim (provided the indemnifying party may not settle any Claim without the indemnified partyâs consent unless it unconditionally releases the indemnified party of all liability).
+and (iii) the indemnified party (at the indemnifying partyâs expense) reasonably cooperating with the indemnifying party to facilitate the defense or settlement of any Claim.
+
+9.
+Limited Warranty.
+Disclaimers.
+
+a.
+Limited Service Warranty.
+FullContact warrants during each applicable Subscription Term that it will use commercially reasonable efforts to provide FullContact Data Services and FullContact Data and any updates thereto in accordance with the requirements set forth in each Order Form.
+As Customerâs sole remedy and FullContactâs sole liability for a breach of the foregoing warranties, FullContact shall either: (i) re-perform the deficient FullContact Data Services or correct or replace any deficient FullContact Data, as applicable.
+or (ii) or terminate this Services Agreement or any Order Form with respect to such FullContact Data Services or FullContact Data and refund to Customer any prepaid fees applicable to the remainder of the then-current Subscription Term.
+b.
+Data Warranty.
+FullContact represents and warrants to Customer that: (i) it or its data licensors has obtained or possesses all rights necessary, including any third party consents required under Applicable Laws, to authorize Customer to use the FullContact Data for the Permitted Use.
+(ii) it will at all times maintain the FullContact Privacy Policy, which complies with all then-current Applicable Laws and which clearly and accurately describes the processing, use and disclosure of FullContact Data as contemplated herein.
+and (iii) it will promptly notify Customer of any notice from any governmental agency or regulatory authority alleging that the Permitted Use of any FullContact Data violates Applicable Law.
+c.
+Disclaimer.
+EXCEPT FOR THE WARRANTIES EXPRESSLY PROVIDED BY HEREUNDER, THE FULLCONTACT DATA AND FULLCONTACT DATA SERVICES ARE PROVIDED âAS-ISâ AND âAS AVAILABLEâ AND FULLCONTACT (AND ITS SUPPLIERS) EXPRESSLY DISCLAIM ANY WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+FULLCONTACT MAKES NO WARRANTY THAT FULLCONTACT DATA IS ACCURATE OR THAT FULLCONTACT DATA SERVICES WILL MEET CUSTOMERâS REQUIREMENTS, OR WILL BE AVAILABLE ON AN UNINTERRUPTED, FULLY SECURE, OR ERROR-FREE BASIS.
+
+10.
+Limitation on Liability. EXCEPT FOR (I) A BREACH OF A PARTYâS OBLIGATIONS UNDER SECTION 5(A) [CONFIDENTIAL INFORMATION], OR (II) A PARTYâS INDEMNIFICATION OBLIGATIONS UNDER SECTION 9 [INDEMNITY], IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY OR ANY THIRD PARTY FOR ANY LOST PROFITS OR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES ARISING FROM OR RELATING TO THE AGREEMENT OR THE USE OF, OR INABILITY TO USE, ANY PRODUCTS, DATA, OR SERVICES PROVIDED HEREUNDER, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, FULLCONTACTâS LIABILITY TO CUSTOMER FOR ANY DAMAGES ARISING FROM OR RELATED TO THE AGREEMENT (INCLUDING ANY ASSOCIATED ORDER FORMS, EXHIBITS, OR ADDENDUMS), FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO AMOUNTS CUSTOMER HAS PAID FULLCONTACT IN THE TWELVE (12) MONTHS PRIOR TO THE DATE THE CLAIM FOR DAMAGES AROSE.
+THE EXISTENCE OF MORE THAN ONE CLAIM WILL NOT ENLARGE THIS LIMIT.
+THE LIMITATIONS IN THIS SECTION WILL NOT APPLY TO THE EXTENT PROHIBITED BY APPLICABLE LAW.
+THE LIMITATION OF LIABILITY AND EXCLUSION OF CERTAIN DAMAGES WILL APPLY WITHOUT REGARD TO WHETHER OTHER PROVISIONS OF THE AGREEMENT HAVE BEEN BREACHED OR DETERMINED BY A COURT OF COMPETENT JURISDICTION TO BE INVALID, VOID OR UNENFORCEABLE.
+THE PARTIES AGREE THAT THE LIMITATIONS IN THIS SECTION ARE A BARGAINED-FOR EXCHANGE AND A MATERIAL CONDITION AND PREMISE OF THE AGREEMENT.
+
+11.
+General.
+
+a.
+Notices.
+All notices issued under the Agreement shall be in writing and shall be deemed to have been duly given when personally delivered, sent by any nationally recognized overnight courier service, email, or by registered or certified mail, postage prepaid, to the following address or to such other address as may be designated by the parties hereto in writing and notice thereof duly given.&nbsp.
+If to Customer, to the mailing and email address set forth in the most recent Order Form.
+If to FullContact: FullContact, Inc., 1624 Market St., Ste 226, PMB 45057, Denver, Colorado 80202-2523, Attention: Legal Department, Email: legal@fullcontact.com.
+b.
+Assignment.
+Neither party may assign any rights or obligations arising under the Agreement, whether by operation or law or otherwise, without the prior written consent of the other.
+except that either party may assign the Agreement, without the other partyâs consent, in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets.
+The parties agree and anticipate that FullContact may fulfill its obligations under the Agreement through subcontractors.
+This Agreement shall inure to the benefit of and shall be binding on the permitted successors and assignees of the parties.
+Any attempted transfer or assignment hereof in violation hereof is null and void.
+c.
+Force Majeure.
+Except for the obligation to pay fees, neither party shall be liable hereunder for any failure or delay in the performance of its obligations hereunder due to reasons beyond its reasonable control, including, without limitation, strikes, shortages, riots, insurrection, fires, flood, storm, explosions, acts of God, war, governmental action, labor conditions, earthquakes, or telecommunications failures.
+d.
+Publicity.
+Customer agrees that FullContact may identify Customer as a FullContact customer in advertising, media relations, trade shows, the website, and other similar promotional activities.
+provided Customerâs brand guidelines are followed.
+e.
+Disputes.
+Except in the case of a true emergency for which a party seeks a temporary restraining order or injunction, the parties agree to escalate any conflicts, disputes, or controversies (âDisputesâ) arising out of or relating to the Agreement to their respective business managers before filing any legal action.
+The business managers will meet and work in good faith to resolve the Dispute within ten (10) days of receiving written notice of the dispute.
+If the business managers are unable to resolve the Dispute, then either party may propose structured negotiations with senior company leadership.
+All negotiations connected with the Dispute will be conducted in confidence and without prejudice to the rights of the party.
+f.
+Governing Law.
+Venue.
+Attorneyâs Fees.
+The Agreement shall be governed by the laws of the State of Colorado without giving effect to principles of conflict of laws that would require the application of the laws of a different jurisdiction.
+Any dispute or cause of action arising out of, or relating to, the Agreement shall be only brought in and is subject to the exclusive jurisdiction of the state and federal courts located in Denver, Colorado.
+Each party waives, to the fullest extent of the law, any objection to venue in such courts, and each party hereby irrevocably submits and consents to the exclusive jurisdiction of such courts.
+If a dispute arising under the Agreement results in litigation, the non-prevailing party shall pay the court costs and reasonable attorneysâ fees of the prevailing party.
+g.
+Waivers.
+All waivers must be in writing.
+Any failure to enforce any provision of the Agreement on one occasion will not be deemed a waiver of any other provision or of such provision on any other occasion.
+h.
+Severability.
+If any provision of the Agreement is unenforceable, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under Applicable Laws and the remaining provisions will continue in full force and effect.
+i.
+Independent Contractors.
+Each partyâs relationship to the other is that of an independent contractor, and neither party is an agent of the other.
+Any use of the term âpartnerâ herein or in any communication by or between the parties or on their individual or joint behalf to describe their relationship is intended solely in the colloquial sense of a valued business relationship, and does not indicate the existence of or an offer to enter into a legal partnership, joint agency, or other relationship involving common ownership or joint or several liability.
+Neither party will have, and will not represent to any third party that it has, any authority to act on behalf of the other party.
+j.
+Modifications.
+FullContact reserves the right to change or modify the FullContact Data Services and related APIs at any time provided the FullContact Data Service continue to function in accordance with the Agreement and API Documentation.
+FullContact additionally reserves the right to prospectively change or modify this Services Agreement.
+FullContact will notify Customer of such changes, which may include posting an announcement on the website, in-application notices, or via email.&nbsp.
+If Customer does not agree to such modifications, Customer may terminate the affected Order Form(s) by providing FullContact with written notice within thirty (30) days of FullContact posting or providing notice of the change(s).
+provided if such termination notice is not timely, then the termination right will be deemed waived as it pertains to that instance.
+Customerâs continued use of the FullContact Data Services after the thirty (30) days following FullContactâs posting or notice of the change(s) will constitute Customerâs acceptance of such change(s).
+k.
+Electronic Signature.
+Each party agrees that the electronic signatures, whether digital or encrypted, of the parties included on this Services Agreement or Order Form are intended to authenticate the writing and to have the same force and effect as manual signatures.
+Electronic signature means any electronic, symbol or process attached to or logically associated with a record and executed and adopted by a party with the intent to sign such record, including e-mail electronic signatures.
+l.
+Entire Agreement.
+The Agreement, any exhibits or addenda attached hereto, and each Order Form entered into by the parties constitutes the entire agreement between Customer and FullContact and supersedes and replaces all prior negotiations, agreements, representations, warranties, communications, emails, proposals, RFI/RFPs, statements, promises, information, arrangements, and understandings, whether oral or written, express or implied, with respect to the subject matter hereof.
+Except as expressly provided in Section 11(j) [Modifications], the Agreement cannot be modified or supplemented except in a writing expressly stated for such purpose and signed by Customer and FullContact.
+The terms on any purchase order or similar document submitted by Customer to FullContact will have no effect.
+In the event of any conflict between this Services Agreement (or any exhibits or addenda attached hereto) and the terms of the applicable Order Form, the Order Form shall control and supersede a conflicting provision in this Services Agreement.
+*****
+Exhibit A
+CUSTOMER APPLICATION AND THIRD PARTY END USER DATA USE TERMS
+The terms in this Exhibit apply to the extent Customer makes the FullContact Data or the FullContact Data Services available to Third Party End Users through a Customer Application.
+a.
+Customer Application.
+Customer is solely responsible and liable for the Customer Application and for supporting the Customer Application.
+Customer shall remain fully responsible for any breach of the terms of the Agreement by any Third Party End Users or any permitted third party through which any such Customer Application is distributed, licensed or sold.
+Customer agrees that at all times during the Subscription Term the Customer Application must provide significantly additional data, content and functionality than that provided by the FullContact Data alone.
+b.
+Customer Application Policy.
+The Customer Application shall not: (i) violate any third-party rights (including any intellectual property rights or individual privacy rights), any Applicable Laws (including any privacy laws), the Customer Privacy Policy (if applicable), or any of the restrictions set forth in Section 2(d) of the Services Agreement [Restrictions].
+(ii) contain any tortious, threatening, harmful, defamatory or intentionally misleading, pornographic, obscene, or patently offensive content.
+(iii) promote racism, bigotry, hatred, or physical harm of any kind against any group or individual.
+(iv) knowingly transmit or introduce any computer viruses, worms, or any software intended to interfere with, damage or alter a computer system or data.
+or (v) harvest, collect, gather or assemble information or data regarding any End User or other individuals, including email addresses, without their consent (collectively, the âCustomer Application Policyâ).
+FullContact shall have the right, but not the obligation, at any time to monitor the Customer Application at any time and may reject the Customer Application and immediately cease to provide FullContact Data for use in the Customer Application if it determines, in good faith, that such Customer Application does not comply with the Customer Application Policy or does not satisfy any of the other criteria or requirements set forth herein.
+Compliance with this Section is a condition of the licenses in the Agreement and a material requirement of the Agreement.
+c.
+Third Party End User Agreement.
+The Third Party End User must be subject to a written agreement (the âThird Party End User Agreementâ) that contains restrictions and limitations on the Third Party End Userâs use of the FullContact Data and FullContact Data Services consistent with the Agreement, including the following terms: (i) the Third Party End User agrees not to use any FullContact Data (whether alone or in combination with any other data) or the FullContact Data Services in any manner that violates any of the restrictions set forth in Section 2(d) of the Services Agreement [Restrictions] or the applicable Order Form.
+(ii) access to FullContact Data must be restricted to only those Third Party End Users who are using it for a Permitted Use.
+(iii) all rights to FullContact Data and FullContact Data Services automatically terminate upon termination of the applicable Subscription Term or upon the earlier termination of the applicable Order Form or this Services Agreement.
+(iv) the Third Party End User agrees to delete all FullContact Data upon termination of the license, other than any Derived Insights that has been derived from FullContact Data prior to the termination or expiration date in compliance with the terms of this Services Agreement.
+and (v) if Submitted Information is provided to FullContact by Customer, the Third Party End User grants to Customer all rights (including consents and licenses) to any Submitted Information that the Third Party End User provides to Customer that are necessary for Customer to grant FullContact the license to use its Submitted Information (as described in Section 4(a) of this Services Agreement [Submitted Information].
+d.
+Effect of Termination.
+Section 7(c) of this Services Agreement [Effect of Termination] shall apply to Third Party End Users just as it applies to Customer.
+Upon termination or expiration of the Agreement, Customer shall cause any Third Party End Users to delete, any and all FullContact Data and Customer will be required to execute the Data Deletion Acknowledgement on behalf of itself, any Third Pary End Users, and each of their Fourth Party End Users.
+*****
+Exhibit B
+THIRD PARTY END USER APPLICATION AND FOURTH PARTY END USER DATA USE TERMS
+The terms in this Exhibit apply to the extent that Third Party End Users make the FullContact Data available to Fourth Party End Users through a Third Party End User Application.
+a.
+Third Party End User Application and Application Policy.
+A âThird Party End User Applicationâ is any application offered by Third Party End User, though which any Fourth Party End User accesses and uses FullContact Data, which may include, but not limited to, through software applications or web-based services or through electronic or written files or reports.
+The Third Party End User Application shall not: (i) violate any third-party rights (including any intellectual property rights or individual privacy rights), any Applicable Laws (including any privacy laws), or any of the restrictions set forth in Section 2(d) of the Services Agreement [Restrictions] (collectively, the âThird Party End User Application Policyâ).
+A Third Party End User Application must provide significantly additional data, content and functionality than that provided by the FullContact Data alone.
+FullContact shall have the right, but not the obligation, at any time to monitor the Third Party End User Application at any time and may reject the Third Party End User Application and immediately cease to provide FullContact Data for use in the Third Party End User Application if it determines, in good faith, that such Third Party End User Application does not comply with the Customer Application Policy or does not satisfy any of the other criteria or requirements set forth herein.
+b.
+Fourth Party End User Agreement.
+Customer will ensure that Fourth Party End Users are subject to a written agreement (the âFourth Party End User Agreementâ) that contains restrictions and limitations on the Fourth Party End Userâs use of the FullContact Data and FullContact Data Services consistent with the Agreement, including the following terms: (i) the Fourth Party End User agrees not to use any FullContact Data (whether alone or in combination with any other data) or the FullContact Data Services in any manner that violates any of the restrictions set forth in Section 2(d) of the Services Agreement [Restrictions] or the applicable Order Form.
+(ii) access to FullContact Data must be restricted to only those Fourth Party End Users who are using it for a Permitted Use.
+(iii) all rights to FullContact Data and FullContact Data Services automatically terminate upon termination of the applicable Subscription Term or upon the earlier termination of the applicable Order Form or this Services Agreement.
+(iv) the Fourth Party End User agrees to delete all FullContact Data upon termination of the license, other than any Derived Insights that has been derived from FullContact Data prior to the termination or expiration date in compliance with the terms of this Services Agreement.
+(v) if Submitted Information is provided to FullContact by Customer, the Fourth Party End User grants to Customer all rights (including consents and licenses) to any Submitted Information that the Fourth Party End User provides to Customer that are necessary for Customer to grant FullContact the license to use its Submitted Information (as described in Section 4(a) of this Services Agreement [Submitted Information]).
+and (vi) to not resell or redistribute any FullContact Data.
+c.
+Cooperation.
+Upon request, Customer will provide FullContact with: (i) a copy of each Fourth Party End User Application Agreement.
+(ii) such information regarding each Fourth Party End User as may be reasonably required by FullContact to determine such Fourth Party End Userâs compliance with this Exhibit.
+and (iii) such additional assistance as may be required to enforce any of the obligations contained in this Exhibit.
+Customer assumes responsibility and liability for its Fourth Party End Users.
+Customer will immediately notify FullContact upon becoming aware of any breach of the restrictions in this Exhibit, and will use reasonable efforts to have the Third Party End User enforce the terms of each applicable Fourth Party End User Application Agreement against any Fourth Party End User on FullContactâs ultimate behalf.
+Customer shall remain fully responsible for any breach of the terms of the Agreement by any Fourth Party End User.
+d.
+Effect of Termination.
+Section 7(c) of this Services Agreement [Effect of Termination] shall apply to Fourth Party End Users just as it applies to Third Party End Users and Customer.
+Upon termination or expiration of the Agreement, Customer shall cause any Third Party End Users and its Fourth Party End Users to delete, any and all FullContact Data and Customer will be required to execute the Data Deletion Acknowledgement on behalf of itself, any Third Pary End Users, and each of their Fourth Party End Users.
+e.
+End User Claim.
+Section 8(b) of this Services Agreement [Indemnity by Customer] is amended to include an additional Claim for Losses due to or arising out of any Third Party End Userâs breach of this Exhibit, use of the End User Application, or violation of Applicable Laws.
+The obligations contained in this Section shall be in addition to and not limit the obligations contained in Section 8(b) of this Services Agreement [Indemnity by Customer].
+*****
+Exhibit C
+DATA DELETION ACKNOWLEDGMENT
+This Data Deletion Acknowledgment is being provided by Customer pursuant to the requirements of that certain Services Agreement entered into by and between Customer and FullContact, upon expiration or termination of the Agreement.
+Capitalized terms not otherwise defined in this Acknowledgement have the meanings given such terms in the Services Agreement.
+The undersigned hereby acknowledges that he/she/they has the authority to acknowledge on behalf of Customer that Customer has ceased to use and irrevocably deleted, and has caused any of its Third Party End Users and/or Fourth Party End Users to cease to use and irrevocably delete, all FullContact Data, other than data that was already in their possession prior to obtaining the same data from FullContact (as FullContact Data) under the Agreement.
+The undersigned further acknowledges that Customer will provide the necessary evidence to FullContact in order to verify the terms of this acknowledgment.
+Company name:
+Print name:
+Signature:
+Title:
+Date:
+ 
+***** Your Privacy Choices From Our Blog 
+ Empowering Cohesive Customer Experiences October 20, 2022 
+ Frictionless Fraud Prevention Made Easy with FullContactâs Verify.Match October 17, 2022 
+ Menu 
+Home
+Why Us
+Privacy
+FAQ
+MAIDs
+Identity Resolution
+MarTech + AdTech
+Identity Verification + Fraud Prevention
+Brands
+ Information 
+Support
+In the News
+Careers
+Our Team
+Resources
+Contact Us
+ Privacy and Legal 
+Our Stance on Privacy
+Privacy Policy
+Your Privacy Choices
+California Collection Notice
+Cookie and Email Preferences
+Services Agreement
+Website Terms of Use
+Security
+ About Us FullContact is a privacy-safe Identity Resolution company building trust between people and brands.
+We deliver the capabilities needed to create tailored customer experiences, improve ad targeting along with measurement as well as improve identity verification and fraud solutions by unifying data and applying insights in the moments that matter.
+
+TW
+LN
+YT
+
+Â© 2022 FullContact

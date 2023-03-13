@@ -1,0 +1,1079 @@
+
+            KeePass Help Center KeePass Home | Downloads | Translations | Plugins | Donate  Help Center Home | Forums | Awards | Links&nbsp.
+KeePass Help Center Help Center Home Forums First Steps Tutorial Acknowledgements  KeePass 1.x Installation / Portability Translations Plugins Compatibility / SxS Error Codes License  KeePass 2.x Installation / Portability Translations Plugins Compatibility / SxS Application Policy Auto-Type Obfuscation Synchronization Triggers XML Replace User Interface: Database Settings Entry Interface Options Load/Save From/To URL License  Features Auto-Type Command Line Options Configuration Field References Import / Export Integration Master Key Multiple Users Password Generator Placeholders Repair Databases Search Secure Edit Controls Security TAN Support URL Field Using Stored Passwords  FAQs and Info Administrative FAQ Technical FAQ Additional FAQ Backup  Development Customization (1.x) Customization (2.x) Scripting (2.x) Creating Plugins (1.x) Creating Plugins (2.x) Key Providers (1.x) Key Providers (2.x)  Support KeePass Donate  Legal Documentation
+Terms of use, disclaimer and privacy policy.
+
+English:
+
+Content
+Referrals and Links
+Copyright and Trademark Rights
+Privacy
+KeePass License
+Legal Validity of this Documentation
+
+
+German (Deutsch):
+
+Inhalt
+Verweise und Links
+Urheber- und Kennzeichenrecht
+Datenschutz
+KeePass-Lizenz
+Rechtswirksamkeit dieser Bestimmungen
+
+Only the German version is legally binding.
+ English Content The author reserves the right not to be responsible for the topicality,
+correctness, completeness or quality of the information provided.
+Liability claims against the author relating to material or non-material
+damage caused by the use or non-use of the information provided or by the
+use of incorrect or incomplete information are generally excluded,
+unless it can be proven that the author acted intentionally or
+with gross negligence.
+All offers are subject to change and non-binding.
+The author expressly reserves the right to change, extend or delete
+parts of the pages or the entire publication or to cease the publication
+temporarily or permanently without separate announcement.
+ Referrals and Links In the case of direct or indirect referrals and links to external
+websites that lie outside the author's area of responsibility,
+liability would only come into force if the author had knowledge of
+the content and it were technically possible and reasonable for him
+to prevent use in the case of illegal content.
+The author hereby expressly declares that at the time of setting the
+referral or link no illegal content was discernible on the referred/linked pages.
+The author has no influence whatsoever on the current and future design,
+content or authorship of the referred/linked pages.
+Therefore, he hereby expressly dissociates himself from all contents of all
+referred/linked pages which were changed after the referral or link setting.
+This statement applies to all referrals and links within the author's own
+Internet offer as well as to foreign entries in guest books, discussion
+forums, link directories, mailing lists and all other forms of databases
+set up by the author to whose content external write accesses are possible.
+For illegal, incorrect or incomplete contents and in particular for damages
+arising from the use or non-use of information presented in this way,
+only the provider of the page to which the referral/link was made is liable,
+not the person who merely refers/links to the respective publication.
+ Copyright and Trademark Rights The author endeavours to respect applicable copyrights in all publications.
+However, if in spite of all efforts a copyright is violated, we will
+remove the relevant item from the publication on notification or
+will insert information on the copyright.
+All brands and trademarks mentioned within the publication that are
+subject to property rights of third parties are subject to the
+provisions of the applicable trademark law and the property rights of the
+registered owner without restriction.
+The mere mention of a trademark does not imply that it is not protected
+by third-party rights.
+The copyright for any material (images, diagrams, sounds, videos, texts, etc.)
+created by the author is reserved.
+Any duplication or use of such material in other electronic or printed
+publications is not permitted without the author's explicit consent.
+ Privacy Controller See Imprint.
+ General Information on Data Processing If the opportunity for the input of personal or business data (e-mail
+addresses, name, addresses) is given, the input of this data takes place
+voluntarily.
+The use and payment of all offered services is permitted â
+if and so far technically possible and reasonable â without
+specification of any personal data or under specification of anonymized data
+or an alias.
+The use of published postal addresses, telephone or fax numbers and
+e-mail addresses for marketing purposes is prohibited.
+We expressly reserve the right to take legal action against senders of
+so-called spam mails who violate this prohibition. Scope of Processing of Personal Data We only process personal data of our users if this is necessary to
+provide a functional website as well as our contents and services.
+The processing of personal data of our users takes place regularly only
+after consent of the user.
+An exception applies in those cases where prior consent cannot be obtained
+for real reasons and the processing of the data is permitted by law. Legal Basis for the Processing of Personal Data 
+If we obtain the consent of the data subject for the processing of
+personal data, Art.
+6 para.
+1 lit.
+a EU General Data Protection Regulation
+(GDPR) serves as the legal basis.
+In the processing of personal data required for the performance of a
+contract to which the data subject is a party, Art.
+6 para.
+1 lit.
+b GDPR
+serves as the legal basis.
+This also applies to processing operations that are necessary to carry out
+pre-contractual measures.
+If the processing of personal data is necessary to comply with a legal
+obligation to which the controller is subject, Art.
+6 para.
+1 lit.
+c GDPR
+serves as the legal basis.
+In the event that the vital interests of the data subject or another
+natural person require the processing of personal data,
+Art.
+6 para.
+1 lit.
+d GDPR serves as the legal basis.
+If the processing is necessary for the purposes of the legitimate interests
+pursued by the controller or by a third party and if the interests,
+fundamental rights and freedoms of the data subject do not outweigh the
+former interest, Art.
+6 para.
+1 lit.
+f GDPR serves as the legal basis.
+ Data Erasure and Storage Time The personal data of the data subject will be erased or blocked as soon
+as the purpose of storage ceases to apply.
+The data may be stored beyond that if the European or national legislator
+has provided for this in EU regulations, laws or other provisions to which
+the controller is subject.
+The data will also be erased or blocked if a storage period prescribed by
+the aforementioned standards expires, unless there is a need for further
+storage of the data for the conclusion or performance of a contract.
+ Provision of the Website and Creation of Log Files Every time you visit our website, our system automatically collects data
+and information of the calling computer.
+The following data is collected:
+
+Information about the browser type and version used.
+The user's operating system.
+The user's Internet service provider.
+The IP address of the user.
+Date and time of access.
+Websites from which the user's system reaches our website.
+Websites that are accessed by the user's system via our website.
+
+The data is also stored in the log files of our system.
+This data is not stored together with other personal data of the user.
+The temporary storage of the IP address by the system is necessary to
+enable the website to be delivered to the user's computer.
+For this the IP address of the user must remain stored for the duration
+of the session.
+The data is stored in log files to ensure the functionality of the website.
+In addition, the data serves us to optimize the website and to ensure
+the security of our information technology systems.
+An evaluation of the data for marketing purposes does not take place in
+this context.
+The legal basis for the temporary storage of the data and the log files
+is Art.
+6 para.
+1 lit.
+f GDPR.
+Our legitimate interests lie in the above-mentioned purposes.
+The data will be deleted as soon as they are no longer necessary to
+achieve the purpose for which they were collected:
+
+In the case of the collection of data for the provision of the
+website, this is the case when the respective session has ended.
+In the case of storing the data in log files, this is the case
+after seven days at the latest.
+Further storage is possible.
+in this case, the IP addresses of the users are erased or anonymized,
+so that an association of the calling client is no longer possible.
+
+The collection of the data for the provision of the website and the
+storage of the data in log files is absolutely necessary for the
+operation of the website.
+Consequently, there is no possibility of objection on the part of the user.
+ Cookies Our website uses cookies.
+Cookies are text files that are stored in the browser or by the
+browser on the user's computer system.
+If a user visits a website, a cookie may be stored on the user's system.
+This cookie may contain a characteristic string that uniquely identifies
+the browser when you return to the website.
+We use cookies to make our website more user-friendly.
+Some elements of our website require that the calling browser can
+be identified even after a page change.
+The following data is stored and transmitted in the cookies:
+
+Status of the notification about the use of cookies (Cookie Consent).
+Cookie name: RwlConsent, lifetime: 1 year.
+Third-party data (see below).
+
+The purpose of using technically necessary cookies is to simplify
+the use of websites for users.
+Some functions of our website cannot be offered without the use of cookies.
+For this it is necessary that the browser is recognized even after a page change.
+We need cookies for the following applications:
+
+Remembering the status of the notification about the use of cookies (Cookie Consent).
+Third-party applications (see below).
+
+The user data collected via technically necessary cookies are not
+used to create user profiles.
+The legal basis for the processing of personal data using cookies
+is Art.
+6 para.
+1 lit.
+f GDPR.
+Our legitimate interests lie in the above-mentioned purposes.
+The user's computer stores and transmits cookies.
+Therefore, you as a user also have full control over the use of cookies.
+You can deactivate or restrict the transmission of cookies by changing
+the settings in your browser.
+Cookies that have already been saved can be erased at any time.
+This can also be done automatically.
+Please consult the documentation of your browser.
+Links to the cookie management documentations of some popular browsers:
+
+Google Chrome.
+Mozilla Firefox.
+Microsoft Internet Explorer.
+Vivaldi.
+
+If cookies are deactivated for our website, it may no longer be possible
+to use all functions of the website to the full extent.
+ Advertising We use third-party advertising companies (Google) to serve ads when you visit our
+website.
+These companies may use information (not including your name, address,
+e-mail address or telephone number) about your visits to this and other websites
+in order to provide advertisements about goods and services of interest to you.
+For more information about the methods and how you can prevent this information
+from being used by third parties, see:
+
+Google: Advertising.
+Google: How Google uses information from sites or apps
+that use our services.
+Google: How Google uses cookies.
+Google: Privacy policy.
+Google: Legal frameworks for data transfers
+(certifications, etc.).
+
+In the European Economic Area and California,
+only non-personalized advertising is displayed on our website.
+When you visit a page on our website, your browser contacts the
+third party servers.
+The third party provider obtains among other things your IP address,
+the browser type and the address (URL) of the visited page.
+The legal basis is Art.
+6 para.
+1 lit.
+f GDPR.
+our website is financed by advertising.
+ Contact Form and E-Mail Contact There is a contact form on our website, which can be used for
+electronic contact.
+When a user takes advantage of this possibility, the data entered in
+the input mask is transmitted to us and stored.
+At the time the message is sent, the current date and time are also stored.
+Alternatively, it is possible to contact us via the e-mail address provided.
+In this case, the user's personal data transmitted by e-mail is stored.
+In this context, the data is not passed on to third parties.
+The data is used only to process the contact or conversation.
+The legal basis for the processing of the data is Art.
+6 para.
+1 lit.
+f GDPR.
+Our legitimate interests lie in the above-mentioned purposes.
+If the contact is aimed at the conclusion of a contract,
+Art.
+6 para.
+1 lit.
+b GDPR is an additional legal basis.
+If a legal archiving obligation applies, the data is stored for
+the prescribed duration.
+Otherwise, the data are erased as soon as they are no longer necessary
+to achieve the purposes of their collection.
+For the personal data sent via contact form or e-mail, this is the case
+when the conversation with the user is finished.
+The conversation is finished when the circumstances indicate that the
+matter in question has been finally clarified.
+You have the possibility to object to the storage of your personal data
+at any time.
+To do this, send an appropriate e-mail to the controller.
+In this case, all data stored in the course of the contact or conversation
+will be erased without undue delay, and the conversation cannot be continued.
+ Rights of the Data Subject If your personal data is processed, you are a data subject in terms of
+the GDPR and have the following rights. Right of Access You can ask the controller to confirm whether personal data concerning
+you is processed by us.
+If such processing takes place, you can request the following information
+from the controller:
+
+the purposes of the processing;
+the categories of personal data concerned;
+the recipients or categories of recipient to whom the personal data
+have been or will be disclosed;
+the envisaged period for which the personal data will be stored,
+if possible, or otherwise the criteria used to determine that period;
+the existence of the right to request from the controller
+rectification or erasure of personal data or restriction of processing of
+personal data concerning the data subject or to object to such processing;
+the right to lodge a complaint with a supervisory authority;
+where the personal data are not collected from the data subject,
+any available information as to their source;
+the existence of automated decision-making, including profiling,
+referred to in Art.
+22 para.
+1 and 4 GDPR and, at least in those cases,
+meaningful information about the logic involved, as well as the significance
+and the envisaged consequences of such processing for the data subject.
+
+You have the right to request information as to whether the personal
+data concerning you is transferred to a third country or to an
+international organization.
+In this context, pursuant to Art.
+46 GDPR you may request to be informed
+of the appropriate safeguards relating to the transfer. Right to Rectification You have the right to rectification and/or completion if the personal
+data processed concerning you is incorrect or incomplete.
+The controller shall make the correction without undue delay. Right to Restriction of Processing Under the following conditions, you may request the restriction of the
+processing of personal data concerning you:
+
+if you contest the accuracy of the personal data, for a period
+enabling the controller to verify the accuracy of the personal data;
+the processing is unlawful and you oppose the erasure of the personal
+data and request the restriction of their use instead;
+the controller no longer needs the personal data for the purposes of
+the processing, but they are required by you for the establishment,
+exercise or defence of legal claims;
+you object to processing pursuant to Art.
+21 para.
+1 GDPR pending the
+verification whether the legitimate grounds of the controller override yours.
+
+Where processing has been restricted, your personal data shall,
+with the exception of storage, only be processed with your consent or
+for the establishment, exercise or defence of legal claims or for the
+protection of the rights of another natural or legal person or for reasons
+of important public interest of the Union or of a Member State.
+If processing has been restricted pursuant to the above conditions,
+you will be informed by the controller before the restriction is lifted. Right to Erasure 
+Erasure Obligation.
+You have the right to obtain from the controller the erasure of personal data
+concerning you without undue delay.
+The controller has the obligation to erase personal data without undue delay
+where one of the following grounds applies:
+
+The personal data are no longer necessary in relation to the purposes
+for which they were collected or otherwise processed.
+You withdraw your consent on which the processing is based (according to
+Art.
+6 para.
+1 lit.
+a or Art.
+9 para.
+2 lit.
+a GDPR), and where there is no
+other legal ground for the processing.
+You object to the processing pursuant to Art.
+21 para.
+1 GDPR and
+there are no overriding legitimate grounds for the processing, or you
+object to the processing pursuant to Art.
+21 para.
+2 GDPR.
+The personal data have been unlawfully processed.
+The personal data have to be erased for compliance with a legal
+obligation in Union or Member State law to which the controller is subject.
+The personal data have been collected in relation to the offer of
+information society services referred to in Art.
+8 para.
+1 GDPR.
+
+
+Information to Third Parties.
+Where the controller has made the personal data public and is obliged
+pursuant to Art.
+17 para.
+1 GDPR to erase the personal data, the controller,
+taking account of available technology and the cost of implementation,
+shall take reasonable steps, including technical measures, to inform
+controllers which are processing the personal data that you have requested
+the erasure by such controllers of any links to, or copy or replication of,
+those personal data.
+
+Exceptions.
+The right to erasure does not apply where processing is necessary
+
+for exercising the right of freedom of expression and information;
+for compliance with a legal obligation which requires processing by
+Union or Member State law to which the controller is subject or for
+the performance of a task carried out in the public interest or in the
+exercise of official authority vested in the controller;
+for reasons of public interest in the area of public health in
+accordance with Art.
+9 para.
+2 lit.
+h and i as well as Art.
+9 para.
+3 GDPR;
+for archiving purposes in the public interest, scientific or
+historical research purposes or statistical purposes in accordance with
+Art.
+89 para.
+1 GDPR in so far as the right referred to in
+Art.
+17 para.
+1 GDPR is likely to render impossible or seriously
+impair the achievement of the objectives of that processing;
+for the establishment, exercise or defence of legal claims.
+ Right to Notification The controller communicates any rectification or erasure of personal
+data or restriction of processing carried out in accordance with
+Art.
+16, Art.
+17 para.
+1 and Art.
+18 GDPR to each recipient to whom
+the personal data have been disclosed, unless this proves impossible
+or involves disproportionate effort.
+You have the right to request to be informed about those recipients
+by the controller. Right to Data Portability You have the right to receive the personal data concerning you,
+which you have provided to the controller, in a structured,
+commonly used and machine-readable format and have the right to
+transmit those data to another controller without hindrance from
+the controller to which the personal data have been provided, where
+
+the processing is based on consent pursuant to Art.
+6 para.
+1 lit.
+a
+or Art.
+9 para.
+2 lit.
+a GDPR or on a contract pursuant to
+Art.
+6 para.
+1 lit.
+b GDPR, and
+the processing is carried out by automated means.
+
+In exercising this right, you further have the right to have the
+personal data transmitted directly from one controller to another,
+where technically feasible.
+Freedoms and rights of others must not be affected adversely.
+The right to data portability does not apply to processing necessary
+for the performance of a task carried out in the public interest or in
+the exercise of official authority vested in the controller. Right to Object You have the right to object, on grounds relating to your particular
+situation, at any time to processing of personal data concerning you
+which is based on Art.
+6 para.
+1 lit.
+e or f GDPR,
+including profiling based on those provisions.
+The controller no longer processes your personal data unless the
+controller demonstrates compelling legitimate grounds for the processing
+which override your interests, rights and freedoms or for the
+establishment, exercise or defence of legal claims.
+Where personal data are processed for direct marketing purposes,
+you have the right to object at any time to processing of personal data
+concerning you for such marketing, which includes profiling to the
+extent that it is related to such direct marketing.
+If you object to processing for direct marketing purposes, your
+personal data is no longer processed for such purposes.
+In the context of the use of information society services, and
+notwithstanding Directive 2002/58/EC, you may exercise your right
+to object by automated means using technical specifications. Right to Withdraw the Data Protection Declaration of Consent You have the right to withdraw your consent at any time.
+The withdrawal of consent does not affect the lawfulness of processing
+based on consent before its withdrawal. Automated Individual Decision-Making, Including Profiling You have the right not to be subject to a decision based solely on
+automated processing, including profiling, which produces legal effects
+concerning you or similarly significantly affects you.
+This does not apply if the decision
+
+is necessary for entering into, or performance of, a contract between
+you and the controller;
+is authorised by Union or Member State law to which the controller
+is subject and which also lays down suitable measures to safeguard your
+rights and freedoms and legitimate interests.
+or
+is based on your explicit consent.
+
+However, these decisions are not based on special categories of
+personal data referred to in Art.
+9 para.
+1 GDPR, unless
+Art.
+9 para.
+2 lit.
+a or g GDPR applies and suitable measures to
+safeguard your rights and freedoms and legitimate interests are in place.
+In the cases 1.
+and 3., the data controller implements suitable
+measures to safeguard your rights and freedoms and legitimate interests,
+at least the right to obtain human intervention on the part of the
+controller, to express your point of view and to contest the decision. Right to Lodge a Complaint With a Supervisory Authority Without prejudice to any other administrative or judicial remedy,
+you have the right to lodge a complaint with a supervisory authority,
+in particular in the Member State of your habitual residence, place of
+work or place of the alleged infringement if you consider that the
+processing of personal data relating to you infringes the GDPR.
+The supervisory authority with which the complaint has been lodged
+informs the complainant on the progress and the outcome of the
+complaint including the possibility of a judicial remedy pursuant to
+Art.
+78 GDPR.
+ KeePass License The terms under which KeePass is distributed can be found on the
+following pages:
+KeePass 1.x License,
+KeePass 2.x License.
+See also the Acknowledgements/Credits page
+(includes third-party licenses).
+ Legal Validity of this Documentation This legal documentation is to be regarded as part of the Internet
+publication from which you were referred to this page.
+If sections or individual terms of this statement are not legal or
+correct, the content or validity of the other parts remain uninfluenced
+by this fact.
+
+ German (Deutsch) Inhalt Der Autor Ã¼bernimmt keinerlei GewÃ¤hr fÃ¼r die AktualitÃ¤t, Korrektheit,
+VollstÃ¤ndigkeit oder QualitÃ¤t der bereitgestellten Informationen.
+HaftungsansprÃ¼che gegen den Autor, welche sich auf SchÃ¤den materieller
+oder nicht-materieller Art beziehen, die durch die Nutzung oder Nichtnutzung
+der dargebotenen Informationen bzw.
+durch die Nutzung fehlerhafter
+oder unvollstÃ¤ndiger Informationen verursacht wurden, sind
+grundsÃ¤tzlich ausgeschlossen, sofern seitens des Autors kein
+nachweislich vorsÃ¤tzliches oder grob fahrlÃ¤ssiges Verschulden vorliegt.
+Alle Angebote sind freibleibend und unverbindlich.
+Der Autor behÃ¤lt es sich ausdrÃ¼cklich vor, Teile der Seiten oder das gesamte
+Angebot ohne gesonderte AnkÃ¼ndigung zu verÃ¤ndern, zu ergÃ¤nzen, zu
+lÃ¶schen oder die VerÃ¶ffentlichung zeitweise oder endgÃ¼ltig einzustellen.
+ Verweise und Links Bei direkten oder indirekten Verweisen und Links auf fremde Webseiten,
+die auÃerhalb des Verantwortungsbereiches des Autors liegen,
+wÃ¼rde eine Haftungsverpflichtung ausschlieÃlich in
+dem Fall in Kraft treten, in dem der Autor von den Inhalten Kenntnis
+hat und es ihm technisch mÃ¶glich und zumutbar wÃ¤re, die Nutzung im
+Falle rechtswidriger Inhalte zu verhindern.
+Der Autor erklÃ¤rt hiermit ausdrÃ¼cklich, dass zum Zeitpunkt der
+Verweis- bzw.
+Linksetzung keine illegalen Inhalte auf den verwiesenen/verlinkten
+Seiten erkennbar waren.
+Auf die aktuelle und zukÃ¼nftige Gestaltung,
+die Inhalte oder die Urheberschaft der verwiesenen/verlinkten Seiten
+hat der Autor keinerlei Einfluss.
+Deshalb distanziert er sich
+hiermit ausdrÃ¼cklich von allen Inhalten aller verwiesenen/verlinkten Seiten,
+die nach der Verweis- bzw.
+Linksetzung verÃ¤ndert wurden.
+Diese Feststellung gilt fÃ¼r alle innerhalb des eigenen Internetangebotes
+gesetzten Verweise und Links sowie fÃ¼r FremdeintrÃ¤ge in vom Autor
+eingerichteten GÃ¤stebÃ¼chern, Diskussionsforen, Linkverzeichnissen,
+Mailinglisten und in allen anderen Formen von Datenbanken, auf
+deren Inhalt externe Schreibzugriffe mÃ¶glich sind.
+FÃ¼r illegale,
+fehlerhafte oder unvollstÃ¤ndige Inhalte und insbesondere fÃ¼r
+SchÃ¤den, die aus der Nutzung oder Nichtnutzung solcherart
+dargebotener Informationen entstehen, haftet allein der
+Anbieter der Seite, auf welche verwiesen wurde, nicht derjenige,
+der Ã¼ber Verweise oder Links auf die jeweilige VerÃ¶ffentlichung
+lediglich verweist.
+ Urheber- und Kennzeichenrecht Der Autor ist bestrebt, in allen Publikationen geltende Urheberrechte
+zu beachten.
+Sollte es trotzdem zu einer Urheberrechtsverletzung kommen,
+werden wir das entsprechende Objekt nach Benachrichtigung aus unserer
+Publikation entfernen oder Informationen zum Urheberrecht hinzufÃ¼gen.
+Alle innerhalb des Internetangebots genannten und ggf.
+durch Dritte
+geschÃ¼tzten Marken- und Warenzeichen unterliegen uneingeschrÃ¤nkt den
+Bestimmungen des jeweils gÃ¼ltigen Kennzeichenrechts und den
+Besitzrechten der jeweiligen eingetragenen EigentÃ¼mer.
+Allein aufgrund der bloÃen Nennung ist nicht der Schluss zu ziehen,
+dass Markenzeichen nicht durch Rechte Dritter geschÃ¼tzt sind.
+Das Copyright fÃ¼r verÃ¶ffentlichte, vom Autor selbst erstellte
+Objekte (Bilder, Grafiken, Tondokumente, Videosequenzen, Texte, usw.)
+bleibt allein beim Autor der Seiten.
+Eine VervielfÃ¤ltigung oder Verwendung solcher Objekte in anderen
+elektronischen oder gedruckten Publikationen ist ohne ausdrÃ¼ckliche
+Zustimmung des Autors nicht gestattet.
+ Datenschutz Verantwortlicher Siehe Impressum.
+ Allgemeines zur Datenverarbeitung Sofern innerhalb des Internetangebotes die MÃ¶glichkeit zur
+Eingabe persÃ¶nlicher oder geschÃ¤ftlicher Daten (E-Mail-Adressen,
+Namen, Anschriften) besteht, so erfolgt die Preisgabe dieser Daten seitens
+des Nutzers auf ausdrÃ¼cklich freiwilliger Basis.
+Die Inanspruchnahme
+und Bezahlung aller angebotenen Dienste ist â soweit technisch
+mÃ¶glich und zumutbar â auch ohne Angabe solcher Daten bzw.
+unter Angabe anonymisierter Daten oder eines Pseudonyms gestattet.
+Die Nutzung der im Rahmen des Impressums oder vergleichbarer
+Angaben verÃ¶ffentlichten Kontaktdaten wie Postanschriften,
+Telefon- und Faxnummern sowie E-Mail-Adressen durch Dritte zur
+Ãbersendung von nicht ausdrÃ¼cklich angeforderten Informationen
+zu Marketing-Zwecken ist nicht gestattet.
+Rechtliche Schritte gegen die Versender von sogenannten Spam-Mails
+bei VerstÃ¶Ãen gegen dieses Verbot sind ausdrÃ¼cklich vorbehalten. Umfang der Verarbeitung personenbezogener Daten Wir verarbeiten personenbezogene Daten unserer Nutzer grundsÃ¤tzlich nur,
+soweit dies zur Bereitstellung einer funktionsfÃ¤higen Website sowie
+unserer Inhalte und Leistungen erforderlich ist.
+Die Verarbeitung
+personenbezogener Daten unserer Nutzer erfolgt regelmÃ¤Ãig nur nach
+Einwilligung des Nutzers.
+Eine Ausnahme gilt in solchen FÃ¤llen,
+in denen eine vorherige Einholung einer Einwilligung aus tatsÃ¤chlichen
+GrÃ¼nden nicht mÃ¶glich ist und die Verarbeitung der Daten durch
+gesetzliche Vorschriften gestattet ist. Rechtsgrundlage fÃ¼r die Verarbeitung personenbezogener Daten 
+Soweit wir fÃ¼r VerarbeitungsvorgÃ¤nge personenbezogener Daten eine
+Einwilligung der betroffenen Person einholen, dient Art.
+6 Abs.
+1 lit.
+a
+EU-Datenschutzgrundverordnung (DSGVO) als Rechtsgrundlage.
+Bei der Verarbeitung von personenbezogenen Daten, die zur ErfÃ¼llung eines
+Vertrages, dessen Vertragspartei die betroffene Person ist, erforderlich ist,
+dient Art.
+6 Abs.
+1 lit.
+b DSGVO als Rechtsgrundlage.
+Dies gilt auch fÃ¼r
+VerarbeitungsvorgÃ¤nge, die zur DurchfÃ¼hrung vorvertraglicher MaÃnahmen
+erforderlich sind.
+Soweit eine Verarbeitung personenbezogener Daten zur ErfÃ¼llung einer
+rechtlichen Verpflichtung erforderlich ist, der der Verantwortliche
+unterliegt, dient Art.
+6 Abs.
+1 lit.
+c DSGVO als Rechtsgrundlage.
+FÃ¼r den Fall, dass lebenswichtige Interessen der betroffenen Person oder
+einer anderen natÃ¼rlichen Person eine Verarbeitung personenbezogener Daten
+erforderlich machen, dient Art.
+6 Abs.
+1 lit.
+d DSGVO als Rechtsgrundlage.
+Ist die Verarbeitung zur Wahrung eines berechtigten Interesses des
+Verantwortlichen oder eines Dritten erforderlich und Ã¼berwiegen die Interessen,
+Grundrechte und Grundfreiheiten des Betroffenen das erstgenannte Interesse
+nicht, so dient Art.
+6 Abs.
+1 lit.
+f DSGVO als Rechtsgrundlage.
+ DatenlÃ¶schung und Speicherdauer Die personenbezogenen Daten der betroffenen Person werden gelÃ¶scht
+oder gesperrt, sobald der Zweck der Speicherung entfÃ¤llt.
+Eine Speicherung kann darÃ¼ber hinaus erfolgen, wenn dies durch den
+europÃ¤ischen oder nationalen Gesetzgeber in unionsrechtlichen Verordnungen,
+Gesetzen oder sonstigen Vorschriften, denen der Verantwortliche unterliegt,
+vorgesehen wurde.
+Eine LÃ¶schung oder Sperrung der Daten erfolgt auch dann,
+wenn eine durch die genannten Normen vorgeschriebene Speicherfrist ablÃ¤uft,
+es sei denn, dass eine Erforderlichkeit zur weiteren Speicherung der Daten
+fÃ¼r einen Vertragsabschluss oder eine VertragserfÃ¼llung besteht.
+ Bereitstellung der Website und Erstellung von Logfiles Bei jedem Aufruf unserer Internetseite erfasst unser System automatisiert
+Daten und Informationen des aufrufenden Rechners.
+Folgende Daten werden hierbei erhoben:
+
+Informationen Ã¼ber den Browsertyp und die verwendete Version.
+Das Betriebssystem des Nutzers.
+Den Internet-Service-Provider des Nutzers.
+Die IP-Adresse des Nutzers.
+Datum und Uhrzeit des Zugriffs.
+Websites, von denen das System des Nutzers auf unsere Internetseite gelangt.
+Websites, die vom System des Nutzers Ã¼ber unsere Website aufgerufen werden.
+
+Die Daten werden ebenfalls in den Logfiles unseres Systems gespeichert.
+Eine Speicherung dieser Daten zusammen mit anderen personenbezogenen Daten
+des Nutzers findet nicht statt.
+Die vorÃ¼bergehende Speicherung der IP-Adresse durch das System ist
+notwendig, um eine Auslieferung der Website an den Rechner des Nutzers zu
+ermÃ¶glichen.
+HierfÃ¼r muss die IP-Adresse des Nutzers fÃ¼r die Dauer der
+Sitzung gespeichert bleiben.
+Die Speicherung in Logfiles erfolgt, um die FunktionsfÃ¤higkeit der Website
+sicherzustellen.
+Zudem dienen uns die Daten zur Optimierung der Website und
+zur Sicherstellung der Sicherheit unserer informationstechnischen Systeme.
+Eine Auswertung der Daten zu Marketingzwecken findet in diesem Zusammenhang
+nicht statt.
+Rechtsgrundlage fÃ¼r die vorÃ¼bergehende Speicherung der Daten und der
+Logfiles ist Art.
+6 Abs.
+1 lit.
+f DSGVO.
+Unsere berechtigten Interessen liegen in den oben genannten Zwecken.
+Die Daten werden gelÃ¶scht, sobald sie fÃ¼r die Erreichung des Zweckes
+ihrer Erhebung nicht mehr erforderlich sind:
+
+Im Falle der Erfassung der Daten zur Bereitstellung der Website ist
+dies der Fall, wenn die jeweilige Sitzung beendet ist.
+Im Falle der Speicherung der Daten in Logfiles ist dies nach spÃ¤testens
+sieben Tagen der Fall.
+Eine darÃ¼berhinausgehende Speicherung ist mÃ¶glich.
+in diesem Fall werden die IP-Adressen der Nutzer gelÃ¶scht oder verfremdet,
+sodass eine Zuordnung des aufrufenden Clients nicht mehr mÃ¶glich ist.
+
+Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung
+der Daten in Logfiles ist fÃ¼r den Betrieb der Website zwingend erforderlich.
+Es besteht folglich seitens des Nutzers keine WiderspruchsmÃ¶glichkeit.
+ Cookies Unsere Website verwendet Cookies.
+Bei Cookies handelt es sich
+um Textdateien, die im Browser bzw.
+vom Browser
+auf dem Computersystem des Nutzers gespeichert werden.
+Ruft ein Nutzer eine Website auf, so kann ein Cookie auf dem
+System des Nutzers gespeichert werden.
+Dieser Cookie kann eine charakteristische Zeichenfolge enthalten,
+die eine eindeutige Identifizierung des Browsers beim
+erneuten Aufrufen der Website ermÃ¶glicht.
+Wir setzen Cookies ein, um unsere Website nutzerfreundlicher zu
+gestalten.
+Einige Elemente unserer Internetseite erfordern es,
+dass der aufrufende Browser auch nach einem Seitenwechsel
+identifiziert werden kann.
+In den Cookies werden dabei folgende Daten gespeichert und Ã¼bermittelt:
+
+Zustand der Benachrichtigung zur Verwendung von Cookies (Cookie Consent).
+Cookie-Name: RwlConsent, GÃ¼ltigkeitsdauer: 1 Jahr.
+Daten von Drittanbietern (siehe unten).
+
+Der Zweck der Verwendung technisch notwendiger Cookies ist,
+die Nutzung von Websites fÃ¼r die Nutzer zu vereinfachen.
+Einige Funktionen unserer Internetseite kÃ¶nnen ohne den Einsatz
+von Cookies nicht angeboten werden.
+FÃ¼r diese ist es erforderlich,
+dass der Browser auch nach einem Seitenwechsel wiedererkannt wird.
+FÃ¼r folgende Anwendungen benÃ¶tigen wir Cookies:
+
+Merken des Zustands der Benachrichtigung zur Verwendung von Cookies (Cookie Consent).
+Drittanbieter-Anwendungen (siehe unten).
+
+Die durch technisch notwendige Cookies erhobenen Nutzerdaten werden
+nicht zur Erstellung von Nutzerprofilen verwendet.
+Die Rechtsgrundlage fÃ¼r die Verarbeitung personenbezogener Daten
+unter Verwendung von Cookies ist Art.
+6 Abs.
+1 lit.
+f DSGVO.
+Unsere berechtigten Interessen liegen in den oben genannten Zwecken.
+Cookies werden auf dem Rechner des Nutzers gespeichert und von diesem
+Ã¼bermittelt.
+Daher haben Sie als Nutzer auch die volle
+Kontrolle Ã¼ber die Verwendung von Cookies.
+Durch eine Ãnderung der
+Einstellungen in Ihrem Browser kÃ¶nnen Sie die Ãbertragung von
+Cookies deaktivieren oder einschrÃ¤nken.
+Bereits gespeicherte Cookies
+kÃ¶nnen jederzeit gelÃ¶scht werden.
+Dies kann auch automatisiert erfolgen.
+Bitte konsultieren Sie die Dokumentation Ihres Browsers.
+Links zu den Cookie-Management-Dokumentationen einiger gÃ¤ngiger Browser:
+
+Google Chrome.
+Mozilla Firefox.
+Microsoft Internet Explorer.
+Vivaldi.
+
+Werden Cookies fÃ¼r unsere Website deaktiviert, kÃ¶nnen mÃ¶glicherweise
+nicht mehr alle Funktionen der Website vollumfÃ¤nglich genutzt werden.
+ Werbung Wir greifen auf Drittanbieter (Google) zurÃ¼ck, um Anzeigen zu schalten,
+wenn Sie unsere Website besuchen.
+Diese Unternehmen nutzen mÃ¶glicherweise
+Informationen (dies schlieÃt nicht Ihren Namen, Ihre Adresse,
+E-Mail-Adresse oder Telefonnummer ein) zu Ihren Besuchen dieser und anderer
+Websites, damit Anzeigen zu Produkten und Diensten geschaltet werden
+kÃ¶nnen, die Sie interessieren.
+Weitere Informationen Ã¼ber die Methoden und darÃ¼ber, welche MÃ¶glichkeiten
+Sie haben, damit diese Informationen nicht von den Drittanbietern
+verwendet werden kÃ¶nnen, finden Sie hier:
+
+Google: Werbung.
+Google: Wie wir Daten von Websites oder Apps verwenden,
+auf bzw.
+in denen unsere Dienste genutzt werden.
+Google: So verwendet Google Cookies.
+Google: DatenschutzerklÃ¤rung.
+Google: Rechtliche Rahmenbedingungen fÃ¼r DatenÃ¼bermittlungen
+(Zertifizierungen, usw.).
+
+Im EuropÃ¤ischen Wirtschaftsraum und in Kalifornien
+wird auf unserer Website nur nicht-personalisierte Werbung angezeigt.
+Beim Aufruf einer Seite unserer Website kontaktiert Ihr Browser
+die Server des Drittanbieters.
+hierbei erfÃ¤hrt der Drittanbieter unter anderem
+Ihre IP-Adresse, den Browsertyp und die Adresse (URL) der aufgerufenen Seite.
+Die Rechtsgrundlage ist Art.
+6 Abs.
+1 lit.
+f DSGVO.
+unsere Website wird durch die Werbung finanziert.
+ Kontaktformular und E-Mail-Kontakt Auf unserer Internetseite ist ein Kontaktformular vorhanden,
+welches fÃ¼r die elektronische Kontaktaufnahme genutzt werden kann.
+Nimmt ein Nutzer diese MÃ¶glichkeit wahr, so werden die in der
+Eingabemaske eingegebenen Daten an uns Ã¼bermittelt und gespeichert.
+Zum Zeitpunkt der Absendung der Nachricht werden zudem das aktuelle
+Datum und die aktuelle Uhrzeit gespeichert.
+Alternativ ist eine Kontaktaufnahme Ã¼ber die bereitgestellte
+E-Mail-Adresse mÃ¶glich.
+In diesem Fall werden die mit der E-Mail
+Ã¼bermittelten personenbezogenen Daten des Nutzers gespeichert.
+Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte.
+Die Daten dienen allein zur Bearbeitung der Kontaktaufnahme bzw.
+Konversation.
+Die Rechtsgrundlage fÃ¼r die Verarbeitung der Daten ist
+Art.
+6 Abs.
+1 lit.
+f DSGVO.
+Unsere berechtigten Interessen liegen in den oben genannten Zwecken.
+Zielt der Kontakt auf den Abschluss eines Vertrages ab, so ist
+Art.
+6 Abs.
+1 lit.
+b DSGVO eine zusÃ¤tzliche Rechtsgrundlage.
+Falls eine gesetzliche Archivierungspflicht gilt, werden die Daten
+fÃ¼r die vorgeschriebene Dauer gespeichert.
+Anderenfalls werden die Daten gelÃ¶scht, sobald sie fÃ¼r die Erreichung der Zwecke
+ihrer Erhebung nicht mehr erforderlich sind.
+FÃ¼r die personenbezogenen Daten,
+die per Kontaktformular oder E-Mail Ã¼bersandt wurden, ist dies dann der Fall,
+wenn die jeweilige Konversation mit dem Nutzer beendet ist.
+Beendet ist die Konversation dann, wenn sich aus den UmstÃ¤nden entnehmen
+lÃ¤sst, dass der betroffene Sachverhalt abschlieÃend geklÃ¤rt ist.
+Sie haben jederzeit die MÃ¶glichkeit, der Speicherung Ihrer
+personenbezogenen Daten zu widersprechen.
+Senden Sie dazu eine entsprechende E-Mail an den Verantwortlichen.
+In diesem Fall werden alle Daten, die im Zuge der Kontaktaufnahme bzw.
+Konversation gespeichert wurden, unverzÃ¼glich gelÃ¶scht, und
+die Konversation kann nicht fortgefÃ¼hrt werden.
+ Rechte der betroffenen Person Werden personenbezogene Daten von Ihnen verarbeitet, sind Sie Betroffener
+im Sinne der DSGVO und es stehen Ihnen die folgenden Rechte zu. Auskunftsrecht Sie kÃ¶nnen von dem Verantwortlichen eine BestÃ¤tigung darÃ¼ber verlangen,
+ob personenbezogene Daten, die Sie betreffen, von uns verarbeitet werden.
+Liegt eine solche Verarbeitung vor, kÃ¶nnen Sie von dem Verantwortlichen
+Ã¼ber folgende Informationen Auskunft verlangen:
+
+die Verarbeitungszwecke;
+die Kategorien von personenbezogenen Daten, welche verarbeitet werden;
+die EmpfÃ¤nger bzw.
+die Kategorien von EmpfÃ¤ngern, gegenÃ¼ber denen die Sie
+betreffenden personenbezogenen Daten offengelegt wurden oder noch offengelegt werden;
+die geplante Dauer der Speicherung der Sie betreffenden personenbezogenen Daten
+oder, falls konkrete Angaben hierzu nicht mÃ¶glich sind, Kriterien fÃ¼r die
+Festlegung der Speicherdauer;
+das Bestehen eines Rechts auf Berichtigung oder LÃ¶schung der Sie
+betreffenden personenbezogenen Daten, eines Rechts auf EinschrÃ¤nkung der
+Verarbeitung durch den Verantwortlichen oder eines Widerspruchsrechts
+gegen diese Verarbeitung;
+das Bestehen eines Beschwerderechts bei einer AufsichtsbehÃ¶rde;
+alle verfÃ¼gbaren Informationen Ã¼ber die Herkunft der Daten, wenn die
+personenbezogenen Daten nicht bei der betroffenen Person erhoben werden;
+das Bestehen einer automatisierten Entscheidungsfindung einschlieÃlich
+Profiling gemÃ¤Ã Art.
+22 Abs.
+1 und 4 DSGVO und â zumindest in diesen FÃ¤llen â
+aussagekrÃ¤ftige Informationen Ã¼ber die involvierte Logik sowie die Tragweite
+und die angestrebten Auswirkungen einer derartigen Verarbeitung fÃ¼r die
+betroffene Person.
+
+Ihnen steht das Recht zu, Auskunft darÃ¼ber zu verlangen, ob die Sie
+betreffenden personenbezogenen Daten in ein Drittland oder an eine
+internationale Organisation Ã¼bermittelt werden.
+In diesem Zusammenhang kÃ¶nnen
+Sie verlangen, gemÃ¤Ã Art.
+46 DSGVO Ã¼ber die geeigneten Garantien im Zusammenhang
+mit der Ãbermittlung unterrichtet zu werden. Recht auf Berichtigung Sie haben das Recht auf Berichtigung und/oder VervollstÃ¤ndigung,
+sofern die verarbeiteten personenbezogenen Daten, die Sie betreffen,
+unrichtig oder unvollstÃ¤ndig sind.
+Der Verantwortliche hat die Berichtigung unverzÃ¼glich vorzunehmen. Recht auf EinschrÃ¤nkung der Verarbeitung Unter den folgenden Voraussetzungen kÃ¶nnen Sie die EinschrÃ¤nkung der
+Verarbeitung der Sie betreffenden personenbezogenen Daten verlangen:
+
+wenn Sie die Richtigkeit der Sie betreffenden personenbezogenen Daten fÃ¼r
+eine Dauer bestreiten, die es dem Verantwortlichen ermÃ¶glicht, die Richtigkeit
+der personenbezogenen Daten zu Ã¼berprÃ¼fen;
+die Verarbeitung unrechtmÃ¤Ãig ist und Sie die LÃ¶schung der
+personenbezogenen Daten ablehnen und stattdessen die EinschrÃ¤nkung der
+Nutzung der personenbezogenen Daten verlangen;
+der Verantwortliche die personenbezogenen Daten fÃ¼r die Zwecke der
+Verarbeitung nicht lÃ¤nger benÃ¶tigt, Sie diese jedoch zur Geltendmachung,
+AusÃ¼bung oder Verteidigung von RechtsansprÃ¼chen benÃ¶tigen;
+wenn Sie Widerspruch gegen die Verarbeitung gemÃ¤Ã Art.
+21 Abs.
+1 DSGVO
+eingelegt haben und noch nicht feststeht, ob die berechtigten GrÃ¼nde des
+Verantwortlichen gegenÃ¼ber Ihren GrÃ¼nden Ã¼berwiegen.
+
+Wurde die Verarbeitung der Sie betreffenden personenbezogenen Daten
+eingeschrÃ¤nkt, dÃ¼rfen diese Daten â von ihrer Speicherung abgesehen â nur
+mit Ihrer Einwilligung oder zur Geltendmachung, AusÃ¼bung oder Verteidigung
+von RechtsansprÃ¼chen oder zum Schutz der Rechte einer anderen natÃ¼rlichen
+oder juristischen Person oder aus GrÃ¼nden eines wichtigen Ã¶ffentlichen
+Interesses der Union oder eines Mitgliedstaats verarbeitet werden.
+Wurde die Verarbeitung nach den o.g.
+Voraussetzungen eingeschrÃ¤nkt,
+werden Sie von dem Verantwortlichen unterrichtet bevor die
+EinschrÃ¤nkung aufgehoben wird. Recht auf LÃ¶schung 
+LÃ¶schungspflicht.
+Sie kÃ¶nnen von dem Verantwortlichen verlangen, dass die Sie betreffenden
+personenbezogenen Daten unverzÃ¼glich gelÃ¶scht werden.
+Der Verantwortliche ist verpflichtet, diese Daten unverzÃ¼glich zu lÃ¶schen,
+sofern einer der folgenden GrÃ¼nde zutrifft:
+
+Die Sie betreffenden personenbezogenen Daten sind fÃ¼r die Zwecke, fÃ¼r
+die sie erhoben oder auf sonstige Weise verarbeitet wurden, nicht mehr notwendig.
+Sie widerrufen Ihre Einwilligung, auf die sich die Verarbeitung (gemÃ¤Ã
+Art.
+6 Abs.
+1 lit.
+a oder Art.
+9 Abs.
+2 lit.
+a DSGVO) stÃ¼tzte, und es fehlt
+an einer anderweitigen Rechtsgrundlage fÃ¼r die Verarbeitung.
+Sie legen gemÃ¤Ã Art.
+21 Abs.
+1 DSGVO Widerspruch gegen die Verarbeitung
+ein und es liegen keine vorrangigen berechtigten GrÃ¼nde fÃ¼r die Verarbeitung vor,
+oder Sie legen gemÃ¤Ã Art.
+21 Abs.
+2 DSGVO Widerspruch gegen die Verarbeitung ein.
+Die Sie betreffenden personenbezogenen Daten wurden unrechtmÃ¤Ãig verarbeitet.
+Die LÃ¶schung der Sie betreffenden personenbezogenen Daten ist zur ErfÃ¼llung
+einer rechtlichen Verpflichtung nach dem Unionsrecht oder dem Recht der
+Mitgliedstaaten erforderlich, dem der Verantwortliche unterliegt.
+Die Sie betreffenden personenbezogenen Daten wurden in Bezug auf angebotene
+Dienste der Informationsgesellschaft gemÃ¤Ã Art.
+8 Abs.
+1 DSGVO erhoben.
+
+
+Information an Dritte.
+Hat der Verantwortliche die Sie betreffenden personenbezogenen Daten
+Ã¶ffentlich gemacht und ist er gemÃ¤Ã Art.
+17 Abs.
+1 DSGVO zu deren LÃ¶schung
+verpflichtet, so trifft er unter BerÃ¼cksichtigung der verfÃ¼gbaren Technologie
+und der Implementierungskosten angemessene MaÃnahmen, auch technischer Art,
+um fÃ¼r die Datenverarbeitung Verantwortliche, die die personenbezogenen Daten
+verarbeiten, darÃ¼ber zu informieren, dass Sie als betroffene Person von ihnen
+die LÃ¶schung aller Links zu diesen personenbezogenen Daten oder von Kopien
+oder Replikationen dieser personenbezogenen Daten verlangt haben.
+
+Ausnahmen.
+Das Recht auf LÃ¶schung besteht nicht, soweit die Verarbeitung erforderlich ist
+
+zur AusÃ¼bung des Rechts auf freie MeinungsÃ¤uÃerung und Information;
+zur ErfÃ¼llung einer rechtlichen Verpflichtung, die die Verarbeitung
+nach dem Recht der Union oder der Mitgliedstaaten, dem der Verantwortliche
+unterliegt, erfordert, oder zur Wahrnehmung einer Aufgabe, die im Ã¶ffentlichen
+Interesse liegt oder in AusÃ¼bung Ã¶ffentlicher Gewalt erfolgt, die dem
+Verantwortlichen Ã¼bertragen wurde;
+aus GrÃ¼nden des Ã¶ffentlichen Interesses im Bereich der Ã¶ffentlichen
+Gesundheit gemÃ¤Ã Art.
+9 Abs.
+2 lit.
+h und i sowie Art.
+9 Abs.
+3 DSGVO;
+fÃ¼r im Ã¶ffentlichen Interesse liegende Archivzwecke, wissenschaftliche
+oder historische Forschungszwecke oder fÃ¼r statistische Zwecke gemÃ¤Ã
+Art.
+89 Abs.
+1 DSGVO, soweit das unter Art.
+17 Abs.
+1 DSGVO genannte Recht
+voraussichtlich die Verwirklichung der Ziele dieser Verarbeitung unmÃ¶glich
+macht oder ernsthaft beeintrÃ¤chtigt;
+zur Geltendmachung, AusÃ¼bung oder Verteidigung von RechtsansprÃ¼chen.
+ Recht auf Unterrichtung Haben Sie das Recht auf Berichtigung, LÃ¶schung oder EinschrÃ¤nkung der
+Verarbeitung gegenÃ¼ber dem Verantwortlichen geltend gemacht, ist dieser
+verpflichtet, allen EmpfÃ¤ngern, denen die Sie betreffenden personenbezogenen
+Daten offengelegt wurden, diese Berichtigung oder LÃ¶schung der Daten oder
+EinschrÃ¤nkung der Verarbeitung mitzuteilen, es sei denn, dies erweist sich
+als unmÃ¶glich oder ist mit einem unverhÃ¤ltnismÃ¤Ãigen Aufwand verbunden.
+Ihnen steht gegenÃ¼ber dem Verantwortlichen das Recht zu, Ã¼ber diese
+EmpfÃ¤nger unterrichtet zu werden. Recht auf DatenÃ¼bertragbarkeit Sie haben das Recht, die Sie betreffenden personenbezogenen Daten,
+die Sie dem Verantwortlichen bereitgestellt haben, in einem strukturierten,
+gÃ¤ngigen und maschinenlesbaren Format zu erhalten.
+AuÃerdem haben Sie das
+Recht diese Daten einem anderen Verantwortlichen ohne Behinderung durch den
+Verantwortlichen, dem die personenbezogenen Daten bereitgestellt wurden,
+zu Ã¼bermitteln, sofern
+
+die Verarbeitung auf einer Einwilligung gemÃ¤Ã Art.
+6 Abs.
+1 lit.
+a DSGVO
+oder Art.
+9 Abs.
+2 lit.
+a DSGVO oder auf einem Vertrag gemÃ¤Ã
+Art.
+6 Abs.
+1 lit.
+b DSGVO beruht und
+die Verarbeitung mithilfe automatisierter Verfahren erfolgt.
+
+In AusÃ¼bung dieses Rechts haben Sie ferner das Recht, zu erwirken,
+dass die Sie betreffenden personenbezogenen Daten direkt von einem
+Verantwortlichen einem anderen Verantwortlichen Ã¼bermittelt werden,
+soweit dies technisch machbar ist.
+Freiheiten und Rechte anderer Personen
+dÃ¼rfen hierdurch nicht beeintrÃ¤chtigt werden.
+Das Recht auf DatenÃ¼bertragbarkeit gilt nicht fÃ¼r eine Verarbeitung
+personenbezogener Daten, die fÃ¼r die Wahrnehmung einer Aufgabe erforderlich
+ist, die im Ã¶ffentlichen Interesse liegt oder in AusÃ¼bung Ã¶ffentlicher
+Gewalt erfolgt, die dem Verantwortlichen Ã¼bertragen wurde. Widerspruchsrecht Sie haben das Recht, aus GrÃ¼nden, die sich aus Ihrer besonderen
+Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden
+personenbezogenen Daten, die aufgrund von Art.
+6 Abs.
+1 lit.
+e oder f DSGVO
+erfolgt, Widerspruch einzulegen.
+dies gilt auch fÃ¼r ein auf diese
+Bestimmungen gestÃ¼tztes Profiling.
+Der Verantwortliche verarbeitet die Sie betreffenden personenbezogenen Daten
+nicht mehr, es sei denn, er kann zwingende schutzwÃ¼rdige GrÃ¼nde fÃ¼r die
+Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten
+Ã¼berwiegen, oder die Verarbeitung dient der Geltendmachung, AusÃ¼bung oder
+Verteidigung von RechtsansprÃ¼chen.
+Werden die Sie betreffenden personenbezogenen Daten verarbeitet,
+um Direktwerbung zu betreiben, haben Sie das Recht, jederzeit Widerspruch
+gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten zum
+Zwecke derartiger Werbung einzulegen.
+dies gilt auch fÃ¼r das Profiling,
+soweit es mit solcher Direktwerbung in Verbindung steht.
+Widersprechen Sie der Verarbeitung fÃ¼r Zwecke der Direktwerbung,
+so werden die Sie betreffenden personenbezogenen Daten nicht mehr fÃ¼r diese
+Zwecke verarbeitet.
+Sie haben die MÃ¶glichkeit, im Zusammenhang mit der Nutzung von
+Diensten der Informationsgesellschaft â ungeachtet der Richtlinie
+2002/58/EG â Ihr Widerspruchsrecht mittels automatisierter Verfahren
+auszuÃ¼ben, bei denen technische Spezifikationen verwendet werden. Recht auf Widerruf der datenschutzrechtlichen EinwilligungserklÃ¤rung Sie haben das Recht, Ihre datenschutzrechtliche EinwilligungserklÃ¤rung
+jederzeit zu widerrufen.
+Durch den Widerruf der Einwilligung wird die
+RechtmÃ¤Ãigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten
+Verarbeitung nicht berÃ¼hrt. Automatisierte Entscheidung im Einzelfall einschlieÃlich Profiling Sie haben das Recht, nicht einer ausschlieÃlich auf einer
+automatisierten Verarbeitung â einschlieÃlich Profiling â beruhenden
+Entscheidung unterworfen zu werden, die Ihnen gegenÃ¼ber rechtliche Wirkung
+entfaltet oder Sie in Ã¤hnlicher Weise erheblich beeintrÃ¤chtigt.
+Dies gilt nicht, wenn die Entscheidung
+
+fÃ¼r den Abschluss oder die ErfÃ¼llung eines Vertrags zwischen Ihnen
+und dem Verantwortlichen erforderlich ist;
+aufgrund von Rechtsvorschriften der Union oder der Mitgliedstaaten,
+denen der Verantwortliche unterliegt, zulÃ¤ssig ist und diese Rechtsvorschriften
+angemessene MaÃnahmen zur Wahrung Ihrer Rechte und Freiheiten sowie Ihrer
+berechtigten Interessen enthalten.
+oder
+mit Ihrer ausdrÃ¼cklichen Einwilligung erfolgt.
+
+Allerdings dÃ¼rfen diese Entscheidungen nicht auf besonderen Kategorien
+personenbezogener Daten nach Art.
+9 Abs.
+1 DSGVO beruhen,
+sofern nicht Art.
+9 Abs.
+2 lit.
+a oder g DSGVO gilt und angemessene MaÃnahmen
+zum Schutz der Rechte und Freiheiten sowie Ihrer berechtigten Interessen getroffen wurden.
+Hinsichtlich der in 1.
+und 3.
+genannten FÃ¤lle trifft der
+Verantwortliche angemessene MaÃnahmen, um die Rechte und Freiheiten sowie
+Ihre berechtigten Interessen zu wahren, wozu mindestens das Recht auf
+Erwirkung des Eingreifens einer Person seitens des Verantwortlichen,
+auf Darlegung des eigenen Standpunkts und auf Anfechtung der Entscheidung gehÃ¶rt. Recht auf Beschwerde bei einer AufsichtsbehÃ¶rde Unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen
+Rechtsbehelfs steht Ihnen das Recht auf Beschwerde bei einer AufsichtsbehÃ¶rde,
+insbesondere in dem Mitgliedstaat ihres Aufenthaltsorts, ihres Arbeitsplatzes
+oder des Orts des mutmaÃlichen VerstoÃes, zu, wenn Sie der Ansicht sind,
+dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen
+die DSGVO verstÃ¶Ãt.
+Die AufsichtsbehÃ¶rde, bei der die Beschwerde eingereicht wurde, unterrichtet
+den BeschwerdefÃ¼hrer Ã¼ber den Stand und die Ergebnisse der Beschwerde
+einschlieÃlich der MÃ¶glichkeit eines gerichtlichen Rechtsbehelfs nach Art.
+78 DSGVO.
+ KeePass-Lizenz Die Bestimmungen, unter denen KeePass vertrieben wird, sind auf den
+folgenden Seiten zu finden:
+KeePass 1.x Lizenz,
+KeePass 2.x Lizenz.
+Siehe auch die Danksagungen-Seite
+(enthÃ¤lt Lizenzen von Dritten).
+ Rechtswirksamkeit dieser Bestimmungen Diese rechtlichen Bestimmungen sind als Teil des Internetangebotes
+zu betrachten, von dem aus auf diese Seite verwiesen wurde.
+Sofern Teile oder einzelne Formulierungen dieses Textes der
+geltenden Rechtslage nicht, nicht mehr oder nicht vollstÃ¤ndig
+entsprechen sollten, bleiben die Ã¼brigen Teile des Dokumentes
+in ihrem Inhalt und ihrer GÃ¼ltigkeit davon unberÃ¼hrt.
+
+
+
+Copyright Â© 2003-2021 Dominik Reichl.
+[Legal Contact / Imprint]
+[Terms &amp.
+Privacy]
+[Acknowledgements]
+[Donate]
+

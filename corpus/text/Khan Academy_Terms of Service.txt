@@ -1,0 +1,491 @@
+
+        Khan Academy Terms of ServiceLast Updated: August 1, 2019
+Welcome, and thank you for your interest in Khan Academy, Inc., a 501(c)(3) organization ("Khan Academy," "we," "us," or "our"), which operates the web site located athttp://khanacademy.org(the "Website") and related application programming interfaces ("APIs"), mobile applications and online services, including, but not limited to, the Duck Duck Moose website and related applications, any Downloadable Content (as defined below), and any other products and services that Company may provide now or in the future (collectively, the "Services").
+The following Terms of Service are a legal contract between you ("you" and "your") and Khan Academy regarding your use of the Services.
+Visitors and users of the Services are referred to individually as "User" and collectively as "Users".
+PLEASE READ THE FOLLOWING TERMS OF SERVICE CAREFULLY.
+BY REGISTERING FOR, ACCESSING, BROWSING, OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE FOLLOWING TERMS AND CONDITIONS, INCLUDING THE KHAN ACADEMY PRIVACY POLICY AND ANY ADDITIONAL GUIDELINES (AS DEFINED BELOW) (COLLECTIVELY, THE "TERMS").
+IF YOU ARE A PARENT OR GUARDIAN AND YOU PROVIDE CONSENT FOR YOUR CHILD TO REGISTER WITH THE WEBSITE, YOU AGREE TO BE BOUND BY THESE TERMS OF SERVICE IN RESPECT OF SUCH CHILD'S USE OF THE WEBSITE.
+IF YOU ARE SCHOOL PERSONNEL (AS DEFINED BELOW) AND YOU REGISTER A SCHOOL USER (AS DEFINED BELOW), YOU AGREE, ON BEHALF OF YOUR INSTITUTION, THAT THE SCHOOL USER IS BOUND BY THE TERMS, UNLESS YOUR INSTITUTION HAS A SEPARATE WRITTEN SERVICE AGREEMENT WITH KHAN ACADEMY THAT ACCEPTS THESE TERMS ON BEHALF OF SCHOOL USERS.
+PLEASE NOTE THAT THESE TERMS INCLUDE A BINDING ARBITRATION PROVISION, INCLUDING A CLASS ACTION WAIVER.
+BY AGREEING TO BINDING ARBITRATION, TO THE EXTENT PERMITTED UNDER APPLICABLE LAW, YOU WAIVE YOUR RIGHT TO LITIGATE DISPUTES THROUGH A COURT AND TO HAVE A JUDGE OR JURY DECIDE YOUR CASE.Table of Contents:
+1.
+Eligibility.
+Accounts.
+2.
+Privacy Policy.
+3.
+API Terms.
+Other Guidelines.
+4.
+Modification of the Terms.
+5.
+User Content License Grant.
+6.
+Digital Millennium Copyright Act.
+7.
+Proprietary Materials.
+Licenses.
+8.
+Prohibited Conduct.
+9.
+Third-Party Sites, Products and Services.
+Links.
+10.
+Term and Termination.
+11.
+Representations and Warranties.
+12.
+Indemnification.
+13.
+Disclaimers.
+No Warranties.
+14.
+Limitation of Liability and Damages.
+15.
+Miscellaneous (including Dispute Resolution and Arbitration).
+
+
+1.
+Eligibility.
+Accounts.
+THE WEBSITE IS NOT AVAILABLE TO (A) ANY USERS PREVIOUSLY SUSPENDED OR REMOVED FROM THE WEBSITE BY KHAN ACADEMY OR (B) ANY PERSONS UNDER THE AGE OF 13 WHOSE REGISTRATION HAS NOT BEEN APPROVED BY A LEGAL PARENT OR GUARDIAN (OR, FOR SCHOOL ACCOUNTS, BY SCHOOL PERSONNEL AS PERMITTED UNDER THE TERMS).
+1.1 By clicking the "I Agree" button or by otherwise using or registering an account for the Services, you represent that (i) you are a US resident at least 13 years of age, or (ii) you are not a US resident, and are of legal age of consent to open an account under the laws of your country of residence, or (iii) your use of the Services has been approved by your parent or legal guardian, or by your school or teacher for school use.
+You also represent that you have not been previously suspended or removed from the Services by Khan Academy, and that your registration and your use of the Services is in compliance with any and all applicable laws.
+1.2 Account.
+In order to use certain features of the Services, you must register for an account.
+You may be asked to provide a password in connection with your account.
+You are solely responsible for maintaining the confidentiality of your account and password, and you agree to accept responsibility for all activities that occur under your account or password.
+You agree that the information you provide to Khan Academy, whether at registration or at any other time, will be true, accurate, current, and complete.
+You also agree that you will ensure that this information is kept accurate and up-to-date at all times.
+If you have reason to believe that your account is no longer secure (e.g., in the event of a loss, theft, or unauthorized disclosure or use of your account ID or password), then you agree to immediately notify Khan Academy at khan.co/KA-support.
+You may be liable for the losses incurred by Khan Academy or others due to any unauthorized use of your Services account.
+1.3 Integrated Service.
+Khan Academy may permit you to register for the Services through, or otherwise associate your Khan Academy account with, certain third party social networking or integrated services, such as Facebook Connect and Google ("Integrated Service").
+By registering for the Services using (or otherwise granting access to) an Integrated Service, you agree that Khan Academy may access your Integrated Service's account information, and may store and use certain information already associated with the Integrated Service consistent with our Privacy Policy, and you agree to any and all terms and conditions of the Integrated Service regarding your use of the Services via the Integrated Service.
+You may revoke Khan Academy's access to your account on any Integrated Service at any time by updating the appropriate account settings of the respective Integrated Service.
+You should check your privacy settings on each Integration Service to understand and change the information sent to us through each Integration Service.
+You agree that any Integrated Service is a Reference Site (as defined below) and you are solely responsible for your interactions with the Integrated Service as a result of accessing the Services through the Integrated Service.
+Khan Academy does not control the practices of Integrated Services, and you are advised to read the Privacy Policy and terms and conditions of any Integrated Service that you use to understand their practices.
+1.4 Child User.
+If you are under the age of 13 (a "Child User"), you may not create or register an account for the Services without consent and approval from your legal parent or guardian, or from your school as provided in Section 1.6 ("School Use").
+If you are under the age of 18, you represent that your parent or legal guardian has reviewed and agreed to the Terms on your behalf.
+Except for accounts created for School Use as provided in Section 1.6, a Child User that begins the registration process for himself or herself without a Parent User (as defined below) may have the registration process restricted until a parent approves or assumes responsibility for the Child User account.
+A Child User may use the Services if registered through certain educational organizations or, in certain cases, by School Personnel that have entered into a relationship directly with Khan Academy, so long as the education organization has obtained parent or guardian consent, or has complied with an exemption to parent consent requirements under applicable law.
+A Child User will only be permitted to use the Services for so long as Khan Academy reasonably believes that such access has been consented to by the Child User's parent or guardian, or by School Consent (as discussed in Section 1.6, "School Use").
+1.5 Parent User.
+If you are at least 18 years of age and you are the legal parent or guardian of a child that seeks to register as a Child User of the Services, you may register a parent account on the Services ("Parent User").
+Through a Parent User account, you may create, register, manage and approve Child User accounts only for your own child(ren) or child(ren) for whom you are a legal guardian.
+IF YOU REGISTER, APPROVE OR CONSENT TO THE REGISTRATION OF, OR OTHERWISE ASSUME RESPONSIBILITY FOR ANY CHILD USER, YOU REPRESENT AND WARRANT THAT YOU ARE SUCH CHILD USER'S LEGAL PARENT OR GUARDIAN AND YOU AGREE TO BE BOUND BY THE TERMS ON BEHALF OF SUCH CHILD USER, INCLUDING WITHOUT LIMITATION BEING LIABLE FOR ALL USE OF THE WEBSITE BY THE CHILD USER.
+You acknowledge that Khan Academy may choose, but is not obligated, to make any inquiries, either directly or through third parties, that Khan Academy deems necessary to validate your registration information, including without limitation engaging third parties to provide verification services.
+Khan Academy reserves all rights to take legal actions against anyone who misrepresents personal information or is otherwise untruthful about their identity.
+NOTWITHSTANDING THE FOREGOING, YOU ACKNOWLEDGE THAT KHAN ACADEMY CANNOT GUARANTEE THE ACCURACY OF ANY INFORMATION SUBMITTED BY ANY USER AND KHAN ACADEMY IS NOT OBLIGATED TO VERIFY THE IDENTITY OF ANY USER, INCLUDING ANY USER'S CLAIM TO BE A PARENT USER, OR TO VERIFY THAT A PARENT IDENTIFIED BY A CHILD USER OR OTHER PARTY DURING REGISTRATION IS SUCH CHILD USER'S ACTUAL PARENT OR GUARDIAN.
+A Parent User account, along with all associated Child User accounts, may be terminated by Khan Academy at any time and without warning for any failure to abide by these Terms.
+1.6 School Use.
+Khan Academy may make available certain features and tools that permit Users registered as teachers, school leaders, aides, or other similar school personnel ("School Personnel") to work with students and other Users through the Services in order to provide such students with tutorial, educational and other education-related services as part of the school's curriculum, and to review and evaluate educational achievement and progress of such students.
+If you are School Personnel accessing the Services on behalf of a school, school district, or other similar educational institution (an "Institution"), the following terms apply to you:
+(a) Limitations on Use.
+The Services and Website are provided to you for educational purposes as part of the school curriculum.
+You must use the Services and the Website in compliance with all applicable laws, rules, and regulations.
+You agree not to reproduce, duplicate, copy, sell, resell or otherwise exploit for any commercial purpose, any portion of the Services, the Website, or access to the Services or Website.
+(b) Responsibility for Consent and Notices.
+You and/or the Institution assume sole responsibility for obtaining any consents required from parents or guardians, and for providing appropriate disclosures to School Users and their parents regarding the School Users' use of the Services, our Terms, and our Privacy Policy.
+You agree to be bound by these Terms on behalf of the School User, for so long as the School User account is not transferred to or assumed by a valid Parent User account or personal account for a Student of eligible age.
+IF YOU ARE SCHOOL PERSONNEL AND YOU REGISTER AN ACCOUNT FOR A CHILD USER OR OTHER STUDENT (EITHER, A "SCHOOL USER") OR DIRECT A SCHOOL USER TO CREATE AN ACCOUNT FOR SCHOOL USE, YOU REPRESENT AND WARRANT THAT YOU HAVE EITHER RECEIVED EXPRESS CONSENT FROM SUCH SCHOOL USER'S PARENT OR LEGAL GUARDIAN OR THAT YOU (OR YOUR INSTITUTION) HAVE COMPLIED AND WILL COMPLY WITH ALL APPLICABLE REQUIREMENTS OF AN EXEMPTION FROM OR EXCEPTION TO PARENTAL CONSENT REQUIREMENTS, NECESSARY FOR YOU TO REGISTER THE SCHOOL USER FOR THE WEBSITE AND PROVIDE TO KHAN ACADEMY THE INFORMATION YOU DISCLOSE IN CONNECTION WITH THE REGISTRATION OF SUCH SCHOOL USER.
+Specifically you agree, individually and on behalf of the Institution, that:
+(i) You are familiar with and agree to be responsible for compliance with the Family Educational Rights and Privacy Act and the US Department of Education's implementing regulations at 34 CFR Part 99 (collectively, "FERPA"), and all other laws, rules or regulations concerning the collection, use, and disclosure of personally identifiable information about Users in your Institution (collectively, "Applicable Privacy Law").
+(ii) You assume sole responsibility (and hereby agree that Khan Academy is not responsible for) for providing appropriate notices and disclosures to students using Khan Academy for classroom use ("Students" or "Student Users") and their parents regarding Student use of the Website, our Terms, and our Privacy Policy, including any notices required by the Children's Online Privacy Protection Act ("COPPA"), FERPA, or other Applicable Privacy Law.
+(iii) You assume sole responsibility (and hereby agree that Khan Academy is not responsible) for obtaining any consents required from parents or guardians, to the extent required under COPPA, FERPA or other Applicable Privacy Law, in connection with the Services, use of the Website for classroom use (including use of Linked Accounts referred to in Section 1.8), and disclosure of personally identifiable information to Khan Academy in connection therewith.
+You represent and warrant to Khan Academy that, prior to creation of accounts for School Use, you have either obtained all necessary parent or guardian consents, or have complied and will comply with all applicable requirements of an exemption from or exception to parental consent requirements, including:
+under FERPA, you have complied and will comply with the "school official" exception, or the "directory information" exception thereunder.
+and
+under COPPA, with respect to Students under the age of 13, you are acting as the agent of the parent and consenting on their behalf to the sharing of the Student's personal information.
+
+
+We refer to this a "School Consent".
+If a Parent User does not consent or rescinds such School Consent, School Personnel or the Institution shall immediately notify Khan Academy to discontinue that Student's access to the Services and ensure that such Student's information is no longer accessible through the Services.
+Under no circumstances will Khan Academy be liable for the School Personnel's failure to consult their school's authorities and administrators or for failing to obtain School Consent when required.
+(c) Identification of School Accounts.
+Students and School Personnel may have personal accounts, in addition to accounts established for use in the classroom and associated with the Institution's use of the Services ("School Accounts").
+If the Institution has a separate written service agreement with Khan Academy that includes rostering services for your Institution, accounts provided for classroom use will be School Accounts.
+In other cases, in order for accounts established for use in the classroom to be designated as "School Accounts," the accounts must be (1) created by School Personnel (for example, when a teacher creates the user name, login and password to establish School Accounts, or when the teacher rosters a class using Google Classroom, Clever, or similar Integrated Service (to the extent we support use of such Integrated Service)), or (2) created by a School User at the direction of a School, in each case, using a School email address and associated with a School's class on the Service.
+User accounts created with a personal email address will not be considered School Accounts, and will be administered as personal accounts.
+If you have questions about how to create School Accounts that are associated with a School's class on the Service, please contact our customer support team at khan.co/KA-support.
+(d) Use of Integrated Services in School Accounts.
+If you are School Personnel and you choose to allow your students to log in on the Services using an Integrated Service, such as Google Classroom or Clever (to the extent we support use of such Integrated Service), you are responsible for educating your students on the proper use of Integrated Services and protecting their accounts.
+See Section 1.3.
+
+
+1.7 Coaches.
+Khan Academy may make available certain features and tools that allow Users to add "Coaches" to their account.
+(a) Coaching features are provided to allow any User to give another User, such as a tutor, friend or family member, the ability to view the activity in their Khan Academy account in order to provide them with tutoring or coaching help on Khan Academy.
+In these Terms, we refer to any User that you connect to your Khan Academy account (other than School Personnel and Parent Users, who have different account permissions) as a "Coach".
+A Parent User associated with a Child User can disable the coaching feature upon account creation, or in the Child's User's account settings.
+(b) If you are a Coach, the following provisions apply to you.
+You may use Khan Academy features and tools only for purposes of providing tutoring, coaching or other education-related assistance to a User that has an account established and existing pursuant to these Terms.
+COACHES ARE NOT PERMITTED TO CREATE OR REGISTER ACCOUNTS FOR ANY OTHER USER.
+In order to begin coaching relationship, the student or other User you wish to coach must either have a pre-existing account on the Services, or must establish an account pursuant to these Terms.
+YOU UNDERSTAND THAT REGISTRATION OF AN ACCOUNT BY OR FOR A CHILD USER REQUIRES CONSENT FROM SUCH USER'S PARENT OR LEGAL GUARDIAN.
+COACHES MAY NOT PROVIDE THIS CONSENT DIRECTLY OR ON BEHALF OF THE PARENT OR GUARDIAN.
+You must use the Services and the Website in compliance with all applicable laws, rules, and regulations.
+
+
+1.8 Linked Accounts.
+Khan Academy may permit a User to associate a personal account with their School Account, by using the login credentials associated with a personal account to join a class or use the account for school-directed learning.
+If a User chooses to associate a personal account with their School Account, the two accounts will be deemed "Linked" Accounts, and the User's learning activity (information regarding use of the Website generated by the User through use of the Website), whether generated during or outside of the school use, may be viewed by any person with access to either account.
+"Linked" Accounts are not separately functioning accounts.
+they permit access to a singular Khan Academy account using more than one account interface or set of access credentials.
+Linked Accounts may benefit Students who want to use the Website for both personal and school purposes, by allowing School Personnel to have a deeper understanding of Student progress, and by allowing Users to keep track of all of their Khan Academy learning activity on an aggregate basis.
+The User's election to enable account linking must be made, if at all, in connection with the initial account registration and rostering process for a given school year.
+Once accounts are linked, they cannot be separated.
+Khan Academy may (but is not required to) enable linking of accounts as described herein.
+Upon any termination of the School Account by authorized School Personnel, the User's learning activity (including any learning activity from school use) will be retained in any Linked personal account.
+1.9 School Districts.
+Khan Academy may enter into supplemental written agreements with school districts with respect to use of the Services on a district-wide basis ("District Agreements").
+Pursuant to District Agreements, we may provide additional services to school districts, and/or may provide additional undertakings to school districts with respect to the Services.
+Except as otherwise provided in a District Agreement, these Terms remain in effect for all individual Users of the Services in the relevant district.
+1.10 Interational Use.
+Khan Academy operates the Services in the United States.
+If you choose to access our Services from locations outside the United States, you consent to the collection, transmission, use, storage and processing of content and data (including your personal information) in the United States.
+You also agree to comply with and are solely responsible for ensuring compliance with all local laws, regulations, and rules in the jurisdiction in which you reside or access the Services, if and to the extent local laws are applicable to use of our Services.
+If you are under the age of 18, you confirm that you have received parental consent, if required in your jurisdiction, to open an account for Service and enter into these Terms.
+Unless we have entered into a separate, mutually executed written agreement with you that says otherwise, we do not represent that our Services are appropriate or available for use in jurisdictions outside the United States.
+The right to access and use the Services is not granted in jurisdictions, if any, where it may be prohibited, or where your use would render Khan Academy in violation of any applicable laws or regulations, including without limitation, Applicable Privacy Laws.
+
+
+2.
+Privacy Policy.
+Your privacy is important to Khan Academy.
+Please read the Khan Academy Privacy Policy, which is hereby incorporated into these Terms (and which are part of our contract with you), carefully for information relating to Khan Academy's collection, use, and disclosure of your personal information.
+Among other things, our Privacy Policy explains how we treat your personal information and protect your privacy when you use our Services, and explains the procedures by which Users, Parent Users and School Personnel may view, update, correct, or delete their account and personal information.
+3.
+API Terms.
+Other guidelines.
+3.1 API Terms.
+Users who utilize any of Khan Academy's application programming interfaces ("APIs") additionally agree to be bound by Khan Academy's API Terms of Service.
+3.2 Other Guidelines.
+When using the Services, you will be subject to any additional posted guidelines or rules applicable to specific services and features which may be posted from time to time (the "Guidelines").
+All such Guidelines are hereby incorporated by reference into the Terms.
+
+
+4.
+Modification of the Terms.
+4.1 General.
+Upon opening an account, you accept the Terms in the form posted on our website.
+Khan Academy reserves the right, at our discretion, to change, modify, add, or remove portions of the Terms at any time.
+Please check the Terms and any Guidelines periodically for changes that are made after you open your account.
+Your continued use of the Services after the posting of changes constitutes your binding acceptance of such changes.
+For any material changes to the Terms, Khan Academy will make reasonable effort to provide notice to you of such amended Terms, such as by an email notification to the address associated with your account or by posting a notice on the Services, and such amended terms will be effective against you on the earlier of (i) your actual notice of such changes and (ii) thirty days after Khan Academy makes reasonable attempt to provide you such notice.
+However, changes addressing new functions for a service or changes made for legal reasons will be effective immediately.
+If you do not agree to the modified Terms, you must discontinue your use of the Services.
+Disputes arising under these Terms will be resolved in accordance with the version of the Terms in place at the time the dispute arose.
+4.2 School Accounts.
+The following provisions apply to School Accounts in addition to the provisions set forth in Section 4.1 above.
+If a change with respect to how personal information contained in education records is used or shared has a material adverse impact on Student Users or an Institution, and the Institution does not agree to the change, the Institution must notify Khan Academy within thirty days of receiving the notice of change as described under the "Miscellaneous - Notices" below.
+If Khan Academy is notified as required, then the School Accounts held by that Institution will remain governed by the Terms in effect immediately prior to the change until the end of the end of the then current term of the Institution's written service agreement with Khan Academy, or, in the absence of such an agreement, the end of the current school term.
+If the Services are renewed or continued after such time, they will be renewed or continued under Khan Academy's then-current Terms.
+
+
+5.
+User Content License Grant
+
+5.1 User Content and Ownership.
+Khan Academy may permit (a) the posting and/or publishing by you and other Users of notes, questions, comments, ratings, reviews, images, videos and other audio-visual materials and communications (collectively, "User Postings") and (b) the posting, creation, or modification by you and other users of computer code (including source code and object code) ("User Code") (User Postings and User Code, collectively, "User Content").
+You understand that whether or not such User Content is published, Khan Academy does not guarantee any confidentiality with respect to any submissions.
+Consistent with Applicable Law, as between Khan Academy and you, you retain all ownership rights you have in any User Content you post or publish to the Services, and Khan Academy does not claim any ownership rights in or to such User Content.
+You acknowledge that are solely responsible for your User Content and the consequences of posting, creating, or publishing such User Content.
+5.2 License Grant to Khan Academy.
+By posting, submitting or distributing User Content on or through the Services, you hereby grant to Khan Academy a worldwide, non-exclusive, transferable, assignable, fully paid-up, royalty-free right and license to (a) host, transfer, display, perform, reproduce, distribute, prepare derivative works of, use, make, have made, import, and otherwise exploit your User Content, in whole or in part, in any media formats and through any media channels (now known or hereafter developed, to the extent consistent with applicable law and Khan Academy's Privacy Policy).
+Such license is perpetual and irrevocable, except to the extent required to comply with Applicable Privacy Law relating to ownership and control of your personal information, including education records.
+With respect to School Accounts, consistent with Applicable Privacy Law, as between Khan Academy and you, you (or your school, as applicable) retain all ownership rights you have in any User Content to the extent such content is an education record.
+5.3 License Grant to Users.
+(a) User Postings.
+By posting, submitting or distributing User Postings through the Services, you hereby grant to each User of the Services a non-exclusive license to access and use your User Postings in any manner permitted or made available by Khan Academy on or through the Services.
+(b) User Code.
+By posting, submitting or distributing User Code through the Services, you hereby grant to each User of the Services a non-exclusive license to access, use, reproduce, and distribute your User Code as fully permitted under, and in accordance with the terms of, the MIT license (currently available at: the opensource license webpage) (the "MIT License").
+(c) Downloadable Content.
+The Services may permit you to download mobile applications or certain digital educational content ("Downloadable Content").
+Subject to your complete and ongoing compliance with all the terms and conditions set forth herein, Khan Academy grants you, a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to download, install, view and use the Downloadable Content, in object code form, on devices owned or controlled by you, solely for your personal, non-commercial purposes.
+You agree not to (i) modify or create derivative works of the Downloadable Content (ii) remove, disable, circumvent or otherwise create or implement any workaround to any copy protection, rights management, technical limitations or security features in or protecting the Downloadable Content, and (iii) remove any copyright and other proprietary notices on the Downloadable Content and all copies thereof.
+
+
+5.5 Access to Your User Content.
+Khan Academy may permit Users to share their User Content with a select group of other Users, or make their User Content public for all (even non-Services users) to view.
+You acknowledge and agree that, although Khan Academy may provide certain features intended to allow you to restrict some User Content you create from others, Khan Academy does not guarantee that such User Content will never be accessible by others.
+In the event of unauthorized access, Khan Academy will use reasonable efforts to notify you pursuant to Section 15.1 below.
+KHAN ACADEMY HEREBY DISCLAIMS ANY AND ALL LIABILITY WITH RESPECT TO ANY UNAUTHORIZED ACCESS TO ANY RESTRICTED USER CONTENT.
+5.6 User Content Disclaimer.
+You understand that when using the Services you will be exposed to User Content from a variety of sources, and that Khan Academy is not responsible for the accuracy, usefulness, or intellectual property rights of or relating to such User Content.
+You further understand and acknowledge that you may be exposed to User Content that is inaccurate, offensive, indecent or objectionable, and you agree to waive, and hereby do waive, any legal or equitable rights or remedies you have or may have against Khan Academy with respect thereto.
+Khan Academy does not endorse any User Content or any opinion, recommendation or advice expressed therein, and Khan Academy expressly disclaims any and all liability in connection with User Content.
+
+
+6.
+Digital Millenium Copyright Act.
+It is Khan Academy's policy to respond to notices of alleged copyright infringement that comply with the Digital Millennium Copyright Act.
+For more information, please go to Khan Academy's DMCA Notification Guidelines athttps://www.khanacademy.org/about/dmca.
+Khan Academy will promptly terminate without notice your access to the Services if you are determined by Khan Academy to be a "repeat infringer." A repeat infringer is a User who has been notified by Khan Academy of infringing activity violations more than twice and/or who has had User Content or any other user-submitted content removed from the Services more than twice.
+7.
+Proprietary Materials.
+Licenses
+
+7.1 Proprietary Materials.
+The Services are owned and operated by Khan Academy.
+The visual interfaces, graphics, design, compilation, information, computer code (including source code or object code), software, services, content, educational videos and exercises, and all other elements of the Services (the "Services Materials") are protected by United States and international copyright, patent, and trademark laws, international conventions, and other applicable laws governing intellectual property and proprietary rights.
+Except for any User Content provided and owned by Users and except as otherwise set forth in this Section 7, all Services Materials, and all trademarks, service marks, and trade names, contained on or available through the Services are owned by or licensed to Khan Academy, and Khan Academy reserves all rights therein and thereto not expressly granted by these Terms.
+7.2 Licensed Educational Content.
+Khan Academy may make available on the Services certain educational videos, exercises, and related supplementary materials that are owned by Khan Academy or its third-party licensors (the "Licensed Educational Content").
+Khan Academy grants to you a non-exclusive, non-transferable right to access and use the Licensed Educational Content as made available on the Services by Khan Academy solely for your personal, non-commercial purposes.
+Unless expressly indicated on the Services that a particular item of Licensed Educational Content is made available to Users under alternate license terms, you may not download, distribute, sell, lease, modify, or otherwise provide access to the Licensed Educational Content to any third party.
+(a) Alternate Licenses.
+In certain cases, Khan Academy or its licensors may make available Licensed Educational Content under alternate license terms, such as a variant of the Creative Commons License (as defined below) (each, an "Alternate License").
+Where expressly indicated as such on the Services, and subject to the terms and conditions of these Terms, the applicable Licensed Educational Content is licensed to you under the terms of the Alternate License.
+By using, downloading, or otherwise accessing such Licensed Educational Content, you agree to comply fully with all the terms and conditions of such Alternate License.
+(b) Creative Commons License.
+Unless expressly otherwise identified on the Services with respect to a particular item of Licensed Educational Content, any reference to the "Creative Commons", "CC" or similarly-phrased license shall be deemed to be a reference to the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License (available at creativecommons.org/licenses/) (the "Creative Commons License").
+
+
+7.3 Licensed Educational Code.
+Khan Academy may make available, or allow Users to create and make available, on or through the Services certain educational, user-readable source code in connection with the "Computer Science" modules or exercises available on the Services (the "Licensed Educational Code").
+Unless otherwise indicated, all Licensed Educational Code is the property of Khan Academy or third-party licensors and, subject to the terms and conditions of these Terms, is licensed to you under the terms of the MIT License.
+By downloading or otherwise accessing such Licensed Educational Code, you agree to comply with all the terms of the MIT License.
+7.4 Non-Commercial Use.
+The Licensed Educational Content and Licensed Educational Code are intended for personal, non-commercial use only.
+Without limiting the foregoing, and notwithstanding the terms of any Alternate License for such Licensed Educational Content, the Licensed Educational Content may not be used, distributed or otherwise exploited for any commercial purpose, commercial advantage or private monetary compensation, unless otherwise previously agreed in writing by Khan Academy.
+(a) Impermissible Uses.
+Without limiting the generality of the foregoing, the following are types of uses that Khan Academy expressly defines as falling outside of "non-commercial" use:
+i.
+the sale or rental of (1) any part of the Licensed Educational Content, (2) any derivative works based at least in part on the Licensed Educational Content, or (3) any collective work that includes any part of the Licensed Educational Content;
+ii.
+providing training, support, or editorial services that use or reference the Licensed Educational Content in exchange for a fee.
+and
+iii.
+the sale of advertisements, sponsorships, or promotions placed on the Licensed Educational Content, or any part thereof, or the sale of advertisements, sponsorships, or promotions on any website or blog containing any part of the Licensed Educational Material, including without limitation any "pop-up advertisements".
+
+
+(b) Use Characterization.
+Whether a particular use of the Licensed Educational Content is "non-commercial" depends on the use, not the user.
+Thus, a use of the Licensed Educational Content that does not require that users pay fees and that does not provide an entity with a commercial advantage is "non-commercial," even if this use is by a commercial entity.
+Conversely, any use that involves charging users in connection with their access to the Licensed Educational Content is not "non-commercial," even if this use is by a non-profit entity.
+As an example, a for-profit corporation's use of the Licensed Educational Content for internal professional development or training of employees is permitted, so long as the corporation charges no fees, directly or indirectly, for such use.
+Conversely, as another example, a non-profit entity's use of the Licensed Educational Content in connection with an fee-based training or educational program is NOT "non-commercial" and is not permitted.
+
+
+7.5 Crediting Khan Academy.
+If you distribute, publicly perform or display, transmit, publish, or otherwise make available any Licensed Educational Content or any derivative works thereof, you must also provide the following notice prominently along with such Licensed Educational Content or derivative work thereof: "All Khan Academy content is available for free at www.khanacademy.org".
+
+
+8.
+Prohibited Conduct.
+YOU AGREE NOT TO:
+8.1 use the Services for any commercial use or purpose unless expressly permitted by Khan Academy in writing, it being understood that the Services and related services are intended for personal, non-commercial use only;
+ 8.2 except as expressly permitted under Sections 5.3 and 7 of these Terms, rent, lease, loan, sell, resell, sublicense, distribute or otherwise transfer the licenses for any Services Materials;
+ 8.3 post, upload, or distribute any defamatory, libelous, or inaccurate User Content or other content;
+8.4 post, upload, or distribute any User Content or other content that is unlawful or that a reasonable person could deem to be objectionable, offensive, indecent, pornographic, harassing, threatening, embarrassing, distressing, vulgar, hateful, racially or ethnically offensive, or otherwise inappropriate;
+8.5 use the Services in any manner that is harmful to minors, or in any manner that violates Khan Academy's Community Guidelines;
+8.6 impersonate any person or entity, falsely claim an affiliation with any person or entity, or access the Services accounts of others without permission, or perform any other fraudulent activity;
+8.7 delete the copyright or other proprietary rights notices on the Services or on any Licensed Educational Content, Licensed Educational Code, or User Content;
+8.8 assert, or authorize, assist, or encourage any third party to assert, against Khan Academy or any of its affiliates or licensors any patent infringement or other intellectual property infringement claim regarding any Licensed Educational Content, Licensed Educational Code, or User Content you have used, submitted, or otherwise made available on or through the Services;
+8.9 make unsolicited offers, advertisements, proposals, or send junk mail or spam to other Users of the Services (including, but not limited to, unsolicited advertising, promotional materials, or other solicitation material, bulk mailing of commercial advertising, chain mail, informational announcements, charity requests, and petitions for signatures);
+8.10 use the Services for any illegal purpose, or in violation of any local, state, national, or international law, including, without limitation, laws governing intellectual property and other proprietary rights, and data protection and privacy;
+8.11 defame, harass, abuse, threaten or defraud Users of the Services, or collect, or attempt to collect, personal information about Users or third parties without their consent;
+8.12 remove, circumvent, disable, damage or otherwise interfere with security-related features of the Services, Licensed Educational Content, Licensed Educational Code, or User Content, features that prevent or restrict use or copying of any content accessible through the Services, or features that enforce limitations on the use of the Services, Licensed Educational Content, Licensed Educational Code, or User Content;
+8.13 reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the Services or any part thereof, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation;
+8.14 modify, adapt, translate or create derivative works based upon the Services or any part thereof, except and only to the extent expressly permitted by Khan Academy herein or to the extent the foregoing restriction is expressly prohibited by applicable law.
+or
+8.15 intentionally interfere with or damage operation of the Services or any user's enjoyment of it, by any means, including without limitation by participation in any denial-of-service type attacks or by uploading or otherwise disseminating viruses, adware, spyware, worms, or other malicious code.
+
+
+9.
+Third-Party Sites, Products and Services.
+Links.
+The Services may include links or references to other web sites or services solely as a convenience to Users ("Reference Sites").
+Khan Academy does not endorse any such Reference Sites or the information, materials, products, or services contained on or accessible through Reference Sites.
+ACCESS AND USE OF REFERENCE SITES, INCLUDING THE INFORMATION, MATERIALS, PRODUCTS, AND SERVICES ON OR AVAILABLE THROUGH REFERENCE SITES, IS SOLELY AT YOUR OWN RISK.
+10.
+Term and Termination.
+10.1 Term.
+These Terms shall remain in full force and effect while you use the Services unless your account is terminated as provided in these Terms, in which case you no longer have the right to use the Services.
+10.2 Termination by Khan Academy.
+Khan Academy, in its sole discretion, for any or no reason, and without penalty, may suspend or terminate any account (or any part thereof) you may have with Khan Academy or your use of the Services and remove and discard all or any part of your account, User profile, and User Content, at any time.
+Khan Academy may also in its sole discretion and at any time discontinue providing access to the Services, or any part thereof, with or without notice.
+You agree that any termination of your access to the Services or any account you may have, or portion thereof, may be affected without prior notice, and you agree that Khan Academy will not be liable to you or any third party for any such termination.
+Any suspected fraudulent, abusive or illegal activity may be referred to appropriate law enforcement authorities.
+These remedies are in addition to any other remedies Khan Academy may have at law or in equity.
+As discussed herein, Khan Academy does not permit copyright, trademarks, or other intellectual property infringing activities on the Services, and will terminate access to the Services, and remove all User Content or other content submitted, by any Users who are found to be repeat infringers.
+10.3 Termination by You.
+Your only remedy with respect to any dissatisfaction with (i) the Services, (ii) any term of these Terms of Service, (iii) Guidelines, (iv) any policy or practice of Khan Academy in operating the Services, or (v) any content or information transmitted through the Services, is to terminate the Terms and your account.
+You may terminate these Terms at any time (prospectively only) by deleting your login account with the Services and discontinuing use of any and all parts of the Services.
+10.4 Termination of School Personnel, Child and Student Accounts.
+Certain Users (e.g., Parent Users and School Personnel) may terminate these Terms with respect their account or to a Child or Student User account that was created by them or at their direction, as provided in this Section.
+(a) Termination by School Personnel.
+School Personnel may terminate use of the Services individually and/or with respect to School Accounts created by such School Personnel at any time by contacting us at schoolpartnerships@khanacademy.org, provided, however, that an Institution may require satisfaction of certain requirements before School Personnel can terminate accounts created for school use.
+Prior to termination of School Accounts at the direction of School Personnel, Khan Academy may invite Users, or parents or legal guardians of Students, to establish and maintain a personal account for purposes of retaining any content generated or provided and owned by Users under these Terms (including such User's learning activity).
+Any such Personal accounts will be established under Khan Academy's standard account opening process, including parent consent for Users under the age of 13.
+(b) Termination by Parents.
+As a Parent User, if you created a Child account on the Services and have a Parent User account associated with the Child account, you can terminate your Child's login account through the account profile, or by contacting our customer support team at khan.co/KA-support, although we may need to verify your identity prior to taking any action with respect to the account.
+Parents of Students who are using School Accounts created by or at the direction of your Child's teacher in school may first need to contact your child's school to request termination.
+
+
+10.5 Responsibility for Pre-Termination activity.
+Termination of the Terms as to any User account will not limit Khan Academy's rights and remedies regarding any breach of these Terms occurring prior to such termination.
+
+
+11.
+Representations and Warranties.
+You warrant, represent and agree that you will not provide any User Content or otherwise use the Services in a manner that (i) infringes, violates or misappropriates another's intellectual property rights, rights of publicity or privacy, or other rights.
+(ii) violates any international, federal, state or local law, statute, ordinance or regulation or which would render Khan Academy in violation of any applicable laws or regulations, including without limitation, Applicable Privacy Laws (collectively, "Applicable Law").
+(iii) is harmful, fraudulent, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous, or otherwise objectionable.
+or (iv) jeopardizes the security of your account or the Services in any way, such as allowing someone else access to your account or password or submitting User Content that contains viruses.
+Additionally, you represent, warrant and agree that (i) you possess all rights necessary to provide your User Content and grant Company the rights in these Terms.
+(ii) you will comply with Applicable Laws in connection with your use of the Service.
+and (iii), if you are School Personnel, you understand that you are solely responsible for providing notices and obtaining consents required by Applicable Laws for students to use the Services or to provide User Content, including compliance with the applicable provisions of FERPA and COPPA when using School Consent.
+12.
+Indemnification.
+You agree, to the extent permissible under your state's laws, to indemnify, defend, and hold harmless Khan Academy, and its parent, successors, affiliated companies, contractors, officers, directors, employees, agents and its third-party suppliers, licensors, and partners ("Khan Academy Parties") from and against all losses, damages, liabilities, demands, judgments, settlements, costs and expenses of any kind (including legal fees and expenses), from any claim or demand made by any third-party relating to or arising out of (i) your access to, use or misuse of the Services.
+(ii) your breach or alleged breach of these Terms, or any violation of the Terms.
+(iii) any breach of the representations, warranties, and covenants made herein, whether by you or by any Child User or School User whose account you have approved as a Parent User or School Personnel.
+(iv) your failure to comply with Applicable Laws (including any failure to obtain or provide any necessary consent or notice).
+(v) the infringement by you or any third-party using your account of any intellectual property, privacy, or other right of any person or entity, including in connection with your User Content, or (vi) your breach or alleged breach of any interaction, agreement, or policy between you and any other Users.
+Khan Academy reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify Khan Academy, and you agree to cooperate with Khan Academy's defense of these claims.
+You agree not to settle any such matter without the prior written consent of Khan Academy.
+Khan Academy will use reasonable efforts to notify you of any such claim, action, or proceeding upon becoming aware of it.
+13.
+Disclaimers.
+No Warranties
+
+13.1 No Warranties.
+THE WEBSITE, AND ALL DATA, INFORMATION, SOFTWARE, WEBSITE MATERIALS, CONTENT (WHETHER OWNED OR LICENSED), USER CONTENT, REFERENCE SITES, SERVICES, OR APPLICATIONS MADE AVAILABLE IN CONJUNCTION WITH OR THROUGH THE WEBSITE (THE "KHAN ACADEMY OFFERINGS"), ARE PROVIDED ON AN "AS IS," "AS AVAILABLE," AND "WITH ALL FAULTS" BASIS.
+TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, THE KHAN ACADEMY PARTIES DISCLAIM ANY AND ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER STATUTORY, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ALL IMPLIED WARRANTIES OF MERCHANTABILITY, QUALITY, AVAILABILITY, QUIET ENJOYMENT, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM KHAN ACADEMY OR THROUGH THE WEBSITE WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED HEREIN.
+13.2 Content.
+KHAN ACADEMY, AND THE KHAN ACADEMY PARTIES, DO NOT WARRANT THAT THE WEBSITE OR ANY DATA, USER CONTENT, FUNCTIONS, OR ANY OTHER INFORMATION OFFERED ON OR THROUGH THE WEBSITE WILL BE UNINTERRUPTED, OR FREE OF ERRORS, VIRUSES OR OTHER HARMFUL COMPONENTS, AND DO NOT WARRANT THAT ANY OF THE FOREGOING WILL BE CORRECTED.
+KHAN ACADEMY AND THE KHAN ACADEMY PARTIES MAKE NO REPRESENTATION OR WARRANTY THAT (1) THE KHAN ACADEMY OFFERINGS WILL (A) MEET YOUR REQUIREMENTS OR EXPECTATIONS, OR BE TO YOUR LIKING, OR (B) WILL BE TIMELY, SECURE, ACCURATE, FREE FROM ERRORS OR LOSS, OR UNINTERRUPTED, (2) THAT THE SERVICES ARE FREE FROM VIRUSES OR OTHER HARMFUL COMPONENTS, OR (3) THAT ANY DEFECTS OR ERRORS WILL BE CORRECTED.
+SOME FEATURES MAY BE NEW OR EXPERIMENTAL AND MAY NOT HAVE BEEN TESTED IN ANY MANNER.
+13.3 Harm to Your Computer.
+YOU UNDERSTAND AND AGREE THAT YOUR USE, ACCESS, DOWNLOAD, OR OTHERWISE OBTAINING OF CONTENT, WEBSITE MATERIALS, SOFTWARE, OR DATA THROUGH THE WEBSITE (INCLUDING THROUGH ANY API'S) IS AT YOUR OWN DISCRETION AND RISK, AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY (INCLUDING YOUR COMPUTER SYSTEM) OR LOSS OF DATA THAT RESULTS THEREFROM.
+13.4 Limitations by Applicable Law.
+SOME STATES OR OTHER JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.
+YOU MAY ALSO HAVE OTHER RIGHTS THAT VARY FROM STATE TO STATE AND JURISDICTION TO JURISDICTION.
+
+
+14.
+Limitation of Liability and Damages.
+14.1 Limitation of Liability.
+UNDER NO CIRCUMSTANCES, INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, WILL KHAN ACADEMY OR THE KHAN ACADEMY PARTIES BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, RELIANCE, OR EXEMPLARY DAMAGES (INCLUDING WITHOUT LIMITATION DAMAGES ARISING FROM ANY UNSUCCESSFUL COURT ACTION OR LEGAL DISPUTE, LOST BUSINESS, LOST REVENUES OR PROFITS, LOSS OF DATA, OR ANY OTHER PECUNIARY OR NON-PECUNIARY LOSS OR DAMAGE OF ANY NATURE WHATSOEVER) EVEN IF KHAN ACADEMY OR A KHAN ACADEMY PARTIES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES ARISING OUT OF OR RELATING (i) TO THE TERMS.
+(ii) YOUR USE OF (OR INABILITY TO USE) THE WEBSITE OR THE KHAN ACADEMY OFFERINGS, OR (iii) ANY OTHER INTERACTIONS WITH KHAN ACADEMY OR ANY THIRD-PARTY THROUGH OR IN CONNECTION WITH THE KHAN ACADEMY OFFERINGS, INCLUDING OTHER USERS,.
+APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+IN SUCH CASES, KHAN ACADEMY'S LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+14.2 Limitation of Damages.
+IN NO EVENT WILL KHAN ACADEMY'S OR THE KHAN ACADEMY PARTIES' TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION ARISING OUT OF OR RELATING TO THE TERMS OR YOUR USE OF THE WEBSITE OR YOUR INTERACTION WITH OTHER WEBSITE USERS (WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), WARRANTY, OR OTHERWISE), EXCEED THE AMOUNT PAID BY YOU TO KHAN ACADEMY, IF ANY, FOR ACCESSING THE WEBSITE DURING THE TWELVE MONTHS IMMEDIATELY PRECEDING THE DATE OF THE CLAIM OR ONE HUNDRED DOLLARS ($100), WHICHEVER IS GREATER.
+14.3 Basis of the Bargain.
+YOU ACKNOWLEDGE AND AGREE THAT KHAN ACADEMY HAS OFFERED THE WEBSITE AND ENTERED INTO THE TERMS IN RELIANCE UPON THE DISCLAIMERS AND THE LIMITATIONS OF LIABILITY SET FORTH HEREIN, THAT THE DISCLAIMERS AND THE LIMITATIONS OF LIABILITY SET FORTH HEREIN REFLECT A REASONABLE AND FAIR ALLOCATION OF RISK BETWEEN YOU AND KHAN ACADEMY, AND THAT THE DISCLAIMERS AND THE LIMITATIONS OF LIABILITY SET FORTH HEREIN FORM AN ESSENTIAL BASIS OF THE BARGAIN BETWEEN YOU AND KHAN ACADEMY.
+KHAN ACADEMY WOULD NOT BE ABLE TO PROVIDE THE WEBSITE TO YOU ON AN ECONOMICALLY REASONABLE BASIS WITHOUT THESE LIMITATIONS.
+14.3 User Interactions and Release.
+(a) User Disputes.
+Khan Academy is not responsible for the actions, content, information or data of other third parties, including other Users.
+You are solely responsible for your interactions with other users of the Services, and any other parties with whom you interact through the Service.
+You should make whatever investigation you feel necessary or appropriate before proceeding with any online or offline interaction with any other person.
+We reserve the right, but have no obligation, to become involved in any way with these disputes.
+(b) Release.
+If you have a dispute with one or more Users, you release us (and the Khan Academy Parties) from all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes, including damages for loss of profits, goodwill, use, privacy or data.
+If you are a California resident, you waive your rights under California Civil Code Â§1542, which says: "A general release does not extend to claims which the creditor does not know or suspect to exist in his or her favor at the time of executing the release, which if known by him or her must have materially affected his settlement with the debtor." And, if you are not a California resident, you waive your rights under any applicable statutes of a similar effect, to the fullest extent permissible under applicable law.
+
+
+
+
+15.
+Miscellaneous (Including Dispute Resolution and Arbitration).
+15.1 Notice.
+Khan Academy may provide you with notices, including those regarding changes to the Terms, by email, regular mail, postings on the Services, or other reasonable means.
+Notice will be deemed given twenty-four hours after email is sent, unless Khan Academy is notified that the email address is invalid.
+Alternatively, we may give you legal notice by mail to a postal address, if provided by you through the Services.
+In such case, notice will be deemed given three days after the date of mailing.
+Notices posted on the Services are deemed given 30 days following the initial posting.
+Any notices directed to Khan Academy shall be sent by first class U.S.
+Mail to Khan Academy at P.O.
+Box 1630, Mountain View, CA 94042 and also via e-mail to notices@khanacademy.org.
+15.2 Waiver.
+The failure of Khan Academy to exercise or enforce any right or provision of the Terms will not constitute a waiver of such right or provision.
+Any waiver of any provision of the Terms will be effective only if in writing and signed by Khan Academy.
+15.3 Governing Law.
+The Terms will be governed by and construed in accordance with the laws of the State of California, without giving effect to any principles of conflicts of law that would cause the application of the laws of any other jurisdiction.
+15.4 Dispute Resolution and Arbitration.
+PLEASE READ THIS SECTION CAREFULLY BECAUSE IT AFFECTS YOUR RIGHTS.
+BY AGREEING TO BINDING ARBITRATION, YOU WAIVE YOUR RIGHT TO LITIGATE DISPUTES THROUGH A COURT AND TO HAVE A JUDGE OR JURY DECIDE YOUR CASE.
+(a) Generally.
+In order to expedite and control the cost of disputes, Khan Academy and you agree that any legal or equitable claim, dispute, action or proceeding arising from or related to your use of the Services or these Terms ("Dispute") will be resolved as follows to the fullest extent permitted by law:
+(b) Notice of Dispute.
+In the event of a Dispute, you or Khan Academy must give the other a written statement that sets forth the name, address, and contact information of the party giving it, the facts giving rise to the Dispute, and a proposed solution (a "Notice of Dispute").
+You must send any Notice of Dispute by first class U.S.
+Mail to Khan Academy at P.O.
+Box 1630, Mountain View, CA 94042 and also via e-mail to notices@khanacademy.org.
+Khan Academy will send any Notice of Dispute to you by first class U.S.
+Mail to your address if Khan Academy has it, or otherwise to your e-mail address.
+You and Khan Academy will attempt in good faith to resolve any Dispute through informal negotiation within sixty (60) days from the date the Notice of Dispute is sent.
+After sixty (60) days, you or Khan Academy may commence arbitration.
+(c) Binding Arbitration.
+Any Dispute which has not been resolved by negotiation as provided herein within sixty (60) days or such time period as you and Khan Academy may otherwise agree, shall be finally resolved by binding arbitration as described in this Section 15.4.
+You are giving up the right to litigate (or participate in as a party or class member) all Disputes in court before a judge or jury.
+Instead, all Disputes will be resolved before a neutral arbitrator, whose decision will be final except for a limited right of appeal under the Federal Arbitration Act.
+The place of arbitration shall be Santa Clara County, California.
+Any court with jurisdiction over the parties may enforce the arbitrator's award.
+(d) Class Action Waiver.
+Any proceedings to resolve or litigate any Dispute in any forum will be conducted solely on an individual basis.
+Neither you nor Khan Academy will seek to have any Dispute heard as a class action or in any other proceeding in which either party acts or proposes to act in a representative capacity.
+No arbitration or proceeding will be combined with another without the prior written consent of all parties to all affected arbitrations or proceedings.
+(e) Arbitration Procedures.
+Any arbitration will be conducted by JAMS under the JAMS Comprehensive Arbitration Rules and Procedures ("JAMS Rules") in effect at the time the Dispute is filed.
+You may request a telephonic or in-person hearing by following the JAMS Rules.
+In a dispute involving $10,000 or less, any hearing will be telephonic unless the arbitrator finds good cause to hold an in-person hearing instead.
+To the extent the forum provided by JAMS is unavailable, Khan Academy and you agree to select a mutually agreeable alternative dispute resolution service and that such alternative dispute resolution service shall apply the JAMS Rules.
+The arbitrator may award the same damages to you individually as a court could.
+The arbitrator may award declaratory or injunctive relief to you only individually, and only to the extent required to satisfy your individual claim.
+(f) Arbitration Fees.
+Whoever files the arbitration will pay the initial filing fee.
+If Khan Academy files, then Khan Academy will pay.
+if you file, then you will pay unless you get a fee waiver under the applicable arbitration rules.
+Each party will bear the expense of that party's attorneys, experts, and witnesses, and other expenses, regardless of which party prevails, but a party may recover any or all expenses from another party if the arbitrator, applying applicable law, so determines.
+(g) Filing Period.
+To the extent permitted by law, any Dispute under these Terms must be filed within one (1) year in an arbitration proceeding.
+The one-year period begins when the events giving rise to the Dispute first occur.
+If a Dispute is not filed within one year, it is permanently barred.
+(h) Venue.
+In the event that any Dispute cannot be resolved by binding arbitration in accordance with this Section 15.4, you agree that such Dispute will be filed only in the state or federal courts in and for Santa Clara County, California, and each of you and Khan Academy hereby consent and submit to the personal and exclusive jurisdiction of such courts for the purpose of litigating any such action.
+Notwithstanding this, Khan Academy shall still be allowed to apply for injunctive or other equitable relief to protect or enforce its intellectual property rights in any court of competent jurisdiction.
+
+
+15.5 Severability.
+If any provision of the Terms or any Guidelines is held to be unlawful, void, or for any reason unenforceable, then that provision will be limited or eliminated from the Terms to the minimum extent necessary and will not affect the validity and enforceability of any remaining provisions.
+15.6 Assignment.
+The Terms and related Guidelines, and any rights and licenses granted hereunder, may not be transferred or assigned by you without Khan Academy's prior written consent, but may be assigned by Khan Academy without consent or any restriction.
+Any assignment attempted to be made in violation of the Terms shall be null and void.
+15.7 Survival.
+Upon termination of the Terms, any provision which, by its nature or express terms should survive, will survive such termination or expiration, including, but not limited to, Sections 2, 4 through 6, 7.1, 7.4, 7.5, and 8 through 15.
+15.8 Headings.
+The heading references herein are for convenience purposes only, do not constitute a part of the Terms, and will not be deemed to limit or affect any of the provisions hereof.
+15.9 Entire Agreement.
+The Terms, the Privacy Policy and Guidelines constitute the entire agreement between you and Khan Academy relating to the subject matter herein and will not be modified except in writing, signed by both parties, or by a change to the Terms, Privacy Policy or Guidelines made by Khan Academy as set forth in Section 4 above.
+15.10 Disclosures.
+The Services are hosted in the United States, and the services provided hereunder are offered by Khan Academy: PO Box 1630, Mountain View, CA 94042.
+notices@khanacademy.org.
+15.11 Notice Regarding Apple.
+You acknowledge that these Terms are between you and Khan Academy only, not with Apple, and Apple is not responsible for the Services and the content thereof.
+Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Services.
+In the event of any failure of the Services to conform to any applicable warranty, then you may notify Apple and Apple will refund the purchase price for the applicable mobile application to you, if any.
+and, to the maximum extent permitted by applicable law, Apple has no other warranty obligation whatsoever with respect to the Services.
+Apple is not responsible for addressing any claims by you or any third party relating to the Services or your possession and/or use of the Services, including, but not limited to: (i) product liability claims.
+(ii) any claim that the Services fail to conform to any applicable legal or regulatory requirement.
+and (iii) claims arising under consumer protection or similar legislation.
+Apple is not responsible for the investigation, defense, settlement and discharge of any third-party claim that the Services or your possession and use of the Services infringes that third party's intellectual property rights.
+You agree to comply with any applicable third-party terms, when using the Services.
+Apple, and Apple's subsidiaries, are third-party beneficiaries of these Terms, and upon your acceptance of the Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce the Terms against you as a third party beneficiary of the Terms.
+You hereby represent and warrant that (i) you are not located in a country that is subject to a U.S.
+Government embargo, or that has been designated by the U.S.
+Government as a "terrorist supporting" country.
+and (ii) you are not listed on any U.S.
+Government list of prohibited or restricted parties.
+
+
+
+Back to Top

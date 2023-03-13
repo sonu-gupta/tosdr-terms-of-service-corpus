@@ -1,0 +1,183 @@
+
+        
+Data Processing Addendum
+Last updated: October 5, 2020
+
+
+UPDATE:
+Updates have been made to the International transfers section of
+the Data Processing Addendum to more clearly describe where data uploaded by or on behalf of Customers to
+Backblaze are stored, and to also address the recent invalidation of Privacy Shield.
+
+This document is a âData Processing Agreementâ (âDPAâ) as required for certain customers under Article
+28 of the âGeneral Data Protection Regulationâ (EU) 2016/679 (âGDPRâ).
+
+
+This DPA is an addendum to, and is referenced by the Backblaze Terms of
+Service found on the Backblaze
+web site.
+In case of a conflict between the terms of the DPA and the Backblaze Terms of Service, the DPA
+will take precedence.
+
+
+This DPA is intended to be binding on Backblaze with regard to each of its customers whose processing of
+files stored with Backblaze is subject to the GDPR (âCustomersâ).
+It governs the processing by Backblaze
+of personal data, as defined by the GDPR, contained in files that a customer stores with Backblaze
+(âFilesâ).
+
+
+As the GDPR evolves and best practices are refined, Backblaze reserves the right to update this DPA at
+any time.
+If there is something we view as a material change, we will notify our customers via email 30
+days in advance of the change and will offer our customers the right to terminate the services before
+the change takes effect.
+
+
+Subject-matter and nature of the processing
+Backblaze offers two services: a computer backup service, with which a customer can backup its files to
+our servers automatically, and a cloud storage service, with which the customer can upload files to our
+servers (together the âServicesâ).
+To the extent that these files are uploaded by or on behalf of a
+Customer and they contain personal data as defined in the GDPR, Backblaze processes this data as a
+processor, as defined in the GDPR.
+
+
+Type of personal data and categories of data subjects
+The types of personal data and categories of data subjects processed in the context of Backblazeâs
+Services depend on the content of files uploaded to servers by or on behalf of its Customers.
+
+
+Purpose
+Backblaze will only process the Files for the performance of the Service to the Customer, on the
+documented instructions from the Customer, and to comply with laws to which Backblaze is subject.
+Where
+Backblaze processes Files to comply with a legal requirement, it shall inform the Customer which
+uploaded the data thereof before processing, unless that law prohibits such information on important
+grounds of public interest.
+
+
+Duration
+Backblaze processes any Files for the duration it provides the Services to the customer.
+When the
+Customer cancels their Backblaze subscription and deletes their Backblaze account, Backblaze will delete
+the files stored for the period set out in the Backblaze Terms of Service.
+
+
+International transfers
+For Backblaze Customers who establish their Backblaze account in the EU (EU-Central region), the Files
+uploaded by or on behalf of Customers to Backblaze are stored in the EU and are not transferred outside
+of the EU unless directed by the Backblaze Customer.
+By making such a request, the Customer is giving
+Backblaze permission to perform the transfer of the requested Files, including the transfer of the
+requested Files to the United States as applicable.
+
+
+For Backblaze Customers who establish their Backblaze account in the US (US-West region), the Backblaze
+servers where your uploaded Files will reside is located in the United States.
+This means a Customer with
+a US-based Backblaze account, who resides in the European Economic Area (âEEAâ) and uses Backblazeâs
+Services, will have their Files transferred outside of the EEA and stored in the United States.
+By accepting
+Backblazeâs Terms of Service and/or by using Backblazeâs services, a Customer is considered to have given instructions to do so when using Backblazeâs Services.
+
+
+In light of the recent ruling issued by the Court of Justice of the European Union on the invalidation of the
+EU-U.S.
+Privacy Shield, and the recent opinion provided by the Federal Data Protection and Information Commissioner
+(FDPIC) of Switzerland on the inadequacy of the Swiss-U.S.
+Privacy Shield Framework, we are no longer relying on
+these frameworks when transferring personal information from the EEA and Switzerland to the United States.
+We continue to comply with applicable EU data transfer requirements, including adherence to no less than the
+principles of the EU-U.S.
+and Swiss-U.S.
+Privacy Shield Frameworks.
+We are closely monitoring development of
+international data-transfer mechanisms under the GDPR and will update our policies accordingly.
+Additional information
+can be found in the International Data Transfer section of the Backblaze Privacy Notice.
+
+
+Confidentiality
+Backblaze ensures that persons authorized to process the Files have committed themselves to
+confidentiality.
+
+
+Security
+Backblaze with regard to Files shall implement appropriate technical and organizational measures to
+ensure a level of security appropriate to the risk, taking into account the state of the art, the costs
+of implementation and the nature, scope, context and purposes of processing as well as the risk of
+varying likelihood and severity for the rights and freedoms of natural persons.
+
+
+Subprocessors
+The Customer, by accepting Backblazeâs Terms of Service and/or by using Backblazeâs Services, authorizes
+Backblaze to engage processors for processing the Files of Customers.
+If Backblaze engages other
+processors, Backblaze shall inform the customer, thereby giving the Customer the opportunity to object
+to such changes.
+When Backblaze engages a processor, it shall impose data protection obligations which
+are no less onerous as those set out in this DPA on that other processor by way of a contract or other
+legal act, in particular providing sufficient guarantees to implement appropriate technical and
+organizational measures in such a manner that the processing will meet the requirements of the GDPR.
+Where that other processor fails to fulfil its data protection obligations, Backblaze remains fully
+liable to the Customer for the performance of that other processor's obligations, but only to the extent
+that Backblaze can be held liable under its Terms of Service.
+A list of the subprocessors that Backblaze
+engages to process Files is available upon request to privacy@backblaze.com.
+
+
+Assistance with exercise of rights
+At the request of a Customer, Backblaze shall assist it by appropriate technical and organizational
+measures, taking into account the nature of the processing and insofar as this is possible, for the
+fulfilment of the Customerâs obligation to respond to requests for exercising the data subject's rights
+laid down in Chapter III of the GDPR.
+
+
+Assistance with security, data breaches and DPA
+Backblaze shall assist the Customer in ensuring compliance with the obligations pursuant to Articles 32
+to 36 of the GDPR, taking into account the nature of processing and the information available to
+Backblaze.
+In the unlikely event of a data breach, as defined in the GDPR, Backblaze will without undue
+delay send its affected customers a notification email, and provide at its discretion, updates through
+other communications channels.
+This notification will describe the nature of the data breach, including
+where possible, the categories and approximate number of data subjects concerned, the categories and
+approximate number of personal data records concerned, the contact point where more information can be
+obtained, the likely consequences of the personal data breach, and the measures taken or proposed to be
+taken by Backblaze to address the data breach, including, where appropriate, measures to mitigate its
+possible adverse effects.
+A âdata breachâ does not include a Backblaze account being accessed via valid
+credentials unless those credentials were exposed through some action or fault of Backblaze or one of
+its sub-processors.
+
+
+Deletion and return of Files
+Backblaze shall, at the choice of the Customer, delete or return all the Files to the Customer after the
+end of the provision of the Services subject to any fee applicable at that time, and delete existing
+copies within the period set out under âDuration,â unless applicable law requires storage of such data.
+Subject to any fee applicable at the time, Customers may request copies (i.e., return) of their Files
+within their Backblaze account prior to cancelling their Services.
+
+
+Information
+Backblaze shall at the request of a Customer make available to it all information reasonably necessary
+to demonstrate compliance with the obligations under this DPA, including a copy of the most recent
+report on such compliance performed at the request of Backblaze by an external auditor, if available,
+and only if the Customer agrees to keep such information confidential under a non-disclosure agreement
+provided by Backblaze.
+Backblaze shall immediately inform the Customer if, in its opinion, an
+instruction infringes the GDPR data protection provisions applicable to the Customer and/or Backblaze.
+
+
+For further information on our compliance with the GDPR, please visit our knowledge base at help.backblaze.com
+or contact us at privacy@backblaze.com.
+
+
+
+Previous Version(s):
+
+July 10, 2018
+February 12, 2020
+
+

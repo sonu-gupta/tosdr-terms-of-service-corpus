@@ -1,0 +1,267 @@
+
+         Cookie Policy Kids! This page is for grown ups.
+It tells grown ups that we send cookies (not the type you eat!) to your computer or mobile to help us make Beano work better and to tell us if Beano has crashed (ooops!!).
+We hope this is OK but, if not, your grown up can help you get rid of cookies.
+Please show this page to your parent or guardian before you use the Beano site.
+âº Grown Ups We use cookies on our site to personalise content and to analyse how our site is being used.
+The cookies we use are harmless and anonymous, they just help to make the site better by remembering some information about what you or your child have already done on the site. What are Cookies? Cookies are small text files that are transferred on to your computer or mobile device by websites that you or your child may visit.
+Cookies can help make sites work, or work more efficiently by saving user information, as well as to provide information to site owners about how the site has been used.
+There are different types of cookies we use on beano.com.
+Cookies that are used by beano.com are referred to as âfirst-party cookiesâ and those that are used by our partners are âthird-party cookiesâ.
+We do have third party cookies on our site but we take steps to ensure that this content is compliant and does not track our users or receive usersâ personal information.
+If a user clicks out to third party content from our site, we are not responsible for what happens on those sites and we cannot guarantee how they operate.
+Please check the privacy &amp.
+cookie policies of any third party site if you visit them.
+Persistent cookies remain on a userâs device for the period of time specified in the cookie.
+They are activated each time that the user visits the website that created that particular cookie.
+Session cookies allow website operators to link the actions of a user during a browser session.
+A browser session starts when a user opens the browser window and finishes when they close the browser window.
+Session cookies are created temporarily.
+Once you close the browser, all session cookies are deleted. So how do we use Cookies on our site? This site uses different types of cookies.
+We use cookies to help manage the site and user experience.
+These cookies may be used to collect analytics of non-personal visitor activity outlines and site preferences, monitor crashes, provide relevant or timely information to you or your child or offer contextual advertisements only.
+The law states that we can store cookies on your computer or device if they are strictly necessary for the operation of this site.
+Necessary cookies help make a site usable by enabling basic functions like page navigation and access to secure areas of the site.
+The site cannot function properly without these cookies. Necessary Cookies These cookies are required for beano.com to function properly and for security purposes.
+Without these cookies, we cannot provide the requested services.
+
+
+
+
+Name: visitor_id
+
+Purpose: Preserves the visitorâs session state across page requests
+
+Expiry: 2 Years
+
+Cookie Type: 1st Party
+
+
+
+
+
+Name: session_id
+
+Purpose: Preserves the same session state across page requests
+
+Expiry: 2 Years
+
+Cookie Type: 1st Party
+
+
+
+
+
+Name: country
+
+Purpose: Determines the preferred language and country-setting of the visitor â This allows the website to show content most relevant to that region and language
+
+Expiry: 29 Days
+
+Cookie Type: 1st Party
+
+
+
+
+
+Name: GRECAPTCHA
+
+Purpose: Used by Google to provide spam protection
+
+Expiry: Session
+
+Cookie Type: 3rd Party
+
+
+ Performance Cookies Performance cookies enable us to test changes to our website in order to improve overall the user experience.
+They also provide functionality to gather anonymous feedback from users and aggregate user behaviour to These cookies do not collect any information that could identify you.
+Some of our performance cookies are managed for us by third parties.
+However, we donât allow the third party to use the cookies for any purpose other than anonymously reporting usage statistics.
+
+
+
+
+Name: _hjIncludedInSessionSample
+
+Purpose: This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate funnels.
+
+Expiry: 1 Year
+
+Cookie Type: 3rd Party
+
+
+
+
+
+Name: _hjAbsoluteSessionInProgress
+
+Purpose: This cookie is used by Hotjar to detect the first pageview session of a user.
+This is a True/False flag set by the cookie.
+
+Expiry: 30 minutes
+
+Cookie Type: 3rd Party
+
+
+
+
+
+Name: _hjid
+
+Purpose: Hotjar cookie.
+This cookie is set when the customer first lands on a page with the Hotjar script.
+It is used to persist the Hotjar User ID, unique to that site on the browser.
+This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.
+
+Expiry: 1 Year
+
+Cookie Type: 3rd Party
+
+
+
+
+
+Name: _hjFirstSeen
+
+Purpose: This is set by Hotjar to identify a new userâs first session.
+It stores a true/false value, indicating whether this was the first time Hotjar saw this user.
+It is used by Recording filters to identify new user sessions.
+
+Expiry: 1 Year
+
+Cookie Type: 3rd Party
+
+
+
+
+
+Name: _hjTLDTest
+
+Purpose: Hotjar tries to determine the most generic cookie path they should use, instead of the page hostname.
+This is done so that cookies can be shared across subdomains (where applicable).
+To determine this, Hotjar tries to store the _hjTLDTest cookie for different URL substring alternatives until it fails.
+After this check, the cookie is removed.
+
+Expiry: Session
+
+Cookie Type: 3rd Party
+
+
+
+
+
+Name: JSESSIONID
+
+Purpose: Used by New Relic to ensure website is running without performance issue 
+
+Expiry: Session
+
+Cookie Type: 3rd Party
+
+
+
+
+
+Name: jetpack_sso_nonce
+
+Purpose: Used by Jetpack for nonce request and protect website from malicious attack
+
+Expiry: Session
+
+Cookie Type: 3rd Party
+
+
+ Analytics Cookies Analytics cookies collect anonymous information about how you use our website â e.g.
+which pages you visit.
+These cookies do not collect any information that could identify you.
+They are only used to help us improve how our website works, understand what interests our users and measure how effective our content is.
+
+
+
+
+Name: _ga
+
+Purpose: This cookie name is associated with Google Universal Analytics â which is a significant update to Googleâs more commonly used analytics service.
+This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier.
+It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports.
+
+
+Expiry: 2 Years
+
+Cookie Type: 3rd Party
+
+
+
+
+
+Name: _gat_gtag_UA_xxxxxxxxxx
+
+Purpose: Used by Google Analytics to throttle request rate via Google Tag Manager
+
+Expiry: 1 Day
+
+Cookie Type: 3rd Party
+
+
+
+
+
+Name: _gid
+
+Purpose: This cookie is installed by Google Analytics.
+The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing.
+The data collected including the number visitors, the source where they have come from, and the pages visited in an anonymous form.
+
+
+Expiry: 1 Day
+
+Cookie Type: 3rd Party
+
+
+ Delete Cookies You can delete cookies already stored on your computer:
+
+In Internet Explorer 11 click on âToolsâ, point to âSafetyâ and then select the âDelete browsing historyâ.
+Click on the âCookies and website dataâ checkbox and then choose âDeleteâ.
+In Microsoft Edge click on the three dots icon in the top right-hand corner and select âSettingsâ.
+Under âClear browsing dataâ select âChoose what to clearâ and select the checkbox next to âCookies and saved website dataâ then click on âClearâ.
+If you wish you can turn the âAlways clear this when I close the browserâ setting to âOnâ.
+To delete cookies from a particular website in Firefox, click on the three lines icon and choose âOptionsâ.
+In the âPrivacy &amp.
+Securityâ panel go to the âHistoryâ section and in the drop menu next to âFirefox willâ choose âUse custom settings for historyâ.
+A cookies window will appear when you click âShow Cookiesâ.
+In the Search field type the name of the site whose cookies you want to remove.
+Select the cookies you wish to remove and click âRemove Selectedâ.
+Click âCloseâ to close the Cookies window and the âabout:preferencesâ page.
+To delete all cookies, open the cookies window as above and click âRemove All Cookiesâ.
+In Google Chrome click on the three dots icon in the top right-hand corner, select âSettingsâ and find âAdvancedâ near the bottom.
+Under âPrivacy and securityâ click on âContent settingsâ.
+Click on âCookiesâ and Under âAll cookies and site dataâ select âRemove Allâ.
+Confirm by clicking on âClear allâ.
+On Safari on Apple OS X click on the Safari menu, then select âPreferencesâ from the drop-down.
+Go to the âPrivacyâ tab.
+Click the âRemove All Website Dataâ button to remove all stored website data and click âRemove Nowâ to confirm.
+To remove stored data by individual site, click on the âDetailsâ button and select the sites with the stored data you wish to remove.
+Click âRemoveâ and then âDoneâ.
+For Opera selecting âSettingsâ, âPreferencesâ, âAdvancedâ and then âCookiesâ and checking the âDelete new cookies when exiting Operaâ and closing Opera when you have finished browsing will ensure the cookie information is kept in the browser.
+ Blocking Cookies Most browsers allow you to refuse to accept cookies.
+For example:
+
+In Internet Explorer 11 you can refuse all cookies by clicking âToolsâ, âInternet Optionsâ, select the âPrivacyâ tab and, locate âAdvancedâ under Settings and choose if you want to allow, block or be promoted for first and third-party cookies.
+In Microsoft Edge click on the three dots icon in the top right-hand corner and select âSettingsâ.
+Locate âView advanced settingsâ.
+In the âCookiesâ section you will find a drop-down menu where you can select âBlock only third-party cookiesâ or âBlock all cookiesâ.
+You will then have to re-start Microsoft Edge.
+In Firefox you can block all cookies by clicking âToolsâ, âOptionsâ, and unchecking âAccept cookies from sitesâ in the âPrivacyâ box.
+In Google Chrome you can adjust your cookie permissions by clicking on the three dots icon in the top right-hand corner of your browser screen, selecting âSettingsâ from near the bottom of the drop-down list, then clicking on âAdvancedâ near the bottom.
+This should open options.
+In the âPrivacyâ section, click âContent Settingsâ and disable cookies by selecting âBlock site from setting any dataâ.
+Click âDoneâ to save your preferences.
+On Safari on Apple OS X click on the Safari menu, then âPreferencesâ then âPrivacyâ.
+Under âAccept Cookiesâ unselect the âAlways allowâ option.
+For Opera choose âSettingsâ, âQuick Preferencesâ and uncheck âEnable Cookiesâ.
+Blocking all cookies will, however, have a negative impact upon the usability of many websites.
+If you block cookies, you may not be able to use certain features on our website (log on, access content, use search functions).
+ Control Google Analytics Cookies A lot of sites use special types of cookies from Google Analytics to track the traffic on a site and what users do on the site.
+You can stop being tracked by ALL Google Analytics cookies across ALL sites on your computer or mobile device by visiting https://tools.google.com/dlpage/gaoptout. One last thingâ¦ Websites we link to are not covered by this policy.
+So if you or your child click on a link and access someone elseâs site, they might collect and use information about you and your child in a different way to us.
+Cookie policy updated August 2021.

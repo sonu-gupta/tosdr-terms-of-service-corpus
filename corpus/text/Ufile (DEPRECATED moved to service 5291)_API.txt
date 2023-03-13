@@ -1,0 +1,16 @@
+
+        Categories
+API
+Registered Users
+FAQ
+Guest Users
+
+
+UploadsTo upload files via your command line or within your application, we suggest using CURL: Guest uploads First, create a session to obtain an "fuid" which will be used to identify further requests for a specific upload.Few readers
+FilesUsing the API, it's possible to retrieve file data by ID, as well as list the files in your account, with filtering &amp.
+pagination options.
+Get a file by IDFew readers
+FoldersUsing the API, you can get, create &amp.
+delete folders.
+Get a folder by IDFew readers
+

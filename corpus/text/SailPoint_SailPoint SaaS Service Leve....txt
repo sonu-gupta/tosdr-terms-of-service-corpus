@@ -1,0 +1,32 @@
+
+         Thumbnails Document Outline Attachments Find: Previous Next Highlight all Match case Presentation Mode Open Print Download Current View Go to First Page Go to Last Page Rotate Clockwise Rotate Counterclockwise Enable hand tool Document Propertiesâ¦ Toggle Sidebar Find Previous Next Page: of 1 
+Facebook
+Twitter
+Linkedin
+Google Plus
+Email
+ Presentation Mode Open Print Download Current View Tools Zoom Out Zoom In Automatic Zoom Actual Size Page Fit Page Width 50% 75% 100% 125% 150% 200% 300% 400% Page 1of 1Service Level Agreement(V.
+20190801)SAILPOINT SAAS SERVICE LEVEL AGREEMENT This document communicates SailPointâs SaaS Service Level Agreement (âSLAâ) with its Customers for the production instance of the SaaS Service.
+Except as otherwise modified or defined herein, capitalized terms shall have the same meaning as in the Software as a Service Agreement (âSaaS Agreementâ).
+1.Standard Terms.a.During each calendar month of the Term,SailPoint warrantsat least 99.9% SystemAvailability.b.System Availability is calculated per calendar month by:i.Dividing (x) the total minutes during which the user interfaceof the SaaS Service in a Customer production instance are availablein the month minusthe total minutes ofscheduled maintenancein the month, by (y) the total minutes in the monthminusthe total minutes of scheduled maintenance in the month.
+andii.Multiplying such result by 100.For purposes of calculating System Availability, only SaaS Service unavailability exceeding 30 seconds will apply.
+c.SailPoint reserves the right to take the SaaS Service offline for scheduled maintenance for which Customer has been providedreasonable notice and SailPoint reserves the right to change its maintenance window upon prior notice to Customer.2.Exclusions.
+Customer shall not have any remedies under this SLA to the extent any SLA Claim is due tounavailability of the SaaS Serviceresulting from:(a) a Force Majeure Event, (b) issues associated with the Customerâs computing devices, local area networks,or internetservice provider connections, (c) use of the SaaS Service outside the scope described in the SaaS Agreement, or (d) inability to deliverthe SaaS Service due to acts or omissions of Customer or any User.3.SLA Claims.
+Customer must notify SailPoint customer service via support ticket within five (5) business days from the occurrence of theSLA incident and provide the details of the incident (a âSLA Claimâ).
+SailPoint will use log files, database records, audit logs and anyother information available to validate anSLA Claim and make a good faith judgment on the applicability of thisSLA to such SLA Claim.In the event anSLA Claim is denied, SailPoint shall maketheinformation used to validate suchSLA Claim available for auditing byCustomer at Customerâs request.4.Service Credits.If System Availabilityis less than 99.9%in an individual monthand if Customer has fulfilled all of its obligations underthe SaaS Agreement, then upon Customer submitting and SailPoint validating anSLA Claim, SailPoint will issue a Service CreditinCustomerâs next invoice, calculatedin accordance with the below chart.
+âService Creditâ represents apercentage of the monthly fee associated with the affected SaaS Service.
+In any given calendar month, Customer shall in no event be entitled to receive a Service Credit that exceeds 50% of its monthly fee for the affected SaaS Service.% System AvailabilityService Credit&lt.
+99.9%10%&lt.
+99.0%20%&lt.
+98.0%30%&lt.
+97.0%40%&lt.
+96.0%50%5.Alternative Remedies.a.At Customerâs election though written request, in lieu of the foregoing Service Credit, SailPoint shall provide a credit to Customer inthe equivalent dollar amount as the Service Credit to be used for additional Identity Cubes, a Term extension,or future SaaS Servicerenewals.b.IfSailPoint fails to meet its obligations under the terms of this SLA for (i) three (3) consecutive months or (ii) five (5) months during a calendar year period, then Customer may, in its sole discretion, terminate the SaaS Agreement without penalty and SailPoint shallimmediately refund to Customer a pro-rata portion of any prepaid fees paid by Customer to SailPoint that cover the remainder ofthe Termafter the effective date of termination.
+If Customer desires to terminate the SaaS Agreement pursuant to this provision,Customer must provide written notice to SailPoint pursuant to the SaaS Agreement of such election within ten (10)calendardaysofthe last day of the three (3) consecutive month period in section (i) of the preceding sentence or the fifth (5th) month in section (ii)of the preceding sentence.c.The remedies stated in this SLA are Customerâs sole remedies and SailPointâs exclusive liability for interruption of SaaS Service and SailPointâs failure to meet System Availability.6.Miscellaneous.
+Customer may inquire at any time as to SailPointâs compliance with the provisions of this SLAby way of accessingSailPointâs general status website, located currently at http://status.identitynow.com.
+More Information Less Information Close Enter the password to open this PDF file. Cancel OK File name: - File size: - Title: - Author: - Subject: - Keywords: - Creation Date: - Modification Date: - Creator: - PDF Producer: - PDF Version: - Page Count: - Close Preparing document for printing...
+0% Send This Link to a friend Your Name
+ Friends Name
+ Your Email Address
+ Friends Email Address
+ Message
+

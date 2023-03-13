@@ -1,0 +1,638 @@
+
+
+DATA PROCESSING AGREEMENT
+
+
+LAST MODIFIED: June 29, 2020
+
+This EveryAction Data processing Agreement and its Annexes ("DPA") reflects the parties' agreement with respect to the processing of Customer Data by EveryAction on behalf of Customer in connection with the EveryAction Materials under the Terms of Service and other documents incorporated therein between EveryAction and Customer (collectively referred to as the "Agreement").
+Except where indicated otherwise, (i) the term "Customer" shall include Customer and Customer Affiliate, (ii) any capitalized and undefined term herein shall have the meaning ascribed to it in the Agreement and (iii) in the event of inconsistencies between the provisions of this DPA and any other agreements between the parties, including but not limited to the Agreement, the provisions of this DPA shall prevail with regard to the parties' data protection obligations for Customer Data under Data Protection Law.
+
+1.
+Definitions
+
+
+"Affiliate" means any entity that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, such party.
+The term "control" (including the terms "controlled by" and "under common control with") means the direct or indirect power to direct or cause the direction of the management and policies of an entity, whether through ownership of more than fifty percent (50%) of the voting interests of an entity or by written agreement.
+
+"Authorized Affiliate" means any of Customer's Affiliates that (i) are permitted to use the EveryAction Materials pursuant to the Agreement, but have not signed their own separate agreement with EveryAction and are not a "Customer" as defined under the Agreement, (ii) qualify as a controller of Customer Data processed by EveryAction, and (iii) are subject to European Data Protection Law.
+
+"Customer Data" means any personal data that EveryAction processes on behalf of Customer via the EveryAction Materials, as more particularly described in this DPA.
+
+"Customer Data Incident" means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Customer Data transmitted, stored, or otherwise processed by EveryAction and/or its Sub-Processors in connection with the provision of the EveryAction Materials.
+"Customer Data Incident" shall not include unsuccessful attempts or activities that do not compromise the security of Customer Data, including unsuccessful log-in attempts, pings, port scans, denial of service attacks, and other network attacks on firewalls or networked systems.
+
+"Data Protection Law" means all data protection laws and regulations applicable to a party's processing of Customer Data under the Agreement, including, where applicable, European Data Protection Law and Non-European Data Protection Law.
+
+"Europe" means, for the purposes of this DPA, the European Union, the European Economic Area and/or their member states, Switzerland, and the United Kingdom.
+
+"European Data" means Customer Data that is subject to the protection of European Data Protection Law.
+
+"European Data Protection Law" means all data protection laws and regulations applicable to Europe, including (i) Regulation 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation) ("GDPR").
+(ii) Directive 2002/58/EC concerning the processing of personal data and the protection of privacy in the electronic communications sector.
+(iii) applicable national implementations of (i) and (ii).
+and (iii) in respect of the United Kingdom ("UK") any applicable national legislation that replaces or converts in domestic law the GDPR or any other law relating to data and privacy as a consequence of the UK leaving the European Union).
+and (iv) Swiss Federal Data Protection Act on 19 June 1992 and its Ordinance.
+in each case, as may be amended, superseded or replaced.
+
+"Non-European Data" means Customer Data that is subject to the protection of Non-European Data Protection Law.
+
+"Non-European Data Protection Law" means the California Consumer Privacy Act ("CCPA") and the Canadian Personal Information Protection and Electronic Documents Act ("PIPEDA").
+
+"Privacy Shield" means the EU-U.S.
+and Swiss-US Privacy Shield self-certification program operated by the U.S.
+Department of Commerce and approved by the European Commission pursuant to its Decision of July, 12 2016 and by the Swiss Federal Council on January 11, 2017 respectively.
+
+"Privacy Shield Principles" means the Privacy Shield Principles (as supplemented by the Supplemental Principles) contained in Annex II to the European Commission Decision of July 12, 2016.
+
+"Standard Contractual Clauses" means the standard contractual clauses for processors approved pursuant to the European Commission's decision (C(2010)593) of 5 February 2010, in the form set out at Annex 3.
+
+"Sub-Processor" means any processor engaged by EveryAction or its Affiliates to assist in fulfilling EveryAction's obligations with respect to the provision of the EveryAction Materials under the Agreement.
+Sub-Processors may include third parties or EveryAction Affiliates but shall exclude any EveryAction employee or consultant.
+The terms " personal data", " controller", " data subject", " processor" and " processing" shall have the meaning given to them under Data Protection Law or if not defined thereunder, the GDPR, and " process", " processes" and " processed" shall be interpreted accordingly.
+
+2.
+Responsibilities of the Parties.
+
+a.
+Customer.
+i.
+Compliance with Law.
+Within the scope of the Agreement and in its use of the EveryAction Materials, Customer shall be responsible for complying with all requirements that apply to it under applicable Data Protection Law with respect to its processing of Customer Data and the instructions it issues to EveryAction.
+In particular but without prejudice to the generality of the foregoing, Customer acknowledges and agrees that it shall be solely responsible for: (1) the accuracy, quality, and legality of Customer Data and the means by which Customer acquired Customer Data.
+(2) complying with all necessary transparency and lawfulness requirements under applicable Data Protection Law for the collection and use of the Customer Data, including obtaining any necessary consents and authorizations.
+(3) ensuring it has the right to transfer, or provide access to, the Customer Data to EveryAction for processing in accordance with the terms of the Agreement (including this DPA).
+(4) ensuring that its instructions to EveryAction regarding the processing of Customer Data comply with applicable laws, including Data Protection Law.
+and (5) complying with all laws (including Data Protection Law) applicable to any emails, text messages, electronic commercial messages, or other content created, sent or managed through the EveryAction Materials, including those relating to obtaining consents (where required) to send such content.
+Customer shall inform EveryAction without undue delay if it is not able to comply with its responsibilities under this Section 2(a)(i) or applicable Data Protection Law.
+ii.
+Controller instructions.
+The parties agree that the Agreement (including this DPA), together with Customer's use of the EveryAction Materials in accordance with the Agreement, constitute Customer's complete and final instructions to EveryAction in relation to the processing of Customer Data, and additional instructions outside the scope of the instructions shall require prior written agreement between Customer and EveryAction.
+b.
+EveryAction.
+i.
+Compliance with Instructions.
+EveryAction shall only process Customer Data for the purposes described in this DPA or as otherwise agreed within the scope of Customer's lawful instructions, except where and to the extent otherwise required by applicable law.
+EveryAction is not responsible for compliance with any Data Protection Law applicable to Customer or Customer's industry that are not generally applicable to EveryAction.
+ii.
+Conflict of Law.
+If EveryAction becomes aware that it cannot process Customer Data in accordance with Customer's instructions due to a legal requirement under any applicable law, EveryAction will (1) promptly notify Customer of that legal requirement to the extent permitted by the applicable law.
+and (2) where necessary, cease all processing (other than merely storing and maintaining the security of the affected Customer Data) until such time as Customer issues new instructions with which EveryAction is able to comply.
+If this provision is invoked, EveryAction will not be liable to Customer under the Agreement for any failure to perform the applicable EveryAction Materials until such time as Customer issues new lawful instructions regarding the processing.
+iii.
+Security.
+EveryAction shall implement and maintain appropriate technical and organizational measures to protect Customer Data from Customer Data Breaches, as described under Annex 2 to this DPA ("Security Measures").
+Notwithstanding any provision to the contrary, EveryAction may modify or update the Security Measures at its discretion provided that such modification or update does not result in a material degradation in the protection offered by the Security Measures.
+iv.
+Confidentiality.
+EveryAction shall ensure that any personnel whom EveryAction authorizes to process Customer Data on its behalf is subject to appropriate confidentiality obligations (whether a contractual or statutory duty) with respect to that Customer Data.
+v.
+Customer Data Breaches.
+EveryAction will notify Customer without undue delay after it becomes aware of any Customer Data Breach and shall provide timely information relating to the Customer Data Breach as it becomes known or reasonably requested by Customer.
+At Customer's request, EveryAction will promptly provide Customer with such reasonable assistance as necessary to enable Customer to notify relevant Customer Data Breaches to competent authorities and/or affected data subjects, if Customer is required to do so under Data Protection Law.
+vi.
+Deletion or Return of Customer Data.
+EveryAction will delete or return all Customer Data (including copies thereof) processed pursuant to this DPA, on termination or expiration of the Agreement, save that this requirement shall not apply to the extent EveryAction is required by applicable law to retain some or all of the Customer Data, or to Customer Data it has archived on back-up systems, which data EveryAction shall securely isolate and protect from any further processing and delete in accordance with its deletion practices.
+You may request the deletion of your EveryAction account after expiration or termination of your subscription by sending a request to privacy@everyaction.com.
+
+3.
+Data Subject Requests. Customer has a number of options through the EveryAction Materials to retrieve, correct, delete, or restrict Customer Data, which Customer may use to assist it in connection with its obligations under Data Protection Law, including its obligations relating to responding to requests from data subjects to exercise their rights under applicable Data Protection Law ("Data Subject Requests").
+To the extent that Customer is unable to independently address a Data Subject Request through the EveryAction Materials, then upon Customer's written request EveryAction shall provide reasonable assistance to Customer to respond to any Data Subject Requests or requests from data protection authorities relating to the processing of Customer Data under the Agreement.
+If a Data Subject Request or other communication regarding the processing of Customer Data under the Agreement is made directly to EveryAction, EveryAction will promptly inform Customer and will advise the data subject to submit their request to Customer.
+Customer shall be solely responsible for responding substantively to any such Data Subject Requests or communications involving Customer Data.
+
+4.
+Sub-Processors. Customer agrees that EveryAction may engage Sub-Processors to process Customer Data on Customer's behalf.
+EveryAction has currently appointed, as Sub-Processors, the third parties listed in Annex 4 to this DPA.
+EveryAction shall notify Customer if it adds Sub-Processors to Annex 4 prior to any such changes through the administrator contact information provided in the Platform.
+Where EveryAction engages Sub-Processors, EveryAction will impose data protection terms on the Sub-Processors that provide at least the same level of protection for Customer Data as those in this DPA, to the extent applicable to the nature of the services provided by such Sub-Processors.
+EveryAction will remain responsible for each Sub-Processor's compliance with the obligations of this DPA and for any acts or omissions of such Sub-Processor that cause EveryAction to breach any of its obligations under this DPA.
+
+5.
+Data Transfers. Customer acknowledges and agrees that EveryAction may access and process Customer Data on a global basis as necessary to provide the EveryAction Materials in accordance with the Agreement.
+in particular, Customer Data will be transferred to and processed by EveryAction in the United States.
+EveryAction shall ensure such transfers are made in compliance with the requirements of Data Protection Law.
+
+6.
+Additional Provisions for European Data
+
+a.
+Scope of Section 6.
+This Section 6 shall apply only with respect to European Data.
+b.
+Roles of the Parties.
+When processing European Data in accordance with Customer's instructions, the parties acknowledge and agree that Customer is the controller of European Data and EveryAction is the processor.
+c.
+Instructions.
+If EveryAction believes that an Instruction of Customer infringes European Data Protection Law (where applicable), it will inform Customer without delay.
+d.
+Notification and Objection to New Sub-Processors.
+EveryAction will notify Customer of any changes to Sub-processors by updating Annex 4 to this DPA and will give Customer the opportunity to object to the engagement of the new Sub-Processor on reasonable grounds relating to the protection of Customer Data within ten (10) days after updating Annex 4 to this DPA.
+If Customer does notify EveryAction of such an objection, the parties will discuss Customer's concerns in good faith with a view to achieving a commercially reasonable resolution.
+If no such resolution can be reached, EveryAction will, at its sole discretion, either not appoint the new Sub-Processor, or permit Customer to suspend or terminate the affected EveryAction Materials in accordance with the termination provisions of the Agreement without liability to either party (but without prejudice to any fees incurred by Customer prior to suspension or termination).
+e.
+Data Protection Impact Assessments and Consultation with Supervisory Authorities.
+To the extent that the required information is reasonably available to EveryAction, and Customer does not otherwise have access to the required information, EveryAction will provide reasonable assistance to Customer with any data protection impact assessments, and prior consultations with supervisory authorities or other competent data privacy authorities to the extent required by European Data Protection Law.
+f.
+Transfer Mechanisms for Data Transfers.
+EveryAction shall not transfer European Data to any country or recipient not recognized as providing an adequate level of protection for Customer Data (within the meaning of European Data Protection Law), unless it first takes all such measures as are necessary to ensure the transfer is in compliance with applicable European Data Protection Law.
+Such measures may include (without limitation) transferring such data to a recipient that is self-certified to the Privacy Shield, to a recipient that has achieved binding corporate rules authorization in accordance with European Data Protection Law, or to a recipient that has executed appropriate standard contractual clauses adopted or approved by the European Commission.
+Customer acknowledges that in connection with the performance of the EveryAction Materials, EveryAction, Inc.
+is a recipient of European Data in the United States.
+The parties agree that EveryAction makes available the transfer mechanisms listed below:
+
+
+
+Privacy Shield : For as long as EveryAction is self-certified to the Privacy Shield, the parties acknowledge and agree that: (i) EveryAction will be deemed to provide adequate protection for European Data (within the meaning of European Data Protection Law) by virtue of having self-certified its compliance with Privacy Shield.
+(ii) EveryAction shall process European Data in compliance with the Privacy Shield Principles.
+and (iii) if EveryAction is unable to comply with this requirement, EveryAction shall inform Customer.
+
+
+
+Standard Contractual Clauses : To the extent that Privacy Shield is revoked, or held by a court of competent jurisdiction to be invalid, EveryAction agrees to abide by and process European Data in compliance with the Standard Contractual Clauses, and if and to the extent the Standard Contractual Clauses (where applicable) conflict with any provision of this DPA, the Standard Contractual Clauses shall prevail to the extent of such conflict.
+
+
+
+Order of Precedence. If more than one transfer mechanism applies to the EveryAction Materials, the transfer of Customer Data will be subject to a single transfer mechanism in accordance with the following order of precedence: (i) Privacy Shield then (ii) Standard Contractual Clauses.
+
+
+g.
+Demonstration of Compliance.
+EveryAction shall make available to Customer all information reasonably necessary to demonstrate compliance with this DPA and allow for and contribute to audits, including inspections by Customer to assess compliance with this DPA.
+Customer acknowledges and agrees that it shall exercise its audit rights under this DPA by instructing EveryAction to comply with the audit measures described in this sub-section (g).
+Customer acknowledges that the EveryAction Materials is hosted by EveryAction's data center partners who maintain independently validated security programs (including SOC 2 and ISO 27001) and EveryAction's systems are regularly evaluated by independent third-party testing firms.
+Upon request, EveryAction shall supply (on a confidential basis) a summary copy of any testing report(s) to Customer so that Customer can verify EveryAction's compliance with this Security Measures under this DPA.
+Further, at Customer's written request, EveryAction will provide written responses (on a confidential basis) to all reasonable requests for information made by Customer necessary to confirm EveryAction's compliance with this DPA, provided that Customer shall not exercise this right more than once per calendar year.
+
+7.
+Additional Provisions for Non-European Data
+
+a.
+Scope of Section 7.
+This Section 7 shall apply only with respect to Non-European Data.
+b.
+CCPA.
+i.
+Definitions.
+The definitions of: "controller" includes "Business".
+"processor" includes "Service Provider".
+"data subject" includes "Consumer".
+"personal data" includes "Personal Information".
+in each case as defined under CCPA.
+ii.
+Roles of the Parties.
+When processing Personal Information subject to protection under the CCPA in accordance with Customer's instructions, the parties acknowledge and agree that Customer is a Business and EveryAction is a Service Provider.
+iii.
+Responsibilities.
+The parties agree that EveryAction will process Personal Information subject to protection under the CCPA as a Service Provider strictly for: (1) the purpose of performing or providing the EveryAction Materials under the Agreement (the "Business Purpose"), (2) as to Usage Data, for its own legitimate Business Purpose as per our Privacy Policy.
+The parties agree that EveryAction shall not (3) Sell such Personal Information (as defined in the CCPA).
+(4) retain, use, or disclose California Personal Information for a commercial purpose other than for the Business Purpose or as otherwise permitted by the CCPA.
+or (5) retain, use, or disclose Personal Information outside of the direct business relationship between Customer and EveryAction.
+iv.
+Aggregated or De-identified Customer Data.
+EveryAction may de-identify or aggregate Customer Data as part of performing or providing the EveryAction Materials specified in this DPA and the Agreement.
+v.
+Certification.
+EveryAction certifies that it understands and will comply with the restrictions set out in Section 7(b)(iii).
+c.
+PIPEDA.
+i.
+EveryAction takes steps to ensure that EveryAction's Sub-processors, as described in this DPA, are third parties under PIPEDA, with whom EveryAction has entered into a written contract that includes terms substantially similar to this DPA.
+EveryAction conducts appropriate due diligence on its Sub-processors.
+ii.
+EveryAction will implement technical and organizational measures as set forth in Annex 2 of this DPA.
+
+8.
+General Provisions
+
+a.
+Amendments.
+Notwithstanding anything else to the contrary in the Agreement and without prejudice to Section 2(b)(ii), EveryAction reserves the right to make any updates and changes to this DPA in order for EveryAction to meet its obligations under Data Protection Law, as reasonably determined by EveryAction.
+b.
+Severability.
+If any individual provisions of this DPA are determined to be invalid or unenforceable, the validity and enforceability of the other provisions of this DPA shall not be affected.
+c.
+Limitation of Liability.
+Each party and each of their Affiliates' liability, taken in aggregate, arising out of or related to this DPA (and any other DPAs between the parties) and the Standard Contractual Clauses (where applicable), whether in contract, tort or under any other theory of liability, shall be subject to the limitations and exclusions of liability set out in the section of the Agreement entitled "Limitation of Liability" and any reference in such section to the liability of a party means aggregate liability of that party and all of its Affiliates under the Agreement (including this DPA).
+d.
+Governing Law.
+This DPA shall be governed by and construed in accordance with the governing law and jurisdiction provisions in the Agreement, unless required otherwise by Data Protection Law.
+
+9.
+Parties to this DPA
+
+a.
+Authorized Affiliates.
+By signing the Agreement, Customer enters into this DPA on behalf of itself and, to the extent required under applicable Data Protection Law, in the name and on behalf of its Authorized Affiliates, thereby establishing a separate DPA between EveryAction and each such Authorized Affiliate subject to the Agreement and Sections 8 and 9 of this DPA.
+Each Authorized Affiliate agrees to be bound by the obligations under this DPA and, to the extent applicable, the Agreement.
+For the purposes of this DPA only, and except where indicated otherwise, the term "Customer" shall include Customer and such Authorized Affiliates.
+b.
+Authorization.
+The legal entity agreeing to this DPA as Customer represents that it is authorized to agree to this DPA for and on behalf of itself and, as applicable, each of its Authorized Affiliates.
+c.
+Remedies.
+Except where applicable Data Protection Law require an Authorized Affiliate to exercise a right or seek any remedy under this DPA against EveryAction directly by itself, the parties agree that (i) solely the Customer entity that is the contracting party to the Agreement shall exercise any right or seek any remedy any Authorized Affiliate may have under this DPA on behalf of its Affiliates, and (ii) the Customer entity that is the contracting party to the Agreement shall exercise any such rights under this DPA not separately for each Authorized Affiliate individually but in a combined manner for itself and all of its Authorized Affiliates together.
+The Customer entity that is the contracting entity is responsible for coordinating all communication with EveryAction under the DPA and shall be entitled to make and receive any communication related to this DPA on behalf of its Authorized Affiliates.
+d.
+Other rights.
+The parties agree that Customer shall, when reviewing EveryAction's compliance with this DPA pursuant to Section 6(g), take all reasonable measures to limit any impact on EveryAction and its Affiliates by combining several audit requests carried out on behalf of the Customer entity that is the contracting party to the Agreement and all of its Authorized Affiliates in one single audit.
+
+Annex 1 - Details of processing
+
+This Annex forms part of the DPA.
+
+A.
+Nature and Purpose of processing 
+
+EveryAction will process Customer Data as necessary to provide the EveryAction Materials pursuant to the Agreement, as further specified in one or more Order Form(s), and as further instructed by Customer in its use of the EveryAction Materials.
+
+B.
+Duration of processing 
+
+Subject to Section 2(b)(vi) of this DPA, EveryAction will process Customer Data for the duration of the Agreement, unless otherwise agreed in writing.
+
+C.
+Categories of Data subjects
+
+Customer may submit Customer Data in the course of using the EveryAction Materials, the extent of which is determined and controlled by Customer in its sole discretion, and which may include, but is not limited to Customer Data relating to the following categories of data subjects:
+
+
+Customer's Donors, Constituents, Voting Public, and other Customer Contacts (collectively, "Contacts").
+
+
+Customer's Authorized Users, Volunteers, Employees, Contractors, and other Service Providers (collectively, " Authorized Users").
+
+
+
+D.
+Categories of Customer Data 
+
+Customer may submit Customer Data to the EveryAction Materials, the extent of which is determined and controlled by Customer in its sole discretion, and which may include but is not limited to the following categories of Customer Data:
+
+
+Contacts: Identification and contact data (name, date of birth, gender, general, occupation or other demographic information, address, title, contact details, including email address).
+personal interests or preferences (including donation/contribution history, contact preferences, and publicly available social media profile information).
+IT information (IP addresses, Usage Data, cookies data, online navigation data, location data, browser data).
+financial information (credit card details, account details, payment information).- Any other Customer Data submitted by, sent to, or received by Customer, or Customer's end users, via the EveryAction Materials.
+
+
+Authorized Users: Identification and contact data (name, address, title, contact details, username).
+employment details (employer, job title, geographic location, area of responsibility).
+IT information (IP addresses, Usage Data, cookies data, online navigation data, location data, browser data).
+
+
+
+E.
+Special categories of data (if appropriate)
+
+Customer may submit special categories of data to the EveryAction Materials, the extent of which is determined and controlled by the Customer in its sole discretion, and which is for the sake of clarity Customer Data with information revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade-union membership, and the processing of genetic data, data concerning health or data concerning a natural person's sex life or sexual orientation.
+
+F.
+Processing Operations
+
+Customer Data will be processed in accordance with the Agreement (including this DPA) and may be subject to the following processing activities: (i) storage and other processing necessary to provide, maintain and improve the EveryAction Materials provided to Customer.
+(ii) disclosure in accordance with the Agreement (including this DPA), or (iii) as compelled by applicable law.
+
+Annex 2 - Security Measures
+
+This Annex forms part of the DPA.
+EveryAction currently observes the Security Measures described in this Annex 2.
+All capitalized terms not otherwise defined herein shall have the meanings as set forth in the Agreement.
+EveryAction employs a risk-based assessment security program (including the Security Measures) to help protect Customer Data from unauthorized use, access, or disclosure.
+Our program's framework is based on organizational, technical, and physical safeguards reasonably designed to protect the confidentiality, integrity, and available of Customer Data including: (a) physical and logical access controls (e.g., two-factor authentication), (b) encryption in transit using TLS protocol, (c) periodic security audits and assessments, and (d) third-party security incident monitoring and notification.
+This Section describes the minimum Security Measures that we maintain in protecting Customer Data and, as security threats shift and evolve, we continue to update our security measures and strategy.
+EveryAction, also, depending on the Platform, uses and leverages AWS or Azure data centers.
+Information about AWS and Microsoft's security can be found here and here.
+While the EveryAction Materials are not intended to supplant recognized industry best practices that a Customer maintain regular data backups or redundant data archives of its Customer Data, EveryAction performs nightly backups of its databases with weekly backups transferred to secure external media for preservation (the "Data Backup").
+
+Annex 3 - Standard Contractual Clauses
+
+For the purposes of Article 26(2) of Directive 95/46/EC for the transfer of personal data to processors established in third countries which do not ensure an adequate level of data protection,
+
+THE CUSTOMER, AS DEFINED IN THE EVERYACTION CUSTOMER TERMS OF SERVICE
+
+(the "data exporter")
+And
+
+EVERYACTION INC., 1445 New York Avenue, NW, Suite 200, Washington, DC 20005
+
+(the "data importer")
+each a 'party'.
+together 'the parties',
+HAVE AGREED on the following Contractual Clauses (the Clauses) in order to adduce adequate safeguards with respect to the protection of privacy and fundamental rights and freedoms of individuals for the transfer by the data exporter to the data importer of the personal data specified in Appendix 1.
+
+
+Clause 1
+
+
+
+Definitions
+
+For the purposes of the Clauses:
+'personal data', 'special categories of data', 'process/processing', 'controller', 'processor', 'data subject' and 'supervisory authority' shall have the same meaning as in Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data;
+'the data exporter' means the controller who transfers the personal data;
+'the data importer' means the processor who agrees to receive from the data exporter personal data intended for processing on his behalf after the transfer in accordance with his instructions and the terms of the Clauses and who is not subject to a third country's system ensuring adequate protection within the meaning of Article 25(1) of Directive 95/46/EC;
+'the subprocessor' means any processor engaged by the data importer or by any other subprocessor of the data importer who agrees to receive from the data importer or from any other subprocessor of the data importer personal data exclusively intended for processing activities to be carried out on behalf of the data exporter after the transfer in accordance with his instructions, the terms of the Clauses and the terms of the written subcontract;
+'the applicable data protection law' means the legislation protecting the fundamental rights and freedoms of individuals and, in particular, their right to privacy with respect to the processing of personal data applicable to a data controller in the Member State in which the data exporter is established;
+'technical and organisational security measures' means those measures aimed at protecting personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing.
+
+
+Clause 2
+
+
+
+Details of the transfer
+
+The details of the transfer and in particular the special categories of personal data where applicable are specified in Appendix 1 which forms an integral part of the Clauses.
+
+
+Clause 3
+
+
+
+Third-party beneficiary clause
+
+
+
+The data subject can enforce against the data exporter this Clause, Clause 4(b) to (i), Clause 5(a) to (e), and (g) to (j), Clause 6(1) and (2), Clause 7, Clause 8(2), and Clauses 9 to 12 as third-party beneficiary.
+
+
+The data subject can enforce against the data importer this Clause, Clause 5(a) to (e) and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where the data exporter has factually disappeared or has ceased to exist in law unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law, as a result of which it takes on the rights and obligations of the data exporter, in which case the data subject can enforce them against such entity.
+
+
+The data subject can enforce against the subprocessor this Clause, Clause 5(a) to (e) and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law as a result of which it takes on the rights and obligations of the data exporter, in which case the data subject can enforce them against such entity.
+Such third-party liability of the subprocessor shall be limited to its own processing operations under the Clauses.
+
+
+The parties do not object to a data subject being represented by an association or other body if the data subject so expressly wishes and if permitted by national law.
+
+
+
+
+Clause 4
+
+
+
+Obligations of the data exporter
+
+The data exporter agrees and warrants:
+(a) that the processing, including the transfer itself, of the personal data has been and will continue to be carried out in accordance with the relevant provisions of the applicable data protection law (and, where applicable, has been notified to the relevant authorities of the Member State where the data exporter is established) and does not violate the relevant provisions of that State;
+(b) that it has instructed and throughout the duration of the personal data-processing services will instruct the data importer to process the personal data transferred only on the data exporter's behalf and in accordance with the applicable data protection law and the Clauses;
+(c) that the data importer will provide sufficient guarantees in respect of the technical and organisational security measures specified in Appendix 2 to this contract;
+(d) that after assessment of the requirements of the applicable data protection law, the security measures are appropriate to protect personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing, and that these measures ensure a level of security appropriate to the risks presented by the processing and the nature of the data to be protected having regard to the state of the art and the cost of their implementation;
+(e) that it will ensure compliance with the security measures;
+(f) that, if the transfer involves special categories of data, the data subject has been informed or will be informed before, or as soon as possible after, the transfer that its data could be transmitted to a third country not providing adequate protection within the meaning of Directive 95/46/EC;
+(g) to forward any notification received from the data importer or any subprocessor pursuant to Clause 5(b) and Clause 8(3) to the data protection supervisory authority if the data exporter decides to continue the transfer or to lift the suspension;
+(h) to make available to the data subjects upon request a copy of the Clauses, with the exception of Appendix 2, and a summary description of the security measures, as well as a copy of any contract for subprocessing services which has to be made in accordance with the Clauses, unless the Clauses or the contract contain commercial information, in which case it may remove such commercial information;
+(i) that, in the event of subprocessing, the processing activity is carried out in accordance with Clause 11 by a subprocessor providing at least the same level of protection for the personal data and the rights of data subject as the data importer under the Clauses.
+and
+(j) that it will ensure compliance with Clause 4(a) to (i).
+
+
+Clause 5
+
+
+
+Obligations of the data importer
+
+The data importer agrees and warrants:
+(a) to process the personal data only on behalf of the data exporter and in compliance with its instructions and the Clauses.
+if it cannot provide such compliance for whatever reasons, it agrees to inform promptly the data exporter of its inability to comply, in which case the data exporter is entitled to suspend the transfer of data and/or terminate the contract;
+(b) that it has no reason to believe that the legislation applicable to it prevents it from fulfilling the instructions received from the data exporter and its obligations under the contract and that in the event of a change in this legislation which is likely to have a substantial adverse effect on the warranties and obligations provided by the Clauses, it will promptly notify the change to the data exporter as soon as it is aware, in which case the data exporter is entitled to suspend the transfer of data and/or terminate the contract;
+(c) that it has implemented the technical and organisational security measures specified in Appendix 2 before processing the personal data transferred;
+(d) that it will promptly notify the data exporter about:
+(i) any legally binding request for disclosure of the personal data by a law enforcement authority unless otherwise prohibited, such as a prohibition under criminal law to preserve the confidentiality of a law enforcement investigation;
+(ii) any accidental or unauthorised access.
+and
+(iii) any request received directly from the data subjects without responding to that request, unless it has been otherwise authorised to do so;
+(e) to deal promptly and properly with all inquiries from the data exporter relating to its processing of the personal data subject to the transfer and to abide by the advice of the supervisory authority with regard to the processing of the data transferred;
+(f) at the request of the data exporter to submit its data-processing facilities for audit of the processing activities covered by the Clauses which shall be carried out by the data exporter or an inspection body composed of independent members and in possession of the required professional qualifications bound by a duty of confidentiality, selected by the data exporter, where applicable, in agreement with the supervisory authority;
+(g) to make available to the data subject upon request a copy of the Clauses, or any existing contract for subprocessing, unless the Clauses or contract contain commercial information, in which case it may remove such commercial information, with the exception of Appendix 2 which shall be replaced by a summary description of the security measures in those cases where the data subject is unable to obtain a copy from the data exporter;
+(h) that, in the event of subprocessing, it has previously informed the data exporter and obtained its prior written consent;
+(i) that the processing services by the subprocessor will be carried out in accordance with Clause 11;
+(j) to send promptly a copy of any subprocessor agreement it concludes under the Clauses to the data exporter.
+
+
+Clause 6
+
+
+
+Liability
+
+
+
+The parties agree that any data subject, who has suffered damage as a result of any breach of the obligations referred to in Clause 3 or in Clause 11 by any party or subprocessor is entitled to receive compensation from the data exporter for the damage suffered.
+
+
+If a data subject is not able to bring a claim for compensation in accordance with paragraph 1 against the data exporter, arising out of a breach by the data importer or his subprocessor of any of their obligations referred to in Clause 3 or in Clause 11, because the data exporter has factually disappeared or ceased to exist in law or has become insolvent, the data importer agrees that the data subject may issue a claim against the data importer as if it were the data exporter, unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law, in which case the data subject can enforce its rights against such entity.
+The data importer may not rely on a breach by a subprocessor of its obligations in order to avoid its own liabilities.
+
+
+If a data subject is not able to bring a claim against the data exporter or the data importer referred to in paragraphs 1 and 2, arising out of a breach by the subprocessor of any of their obligations referred to in Clause 3 or in Clause 11 because both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, the subprocessor agrees that the data subject may issue a claim against the data subprocessor with regard to its own processing operations under the Clauses as if it were the data exporter or the data importer, unless any successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law, in which case the data subject can enforce its rights against such entity.
+The liability of the subprocessor shall be limited to its own processing operations under the Clauses.
+
+
+
+
+Clause 7
+
+
+
+Mediation and jurisdiction
+
+
+
+The data importer agrees that if the data subject invokes against it third-party beneficiary rights and/or claims compensation for damages under the Clauses, the data importer will accept the decision of the data subject:
+(a) to refer the dispute to mediation, by an independent person or, where applicable, by the supervisory authority;
+(b) to refer the dispute to the courts in the Member State in which the data exporter is established.
+
+
+The parties agree that the choice made by the data subject will not prejudice its substantive or procedural rights to seek remedies in accordance with other provisions of national or international law.
+
+
+
+
+Clause 8
+
+
+
+Cooperation with supervisory authorities
+
+
+
+The data exporter agrees to deposit a copy of this contract with the supervisory authority if it so requests or if such deposit is required under the applicable data protection law.
+
+
+The parties agree that the supervisory authority has the right to conduct an audit of the data importer, and of any subprocessor, which has the same scope and is subject to the same conditions as would apply to an audit of the data exporter under the applicable data protection law.
+
+
+The data importer shall promptly inform the data exporter about the existence of legislation applicable to it or any subprocessor preventing the conduct of an audit of the data importer, or any subprocessor, pursuant to paragraph 2.
+In such a case the data exporter shall be entitled to take the measures foreseen in Clause 5(b).
+
+
+
+
+Clause 9
+
+
+
+Governing law
+
+The Clauses shall be governed by the law of the Member State in which the data exporter is established.
+
+
+Clause 10
+
+
+
+Variation of the contract
+
+The parties undertake not to vary or modify the Clauses.
+This does not preclude the parties from adding clauses on business related issues where required as long as they do not contradict the Clause.
+
+
+Clause 11
+
+
+
+Subprocessing
+
+
+
+The data importer shall not subcontract any of its processing operations performed on behalf of the data exporter under the Clauses without the prior written consent of the data exporter.
+Where the data importer subcontracts its obligations under the Clauses, with the consent of the data exporter, it shall do so only by way of a written agreement with the subprocessor which imposes the same obligations on the subprocessor as are imposed on the data importer under the Clauses.
+Where the subprocessor fails to fulfil its data protection obligations under such written agreement the data importer shall remain fully liable to the data exporter for the performance of the subprocessor's obligations under such agreement.
+
+
+The prior written contract between the data importer and the subprocessor shall also provide for a third-party beneficiary clause as laid down in Clause 3 for cases where the data subject is not able to bring the claim for compensation referred to in paragraph 1 of Clause 6 against the data exporter or the data importer because they have factually disappeared or have ceased to exist in law or have become insolvent and no successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law.
+Such third-party liability of the subprocessor shall be limited to its own processing operations under the Clauses.
+
+
+The provisions relating to data protection aspects for subprocessing of the contract referred to in paragraph 1 shall be governed by the law of the Member State in which the data exporter is established.
+
+
+The data exporter shall keep a list of subprocessing agreements concluded under the Clauses and notified by the data importer pursuant to Clause 5(j), which shall be updated at least once a year.
+The list shall be available to the data exporter's data protection supervisory authority.
+
+
+
+
+Clause 12
+
+
+
+Obligation after the termination of personal data-processing services
+
+
+
+The parties agree that on the termination of the provision of data-processing services, the data importer and the subprocessor shall, at the choice of the data exporter, return all the personal data transferred and the copies thereof to the data exporter or shall destroy all the personal data and certify to the data exporter that it has done so, unless legislation imposed upon the data importer prevents it from returning or destroying all or part of the personal data transferred.
+In that case, the data importer warrants that it will guarantee the confidentiality of the personal data transferred and will not actively process the personal data transferred anymore.
+
+
+The data importer and the subprocessor warrant that upon request of the data exporter and/or of the supervisory authority, it will submit its data-processing facilities for an audit of the measures referred to in paragraph 1.
+
+
+
+Appendix 1 to the Standard Contractual Clauses
+
+This Appendix forms part of the Clauses.
+Defined terms used in this Appendix 1 shall have the meaning given to them in the Agreement (including the DPA).
+
+Data exporter
+
+The data exporter is the legal entity specified as "Customer" in the DPA.
+
+Data importer
+
+The data importer is EveryAction, Inc.
+
+Data subjects
+
+Please see Annex 1 of the DPA, which describes the data subjects.
+
+Categories of data
+
+Please see Annex 1 of the DPA, which describes the categories of data.
+
+Special categories of data (if appropriate)
+
+Please see Annex 1 of the DPA, which describes the special categories of data.
+
+Purposes of processing
+
+EveryAction, Inc.
+shall process personal data as necessary to provide the EveryAction Materials to data exporter in accordance with the Agreement.
+
+Processing operations
+
+Please see Annex 1 of the DPA, which describes the processing operations.
+
+Appendix 2 to the Standard Contractual Clauses
+
+This Appendix forms part of the Clauses.
+Description of the technical and organisational security measures implemented by the data importer in accordance with Clauses 4(d) and 5(c) (or document/legislation attached):
+Please see Annex 2 of the DPA, which describes the technical and organisational security measures implemented by EveryAction.
+
+Appendix 3 to the Standard Contractual Clauses
+
+This Appendix forms part of the Clauses.
+This Appendix sets out the parties' interpretation of their respective obligations under specific terms of the Standard Contractual Clauses ("Clauses").
+Where a party complies with the interpretations set out in this Appendix, that party shall be deemed by the other party to have complied with its commitments under the Clauses.
+For the purposes of this Appendix, "DPA" means the Data processing Agreement in place between Customer and EveryAction and to which these Clauses are incorporated, and "Agreement" shall have the meaning given to it in the DPA.
+
+Clause 4(h) and 8: Disclosure of these Clauses
+
+a.
+Data exporter agrees that these Clauses constitute data importer's Confidential Information as that term is defined in the Agreement and may not be disclosed by data exporter to any third party without data importer's prior written consent unless permitted pursuant to Agreement.
+This shall not prevent disclosure of these Clauses to a data subject pursuant to Clause 4(h) or a supervisory authority pursuant to Clause 8.
+
+Clause 5(a): Suspension of data transfers and termination
+
+a.
+The parties acknowledge that data importer may process the personal data only on behalf of the data exporter and in compliance with its instructions as provided by the data exporter and the Clauses.
+b.
+The parties acknowledge that if data importer cannot provide such compliance for whatever reason, it agrees to inform promptly the data exporter of its inability to comply, in which case the data exporter is entitled to suspend the transfer of data and/or terminate the contract.
+c.
+If the data exporter intends to suspend the transfer of personal data and/or terminate these Clauses, it shall endeavour to provide notice to the data importer and provide data importer with a reasonable period of time to cure the non-compliance ("Cure Period").
+d.
+If after the Cure Period the data importer has not or cannot cure the non-compliance then the data exporter may suspend or terminate the transfer of personal data immediately.
+The data exporter shall not be required to provide such notice in instance where it considers there is a material risk of harm to data subjects or their personal data.
+
+Clause 5(f): Audit
+
+a.
+Data exporter acknowledges and agrees that it exercises its audit right under Clause 5(f) by instructing data importer to comply with the audit measures described in Section 6(g) of the DPA.
+
+Clause 5(j): Disclosure of subprocessor agreements 
+
+a.
+The parties acknowledge the obligation of the data importer to send promptly a copy of any onward subprocessor agreement it concludes under the Clauses to the data exporter.
+b.
+The parties further acknowledge that, pursuant to subprocessor confidentiality restrictions, data importer may be restricted from disclosing onward subprocessor agreements to data exporter.
+Notwithstanding this, data importer shall use reasonable efforts to require any subprocessor it appoints to permit it to disclose the subprocessor agreement to data exporter.
+c.
+Even where data importer cannot disclose a subprocessor agreement to data exporter, the parties agree that, upon the request of data exporter, data importer shall (on a confidential basis) provide all information it reasonably requires in connection with such subprocessing agreement to data exporter.
+
+Clause 6: Liability 
+
+a.
+Any claims brought under the Clauses shall be subject to the terms and conditions, including but not limited to, the exclusions and limitations set forth in the Agreement.
+In no event shall any party limit its liability with respect to any data subject rights under these Clauses.
+
+Clause 11: Onward subprocessing 
+
+a.
+The parties acknowledge that, pursuant to FAQ II.1 in Article 29 Working Party Paper WP 176 entitled "FAQs in order to address some issues raised by the entry into force of the EU Commission Decision 2010/87/EU of 5 February 2010 on standard contractual clauses for the transfer of personal data to processors established in third countries under Directive 95/46/EC" the data exporter may provide a general consent to onward subprocessing by the data importer.
+b.
+Accordingly, data exporter provides a general consent to data importer, pursuant to Clause 11 of these Clauses, to engage onward subprocessors.
+Such consent is conditional on data importer's compliance with the requirements set out in Section 7(d) (Notification and Objection to New Sub-Processors) of the DPA.
+
+Clause 12: Obligation after the termination of personal data-processing services
+
+a.
+Data importer agrees that the data exporter will fulfil its obligation to return or destroy all the personal data on the termination of the provision of data-processing services by complying with Section 2(b)(vi) of the DPA.
+
+Annex 4 - List of Sub-Processors
+
+EveryAction maintains an up-to-date list of the names and locations of all sub-processors.
+Customers can obtain a copy by contacting privacy@everyaction.com.

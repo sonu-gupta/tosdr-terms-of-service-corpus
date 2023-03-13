@@ -1,0 +1,17 @@
+
+         TinEye Security Last updated: May 2018
+
+This document outlines some (but not all) of the ways we secure data sent to us.
+
+Our clients image data and meta-data is stored only on equipment TinEye owns and controls.
+TinEye does not store client image data or meta-data on 3rd party cloud services.
+TinEye manages two data centers, both in Toronto, Canada.
+One within our headquarters, the second is an off-site dedicated data center.
+All storage and processing of client data is done in these two data centers.
+Our data centers are physically secure and are only accessible by TinEye staff.
+Client data is kept in separate user accounts to prevent corruption or overlap.
+All API calls and user account pages are encrypted using TLS.
+All account passwords are hashed.
+We do not know what your passwords are.
+All employees are required to sign a non-disclosure agreement that requires them to treat client data as confidential.
+All data storage media (hard drives and solid-state drives) is securely wiped of data or physically destroyed at end of life.

@@ -1,0 +1,79 @@
+
+        Skip to contentHome 
+Products
+Develop
+Get Involved
+Donate
+
+
+KDE Software Privacy Policy
+
+KDE is a Community which has been formed by its collective members for the purpose of the development and promotion of open source computer software.
+This policy governs how the software we produce will handle information on your personal devices.Legal EntityThe KDE Community is represented in legal and financial matters by the K Desktop Environment e.V.
+(known as the KDE e.V.), a registered non-profit in Germany.
+More information on the KDE e.V.
+can be found on its website.ScopeWhile this policy applies to all software produced by the KDE Community, it is possible that where our software is obtained from third party distributors that they have modified our software to no longer respect this privacy policy.
+We recommend that users check with their distributor prior to using our software to ensure that they have not made any modifications which have a privacy impact.General PrincipleAs a general rule, software produced by the KDE Community does not collect, transmit or otherwise transfer information from end-users devices except as a result of an explicit user action.
+Examples of this would include visiting webpages, sending emails and downloading new content (such as desktop wallpapers).
+In some instances, our software may also provide the option for periodic automated checks, such as to check for new email or system software updates.
+Where these periodic automatic checks do exist, the option will be provided to disable them and only the minimum information needed to perform the periodic check will be transmitted.
+Where information from other services is retrieved by our software, such as email messages or files from cloud storage services, this information is never transferred from the device except as the result of explicit user action.
+An example of this would be the user using Dolphin to copy files from one cloud storage provider to another.Get Hot New Stuff FunctionalityCertain software produced by the KDE Community may offer functionality to retrieve new content and addons, through a system known as âGet Hot New Stuffâ.
+This functionality is only activated when accessed by the user, and does not conduct any activity in the background.
+As part of this functionality, details such as your search terms and sort order will be sent to the KDE Store, which will handle it in accordance with its privacy policy.TelemetrySome software produced by the KDE Community may include telemetry components, which provides details on the device itâs running on to us.
+Where this functionality exists, it will always operate on an opt-in basis and be disabled by default, with the ability to change your preferences at any time.
+With regards to information collected, only details on the device itself (such as the software versions installed and its hardware specifications) along with details on how our software is used (such as whether certain features are enabled and what plugins have been installed) are collected.
+Details on the exact information being gathered will be provided by the application prior to the user being given the option to enable Telemetry functionality and any changes to this will be included in the release announcements for our software.
+At no point will any data which could be used to identify the device or its user be collected from the system, and we will not make use of any device, installation or user specific identifiers.
+For the information which is collected, we will cease the collection of that information once we no longer have any use for it and any information already in our possession will be securely destroyed at that point.
+Following the transmission of the telemetry information to us, it will be stored and accessed in accordance with the KDE.org Privacy Policy.
+Telemetry information will not be sent to any other party by our software.
+More information on the requirements our applications are subject to with regards to Telemetry can be found in our Telemetry Policy.Changes in the Privacy PolicyWe may change the privacy policy when we add new services, retire existing services and update existing ones.
+When this is done, except where the updates are minor (such as correcting typographical errors) we will post an announcement regarding the update on our website and detail the impact of the changes on you.Contact informationShould you have any queries or other matters which arenât addressed above, please feel free to contact us as described below.
+For queries relating to updating or removing information, or relating to how our services operate and publish data, please contact the Sysadmin team in the first instance.
+This can be done by sending an email to sysadmin@kde.org, or alternatively by filing a ticket (KDE Identity account required)
+For all other queries, please contact the KDE e.V.
+Board.
+They can be reached by email at kde-ev-board@kde.org.
+Alternatively, should you wish to send your query via physically addressed mail, it can be sent to our office who will bring it to the attention of the Board.Our current postal address can be found on the Contact section of the KDE e.V.
+website.KDE Patrons Donate to KDE Why Donate? Amount â¬
+Donate via PayPalOther ways to donateVisit the KDE MetaStoreShow your love for KDE! Purchase books, mugs, apparel, and more to support KDE.BrowseProductsPlasma
+KDE Applications
+KDE Frameworks
+Plasma Mobile
+KDE Neon
+WikiToLearnDevelopTechbase Wiki
+API Documentation
+Qt Documentation
+Inqlude Documentation
+KDE GoalsNews &amp.
+PressAnnouncements
+KDE.news
+Planet KDE
+Screenshots
+Miscellaneous StuffResourcesCommunity Wiki
+UserBase Wiki
+Support
+Download KDE Software
+Code of Conduct
+Privacy Policy
+Applications Privacy PolicyDestinationsKDE Store
+KDE e.V.
+KDE Free Qt Foundation
+KDE Timeline
+International WebsitesShare on Matrix
+Post on Facebook
+Share on Twitter
+Share on Diaspora
+Share on Mastodon
+Share on LinkedIn
+Share on Reddit
+Share on YouTube
+Share on Peertube
+Share on VK
+Share on Instagram
+Maintained by KDE Webmasters (public mailing list).
+Generated from 165419c95.
+KDEÂ® and the K Desktop EnvironmentÂ® logo are registered trademarks of KDE e.V.
+| Legal
+

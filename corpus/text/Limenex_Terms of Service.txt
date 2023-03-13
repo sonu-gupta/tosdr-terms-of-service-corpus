@@ -1,0 +1,1525 @@
+
+Users and customers of Services provided by Limenex must accept the terms and conditions of business set out below.
+This Terms of Service (this "Agreement", "TOS", "Terms and Policies") is between i6 Internet Solutions, a Singapore-registered business (UEN: 53223949X) operating under Limenex.com ("Limenex"), formed under the laws of the Republic of Singapore and the person (individual or legal person) whose signs Limenex's service order and set up form (the "Order") incorporating this Agreement by reference ("Customer", "Client", "Subscriber").
+This Agreement governs Customer's use of Limenex's services.
+
+Refund Policy
+Service Level Agreement (SLA)
+Free Domain Conditions
+Payment &amp.
+Bills
+Delivery of Services
+Domain Names
+
+SSL Certificates
+Hosting Services
+General Terms &amp.
+Policies
+Bulk Commercial E-Mail
+Resellers
+Grounds for Suspension and Termination
+Resource Usage
+Mailing Policy
+Spam
+DDoS Prone Customers
+Network Abuse
+Content
+Backup Copy
+Changes to Limenex's Network
+Overages
+Support Policy
+Refusal of Service
+IP Address Ownership
+Privacy
+Disputes
+Governing Law
+Cancellation Procedure
+Discount Coupons
+Force Majeure
+Limitation of Damages
+Abuse Tickets
+Disclaimer
+Amendments
+
+
+Where the content states: "We" includes Limenex or any party acting on Limenex's implicit instructions.
+"You", "Customer" or "Reseller" includes the person purchasing the services and/or any party acting on the customer's instructions.
+"Member" includes the purchaser of services and/or any party acting on the purchaser's instructions.
+"The Registrant" includes the person applying for a domain name or any party acting on the Registrant's instructions.
+"The Registry" refers to the relevant domain names Registry.
+"Server" means the computer server equipment in connection with the provision of the Services.
+"Web Site" means the area on the Server allocated by us to you for use by you as a site on the Internet.
+"TOS" includes this agreement.
+Limenex reserves the right to modify this policy at any time, effective immediately upon posting of the modification to this URL: https://www.limenex.com/terms-of-service.html.
+In consideration of the mutual covenants herein, the parties agree to the following, which shall apply during the term of this agreement:
+
+
+By using any portion of Limenex's service, you are agreeing to this service agreement on this document entirely.
+
+
+Customer represents and warrants to Limenex that the information he, she or it has provided and will provide to Limenex for purposes of establishing and maintaining the service is accurate.
+If Customer is an individual, Customer represents and warrants to Limenex that he or she is at least 18 years of age.
+Limenex may rely on the instructions of the person listed as the Primary Customer Contact on the Order with regard to Customer's account until Customer has provided a written notice changing the Primary Customer Contract.
+
+
+Without prejudice to our other rights and remedies under this Agreement, if any sum payable is not paid on or before the due date, we shall be entitled forthwith to suspend the provision of Services to you.
+
+
+You shall indemnify us and keep us indemnified and hold us harmless from and against any breach by you of these terms of business and any claim brought against us by a third party resulting from the provision of Services by us to you and your use of the Services.
+
+
+If you fail to pay any sums due to us as they become due, we may suspend the Services and/or terminate this Agreement forthwith without notice to you.
+
+
+If you break any of these terms and conditions and you fail to correct the breach within seven (7) days following written notice from us specifying the breach, we may terminate this Agreement forthwith.
+
+
+If you are a company and you go into insolvent liquidation or suffer the appointment of an administrator or administrative receiver or enter into a voluntary arrangement with your creditors, we shall be entitled to terminate this Agreement forthwith.
+
+
+On termination of this Agreement or suspension of the Services we shall be entitled immediately to block your Web Site and to remove all data located on it.
+We shall be entitled to delete all such data but we may, at our discretion, hold such data for such period as we may decide to allow you to collect it at your expense, subject to payment in full of any amounts withstanding and payable to us.
+
+
+Limenex is not responsible for any damages your business may suffer.
+Limenex does not make implied or written warranties for any of our services.
+Limenex denies any warranty or merchantability for a specific purpose.
+This includes loss of data resulting from delays, non-deliveries, wrong delivery, and any and all service interruptions caused by Limenex.
+
+
+Limenex reserves the right to not be responsible for the topicality, correctness, completeness or quality of the information provided on our website.
+Liability claims regarding damage caused by the use of any information provided, including any kind of information which is incomplete or incorrect, will therefore be rejected.
+
+
+Liability - You agree that use of the Service is at your own risk.
+Except for information, products, or services clearly identified as being supplied by Limenex, neither Limenex nor any of its affiliate controls, provides, operates, or is in any way responsible for any information, products, or services accessible through the Service.
+Limenex neither endorses nor is responsible for the accuracy of third-party material(s), and you agree that Limenex is not responsible for any loss or damage caused by your use of, or reliance on, such material(s).
+You understand and agree that you have sole responsibility for your posting of any information or material to any site or newsgroup on the Internet, including but not limited to postings to Web sites, whether residing on Limenex equipment or not, postings to newsgroups, and participation in any on-line chat sessions.
+
+
+Customer agrees to indemnify and hold harmless Limenex, Limenex's affiliates, and each of their respective officers, directors, agents, and employees from and against any and all claims, demands, liabilities, obligations, losses, damages, penalties, fines, punitive damages, amounts in interest, expenses and disbursements of any kind and nature whatsoever (including reasonable attorneys fees) brought by a third party under any theory of legal liability arising out of or related to the actual or alleged use of Customer's services in violation of applicable law or the Terms of Service by Customer or any person using Customer's log on information, regardless of whether such person has been authorised to use the services by Customer.
+
+
+You agree that, should you use the Service to send or receive voice communications, Limenex is not acting as a telecommunications carrier or telephone company, that there is no representation made by Limenex as to the suitability of the Service for such use, and that all risk of connection, transmission quality, and accuracy of communications is solely on you, and that Limenex has no liability of any sort for the failure or lack of quality of such use of the Service.
+
+
+You agree to be liable for any damages or loss of service which results in damages to Limenex as a result of any spamming or other violations of Section 12 below.
+These damages include, but are not limited to, system shut downs, retaliatory attacks or data flooding, and loss of peering arrangements.
+You agree that Limenex may pursue any such claims against you in Court.
+
+
+You agree that in no event will Limenex have financial liability to you.
+
+
+THE SERVICE AND ANY SOFTWARE PROVIDED TO YOU BY LIMENEX ARE PROVIDED ON AN "AS IS, AS AVAILABLE" BASIS.
+LIMENEX DOES NOT WARRANT THAT THEY WILL BE ERROR-FREE, COMPLETELY SECURE AND/OR UNINTERRUPTED, OR THAT DEFECTS WILL BE CORRECTED.
+LIMENEX DOES NOT GUARANTEE THE SECURITY OR BACK-UP OF ANY OF YOUR DATA WHICH MAY BE STORED ON THE SERVICE.
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, ALL SERVICES ARE PROVIDED ON AN "AS IS" BASIS.
+
+
+Warranty - LIMENEX MAKES NO EXPRESS OR IMPLIED WARRANTIES, INCLUDING WARRANTIES OF TITLE, NON-INFRINGEMENT, AND WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, REGARDING THE SERVICE, OR ANY SOFTWARE OR OTHER MATERIAL AVAILABLE THROUGH THE SERVICE, REGARDLESS OF WHAT YOU MAY HAVE TOLD LIMENEX ABOUT YOUR INTENDED USE OF THE SERVICE.
+NO ORAL ADVICE OR INFORMATION GIVEN BY LIMENEX OR ITS EMPLOYEES SHALL CREATE A WARRANTY OR OTHERWISE ALTER THE PROVISIONS OF THIS SECTION.
+
+
+Refund Policy
+
+
+If you are unhappy with any aspect of our service, please contact our Feedback department and our friendly staffs will attempt to rectify the situation.
+If the problem cannot be fixed and you are unhappy with the service, you are entitled to a refund for your payment, subjected to the terms listed below.
+
+
+All refund requests have to be submitted to our billing department by opening a ticket within our client area.
+No other forms of refund requests are accepted.
+
+
+We will cancel your service immediately once we receive your refund request.
+
+
+Only first-time customers who does not have or had an account with Limenex are eligible for our moneyback guarantee.
+
+
+Unless otherwise stated, all first-time customers are entitled to a refund for your payment of hosting fees within the first 30 days of service, subjected to the terms listed below.
+
+VPS and Dedicated Servers are strictly non-refundable.
+There are no refunds beyond the first 30 days of service.
+For clarification, addon and configurable options are not considered as part of the hosting fees.
+
+
+
+Paid SSL Certificates can be cancelled and refunded within the first 28 days of purchase, subject to the following terms and conditions:
+
+In the event that a certificate was purchased for fraudulent use, the purchaser forfeits the right to a refund/exchange and the SSL Certificate, security tool or anti-malware tool will get immediately canceled/rejected/revoked.
+The 28-Day Moneyback Guarantee may not apply to the purchase of additional SANs (Subject Alternative Names) due to certain CA limitations.
+Any product that's successfully canceled must not be in use and must be uninstalled and/or revoked.
+Limenex reserves the right to refuse to cancel and/or refund any order that is still in use, not uninstalled, and/or not revoked.
+SSL certificates installation services provided with or without charge are non-refundable and are deducted from the total refund amount for customers requesting a refund under our moneyback guarantee.
+Each SSL certificate installation will be chargeable at $29.99 each.
+There is strictly no refund 28 days after the purchase date.
+
+
+
+The following services are strictly non-refundable:
+
+Setup Fees;
+Virtual Private Server (VPS);
+Dedicated Server;
+cWatch;
+SiteLock;
+SpamExperts;
+Domain Registration;
+Domain Transfer;
+Domain Renewal;
+Domain WHOIS ID Protection;
+Dedicated IP Address;
+Any licensed products purchased through Limenex, including but not limited to cPanel, DirectAdmin, LiteSpeed, Softaculous, Imunify360, KernelCare and CloudLinux;
+Administrative fees, installation fees for custom software or other setup fees, or any fees for any other additional services;
+
+
+
+Account migration, transfer and/or restoration services provided are non-refundable and are deducted from the total refund amount for customers requesting a refund under our moneyback guarantee.
+Each migrated/transferred/restored account will be chargeable at USD$1 each.
+
+
+Any free or paid additional services and software licenses provided are non-refundable and are deducted from the total refund amount for customers requesting a refund under our moneyback guarantee.
+The following fees are deductible (hence will not be refunded):
+
+Domain Name: Based on prevailing renewal rate during purchase
+Dedicated IP Address: Based on purchased rate and USD$5 setup fee
+SSL Certificates Installation: USD$29.99/each
+Any other paid services/software licenses: Based on purchased rate
+
+
+
+If you have requested or used any of the above services listed in section 1(g), 1(h) and 1(i), they will not be refunded as part of the moneyback guarantee and thus considered as chargeable items, depending on the period of validity of the product.
+(E.g.
+If you received a free .com domain name that is registered for 2 years, USD$24 is deductible and will not be refunded.)
+
+
+Limenex reserves the right to impose a 5% administrative fee to send the refund back to your payment source.
+
+
+If you exceeded your storage or bandwidth limit at any point during your service, you are not eligible for the moneyback guarantee.
+
+
+No refunds will be made for the unused time when you downgrade your plan.
+
+
+No refunds will be made if you have violated our Terms of Service and/or Acceptable Use Policy.
+Exception as may be provided therein.
+
+
+Credit on your account cannot be refunded and must be used for purchases and/or renewals.
+
+
+Any funds sent to Limenex which are in excess of the amount owed can only be reimbursed in credit and cannot be refunded.
+
+
+If you have prepaid for more than a month for your account but cancel while having unused months already paid for, the remaining unused amounts will not be refunded.
+Customers have 30 days to request a refund regardless of how many days, weeks, months or years you have paid for.
+
+
+Limenex reserves the right to not accept a refund request on a case by case basis if we feel our services were abused and/or taken advantage of.
+
+
+â Back to top
+Service Level Agreement (SLA)
+
+
+For Cloud Web Hosting, Cloud Reseller Hosting and Business Cloud Hosting accounts, if the total monthly uptime drops below 100% in any given calendar month, you will be credited based on the compensation table in section 2(a)(i), up to a maximum of 100% of the monthly fee for your hosting service (excluding addons and configurable options) for downtime incurred during the calendar month of service for the affected account(s).
+
+
+Compensation Table: Total Downtime
+Credit Total Downtime15 Minutes or Less
+CreditN/A Total Downtime16 to 30 Minutes
+Credit10% of Monthly Fee Total Downtime31 to 60 Minutes
+Credit25% of Monthly Fee Total Downtime61 to 180 Minutes
+Credit50% of Monthly Fee Total Downtime181 to 360 Minutes
+Credit75% of Monthly Fee Total Downtime361 Minutes or More
+Credit100% of Monthly Fee 
+
+Total downtime refers to the total accumulated downtime during a calendar month.
+
+
+Example 1: If there was a downtime from 1305 to 1310 and 1330 to 1335 on a particular day of the calendar month, it will be counted as 10 minutes of total downtime.
+
+
+Example 2: If there was a 20 minutes downtime on 1st January and 30 minutes downtime on 5th January, it will be counted as 50 minutes of total downtime for the calendar month.
+If client has already been issued 10% credit for the 20 minutes of downtime on 1st January, an additional 15% credit will be issued to a combined total of 25% credit for 50 minutes of total downtime for the calendar month.
+
+
+Example 3: If there was a 20 minutes downtime on 31st January and 30 minutes downtime on 1st February, the total downtime will not be combined as they do not belong to the same calendar month.
+
+
+
+
+Addon services and configurable options are not eligible for any form of credit.
+
+
+The uptime of the server is defined as the reported uptime from the operating system of the server.
+
+
+Customers claiming credit under our uptime guarantee must do so by opening a ticket with Billing department within 72 hours of the incident with their username, main account domain and a ticket ID of the service interruption.
+All requests after 72 hours of the downtime incident happening will be voided.
+
+
+
+
+For Cloud VPS hosting accounts, if the network uptime drops below 100% uptime in any given month, you will be credited with 7.5% of your monthly service fee (excluding addons) for the affected VPS for every hour of downtime below 100% for the given month, up to a maximum of 100% of your monthly service fee (excluding addons).
+Customers claiming credit under our uptime guarantee must do so by opening a ticket within 72 hours of the incident with their username and main account domain.
+All requests after 72 hours of the downtime incident happening will be voided.
+
+
+There will be no credit issued for less than 15 minutes of downtime.
+
+
+Addon services and configurable options are not eligible for any form of credit.
+
+Control panels are considered as a $6 paid addon plus any additional fees paid for it, regardless if the control panel was originally issued with or without fee.
+For example, for the purpose of calculating SLA credit, DirectAdmin issued without charge will be considered as a $6 paid addon.
+cPanel/WHM issued for $10 will be considered as a $16 paid addon ($6 + $10).
+
+
+
+All requests must contain a ticket ID of the service interruption.
+
+
+
+
+For Dedicated Server accounts, if the network/power/cooling uptime drops below 100% uptime in any given month, you will be credited with 10% of your monthly service fee (excluding addons/configurable options) for the affected server if the total uptime is below 100% for the given month, up to a maximum of 100% of your monthly service fee (excluding addons/configurable options).
+This includes our internal network and connectivity at the border routers to the exterior.
+Outages outside of our network cannot be covered by our SLA although we will pro-actively contact our providers to follow up with issues affecting our customers if the issues happen within our providers' peering points.
+SLA credit is calculated from the time a ticket is opened regarding the issue to the time the issue is resolved.
+Customers claiming credit under our uptime guarantee must do so by opening a ticket within 72 hours of the incident with their username and main account domain.
+All requests after 72 hours of the downtime incident happening will be voided.
+Outages exceeding one-day of service will be credited on a case by case basis.
+
+
+Addon services and configurable options are not eligible for any form of credit.
+
+Control panels are considered as a $16 paid addon plus any additional fees paid for it, regardless if the control was originally issued with or without fee.
+For example, for the purpose of calculating SLA credit, DirectAdmin issued without charge will be considered as a $16 paid addon.
+cPanel/WHM issued for $22 will be considered as a $38 paid addon ($16 + $22).
+
+
+
+All requests must contain a ticket ID of the service interruption.
+
+
+
+
+Under any of these circumstances, clients do not qualify for SLA claims:
+
+Natural disasters
+Overdue invoice(s)
+Acts of Force Majeure
+DDoS or similar attacks
+Excessive Resource Usage
+Violation of Terms of Service
+Customer-controlled downtime
+IP addresses blocked by firewall
+ISP or local connection problems
+Third-party software or application failure
+Network conditions outside of our network
+Scheduled downtime or planned maintenance
+Internal services such as MySQL, Apache, PHP, etc.
+Any other circumstances beyond our control or that are not reasonably foreseeable
+
+
+
+Monthly fee is calculated based on the monthly cost of service (excluding addons and configurable options).
+For example, the monthly fee for a service paid annually is calculated by dividing the paid annual fee by 12.
+
+
+SLA credits may not exceed the full monthly amount of the affected service.
+
+
+Uptime guarantee and crediting schedule applies to direct customers only.
+It does not apply to sub-accounts created by resellers, VPS and dedicated server customers or any other entity who isn't a direct customer of Limenex.
+
+
+Any planned maintenance work is excepted from this agreement and will be ignored.
+
+
+Customer must meet the below requirements in order to be eligible for an SLA credit:
+
+Your account must be in good standing on payments
+Any account which has had been out of good standing on payments 3 times or more within 12 months prior to the outage is not eligible for SLA credits.
+You must submit a ticket through our helpdesk to the billing department
+All requests must be submitted within 72 hours of the reported downtime
+All requests must contain a ticket # of the service interruption
+
+
+
+Limenex has the final say and will determine the uptime of our servers based on our own internal monitoring systems.
+External monitoring statistics set up by customers will not be considered as evidence of uptime/downtime.
+
+
+Credit approval is at the sole discretion of Limenex.
+
+
+SLA credits are non-transferable and non-exchangeable in any way.
+
+
+SLA credits may not be stacked, i.e.
+claiming SLA credit on both network downtime, as well as power downtime during the same incident.
+
+
+Any Customer making false SLA credit claims may be charged a USD$75 to USD$150 administrative fee per offense.
+
+
+â Back to top
+Free Domain Conditions
+
+
+If a your hosting package entitles you to a free domain registration, the free domain must be added at the same time as ordering your hosting package.
+It cannot be added later.
+
+
+Free domain registration is only applicable to annual, biennial or triennial payment terms only.
+
+
+Only one domain will be registered free of charge for 1-year per eligible shared hosting plan.
+
+
+The domain shall not be transferred to another host, registrar or client within the first 3 months of service.
+
+
+If you cancel your hosting account before the 3-month paid period, Limenex reserve the right to take possession, cancel or resell your domain.
+
+
+If you file a chargeback or dispute against Limenex and have your payment refunded, Limenex reserves the right to take possession, cancel or resell your domain.
+
+
+The offer applies to .com domains only.
+
+
+â Back to top
+Payment &amp.
+Bills
+
+
+All prices listed on our website are in USD.
+
+
+All accounts are set-up on a pre-pay basis only.
+
+
+All invoices are sent via email.
+It is your responsibility to provide us with an email address which is not based on the domain(s) you intend to host with Limenex.
+If there is ever an issue or we need to contact you, only the primary email address on file will be used.
+It is your responsibility to ensure the email address on file is current or up to date at all times.
+
+
+If necessary, please click here or contact our billing department to change your account's email address.
+
+
+
+
+All invoices are due on the date stated on the issued invoice(s).
+If the invoice remainds unpaid after the due date, Limenex reserves the right to suspend or terminate your service.
+
+
+Limenex assumes no liability for the integrity of the data stored on a suspended service.
+
+
+Limenex may at its own discretion provide a grace period to customers with an overdue invoice.
+The grace period will be determined by Limenex.
+Limenex may not inform the customer of the grace period.
+
+
+Limenex reserves the right to charge late fee for any account that has not been paid in full before the due date stated on the invoice.
+
+Cloud Web Hosting: 10% of total invoice value or USD$1.00, whichever is greater
+Cloud Reseller Hosting: 10% of total invoice value or USD$5.00, whichever is greater
+Business Cloud Hosting: 10% of total invoice value or USD$5.00, whichever is greater
+Cloud VPS Hosting: 10% of total invoice value or USD$10.00, whichever is greater
+Dedicated Server: 10% of total invoice value or USD$25.00, whichever is greater
+
+
+
+If outstanding bills owed to Limenex have not been paid in full and no further credit arrangements have been made, Limenex will terminate the service based on the list below.
+Data stored on terminated services are not retrievable.
+
+Cloud Web Hosting: 28 Days after Due Date
+Cloud Reseller Hosting: 28 Days after Due Date
+Business Cloud Hosting: 28 Days after Due Date
+Cloud VPS Hosting: 3 Days after Due Date
+Dedicated Server: 3 Days after Due Date
+Other Products/Services: Immediately Upon Expiry
+
+
+
+If after 3 days outstanding bills owed to Limenex have not been paid in full and no further credit arrangements have been made, Limenex will suspend all hosting accounts and deactivate all other services purchased through Limenex until all owed amounts have been paid in full.
+
+
+Limenex reserves the right to revoke this grace period if a pattern of late payment is observed.
+
+
+
+
+If after 30 days outstanding bills owed to Limenex have not been paid in full and no further credit arrangements have been made, Limenex will terminate all hosting accounts and deactivate all other services purchased through Limenex.
+Accounts terminated are not retrievable.
+
+
+Accounts will continue to accumulate invoices and further charges until the customer informs Limenex of its intentions to cancel the account in accordance with the cancellation procedures set out in this terms of service.
+The customer is obligated and responsible for paying for all accumulated charges.
+
+
+After account suspension, Limenex will not provide you with any account backups unless the full outstanding bill has been paid in full before backups are deleted.
+If your account is terminated, your account(s) will be deleted from our servers and cannot be retrieved.
+
+ Limenex reserves the right to impose a re-activation fee for accounts that have been suspended/terminated.
+
+
+If you have a credit card on file, you authorize Limenex to automatically charge the card 2 days prior to the due date.
+
+
+If you have a credit card on file, but your primary method of payment is not credit card, and your account is overdue, you authorize Limenex to charge the credit card it has on file.
+
+
+If overdue accounts remain unpaid for a period of 30 days, Limenex may pass your details to a 3rd party debt collection company or sell the debt.
+In such cases, Limenex will impose a USD$200.00 collections &amp.
+administration fee.
+
+
+Client recognizes that the nature of the service supplied and the initial rates and charges have been communicated to the client.
+The client is aware that from time to time rates may change based on availability of hardware, software, overall market conditions or other factors.
+Clients will be notified of any increases in rates or charges prior to the billing renewal date on which such increases will take effect.
+
+
+For cancellation procedure, please refer to section 28.
+
+
+â Back to top
+Delivery of Services
+
+
+Immediately upon successful payment you will receive an automated receipt from our system via email.
+Please print an retain a copy of this and retain in a safe place for future reference.
+
+
+Please note that we aim to deliver all services as soon as payment is complete.
+If we will be unable to adhere to this you will be informed via email.
+The following are our guaranteed setup duration for our hosting services:
+
+Cloud Web Hosting: Immediate
+Cloud Reseller Hosting: Immediate
+Business Cloud Hosting: Immediate
+Cloud VPS Hosting: 1 Working Day
+Dedicated Server: 3 Working Days
+Domain Names: 1 Working Day
+SSL Certifcates: Immediate (setup link)
+
+
+
+All orders are delivered electronically via email, If you have any questions about your order please contact billing department here.
+
+
+Our trading hours are 365 days a year, 24 hours a day, 7 days a week.
+However, we do not guarantee any response time to your enquiries.
+
+
+The services available on this site are subject to both export and or import restrictions.
+Please check regulations in the country you are in to see if these products are allowed for import into your country.
+
+
+â Back to top
+Domain Names
+
+
+We make no representation that the domain name you wish to register is capable of being registered by or for you or that it will be registered in your name.
+You should not assume registration of your requested domain name(s) until you have been notified that it has been registered.
+Any action taken by you before such notification is at your own risk.
+
+
+The registration and use of your domain name is subject to the terms and conditions of use applied by the relevant naming authority.
+You shall ensure that you are aware of those terms and conditions and that you comply with them.
+You shall have no right to bring any claim against us in respect of refusal to register a domain name.
+Any administration charge paid by you to us shall be non-refundable notwithstanding refusal by the naming authority to register your desired name.
+
+
+You must provide valid and current contact and ownership information of your domain name on file.
+
+
+We shall have no liability in respect of the use by you of any domain name.
+any dispute between you and any other person must be resolved between the parties concerned in such dispute.
+If any such dispute arises, we shall be entitled, at our discretion and without giving any reason, to withhold, suspend or cancel the domain name.
+We shall also be entitled to make representations to the relevant naming authority but will not be obliged to take part in any such dispute.
+
+
+We shall not release any domain to another provider unless full payment for that domain has been received by us.
+All charges payable by you for the Services shall be in accordance with the scale of charges and rates published from time to time by us on our web site and shall be due and payable in advance of our service provision.
+
+
+Domain names may not be transferred within 60 calendar days of initial registration or within 60 calendar days of a transfer from another domain registrar.
+
+
+â Back to top
+SSL Certificates
+
+
+Limenex reserves the right to provide the customer with another equivalent SSL certificate should the advertised one not be available.
+
+
+Limenex provides no warranties or guarantees on the nature and functionality of the certificates.
+
+
+Free SSL certificates issued by Limenex can only be used on websites hosted with Limenex.
+
+
+SSL certificates issued free of charge because it was part of your package will be revoked if the hosting account is canceled unless the customer begins paying for the certificate at our retail prices.
+
+
+â Back to top
+Hosting Services
+
+
+This section applies to all our hosting services.
+
+
+Limenex reserves the right to suspend in part, or in full, accounts that have exceeded their allocated resources, including but not limited to storage space, bandwidth, CPU and memory.
+
+
+Limenex's customers expressly grants to Limenex a license to host, store and create copies of the entirety of customers' wesites and email in RAM, storage space, web site caches, dynamic language caches and database server caches, Customer expressly agrees that such storage is also deemed "fair use" under the United States Copyright Act, and Customer expressly agrees that such storage is not an infringement of any of Customerâs Intellectual Property Rights.
+
+
+â Back to top
+General Terms and Policies
+
+
+These Terms of Service and Acceptable Use Policies ("Terms and Policies") are an essential part of your relationship with Limenex.
+By using your Limenex account, you agree to all of the Terms and Policies set out in this document.
+
+
+The service is provided to authorized persons or organizations (referred to in this document as "Subscriber", "Customer" or "you").
+Any use of the service is subject to any restrictions listed below.
+By using our services, you agree to be bound by all of theses Terms and Policies.
+If you do not agree to be bound by these Terms and Policies, you must cancel your account immediately and may not thereafter use or attempt to use our services.
+
+
+Coverage - If you are an individual Subscriber, these Terms and Policies apply to all persons who gain access through your account.
+If you are a commercial Subscriber, these Terms and Policies apply to all your employees, agents and/or customers.
+In either instance, a violation of these Terms and Policies by anyone using your account will be treated as a violation by you.
+
+
+Prices and Charges - Limenex provides the use of various softwares to you free of charge, but if through misuse or through abuse on your part we incur any charges, we reserve the right to pass these charges on to you.
+Limenex reserves the right to increase/decrease our prices at anytime with or without prior notice.
+
+
+Term - The Service is provided to you for as long as you paid for.
+However, we withhold the right to terminate the service if you use it in a way that violates our Terms of Services/Acceptable Use Policy.
+
+
+Security - You agree not to access or attempt to access private areas of the Service.
+You agree to notify Limenex as soon as you become aware of an unauthorized use of your account and/or any breach or attempted breach of security on the Service.
+
+
+Intellectual Property - Limenex does not undertake to examine or review messages, files, or other materials, which are accessible through, pass through, or reside on the Service.
+Complaints regarding alleged copyright infringement can be sent to abuse@limenex.com.
+
+
+Backups &amp.
+Data Loss - Limenex carries out regular backup for all Cloud Web Hosting, Cloud Reseller Hosting and Business Cloud Hosting accounts.
+These backups are strictly for our own use in-case of an emergency, server restoration or server failure.
+This is not meant as a replacement for keeping your own backups and Limenex is not responsible for any loss of files or data.
+It is the client full responsibility for file and data transfer and maintaining backups of your own account.
+Limenex will not be responsible for any data loss related to accounts that have past due invoice or suspended due to non-payment.
+Limenex will not be responsible for any data loss.
+
+
+Network Security - Clients are required and obligated to maintain all security on all content they store on their accounts.
+Any and all additional charges that are incurred due to client lack of monitoring or security are the responsibility of the client.
+
+
+â Back to top
+Bulk Commercial E-Mail
+
+Any kind of bulk emailing is strictly prohibited with Cloud Web Hosting, Cloud Reseller Hosting and Business Cloud Hosting.
+With Cloud VPS and Dedicated Server hosting you must obtain Limenex's advance approval for any bulk commercial e-mail, which will not be given unless you are able to demonstrate all of the following to Limenex's reasonable satisfaction:
+
+All Bulk Emailing must be limited to send no more than 30 emails per minute.
+Your intended recipients have given their consent to receive e-mail via some affirmative means, such as an opt-in procedure;
+Your procedures for soliciting consent include reasonable means to ensure that the person giving consent is the owner of the e-mail address for which the consent is given;
+You retain evidence of the recipient's consent in a form that may be promptly produced on request, and you honor recipient's and Limenex's requests to produce consent evidence within 72 hours of receipt of the request.
+You have procedures in place that allow a recipient to easily revoke their consent - such as a link in the body of the e-mail, or instructions to reply with the word "Remove" in the subject line.
+Revocations of consent are honored within 72 hours, and you notify recipients that their revocation of their consent will be honored in 72 hours;
+You must have a Privacy Policy posted for each domain associated with the mailing;
+You have the means to track anonymous complaints;
+You may not obscure the source of your e-mail in any manner.
+Your e-mail must include the recipients e-mail address in the body of the message or in the "TO" line of the e-mail.
+and You otherwise comply with the CAN SPAM Act and other applicable law.
+
+
+These policies apply to messages sent using your Limenex service, or to messages sent from any network by you or any person on your behalf that directly or indirectly refer the recipient to a site hosted via your Limenex service.
+In addition, you may not use a third party e-mail service that does not practice similar procedures for all its customers.
+Limenex may test and otherwise monitor your compliance with its requirements, including requesting opt-in information from a random sample of your list at any time.
+You may not send any unsolicited e-mail, either in bulk or individually, to any person who has indicated that they do not wish to receive it.
+You must comply with the rules of any other network you access or participate in using your Limenex's services.
+Failure to comply with the above clauses will result in suspension or termination of service.
+
+â Back to top
+Resellers
+
+
+The reseller customer is liable and responsible for all actions of their account and sub-accounts created by the reseller customer.
+As the reseller customer you agree to accept all responsibility and liability for your actions and the actions of your sub-users either directly or indirectly.
+
+
+Terms of Service violations as a result of a sub-user account being exploited with or without knowledge will be the responsibility of the reseller account holder.
+
+
+Reseller customers are responsible for the content of the accounts they create.
+If those accounts are hacked/abused, the reseller will be accountable for all costs and liability.
+
+
+The reseller account holder agrees to actively monitor their sub-accounts to ensure all sub-accounts and their own account are abiding by all of Limenex's policies and Terms of Service.
+
+
+Resellers may use their website for personal use or to sell to their own clients.
+Resellers cannot host free accounts under any circumstances.
+
+
+The legal liability and legal responsibility of the sub-accounts of the reseller belongs to the reseller customer.
+
+
+Limenex reserves the right to financially charge the reseller customer for any contract violation.
+
+
+Limenex may offer a "free migration service" promotion for reseller hosting customers.
+Customers who wish to take advantage of our "free migration from your previous host" are limited to 10 free migrations from cPanel to cPanel servers.
+WHM access at your previous host is required in order for us to retrieve full cPanel backups from your previous host's server.
+After the 10 initial migrations, the user is responsible to the transferring of files.
+Customers should note that you are free to upload regular full cPanel backup files to our systems for us to restore.
+In this case we can restore up to 50 accounts free of charge.
+Limenex reserves the right to not provide free migration service if we are unable to retrieve functional regular full cPanel backups from your previous host or the backup size is deemed to be too big for restoration.
+Please refer to section 22 for more information.
+
+
+â Back to top
+Grounds for Suspension and Termination
+
+
+You agree to comply with these Terms and Policies.
+Any violation of either, these Terms and Policies or the other rules, regulations or policies may serve as cause for Limenex to suspend or terminate your account.
+No bill credit will be given for any period of suspension.
+In the event of termination of your use of the Service under this section, Limenex may at its sole discretion retain any or all amounts you have paid for use of the Service as liquidated damages for your actions.
+You agree that Limenex has the right, with or without notice, to suspend or terminate your account, apply additional fees, and/or remove or delete files for those accounts that are found to be in violation of these Terms and Policies without liability upon the first or subsequent occurrence of any of the following:
+
+
+
+You may not publish or transmit via Limenex's service any content that Limenex reasonably believes:
+
+constitutes child pornography;
+constitutes pornography;
+contains or links to warez, cracks or other pirated software;
+is excessively violent, incites violence, threatens violence, or contains harassing content or hate speech;
+is unfair or deceptive under the consumer protection laws of any jurisdiction, including chain letters and pyramid schemes;
+constitutes violation of any applicable statute, law, court order, tariff, regulation, or treaty (including, but not limited to, intellectual property, communications, privacy, criminal and international law)
+is defamatory or violates a person's privacy;
+creates a risk to a person's safety or health, creates a risk to public safety or health, compromises national security, or interferes with a investigation by law enforcement;
+improperly exposes trade secrets or other confidential or proprietary information of another person;
+is intended to assist others in defeating technical copyright protections;
+clearly infringes on another person's trade or service mark, copyright, patent, or other property right;
+promotes illegal drugs, violates export control laws, relates to illegal gambling, or illegal arms trafficking;
+is otherwise illegal or solicits conduct that is illegal under laws applicable to you or to Limenex.
+or
+is otherwise malicious, fraudulent, or may result in retaliation against Limenex by offended viewers.
+
+
+
+Content "published or transmitted" via Limenex's service includes Web content, e-mail, bulletin board postings, chat, and any other type of posting or transmission that relies on any service provided by Limenex.
+
+
+
+
+Limenex does not tolerate any harassment, malice or abuse towards its employees or subsidiaries.
+Any form of harassment, cursing, threats, or ill will directed towards Limenex staff or authorized agents shall not be tolerated.
+The Customer agrees to conduct themselves in a professional manner regardless of the method of communication with Limenex.
+Should the Customer be found in violation of this clause, Limenex reserves the right to suspend or terminate services with or without prior notice and without liability.
+
+
+Reselling space in your Web Hosting account.
+Web Hosting accounts are to be used by the primary owner only.
+Web Hosting account holders are not permitted to resell, store or give away web hosting services to other parties.
+This includes but is not limited to email services, CGI scripts, MySQL services etc.
+Reseller hosting, VPS and Dedicated Servers are exempted from this clause.
+
+
+Reselling of any portion of our services without charge.
+This includes but not limited to: entire hosting accounts, email services, scripts, FTP accounts, MySQL databases, applications, licenses, web space and bandwidth (this includes image hosting and file/data hosting services, either free or subscription/fee based).
+
+
+Using the Service in an attempt to break security, or so as to actually break security of any computer network (including the Service itself), or to access an account, message, or file which does not belong to you.
+
+
+Using the Service in such a way as to forge or mis-represent headers, addresses, or other identification in electronic mail or websites, or using any other method to disguise the sender's identity or location.
+This includes the hosting of Proxy Server applications.
+
+
+Hosting proxy, VPN, IRCd, image hosting sites, autosurf, port scanners, banner-ad services, escrow, banking, investment, lottery, gambling and pharmacy sites or services.
+
+
+Assisting in or directly distributing copyrighted material without authorization.
+
+
+Providing fake or incomplete contact details, including but not limited to name, postal address, telephone number, credit card or other payment information.
+
+
+Using the Service to operate server programs, including, but not limited to mail servers, IRC servers, game servers, ftp servers, Web servers, or streaming audio/video servers.
+
+
+Using the Service for unauthorized relays through any third party systems.
+
+
+Attempting, in any way, to interfere with or deny service to any user or any host on the Internet.
+
+
+Performing a chargeback or dispute on any transactions past or present will result in account suspension until resolved.
+If a chargeback or dispute is performed, we reserve the right to terminate your account and service, impose a USD$100 fine per chargeback/dispute and deny any future business.
+
+
+Using the Service for mail bombing, which includes any instance where multiple messages are sent to a specific destination with the intent to render the recipient and/or the electronic system serving that recipient dysfunctional.
+
+
+Sending bulk unsolicited emails, also known as spamming.
+
+
+Using the Service to add or attempt to add addresses to any mailing list (yours or a third party's) without the explicit positive consent of the addressee(s).
+
+
+Attempting to cancel, supersede, or otherwise interfere with email other than your own.
+
+
+Engaging in harassment, whether through language, frequency, or size of messages, either with email or website content.
+
+
+Using the Service to engage in syn flood attacks, which are defined as overburdening a recipient computer system by sending a high volume of spurious data which effective impedes or totally disables functionality of the recipient system(s), or any other methods of denial-of-service attacks.
+
+
+Spreading false negative feedback regarding Limenex in any medium including but is not limited to online forums, social media and review websites.
+Customer is advised to submit a ticket to our Feedback department should you have any issues with our service.
+This clause does not withhold Customer's entitlement to a fair review of our services based on evidential facts.
+However, Limenex strictly does not tolerate any libel and/or slander against us and may take necessary legal enforcement against perpetrators.
+
+
+Continuing a specific identification of the allegedly infringing material and the location(s) on Limenex facilities where the materials are to be found.
+Upon receipt of such written notice, Limenex will expeditiously remove or block access to the allegedly infringing material, and provide notice to the person who had posted that material.
+If Limenex receives a notification from that person indicating that the claim of infringement was based upon mistake or misidentification, Limenex will send you a copy of that notification.
+Unless you notify Limenex of appropriate court action to restrain the alleged infringement, the challenged material will then be restored or other wise made accessible again.
+
+
+Using the service in any manner that Limenex deems to be abusive.
+
+
+
+â Back to top
+Resource Usage
+
+
+You agree to comply with these Terms and Policies.
+Any violation of either, these Terms and Policies or the other rules, regulations or policies may serve as cause for Limenex to suspend or terminate your account.
+No bill credit will be given for any period of suspension.
+In the event of termination of your use of the Service under this section, Limenex may at its sole discretion retain any or all amounts you have paid for use of the Service as liquidated damages for your actions.
+You agree that Limenex has the right, with or without notice, to suspend or terminate your account, apply additional fees, and/or remove or delete files for those accounts that are found to be in violation of these Terms and Policies without liability upon the first or subsequent failure to comply with any of the following:
+
+
+User may not:
+
+Use an excessive amount of system resources for an extended period of time.
+There are numerous activities that could cause such problems.
+these include: CGI scripts, FTP, PHP, HTTP, bash etc.
+Dedicated Servers are excluded from this clause.
+Use any of the server's resources including but not limited to storage space, bandwidth, disk I/O, CPU and RAM in any manner that negatively affects the server's overall performance significantly.
+Dedicated Servers are excluded from this clause.
+Use of any kind of distributed computing software, including but not limited to SETI@home, Node Zero and Folding@home
+Run any software that interfaces with an IRC (Internet Relay Chat) network.
+Run any bit torrent application, tracker, or client.
+Participate in any file-sharing/peer-to-peer activities
+Run any gaming servers including but not limited to Battlefield 3, MineCraft, Counter-Strike, etc.
+Use the Service in a manner intended to abuse or violate the privacy or property rights of others, including but not limited to sending of unsolicited bulk e-mail ("spamming").
+this ground for suspension or termination is separate from and in addition to the fees which will result from such activity.
+You agree to pay a clean up fee of $75 per hour if any of our server IP addresses appear on a blacklist as a result of spam from your account.
+Run any type of interactive real-time chat applications that require server resources.
+Remotely-hosted services are fully allowed.
+
+Run any type of web spider or indexer (including Google Cash / AdSpy).
+Run stand-alone, unattended server-side processes at any point in time on the server.
+This includes any and all daemons, such as IRCD.
+
+Use our services that result in performance impacts or disproportionate consumption of the shared resource base.
+
+The following are applicable to Cloud Web Hosting, Cloud Reseller Hosting, Business Cloud Hosting and Cloud VPS Hosting accounts only:
+
+You may not use an excessive and/or unreasonable amount of resources, including but not limited to storage space, bandwidth, CPU, memory and disk I/O, regardless of the amount of resources included in your plan.
+Under most circumstances, if your account is found to be utilizing excessive and/or unreasonable amount of resources, we will contact you to resolve this.
+You may not use your hosting account for mass storage and/or backup of files, archives, images, audio, video and/or others at our discretion.
+All files stored on your account must be part of your website and must be linked to your account.
+Dedicated Servers are excluded from this clause.
+
+
+
+The following are applicable to Cloud Web Hosting, Cloud Reseller Hosting and Business Cloud Hosting accounts only:
+
+You may not store content or media that is not related to an active website hosted with Limenex.
+You are required to only utilize resources in the normal operation of a personal or small business website.
+Each music, video or any other multimedia file as defined by Limenex, shall not exceed 250MB.
+This includes, but is not limited to, .mp3, .mp4, .avi, .mkv, .mpeg, .jpg, .png, .gif files
+
+Customer is strongly advised to host multimedia files using third-parties (E.g.
+YouTube)
+
+
+You are not allowed to run cron entries with intervals of less than 5 minutes without prior written approval from Billing department.
+All cPanel accounts are subjected to the CloudLinux resources limits as seen in your cPanel.
+Your websites will be throttled or suspended should you reach those limits.
+cPanel accounts that regularly consumes up to the CloudLinux resources limits will be contacted to reduce your usage or upgrade to a VPS or Dedicated Server.
+Failure to comply may result in suspension or termination of service.
+In order to preserve server stability, the CloudLinux resources limits shown in cPanel are subject to change without notice.
+cPanel accounts exceeding its email limits will be suspended immediately.
+You may create your own backup of your account or files from your cPanel or using a custom script/software.
+However, these backups may only be stored for up to 72 hours.
+Please download your backup to a local source and remove them from your account.
+All cPanel and Softaculous backup files older than 72 hours will be removed from the server automatically.
+We strongly recommend downloading backup files to your local computer immediately after its generation.
+You should download deleted files stored in trash folder and empty the trash folder regularly.
+Your total trash folder size shall not exceed 2GB.
+When using PHP include functions for including a local file, include the local file rather than the URL.
+Instead of include("http://yourdomain.com/include.php") use include("include.php").
+When executing a local script via cron, execute it locally via php -q ~/public_html/the-script-name.php &gt.
+/dev/null and not via wget.
+If wget is absolutely required, append -O /dev/null to the end of the cron.
+You are not allowed to own more than 50% of a server's total domain names.
+You are not allowed to run any MySQL queries for longer than 20 seconds.
+
+
+
+Accounts with excessive inodes could cause File System damage.
+To ensure server stability, each hosting plan is restricted to a certain amount of inodes usage.
+
+User may not exceed the inode limit for your plan as indicated in the tables below.
+Failure to adhere to the inode usage limit may potentially result in a warning first.
+If no action is taken, your account may be suspended or terminated.
+Plan
+Inode Limit
+Service Type PlanTurboCloud X1
+Inode Limit150,000
+Service TypeCloud Web Hosting PlanTurboCloud X2
+Inode Limit250,000
+Service TypeCloud Web Hosting PlanTurboCloud X3
+Inode Limit350,000
+Service TypeCloud Web Hosting PlanTurboCloud BizLite
+Inode Limit500,000
+Service TypeBusiness Cloud Hosting PlanTurboCloud BizPlus
+Inode Limit750,000
+Service TypeBusiness Cloud Hosting PlanTurboCloud BizPro
+Inode Limit1,000,000
+Service TypeBusiness Cloud Hosting PlanTurboCloud Reseller 1
+Inode Limit1,000,000
+Service TypeCloud Reseller Hosting PlanTurboCloud Reseller 2
+Inode Limit2,000,000
+Service TypeCloud Reseller Hosting PlanTurboCloud Reseller 3
+Inode Limit4,000,000
+Service TypeCloud Reseller Hosting PlanTurboCloud Reseller 4
+Inode Limit6,000,000
+Service TypeCloud Reseller Hosting PlanTurbo StarterTurbo LiteTurbo ProEconomyEconomy PlusV1V2
+Inode Limit250,000
+Service TypeWeb Hosting PlanTurbo BizV3
+Inode Limit500,000
+Service TypeWeb Hosting PlanSPEC 1 (Legacy)V1 (Legacy)S1 (Legacy)Silver (Legacy)
+Inode Limit200,000
+Service TypeWeb Hosting PlanSPEC 2 (Legacy)V2 (Legacy)S2 (Legacy)Gold (Legacy)
+Inode Limit300,000
+Service TypeWeb Hosting PlanEconomy (Legacy)V3 (Legacy)S3 (Legacy)Platinum (Legacy)Mini (Legacy)Peasant (Legacy)Knight (Legacy)King (Legacy)Bronze (Legacy)
+Inode Limit400,000
+Service TypeWeb Hosting PlanV4 (Legacy)S4 (Legacy)Super (Legacy)
+Inode Limit500,000
+Service TypeWeb Hosting PlanMega (Legacy)
+Inode Limit600,000
+Service TypeWeb Hosting PlanUltra (Legacy)
+Inode Limit700,000
+Service TypeWeb Hosting PlanRS1
+Inode Limit500,000
+Service TypeReseller Hosting PlanRS2
+Inode Limit1,500,000
+Service TypeReseller Hosting PlanRS3
+Inode Limit3,000,000
+Service TypeReseller Hosting PlanRS4
+Inode Limit5,000,000
+Service TypeReseller Hosting PlanR-Mini (Legacy)
+Inode Limit250,000
+Service TypeReseller Hosting PlanR1 (Legacy)
+Inode Limit500,000
+Service TypeReseller Hosting PlanR2 (Legacy)
+Inode Limit1,000,000
+Service TypeReseller Hosting PlanR3 (Legacy)
+Inode Limit2,000,000
+Service TypeReseller Hosting PlanR1
+Inode Limit500,000
+Service TypeReseller Hosting PlanR2
+Inode Limit1,250,000
+Service TypeReseller Hosting PlanR3
+Inode Limit2,500,000
+Service TypeReseller Hosting PlanR4
+Inode Limit4,000,000
+Service TypeReseller Hosting PlanRS1 (Legacy)
+Inode Limit750,000
+Service TypeReseller Hosting PlanRS2 (Legacy)
+Inode Limit1,250,000
+Service TypeReseller Hosting PlanRS3 (Legacy)
+Inode Limit1,750,000
+Service TypeReseller Hosting PlanRS4 (Legacy)
+Inode Limit2,500,000
+Service TypeReseller Hosting 
+
+Individual cPanel accounts created under a reseller account are limited to 250,000 inode per account.
+
+
+Individual cPanel accounts created under a VPS do not have any inode limit.
+However, the overall inode usage restriction applies.
+
+
+Dedicated Servers do not have any inode limit.
+
+
+Failure to adhere to the above inode usage guidelines may potentially result in a warning first.
+If no action is taken, your account may be suspended or terminated.
+
+
+Accounts that constantly create and delete large numbers of files on a regular basis, have hundreds of thousands of files, or cause file system damage may be flagged for review and/or suspension or termination.
+
+
+
+
+You are allocated a monthly bandwidth allowance.
+This allowance varies depending on the hosting package you purchase.
+Should your account pass the allocated amount we reserve the right to suspend the account until the start of the next allocation, suspend the account until more bandwidth is purchased at an additional fee, suspend the account until you upgrade to a higher level of package, terminate the account and/or charge you an additional fee for the overages.
+Unused transfer in one month cannot be carried over to the next month.
+If you exceed your bandwidth limit you will not be eligible for the moneyback guarantee and you are responsible to pay for any overage incurred.
+
+
+Limenex has sole discretion to determine what does and does not constitute as a violation of our resource usage policy.
+
+
+
+â Back to top
+Mailing Policy
+
+
+You agree to comply with these Terms and Policies.
+Any violation of either, these Terms and Policies or the other rules, regulations or policies may serve as cause for Limenex to suspend or terminate your account.
+No bill credit will be given for any period of suspension.
+In the event of termination of your use of the Service under this section, Limenex may at its sole discretion retain any or all amounts you have paid for use of the Service as liquidated damages for your actions.
+You agree that Limenex has the right, with or without notice, to suspend or terminate your account, apply additional fees, and/or remove or delete files for those accounts that are found to be in violation of these Terms and Policies without liability upon the first or subsequent failure to comply with any of the following:
+
+
+These Mailing Limits applies to Cloud Web Hosting, Cloud Reseller Hosting and Business Cloud Hosting accounts only:
+
+Any attempts to bypass any mailing restrictions or limitations enumerated in this document may result in the suspension and/or termination of all related services.
+Bulk emailing is strictly prohibited.
+Any mail sent beyond the hourly email limit will be failed and will be discarded without delivery.
+Any account receiving more than 10 spam reports over a rolling 30 day period, or 5 spam reports over a rolling 7 day period may, at our discretion, be required to utilize a third party mailing service for all outgoing email.
+Scripts which send email as a result of user activity (user registration, new comment posted, forum subscriptions, etc) should include measures to prevent abuse.
+"Refer a friend" and "tell a friend" type forms where a custom subject and message body can be provided by the visitor submitting the form are strictly prohibited.
+Direct SMTP mailers, such as DarkMailer, are not permitted.
+Accounts performing unusual mailing activities as determined by Limenex may have its email limits reduced or suspended at our discretion.
+
+
+Messages forwarded to external mail providers via our servers may not be reported as spam regardless of their content.
+If you wish to report messages that were forwarded as spam, create a local email account and obtain the headers from our server, and not at the final forwarded destination.
+
+Access to this feature may be disabled or restricted for any account as necessary to maintain our email sending and IP address reputations.
+
+
+Any Unsolicited Commercial Email will be considered spam.
+Sites hosted with us may not be advertised via spam [i.e.
+spamvertising].
+The default mail account created with cPanel shall be emptied regularly.
+The default account is a receive-only account and is not capable of sending mail.
+Often this default mailbox is ignored resulting in hundreds of thousands of emails from scripts filling this box and never being manually emptied.
+Should you require a catch-all, please create a regular email account in your cPanel under "Email Accounts" and then set that email address as the default (catch-all) under the option "Default Address."
+
+
+â Back to top
+Spam
+
+Anyone hosting websites or services on their server that support spammers or cause any of our IP address to be listed in any of the various Spam Databases will have their server immediately removed from our network.
+The server will not be reconnected until such time that you agree to remove ANY and ALL traces of the offending material immediately upon reconnection and agree to allow us access to the server to confirm that all material has been COMPLETELY removed.
+Severe violations may result in immediate and permanent removal of the server from our network without notice to the customer.
+Users found to be conducting unsolicited mass mailing will be fined an additional USD$350.
+Any server guilty of a second violation WILL be immediately and permanently removed from our network without notice.
+
+â Back to top
+DDoS Prone Customers
+
+If you or your customers are likely to receive DDoS attacks, we recommend those targets are kept off of our network.
+IPs that are the target of a Distributed Denial of Service attack may be null routed to protect the integrity of the network and allow traffic to flow freely to other IPs configured on the server.
+These null-routes are usually put in place for 24 hours, sometimes less depending on the severity and size.
+Frequent attacks would result in longer periods of null-routing.
+
+Limenex reserves the right to terminate the service of any DDoS attacked customer without liability.
+
+â Back to top
+Network Abuse
+
+Limenex does not allow, condone or authorize any forms of Network Abuse including but not limited to Denial of Service attacks, Phishing attempts, port scans, SYN Floods etc.
+Limenex reserves full right to determine what constitutes Network Abuse and take the appropriate action against the Customer with or without prior notification and without liability.
+You may not engage in illegal, abusive, or irresponsible behavior, including but not limited to:
+
+Unauthorized access to or use of data, systems or networks, including any attempt to probe, scan or test the vulnerability of a system or network or to breach security or authentication measures (including those belonging to Limenex and its customers) without express authorization of the owner of the system or network;
+Monitoring data or traffic on any network or system without the authorization of the owner of the system or network;
+Interference with service to any user, host or network including, without limitation, mail bombing, flooding, deliberate attempts to overload a system and broadcast attacks;
+Use of an Internet account or computer without the owner's authorization, including, but not limited to Internet scanning (tricking other people into releasing their passwords), password robbery, security hole scanning, and port scanning;
+Forging of any TCP-IP packet header or any part of the header information in an e-mail or a newsgroup posting;
+Any conduct that is likely to result in retaliation against the Limenex network.
+Use of Limenex's network in a way that unreasonably interferes with Limenex's other customers use of the network.
+
+
+
+â Back to top
+Content
+
+
+You understand and agree that information and access available through the Service may include controversial, sexually explicit, or other material that may be offensive to you or users for whom you are responsible.
+Limenex has no responsibility for or control over such materials, and you take sole responsibility for using any available screening software or other methods of limiting access (specifically including the access of minors) to any material you may find objectionable.
+
+
+â Back to top
+Backup Copy
+
+
+Customer agrees to maintain a current copy of all content hosted by Limenex notwithstanding any agreement by Limenex to provide backup services.
+Customer acknowledges that any backups provided by or for Limenex services are a courtesy service intended for disaster recovery only and that Limenex does not warrant or guarantee the availability, integrity, content or operability of these backups.
+
+
+Any cPanel account larger than 5GB may, at our discretion, be excluded from our backup systems with or without notice.
+VPS and Dedicated Servers are excluded from this clause.
+
+
+VPS and Dedicated Server customers are encouraged to purchase and maintain a secondary drive to create and store backups on.
+Limenex also offers external storage packages for our customers to create and maintain their own backups stored external of their VPS or dedicated server.
+Limenex does not warrant or guarantee any backups on VPS and Dedicated Servers.
+
+
+â Back to top
+Changes to Limenex's Network
+
+
+Upgrades and other changes in Limenex's network, including, but not limited to changes in its software, hardware, and service providers, may affect the display or operation of Customer's hosted content and/or applications.
+Limenex reserves the right to change its network in its commercially reasonable discretion, and Limenex shall not be liable for any resulting harm to Customer.
+
+
+â Back to top
+Overages
+
+
+You understand and agree that Limenex will charge the following for overages on Cloud Web Hosting, Cloud Reseller Hosting and Business Cloud Hosting accounts:
+
+Storage Space: USD$3.00 per GB over limit or part thereof
+Bandwidth: USD$0.30 per GB over limit or part thereof
+
+
+
+You understand and agree that Limenex will charge the following for overages on Cloud VPS Hosting accounts:
+
+Bandwidth: USD$0.015 per GB over limit or part thereof
+
+
+
+You understand and agree that bandwidth for Dedicated Servers are calculated live on a rolling 30 day cycle.
+This type of calculation does not reset bandwidth every month to 0, but instead re-calculates daily for the past 30 days.
+
+While Limenex does not charge bandwidth overage fees for Dedicated Servers, once Customer exceeds their bandwidth allocation, the port speed of the affected server will be limited to 100 Mbps.
+Customer can continue to use as many bandwidth as possible on the 100 Mbps port.
+
+The port speed limitation will be lifted after bandwidth consumption falls below allocated bandwidth.
+
+
+
+Customer agrees to pay any and all overage charges accrued on their account from the previous billing cycle.
+
+
+Limenex reserves the right to suspend any account which does not pay the overage charges within 3 days.
+
+
+Limenex is not responsible for spikes in storage or bandwidth consumption that are caused on a Customer's service for any reason.
+Customer assumes liability for all storage and bandwidth consumption to and from their services.
+
+
+â Back to top
+Support Policy
+
+
+Limenex provides customer support through our Helpdesk system the Client Area and Live Chat on our website.
+Limenex is not liable to provide customer support through any other medium.
+The Customer is solely responsible to select the appropriate category when submitting a support ticket on our helpdesk.
+Limenex is not liable to respond to tickets submitted in the inappropriate category.
+Limenex is not liable for any delay in response when a support ticket is submitted in an inappropriate category.
+Limenex is not liable for any issues that arise due to Customer's failure to submit the support ticket in the appropriate category.
+
+
+Limenex does not provide telephone support unless customer has purchased a phone support service from Limenex.
+Limenex reserves the right to terminate any telephone call without liability from customers who did not subscribe to phone support service and calls our telephone number to request for support.
+All support requests have to be submitted through our helpdesk or live chat unless a phone support service has been purchased.
+
+
+Customer acknowledge that by requesting for assistance from our customer support representatives, you authorize our intervention and operation in your account.
+
+
+Limenex guarantees an initial response time of within 1 hour for technical support tickets submitted to our Web Hosting Support, VPS Hosting Support and Dedicated Server Support departments via our helpdesk.
+
+Initial response time is calculated from the date and time of Customer's initial message.
+Initial response is defined by the first non-automated reply made by a staff acknowledging he/she is working on the ticket.
+Support tickets have to be submitted via our helpdesk and cannot be submitted via email.
+Although we will do our best to respond as quickly as possible, there is no guaranteed response time for subsequent replies beyond the initial message as support technicians may require time to diagnose and investigate the issue.
+There is no guaranteed response time for live chat and telephone support.
+While Limenex will do our best to respond to every support ticket as quickly as possible, we do not promise to respond to tickets submitted to non-hosting support departments (e.g.
+Billing, Sales) of our helpdesk within any particular time frame.
+This guarantee does not cover tickets submitted to our Web Hosting Support, VPS Hosting Support and Dedicated Server Support department(s) pertaining to issues irrelevant to Customer's hosting service.
+Customer acknowledge that 'bumping' of a ticket will push the ticket to the bottom of the queue and will result in delaying the response from our staff.
+'Bumping' refers to submitting an additional response to a ticket that was last responded to by the Customer.
+
+
+
+Unless otherwise stated, Limenex does not promise to respond to tickets submitted to our helpdesk within any particular time frame.
+However, we will attempt respond to every support ticket as quickly as possible.
+Customer acknowledge that 'bumping' of a ticket will push the ticket to the bottom of the queue and will result in delaying the response from our staff.
+'Bumping' refers to submitting an additional response to a ticket that was last responded to by the Customer.
+
+
+Customer shall not abuse our helpdesk or live chat.
+Any abuse of our helpdesk or live chat may result in warning, helpdesk/live chat access restrictions, account suspension or possible account termination without refund.
+Abuse of our helpdesk includes but is not limited to:
+
+Aggressive and/or harassing behavior;
+Any form of spamming on our helpdesk.
+
+Limenex has the sole right to decide what constitutes as abuse of our helpdesk.
+
+The follow support restrictions apply for all hosting accounts:
+
+
+Limenex does not provide support for any 3rd party scripts including but not limited to all scripts listed in Softaculous, Fantastico, RVSiteBuilder and any other script unless explicitly stated.
+If you open a ticket requesting support for a 3rd party script, Limenex may provide assistance on a "best-effort" basis but we reserve the right to not provide any assistance regarding any 3rd party scripts.
+
+
+Limenex is not responsible for keeping your scripts/programs secure and up to date.
+It is your responsibility to ensure that your passwords, scripts/programs installed under your account(s) and directories permissions are secure, regardless of installation method.
+You are ultimately responsible for all actions taken under your account, including but not limited to the compromise of any portion of your account(s).
+
+
+Limenex does not provide coding or any form of website development support.
+You are responsible for the development of your website.
+Limenex may provide assistance on a case by case basis but it is not our duty to provide assistance on developing your website.
+You should consult a web developer if necessary.
+
+
+The offer of any particular service does not constitute an obligation on Limenex part to tutor the necessary skills to utilize that service, only to provide system-specific information.
+
+
+Problems with domain names/DNS issues are NOT directly the responsibility of Limenex.
+DNS is a cooperative system and works solely because the parties involved in running the system agree to cooperate in the furtherance of the DNS/domain system.
+We will do our best to isolate the source of the problem at hand, however unless this source is hardware directly under the control of Limenex, then the task of acquiring a solution will fall back into your hands.
+Limenex will advise when requested, but rarely intervene in domain issues not directly related to the operation of one of our DNS servers.
+
+
+Limenex may provide a free migration assistance for customers switching over to us.
+However, this is a courtesy service provided to customers whose previous host is also running cPanel control panel and uses cPanel's default backup system.
+We do not make any guarantees regarding the availability, possibility or time required to complete an account migration.
+Some hosting companies configure their system in an incompatible or proprietary format which makes it extremely difficult or otherwise impossible to migrate data.
+We may be unable to assist you in a migration of data from your previous host if our staff deem that it will be too difficult or impossible to do so.
+
+
+Limenex only provides full cPanel account transfer assistance.
+We will backup a copy of your cPanel account at your previous host and restore it on our server.
+Any special request including partial migration or migration from a different control panel may be chargeable.
+Please contact our sales department if you have any concerns regarding this.
+
+
+Limenex will not provide migration assistance for any cPanel account that is larger than 15GB in size.
+Customers with cPanel accounts bigger than 15GB will have to manually transfer the files over using FTP.
+This only applies to Cloud Web Hosting, Cloud Reseller Hosting and Business Cloud Hosting accounts.
+
+This policy is implemented to prevent large account restoration from impacting the server's performance negatively.
+
+Limenex may provide migration assistance for large accounts on a case-by-case basis.
+
+
+
+In the event the migration from your previous host is deem to be ineligible for free migration, Limenex may choose to provide assistance for a fee on a case by case basis.
+
+
+Limenex may offer basic troubleshooting after account migration to ensure things have been transferred successfully.
+Limenex does not cover 3rd party script configuration or troubleshooting.
+It is your responsibility to ensure your scripts are compatible with our server environment.
+
+
+
+
+Limenex provides managed support for our Cloud Web Hosting, Cloud Reseller Hosting and Business Cloud Hosting services for all system aspects listed below:
+
+Physical hardware management, monitoring and replacement;
+Network availability;
+Security and optimization of the server;
+Management of all aspects of the operating system, assistance and troubleshooting of any problems related to operating system and standard control panel components;
+Best-effort support for 3rd party applications that do not impact the operability of the underlying control panel or operating system.
+Remote desktop environments are not supported.
+
+
+
+Limenex provides managed support for our Cloud VPS Hosting and Dedicated Servers for all system aspects listed below:
+
+Physical hardware management, monitoring and replacement;
+Network availability;
+Free installation of the cPanel or DirectAdmin control panel is done during server provisioning;
+Free control panel and OS optimization is done during provisioning.
+General optimization is suitable in 99% of use cases;
+Free initial security hardening;
+Free initial accounts migration from remote system with the same control panel, paid migration services also available (contact sales);
+Management of all aspects of the operating system, assistance and troubleshooting of any problems related to operating system and standard control panel components;
+Best-effort support for 3rd party applications that do not impact the operability of the underlying control panel or operating system.
+Remote desktop environments are not supported.
+
+
+
+VPS and Dedicated Servers without cPanel/DirectAdmin control panel or have cPanel/DirectAdmin control panel uninstalled are strictly unmanaged.
+
+
+Each Dedicated Server is eligible for one (1) complimentary operating system (OS) reload per billing cycle.
+Additional OS reloads will be subject to an administrative fee.
+Installation of an unsupported OS is subject to the prior approval of Limenex and to an administrative fee.
+Please contact our billing department for inquiries regarding the administrative fees.
+
+
+Limenex provides support for issues pertaining to the registration, transfer, or renewal of Domain Names registered through Limenex.
+Limenex is not responsible for any hosting-related issues for your domain name unless you have purchased a hosting account with us and host your domain name on our server.
+Please contact your hosting provider for any hosting-related issues if your domain name is not hosted on our server.
+
+
+Limenex provides basic support for the SSL Certificates, Email Security and Web Security tools we resell.
+We may attempt to assist on technical issues regarding these products on a best-effort basis.
+We may require you to escalate your issue to the relevant vendor for further assistance as necessary.
+Limenex is not responsible for any hosting-related issues for your SSL Certificate, Email Security and/or Web Security tools including but not limited to installation at your hosting provider unless you have purchased a hosting account with us and the service is meant to be installed on a domain name hosted on our server.
+Please contact your hosting provider for any hosting-related issues if your domain name is hosted outside of Limenex's network.
+
+
+â Back to top
+Refusal of Service
+
+
+Limenex reserve the right to refuse or cancel service to anybody at its sole discretion without notice.
+Where appropriate, any fees paid for yet to be used services may be returned to you on a pro-rated basis.
+Such discretion is to be consistent with the terms of this Agreement and to the extent that no such term is set forth in this Agreement, discretion rests solely with Limenex as to whether to issue a refund.
+In some instances, fees are related to licenses or bundles that are not capable of being refunded notwithstanding any remaining term on a contract or subscription.
+Examples of non-refundable fees include, but are not limited to, domain name registration/transfer, domain WHOIS privacy, software licenses, SSL certificates, dedicated server orders and fees, downgrade/upgrade fees, fees for any products purchased through Limenex, and IP addresses.
+In the event that Limenex has canceled your account and you re-registers with Limenex following said cancellation without the express written consent of Limenex, Limenex reserves the right to cancel your account and retain any and all fees paid to date as a part of that re-registration, regardless of whether any service has been rendered, as a forfeiture related to your unapproved re-registration.
+
+
+Any material that, in our judgment, is obscene, threatening, illegal, or violates our terms of service in any manner may be removed from our servers (or otherwise disabled), with or without notice.
+
+
+â Back to top
+IP Address Ownership
+
+If Limenex assigns Customer an Internet Protocol address for Customer's use, the right to use that Internet Protocol address shall belong only to Limenex, and Customer shall have no right to use that Internet Protocol address except as permitted by Limenex in its sole discretion in connection with the Services, during the term of this Agreement.
+Limenex shall maintain and control ownership of all Internet Protocol numbers and addresses that may be assigned to Customer by Limenex, and Limenex reserves the right to change or remove any and all such Internet Protocol numbers and addresses, in its sole and absolute discretion.
+Our allocation of IP addresses is limited by ARIN's new policies.
+You may be required to submit ARIN justification forms and IP addresses will only be allowed for use if your justification is valid.
+These new policies state that use of IP addresses for IP based virtual hosts will not be accepted as justification for new IP addresses.
+What this means to you is that you MUST use name-based hosting where possible.
+We will periodically review IP address usage, and if we find that clients are using IP addresses where name-based hosting could be used, we will revoke authorization to use those IP addresses that could be used with name-based hosting.
+
+â Back to top
+Privacy
+
+
+Limenex will not provide names, addresses, telephone numbers, email addresses, or other personally identifiable information on any Subscriber to any third party without prior permission from that Subscriber, except when required under an appropriate court or administrative directive, including a facially valid subpoena, or as necessary to render the Service.
+Limenex may provide aggregate data on Subscribers to third parties in the operation of Limenex's business.
+Limenex may use various methods to collect information including cookies and/or IP addresses.
+
+
+Customer agrees that Limenex may with or without notice to Customer,
+
+
+report to the appropriate authorities any conduct by Customer or any of Customer's customers or end users that Limenex believes violates applicable law, and.
+
+
+provide any information that it has about Customer or any of its customers or end users in response to a formal or informal request from a law enforcement or regulatory agency or in response to a formal request in a civil action that on its face meets the requirements for such a request.
+
+
+
+
+Please visit our Privacy Policy for more information.
+
+
+â Back to top
+Disputes
+
+
+You agree that any dispute between you and Limenex arising out of your use of the Service on in any way based upon your subscription to and/or use of the Service which cannot be resolved between you and Limenex will be submitted by the aggrieved party for binding arbitration under the auspices of the Singapore law.
+
+
+â Back to top
+Governing Law
+
+
+These Terms and Policies are governed in all respects under Singapore laws.
+
+
+â Back to top
+Cancellation Procedure
+
+
+Cancellation requests must be submitted through the client area.
+To do this, click the icon next to the package you wish to cancel then select 'Request Cancellation'.
+You must then complete and submit the form.
+
+
+Choosing an immediate cancellation means your service will be terminated with 24 hours of submitting the form.
+
+
+It is NOT Limenex's responsibility to ensure any PayPal subscriptions you have setup are canceled.
+
+
+No other forms of cancellation are accepted.
+
+
+Cancellation requests can only be submitted if the account has no due invoices.
+
+
+Customer acknowledges that a minimum cancellation notice or downgrade of current package prior to the following renewal term must be given in writing to Limenex or the Customer will be responsible for full payment of the following term.
+The following are the minimum days of cancellation notice required:
+
+
+Cloud Web Hosting: 7 days before due date
+
+
+Business Cloud Hosting: 7 days before due date
+
+
+Cloud Reseller Hosting: 7 days before due date
+
+
+Cloud VPS Hosting: 14 days before due date
+
+
+Dedicated Server: 14 days before due date
+
+
+SSL Certificates: 7 days before due date
+
+
+Other Products/Services: 7 days before due date
+
+
+Domain Names can be canceled by disabling auto-renew within the client area at least 7 days prior to the domain's expiry date.
+
+
+
+
+Customers requesting for refund must do so by submitting a ticket to our billing department.
+No other forms of refund request is accepted.
+
+
+â Back to top
+Discount Coupons
+
+
+Only one coupon can be used per transaction.
+
+
+If the order value is lower than the value of the coupon, the remaining amount will be forfeited.
+
+
+â Back to top
+Force Majeure
+
+
+Limenex shall not be in default of any obligation under the Agreement if the failure to perform the obligation is due to any event beyond Limenex's control, including, without limitation, significant failure of a portion of the power grid, significant failure of the Internet, natural disaster, war, riot, insurrection, epidemic, strikes or other organized labor action, terrorist activity, or other events of a magnitude or type for which precautions are not generally taken in the industry.
+
+
+â Back to top
+Limitation of Damages
+
+
+LIMENEX SHALL NOT BE LIABLE FOR ANY LOST PROFITS, OR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE LOSS OR DAMAGE OF ANY KIND, OR FOR DAMAGES THAT COULD HAVE BEEN AVOIDED BY THE USE OF REASONABLE DILIGENCE, ARISING IN CONNECTION WITH THE AGREEMENT, EVEN IF CUSTOMER HAS BEEN ADVISED OR SHOULD BE AWARE OF THE POSSIBILIY OF SUCH DAMAGES.
+
+
+NOTWITHSTANDING ANYTHING ELSE IN THE AGREEMENT TO THE CONTRARY, THE MAXIMUM AGGREGATE LIABILITY OF LIMENEX AND ANY OF ITS EMPLOYEES, AGENTS OR AFFILIATES, UNDER ANY THEORY OF LAW (INCLUDING BREACH OF CONTRACT, TORT, STRICT LIABILITY, AND INFRINGEMENT) SHALL BE A PAYMENT OF MONEY NOT TO EXCEED THE AMOUNT PAYABLE BY CUSTOMER FOR ONE MONTH OF SERVICE.
+
+
+â Back to top
+Abuse Tickets
+
+
+Limenex standard policy is to contact The Customer during which a violation of the AUP or TOS has occurred, however, Limenex does reserve the right to suspend or terminate an account with or without notice at its own discretion.
+The Customer agrees to maintain up to date primary contact email information with Limenex.
+The violation shall be listed in the Subject of the email sent from our abuse department (abuse@limenex.com).
+The Customer shall be given all appropriate details of the Violation as well as a time frame to correct the issue before action shall be taken.
+Once the email has been sent to The Customer, Limenex will consider that The Customer has been notified.
+Limenex reserves the right to use discretion on the amount of time given for a customer to correct the issue before action is taken.
+
+
+For example: A violation containing a "Phishing" site is lodged against the customer, the offending files will be immediately disabled and the customer will be given 24 hours to clean and secure the site.
+If after 24 hours the Customer has not replied confirming they have taken action, further action may be taken such as suspending the individual site and/or suspending the entire VPS or Dedicated Server.
+
+
+For example: A violation resulting in a "Spam" complaint.
+We may investigate the complaint to determine how the spam is being sent.
+We may provide a best effort analysis to locate the source of the spam.
+If for example it is being sent from a script, we may attempt to disable that script and notify The Customer.
+If it is being sent from an individual account, if possible, we may attempt to disable password access to that account.
+We may then notify the customer giving them 24 hours to investigate the complaint and provide a resolution to the abuse complaint.
+Should we be unable to isolate and/or disable the source of the "Spam" we may place a SMTP filter against The Customer's service to prevent additional emails from being sent out until at which time a resolution to the issue is made.
+If after 24 hours no response has been received from the customer, additional steps may be taken to ensure the "Spam" has been stopped such as system wide SMTP filters, suspension of individual sites, disabling password access to certain accounts, disabling of scripts or as a final step suspension of all services.
+
+
+For example: A violation resulting from "Resource Abuse".
+We may investigate the resource abuse and provide the Customer with a best effort analysis of the problem causing the resource abuse.
+At which time the Customer may be given a time frame to make the corrections to their code, scripts, MySQL queries or software services running.
+If the issue is not corrected within the time frame given, Limenex may then take further steps to ensure the stability of the network and servers and may take actions including but not limited to disabling plugins, themes, accounts, scripts, services and in reserves the right to issue a full service suspension depending on the severity of the issue based upon Limenex's judgment of the scenario.
+
+
+None of the above examples are meant to be specific guidelines with regards to how each and every case may be handled.
+Limenex reserves full rights to use its judgment and discretion in how each individual case is handled.
+
+
+Limenex handles any and all Digital Millennium Copyright Act (DMCA) complaints very seriously and will thoroughly investigate each complaint received.
+Limenex reserves the right to pursue civil remedies for any costs associated with the investigation of a substantiated policy violation.
+The following actions will be taken on a case-by-case basis:
+
+A ticket is opened as a warning, providing 24 hours to resolve the situation.
+After 24 hours with no client response, connection to the IP address from the DMCA complaint will be disabled at the network level.
+At this time, Limenex reserves the right to assess a USD$50 fine.
+After 72 hours with no resolution, services on the server in question will be suspended.
+After 7 days of being suspended and the issue not having been resolved, services on the server in question will be canceled and an Abuse Charge of USD$300 will be placed on the account.
+All client data will be destroyed immediately after the cancellation date.
+Customers who violate this policy and fail to resolve the situation within 24 hours agree that in addition to these administrative penalties, they will pay 'Research Fees' not to exceed USD$75 per hour that Limenex personnel must spend to investigate the matter, to be charged only if claims are found to be valid.
+Limenex may charge $50 per abuse incident as per our discretion.
+
+This clause is mainly enforced at users who frequently violate our Terms of Service or has a disproportionately high amount of abuse incidents.
+
+
+
+
+
+â Back to top
+Disclaimer
+
+
+Limenex is under no duty, and does not by this Terms of Service undertake a duty, to monitor or police our customers' activities and disclaims any responsibility for any misuse of the Limenex network.
+
+
+Inquiries regarding this policy should be directed to us at general@limenex.com.
+
+
+â Back to top
+Amendments
+
+
+These Terms and Policies may be amended in any respect at any time by Limenex upon the posting of the amended Terms and Policies on the terms of use section of the Service.
+Your continued use of the Service will be deemed consent to any such amended Terms and Policies.
+If you do not wish to continue to use the Service as a result of any such amended Terms and Policies, you may provide notice of your wish to terminate your use of the Service to Limenex.
+
+
+â Back to top
+

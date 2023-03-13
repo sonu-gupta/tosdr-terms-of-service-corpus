@@ -1,0 +1,64 @@
+
+         Privacy
+Your data always belongs to you, and only you.
+We donât make advertising deals or collect sensitive personal data.
+Weâre funded directly by our users paying what they want for elementary OS and apps on AppCenter.
+And thatâs how it should be.
+We actively protect your data from ourselves and others by not collecting it.
+We believe respecting and protecting your privacy is the ethical thing to do.
+people have a fundamental right to the utmost privacy, even from companies and products they trust.
+ elementary OS
+
+We do not collect any data from elementary OS. Your files, settings, and all other personal data remain on-device unless you explicitly share them with a third-party app or service.
+Protections
+elementary OS comes with built-in privacy protections to help protect your data from others.
+Tattle-tale
+elementary OS helps you keep tabs on what apps are up to.
+When an app is using your microphone, we display an indicator to let you know.
+When an app is using a lot of energy, we tell you in your power indicator.
+Permissions
+When an app wants access to your data or devices, it has to ask up front.
+We review all AppCenter apps to ensure theyâre properly using permissionsâand you can always revoke them yourself in System Settings.
+Housekeeping
+elementary OS automatically keeps your temporary and trashed files tidied up.
+Not only does this keep your deviceâs storage free, it can help ensure your private data doesnât come back to haunt you.
+Online Accounts
+elementary OS optionally integrates with online accounts such as email and calendar providers via System Settings.
+Data from these providers may be retrieved by your copy of elementary OS and stored locally on your device to be displayed in locally-installed apps such as Mail, Calendar, and Tasks.
+This data is not sent to elementary or shared with any third party.
+
+What Data is Collected
+If you choose to add an online account, your copy of elementary OS may collect and store your name, email address, avatar, email messages, calendar events, contacts, photos, and files from your connected accounts locally on your device.
+elementary does not collect any of this data.
+
+How Data is Used
+
+Your data is stored locally on your device and never sent to elementary servers or any third parties. It is used to populate your locally-installed apps such as Mail, Calendar, Tasks, Files, and Photos with your data so you can access it.
+Sharing Data
+
+elementary OS does not share any data collected from your online accounts. The data is never sent to elementary or third-party servers. elementary.io
+Plausible Analytics
+This website uses the open source Plausible Analytics routed through our stats.elementary.io domain to anonymously count visits, downloads, etc.
+You can see the same data we can see on the public dashboard.
+No cookies are used and no personal dataânot even an IP address or browser user agentâis stored.
+For more information, see the Plausible Data Policy
+Cookies
+
+You can choose to disable or selectively turn off any cookies or third-party cookies in your browser settings.
+
+This site uses cookies for incremental improvements.
+You may find the services function without them but at a reduced usability.
+For example, the site will not remember if you have previously paid for elementary OS.
+by default you will be asked to pay again.
+Cloudflare
+Stores cookies to log behavioral elements and analyze potential threats.
+For more information, see the Cloudflare Privacy &amp.
+Security Policy
+Stripe
+Uses cookies to remember your last order and your country so it knows what card types to offer for payments.
+For more information, see Stripe's Privacy Policy
+Manage Cookies
+As you have already visited our site, you may wish to manage cookies already set in your browser.
+Links to the relevant instructions can be found below. Chrome Edge Web Firefox IE Midori Opera Safari Transparency
+We have not placed any backdoors into our software and have not received any requests for doing so.
+We have also never received a National Security Letter, FISA order, or any other classified request for user information.

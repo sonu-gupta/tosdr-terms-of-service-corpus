@@ -1,0 +1,203 @@
+
+
+Legal &amp.
+Security
+Data Processing Agreement
+Data Processing AgreementLast updated: September 27, 2021
+1.
+Scope, Order of Precedence, and Term 
+1.1 This Data Processing Agreement (âDPAâ) is an addendum to the Customer Terms of Service (âAgreementâ) between DigitalOcean, LLC (âDigitalOceanâ) and the Customer.
+DigitalOcean and Customer are individually a âpartyâ and, collectively, the âparties.â 
+
+1.2 This DPA applies where and only to the extent that DigitalOcean processes Personal Data on behalf of the Customer in the course of providing the Services and such Personal Data is subject to Data Protection Laws of the appropriate jurisdiction, including the State of California, the European Union, the European Economic Area and/or its member states, Switzerland and/or the United Kingdom.
+The parties agree to comply with the terms and conditions in this DPA in connection with such Personal Data.
+
+
+1.3 The duration of the Processing covered by this DPA shall be in accordance with the duration of the Agreement.
+2.
+Definitions 
+2.1 The following terms have the meanings set forth below.
+All capitalized terms not defined in this DPA will have the meanings set forth in the Agreement.
+
+
+2.2 The following terms have the definitions given to them in the CCPA: âBusiness,â âSell,â âService Provider,â and âThird Party.â 
+
+2.3 âControllerâ means the entity that determines the purposes and means of the Processing of Personal Data.
+âControllerâ includes equivalent terms in other Data Protection Law, such as the CCPA-defined term âBusinessâ or âThird
+Party,â as context requires.
+
+
+2.4
+âData Protection Lawâ means all data protection and privacy laws applicable to the processing of Personal Data under the Agreement as it relates to the Customer, including Regulation 2016/679 (General Data Protection Regulation) (âGDPRâ), and Cal.
+Civ.
+Code Title 1.81.5, Â§ 1798.100 et seq.
+(California Consumer Privacy Act) (âCCPAâ).
+
+
+2.5
+âData Subjectâ means an identified or identifiable natural person.
+
+
+2.6
+âDe-identified Dataâ means a data set that does not contain any Personal Data.
+Aggregated data is De-identified Data.
+To âDe-identifyâ means to create De-identified Data from Personal Data.
+
+
+2.7
+âEEAâ means the European Economic Area.
+
+
+2.8
+âStandard Contractual Clausesâ means the European Union standard contractual clauses for international transfers from the European Economic Area to third countries, Commission Implementing Decision (EU) 2021/914 of 4 June 2021.&nbsp.
+
+
+2.9
+âPersonal Dataâ means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a Data Subject in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+âPersonal Dataâ includes equivalent terms in other Data Protection Law, such as the CCPA-defined term âPersonal Information,â as context requires.
+
+
+2.10
+âPersonal Data Breachâ means a breach of security of the Services leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to Personal Data.
+
+
+2.11 âProcessâ or âProcessingâ means any operation or set of operations which is performed upon Personal Data, whether by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction.
+
+
+2.12
+âProcessorâ means an entity that processes Personal Data on behalf of another entity.
+âProcessorâ includes equivalent terms in other Data Protection Law, such as the CCPA-defined term âService Provider,â as context requires.
+
+
+2.13
+âSensitive Dataâ means the following types and categories of data: data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership.
+genetic data.
+biometric data.
+data concerning health, including protected health information governed by the Health Insurance Portability and Accountability Act.
+data concerning a natural person's sex life or sexual orientation.
+government identification numbers (e.g., SSNs, driverâs license).
+payment card information.
+nonpublic personal information governed by the Gramm Leach Bliley Act.
+an unencrypted identifier in combination with a password or other access code that would permit access to a data subjectâs account.
+and precise geolocation.
+
+
+2.14
+âSubprocessorâ means a Processor engaged by a party who is acting as a Processor. 3.
+Description of the Partiesâ Personal Data Processing Activities and Statuses of the Parties 
+3.1 Schedules 1-3 attached hereto describe the purposes of the partiesâ Processing, the types or categories of Personal Data involved in the Processing, and the categories of Data Subjects affected by the Processing.&nbsp.
+
+
+3.2 Schedules 1-3 list the partiesâ statuses under relevant Data Protection Law.&nbsp.
+4.
+International Data Transfer 
+4.1 With respect to Personal Data of Data Subjects located in the EEA, Switzerland, or the United Kingdom that Customer transfers to DigitalOcean or permits DigitalOcean to access, the parties agree that by executing this DPA they also execute the Standard Contractual Clauses, which will be incorporated by reference and form an integral part of this DPA.
+The parties agree that, with respect to the elements of the Standard Contractual Clauses that require the partiesâ input, Schedules 1-3 contain all the relevant information.
+5.
+Data Protection Generally 
+5.1 Compliance.
+The parties will comply with their respective obligations under Data Protection Law and their privacy notices.&nbsp.
+
+
+5.2 Customer Processing of Personal Data.
+Customer represents and warrants that it has the consent or other lawful basis necessary to collect Personal Data in connection with the Services.&nbsp.
+
+
+5.3 Cooperation.
+
+
+5.3.1 Data Subject Requests.
+The parties will provide each other with reasonable assistance to enable each to comply with their obligations to respond to Data Subjectsâ requests to exercise rights that those Data Subjects may be entitled to under Data Protection Law.&nbsp.
+
+
+5.3.2 Governmental and Investigatory Requests.
+Customer will promptly notify DigitalOcean if Customer receives a complaint or inquiry from a regulatory authority indicating that DigitalOcean has or is violating Data Protection Law.&nbsp.
+
+
+5.3.3 Other Requirements of Data Protection Law.
+Upon request, the parties will provide relevant information to each other to fulfill their respective obligations (if any) to conduct data protection impact assessments or prior consultations with data protection authorities.&nbsp.
+
+
+5.4 Confidentiality.
+The parties will ensure that their employees, independent contractors, agents, and representatives&nbsp.
+are subject to an obligation to keep Personal Data confidential and have received training on data privacy and security that is commensurate with their responsibilities and the nature of the Personal Data.
+
+
+5.5 De-identified, Anonymized, or Aggregated Data.
+The parties may create De-identified Data from Personal Data and Process the De-identified Data for any purpose.
+6.
+Data Security 
+6.1 Security Controls.
+Each party will maintain written information security policy that defines security controls that are based on the partyâs assessment of risk to Personal Data that the party Processes and the partyâs information systems.
+DigitalOceanâs security controls are described in Schedule 2.3 and Schedule 3.4.
+7.
+DigitalOceanâs Obligations as a Processor, Subprocessor, or Service Provider 
+7.1 DigitalOcean will have the obligations set forth in this Section 7 if it Processes Personal Data in its capacity as Customerâs Processor or Service Provider.
+for clarity, these obligations do not apply to DigitalOcean in its capacity as a Controller, Business, or Third party.
+
+
+7.2 Scope of Processing.&nbsp.
+
+
+7.2.1 DigitalOcean will Process Personal Data to provide Services to Customer under the Agreement,&nbsp.
+and comply with applicable law.
+DigitalOcean will notify Customer if the law changes and those changes cause DigitalOcean not to be able to comply with the Agreement.&nbsp.
+
+
+7.3 Data Subjectsâ Requests to Exercise Rights.
+DigitalOcean will promptly inform Customer if DigitalOcean receives a request from a Data Subject to exercise their rights with respect to their Personal Data under applicable Data Protection Law.
+Customer will be responsible for responding to such requests.
+DigitalOcean will not respond to such Data Subjects except to acknowledge their requests.
+DigitalOcean will provide Customer with commercially reasonable assistance, upon request, to help Customer to respond to a Data Subjectâs request.&nbsp.
+
+
+7.4 DigitalOceanâs Subprocessors.
+
+
+7.4.1 Existing Subprocessors.
+Customer agrees that DigitalOcean may use the Subprocessors listed at Schedule 3.
+
+
+7.4.2 Use of Subprocessors.
+Customer grants DigitalOcean general authorization to engage Subprocessors if DigitalOcean and a Subprocessor enter into an agreement that requires the Subprocessor to meet obligations that are no less protective than this DPA.&nbsp.
+
+
+7.4.3 Notification of Additions or Changes to Subprocessors.
+DigitalOcean will notify Customer of any additions to or replacements of its Subprocessors via email or other contact methods and make that list available on Customerâs request.
+DigitalOcean will provide Customer with at least 30 days to object to the addition or replacement of Subprocessors in connection with DigitalOceanâs performance under the Agreement, calculated from the date DigitalOcean provides notice to Customer.
+If Customer reasonably objects to the addition or replacement of DigitalOceanâs Subprocessor, DigitalOcean will immediately cease using that Subprocessor in connection with DigitalOceanâs Services under the Agreement, and the parties will enter into good faith negotiations to resolve the matter.
+If the parties are unable to resolve the matter within 15 days of Customerâs reasonable objection (which deadline the parties may extend by written agreement), Customer may terminate the Agreement and/or any statement of work, purchase order, or other written agreements.
+The parties agree that DigitalOcean has sole discretion to determine whether Customerâs objection is reasonable.
+however, the parties agree that Customerâs objection is presumptively reasonable if the Subprocessor is a competitor of Customer and Customer has a reason to believe that competitor could obtain a competitive advantage from the Personal Data DigitalOcean discloses to it, or Customer anticipates that DigitalOceanâs use of the Subprocessor would be contrary to law applicable to Customer.
+
+
+7.4.4 Liability for Subprocessors.
+DigitalOcean will be liable for the acts or omissions of its Subprocessors to the same extent as DigitalOcean would be liable if performing the services of the Subprocessor directly under the DPA, except as otherwise set forth in the Agreement.
+
+
+7.5 Personal Data Breach.
+DigitalOcean will notify Customer without undue delay of a Personal Data Breach affecting Personal Data DigitalOcean Processes in connection with the Services.
+Upon request, DigitalOcean will provide information to Customer about the Personal Data Breach to the extent necessary for Customer to fulfill any obligations it has to investigate or notify authorities, except that DigitalOcean reserves the right to redact information that is confidential or competitively sensitive.
+Notifications will be delivered to the email address Customer provides in Customerâs account.
+Customer agrees that email notification of a Personal Data Breach is sufficient.
+DigitalOcean agrees that it will notify Customer if it changes its contact information.
+Customer agrees that DigitalOcean may not notify Customer of security-related events that do not result in a Personal Data Breach.
+
+
+7.6 Deletion and Return of Personal Data.
+Upon deactivation of the Services, all Personal Data shall be deleted, save that this requirement shall not apply to the extent DigitalOcean is required by applicable law to retain some or all of the Personal Data, or to Personal Data it has archived on back-up systems, which such Personal Data DigitalOcean shall securely isolate and protect from any further processing, except to the extent required by applicable law.
+
+
+7.7 Audits.&nbsp.
+
+
+7.7.1 DigitalOcean shall maintain records of its security standards.
+Upon Customer's written request, DigitalOcean shall provide (on a confidential basis) copies of relevant external ISMS certifications, audit report summaries and/or other documentation reasonably required by Customer to verify DigitalOcean's compliance with this DPA.
+DigitalOcean shall further provide written responses (on a confidential basis) to all reasonable requests for information made by Customer, including responses to information security and audit questionnaires, that Customer (acting reasonably) considers necessary to confirm DigitalOcean's compliance with this DPA, provided that Customer shall not exercise this right more than once per year.
+
+
+7.7.2 To the extent the Standard Contractual Clauses apply and the Customer reasonably argues and establishes that the above documentation and/or other third party audit reports are not sufficient to demonstrate compliance with the obligations laid down in this DPA, the Customer may execute an audit as outlined under Clause 8.9 of the Standard Contractual Clauses accordingly, provided that in such an event, the parties agree: (a) Customer is responsible for all costs and fees relating to such audit (including for time, cost and materials expended by DigitalOcean).
+(b) a third party auditor must be mutually agreed upon between the parties to follow industry standard and appropriate audit procedures.
+(c) such audit must not unreasonably interfere with DigitalOceanâs business activities and must be reasonable in time and scope.
+and (d) the parties must agree to a specific audit plan prior to any such audit, which must be negotiated in good faith between the parties.
+For avoidance of doubt, nothing in this Section 7.7.2 modifies or varies the Standard Contractual Clauses, and to the extent a competent authority finds otherwise or any portion of Section 7.7.2 is otherwise prohibited, unenforceable or inappropriate in view of the Standard Contractual Clauses, the relevant portion shall be severed and the remaining provisions hereof shall not be affected.

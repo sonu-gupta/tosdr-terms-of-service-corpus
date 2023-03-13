@@ -1,0 +1,26 @@
+
+
+The SpiderOak applications CrossClave, SpiderOak One, CrossClave Groups, and Semaphor are HIPAA-compliant as a Business Associate.
+As its standard offering, SpiderOak One and Groups provides a cloud backup and storage system that complies with both the Privacy Rule and Security Rule.
+CrossClave is a file sharing and collaboration tool with real-time chat that complies with both the Privacy Rule and the Security Rule.
+Semaphor is a chat tool for real-time conversations and file-sharing that also complies with both the Privacy Rule and Security Rule.
+
+SpiderOak supports certain customers that are subject to the Health Insurance Portability and Accountability Act of 1996 and its implementing regulations as amended by the regulations promulgated pursuant to the Health Information Technology for Economic and Clinical Health Act, Title XIII of the American Recovery and Reinvestment Act of 2009 (collectively, âHIPAAâ).
+Under HIPAA, companies have obligations to meet certain privacy and security standards with regard to Protected Health Information (âPHIâ).
+In order to comply with HIPAA, Covered Entities, which are defined in the HIPAA rules to include: (1) health plans, (2) healthcare clearinghouses, and (3) healthcare providers who electronically transmit any health information in connection with transactions for which Health &amp.
+Human Services (âHHSâ) has adopted standards, must act in an effort to ensure that patient information is both private and secure.
+To guide organizations in fulfilling their HIPAA obligations, HHS has published what are commonly known as the HIPAA Privacy Rule and the HIPAA Security Rule.
+The âPrivacy Rule,â or Standards for Privacy of Individually Identifiable Health Information, establishes national standards for keeping certain health information confidential.
+The Security Standards for the Protection of Electronic Protected Health Information (the âSecurity Ruleâ) establish a national set of security standards for keeping certain health information secure while it is being held or transferred in electronic form.
+Organizations that act in support of Covered Entities, as defined in HIPAA, are âBusiness Associates.â Cloud storage providers, such as SpiderOak, that support Covered Entities through the storage of PHI are Business Associates.
+The latest update to HIPAA requires, among others, healthcare providers, medical institutions, and cloud storage services supporting those entities where PHI is involved to be compliant with HIPAA rules and regulations.
+If they are found not to be in compliance, they may have to pay fines up to $1.5 million dollars.
+In order to comply with HIPAA, cloud service providers have to enforce stringent security policies for protecting the privacy and confidentiality of user data.
+With its No Knowledge privacy approach, the SpiderOak One desktop, CrossClave desktop and mobile, and Semaphor desktop and mobile applications encrypt the data on the userâs device before uploading the data to the cloud or syncing it across other devices.
+The data remains encrypted until the user requests the data, which is then delivered back to the userâs computer in its encrypted state until the user decrypts it with the password.
+Because the SpiderOak One, CrossClave, and Semaphor desktop applications store user data in encrypted form, it also provides the highest degree of protection against security breaches.
+When sensitive information is stored in plaintext form, there is always a risk of data being compromised during cyber attacks, resulting in compliance violations.
+Even if unauthorized personnel are able to access the server, all they can see is encrypted, unintelligible data.
+You can find more information about how to request a SpiderOak Business Associate Agreement here.
+For any inquiries regarding PHI, HIPAA, security, privacy, please contact compliance@spideroak.com, Attn: HIPAA Compliance.
+To learn more about how to get your team set up on CrossClave for Enterprise, please contact our enterprise sales team at sales@spideroak-inc.com.

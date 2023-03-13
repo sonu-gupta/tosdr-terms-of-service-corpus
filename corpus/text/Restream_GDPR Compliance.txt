@@ -1,0 +1,257 @@
+
+        GDPR ComplianceLast modified on 20/10/20 Restream has made commercially reasonable efforts to provide detailed overview of our GDPR compliance and how Restream supports your business to operate within the confines of this regulation.
+Especially when it comes to customer data and its verification through the Restream Live Video Streaming Service.
+But it is still advised to engage services of a legal counsel to have a better understanding of GDPR compliance and the liabilities that come along with it for your organization.
+The following compliance guide is the practices, procedures and upgrades introduced in the internal working of Restream to make its services GDPR complaint.
+
+ Here is a summary of GDPR sections that are applicable to users of Restream services.
+
+
+
+ Cookies
+
+ GDPR only allows collection of user data for a legal reason.
+Restream only collects data for verification purposes as per the legal agreement signed by Restream and its customers in the Terms of Use.
+This data will be limited to verification of the credentials, identity or any other related verification that was required by our customers to be provided as per the legal agreement.
+
+ Lawful Basis
+
+ GDPR only allows collection of user data for a legal reason.
+Restream only collects data for verification purposes as per the legal agreement signed by Restream and its customers in the Terms of Use.
+This data will be limited to verification of the credentials, identity or any other related verification that was required by our customers to be provided as per the legal agreement.
+ We have even added a consent button at the form where a customer is supposed to fill its identification details.
+We also provide the option for customers to go through our data protection, privacy policy and Terms &amp.
+Conditions, to ensure full transparency.
+
+ Deletion
+
+ GDPR requires Restream to forget and delete the user data when requested by the user.
+Restream has taken steps to provide full control to the end-users about their data that they have submitted for identity verification for login.
+This can be deleted via their account settings or contacting a Customer Service Representative via chat or email.
+
+ Restream Plan for GDPR Compliance
+
+ Restream Users and Enterprise partners should feel confident that we are both knowledgeable and compliant with General Data Protection Regulation (GDPR) that are under our control.
+This directive set by the European Union, a legislation that set forth guidelines regarding how information is collected and how it is processed and used.
+ The GDPR legislation was formed to harmonize data privacy laws across Europe.
+Empowering all EU citizenâs data privacy in the process, and to reshape how organizations approach data privacy in a secure and transparent manner.
+ At Restream, we deploy commercially reasonable efforts to assist our users, businesses and our clients.
+To help them understand, what the GDPR means for their businesses and to assist them in establishing a compliant process of their own.
+Considering that aspect, we have made great improvements to our Restream platform to ensure that we stand at par with the critical components of GDPR measures.
+
+ The Restream Process:
+
+ Let us say that Daniel Streamer is a potential customer and lives in France.
+He is called the Data Subject, and the service provider, is called the Controller of his data.
+Since Restream is verifying the credentials of Daniel, then that makes Restream, the Processor.
+
+ How Daniel might interact with Restream:
+
+
+
+
+An Enterprise Ecommerce partner integrates Restream with their online business/portal/app
+Daniel approaches the Online Business and is redirected to a landing page where Restream Verification is carried out.
+Or Daniel goes directly to Restream.io and enters relevant credentials (email Address and password)
+Restream uses STRIPE for payment collections, so Restream does NOT retain any Credit or Debit card info.
+Restream does NOT collect Date of Birth, Physical Address, Social Security Numbers or other overly sensitive PII (Personal Identifiable Information).
+Based on the results of a verification of Daniels username and password only, he is Verified or Not Verified to use the Restream service.
+
+ All the above stated steps gather user data from the Data Subject on behalf of
+ Controller that is passed on to Processor. Following are various aspects of our data protection policy, privacy policy and Terms &amp.
+Conditions that control the entire process, under the guidelines of GDPR
+
+ User Data
+
+ User Data means any data, content, code, video, images, or other materials of any type that User uploads, submits or otherwise transmits to or through Services.
+User will retain all right, title, and interest in and to User Data in the form provided to restream.io.
+Restream stores data on industry secured servers located in EEA zone, and are monitored.
+Subject to the terms of this Agreement, you hereby grant to Restream a non-exclusive, worldwide, royalty-free right to:
+
+(a) collect, use, copy, store, and transmit User Data (Video, Graphics), in each case solely to the extent necessary to provide the applicable Services to Client
+
+(b) Client hereby grants to Restream all necessary rights to use, reproduce, modify, create derivative works from, distribute, perform, transmit and display the User solely to the extent necessary to provide the Services which will include the right for Restream to grant equivalent rights to its service providers that perform services that form part of or are otherwise used to perform the Services.
+
+ Access to Data
+
+The Services may delete any stored items in storage upon expiration or termination of this Agreement.
+Restream will have no responsibility or liability for storing and deleting items in accordance with our Terms of Use agreement.
+
+ User Data Collected by Restream
+
+You may instruct us to provide you with any personal information we hold about you.
+Restream only collects the following information (mostly nonapplicable to GDPR):
+
+ip address
+username
+password (hash encrypted)
+email address
+timezone created_at time
+google_token
+blog_posts_read
+stripe_id for Restream to verify payment was made for accessing the service
+selected_language
+two_factor_auth
+
+ In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt out of the use of your personal information for Restream marketing purposes.
+Restream DOES NOT SELL any user data.
+
+Automated decision-making
+
+ We may use your personal data for the purposes of automated decision-making in relation to our live video stream service.
+This automated decision-making will involve checking the info provided by you and matching that with the identity information provided by you.
+
+Identity Verification
+
+ Restream employs simple user named accounts, email address and password only.
+Unless otherwise stated in the Standard Agreement, the Verifications parameters include:
+
+User Name
+Email address
+Customized Service parameters (Paid Plans)
+
+
+ Users Individual Rights Request
+
+ The GDPR enhances the rights of individuals in several ways.
+
+Access and Privileges
+
+ User can request access to the personal data they have shared with Restream about their account.
+Personal data is anything identifiable, like his name and email address.
+If they requests access, Restream (as the processor) will provide a copy of the data, in most cases in machine-readable format (e.g.
+CSV or XLS).
+ A client can seek access to their data by asking Restream of what they require at legal@restream.io.
+We at Restream believe to be at legal and moral obligation to facilitate any manner of an individual rights request.
+
+Modification
+
+In the manner same as accessing information, user can request Restream to modify their personal data, if it is inaccurate, incomplete or requires any sort modification or amendment.
+The GDPR requires that a company be able to accommodate modification requests, as and when required.
+
+Deletion
+
+Under the GDPR, users have the right to request that Restream delete all personal data it has collected from them.
+GDPR requires Restream to permanently remove users contact from their database, including verification results, all personal information, saved images/video, form submission data and credit card data.
+ In a GDPR compliant manner, a client can seek to have their data deleted by querying Restream at
+legal@restream.io.
+The Data protection officer at Restream will respond back within a 30-day period.
+
+DATA PROCESSING AGREEMENT
+
+
+1.
+BACKGROUND
+
+ Restream provides Restream Live Video Streaming Services for EU based enterprisesthat can provide accounts for employees and other individuals.
+This Data ProcessingAgreement ( âAgreementâ ) applies to the extent where data is regarded as personaldata by EU General Data Protection Regulation (EU) 2016/679 (GDPR).
+ThisAgreement includes standard contractual clauses to transfer personal data from the EUto third countries.
+Articles 49 (1)(c) and 49 (1)(b) derogations of the GDPR is applicableto transferring personal data from the client to the Restream.
+ The client hereby instructs the Restream to process the data as described in thisAgreement.
+
+2.
+PARTIES
+
+ Client ( âControllerâ ) and Restream ( âProcessorâ )
+
+3.
+PERSONAL DATA
+
+ 3.1.
+The personal data of individuals transferred by the Controller to the Processorduring the implementation of Restream Live Video Streaming Services.
+ 3.2.
+No biometrics or other type of special categories of data is processed to providethe Restream Live Video Streaming Services.
+ 3.3.
+Categories and Purposes of Data Processing:
+ 3.3.1.
+Controller (Enterprise) can create multiple accounts for employees and otherindividuals.
+During the sign up of the accounts, the Controller transfer to Processorusernames and email addresses.
+Any other personal data (for example, IP address,password hash encrypted, timezone created at the time, google_token,selected_language, two_factor_auth) is created automatically during the sign-upprocess and is not, therefore, part of this Agreement.
+ 3.3.2.
+If the Controller selects the Standard Plan and higher plan the videos are storedby the Processor for a certain period before the release of the video.
+The storing timefor recordings is made available at https://restream.io/pricing#pricing-table.
+Videos willbe deleted after the expiration date.
+The Processor does not process any personal dataattached to the video content for any other purposes than providing the Restream LiveVideo Streaming Services.
+
+4.
+SERVICE
+
+ 4.1.
+This Agreement covers the Restream Live Video Streaming Services provided bythe Processor.
+The functionality of the services is made available on https://restream.io/ .
+
+5.
+CONTROLLER OBLIGATIONS
+
+ 5.1.
+Controller is responsible for having valid legal grounds for the use of employees orindividuals while importing data subjectsâ personal data to Processor.
+ 5.2.
+Controller is responsible for sufficient notifications and transparency in place fordata subjects to be informed of the use of Restream Live Video Streaming Services.
+
+6.
+PROCESSOR OBLIGATIONS
+
+ 6.1.
+Processor processes Controllerâs data only for the purpose of providing, supportingand improving Processorâs services, using appropriate technical and organizationalsecurity measures.
+Processor will not use or process the Controllerâs data for any otherpurpose.
+ 6.2.
+Processor ensures that its employees and any sub-processors are required tocomply with and acknowledge and respect the confidentiality of the Controllerâs data.
+ 6.3.
+If Processor intends to engage sub-processors to help it satisfy its obligations inaccordance with this Agreement or to delegate all or part of the processing activities tosuch Sub-processors, Processor will enter into contractual arrangements with such sub-processors binding them to provide the same level of data protection, and informationsecurity to that provided for herein.
+ 6.4.
+Processor obtains the prior written consent of Controller to such subcontracting,such consent to not be unreasonably withheld if parties have agreed upon.
+The consentshall not be required for Sub-processors (service providers) mentioned in this section.The Processor will engage third-party service providers, who may be located incountries outside of the EEA, subject to contracts with those third parties.
+Any personaldata collected in the course of providing services is transferred to and stored in the datacenters hosted by AWS and GCP.
+The customer supportis provided by using Intercom.The newsletters are maintained by using Iterable.
+Please note, Processor is usingseveral infrastructure providers not mentioned in this section, however, these serviceproviders do not process any personal data on behalf of the Processor and thereforethe names are not disclosed in this section.
+For example, the Restream service enablesstreaming live to 30+ social platforms at once but Restream does not share personaldata with these platforms.
+From time-to-time Processor may change the sub-processorsmentioned in this section.
+The Processor will send a prior notice and the Controller candecide whether to continue with the service or not.
+ 6.5.
+Processor will inform Controller if Processor becomes aware of any legally bindingrequest for disclosure of Controllerâs data by a law enforcement authority unlessProcessor is otherwise forbidden by law to inform Controller.
+ 6.6.
+Any complaint or request (in particular, requests for access to, rectification orblocking of Controllerâs data) received directly from data subjects of Controller,Processor will not respond to any such request without Controllerâs prior writtenauthorization.
+ 6.7.
+Processor will provide reasonable assistance to Controller regarding theinvestigation of personal data breaches and the notification to the supervisory authorityand Controller's data subjects regarding such personal data breaches.
+ 6.8.
+Processor will provide reasonable assistance to Controller where appropriate, forthe preparation of data protection impact assessments and, where necessary, carryingout consultations with any supervisory authority.
+ 6.9.
+Processor will maintain appropriate organizational and technical securitymeasures (including with respect to personnel, facilities, hardware and software,storage and networks, access controls, monitoring and logging, vulnerability and breachdetection, incident response, encryption of Controllerâs data to protect againstunauthorized or accidental access, loss, alteration, disclosure or destruction.
+Upon therequest, Processor makes available to the controller all information necessary todemonstrate compliance with the obligations laid down in this agreement and allow forand contribute to audits conducted by the Controller or another auditor mandated by theController.
+The costs associated with the audits shall be paid by the Controller.
+ 6.10.
+Processor will notify Controller of any personal data breach by Processor, its sub-processors, or any other third parties acting on Processorâs behalf without undue delayand in any event within 48 hours of becoming aware of a breach.
+
+7.
+LIABILITY
+
+ 7.1.
+Processor shall have no liability to the extent that a claim has arisen due to any actor omission not attributable to the Processor.
+ 7.2.
+Processor shall be liable for damage caused in the course of processing if it has notcomplied with the requirements of the applicable legislation specifically addressed to theProcessor, or if it has not complied with or acted against the lawful instructions of theController by this Agreement.
+ 7.3.
+If the processing is determined by the Processor, then the Processor shall beconsidered as a data controller in respect of that processing and be liable forinfringements under the applicable laws.
+ 7.4.
+Any person who has suffered material or non-material damage as a result of aninfringement of this Agreement shall have the right to receive compensation from theController or Processor for the damage suffered.
+ 7.5.
+Controller involved in processing shall be liable for the damage caused byprocessing which infringes this Agreement.
+Processor shall be liable for the damagecaused by processing only where it has not complied with obligations of this Agreementspecifically directed to Processor or where it has acted outside or contrary to lawfulinstructions of the Controller.
+ 7.6.
+Controller or Processor shall be exempt from liability if it proves that it is not in anyway responsible for the event giving rise to the damage.
+ 7.7.
+Where both Controller and Processor are responsible for any damage caused byprocessing, they shall be held liable for the entire damage in order to ensure effectivecompensation of the data subject.
+ 7.8.
+Where a Controller or Processor has paid full compensation for the damagesuffered, it shall be entitled to claim back from the other liable party involved in thesame processing that part of the compensation corresponding to their part of theresponsibility for the damage.
+
+8.
+DATA RETURN AND DELETION
+
+ 8.1.
+The parties agree that on the termination of the data processing services or uponControllerâs reasonable request, Processor shall, and shall cause any sub-processorsto, at the choice of Controller, return all the Controller personal data and copies of suchdata to Controller or securely destroy them and demonstrate to the satisfaction ofController that it has taken such measures unless data protection requirements preventProcessor from returning or destroying all or part of the Controller personal datadisclosed.
+In such a case, Processor agrees to preserve the confidentiality of theController personal data retained by it and that it will only actively process suchController Personal Data after such date in order to comply with applicable laws.
+
+9.
+TERM
+
+ 9.1 This Agreement shall remain in effect as long as Processor carries out personaldata processing on behalf of the Controller or until the termination of the service agreement (and all personal data has been returned or deleted in accordance withsection 8 above).
+

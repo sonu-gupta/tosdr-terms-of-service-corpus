@@ -1,0 +1,69 @@
+
+         Vivaldi Browser privacy policy: the story
+Itâs Spring 2018.
+The GDPR is about to kick in.
+
+
+Global companies are bending over backwards fixing their privacy policies.
+Itâs tough.
+For the sake of their users in Europe, they have to come out clean with how they handle user data.
+And not only.
+They have to do it in a language that is simple to understand.
+Itâs a gargantuan task.
+People are working overtime with the deadline looming ever so close.
+Enter Vivaldi HQ.
+Itâs quiet.
+Everything is business-as-usual.
+A few days before the GDPR deadline, we take a quick look at how we handle user data and fit it all on one page.
+Much as we want to come up with an impressive document (and look busy), thereâs not much to say.
+We donât track or profile you.
+We donât do data collection.
+We donât sell your data to third parties.
+We donât get to see the sites you visit, what you type in the browser, or your downloads.
+This type of data is either stored locally on your machine, or encrypted.
+Still, we encourage you to read our privacy policy.
+You should read privacy policies as a rule.
+You should make it a habit.
+So go on, take a look.
+Did we mention that we fit it all on one page? Vivaldi Browser privacy policy
+At Vivaldi Technologies AS (âVivaldi ASâ), protecting your privacy is a top priority.
+We strictly protect the security of any and all personal information you provide to us while using Vivaldi products and services.
+We do not share or sell information to any third party and we proactively protect all user data from disclosure, with the only exception being if requested by legitimate law agencies with a court order.
+Type and purpose of data collected by Vivaldi AS
+When you install Vivaldi browser (âVivaldiâ), each installation profile is assigned a unique user ID that is stored on your computer.
+Vivaldi will send a message using HTTPS directly to our servers located in Iceland every 24 hours containing this ID, version, cpu architecture, screen resolution and time since last message.
+We anonymize the IP address of Vivaldi users by removing the last octet of the IP address from your Vivaldi client then we store the resolved approximate location after using a local geoip lookup.
+The purpose of this collection is to determine the total number of active users and their geographical distribution.
+Vivaldi includes various links to websites in the browser default bookmarks.
+Some of those websites are partners of Vivaldi AS and some are not.
+Vivaldi AS receives shared revenue from those bookmark partners.
+Thatâs how we are able to provide this software free of charge to our users and continue to stay awesome! We work to only include bookmarks that are valuable to our users regardless of whether we receive any revenue or not.
+Some of these content providers set cookies on their websites (as mentioned below).
+You are, of course, free to remove any or all of the bookmarks, if you prefer.
+Your browsing history such as visited URLs, typed search keywords and downloaded content are stored in your client profile and only accessible by your own action.
+Vivaldi AS has no access to this data.
+Your history cannot be shared unless it is by your own action.
+Vivaldi features a built-in password manager, which stores your login credentials for sites where youâve enabled this feature by selecting to store your credentials in Vivaldiâs password manager.
+Vivaldi uses password storage frameworks provided by the operating system on your computer device and your data is encrypted if encryption is supported by the framework.
+If you use Vivaldi Sync feature, the documentation about the data we collect and for what purposes for this service is available here.
+Type and purpose of data collected by third party vendors
+When you turn on Search suggestions in your Settings (Settings &gt.
+Search), Vivaldi will send a request to the chosen search engine with the typed keyword in order to display search results.
+Privacy policies for individual supported search engines can be found here.
+On desktop, Vivaldi integrates the Safe browsing API from Google, which checks the site you are visiting against a master list of known suspected phishing and malware sites.
+This feature can be turned off in the Privacy settings (Settings &gt.
+Privacy &gt.
+Privacy).
+We use Googleâs form autofill feature that helps you fill out forms on the web more quickly.
+Autofill is enabled by default and in the desktop browser, it can be turned off at any time in Vivaldiâs settings.
+This feature does not send your personal information to Google.
+Detailed information of what is shared can be found here.
+We are working to make this possible in Vivaldi for Android also.
+Many websites use cookies to identify repeat visitors and store information about their site visitors.
+Vivaldi stores cookies based on the userâs privacy settings (Setting &gt.
+Privacy &gt.
+Cookies) but how the cookie is used is determined by the website you are visiting and types of cookies.
+Therefore it is important that you understand the privacy policy of the websites you are visiting.
+You can view, manage and remove all stored cookies in your privacy settings.
+In case you set up Vivaldi Mail or Calendar to access your Gmail or Google Calendar, Vivaldiâs use of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use Requirements.
+Last modified and effective: December 9, 2020.

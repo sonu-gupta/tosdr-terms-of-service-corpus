@@ -1,0 +1,63 @@
+
+        
+Who we are
+This is a personal blog located at the address https://visideas.com.
+All of the views expressed on this site are solely the personal perspective of the author and are not officially supported or endorsed by any entity.
+Privacy
+This site does not require you to submit any personal information.
+There is no login capability, personalization capabilities or products directly offered by this web-site.
+Site access logs will be maintained which will log IP addresses.
+This information is solely used for site analytics and will not be shared unless required by law.
+Any comments left are stored by Disqus and subject to their privacy policy (please see below).
+Comments will be moderated to ensure that they are relevant to the authorâs content, socially appropriate and not in violation of any ethics policies or laws.
+Decisions about the appropriateness of comments is solely at the discretion of the author.
+Media
+All images and media on this site were created by the author or used with appropriate license.
+You may not download or redistribute any content from this site without the permission of the author.
+Cookies
+This site uses limited cookies for site analytics.
+There are additional cookies used by plugins and services used by this web-site.
+Please read below for additional details.
+Embedded content from other websites
+Articles on this site may include embedded content (e.g.
+videos, images, articles, etc.).
+Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+Who we share your data with
+All information on this site is public and created by the author.
+We do not share any data about site usage unless required by law.
+Security
+Our website uses specialist security software â Shield Security.
+This helps to ensure data breaches do not occur and our website and data are protected against hacking attempts and intrusion.
+Shield Security protects site visitors and works to block potential hacks while monitoring web traffic and filesystem changes.
+The learn more about Shield Security, please follow this link.
+Cookies
+
+The Shield Security plugin never stores any sensitive, personally identifiable information in any cookie at any time.
+In the case that the Shield Security plugin needs to redirect a visitor or any request, it may use a cookie to prevent repeated/infinite redirect loops.
+For registered/logged-in users, the Shield Security plugin uses a cookie to track user sessions and control display of certain in-plugin admin notices.
+The Shield Security plugin does not normally use Cookies for unregistered site visitors.
+It may however use a cookie to register the closure of the Shield Security security badge to prevent repeated display.
+
+Data Storage: User Sessions
+For logged-in users, the Shield Security plugin stores information on the username, the IP address and the time of last login and last activity.
+This information is purged upon logout or data cleanup.
+Data Storage: Audit Trail
+The Shield Security plugin has an Audit Trail feature that will log the following information:
+
+Audit Trail message that may include email addresses
+Logged-in username (where applicable)
+Originating IP address of the request
+
+For logged-in users this represents information that may be used to locate (by IP address) and identify individuals and their activity on the site.
+This information is stored for security purposes by the site administrator.
+This data will be retained and then automatically purged from the database after a fixed time period, as determined by the site administrator.
+(Currently this is set to 14 days.)
+Caching
+This site utilizes caching in order to facilitate a faster response time and better user experience.
+Caching potentially stores a duplicate copy of every web page that is on display on this site.
+All cache files are temporary, and are never accessed by any third party, except as necessary to obtain technical support from the cache plugin vendor.
+Cache files expire on a schedule set by the site administrator, but may easily be purged by the admin before their natural expiration, if necessary.
+Anti-spam features
+We collect information about visitors who comment on Sites that use our Akismet anti-spam service.
+The information we collect depends on how the User sets up Akismet for the Site, but typically includes the commenterâs IP address, user agent, referrer, and Site URL (along with other information directly provided by the commenter such as their name, username, email address, and the comment itself).

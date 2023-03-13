@@ -1,0 +1,139 @@
+
+        Cookie PolicyThis website uses cookies to ensure you get the best experience on our website.
+Learn moreGot it! Simplero's mobile app enables your customers to take your content on the go! Download the App here Features Attract Websites Landing pages Affiliate management Engage Email marketing and automations Payments and subscriptions Educate Courses and communities Customer insight Responsive Support Concierge Service Global Citizen Done-For-You Campaigns Pricing About Log in Get a Demo Features Attract Websites Landing pages Affiliate management Engage Email marketing and automations Payments and subscriptions Educate Courses and communities Customer insight Responsive Support Concierge Service Global Citizen Done-For-You Campaigns Pricing About Log in Get a Demo Privacy Policy...for top secret stuff We keep all customer information confidential.
+By you providing your personal information to us, you grant us permission to use and store such information.
+We, in turn, will use our best efforts to keep such information safe and secure.
+Not surprisingly, your information is stored through our data management system.
+Your information can only be accessed by those who help manage that information and by using Simplero you are granting us that right.
+We don't sell or share that information with anyone, other than trusted third-party data processing vendors who process those data on our behalf, and also promise to keep it confidential.
+We only collect the information we do in order to provide the service and so we can contact you about changes to that service.
+We may send marketing messages to you if you have okayed that.
+You can always opt-out of that okay.
+We may disclose personal information if required to do so by law or in the good-faith belief that it is necessary to (a) comply with legal process served on us, our partners, sponsors, investors, or affiliates.
+(b) protect and defend our rights or property or those of our customers.
+or (c) to protect the personal safety of our users or the public.
+Otherwise, we try our best to keep your information safe and secure.
+To use Simplero, you will be given a username (Simplero ID) and password.
+Keep that info confidential because you are responsible for all activities that occur under your password or account.
+Please tell us immediately of any unauthorized use of your password or account or any other breach of security.
+Help keep Simplero safe.
+You may also enable two-factor authentication for your Simplero ID, which increases security significantly.
+Note that whenever you voluntarily make your personal information available for viewing by third parties online, such as on blogs, message boards, emails, or in chat areas, the information you share also can be seen, collected and used by third parties, and therefore, we cannot be responsible for any use of the information that you voluntarily share.
+Same goes with your password.
+Donât share it with others.
+Our product is not designed to store sensitive information about people, though we cannot prevent people from entering such information themselves, nor can we prevent our customers from collecting such information.
+We assume no liability in the case that sensitive personal information are stored in our system without our written consent.
+Data being processed and your rights
+We process basic data such as name, email, phone number, and other similar non-sensitive information given to us by people themselves, or given to us by our customers, who certify that they've gotten that information legitimately.
+We also store incidental information, such as IP addresses and clicks on links in emails or, in some cases, visits to websites.
+We are processing this data in order to send you emails or text messages that you have requested, and to make offers for products that you are likely to be interested in.
+You may of course at any point request that we stop sending you more information, or that we delete the information that we have on you.
+We are storing that information in the Amazon Web Services (AWS) cloud, as well as sharing it with SendGrid for sending emails, and Twilio for sending text messages.
+We offer you choices regarding the collection, use, and sharing of your PII.
+You are not required to provide any personal data. 
+Your information may in some cases end up with Sentry, which we use for tracking errors on the platform.
+You have a right to access your personal data.
+At any point you may ask us to delete your information.
+GDPR stuff
+We keep our data records until they're explicitly deleted, either because someone asked us to be forgotten, or because a Simplero account was closed.
+We store them in a database running behind several layers of security.
+In the event that we discover a data breach, we will promptly communicate about it on status.simplero.com.
+Privacy Shield stuff
+Powerful Through Grace, Inc.
+complies with the EU-U.S.
+Privacy Shield Framework as set forth by the U.S.
+Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States.
+Powerful Through Grace, Inc.
+has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
+If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+To learn more about the Privacy Shield program, and to view our certification, please visit privacyshield.gov.
+In compliance with the Privacy Shield Principles, Powerful Through Grace, Inc.
+commits to resolve complaints about our collection or use of your personal information.
+EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Powerful Through Grace, Inc.
+at: support@simplero.com.
+Powerful Through Grace, Inc.
+has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU.
+Please note that we are not yet Privacy Shield certified.
+We're working on the certification, and will update our terms as soon as it's been accepted.
+Our organization is subject to the investigatory and enforcement powers of the Feteral Trade Commission (FTC).
+You may, under certain conditions, invoke binding arbitration.
+We are required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+We may be liable in cases of onward transfer to third parties.
+We began following the Privacy Policy rules on April 1, 2018. 
+Anonymous data collection and use
+To maintain our websiteâs high quality, we may use your IP address to help diagnose problems with our server and to administer the website.
+Your IP address is the number assigned to computers connected to the Internet.
+This is essentially "traffic data" which cannot personally identify you â it is all anonymous â but it is helpful to us for marketing purposes and for improving our services.
+Use of "cookies"
+We may use the standard "cookies" feature of major web browsers.
+Cookies are small pieces of data stored on your computer that contain information about the user.
+We do not set any personally identifiable information in cookies, nor do we employ any data-capture mechanisms on our website other than cookies.
+Cookies help us learn which areas of our website are useful and which areas need improvement.
+You may choose to disable cookies through your web browserâs settings.
+Cookie information is only used when communicating with users as per their indicated preferences and as needed for service-related communications.
+Third party content that may be displayed on our site may also contain their own cookies, but we have no access to or control over any information collected by third parties through our website.
+
+First-party cookies that we can set:
+Name
+Purpose
+Explanation _simplero_session_id
+Strictly necessary
+Stores info on what you are currently doing on the site (e.g.
+a purchase) _simplero_autologin
+Strictly necessary
+Enables cross-domain logins simplero_hide_welcome_back
+Preferences
+Controls whether a "Welcome back" message shows for logged in users.
+(number)-shown
+Preferences
+Controls whether a given pop-up modal shows.
+simplero_object_id
+Preferences
+Passes in information on the current context when coming from pages hosted by third parties.
+affiliate_id
+Statistics
+Remembers which affiliate directed you to the site.
+affiliate_for_program-(number)
+Statistics
+Remembers which affiliate directed you to the site.
+blog_post_(number)
+Statistics
+Remembers whether you've seen a blog post already.
+message_(number)
+Statistics
+Remembers whether you've seen a message already.
+landing_page_(number)
+Statistics
+Remembers whether you've seen a landing page already.
+(number)_converted
+Statistics
+Remembers if you completed an action on a modal pop-up.
+simplero-utm-params
+Statistics
+Passes in traffic source information when coming from pages hosted by third parties.
+simplero-last-referring-site
+Statistics
+Passes in traffic source information when coming from pages hosted by third parties.
+
+
+
+No guarantees
+We pride ourselves on excellent and prompt customer service.
+We try to ensure that website availability is uninterrupted and that transmissions will be error-free.
+However, we cannot guarantee that your access will not be suspended or restricted from time to time, including to allow for repairs, maintenance or the introduction of new facilities or services.
+We, of course, try to limit the frequency and duration of any suspension or restriction because we want you using Simplero as often as possible.
+We take every precaution to protect your and your customersâ information.
+When you submit sensitive information via Simplero, we do have security measures in place to prevent the loss, misuse, and alteration of the information that is obtained from you and your customers.
+However, due to the nature of the Internet, we cannot completely ensure, warrant or guarantee the security of any information transmitted to us or through our services.
+Submitting information is done at your own risk.
+&nbsp.
+Because simplerocksâ¢ Simplero Pricing About Support Concierge Blog Partners University Workshops Features Websites Landing pages Affiliate management Email and automations Payments and subscriptions Courses and communities Customer insight Done-For-You campaigns Global Legal Privacy policy Terms of service Disclaimer Copyright Â© 2022 Powerful Through Grace, Inc.
+Â· 228 Park Ave S Â· Suite 92530 Â· New York, NY 10003 Â· United States Thank you! Letâs create your accountâ¦ 50% Your first and last name* Your email* How did you discover Simplero? Are you human? What's 9+9? Please check your email! 99%  Looks like you already have a Simplero ID.
+
+ We've sent you an email with a link that will take you straight to your newly created account.
+
+ See you in a second!  Change image ð§ð½ â¨ ð
+WAIT! BEFORE YOU GO... Want to see how Simplero can simplify your online business? Get instant access to our demo to see exactly how! How many people are on your list: I'm not sure Less than 1,000 1,000-5,000 5,000-10,000 More than 10,000 We don't do spam.
+Unsubscribe any time.
+Thank you! Powered by Simplero No thanks, I gotta run! 0 people are viewing this site 0 people viewed this page in the last 
+      

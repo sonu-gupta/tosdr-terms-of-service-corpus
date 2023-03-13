@@ -1,0 +1,478 @@
+
+         General terms
+These terms applies to all our existing users as of 2018-05-17, and any new users as of 2018-04-17.
+
+
+Please note! Not everybody has a law degree or speak English natively, so we have added helpful tl;dr (âtoo long.
+didnât readâ) in plain English that summarize each term.
+These are only meant to help you understand the general meaning and are not legally binding terms of service!
+
+ 
+Scope.
+These General Terms of Service (âTermsâ) will be applied to an agreement between UpCloud Ltd, a Finnish private limited company with Business ID 2431560-5, having its registered address at EtelÃ¤ranta 12, 6.
+krs, FI-00130 Helsinki, Finland (âUpCloudâ), and a customer (âCustomerâ) to whom UpCloud provides cloud-based infrastructure and software services for the Customerâs commercial purposes (âServiceâ).
+In these Terms, UpCloud and Customer are referred to jointly as the âPartiesâ and individually as a âPartyâ.
+The Parties expressly acknowledge that the Service is neither intended nor fit for use by consumers.
+
+
+tl;dr These terms are a general agreement between us at UpCloud and you the user.
+They exist to protect both you as a user of the provided services and us as a service provider, and help you understand your rights and obligations as a customer.
+
+Agreement Documents.
+An agreement is formed between the Parties when UpCloud receives an appropriately filled-in registration or order form (âOrderâ) which the Customer has submitted through a registration and/or purchasing procedure on UpCloudâs website.
+In connection with the registration procedure the Customer will create a service account.
+Any referral herein to âAgreementâ includes the Order, service descriptions attached or referred to in the Order, the service level agreement (âSLAâ), the acceptable use policy (âAUPâ) and these Terms.
+The SLA and the AUP are available on UpCloudâs website.
+
+
+tl;dr You agree to these terms when registering for an account through our website.
+
+Provision of Service.
+UpCloud shall provide the Customer with the Service, which is specified in the Order.
+If the provided Service differs from the specifications, UpCloud shall correct the Service promptly after a notification by the Customer.
+
+
+tl;dr We promise to provide your services as you requested.
+And if not, let us know and weâll be happy to remedy it.
+
+Service Levels.
+UpCloud shall offer compensation to the Customer for all unscheduled interruptions in the provision of the Service in accordance with the SLA in force from time to time.
+
+
+tl;dr If we fail to provide you with your services, we will provide you with a compensation according to our SLA â service level agreement.
+
+Support.
+UpCloud shall provide the Customerâs administrative users with technical support with respect to the Service through the means described under the Support page on UpCloudâs website.
+Contact details and service hours are provided on UpCloudâs website.
+
+
+tl;dr We will assist you with technical issues related to our services, and provide you with the details and means to reach our support team.
+
+Access to Service Account.
+The Customer will be responsible for activities that occur under the Customerâs service account, including actions taken by the Customerâs employees and other representatives (âUserâ) as well as their compliance with user instructions and the AUP.
+The Customer must promptly notify UpCloud if the Customer suspects that an unauthorised third party is using, or may have access to, the Service or the Customerâs service account.
+
+
+tl;dr You need to make sure to follow our acceptable usage policy (AUP) and inform us if you think someone else might have accessed your account without permission.
+
+Third-Party Software.
+The Customer must comply with third-party software license terms if the use of such software is offered by UpCloud for the provision of the Service, or if such software is obtained and uploaded in the Service by the Customer, with UpCloudâs separate instructions.
+Certain third-party software cannot be uploaded by the Customer but must always be offered by UpCloud.
+
+
+tl;dr You can use third-party software on your servers as long as you have a valid license, but with the exception of certain software (such as Windows Server) that must be provided by us.
+If in doubt, contact us for more information.
+
+Paid subscription and free trials.
+The Service and the prices for the Service (âService Feeâ) are described in the service descriptions available on UpCloudâs website.
+UpCloud may from time to time offer trials of the Service for a specified period without payment.
+UpCloud reserves the right, in its sole discretion, to determine Customerâs eligibility for a free trial and, subject to applicable laws, to withdraw or to modify an offer trial at any time without prior notice and with no liability, to the greatest extent permitted under the law.
+For a free trial of the Service, UpCloud may require Customer to provide payment details to start the trial.
+At the end of such trial, UpCloud may automatically start to charge the applicable service fees for the Service immediately after the end of the free trial in accordance with Section Payment Terms and according to the price list on UpCloudâs website.
+The applicable subscription to the Service must be cancelled through Customerâs accountâs subscription page, or the Service must be terminated in its entirety, before the end of the trial period in case Customer does not accept the applicable prices provided on UpCloudâs website.
+Customer shall ensure that the authorised Users use the Service in compliance with this Agreement.
+Misuse of the Service by Customer or any User may lead to termination of the Agreement or suspension or denial of access to the Service.
+
+
+tl;dr We may offer time limited free trials but are not obligated to provide one.
+And while the trial is completely free, you might be required to verify your payment details to start your trial.
+If you wish to continue using the services after your trial, you will need to make a payment.
+
+Right to use the Service and eligibility.
+Subject to due subscription to the Service and compliance with the Agreement, UpCloud grants to Customer a non-exclusive, nontransferable and limited right to enter and use the Service and grant Users access rights to the Service.
+
+
+tl;dr You are welcome to use our services as long as you follow these terms.
+
+External Back-Up Copies.
+The Customer is responsible for making appropriate back-up copies of the Customer Data (as defined below) stored in the Service.
+Such back-up copies shall be stored outside the Service.
+
+
+tl;dr Make sure to keep backups of your data and store them at an external location, outside of UpCloudâs services.
+
+Changes to the Service.
+UpCloud is entitled to develop its services and business offerings.
+In case of a change in the Service, UpCloud will notify the Customer in advance.
+If UpCloud considers that a change will have a material effect in the Service, UpCloud will notify the Customer at least 30 days before the change will be effected and reserve the Customer a possibility to terminate the Agreement.
+
+
+tl;dr We are continuously developing our services and sometimes need to make changes that will affect you and the services you use.
+We will always notify you at least 30 days before any significant changes, such as the prices of the services you use.
+
+Prices.
+The prices of the Service are specified in the Order.
+Unless otherwise agreed, UpCloud charges the Customer in advance for each one-hour period of the Service according to UpCloudâs price list which is valid at the time and is available on UpCloudâs website.
+Applicable value added tax and other duties will be added to the prices unless the prices are specified VAT inclusive.
+
+
+tl;dr All services provided by us are charged by the hour and at the start of each hour.
+To see a complete pricing list for our services, please visit our website.
+
+Payment Terms.
+UpCloud shall charge the Service by debiting credits from the Customerâs service account on a pre-paid basis after the Customer has submitted the Order.
+Invoices are made available on the Customerâs service account.
+With the exception of credits offered by UpCloud free-of-charge for a trial period, the Customer will purchase credits that will be deposited into the Customerâs service account.
+The Customer cannot order the Service unless the Customer has sufficient credits on the service account.
+The credits are not refundable unless otherwise decided by UpCloud at its sole discretion.
+
+
+tl;dr To use our services, you will need to have a positive credits balance on your UpCloud account.
+Please note that payments are non-refundable unless otherwise stated.
+
+Customerâs obligations and rights.
+When subscribing to the Service, Customer shall provide true, accurate and complete information as prompted by the Order and update such information when required.
+Please note that this Agreement only covers the Service and the use thereof and any and all linked third party services and platforms are provided by the relevant third parties and covered by their terms of service or other agreement or license.
+UpCloud does not assume any liability in regard to use of such third-party services and platforms, whether or not they are linked to the Service.
+
+
+tl;dr When using our services, itâs your responsibility to keep your contact information up to date.
+In addition, we canât be held responsible for any third-party services you might use together with our services.
+
+Use restrictions.
+Customer is not permitted and not entitled to permit the Users or any other parties to do any of the following:
+
+copy, redistribute, reproduce, record, transfer, perform or display to the public, broadcast, or make available to the public any part of the Service, or otherwise make any use of the Service which is not expressly permitted under the Agreement or applicable law or which otherwise infringes the intellectual property rights (such as copyright) in the Service or any part of it or any other intellectual property rights of third parties;
+use the Service in any manner that could damage, disable, overburden or impair the Service available through the Service;
+use any data mining, robots, scraping, or similar data gathering or extraction methods;
+sign up for an account on behalf of someone else;
+use, sell, rent, transfer, license or otherwise provide anybody with the Service, except as provided herein;
+interfere with other Customersâ use and enjoyment of the Service;
+circumvent or try to circumvent any usage control or anti-copy functionalities of the Service;
+reverse engineer or decompile the Service or access the source code thereof, except as permitted by law;
+use the Service for transmitting any unauthorised advertising, promotional materials, junk mail, spam, chain letters, contests, pyramid schemes, or any other form of solicitation or mass messaging;
+use the Service in violation of applicable law;
+use the Service in ways that violate intellectual property rights, business secrets or privacy of third parties;
+use the Service to transmit any material that contains adware, malware, spyware, software viruses, worms or any other computer code designed to interrupt, destroy, or limit the functionality of computer software or equipment.
+
+
+
+tl;dr You must not use our services for anything illegal or that would cause problems to us or our users.
+Please contact us if you are uncertain, and we will be happy to clarify this for you.
+
+Indemnification.
+UpCloud will defend Customer against any claim that the Service infringes the intellectual property rights of a third party and pay any damages finally settled or awarded in a trial to the third party with respect to any such claim, provided that UpCloud is notified promptly in writing of the claim and given sole control of the defense and all related settlement negotiations in relation to the claim as well as reasonable assistance and necessary authorisations from Customer to defend or settle the claims on behalf of Customer.
+At any time, if UpCloud reasonably deems that any part of the Service infringes the intellectual property rights of any third party, UpCloud has the right at its own expense to (i) modify/replace the Service to eliminate the infringement in such a manner that the modified Service complies with this Agreement, or (ii) procure to Customer a right to use the Service.
+If none of the aforementioned alternatives are reasonably possible, UpCloud shall have the right to terminate this Agreement and UpCloud shall refund to Customer the prices paid for the Service by Customer less the price corresponding the time Customer has been able to use the Service in accordance with this Agreement.
+UpCloud shall, however, not be liable for any infringement or claim thereof in the event the claim (i) is made by any affiliates of Customer.
+(ii) has resulted from Customerâs or Customerâs supplierâs or Userâs use or modification of or addition to the Service.
+(iii) could have been avoided by using the latest version of the Service provided by UpCloud.
+or (iv) is not related to the Service or any part of the Service for which UpCloud is not responsible for pursuant to this Agreement or statutory requirements.
+This section contains UpCloudâs entire liability and Customerâs sole and exclusive remedy in case of intellectual property rights infringements.
+Customer shall indemnify, defend, and hold UpCloud harmless from and against all liabilities, damages and costs (including settlement costs and reasonable attorneysâ fees) arising out of any breaches of this Agreement by Customer, Customerâs personnel and/or Users.
+
+
+tl;dr We will defend you against any claim that our services infringe on someone elseâs intellectual property rights, as long as you have followed these rules.
+If you receive such a claim, please notify us as soon as possible so that we can assist you with it.
+
+Customer Data.
+Customer data shall mean all Customerâs data that a Customer or another party acting on Customerâs behalf generates in or submits to the Service (âCustomer Dataâ) or the data Customer submits to a third-party service or platform which might be accessed by the Service, subject to and on the basis of the permissions or consents Customer has granted.
+Customer agrees that UpCloud does not assume any liability or responsibility in respect to any Customer Data, with the exceptions relating to Personal Data as set forth in Section Data Processing below.
+Customer shall at all times ensure that Customer Data does not infringe any third party intellectual property rights or violate any applicable laws or legislation.
+Customer shall not upload any illegal, offensive, threatening, libellous, defamatory, or otherwise inappropriate data to the Service.
+For clarity, UpCloud is not responsible and shall not be held liable for any Customer Data, nor does it endorse any opinion contained in any Customer Data.
+Aside from the rights specifically granted herein, Customer retains ownership of all rights, including intellectual property rights, in the Customer Data.
+
+
+tl;dr Any data uploaded to or generated on your cloud servers are yours and yours only.
+We cannot be held responsible for it and we refrain from applying our opinions and values towards it, as long as itâs not illegal or breaking our terms of service.
+In additional, we promise to keep your personal data safely and privately stored.
+
+Data Processing.
+In order to provide the Service, UpCloud may process personal data on behalf of the Customer as a data processor for the purposes of providing the Service.
+UpCloud processes certain personal data also as a data controller.
+Such personal data includes, inter alia, data of the Customerâs contact persons, invoicing details and other personal data of Customerâs contact persons which UpCloud processes in order to maintain the customer relationship.
+The requirements relating to the personal data UpCloud processes as data controller are set out in our Privacy Policy available on UpCloudâs website.
+In this section, âPersonal Dataâ refers to any information relating to an identified or identifiable natural person the Customer enters into the Service and UpCloud processes on behalf of the Customer in the course and within the scope of providing the Services.
+In connection with the use of the Service, the Customer may transfer various data to UpCloud for processing on behalf of the Customer.
+Such data might include Personal Data.
+The Customer shall be considered as the sole data controller and UpCloud as the sole data processor with respect to such data.
+The following terms and conditions set forth in this section concern the data processing activities of UpCloud as a data processor with respect to the Personal Data it processes on behalf of the Customer.
+
+
+tl;dr We collect and process certain personal data (contact, billing and behavioural) in compliance with GDPR to better be able to provide you with our services.
+This does not include any personal data you store on your cloud servers, which are not accessible by us and under your sole discretion.
+
+General requirements relating to processing of Personal Data.
+The Customer shall be responsible for the lawful collection, processing and use, and for the accuracy of the Personal Data, as well as for preserving the rights of the individuals concerned.
+If and to the extent legally required, the Customer shall inform the individuals concerned regarding the processing of their Personal Data by UpCloud, and shall obtain their consent if necessary.
+The Personal Data processed by UpCloud on behalf of the Customer may include e.g.
+Personal Data of the Customerâs employees and end-customers, such as contact details of the aforementioned data subjects.
+The Customer acknowledges that due to the nature of the Service, UpCloud cannot control and has no obligation to verify Personal Data the Customer transfers to UpCloud for processing on behalf of the Customer when the Customer uses the Service.
+The Customer ensures that the Customer is entitled to transfer the Personal Data to UpCloud so that UpCloud may lawfully process the Personal Data on behalf of the Customer in accordance with this Agreement.
+UpCloud shall not use Personal Data for any purpose other than that of rendering and providing the Service and will not assert liens or other rights over, or sell or disclose the Personal Data to any third parties, without the Customerâs prior written approval.
+UpCloud shall process Personal Data in accordance with this Agreement and documented instructions from the Customer.
+The Customerâs instructions must be commercially reasonable, compliant with applicable data protection laws and consistent with this Agreement.
+UpCloud shall not be obliged to verify whether any instructions given by the Customer are consistent with applicable laws, as the Customer is responsible for such compliance verification of its instructions.
+However, if UpCloud detects that any instruction given by the Customer is non-compliant with the requirements of any data protection legislation applicable to UpCloudâs operations, UpCloud shall inform the Customer in writing.
+UpCloud and the Customer shall comply with the EU Regulation 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (âRegulationâ) and any applicable European or foreign data protection laws as amended, as well as data protection authoritiesâ orders and guidelines.
+UpCloud and the Customer shall implement and maintain appropriate technical and organizational security measures to protect the Personal Data within their area of responsibility, in order to safeguard the Personal Data against unauthorised or unlawful processing or access and against accidental loss, destruction or damage.
+Such measures include where necessary and appropriate, taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons the following measures:
+
+access right controls to systems containing Personal Data;
+the pseudonymisation and encryption of Personal Data;
+the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services;
+the ability to restore the availability and access to Personal Data in a timely manner in the event of a physical or technical incident;
+a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for ensuring the security of the processing.
+
+
+
+tl;dr If you collect or process any personal data using our services, you are required to follow the General Data Protection Regulation.
+
+UpCloudâs assistance obligations.
+To respond to requests from individuals exercising their rights as foreseen in applicable data protection law, such as the right of access and the right to rectification or erasure, the Customer shall primarily use the corresponding functions of the Services, such as the UpCloud Control Panel.
+UpCloud shall provide the Customer with commercially reasonable assistance, without undue delay, taking into account the nature of the processing.
+UpCloud shall further provide the Customer with commercially reasonable assistance in ensuring compliance with the Customerâs obligations to perform security and data protection assessments, breach notifications and prior consultations of the competent supervisory authority, as set out in the applicable data protection law, taking into account the nature of the processing and the information available to UpCloud.
+In case such assistance requires extensive measures from UpCloud, the Customer shall pay additional reasonable remuneration to UpCloud for handling such assistance requests.
+In addition, UpCloud shall, and shall procure that its personnel (including its subcontractorsâ personnel) shall:
+
+only process Personal Data in accordance with the Customerâs written instructions and not for UpCloudâs own purposes;
+ensure that individuals processing Personal Data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
+
+
+
+tl;dr You can exercise your right to view, modify, or delete your personal data through the UpCloud control panel.
+In cases where you collect and process any personal data, we can help you to ensure compliance with GDPR.
+Please note that extensive work may include additional costs.
+
+Transfers of Personal Data.
+The Customer accepts that UpCloud may have Personal Data processed and accessible by its subprocessors outside the Customerâs country of domicile to provide the Service.
+In case the processing is subject to any EU data protection law and Personal Data is transferred from the European Economic Area (âEEAâ) to a subprocessor for processing in any country outside the EEA that is not recognized by the European Commission as providing an adequate level of protection for personal data, UpCloud provides for appropriate safeguards by standard contractual clauses, adopted or approved by the European Commission and applicable to the processing by the non-EEA subprocessor or by any other appropriate safeguard as foreseen under Regulation.
+
+
+tl;dr If we need to transfer your personal data to another country outside the EU weâll ensure the data remains secure.
+
+Audits.
+The Customer shall have the right to audit the facilities and processing activities of UpCloud under this Agreement to examine the level of protection and security provided for Personal Data processed under this Agreement and to assess the compliance of UpCloud with the terms and conditions relating to Personal Data set out herein.
+Each Party shall bear its own costs for any such audit.
+Where an audit may lead to the disclosure of business or trade secrets of UpCloud or threaten intellectual property rights of UpCloud, the Customer shall employ an independent expert to carry out the audit, and the expert shall agree to be bound to confidentiality to UpCloudâs benefit.
+
+
+tl;dr You have the right to audit our personal data protection and security processes.
+If the audit would contain confidential information, you will need to employ an independent expert to do the audit.
+
+Subprocessors.
+General authorization.
+The Customer gives its general authorization to allow UpCloud to involve UpCloudâs affiliated companies and other subcontractors as subprocessors to process Personal Data in connection with the provision of the Service, to the extent such appointment does not lead to non-compliance with any applicable law or UpCloudâs obligations under this Agreement.
+UpCloud ensures that the involved subprocessors are properly qualified, will be under a data processing agreement with UpCloud, and comply with data processing obligations similar to the ones which apply to UpCloud under this Agreement.
+UpCloud shall be liable towards the Customer for the processing of Personal Data carried out by UpCloudâs subprocessors.
+
+
+tl;dr We might use third-parties that need to process your personal data to provide you with our services.
+In such case weâll make sure they secure your data according to the same requirements as we do.
+
+Change of subprocessor.
+UpCloud is free to choose and change its subprocessors.
+Upon request, UpCloud shall inform the Customer of subprocessors currently involved.
+In case there is a later change of subprocessor (addition or replacement), UpCloud shall notify the Customer of such change.
+In case the Customer objects such change of subprocessor on reasonable grounds, the Customer has the right to request change of the subprocessor.
+If UpCloud is not willing to change the subprocessor the Customer has objected, the Customer shall have the right to terminate the Service and this Agreement.
+
+
+tl;dr We can change partners when needed.
+You can ask about our current partners that might process your personal data and weâll let you know if they change in the future.
+
+Breaches.
+UpCloud shall, without undue delay after having become aware of it, inform the Customer in writing about any data breaches relating to Personal Data and any other events where the security of Personal Data processed on behalf of the Customer has been compromised.
+UpCloudâs notification about the breach to the Customer shall include at least the following:
+
+description of the nature of the breach;
+name and contact details of UpCloudâs contact point where more information can be obtained;
+description of the measures taken by UpCloud to address the breach, including, where appropriate, measures to mitigate its possible adverse effects.
+
+
+
+tl;dr Weâll inform you of any security breach where your personal data might have been compromised.
+
+Deletion and return of Personal Data.
+UpCloud shall not take any action to intentionally erase any Personal Data processed on behalf of the Customer, without the Customerâs explicit request.
+Personal Data shall be processed under this Agreement until the Customer has ceased to use the Service.
+Within a reasonable time after the termination or expiry of this Agreement, or after the Customer has permanently ceased to use the Service, UpCloud shall permanently delete Personal Data from its storage media, except to the extent that UpCloud is under a statutory obligation to continue storing such Personal Data.
+On the Customerâs request, UpCloud shall confirm the deletion in writing.
+The obligation to delete Personal Data shall not apply to Personal Data contained in regular back-up copies of comprehensive datasets from which the individual deletion of Personal Data would not be possible without significant efforts or costs.
+
+
+tl;dr We will delete your personal data if requested, to the extent we are allowed to, and confirm it to you in writing.
+
+Confidentiality.
+The Parties may exchange confidential information during the performance of this Agreement.
+Confidential information shall mean any information which is marked as confidential or which should be understood as confidential, irrespective of its form of storage or disclosure.
+All confidential information shall remain the property of the disclosing Party and the receiving Party shall keep confidential and refrain from using such confidential information otherwise than for the purposes of this Agreement, during the term of this Agreement and after the termination of this Agreement.
+For the avoidance of doubt, any information of or relating to a Party or that Partyâs personnel, suppliers, contractors, customers or end-users, which information is obtained or detected by the other Party or processed or generated in the course of providing or receiving the Service shall be deemed confidential information of that Party.
+Each Party shall promptly upon termination of the Service cease using confidential material and information received from the other Party and use reasonable means to destroy such material.
+Each Party shall, however, be entitled to retain the copies required by law or regulations.
+
+
+tl;dr We will keep any confidential information we have exchanged between each other secured, and we expect you to do the same.
+
+Intellectual Property Rights.
+All intellectual property rights to and in the Service as well as intellectual property rights pertaining thereto, are exclusive property of UpCloud or its licensors with all rights reserved.
+All intellectual property rights to the content uploaded into the Service by or on behalf of the Customer will remain the exclusive property of the Customer or its licensors.
+Customer agrees not to resell the Service or redistribute or transfer the Service.
+All intellectual property rights relating to the provision of the Services, including suggestions for improvements made by the Customer, will remain the exclusive property of UpCloud or its licensors.
+
+
+tl;dr You retain your rights to any data uploaded onto our services and we retain the rights to our intellectual property.
+
+Limited Warranty.
+UpCloud will offer service level compensations to the Customer in accordance with the SLA.
+In all other respects the Service is provided on âas-isâ and âas-availableâ basis, and UpCloud will not give the Customer any warranty or guarantee, express or implied, for the Service, including but without limitation to warranties of merchantability, fitness for any particular purpose, performance, or non-infringement.
+The parties expressly note that the Service is not designed to be error-free or uninterrupted and therefore they are neither intended nor fit for purposes that require fail-safe performance.
+
+
+tl;dr We offer compensation for interruptions to our services according to our Service Level Agreement but cannot provide any warranty or guarantee.
+
+Limited Liability.
+UpCloud will not be liable for indirect damage or consequential damages caused to the Customer.
+UpCloudâs total aggregate liability under or in connection with this Agreement shall be limited to the aggregate Service Fee paid by the Customer for the Service for the last six (6) months preceding the occurrence for which damages are claimed.
+These limitations will not apply to damage caused by willful misconduct or gross negligence.
+In order to be valid and enforceable, all claims for damages must be made within 30 days from the date the damage was or should reasonably have been noticed by the Customer.
+
+
+tl;dr If things go really badly, our maximum compensation is up to the amount you have paid us during the past 6 months, unless the issue was caused intentionally by us or through gross negligence on our part.
+
+Assignment and Third-Party Benefits.
+UpCloud may assign the Agreement in whole or in part to another group company or in connection with the trade sale which includes the provision of the Service.
+The Customer may assign the Agreement to a third party with UpCloudâs prior written consent which UpCloud will not unreasonably withhold.
+The Agreement will not create any third-party beneficiary rights in any third party.
+
+
+tl;dr This agreement can be assigned to another company by us or to another user by your request and our written approval.
+
+Temporary Suspension.
+If the Customer has breached the provisions of the Agreement or UpCloud has justifiable reasons to believe such a breach exists, UpCloud may temporarily suspend the provision of the Service.
+
+
+tl;dr If you break these rules, we may temporarily suspend access to your account and services.
+
+Termination for Convenience.
+The Customer may terminate the Agreement for any reason by issuing 5 days written notice to UpCloud.
+UpCloud may terminate the Agreement for any reason by issuing 30 days written notice to the Customer.
+
+
+tl;dr If you would like to terminate this agreement, please give us 5 days written notice.
+In case we decide to terminate this agreement, we will give you 30 days written notice.
+
+Termination for Cause.
+Either Party may terminate the Agreement with immediate effect if the other Party has materially breached the provisions of the Agreement.
+
+
+tl;dr If either of us breaks this agreement, it can be terminated immediately.
+
+Transition Service.
+UpCloud will provide the Customer with transition services in order to enable the Customer to transfer the Customer Data to another service provider.
+The Customer must order the transition services before the termination of the Agreement.
+The description of the transition services and applicable prices are provided on UpCloudâs website.
+
+
+tl;dr We can help you transfer your data to another provider for a fee.
+
+Entire Agreement and Amendments.
+The Agreement constitutes the entire agreement and supersedes all previous commitments between the parties in respect of the provision of the Service.
+All amendments to the Agreement must be made in writing.
+UpCloud may modify this Agreement by notifying the Customer in writing, such as by e-mail or by posting a revised document version on UpCloudâs website.
+If UpCloud considers that a revision will have a material effect on the Agreement, UpCloud will notify the Customer at least 30 days before the revision will be effected and reserve the Customer a possibility to terminate the Agreement.
+
+
+tl;dr These terms are agreed to in full and any changes must be made in writing.
+If any changes would significantly affect you, we will inform you at least 30 days in advance.
+
+Non-Waiver.
+A failure by either Party to enforce any provision of the Agreement will not be deemed to constitute a present or future waiver of such provision.
+All waivers must be made in writing.
+
+
+tl;dr These terms will remain effective even if not strictly enforced.
+
+Force Majeure.
+Force Majeure is an event that prevents, or makes unduly difficult, the performance of the Service or the fulfilment of the provisions of the Agreement, such as war, rebellion, natural catastrophe, general interruption in energy distribution or telecommunications, fire, strike, embargo, or another equally significant and unforeseen event independent of the parties.
+Each Party shall be entitled to suspend its duties without liability thereof in case of Force Majeure affecting the Party either directly or through its subcontractor.
+
+
+tl;dr Neither of us can be held responsible in a case of a major issue that is out of our hands.
+
+Severability.
+Should any provision of the Agreement be declared unenforceable by a court of competent jurisdiction, the remaining provisions of the Agreement will remain in full force and effect to the fullest extent permitted by law.
+The Parties shall attempt through negotiation in good faith to replace the unenforceable provision with such provisions that correspond as closely as possible to the original intention of the Parties.
+
+
+tl;dr The rest of these terms will remain in effect even if deemed unenforceable by a court, and we will instead negotiate a replacement in good faith.
+
+Governing Law and Arbitration.
+The Agreement will be governed by the substantive laws of Finland, with the exception of any conflict of law principles.
+Any and all disputes, which the Parties fail to settle amicably, arising out of or relating to the Agreement will be finally settled by arbitration in English language in accordance with the Rules of the Arbitration Institute of the Finland Chamber of Commerce.
+
+
+tl;dr Any disputes will be decided in English and by the Finland Chamber of Commerce.
+
+Service Level Agreement
+
+Scope. This service level agreement (âSLAâ) is an integral part of the Contract between UpCloud and the Customer.
+
+Service Guarantee. UpCloud will guarantee 100% virtual server and network availability to the Customer.
+The network will be deemed available if UpCloudâs routers and switches are available and responding properly.
+For all unscheduled interruptions in the provision of the Services, which are due to hardware or telecommunications failures that last longer than 5 minutes, UpCloud shall offer compensation to the Customer.
+
+Scheduled Interruptions. UpCloud will notify the Customer by e-mail or on UpCloudâs website about scheduled interruptions in the provision of the Services at least 24 hours in advance, with the exception of important security updates and patches which UpCloud may deploy without prior notice.
+
+Error Notifications. In case of an interruption in the Services, the Customer has to notify UpCloud by e-mail to outages@upcloud.com.
+The interruption is deemed to begin when the failure starts to affect the Customerâs use of the Services, and to end when the failure has been corrected.
+UpCloud will notify the Customer about the correction of the failure.
+
+Payment of Compensation. When a failure in the Services has been corrected, UpCloud will offer the Customer compensation which the Customer may reclaim within 15 days.
+The compensation will be paid to the Customerâs service account in the form of credits and may not be exchanged for cash or other forms of payment.
+
+Amount of Compensation. The amount of compensation will be 50 times UpCloudâs charges for the Services allocated for the period of the interruption of the Services.
+The maximum amount of compensation for an individual interruption is 100% of UpCloudâs charges for the Services during 30 calendar days preceding the interruption.
+The total sum of aggregated compensations cannot exceed 250% of UpCloudâs charges for the Services during 30 calendar days preceding the latest interruption.
+
+Sole Remedy. The above-mentioned payment of compensation will be the sole remedy of the Customer for interruptions or other failures in the Services.
+In case of a disagreement over the amount of the compensation payable to the Customer, UpCloudâs decision on the issue will be binding and final.
+
+Exemptions from Service Guarantee. The following situations will be exempt from UpCloudâs service guarantee:
+
+Scheduled interruptions
+Failures caused by errors in third party software utilized in the Services
+Failures in products or services which are not included in the Services
+Failures caused by the Customerâs actions contrary to user instructions or resulting from the Customerâs operating systems or application software used within the Services
+Violations of UpCloudâs acceptable use policy
+Failures due to hostile actions by third parties such as denial-of-service attacks
+Interruptions resulting from law and public authority enforced activities
+Customer does not have sufficient pre-paid balance on the Customerâs service account for the use of the Services at the time of the interruption in the Services.
+
+No compensation will be payable to the Customer during a free-of-charge trial period.
+Acceptable Use Policy
+
+Scope. This acceptable use policy (âAUPâ) is an integral part of the Contract between UpCloud and the Customer.
+
+User Instructions. The Customer must comply with separate user instructions concerning the Services.
+The Customer shall provide reasonable cooperation with regard to investigations on suspected breaches of the Contract.
+
+Customerâs Legal Compliance. The Customer must comply with applicable laws and regulations.
+For example, the Customer must have necessary rights to use the content which has been uploaded in the Service by or on behalf of the Customer.
+
+Illegal or Offensive Use of Services. The Customer is not entitled to use the Services for purposes which UpCloud deems to be illegal or offensive.
+If the Customer is uncertain whether or not its use of the Services could be deemed illegal or offensive, the Customer should contact UpCloud in advance and request permission.
+For example, UpCloud considers the following actions or content to be illegal or offensive:
+
+Use of the Services in connection with fraudulent activities
+Storage or transfer of, or linking to, content that violates trade secrets, copyrights, trademarks, patents, or other intellectual property rights, or contributes to the said violations
+Storage or transfer of, or linking to, content that is harassing or excessively violent, inciting to hate or violence, or threatening with violence
+Storage or transfer of, or linking to child pornography or content containing non-consensual sexual acts
+Promotion of illegal material or products
+Unauthorized access to, or attempting to access, systems, networks or data
+Use of a user account or computing without the ownerâs authorisation
+Collection of user information such as email addresses without the consent of the person identified (phishing)
+Monitoring of network traffic or data without authorization
+
+
+Mass Emailing. If the Customer wishes to use the Services for sending of bulk e-mail or other mass communications, the Customer must first receive UpCloudâs written consent.
+
+Disruptive Use of Services. The Customer may use, investigate, and modify the operating environment of the Services only within the limits of the user instructions.
+The Customer may not use the Services in any way that causes security risks to the Service or interferes with the operation of the Services.
+For example, UpCloud considers the following actions to be disruptive on the operation of the Services:
+
+Intentional or careless use of the Services in excess of a typically expected server load, such as continuosly high CPU or I/O use rate
+Intentional or careless configuration of servers that enables unauthorized third party access or otherwise lacks adequate security requirements
+Measures which are mainly aimed to circumvent, or interfere with, the monitoring, controlling, or charging of the Services by UpCloud
+

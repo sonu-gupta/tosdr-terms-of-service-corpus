@@ -1,0 +1,115 @@
+
+         Barinsta 
+Home 
+
+
+Frequently-Asked Questions 
+
+
+A note on Addiction 
+
+
+Official Community Chatrooms 
+
+Legal stuff
+
+Terms &amp.
+Conditions 
+Privacy Policy 
+
+
+
+
+Contribute to the project! 
+
+
+Donate to the dev! 
+
+
+ Barinsta 
+Docs Â»
+Legal stuff Â»
+Privacy Policy
+
+
+
+
+Summary: I don't collect stuff unless you send me crash dumps.
+Interaction with Instagram is minimized, but you still need to agree to their privacy policy.
+Note
+
+The summary and headings are added for ease of reading and should not be considered as parts of this privacy policy.
+This Privacy Policy only applies to v19.0 and later, as it is modified to reflect functionality changes.
+Generally, older version is subject to the same policy with some changes, but the spirit is the same.
+If you have any questions, feel free to ask me.
+ Declaration
+
+The app does not, and will not, collect data, unless operationally necessary.
+The app does not, and will not, share data, unless either operationally necessary (Interaction with Instagram) or with voluntary consent (Logs, as well as third-party services).
+The app does not, and will not, have features that allows monetization.
+(I accept donations, but without perks, and it's separate from the app.)
+
+Scope
+
+This Privacy Policy ("Policy" or "the Policy" thereafter) applies to version 19.0 and later.
+The Policy does not apply to any forks of this app (should there be), but their implementation of this Policy is strongly encouraged.
+The Policy does not apply to any services around the app (Documentation, GitHub, Crowdin, Telegram...) either.
+
+First Party
+Crash dumps
+
+Crash dumps are stored locally on your device, until you choose to send it (Through the "Report" button on crash).
+These may contain personal information (Device model, app version, what action you're trying to do...), and it is your sole responsibility to redact them as necessary.
+If you choose to send them, these information will only be used to improve the app, and you consent to further communication about your report.
+If you email your crash report to barinsta@austinhuang.me (default address), your email address will be published along with your crash report, but you may withdraw consent by contacting im@austinhuang.me.
+
+Preferences
+Preferences are stored locally.
+The cookie (if logged in) is shared with Instagram to authenticate, otherwise they are not used outside the app.
+You can explicitly choose to export it, however the file will be under your sole responsibility.
+Third Party
+Interaction with Instagram
+Interaction with Instagram is minimized:
+
+The app will request content that you explicitly want to be displayed, for example: If you want to see posts, then they are requested from Instagram.
+Your language preference (within the app) and your timezone is sent to Instagram (since they do affect content display).
+Other personal details, including and not limited to phone details, call logs, contacts, how-long-you've-read-a-post, battery level, etc, are not sent.
+The app will send data that you explicitly want to be sent.
+For example: If you like/comment on posts, Instagram is informed of your action.
+The app will not voluntarily make requests (such as mark-as-seen) for you without your explicit consent.
+However, since we do send requests, your usage of this app still constitutes your acceptance of Instagram's Data Policy.
+
+Optional third-party providers
+This section is only valid before v19.0.4, inclusive.
+For anonymous users: Should you choose to use one of the third-party providers proposed to you in Settings, you accept their Privacy Policy.
+Interaction with them is minimized as if the app is interacting with Instagram itself.
+Conclusion
+Reminder: This app is open source and these statements can be easily audited. Previous Reach over 7 million devs each month when you advertise with Read the Docs.
+Sponsored Â· Ads served ethically
+
+Documentation: Copyright Â© 2020-2021 Austin Huang.
+Licensed under CC BY-SA 4.0. Built with MkDocs using a theme provided by Read the Docs.
+GitHub Â« Previous &nbsp.
+v: latest 
+Versions
+
+latest
+
+
+
+On Read the Docs
+ Project Home 
+ Builds 
+ Downloads 
+
+
+On GitHub
+ View 
+ Edit 
+
+
+Search
+
+
+
+ Hosted by Read the Docs Â· Privacy Policy 

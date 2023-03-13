@@ -1,0 +1,337 @@
+
+
+ð Weekly Product Webinar :  Join us live to see how Salesmate can help you grow your business!
+
+
+Product
+
+ ENGAGE
+
+Smart Emails 
+Built-In Calling 
+Text Messaging 
+Power Dialer 
+Web Forms 
+Messenger 
+ Email Builder New 
+
+
+
+ SELL
+
+Sales Pipeline 
+Sales Activity Tracking 
+Contact Management
+Product Management
+Shared Team Inbox
+Meeting Scheduler
+
+
+
+ OPTIMIZE
+
+Sales Reports 
+Sales Forecasting 
+Sales Goals
+Customizations
+Mobile CRM
+
+
+
+ AUTOMATE
+
+Sales Automation 
+Sales Sequences 
+Data Entry Automation
+Marketing Automation
+
+ End-to-end automated platform to boost sales and productivity.
+POWERFUL INTEGRATIONS
+
+Google CRM Seamless integrations with Google apps 
+
+Zapier Integrate with 700+ apps 
+
+Zoom Robust integration for effortless meetings 
+
+More Integrations
+
+solutions
+
+ BY USE CASE
+
+Inbound Sales 
+Outbound Sales 
+Remote Sales 
+Account Based Sales 
+
+
+
+ BY ROLE
+
+Sales Reps 
+Sales Leaders 
+
+
+
+ BY INDUSTRY
+
+
+
+Startups 
+Insurance 
+Small Businesses
+Finance
+Real Estate
+Construction
+
+
+ More Industries
+WHY SALESMATE
+
+Customer Stories
+
+
+How We compare
+
+
+Security &amp.
+Trust 
+
+
+
+pricing
+Resources
+
+Blog Every ounce of marketing, sales &amp.
+CX knowledge you need! 
+
+How-to Videos Visual content to gain in-depth knowledge of Salesmate.
+
+
+
+
+Product Updates Latest features and additions in Salesmate CRM.
+
+
+Free Tools &amp.
+Templates Wide range of resources and tips for business growth.
+
+
+
+
+Support Portal Understand every bit of Salesmate from our experts.
+
+
+Product Integrations Connect Salesmate with your favorite apps using APIs.
+
+ Explore All Resources
+WHATâS NEW
+Salesmate Score: Spend your time on the most relevant prospects Read more
+
+login
+ Book a Demo
+Try for Free Login
+Product
+ Engage
+smart emails
+Built-in Calling
+Text Messaging
+Power Dialer
+web forms
+Messenger 
+ Email Builder New 
+
+
+ SELL
+Sales Pipeline
+Sales Activity Tracking
+Contact Management
+Product Management 
+Shared Team Inbox
+Meeting Scheduler
+
+
+ OPTIMIZE
+Sales Reports
+Sales Forecasting 
+Sales Goals
+Customizations
+Mobile CRM
+
+
+ AUTOMATE
+Sales Automation 
+Sales Sequences 
+Data Entry Automation
+Marketing Automation
+
+
+
+
+Solutions
+BY USE CASE
+Inbound Sales 
+Outbound Sales 
+Remote Sales 
+Account Based Sales 
+
+
+ BY ROLE
+Sales Reps 
+Sales Leaders 
+
+
+ BY INDUSTRY
+Startups 
+Insurance 
+Small Businesses
+Finance
+Real Estate
+Construction
+
+
+
+
+ pricing
+Resources
+ Blog 
+ Product Updates 
+ Support Portal 
+ How-to Videos 
+ Free Tools &amp.
+templates 
+ Product Integrations  Explore All resources
+
+ Book a Demo
+Try for FreeSecure &amp.
+reliableSalesmate serves thousands of its customers worldwide to help their business grow at the required scale and speed without compromising any security aspects.
+Our people, processes, and products reflect our dedication and efforts to deliver secure and reliable products that help you focus on the business with peace.
+
+Data Security
+Physical security
+Operational Security
+Organizational Security
+Vendors and Sub-processors
+Vulnerability Reporting
+Customer controls and security
+ Data Security Secure Development PracticesSalesmate developers follow the secure development practices described in OWASP.
+Every change request or a new feature has to pass through a security checklist before going to production.
+The code always has to go through vulnerability scanners, code analyzer tools, and manual code verification process. Data IsolationWith our horizontal database design, clientsâ primary data is stored separately.
+All additional data and files for customers are also logically separated in our cloud storage to avoid data leaks and accidental access.
+
+Your data is entirely yours.
+Itâs only stored on our dedicated VPCs while using the services and not shared with any third party without your consent.
+Data Retention and DisposalsWe retain your data as long as you are using Salesmate services.
+Your data gets deleted from the servers in 30 days from the day of trial expiry or subscription cancellation.
+We only maintain the invoicing and service entries for accounting and legal requirements.
+EncryptionAll customer data is encrypted and stored using Googleâs built-in encryption-at-rest features.
+More technically, we use Googleâs server-side encryption feature with Google-managed encryption keys to encrypt all data at rest using AES-256, transparently, and automatically.Physical Security At the workplaceAccess to our office, infrastructure, and facilities is controlled using access cards.
+Our HR team provides and maintains access cards given to employees, contractors, and visitors with only specific locations and entrances.
+We also monitor entry, exits, and all internal activities over the CCTV cameras deployed according to the regulations.
+Backup footage is also maintained for a particular time based on the requirement.
+At the Data CentersOur dedicated VPCs are hosted in Google Data Cloudâs secure infrastructure.
+Access to Googleâs data center floor is only possible via a security corridor which implements multi-factor access control using security badges and biometrics.
+Only approved employees with specific roles may enter.
+Additionally, Google data center physical security features a layered security model, including safeguards like custom-designed electronic access cards, alarms, vehicle access barriers, perimeter fencing, metal detectors, and biometrics, and the data center floor features laser beam intrusion detection.Operational Security Logging and MonitoringAll the logs coming from our services, internal network, devices are stored and analyzed to find usual activities.
+Customers also have changelogs for record updates and deletions inside their record details.
+Platform Load BalancingWith our load balancers and auto-scale of service-nodes provides continuous and secure access to services around the globe.
+Data BackupThe clientâs database replicates over multiple availability zones in an almost real-time manner.
+Every midnight we take a customer wise backup and store encrypted and compressed files inside Google Cloud buckets.
+If a customer requests data recovery within the retention period, we will restore their data and secure access.
+The timeline for data restoration depends on the size of the data and the complexity involved.
+Incident and Response ManagementThe security team runs an in-house Incident Response (âIRâ) program and guides Salesmate employees on reporting suspicious activity.
+The goal of the Incident response program is to detect and react to security incidents, determine their scope and risk, respond appropriately to the incident, communicate the results and risk to all stakeholders, and reduce the likelihood of incident from reoccurring.Organizational SecurityAt Salesmate, we take security and privacy very seriously.
+We are ISO 27001:2013 certified and regularly audited.
+We have defined information classification and handling guidelines, which is strictly rigorously followed by our team members. Employee background checksWe hire reputed external agencies to do background c hecks for each new hire.
+The process verifies their criminal records and previous employment records.
+Until the verification completes, the employee is not assigned any activity or information which may pose a risk to our customers and teammates.
+Security Awareness and TrainingEach employee has to go through information security, privacy, and compliance training.
+They also learn about incident response reporting and communication methods.
+They might have to go through additional security training to configure and manage client services or cloud spaces based on their role.
+We also host internal events and quizzes to ensure their knowledge is up to date as per the industry needs.
+Dedicated Security TeamWe have a dedicated security team to ensure that the companyâs infrastructure, software/applications are upgraded to avoid any security compromise.
+They also provide domain-specific training to the developers and consulting teams to follow security code practices and procedures.
+Endpoint SecurityAll our workstations are configured to encrypt data at rest.
+We donât allow any removable media sources inside our office premises.
+All our applications and access points are enabled with two-factor login, and employees are required to pick a strong password and keep changing them over a particular period.Vendors and Sub-processorsWe carefully select vendors and sub-processors who have setup world-class security processes and also follow GDPR guidelines.
+Whenever we have to add a new sub-processor to our platform, we send information to all our customers in advance to verify their security and privacy policies.Vulnerability ReportingKeeping customer data secure is our prime responsibility.
+We genuinely value the assistance of security researchers and others in the security community to assist in keeping our systems safe.
+To know more or report security vulnerabilities, please visit this page.Customer controls &amp.
+securityWe have mentioned all the security options provided by us, but customers should follow a quick list to keep their accounts safe and secure.
+
+Choose a strong and unique password with at least one Capital letter, Digit, and a special character.
+Use multi-factor authentication.
+Use the latest browser version, mobile OS, and mobile applications to ensure that their root machines are not compromised.
+Setup proper roles and access permissions to share and modify data inside Salesmate.
+Use IP Access controls to make sure that the Salesmate workspace is only accessible via verified networks.
+Be aware of phishing and malware threats.
+Never share any sensitive information with anyone impersonating as a Salesmate rep.
+Your customer data is in safe handsEncrypt your every session with Salesmate CRM.
+Try FREE for 15 days
+No credit card required
+Cancel anytime.
+Salesmate
+CRM Software
+Integrations
+Pricing
+AVAILABLE ON
+
+
+
+
+
+
+FEATURES
+Sales Pipeline
+Contact Management
+Built-in Calling
+Text Messaging
+Sales Automation
+Marketing Automation
+Google CRM
+Sequences
+Team Inbox
+Messenger
+All Features
+INDUSTRIES
+Construction CRM
+Real Estate CRM
+SaaS CRM
+Agencies CRM
+Consultants CRM
+CRM for Startups
+Small business CRM
+Remote Sales
+All Industries
+RESOURCES
+Blog
+Resources
+Product Updates
+Support Portal
+Partner program
+Comparison
+APIs
+Marketplace
+CONNECT
+Contact Salesmate
+
+Book a DemoFOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+Â© 2022 salesmate.io
+Terms of Services
+Privacy Policy
+GDPR
+Security
+ Ã 
+      

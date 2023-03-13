@@ -1,0 +1,384 @@
+
+
+
+
+Features
+Pricing
+Help Centerbookmark_border
+
+
+
+Sign In
+or
+Sign Up
+
+menu
+
+Features list_alt
+
+Pricing attach_money
+
+Help Center bookmark_border
+
+
+
+Sign In lock_open
+
+
+Menu
+more_horiz
+
+
+Privacy
+
+ Privacy Policyadd
+
+ Cookie Policyadd
+
+ Supplemental Privacy Notice for CA Residentsadd
+
+ Data Processing Agreementadd
+
+ Sub-data Processorsadd
+
+
+
+
+
+Service Agreements
+
+ Terms Of Serviceremove
+
+
+
+
+
+Security
+
+ Securityadd
+
+ Terms of Service  Welcome to AppointmentThing, an appointment scheduling service (the âServiceâ) provided by AddEvent, Inc.
+Please read these Terms of Service carefully, as they contain the legal terms and conditions that govern your use, subscription and access of the Service.
+
+ This Agreement (the âAgreementâ or âTOSâ) is between AddEvent and the Customer as applicable.
+You are the âCustomerâ under this Agreement if you by clicking or tapping on a button indicating your acceptance of this Agreement, by executing a document that references this Agreement, or by using the Services.
+If you are an organization, the individual who agrees to this Agreement on your behalf must have the authority to bind you to this Agreement.
+
+
+Services 
+
+Availability. The Services is provided âas isâ and âas availableâ.
+
+Support Services. AddEvent may need to access your account in order to deliver support and customer services.
+
+Changes to Services. AddEvent continually changes and improves the Services.
+The Customerâs use of any new features and functionality added to the Services may be subject to additional or different terms relating to such new features and functionality.
+AddEvent may alter or remove functionality from the Services at any time without prior notice.
+AddEvent will inform the Customer of any additional or different terms as set out in Section 7.1.
+
+Suspension of Services. AddEvent may limit or suspend the Services from time to time at our discretion (for example, to perform scheduled maintenance).
+If AddEvent limits or suspends the Services, we will endeavor to give the Customer reasonable advance notice so that the Customer can plan around it.
+However, there may be some situations, such as security emergencies, where it may not be practicable for AddEvent to give advance notice.
+AddEvent will use commercially reasonable efforts to narrow the scope and duration of the suspension or limitation as is needed to resolve the issue that prompted such action.
+
+Third Party Services. If the Customer uses any third party service with the Services (including services which use any application programming interface (API) provided by AddEvent), the Customer acknowledges that the service may access or use the customerâs information.
+AddEvent will not be responsible for any act or omission of the third party, including such third partyâs use of the customerâs information.
+AddEvent does not warrant or support any such third party service, and the Customer should contact that third party for any issues arising from the Customerâs use of the third party service.
+
+
+Customer obligations 
+
+Valid contact information. You must provide a valid email address for your account.
+
+Accounts. Only one free account per person or legal entity is allowed.
+
+Illegal activity. The customer is responsible to ensure that the Service is not used for any illegal or abusive purposes.
+
+Account Security. The Customer is responsible for maintaining the confidentiality of passwords and any other credentials used to access its Accounts.
+
+The Customer will use commercially reasonable efforts to prevent unauthorized use of the Services and will terminate any unauthorized use of which it becomes aware.
+The Customer, and not AddEvent, is responsible for any activity occurring in its Accounts (other than AddEventâs direct activity which is not performed in accordance with the Customerâs instructions), whether or not authorized.
+The Customer will notify AddEvent promptly if the Customer becomes aware of any unauthorized access or any other breach of security to its accounts.
+
+
+
+Privacy. The Customer consents to the transfer, processing, and storage of information on the Customer and its employees including any personal data (âCustomer Informationâ) in accordance with this Agreement, including AddEventâs âprivacy policiesâ.
+The Customer agrees with AddEventâs privacy policies (http://addevent.com/privacy).
+
+Backups. The Customer is responsible for maintaining, protecting, and making backups of all information directly and indirectly processed by the Customer using the Services (âCustomer Dataâ) the Customer Data.
+AddEvent will not be liable for any failure to store, or for loss or corruption of, the Customer Data or content in an Account.
+
+Exploit. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without the express written permission by AddEvent.
+
+
+Payment and Billing 
+
+Customer information. You must provide AddEvent with accurate customer and billing information and keep this information up to date.
+
+Billing. By subscribing to the Service the customer give AddEvent the right to charge the submitted credit card, or bill the customer via other payment methods, for fees connected with the Service such as renewal fees or fees for extra services.
+
+Billing cycle. The AddEvent Service is a subscription service.
+You pay in advance for each billing cycle on the first day of that cycle.
+
+Change billing cycle. You can at any time change between different billing cycles.
+The new billing cycle length takes effect after the expiration of the current cycle (i.e.
+at the next renewal date).
+
+Renewal. Your AddEvent account will be renewed automatically until you cancel the Service.
+
+Extra service fees. The Customer is responsible for all charges incurred related to your AddEvent account, including any applicable taxes or extra service fees.
+
+Price Changes. AddEvent may change the fees charged for the Services at any time, provided that, for any fees billed on a subscription basis, the change will become effective only at the end of the then-current billing cycle of the Customerâs subscription.
+AddEvent will provide the Customer with reasonable prior written notice of any change in fees to give the Customer an opportunity to cancel auto-renewal on the Customerâs subscription before the change becomes effective.
+
+
+Upgrading and Downgrading of Accounts 
+
+Changing account type. You can at any time upgrade or downgrade to a different account type inside the control panel.
+The change to your account type will take effect immediately and apply to all future invoices.
+
+Billing procedure for upgrade. After an upgrade you will be billed right away for the remaining time until the next renewal (the amount will be reduced with what you have already paid).
+
+Billing procedure for downgrade. After a downgrade you will be billed at the next renewal date.
+
+
+Cancellation and Termination of Service 
+
+Cancellation. You may at any time cancel your AddEvent account inside the AddEvent control panel provided that any past invoices have been paid.
+AddEvent does not accept cancellations via email or phone.
+AddEvent reserves the right to discontinue the Service at any time after a 30-day notice via email.
+
+Termination. In case of any breach of the Agreement by the Customer (including any late or non payment), AddEvent may terminate this Agreement with immediate effect without any liability to the Customer.
+
+No Refunds. You may cancel your subscription at any time.
+Please note that you must cancel your subscription before it renews in order to avoid being charged for the next billing cycle.
+
+Refunds WILL NOT be provided for any subscriptions.
+We do not provide credit, refunds, or prorated billing for subscriptions that are canceled mid-month.
+In such a circumstance, you will continue to have access to your subscription until the end of the billing cycle.
+
+
+API Usage 
+
+Availability. The AddEvent API is provided âas isâ and âas availableâ.
+
+Throttling. AddEvent reserves the right to limit the amount of allowed requests to the API (throttling).
+
+Blocking. AddEvent reserves the right to block the use of the API entirely for specific accounts or IP addresses if they are deemed by AddEvent to be using the API in an illegal, abusive or otherwise excessive manner.
+
+
+Changes to Terms of Service 
+
+Changes to TOS. Occasionally we may, in our sole discretion, make changes to these Terms of Service.
+We announce important changes to our TOS upon logging in to your AddEvent account.
+The current TOS are always available in my.AddEvent and at AddEvents webpage http://addevent.com/terms.
+By continuing to use the Service after those changes are made, you are expressing and acknowledging your acceptance of the changes.
+
+
+Use of Customerâs Name and Company Name 
+
+Use of customer name. AddEvent reserves the right to use your name and/or company name as a reference for marketing or promotional purposes on the AddEvent.com website and other communication with existing or potential AddEvent customers.
+To decline AddEvent this right you need to email support@addevent.com stating that you do not wish to be used as a reference.
+
+
+Intellectual Property 
+
+Ownership and Rights. As between the parties, the Customer retains ownership of all intellectual property rights in the Customer Data and its trademarks etc, and AddEvent retains ownership of all intellectual property rights in the Services.
+
+Brand and Trademark. Except as permitted by AddEventâs brand and trademark use policies, this Agreement does not grant the Customer any right to use AddEventâs trademarks or other brand elements.
+
+
+Information Rights and Publicity 
+
+Processing and Statistics. AddEvent reserves the right to process and aggregate data for analysis and statistics.
+
+Publication. AddEvent will not publish or use identifiable customer data in marketing or any other public purpose without explicit consent from the customer.
+
+Sharing of data. AddEvent will not share any Customer Information with any third parties unless AddEvent: 
+has Your consent for any Customer Information or any third party's consent for the third party's Customer Information;
+concludes that it is required by law or has a good faith belief that access, preservation or disclosure of Customer Information is reasonably necessary to protect the rights, property or safety of AddEvent, its users or the public.
+or
+provides Customer Information in certain limited circumstances to third parties to carry out tasks on AddEvent's behalf (e.g., billing or data storage) with strict restrictions that prevent the data from being used or shared except as directed by AddEvent.
+
+
+
+Processing of personal data. When providing the Services, AddEvent shall, and shall procure that its subcontractors shall: 
+at all times take appropriate technical and organizational measures against unauthorized or unlawful processing of personal data.
+and
+shall not transfer any personal data without appropriate consent and clearance and
+only process the personal data in accordance with the instructions given by the party responsible for the personal data.
+
+
+
+
+Security 
+
+Customer Data. AddEvent will store and process Customer Data in a manner consistent with industry security standards.
+AddEvent has implemented technical, organizational, and administrative systems, policies, and procedures to help ensure the security, integrity, and confidentiality of Customer Data and to mitigate the risk of unauthorized access to or use of Customer Data.
+
+Notification of Security Breach. In the event of a security breach that may affect you or anyone using the service, weâll notify you of the breach and provide a description of what happened.
+The Customer is responsible to take immediate action on such notification, if necessary, in order to minimize the possible impact of the security breach.
+
+
+Confidentiality 
+
+Definition. âConfidential Informationâ means information disclosed by a party to the other party in connection with the use of the Services that is marked as confidential or would reasonably be considered as confidential under the circumstances.
+Customer Data and Customer Information is the Customerâs Confidential Information.
+Despite the foregoing, Confidential Information does not include information that: 
+is or becomes public through no fault of the recipient;
+the recipient of the Confidential Information already lawfully knew;
+was rightfully given to the recipient by a third party.
+or
+was independently developed by the recipient without reference to the disclosing partyâs Confidential Information.
+
+
+
+Confidentiality. Each party will: 
+protect the other partyâs Confidential Information using commercially reasonable efforts.
+and
+not disclose the Confidential Information, except to affiliates, employees, contractors, agents, and professional advisors who need to know it and who have agreed in writing to keep it confidential.
+Each party (and any permitted recipient to whom a party has disclosed Confidential Information of the other party) may use Confidential Information only to exercise rights and fulfill its obligations under this Agreement.
+Nothing in this Agreement will prevent AddEvent from using or disclosing the Customerâs Confidential Information in any manner permitted by AddEventâs privacy policy (http://addevent.com/privacy).
+
+
+
+Compelled Disclosure. Each party may disclose the other partyâs Confidential Information when required by law or legal process, but only after it, if permitted by law: 
+uses commercially reasonable efforts to notify the other party.
+and
+gives the other party the opportunity to challenge the requirement to disclose.
+
+
+
+
+Contracting Entity 
+
+AddEvent. The Service is provided by AddEvent and the references to âAddEventâ, âweâ, âusâ, and âourâ are references to AddEvent, a US company located at 400 Concar Drive, San Mateo, CA 94402.
+
+
+Assignment 
+The Customer will not delegate, subcontract, transfer or assign this Agreement or any of its rights or obligations, without the prior written consent.
+
+
+Other Terms 
+
+Entire Agreement. This Agreement (including any documents incorporated herein by reference to a URL or otherwise), and any sales quote or other sales document prepared for the Customer by AddEvent referencing this Agreement (âSales Documentâ) constitute the entire agreement between you and AddEvent and they supersede any other prior or contemporaneous agreements, terms and conditions, written or oral concerning its subject matter.
+Any terms and conditions appearing on a purchase order or similar document issued by the Customer do not apply to the Services, do not override or form a part of this Agreement, and are void.
+
+Precedence. To the extent any conflict exists between them, any sales document provided by AddEvent prevails over this Agreement, and this Agreement prevails over any additional terms with respect to the Services not approved by AddEvent in writing.
+
+Force Majeure. Neither AddEvent nor the Customer will be liable for inadequate performance to the extent caused by a condition (for example, natural disaster, act of war or terrorism, riot, governmental action, or internet disturbance) that was beyond the partyâs reasonable control.
+
+Independent Contractors. The relationship between AddEvent and you is that of independent contractors, and not legal partners, employees, or agents of each other.
+
+
+Disclaimer 
+
+Disclaimer. AddEvent gives no warranties regarding the correctness of the data collected with the Service or any potential corruption or loss of such data.
+
+Third party. AddEvent may use third party vendors and hosting partners to provide the necessary hardware, software, networking, and related technology required to run the Service.
+AddEvent is not responsible for any failures attributable to third parties.
+
+
+Warranties 
+
+Warranties. Each party represents and warrants that: 
+it has full power and authority to enter into this Agreement.
+and
+it will comply with all laws and regulations applicable to its provision or use of the Services, as applicable.
+
+
+
+Embargoes. The Customer represents and warrants that it is not barred by any applicable laws from being supplied with the Services.
+The Services may not be used in any country that is subject to an embargo by the United States or European Union applicable to the Services.
+The Customer will ensure that: 
+it does not use the Services in violation of any export restriction or embargo by the United States.
+and
+it does not provide access to the Services to persons on the U.S.
+Department of Commerceâs Denied Persons List or Entity List, or the U.S.
+Treasury Departmentâs list of Specially Designated Nationals.
+
+
+
+
+Limitation of Liability 
+
+Liability. You expressly understand and agree that AddEvent shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if AddEvent has been advised of the possibility of such damages), resulting from e.g.
+(but not limited to): 
+the use or the inability to use the AddEvent service;
+the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the AddEvent service;
+unauthorized access to or alteration of your transmissions or data;
+statements or conduct of any third party on the AddEvent service.
+or
+any other matter relating to the AddEvent service.
+
+
+
+Responsibility of decisions. Any decisions or claims you make based on data from the AddEvent Service are your sole responsibility.
+AddEvent shall not be held liable for any such decisions or claims.
+
+Damage and losses. In no event shall AddEvent's total liability to you for all damages, losses, and causes of action (whether in contract, tort (including, but not limited to, negligence), or otherwise) exceed the amount paid by you, if any, for using the Service during the 12 months preceding the event causing the loss.
+
+
+Indemnification 
+
+Indemnification. You agree to indemnify, defend and hold harmless AddEvent and its officers, directors, employees, consultants and agents from any and all third party claims, liability, damages and/or costs (including, but not limited to, attorney fees) arising from your use of the AddEvent Service, your violation of the TOS or your infringement, or infringement by any other user of your account, any intellectual property or other right of any person or entity.
+
+
+Other 
+
+Competent authority. If any part of this Terms of Service would be determined by any competent authority to be invalid, unlawful or unenforceable, the remainder of the Terms of Service shall continue to be valid and enforceable to the fullest extent permitted by law.
+
+
+Dispute 
+
+Governed law. This contract shall be governed by the substantive law of California where AddEvent has its domicile.
+
+Dispute. The District Court of California shall solve any dispute, controversy or claim arising out of or in connection with this contract, or the breach, termination or invalidity thereof.
+Notwithstanding this, AddEvent will be entitled to enforce any infringement of AddEventâs intellectual property and any non-payment of fees due to AddEvent in the courts of any jurisdiction in which such infringement is occurring or in which the Customer is incorporated.
+
+
+
+
+
+
+
+
+ More menu
+Solutions
+
+For you
+Accountants
+Cleaners
+Consultants
+Contractors
+Doctors
+Entrepreneurs
+Freelancers
+
+ 
+
+Manufacturing
+Personal Trainers
+Photographers
+Real Estate Agents
+Salons
+Small Businesses
+Therapists
+Tutors
+
+Company
+
+About Us
+Features &amp.
+Pricing
+Terms of Service
+Privacy
+Security
+
+Resources
+
+Help Center
+Articles
+Contact
+
+ Carefully crafted by your friends at Â© 2021 AppointmentThing.com 

@@ -1,0 +1,255 @@
+
+         TERMS OF SERVICE
+ 
+
+Revision date: May 08, 2021
+ Human Interpretation MXroute LLC is a Limited Liability Corporation in the state of Texas.
+All services provided by MXroute may be used for lawful purposes only.
+Transmission, storage or presentation of any information, data or material in violation of any United States federal, state or city law is prohibited.
+This includes, but is not limited to: copyrighted material, material we judge to be threatening or obscene, or material protected by trade secret and other statute.
+The subscriber agrees to indemnify and hold harmless MXroute from any claims resulting from the use of service which damages the subscriber or any other party.
+
+
+
+
+Commentary: Weâre an LLC out of Texas and bound by US law, so donât use us to violate the law that weâre accountable to. Functional Service
+In these terms we will refer to service functionality.
+We define functional service as being able to send email that does not trigger our spam filters or rate limits, and the ability to receive mail.
+Failure to properly configure DNS will not be considered as breaking the serviceâs ability to function as sold.
+
+
+
+
+Commentary: We define our service as âworkingâ when you havenât sent spam or misconfigured your own settings. Legitimate Usage
+The domains that you add to our system should be legitimate, managed by you or your customers, and not related to any spam/scam activity in any way.
+While we cannot describe in perfect detail everything that qualifies as spam/scam activity, we reserve the right to make a decision about it based on information that we learn.
+This includes, but may not be limited to, domains that are intended to confuse recipients into thinking you are representing a domain that you do not control by use of misspellings, etc.
+
+
+
+
+Commentary: Frankly, clients adding domains that contained the strings âgmailâ and âyahooâ are what led to this policy, and that may provide some context.
+We donât want any part of any effort by you or your customers to spam, scam, or mislead anyone.
+Even if youâre not using us to send email, we want no connection to any of these things. Support Treatment / Expectations
+As a budget provider we do rely on many of our automations to handle basic functions, and requests for manual intervention can take some time (more so when not impacting the functionality of the service).
+We will not tolerate being rude or threatening to our staff.
+We will not tolerate threats of chargeback/payment dispute as an attempt to escalate low priority issues that do not stop the service from functioning.
+Being rude or threatening (including threat of chargeback / payment dispute) will result in immediate account termination.
+
+
+
+
+Commentary: Basically, âdonât be a dick.â We expect to be treated with respect when youâre dealing with us, because we donât have to do business with you.
+If you intentionally berate us in our support channels, weâll gladly cut ties. Server Abuse
+Any attempt to undermine or cause harm to a server or customer of MXroute is strictly prohibited.
+As our customer you are responsible for all your accounts.
+This includes abuse of the serverâs CPU and RAM resources to a degree that effects the performance of other customers on your server.
+Should you violate the Terms of Services outlined within, your account will be cancelled without chance of refund.
+If you abuse system resources, you will be contacted and offered options for accomodating or reducing usage prior to having your service terminated.
+Abusive processes, however, will be shut down prior to our attempts to contact you.
+
+
+
+
+Commentary: Abuse is when you find a way to drain all of our system resources and force the entire service to itâs knees by unimagineably high usage.
+For example, creating one billion email accounts and signing them all up for a thousand newsletters each.
+Thatâs not legitimate usage, thatâs a denial of service attack.  Valid DNS Records
+You are required to have valid SPF and MX records on domains that send through our service.
+Failure to do so results in reduced sending reputation for your domain and our IP addresses, which can result in us parting ways to ensure high quality sending for our other customers.
+The SPF and MX records are given to you in an email sent after you pay for service.
+
+
+
+
+Commentary: We want to get your email into the inbox and not spam folders.
+Every customer plays a role in our IP reputation.
+You ask the best of us, we ask that you not drag everyone else down by sending email that is destined to fail by your design. Refusal of Service
+We reserve the right to refuse, cancel or suspend service, at our sole discretion.
+
+
+
+
+Commentary: We canât possibly outline every future scenario that will cause us to recognize that weâve entered into a toxic relationship.
+Weâll know it when we see it, weâll do our best to accomodate you and be kind about it, but we always have the right to deny service. Forbidden Services
+We are unable to provide services to the following customers due to consistently negative experiences with bounce rates and spam reports:
+â Leak forums.
+These are forums where users share compromised accounts for internet services.â Adult forums.
+These are forums where users trade pornography.â Hundreds of emails at a time to qq.com.
+If you send almost exclusively to qq.com, and hundreds of emails at a time, we are unable to provide you with service.â Deceptive use against third party services like signing up for hundreds or thousands of accounts for a website using a catchall and randomly generated email aliases.â Forward-only service for massive numbers of domains on one account (maximum impact on our servers, minimal cost and spreading out of domains)â Sending SMS via email.â Bulk marketing email.â âWarmupâ services.
+ 
+Commentary: Honestly weâll never be able to list every possible use case that we feel negatively impacts our service or facilitates current/future uses that negatively impact the service.
+The bottom line is that our customers are our priority, and they have a lot of needs.
+We cannot allow anyone to come in and perform actions that risk our ability to provide what our customers need.
+They need clean IP reputation, consistent ability to send mail to major services, things like that.
+These are just some common use cases that we felt worth calling out and clarifying in our policy. Spoofing Senders
+Under no circumstances are MXroute customers permitted to spoof âFromâ headers to display a third party service.
+You are not authorized to directly send as (meaning the domain in the âFromâ header) any domain that you do not own or manage.
+
+
+
+
+
+
+ 
+Commentary: You donât own gmail.com and weâre not authorized by Google to send as gmail.com, so you are not to risk our IP reputation with Google and others who follow standards by faking your email headers to claim your email is from gmail.com.
+Gmail is the example, there are an unlimited number of others you could do this with. Sending Limits
+Each email account will be limited to 300 outbound emails per hour unless a prior agreement has been reached.
+You may not create additional email accounts for the sole purpose of extending that limit.
+
+
+
+
+ 
+Commentary: Weâre not a bulk email provider.
+If your transactional email needs to exceed that, and it is of high desirability for recipients, double opt in, and of high quality then you may be eligible for an exception.
+The exception would be for minor increases, weâre not prepared to sustain extremely large senders. Spam Reports
+If your recipient actively clicks a âReport Spamâ (or equivalent) button at their email provider, and we are made aware of it, we will block outbound mail to that address.
+This is interpreted as claiming that you are sending them email that they do not want, and the potential damage is to the reputation of your domain and our IP addresses.
+If this occurs unintentionally, you will need to negotiate with the user and ask us to unblock outbound email to them.
+ 
+Commentary: At best, clicking âReport Spamâ on your legitimate email is an accident that can potentially harm both of us by training spam filters.
+At worst, itâs a malicious attack against both of us.
+Either way, it shouldnât be brushed off and treated as a minor event. Damaging IP Reputation
+If your email behavior consistently harms the reputation of our IP addresses and causes delayed or failed deliveries for other customers, we reserve the right to cancel your service.
+This includes repeat failures to secure your accounts by using strong passwords, as password security is your responsibility.
+
+
+
+
+Commentary: Though rare, it is entirely possible for you to send legitimate and desirable emails that repeatedly harm the reputation of our IPs (and by extension, the rest of our customers).
+We cannot predict or outline in advance the situations that lead to this, but it isnât common.
+We wonât be unfriendly in closing the account, but we also wonât trade every other customer for one. Backups
+Accounts are backed up frequently in case of hardware failure.
+Backups are not guaranteed and are provided as a courtesy.
+
+
+
+
+Commentary: We do backups, but the primary reason for this is so that we can rebuild in the case of a failure.
+Weâre not intending to use these backups to hunt for that email you accidentally deleted last week. Billing
+By the Account Activation Date of each month, MXroute shall either:
+(1) charge the clientâs chosen billing method through the associated PayPal subscription.
+or(2) deliver, by e-mail or regular mail, an invoice in accordance with the applicable Service Fees for services rendered for the current month.
+When an invoice is delivered to the client, payment shall be remitted to MXroute by no later than the specified payment due date.
+MXroute shall be entitled to immediately terminate this agreement for clientâs failure to make timely payments.
+You will be provided with an invoice on a monthly basis.
+All PayPal subscriptions are automatically processed through PayPal and charged to the default or backup payment method that you selected upon signup.
+It is the clientâs responsibility to ensure that they have sufficient credit to cover this transaction.
+In the event that there is insufficient funding, we will send an e-mail notification, at which point the client must resolve the issue with PayPal within 24 hours.
+If we do not receive a response within 24 hours, the account, and all accounts under that account plan, may be suspended.
+
+
+
+
+Commentary: We do charge money for our service, and these are the terms you agree to for that billing. Money back guarantee &amp.
+refund policy
+We do not refund cancelled contracts.
+Exceptions will be made where MXroute is found to have failed to uphold itâs guarantees.
+If you feel that a refund is warranted we encourage you to contact us on Chat.
+In case of policy violations, any and all refunds are forfeit.
+
+
+
+
+Commentary: We donât do refunds.
+Why? Because people kept signing up and asking for refunds, and weâre trying to get those people to just not sign up instead.
+How horrible would it be if we had to increase our prices to accomodate the constant requests of people who arenât even paying us money? Thatâs bad for our customers, so weâre not doing it. Chargebacks
+We operate a support desk where we intend to resolve issues.
+Opening a payment dispute with our payment gateway or your funding source is a violation of MXroute policy and will result in service termination.
+
+
+
+
+Commentary: If you have a problem you should come to us, not our payment processor.
+Complaints to our payment processors are complaints against our company.
+Notice PayPal disputes require you to select that something is wrong like we didnât provide the service we described, or we didnât provide the service at all.
+We always provide exactly what we sell, and if for some strange reason we donât then we do actually refund, but otherwise making such a declaration against us is fraudulent and is taken with offense. Accurate Information
+Customers are required to provide accurate billing information on registration, and maintain accurate billing information in our billing portal.
+Failure to provide accurate information will lead to account suspension, up to account termination.
+
+
+
+
+Commentary: If we know that your name and address are fake, we may be liable for your activities.
+It is our responsibility to not find ourselves in this situation. Cancellation Refunds
+We DO NOT refund partial monthly fees to accounts.
+Account cancellations may take up to 72 hours to process and we encourage you to plan accordingly.
+
+
+
+
+Commentary: If you donât know what youâre signing up for, donât sign up.
+Donât use refund requests as product trials, we donât offer trials, nor will we let you force us into offering trials by requesting refunds because you didnât know what you were ordering. Limitation of Liability
+MXroute shall not be responsible for any claimed damages, including incidental and consequential damages, which may arise from MXroute servers going off-line or being unavailable for any reason whatsoever.
+Furthermore, MXroute shall not be responsible for any claimed damages, including incidental or consequential damages, resulting from the corruption or deletion of any files from one of MXrouteâs servers.
+All damages shall be limited to the immediate termination of service.
+
+
+
+
+Commentary: Weâre responsible for our service, you are responsible for yours.
+We reject any notion that we are responsible for any losses that you perceive to be our responsibility.  Violations
+Violations of these policies should be referred to abuse@mxroute.com.
+All complaints will be investigated promptly.
+Failure to follow any term or condition will be grounds for immediate account termination.
+
+
+
+
+Commentary: If you know that an MXroute customer is violating our policies, feel free to report them to us. Disclaimer
+MXroute cannot be held liable for system down time, crashes or data loss.
+We cannot be held liable for any predicated estimate of profits which a client would have gained if their service was functioning.
+Certain services provided by MXroute are resold.
+Thus, certain equipment, routing, software and programming used by MXroute are not directly owned or written by MXroute.
+Moreover, MXroute holds no responsibility for the use of our clientsâ accounts.
+Failure to comply with any terms or conditions will result in the automatic deactivation of the account in question.
+We reserve the right to remove any account, without advance notice for any reason without restitution, as MXroute sees fit.
+
+
+
+
+Commentary: We license WHMCS, DirectAdmin, cPanel, and we rent servers in data centers that weâve selected.
+While we consider it our responsibility to make the best choices and keep things online, we are not liable for failures at all levels and deny responsibility for any damages you perceive as being our responsibility. Server Uptime Guarantee
+MXroute guarantees 99% service (pop, imap, smtp) uptime on all hosting plans.
+Should we fail to deliver this for any given calendar month, your account will be refunded a pro-rated amount for the duration of excessive downtime upon request.
+
+
+
+
+Commentary: This doesnât mean we aim for 99% uptime, it means we aim for AT LEAST 99% uptime.
+Things happen, the internet is not a flawless design to begin with, and neither are computers.  Spam
+Outgoing spam from our servers will not be tolerated.
+Spam is defined as unsolicited e-mail.
+All mailing lists must be double opt-in, meaning that clients must sign up and then verify their e-mail address to be added to your mailing list.
+Violations of this policy will result in service termination.
+Spam found to be intentional will result in us sharing your name, e-mail address, phone number, address, IP address, signup domain, and PayPal e-mail address with FraudRecord.com.
+Additionally, intentional unsolicited marketing emails will be billed at a rate of $1 per email.
+
+
+
+
+Commentary: We know intentional spam from unintentional spam.
+We know a password compromise from you sending an unsolicited marketing email for your company.
+How we do that is a trick of the trade, but thereâs no room for false positive.
+If we terminate you for spamming, you did it and you know it.
+Plenty of customers accidentally send spam due to compromised systems on their side, and we only terminate for that if weâve been asking you to fix it forever and it just wonât stop happening. Account Activation
+By activating your account with MXroute, you agree to the above policies and disclaimer.
+Upon requesting activation of an account, you are required to accept these policies, guidelines and disclaimer, and a copy of your acceptance is forwarded along with your activation request to be maintained with your account information.
+
+
+
+
+Commentary: If you donât agree with our policies, donât sign up! Privacy
+With exception of FraudRecord.com in the case of billing chargebacks and intentional spam, we do not share your information with any third party.
+We do monitor email logs and login activity so that we might be proactive in response to any issues whether technical or security.
+We do not read your email unless instructed by you to do so.
+We do review logs that include sender, recipient, and subject when you make a support request.
+Commentary: If weâre going to get you into inboxes instead of the spam folder, we have to know whatâs happening in our network to stop spammers from destroying IP reputation.
+Weâre not spying on the contents of your email, but we know who our top senders are and we know the subject of their frequently repeated emails.
+The only time we send your information to a third party is when you fraudulently accuse us of misdeeds to our payment processors.
+
+MXroute reserves the right to amend any or all of the above policies, guidelines and disclaimer without notification.
+We also retain the right to increase any pricing and make changes to our account plans without notification.
+
+Commentary: Sometimes policies change, but only to address new trends, not to change the heart of our business.
+We do increase pricing from time to time, but NEVER on existing customers/services.

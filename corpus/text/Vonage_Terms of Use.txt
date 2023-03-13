@@ -1,0 +1,532 @@
+
+
+
+
+TERMS OF USE
+
+
+
+Updated: October 16, 2020
+
+
+
+Please read these Terms of Use (this âAgreementâ) fully and carefully before using the Site and Services (as described in Section 1 below).
+This Agreement sets forth the legally-binding terms and conditions for your use of the Site and Services.
+BY REGISTERING FOR AND/OR USING THE SERVICES IN ANY MANNER, YOU AGREE THAT YOU HAVE READ, UNDERSTAND AND ACCEPT THIS AGREEMENT AND ALL OTHER OPERATING RULES, POLICIES AND PROCEDURES REFERENCED HEREIN, EACH OF WHICH IS INCORPORATED HEREIN BY THIS REFERENCE AND EACH OF WHICH MAY BE UPDATED FROM TIME TO TIME AS SET FORTH BELOW, TO THE EXCLUSION OF ALL OTHER TERMS.
+You may not use the Services if you do not unconditionally accept this Agreement.
+If you are accepting on behalf of an organization, you represent and warrant that you have the authority to do so.
+however, if your organization has entered into a separate contract with Vonage covering its use of the Services, then that contract shall govern instead.
+
+
+
+EXCEPT FOR CERTAIN TYPES OF DISPUTES DEFINED IN THE ARBITRATION SECTION BELOW, YOU AGREE THAT DISPUTES BETWEEN YOU AND VONAGE SHALL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
+
+
+
+In this Agreement, âCustomerâ shall refer to you, unless you are accepting on behalf of a company in which case âCustomerâ shall mean that organization.
+and âVonageâ shall refer to Nexmo Inc., a Delaware corporation with a principal place of business at 23 Main Street, Holmdel, New Jersey 07733, USA.
+Notwithstanding the foregoing, if Customer is based in Singapore, for the purposes of providing telecommunications-related Services to Customer, "Vonageâ shall refer to Nexmo Pte.
+Ltd., a Singapore private limited company that is wholly-owned by Nexmo Inc., provided that Nexmo Inc.
+shall act as the agent of Nexmo Pte.
+Ltd.
+for the purpose of collecting payment from Customer to the extent that Customerâs Account is prepaid.
+Vonage and Customer are each referred to in this Agreement as a âPartyâ and collectively as the âParties.â In consideration of the terms and covenants set forth herein, and for other good and valuable consideration the receipt and sufficiency of which is hereby acknowledged, the Parties agree as follows.
+
+
+
+
+
+1. Vonageâs Services.
+
+
+
+
+Vonage offers a variety of communication-enabling services (âServicesâ) described at https://www.vonage.com/communications-apis (the âSiteâ), which include its APIs, SDKs, software, code snippets, documentation, technical support, the Site itself, and the features, functionality, and connectivity provided through Vonageâs proprietary platform.
+This Agreement governs the Partiesâ respective obligations regarding all Services provided to or used by Customer.
+
+
+
+a. Additional Terms and Policies. This Agreement incorporates the following additional policies:
+i. Privacy Policy, https://www.vonage.com/legal/privacy-policy (âPrivacy Policyâ)
+ii. Acceptable Use Policy, https://www.vonage.com/legal/communications-apis/acceptable-use (âAUPâ)
+iii. Supplemental Terms for Certain Vonage Services, https://www.vonage.com/legal/communications-apis/supplemental-terms (âSupplemental Termsâ)Vonage may update the foregoing additional terms and policies from time to time by posting a notice on the Site or by sending Customer notice through the Services.
+
+
+b. Changes. Changes in the industry, carrier and other partner requirements, applicable law and regulations may require Vonage to make changes to the Services from time to time.
+It is Customerâs responsibility to ensure that its usage is compatible with the then-current Services.
+Vonage endeavors to maintain backward compatibility, but where it cannot, it will make commercially reasonable efforts to provide at least 60 daysâ notice prior to implementing changes that do not maintain backward compatibility.
+Vonage may in its reasonable discretion suspend or discontinue any of the Services or component thereof at any time by posting a notice on the Site or by sending Customer notice through the Services, or by another appropriate means of electronic communication.
+
+
+
+c. Telephone Numbers. Customer acknowledges and agrees that its use of the Services or any of the telephone numbers that Vonage may provide in connection with use of the Services do not grant Customer any ownership or other rights in the telephone number other than the limited, revocable use rights expressly set forth in this Agreement.
+Customer does not have the right to use those telephone numbers indefinitely.
+Customer acknowledges and agrees that telephone numbers which Vonage provisions may be reclaimed by Vonage or the applicable supplier from time to time during the Term, and may be re-assigned to other customers after the Term.
+Vonage reserves the right to reclaim any phone number from Customerâs Account if Customer does not send sufficient traffic over that phone number such that the phone number is unutilized or underutilized, as defined by any local, federal, and/or national regulatory agency and/or governmental organization with oversight over the relevant phone number and numbering plan.
+If Vonage seeks to reclaim a phone number from Customerâs Account, excluding suspended, terminated, and trial accounts, Vonage will provide at least two weeksâ advance notice via email where possible within commercial reason, except where Vonage is prevented from doing so by the applicable regulatory agency or governmental organization.
+Vonage also reserves the right to reclaim phone numbers from accounts suspended for failure to pay and/or suspended for suspected fraud.
+Customer may not transfer or assign the telephone numbers Vonage provides to Customer unless otherwise mutually agreed by the Parties in writing.
+
+
+
+
+2. Customer Account.
+
+
+
+
+To access and use certain Services, Customer must create an account (âAccountâ) on the Site.
+Customer shall provide accurate, complete, and current Account information and, as applicable, timely update the same.
+Customer is solely responsible for the activity that occurs on its Account (which includes its sub-accounts), including via the Customer Application (as defined below), and for keeping its Account password secure.
+Vonage will not be liable for losses caused by any unauthorized use of the Account.
+Customer represents and warrants that it is duly authorized to do business and use the Services in all jurisdictions in which Customer operates.
+Customer must notify Vonage promptly of any change in Customerâs eligibility to use the Services (including any changes to or revocation of any licenses from state authorities), breach of security or any known unauthorized use of Customerâs Account.
+Upon termination of this Agreement, Customer may delete its Account by emailing support@nexmo.com.
+Notwithstanding deletion of Customerâs Account, Vonage may retain Customer data as reasonably necessary for compliance with applicable law.
+
+
+
+
+3. Fees and Payment
+
+
+
+
+a. Paid Services. Customer agrees to pay for its use of the Services as set forth on the pricing page on the Site, as may be updated from time to time, except and only to the extent Customer has entered a separate written agreement or addendum with Vonage for special pricing on certain Services and/or country-specific pricing, or Vonage has otherwise conveyed special pricing in writing to Customer.
+Vonage reserves the right to change pricing from time to time.
+Customerâs continued use of the Services after a price change becomes effective constitutes Customerâs agreement to pay the changed amount.
+
+
+
+b. Prepayment. Except as set forth in the next sub-section, Customer shall pay in advance for the Services in the currency specified by Vonage, without the right of set-off, deductions, or counterclaim.
+Some of the Services may accept recurring period charges as agreed to by Customer on the Site.
+By choosing such auto-reload payment plan, Customer acknowledges that such Services have a recurring payment feature and Customer accepts responsibility for all recurring charges prior to cancellation.
+VONAGE MAY SUBMIT PERIODIC CHARGES (E.G., MONTHLY) WITHOUT FURTHER AUTHORIZATION FROM CUSTOMER, UNTIL CUSTOMER PROVIDES PRIOR NOTICE (RECEIPT OF WHICH IS CONFIRMED BY VONAGE) THAT CUSTOMER HAS TERMINATED THIS AUTHORIZATION OR WISHES TO CHANGE ITS PAYMENT METHOD.
+SUCH NOTICE WILL NOT AFFECT CHARGES SUBMITTED BEFORE VONAGE REASONABLY COULD ACT. CUSTOMER MUST PROVIDE CURRENT, COMPLETE AND ACCURATE INFORMATION FOR ITS BILLING ACCOUNT.
+IF CUSTOMER HAS REQUESTED AUTO-RELOAD PAYMENTS, CUSTOMER MUST PROMPTLY UPDATE ALL INFORMATION TO KEEP ITS BILLING ACCOUNT CURRENT, COMPLETE AND ACCURATE (SUCH AS A CHANGE IN BILLING ADDRESS, CREDIT CARD NUMBER, OR CREDIT CARD EXPIRATION DATE), AND CUSTOMER MUST PROMPTLY NOTIFY VONAGE OR ITS PAYMENT PROCESSOR IF CUSTOMERâS PAYMENT METHOD IS CANCELED (E.G., FOR LOSS OR THEFT) OR IF CUSTOMER BECOMES AWARE OF A POTENTIAL BREACH OF SECURITY, SUCH AS THE UNAUTHORIZED DISCLOSURE OR USE OF CUSTOMERâS USER NAME OR PASSWORD.
+CHANGES TO SUCH INFORMATION CAN BE MADE IN THE ACCOUNT DASHBOARD.
+IF CUSTOMER FAILS TO PROVIDE ANY OF THE FOREGOING INFORMATION, CUSTOMER AGREES THAT VONAGE MAY CONTINUE CHARGING CUSTOMER FOR ANY USE OF PAID SERVICES UNDER THE BILLING ACCOUNT UNLESS CUSTOMER HAS CANCELLED AUTO-RELOAD OR TERMINATED ITS PAID SERVICES AS SET FORTH ABOVE.
+Customer may change its payment method or terminate any auto-reload authorization via the Account dashboard.
+
+
+
+c. Post-payment. Where authorized by Vonage in writing, Vonage will invoice Customer for the Services monthly in arrears, and payment shall be due 30 days following the date of invoice, without deduction.
+Invoices may be sent to the e-mail address specified in Customerâs Account, and shall be deemed received on the date sent.
+Customer shall pay interest on past due amounts at a rate of 1.5% per month or the maximum rate permitted by law, whichever is less, and shall be responsible for all costs of collection.
+If Customer disputes any invoiced charges exceeding EUR 1,000 in a detailed writing provided to Vonage, and such disputes are reasonable and made in good faith (as reasonably determined by Vonage), then (i) the Parties shall discuss and attempt to resolve the dispute in good faith in a timely manner, and (ii) Customer may withhold the disputed portion of the invoice exceeding EUR 1,000 if Customer has paid the undisputed portion of the invoice in accordance with the Agreement, until the dispute is resolved.
+Customerâs credit shall be limited to the amount indicated by Vonage from time-to-time in connection with Customerâs Account.
+
+
+
+d. Taxes. Unless otherwise provided on the pricing page on the Site, all charges and fees for the Services are exclusive of any country, province, federal, state or local taxes, including without limitation, use, sales, value-added, privilege, or other taxes, levies, imports, duties, fees, surcharges, governmental assessments and withholdings (âTaxesâ).
+Customer will be solely liable for and will pay upon demand all Taxes associated with Customerâs access to and use of the Services and shall not deduct any such amounts, or any other withholdings, set-offs or deductions, from amounts Customer owes Vonage, but will not be responsible for taxes based on Vonageâs net income.
+Customer may present Vonage with an exemption certificate eliminating Customerâs and Vonageâs liability to pay certain Taxes.
+Once Vonage has received and approved the exemption certificate, Customer shall be exempt from those Taxes on a going-forward basis.
+If, a taxing jurisdiction determines that Customer is not exempt from Taxes and assesses those taxes, Customer shall pay those Taxes to Vonage, plus any applicable interest or penalties.
+SUCH NOTICE WILL NOT AFFECT CHARGES SUBMITTED BEFORE VONAGE REASONABLY COULD ACT.
+
+
+
+e. Billing Disputes.
+
+Billing disputes must be initiated within 30 days of the date the Service was provided, by contacting Vonage at billing@nexmo.com.
+Upon expiration of such 30-day period, Customer will not be entitled to dispute any fees paid or payable to Vonage.
+The Parties will work together in good faith to resolve billing disputes.
+A pending billing dispute shall not exempt Customer from timely paying any undisputed amounts owed.
+Any disputes that cannot be resolved in accordance with the foregoing shall be handled in accordance with Section 13 below.
+Other than in accordance with the foregoing, fees paid are non-refundable.
+
+
+
+
+4. License
+
+
+
+
+Subject to Customerâs compliance with this Agreement, Vonage hereby grants Customer a limited, revocable, personal, non-exclusive, non-transferable, non-sublicenseable license until this Agreement or Customerâs Account is terminated (the âTermâ) to (i) use the documentation and APIs Vonage makes available to Customer to create an original application that interfaces with the Services (âCustomer Applicationâ), and (ii) make the Services available to Customerâs end users (âEnd Usersâ) through the Customer Application.
+The foregoing license shall extend to Customer Affiliates, provided that such Customer Affiliates are acting via Customerâs Account and provided further that Customer remains jointly and severally liable for all acts and omissions of its Affiliates.
+An âAffiliate,â with respect to a Party, means any entity that controls, is controlled by, or is under common control with that Party.
+
+
+
+
+5. Restrictions.
+
+
+
+
+Customer shall not, and shall ensure that its End Users and Affiliates do not, and shall not authorize, assist or enable any other third party to:
+
+
+
+a. Transfer, resell, lease, license, or otherwise make available the Services to third parties, except for Customerâs use of the Services to provide its Customer Application to third parties as set forth in Section 4;
+b. Use the Services in any manner that violates the AUP;
+c. Decipher, decompile, disassemble, reverse engineer or otherwise attempt to derive any source code or underlying ideas or algorithms of any part of the Services, except to the limited extent applicable laws specifically prohibit such reverse-engineering restrictions;
+d. Alter, modify, translate, or otherwise create derivative works of any part of the Services, except as may be authorized by specific licensing terms accompanying certain software or software development kits.
+or
+e. Use the Services in connection with any call types that would result in Vonage incurring originating access charges, local exchange carrier âDIPâ fees or other call types that may be subject to any reverse billing process, application or charge.
+
+
+
+
+6. Intellectual Property.
+
+
+
+
+a. Customerâs Application and Application Content. As between Customer and Vonage, Customer owns and reserves all right, title and interest in Customer Applications, and any content originally transmitted by Customer or its End Users via the Customer Applications (âApplication Contentâ).
+Customer authorizes Vonage to use the Application Content to provide the Services and perform in accordance with this Agreement.
+
+
+
+b. Suggestions. Customerâs suggested improvements to and feedback regarding the Services are not Confidential Information (as defined below), and Customer grants to Vonage an unrestricted, irrevocable, fully paid-up, and non-exclusive right to use such suggestions and feedback for any purpose.
+
+
+
+c. Vonage Services and Vonage Content. Vonage owns and reserves all right, title and interest in and to the Services and all improvements, modifications and derivative works thereof.
+Other than the Customer Application and Application Content, all content made available through the Site or the Services (collectively, âVonage Contentâ) are as between Customer and Vonage owned by Vonage.
+
+
+
+d. Publicity. Except as explicitly granted herein, neither Party is granted a license or other right (express, implied or otherwise) to use any trademarks, copyrights, service marks, logos, trade names, patents, trade secrets or other form of intellectual property of the other Party or its Affiliates without the express prior written authorization of the other Party.
+Customer will not issue any press release or other public statement relating to this Agreement, except as may be required by law or agreed by Vonage in a writing signed by an authorized representative of Vonageâs Corporate Communications department.
+Vonage may identify Customer using its name, trademarks and/or logos in its marketing collateral, presentations and websites.
+
+
+
+e. Notices and Restrictions. The Services may contain Vonage Content specifically provided by Vonage, Vonage's partners, Vonageâs customers, or other third parties that is subject to and protected by copyrights, trademarks, service marks, patents, trade secrets or other proprietary rights and laws under United States and other laws and international conventions.
+Customer shall abide by and maintain all copyright notices, information, and restrictions contained in any Vonage Content accessed through the Services.
+
+
+
+
+7. Confidentiality.
+
+
+
+
+a. Confidential Information. âConfidential Informationâ means any non-public information or data, regardless of whether it is in tangible form, disclosed by either Party that is marked or otherwise designated as confidential or proprietary or that should otherwise be reasonably understood to be confidential given the nature of the information and the circumstances surrounding disclosure.
+âConfidential Informationâ does not include any information which: (i) is publicly available through no fault of receiving Party, (ii) was properly known to receiving Party, without restriction, prior to disclosure by the disclosing Party, (iii) was properly disclosed to receiving Party, without restriction, by another person without violation of disclosing Partyâs rights, or (iv) is independently developed by the receiving Party without use of or reference to the disclosing Partyâs Confidential Information.
+Each Party agrees that it will use the Confidential Information of the other Party solely in accordance with the provisions of this Agreement (and for Vonage to provide the Services) and it will not disclose such information to any third party without the other Partyâs prior written consent, except as otherwise permitted hereunder or for Vonage to provide the Services or make other disclosures identified in the Privacy Policy.
+Each Party agrees to exercise due care in protecting the other Partyâs Confidential Information from unauthorized use and disclosure.
+Each Party may also disclose the Confidential Information of the other Party, in whole or in part to its employees, representatives, actual or potential investors and subcontractors who have a need to know and are bound to keep such information confidential consistent with the terms of this Section.
+In addition, Vonage may disclose this Agreement under a comparable non-disclosure agreement in response to a third-party due diligence request supporting a financing or non-ordinary course of business corporate transaction.
+Either Party may disclose the Confidential Information of the other as required by law, legal process or court order.
+provided that, subject to applicable law, it promptly notifies the other Party of such required disclosure in order to allow the other Party to seek a protective order or other appropriate remedy.
+
+
+
+
+8. Indemnification.
+
+
+
+
+a. Customer Indemnification. Customer agrees to defend, indemnify and hold harmless Vonage, its Affiliates, suppliers, and partners, and each of their respective employees, contractors, directors, officers and representatives, from and against any damages, liabilities, claims, demands, obligations, losses, fines, penalties, and expenses (including reasonable attorneyâs fees) (collectively, âLossesâ) incurred in connection with claims made or brought by a third party arising from or relating to: (i) unauthorized or prohibited use of the Services, including violations of the AUP or applicable law, by Customer, its Affiliates or its or their End Users, employees, agents or subcontractors.
+(ii) Application Content, (iii) claims by End Users to the extent they purport to extend Vonageâs liability or obligations beyond the limitations and disclaimers set forth in this Agreement, or (iv) gross negligence or willful misconduct of Customer, its Affiliates or its or their employees, agents or subcontractors.
+
+
+
+b. Procedure. Vonage shall notify Customer promptly after Vonage learns of the existence of an indemnifiable claim hereunder.
+provided, however, that failure to give such notice shall only affect the rights of Vonage to the extent that Customer is prejudiced. Vonage shall not admit any liability whatsoever.
+Customer shall be entitled to take sole control of the defense and investigation of the indemnifiable claim at its own expense, by providing prompt written notice to Vonage, subject to Vonageâs approval of Customerâs counsel, such approval not to be unreasonably withheld or delayed.
+Vonage shall cooperate in all reasonable respects with Customer and its attorneys in the defense of the claim (including by making available books, records, and personnel), and may reasonably participate at its own expense, through its attorneys or otherwise, provided that such participation does not interfere with Customerâs defense.
+All settlements of indemnifiable claims under this Section shall: (i) be entered into only with Vonageâs consent if such settlement requires any admission of guilt or imposes any restriction on Vonage.
+and (ii) include an appropriate confidentiality agreement prohibiting disclosure of the terms of such settlement.
+
+
+
+
+9. Warranties and Disclaimers.
+
+
+
+
+a. Representations. Vonage represents and warrants to Customer that it (i) has the corporate power and authority to enter into this Agreement and perform its obligations hereunder, and (ii) is authorized to do business and provide the Services.
+
+
+
+b. Assumption of Risk. Vonage has no special relationship with or fiduciary duty to Customer.
+Customer acknowledges and agrees that Vonage has no control over and has no duty to take any action regarding and shall have no liability for acts, faults or omissions of any third party telecommunications systems, networks or operators (including, without limitation, suspension or termination of Vonageâs connections, or faults in or failures of their apparatus or network), in the jurisdictions in which it operates.
+
+
+
+c. DISCLAIMER. EXCEPT AS OTHERWISE EXPRESSLY SET FORTH ABOVE IN THIS AGREEMENT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SERVICES AND VONAGE CONTENT ARE PROVIDED âAS ISâ, âAS AVAILABLEâ AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, QUALITY (E.G., AS TO LATENCY AND THROUGHPUT), AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED.
+VONAGE, AND VONAGEâS SUPPLIERS, PARTNERS AND LICENSORS, AND EACH OF VONAGEâS AND THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS, DO NOT WARRANT (AND HEREBY EXPRESSLY DISCLAIM ALL WARRANTIES) THAT: (I) THE SERVICES (OR ANY MOBILE OPERATORS) WILL BE SECURE OR AVAILABLE AT ANY PARTICULAR TIME OR LOCATION, (II) ANY DEFECTS OR ERRORS WILL BE CORRECTED, (III) ANY CONTENT OR SOFTWARE AVAILABLE ON OR THROUGH THE SERVICES IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, (IV) THE CONTENT ON THE SITES OR SERVICES (OR ANY THIRD PARTY SITES OR SERVICES LINKED THERETO) IS ACCURATE, ERROR-FREE, APPROPRIATE, COMPLIANT, OR COMPLETE, OR (V) THE RESULTS OF USING THE SERVICES WILL MEET CUSTOMERâS REQUIREMENTS.
+CUSTOMERâS USE OF THE SERVICES IS SOLELY AT CUSTOMERâS OWN RISK.
+VONAGE DOES NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY CONTENT OF, COMMUNICATION BY, OR PRODUCT OR SERVICE ADVERTISED OR OFFERED BY, A THIRD PARTY THROUGH THE SERVICES, AND VONAGE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN CUSTOMER AND THIRD PARTIES.
+
+
+
+d. Reservation of Rights. Vonage reserves the right, but is not obligated, to monitor and audit Customerâs use of the Services for any reason or no reason, without notice, to ensure Customerâs compliance with this Agreement.
+Vonage reserves the right, but is not obligated, to reject, refuse to transmit or post, block, or remove any posting (including Application Content), or to restrict, suspend or terminate Customerâs access to all or any part of the Services at any time if Customer has violated the AUP or this Agreement or to prevent harm to Vonageâs business or reputation.
+Vonage also reserves the right to access, read, preserve, and disclose any information that Vonage reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental or agency request, (ii) enforce this Agreement, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety of Vonage, its customers, its customersâ end users, and/or the public.
+Customer agrees to provide Vonage with any information Vonage reasonably requests to investigate and resolve problems relating to Customerâs Account.
+
+
+
+e. No Emergency Services. Vonageâs Services are not intended for and may not be used (i) in connection with 911, E911, or other emergency, public safety or similar services (âEmergency Servicesâ), or (ii) as a replacement for any primary phone services (e.g., landline or mobile phones) used to contact Emergency Services.
+Customer acknowledges that Vonage and Vonageâs suppliers have no responsibility to connect any 911 calls to any Public Safety Answering Point.
+
+
+
+
+f. Beta Services. Certain Services may be designated or offered as a âbetaâ version (âBeta Versionâ) of a Service, which may or may not be released as a full commercial service in the future.
+Customer is not required to use any Beta Version and does so at its sole risk.
+Except as otherwise indicated under separate terms and conditions that may apply to such Beta Version, Vonage shall not charge for such Beta Version, but reserves the right to charge for subsequent versions of the Beta Version, including any potential commercial releases.
+Customer acknowledges and agrees that the Beta Version may contain, in Vonageâs sole discretion, more or fewer features or different licensing terms than a subsequent commercial release version of the Beta Version.
+Vonage reserves the right not to release later commercial release versions of the Beta Version.
+Without limiting any disclaimer of warranty or other limitation stated in this Agreement (or any separate terms and conditions that would otherwise be applicable to such Beta Versions), Customer agrees that Beta Versions are not considered by Vonage to be suitable for commercial use, and that may contain errors affecting their proper operation.
+CUSTOMER ACKNOWLEDGES AND AGREES THAT USE OF ANY BETA VERSION MAY EXHIBIT SPORADIC DISRUPTIONS THAT HAVE THE POTENTIAL TO DISRUPT CUSTOMERâS USE OF ANY SERVICES.
+NOTWITHSTANDING ANY OTHER PROVISION OF THIS AGREEMENT, VONAGE SPECIFICALLY DISCLAIMS ALL DAMAGES RESULTING FROM CUSTOMERâS USE OF ANY BETA VERSION.
+The fact and existence of any Beta Version shall be deemed to be Vonage Confidential Information under this Agreement.
+The Support Policy shall not apply to Beta Versions.
+
+
+
+g. Deletion of Customer Data. Except as agreed by Vonage and Customer in writing, Vonage may periodically delete Customerâs data including any Application Content.
+Further, data storage is not guaranteed by Vonage and Vonage shall not have any liability whatsoever for any damage, liabilities, losses, or any other consequences that Customer may incur relating to the loss or deletion of Customerâs data.
+
+
+
+
+10. Suspensions and Terminations.
+
+
+
+
+a. Termination for Convenience. Customer may terminate its use of the Services any time for any reason, and may close its Account by following the instructions on the Site or by contacting Vonage at support@nexmo.com.
+Vonage may terminate this Agreement by providing 60 daysâ advance notice to Customer.
+
+
+
+b. Suspension of Services.
+Termination for Cause. Vonage may suspend Customerâs right to use the Services or terminate this Agreement in its entirety (and, accordingly, Customerâs right to use the Service), for cause: (A) if Customer is in breach of this Agreement and has failed to cure such breach within 30 days after written notice thereof, or (B) immediately (i) if Customer has violated or Vonage has reason to believe Customer has violated or has encouraged others to violate any provision of the AUP, (ii) upon Customerâs liquidation, commencement of dissolution proceedings, disposal of Customerâs assets, failure to continue Customerâs business in the ordinary course, assignment for the benefit of creditors, or if Customer becomes the subject of a voluntary or involuntary bankruptcy or similar proceeding, or (iii) if Customer is in default of any payment obligation with respect to any of the Services or if any payment mechanism Customer has provided to Vonage is invalid or charges are refused for such payment mechanism.
+
+
+
+c. Effect of Suspension. Upon Vonageâs suspension of Customerâs use of or access to any Services, in whole or in part, for any reason: (i) fees will continue to accrue for any Services that are still in use by Customer, notwithstanding the suspension, (ii) Customer remains liable for all fees, charges and any other obligations Customer has (or Customerâs Account has) incurred through the date of suspension with respect to the Services, and (iii) all of Customerâs rights with respect to the Services will be terminated during the period of the suspension.
+
+
+
+d. Effect of Termination and Survival. Upon termination of this Agreement, for any reason: (i) Customer remains liable for all fees, charges and any other obligations accrued and owed by Customer through the effective date of such termination, (ii) except as expressly set forth herein, all of Customerâs rights and licenses under this Agreement will immediately terminate and Customer shall cease using the Services, and (iii) any balance on Customerâs Account remaining after termination of this Agreement will be repaid to Customer within twenty (20) business days following termination.
+All amounts accrued or owed to Vonage in connection with this Agreement and Sections 3, 5, 6, 7, 8.
+9(b)-(e).
+10.
+11.
+12.
+13 and 14 shall survive any termination of this Agreement.
+Following any suspension or termination of this Agreement or Customerâs Account other than for breach, Customer may request any post-termination assistance that Vonage may elect to make generally available with respect to the Services such as data retrieval arrangements, subject to and conditioned upon Customerâs advance payment of fees and acceptance of all terms and conditions that Vonage specifies in writing with respect thereto.
+
+
+
+
+11. Limitation of Liability.
+
+
+
+
+NOTWITHSTANDING ANYTHING TO THE CONTRARY HEREIN, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL VONAGE OR VONAGEâS PARTNERS, SUPPLIERS, LICENSORS, OR CONTENT PROVIDERS, OR ANY OF ITS OR THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, OR AGENTS, BE LIABLE UNDER ANY CONTRACT, TORT, WARRANTY, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL OR EQUITABLE THEORY WITH RESPECT TO THE SERVICES OR OTHER SUBJECT MATTER OF THIS AGREEMENT FOR: (I) ANY SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, COMPENSATORY OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER, LOST PROFITS, GOODWILL, REVENUE, INCOME OR BUSINESS, DATA LOSS, INTERRUPTION OF BUSINESS, COST OF PROCUREMENT OF SUBSTITUTE GOODS, TECHNOLOGY, RIGHTS OR SERVICES (HOWEVER ARISING AND EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES).
+(II) ANY LIABILITY THAT EXCEEDS THE GREATER OF 50,000 EUR OR THE AMOUNT OF FEES ACTUALLY PAID TO VONAGE IN THE 6MONTHS PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+OR (III) USE OF OR INABILITY TO USE THE SERVICES IN CONNECTION WITH EMERGENCY SERVICES.
+
+
+
+
+12. Governing Law and Venue.
+
+
+
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without reference to its principles of conflicts of law rules.
+The United Nations Convention on Contracts for the International Sale of Goods shall not be applicable hereto.
+Without limiting the preceding language, Customer agrees to submit, for purposes of this Agreement, to the jurisdiction and venue of the state and federal courts located in the State of Delaware.
+CUSTOMER AGREES THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SITE OR SERVICES OR VONAGE MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES.
+OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
+
+
+
+
+13. Arbitration and Dispute Resolution.
+
+
+
+
+a. Management Resolution. In the event either Party has a dispute or claim against the other Party (except with respect to billing disputes), the disputing Party shall provide written notice to the other Party.
+The Parties agree to escalate disputes to their respective management, who will use commercially reasonable efforts to resolve the dispute by consulting with each other in good faith to reach an equitable resolution satisfactory to both Parties within 30 calendar days of the receipt of notice.
+Neither Party shall pursue or commence proceedings regarding the dispute in any court, administrative arbitral or other adjudicative body prior to engaging in such consultations and negotiations.
+
+
+
+b. Binding Arbitration. If negotiations fail to resolve the dispute within 30 calendar days, and/or small claims court is not a valid option due to the size or nature of the claim, all disputed claims (except for claims relating to intellectual property rights, indemnity, or confidentiality obligations, fraudulent or unauthorized use, theft, or piracy of service, or matters relating to injunctions or other equitable relief) must be resolved by binding arbitration before a single arbitrator, in the English language.
+This agreement to arbitrate is intended to be given the broadest possible meaning under applicable law.
+The initiation of an arbitration dispute shall not otherwise prevent Vonage or Customer from terminating Services in accordance with the Agreement.
+
+
+
+c. Location and Procedure. A Party who intends to seek arbitration must first send to the other Party a written notice of dispute, which must describe the nature and basis of the dispute and set forth the specific relief sought.
+The location of arbitration will be in New York, New York, in accordance with the JAMS Streamlined Arbitration Rules and Procedures, and this dispute resolution provision will be governed by the Federal Arbitration Act and not by any state or national law concerning arbitration.
+The amount of any settlement offer made by Customer or Vonage shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which Customer or Vonage is entitled.
+Judgment on the award rendered by the arbitrator may be entered in any court having competent jurisdiction.
+Any provision of applicable law notwithstanding, the arbitrator will not have authority to award damages, remedies or awards that conflict with this Agreement.
+The prevailing Party in any action or proceeding to enforce this Agreement shall be entitled to recover its reasonable attorneysâ fees and costs.
+
+
+
+d. Jury Trial and Class Action Waiver. Each Party waives its right to a trial by jury for claims subject to arbitration hereunder.
+The arbitrator may award relief only in favor of the individual Party seeking relief and only to the extent necessary to provide relief warranted by that Party's individual claim.
+The arbitrator may not award special, indirect, punitive, incidental or consequential damages.
+CUSTOMER MAY BRING CLAIMS AGAINST VONAGE ONLY IN CUSTOMERâS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING AND CUSTOMER EXPRESSLY WAIVES ITS RIGHT TO BRING A CLASS ACTION SUIT.
+The arbitrator may not consolidate more than one person's or entity's claims, and may not otherwise preside over any form of a representative or class proceeding.
+
+
+
+e. Equitable Relief. Notwithstanding the foregoing, each Party shall be entitled to enforce its intellectual property rights and seek equitable relief in any court of competent jurisdiction at any time.
+
+
+
+
+14. Miscellaneous.
+
+
+
+
+a. Entire Agreement.
+Headings. This Agreement constitutes the entire agreement between Customer and Vonage with respect to the Site and Services, and supersedes all prior or contemporaneous communications and proposals (whether oral, written or electronic) between Customer and Vonage with respect thereto.
+The section and paragraph headings in this Agreement are for convenience of reference only and shall not affect their interpretation.
+No oral or written information or advice given by Vonage or its employees and other representatives will create any obligations or warranty on behalf of Vonage unless otherwise agreed in a writing signed by an authorized Vonage representative.
+Any purchase orders, confirmations, payment documentation, or other terms provided by Customer, even if signed by the Parties after the date hereof, shall have no force or effect.
+In the event that the Parties have executed versions of this Agreement drafted in more than one language, the English language version shall govern and prevail.
+
+
+
+b. Modifications/Waivers. Except as expressly provided elsewhere in this Agreement, this Agreement may not be changed or modified, nor may any provisions hereof be waived, nor may any consent or confirmation be considered to have been given, except by an agreement in writing signed by the Party against whom enforcement of the change or modification is asserted, and any such modification, change, waiver, consent or confirmation on Vonageâs behalf may only be given by an authorized signatory of Vonage.
+The failure of either Party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder.
+
+
+
+c. Severability. If any provision of this Agreement, or any part of such provision, is found to be unenforceable or invalid, that provision will be (to the minimum extent necessary) replaced by a valid and enforceable provision the effect of which comes as close as possible to the intended economic effect of the unenforceable or invalid provision, so that this Agreement will otherwise remain in full force and effect and enforceable.
+
+
+
+d. Force Majeure. Neither Party is liable for any failure of performance (other than for delay or performance in the payment of money due and payable hereunder) to the extent such failure is due to any cause or causes beyond such Partyâs reasonable control, including acts of God, fire, explosion, vandalism, cable cut, adverse weather conditions, governmental action, acts of terrorism, strikes and similar labor difficulties, war, sabotage, outages of third party connections, utilities, or telecommunications networks, including, without limitation, carrier-related problems or issues, internet-access issues, denial of service attacks, shortage or unavailability of supplies, and other mechanical, electronic or communications failures or degradation.
+Either Partyâs invocation of this clause will not relieve Customer of its obligation to pay for any Services actually provided or permit Customer to terminate any Services except as expressly provided herein.
+
+
+
+e. Notices. Customer hereby authorizes Vonage to send notices to Customer relating to this Agreement (e.g., Service updates, notices of breach and/or suspension) via email to the email address Customer provides to Vonage in Customerâs Account, in addition to the other means and methods set forth in this Agreement.
+It is Customerâs responsibility to keep Customerâs email address current, and Customer will be deemed to have received any email sent to the last known email address Vonage has on record for Customer.
+Notices that Vonage sends to Customer via email will be deemed effective upon Vonageâs sending of the email.
+Notices provided to Vonage under this Agreement shall be sent to the attention of Customerâs account manager, with a copy sent to the following address with respect to any legal matters, at:
+
+
+
+Nexmo Inc.
+23 Main Street
+Holmdel, NJ 07733
+Attn: Legal Department
+legaldept@vonage.com
+
+
+
+Unless otherwise specified in this Agreement, all notices under this Agreement will be in writing and will be deemed to have been duly given when received, if personally delivered or sent by certified or registered mail, return receipt requested.
+when receipt is electronically confirmed, if transmitted by facsimile or email.
+or the day after it is sent, if sent via next day delivery by recognized overnight delivery service.
+
+
+
+f. Relationship of the Parties. The relationship of the Parties shall not be that of partners, agents or joint venturers for one another, and nothing contained in the Agreement shall be deemed to constitute a partnership or agency agreement between the Parties for any purpose.
+Vonage and Customer shall be independent Parties and shall discharge their contractual obligations at their own risk subject to the terms of this Agreement.
+
+
+
+g. Assignment. This Agreement inures to and is binding upon the Partiesâ successors and permitted assignees.
+Customer shall not assign this Agreement without Vonageâs prior written consent.
+
+
+
+h. Export Controls. By using the Services, Customer represents and warrants that (i) its use of the Services will not violate any embargoes, sanctions, trade restrictions or similar restrictions issued by any applicable governmental entity, and (ii) Customer, its Affiliates, and its End Users have not been designated by any applicable government or any government agency as a prohibited or restricted party under any trade restrictions, export laws or the like.
+Customer also will not use the Site or Services for any purpose prohibited by applicable law, including the development, design, manufacture or production of missiles, or nuclear, chemical or biological weapons.
+Customer may not use, export, re-export, import, or transfer any technology or data related to the Services except as authorized by both this Agreement and all applicable laws, rules and regulations.
+
+
+
+i. Government Terms. If Customer (or its End Users) is an agency, department or other entity of any government, then any use, modification, duplication, reproduction, release, performance, display, transfer or disclosure of the Services and accompanying documentation shall be governed solely by this Agreement.
+Any other use shall be prohibited and no other rights are granted.
+
+
+
+
+15. Terms Applicable to EU Residents.
+
+The terms and conditions in this Section shall apply only to Customers who reside in the European Union, and notwithstanding anything else contained in this Agreement.
+
+
+
+a. Customer shall ensure that Vonage is enabled to use all Customer data (including Application Content) necessary to provide the Services.
+
+
+
+b. The primary characteristics of the Services will remain available to Customer during the term of this Agreement.
+
+
+
+c. For Customers who reside in Germany, and notwithstanding anything to the contrary herein, in general, warranty rights with regards to the Services are ruled by statutory law.
+However, liability without fault for initial defects is excluded.
+The liability with fault remains unchanged.
+In assessing whether or not Vonage is in fault Customer acknowledges that software cannot actually be without defect.
+Deficiencies can be cured at Vonageâs discretion either by rectification or replacement delivery.
+Customer is only entitled to a termination according to statutory law due to the failure to grant use in accordance with the Agreement if Vonage has been given sufficient opportunity to rectify the deficiency and such attempt has failed.
+Vonage does not warrant internet access for Customer, especially the availability or volume of internet access.
+Customer is solely responsible for its access to the internet until the point where Services are handed over by Vonage.
+
+
+
+d. Notwithstanding Section 3(d), Customer will have a reasonable period from the date of any charge to dispute such charge.
+
+
+
+e. As to non-German Customers who reside in the EU, notwithstanding Section 11, the following shall apply in relation to the limitation of liability:
+i. The Parties shall only be fully liable for intent and gross negligence as well as damages caused by injury to life, body or health;
+
+
+
+ii. In an event of slight negligence, the Parties shall be liable only for breaches of a material contractual obligation (cardinal duty).
+A âcardinal dutyâ in the sense of this provision is an obligation whose fulfillment makes the processing of this Agreement possible in the first place and on the fulfillment of which the other Party may therefore generally rely;
+
+
+
+iii. In any of the above mentioned cases, the Parties shall not be liable for any lack of commercial success, lost profits and indirect damages;
+
+
+
+iv. Liability in accordance with the above clauses shall be limited to the typical, foreseeable damages: and
+v. Except where otherwise stated in this Agreement, the Parties shall not be liable for any loss or damage or any costs, expenses or other claims including without limitation loss of profit, business, revenue, goodwill or anticipated savings, loss of any data or information and/or special or indirect loss or consequential loss or otherwise which arise out of or in connection with this Agreement.
+
+
+
+f. As to German Customers, notwithstanding Section 11, the following shall apply in relation to the limitation of liability:
+i. The liability of Vonage is unlimited for damages arising out of death, injury to body or health based on a breach conducted by a legal representative or designated agent of Vonage, as well as for damages that arise from the lack of a guaranteed characteristic or in case of fraudulent intent;
+
+
+
+ii. The liability of Vonage is unlimited for damages caused by Vonage, a legal representative, or designated agent by intent or gross negligence;
+
+
+
+iii. In case of a slight negligent breach of a contractual core duty Vonage shall, except in the cases pursuant to (i) and (iv), only be liable to the amount of the typically foreseeable damage.
+Contractual core duties abstractly are such duties whose accomplishment enables proper fulfilment of the contract in the first place and whose accomplishment a contractual party regularly may rely on;
+
+
+
+iv. Liability pursuant to the German Product Liability Act remains unaffected;
+
+
+
+v. The limitation period for claims for damages shall be one (1) year, except in the case of (i), (ii) and (iv) above, where the statutory statute of limitations shall apply.
+
+
+
+vi. Insofar as telecommunication services are affected, Vonage shall, except in cases pursuant (i) and (iv) above, in cases of slight negligent breach of a contract only be liable for an amount that does not exceed EUR 12,500 vis-Ã -vis Customer and vis-Ã -vis all damaged parties an amount that does not exceed EUR 10,000,000 per damaging event.
+If, in the latter case, the compensation exceeds the said maximum amount payable to several parties due to the same event, the compensation shall be reduced in proportion to the ratio between the total claims for damages and the upper limit.

@@ -1,0 +1,87 @@
+
+Last updated: 3 July 2021 Table of Contents 
+Terms of Use
+Privacy Policy
+ Terms of Use for Webhook.site 1.
+Your Responsibilities You are responsible for your conduct and any content/data sent to Webhook.site (hereafter known as the Service). 1.1 Requirements for Service Usage 
+You may not misuse our Services by interfering with normal operation, or attempting to access them using a method other than through the interfaces and instructions that we provide.
+
+Using Webhook.site for any kind of load testing, benchmarking or otherwise stressing the system deliberately is strictly prohibited.
+
+You may not attempt to upgrade an account by any other means than through the official methods provided to you on the Service.
+
+Unless authorized by Webhook.site, you may not use any manual or automated system to scrape the content or extract data of content on Webhook.site that is not your own.
+
+ 1.2 Fair Use The Fair Use Policy is enforced on a per-case basis and is in place to prevent any URL from causing interference to the Service in general, as described in section 1.1.
+A URL, IP address or IP range may be blocked and blacklisted at any time (resulting in a HTTP 429 error being served at the URL) if the Fair Use Guidelines listed below are exceeded, or if Webhook.site determines the URL to be causing significant interference to other users of the Service.
+If possible, the owner of the URL will be contacted as part of the process.
+Exceptions to the Fair Use Guidelines can be made, and if your usage is higher than listed in the Guidelines, we can whitelist your IP or Webhook.site URL.
+To request an exception, contact Webhook.site Support. 1.2.1 Fair Use Guidelines 
+10 URLs created per day
+10000 requests per URL per day
+ 2.
+Permission to Use Subject to your complete and ongoing compliance with these terms, Webhook.site grants you limited, non-transferable, non-sublicensable revocable permission to access the services and use the Service for use during the Term at the level of service for which you have paid all applicable Fees. 3.
+Pro Upgrade Webhook.site provides a Pro Upgrade (formerly known as Premium) to all users who subscribe through Paddle.
+A Pro Upgrade will result in all URLs created by the user as being upgraded to Pro, which includes additional features and removal of some limitations.
+
+A user, and the URLs associated with the users' account, will retain the upgrade status as long as their subscription is valid and their current payment period has been paid.
+
+ If the user cancels their subscription, the upgrade remains valid until the end of the subscription period.
+
+ If the payment is repeatedly rejected, the user is notified through the payment provider, and the URLs associated will lose the Pro upgrade at that time and Webhook.site will automatically cancel the subscription.
+
+A list of Webhook.site Pro features are listed in the documentation. 3.1 Refunds A full refund of a subscription period can be issued at most 14 days after creating the subscription and requires a reason.
+To request a refund, contact Webhook.site Support. 4.
+Service Responsibilities 4.1 Uptime and Availability The Service does not provide any guarantee of the availability, response time, uptime, throughput or any other kind of connectivity to the Service. 4.2 Data Storage For non-Pro URLs, data may be automatically deleted after a maximum of 7 days.
+For Pro URLs, the Service will attempt to provide as high as longevity as possible for the data, however, the Service does not guarantee the the longevity or durability of the data.
+A maximum of 10000 requests or emails can be stored at any given URL, after which, the oldest data is periodically rotated. Privacy Policy for Webhook.site 1.
+Who We Are The Service at https://webhook.site ("Webhook.site", "Webhook Tester") is operated in Denmark (EU VAT ID DK41561718) by Webhook ApS.
+Company address:
+Webhook ApS M.P.
+Bruuns Gade 52, 4 8000 Aarhus  Denmark.
+Company director: Simon Fredsted (@fredsted) 
+Contact Webhook.site using the following email address: support@webhook.site.
+All Webhook.site servers and data is located in Germany.
+Hosting provided by Hetzner. 2.
+Data Collection By using the services provided to you at Webhook.site, you accept that the following data is stored:
+
+
+Your IP address
+
+Reason for storage: diagnostics and rate limiting &nbsp.
+
+
+Any data that you submit to Webhook.site URLs
+
+Reason for storage: to be delivered back to the user.
+The data can be permanently and irrevocably deleted at any time by the user.
+In doing so, the data will be permanently deleted and cannot be recovered.
+&nbsp.
+
+
+Data associated with Patreon membership or contact details for payment
+
+Reason for storage: for contacting the account holder and payment troubleshooting &nbsp.
+
+
+When creating an account, the following additional extra data is stored:
+
+
+Your Email Address and Name
+
+Reason for storage: identification and billing contact &nbsp.
+
+
+For payment data collected by services including Patreon or Paddle, see the respective privacy policies of these services.
+Webhook.site does not mirror or store any payment information (e.g.
+credit card information) collected by payment providers. 3.
+Analytics Google Analytics is used to collect and gather statistics. 4.
+Data Retention Without user action, for non-Pro upgraded URLs, all data automatically expires and may be deleted after 7 days.
+Data related to Pro URLs is kept indefinitely. 5.
+Your Rights If you have used the service and want to delete the data, "delete" buttons are present.
+User accounts can be deleted (resulting in subscription being canceled) by contacting Webhook.site Support. 6.
+Where We Send Your Data Data is not sent to third parties by Webhook.site.
+A user can choose to redirect content to any URL using the Server Redirect feature, the response of which is logged in Webhook.site.
+ 
+ 
+ 

@@ -1,0 +1,36 @@
+
+        Categories
+API
+Registered Users
+FAQ
+Guest Users
+
+
+What file types can I upload?There are no restrictions on what type of file you can upload, our only limit is by file size, which is currently 5GB for free users, 10GB for Pro users and 100GB for business users.
+Feel free to upload any file you like, no matter the type.
+We don't modify uploads in any way, so you can rest assured that your files will remain in tact and downloaded as you intended.Very popular
+Where will my files be hosted?Uploadfiles deploys multiple dedicated data centers around the world, including Europe, Asia &amp.
+America.
+We also utilise Cloudflare for our content delivery network to make use of their edge servers: "A CDN edge server is a computer that exists at the logical extreme or âedge_â of a network.
+An edge server often serveVery popular
+What speeds can I expect?Uploads There's no imposed limit on file upload speed for free or paid users, but there is a physical limit based on our network capacity.
+When uploading a file, you are connecting to a load balancer, and then onto individual storage servers.
+The bandwidth capacity for these servers is 1Gbps each.
+We distribute this bandwidth equally amongst all currently connected users, so the speed will greatly depend on how busy our network is.
+In a nutshell, you can usually expect upload speeds of arPopular
+How secure is Uploadfiles?Uploadfiles enforces HTTPS on all network traffic, any insecure requests to or from our service are blocked immediately.
+When you upload a file, we first encrypt it in your browser and divide it into smaller chunks, it is then transferred securely to our load balancer(s) where it is routed to the closest storage server for your region.
+Once the chunks reach the storage server destination, they are reassembled and stored securely in a private environment.
+We have SSL certificates at all stagesPopular
+Is there a limit on bandwidth?Most file hosting services impose strict limits on how much bandwidth you are allowed, or how many times a file can be downloaded before it is blocked.
+We offer unlimited bandwidth for everyone.
+No matter how large or popular your file is, there's no limit on how many times it can be downloaded.&nbsp.
+The only time we limit downloads is for direct downloads, a feature available on the [BusinessPopular
+How to contact usWe don't offer telephone support here at Uploadfiles, but you can always reach us by email on support@uploadfiles.io - or you can also chat to us in realtime using the chat widget located in the bottom right.Few readers
+How can I pay?When upgrading to a Pro or Business plan, you can subscribe to a monthly or annual plan using your credit, debit card or PayPal.&nbsp.
+We use Stripe &amp.
+PayPal to process all payments, and our service is completely secured, end to end.
+Stripe is certified as a Level 1 Service Provider, this is the highest level of security available.
+&nbsp.
+We do not store your card details, they are stored securely with StrFew readers
+

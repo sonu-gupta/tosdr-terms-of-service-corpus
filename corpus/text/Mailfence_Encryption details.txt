@@ -1,0 +1,25 @@
+
+
+ Mailfence 
+ End-to-end encryption -Digital signatures A quick guide to E2EE and digital signatures
+
+End-to-end encryption (E2EE)  It is a method used for securing encrypted data while it is moving from source to the destination.
+In End-to-End Encryption, the data is encrypted on the sender's system and only the intended recipient will be able to decrypt it.
+Nobody in between (be they an internet service provider, application service provider or hacker, ...) can read it or tamper with it, thereby providing a great deal of confidentiality and protection to all of your communications.
+Digital signatures  It is an equivalent of a handwritten signature or stamped seal, but offering far more inherent security.
+A digital signature is intended to solve the problem of tampering and impersonation in digital communications.
+It gives absolute authenticity and integrity to all of your messages.
+ The process How to Knowledge base 
+
+
+ Home English FranÃ§ais EspaÃ±ol PortuguÃªs Italiano Deutsch Nederlands Sverige Ð ÑÑÑÐºÐ¸Ð¹ Turkce Privacy Private email Privacy policy Threat model Security Secure email Encryption Two-factor authentication About Terms of use Transparency Report Company Press More Support Documentation FAQ Pricing Mailfence for Business Contact Blog 
+
+
+
+
+
+
+
+
+ Mailfenceâ¢ Â©2020 - Rue Middelbourg 64B - B-1170 Brussels - Belgium - Europe 
+      

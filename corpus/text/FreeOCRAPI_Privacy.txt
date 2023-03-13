@@ -1,0 +1,33 @@
+
+         About us and our services 
+ A completely free OCR Our OCR services are free for anyone to use.
+For real.
+Keep your credit card in your pocket.
+
+ No sign-up We donât want your email address or any other of your personal information.
+Just start scanning files!
+
+ Upload single images Select a file and wait a few seconds for the text string to appear in a pop-up window.
+
+ Use our API Add a few lines of our code to your existing code base and the data you want will be delivered in standard JSON format (text format).
+As easy as pie.
+No libraries need to be installed.
+
+
+ Supported file formats Our OCR supports the PNG, JPG, JPEG, GIF, BMP and TIFF file formats.
+
+ Privacy All images uploaded to our servers are deleted within 24 hours.
+And all communication between your devices and our API is encrypted with SSL.
+We keep none of your personal data.
+
+ Why our OCR services are free We believe in generosity and information sharing.
+Providing an OCR API free of charge is a way to say thanks to everybody who adhere to the same principles.
+
+ What OCR is OCR stands for optical character recognition and is a technology that recognizes text within digital images.
+It is used for large-scale conversion of images and scanned documents into machine-readable text.
+
+ What an API is API stands for application programming interface and is a medium through which programs (e.g.
+programs on your computer) communicate with other programs.
+APIs greatly facilitate information exchanges.
+
+ Usefulness of OCR APIs Among many other uses, OCR APIs can be used to extract names and numbers from invoices, to find specific items on receipts, and to continuously scan online newspapers in search of a given piece of text.

@@ -1,0 +1,36 @@
+
+        
+Family Educational Rights Protection Act of 1974 This policy outlines Proctorio's compliance to the Federal Educational Rights Protection Act of 1974 (FERPA). What is FERPA?
+FERPA, the Family Educational Rights and Privacy Act of 1974 or the Buckley Amendment, is a federal law that affords students certain rights with respect to their education records. What is an Education Record?
+An education record contains information directly related to a student and are maintained by an educational agency or institution or by a party acting for the agency or institution.
+
+Combinations of student names, courses, and video recordings are considered an education record.
+Note:Proctorio acts as a third party and must maintain compliance with FERPA on behalf of the institution. Why is FERPA important?
+FERPA protects students from having their information disseminated to third parties without the student's consent.
+By utilizing a third party, an institution extends their liability to adhere to FERPA to the third party.
+Beyond ethics and privacy, an institution's Title IV funding is tied to compliance with this act. How does Proctorio comply with FERPA?
+We are FERPA certified by the Internet Keep Safe Coalition which signifies our compliance with relevant laws and regulations.
+Please see our Personal Data Protections page for more information.
+Proctorio never holds unencrypted education records.
+All data that enters our system has been encrypted by the learning management system (LMS) and can only be unlocked by authorized users within the LMS.
+Proctorio utilizes the LMS to gain information about the user's role.
+This restricts information from being shared with users who do not fall under the "School Official" role.
+The entire process is transparent to the end-user, but prevents Proctorio and unauthorized individuals from accessing to student data.
+Note:Proctorio implements a zero-knowledge encryption scheme to keep your information safe.
+Proctorio will never hold any personally identifiable information (PII) and institutions can feel confident in extending their FERPA liability to Proctorio.
+
+Proctorio delivers all content via SSL (TLS 1.2) and our servers are compliant to many standards including PCI and HIPAA.
+
+When going through technical support channels, our representatives will never ask for information beyond what FERPA defines as "Directory Information".
+Our representatives may ask for the following information:
+
+Student name
+Campus e-mail address
+College or school
+
+Despite not collecting any personally identifiable information, all employees are subject to frequent and thorough FERPA training.
+Any personal information requests beyond this should be reported to privacy@proctorio.com. How is Proctorio different?
+Other technologies require the student to create accounts on their platform, enter credit card information on their platform, and will store unencrypted video on their platform.
+This information is all categorized as personally identifiable information or as an education record and, therefore, falls under the jurisdiction of FERPA.
+Any breach of this data could result in the loss of Title IV funding for institutions who have contracted the third party.
+Note:Proctorio will never ask for nor store this information.

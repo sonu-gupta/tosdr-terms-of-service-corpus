@@ -1,0 +1,115 @@
+
+
+Login with MyKDE
+ KDE Community Wiki Actions 
+ View 
+ View source 
+ History 
+
+
+ Page 
+ Discussion 
+ Navigation 
+Main page
+Community portal
+Current events
+Recent changes
+ contributor help pages 
+Tasks and Tools
+Modify a page
+Add new content
+Page elements
+Typographical guidelines
+More markup help
+ &lt.
+Policies Policies/Telemetry Policy Application telemetry data can be a valuable tool for tailoring our products to the needs of our users.
+The following rules define how KDE collects and uses such application telemetry data.
+As privacy is of utmost importance to us, the general rule of thumb is to err on the side of caution here.
+Privacy always trumps any need for telemetry data, no matter how legitimate.
+
+These rules apply to all products released by KDE.
+We ask all distributors of KDE products as well as all vendors of addons for KDE products to respect them as well.
+
+Contents
+
+1 Transparency
+2 Control
+3 Anonymity
+4 Minimalism
+5 Privacy
+6 Compliance
+ Transparency
+We provide detailed information about the data that is going to be shared, in a way that:
+
+
+is easy to understand
+is precise and complete
+is available locally without network connectivity
+
+Any changes or additions to the telemetry functionality of an application will be highlighted in the corresponding release announcement.
+
+Control
+We give the user full control over what data they want to share with KDE.
+In particular:
+
+
+application telemetry is always opt-in.
+That means off by default and only activated by the explicit action of the user (inaction is not good enough).
+application telemetry settings can be changed at any time, and are provided as prominent in the application interface as other application settings
+application telemetry settings are independent of any other settings, features or functionality, that is applications can't tie the availability of unrelated aspects of the application to telemetry being enabled
+applications honor system-wide telemetry settings where they exist (global "kill switch")
+we provide detailed documentation about how to control the application telemetry system
+
+In order to ensure control over the data after it has been shared with KDE, applications will only transmit this data to KDE servers, that is servers under the full control of the KDE sysadmin team.
+Any data transmission has to be done using appropriate transport security.
+
+We will provide a designated contact point for users who have concerns about the data they have shared with KDE.
+While we are willing to delete data a user no longer wants to have shared, it should be understood that the below rules are designed to make identification of data of a specific user impossible, and thus a deletion request effectively impossible.
+
+Anonymity
+We do not transmit data that could be used to identify a specific user.
+In particular:
+
+
+we will not use anything that would be considered personal data by common sense or data protection laws and regulations (such as e.g.
+EU GDPR)
+we will not use any unique device, installation or user id
+data is stripped of any unnecessary detail and downsampled appropriately before sharing to avoid fingerprinting
+network operation data (such as IP addresses inevitably exposed as part of the data transmission) is not stored together with the telemetry data, and must not be used in combination with telemetry data for any kind of data analysis.
+Network operation data is only stored and used for enabling a secure and effective operation of the KDE infrastructure (for example for abuse counter-measures on the telemetry system), as deemed necessary by the KDE sysadmins.
+
+Minimalism
+We only track the bare minimum of data necessary to answer specific questions, we do not collect data preemptively or for exploratory research.
+In particular, this means:
+
+
+collected data must have a clear purpose
+data is downsampled to the maximum extent possible at the source
+relevant correlations between individual bits of data should be computed at the source whenever possible
+data collection is stopped once the corresponding question has been answered
+
+Privacy
+We will never transmit anything containing user content, or even just hints at possible user content such as e.g.
+file names, URLs, etc.
+
+We will only ever track:
+
+
+system information that is specific to the installation/environment, but independent of how the application/machine/installation is actually used
+statistical usage data of an installation/application
+
+Compliance
+KDE only releases products capable of acquiring telemetry data if compliance with these rules has been established by a public review on [kde-core-devel|kde-community]@kde.org from at least two reviewers.
+The review has to be repeated for every release if changes have been made to how/what data is collected.
+The result of the review, together with documentation of the data tracked and the reason for the data collection, is tracked on Telemetry Use.
+
+Received data is regularly reviewed for violations of these rules, in particular for data that is prone to fingerprinting.
+Should such violations be found, the affected data will be deleted, and data recording will be suspended until compliance with these rules has been established again.
+In order to enable reviewing of the data, every KDE contributor with a developer account will have access to all telemetry data gathered by any KDE product.
+ Retrieved from "https://community.kde.org/index.php?title=Policies/Telemetry_Policy&oldid=87332"  This page was last edited on 17 January 2020, at 12:44.
+Content is available under Creative Commons License SA 4.0 unless otherwise noted.
+Donate to KDE Why Donate? â¬ Donate via PayPal Other ways to donate Visit the KDE MetaStore Show your love for KDE! Purchase books, mugs, apparel, and more to support KDE. Click here to browse About Wiki Privacy policyAbout KDE Community WikiDisclaimers Products Plasma KDE Applications KDE Frameworks Plasma Mobile KDE neon WikiToLearn Develop TechBase Wiki API Documentation Qt Documentation Inqlude Documentation News &amp.
+Press Announcements KDE.news Planet KDE Screenshots Press Contact Resources Community Wiki UserBase Wiki Miscellaneous Stuff Support International Websites Download KDE Software Code of Conduct Destinations KDE Store KDE e.V.
+KDE Free Qt Foundation KDE Timeline  Maintained by KDE Webmasters 
+ KDEÂ® and the K Desktop EnvironmentÂ® logo are registered trademarks of KDE e.V.
+| Legal 

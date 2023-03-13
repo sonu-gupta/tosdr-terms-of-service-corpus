@@ -1,0 +1,95 @@
+
+Last Modified: April 29, 2022
+PolÃ­tica de Cookies da Plataforma Digital do RGPD/LGPD
+Xandr Inc.
+(âXandrâ) provides an advertising technology that allows websites, apps and other internet-connected properties to generate revenue by showing advertisements to their users, and allows marketers and other advertisers to show advertisements to individuals online who may be interested in their products or services.
+The Platform is designed to use information on Internet users that cannot identify them âin the real world.â Xandr has contractual provisions that prohibit clients of the Platform from directly associating Platform cookies with any personal information that directly identifies an individual.
+A cookie is a small bit of information that is sent to and stored in a browser by a website you visit or by that websiteâs service partners.
+They are used to store and receive identifiers and other information on computers, phones and other devices.
+By saving information in a cookie, websites can remember preferences or recognize browsers from one visit to another or from one website to another.
+Only the site or service that places a particular cookie can read the contents of that cookie each time it communicates with your browser.
+Other technologies, including data we store on your web browser or device, identifiers associated with your device, and other software, are used for similar purposes.
+In this policy, we refer to all of these technologies as âcookies.â
+Below you will find information on Xandr cookies, all of which are set on the adnxs.com domain.
+Except as noted in the table below, all of these cookies are set by the Platform.
+Certain of the cookies we use last only for the duration of your internet session and expire when you close your browser.
+Other cookies are used to remember you when you return to a website and will last for longer.
+The Platform uses cookies to associate information that does not directly identify an individual with browsers and devices, so that the Platform and our clients can then use the information to select ads for delivery by the Platform.
+For a detailed privacy statement that applies to the Platform and describes how we collect and use information, and information about how we use technologies other than cookies, see our 
+Platform Privacy Policy.
+
+Note: Most web and mobile device browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set.&nbsp.
+You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browser or mobile device.
+Our Platform Privacy Policy provides more information about opting out of the use of cookies to conduct online behavioral advertising.
+ 
+Cookie Name
+Purpose
+Example
+Type &amp.
+duration
+
+i.e.
+session only or persistent uuid2
+This cookie contains a unique randomly-generated value that enables the Platform to distinguish browsers and devices.
+
+It is matched against information â such as advertising interest segments and histories of ads shown in the browser or device â provided by clients or other third parties and stored on the Platform.
+This information is used by clients to select advertisements for delivery by the Platform, and to measure the performance of, and attribute payment for, those advertisements.
+In addition, we use this cookie to enable clients to use data which does not reveal or use an Internet userâs real-world identity or data they collect outside of the Platform or acquire from other third parties.
+This cookie is also sometimes matched to clientsâ or other third partiesâ cookies so that they can use data they collect outside of the Platform to serve more relevant advertisements to Internet users.
+When a user opts out of having the Platform used to select ads based on online behavior, the unique value in uuid2 is deleted and replaced with the non-unique value â-1â.
+For more information about the Platform opt out, click here.
+
+For more information about information collected and used on the Platform, see ourPlatform Privacy page.
+We use this cookie to measure how often people do things like click on or view ads.
+
+Our clients use this cookie to help deliver ads to people who have previously visited their websites, purchased their products or used their apps and to recommend products and services based on that activity.
+When you opt out of the use of interest-based advertising on our Platform this cookie is set with a non-unique value (-1) and sellers using our Platform may show you less relevant ads because neither they nor advertisers can use data about your preferences to show you ads.
+ 
+Persistent.&nbsp.
+90 days.
+
+Please note that our uuid2 cookies may be reset on subsequent calls from a browser to our servers, and the expires property will be reset at that time.
+Cookies are set and reset this way because many different companies use our Platform, and may be setting, reading, and associating data with cookies at various times and in various places.
+The retention of data associated with cookies is more relevant than the expiration of the cookie itself.&nbsp.
+Xandr discloses in its public-facing Privacy Statement a data retention maximum of 18 months.
+However, most data is retained for a much shorter period than 18 months.
+Moreover, customers of the Xandr Platform exercise control over much of the data associated with this cookie.
+ 
+  uids
+This cookie contains a base 64 encoded JSON object which contains external unique randomly-generated values that enable other Prebid Server demand partners to distinguish browsers and mobile devices.
+
+This information is used by our Prebid Server demand partners to select advertisements for delivery by the Platform and to measure the performance of, and attribute payment for, those advertisements.
+Note the cookie is a cookie used by prebid.org, the open source heading bidding project and is not our proprietary cookie.&nbsp.
+We run an instance of prebid.org software on our infrastructure. Persistent.&nbsp.
+90 days.
+
+  sess
+The sess cookie contains a single non-unique value: â1â.
+
+It is used by the Platform to test whether a browser is configured to accept cookies from Xandr. Session icu
+The icu cookie is used to select ads and limit the number of times a user sees a particular ad.
+
+It contains information such as the number of times an ad has been shown, how recently an ad has been shown, or how many total ads have been shown.
+We use this cookie to prevent you from seeing the same ad over and over again.
+Persistent.&nbsp.
+90 days.
+
+  anj
+The anj cookie contains data denoting whether a cookie ID is synced with our partners.
+
+ID syncing enables our partners to use their data from outside the Platform on the Platform.
+(See our platform privacy page for more info.) Persistent.&nbsp.
+90 days.
+
+  usersync
+The usersync cookie contains data denoting whether a cookie ID is synced with our partners.
+
+ID syncing enables our partners to use their data from outside the Platform on the Platform.
+(See our platform privacy page for more info.) Persistent.&nbsp.
+90 days.
+token
+Cookies that start with token are helper cookies used as a security measure with industry opt-out pages.
+They contain a unique value only to verify the origin of opt-out requests.
+1440 Minutes pses
+The pses cookie is used to measure the time a user spends on a site.
+Session  

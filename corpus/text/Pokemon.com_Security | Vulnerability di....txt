@@ -1,0 +1,95 @@
+
+At The PokÃ©mon Company International, Inc.
+(âTPCiâ),
+protecting our fans and community is a top priority.
+We recognize the value
+security researchers and security experts can provide to our organization as a
+measure in ensuring the integrity and safety of our platform and users' data,
+and welcome such disclosures.
+For other questions and concerns related to your
+PokÃ©mon Trainer Club account or other services, please reach out to Customer
+Service via PokÃ©mon Support.
+
+
+Discovering a Security Vulnerability
+
+If you believe you have discovered a security
+vulnerability, we encourage you to disclose your discovery to us as quickly as
+possible via the form below.
+We will work with you to validate and respond to
+security vulnerabilities.
+Before disclosing the possible security
+vulnerability, please review this page, including the Public Disclosure Policy.
+Due to the sensitive nature and risk security
+vulnerabilities can pose to our community, we require that you keep this
+information confidential while we work with you to close the gap to ensure the
+safety of our users.
+In addition to confidentiality and the Code of Conduct, you must avoid any activities related
+to the following:
+
+
+Do not attempt to access accounts that do not belong to you.
+
+
+Do not attempt to access private information of any users.
+
+
+Do not attempt to modify or destroy data.
+
+
+Do not perform any type of denial-of-service attack.
+
+
+Testing of third-party, or non-TPCi, services.
+This includes The PokÃ©mon Company, which is the parent company of TPCi.
+
+
+Do not transmit malware, in any capacity.
+
+
+You must comply with all applicable laws in connection with your participation in this program.
+
+
+You must comply with the Bugcrowd Standard Disclosure Policy.
+
+
+
+Issues not to Report
+
+
+
+Phishing or Social Engineering techniques
+
+
+Forms missing CSRF tokens
+
+
+Logout CSRF
+
+
+All Sender Policy Framework suggestions
+
+
+Disclosure of public or known directories
+
+
+Vulnerabilities only affecting users who are using outdated or unpatched browsers and platforms
+
+
+
+Vulnerability Disclosure Scope
+
+
+
+*.pokemon.com
+
+
+pokemon.com
+
+
+pokemoncenter.com
+
+
+Mobile applications with âThe PokÃ©mon Company Internationalâ as the seller or developer
+
+

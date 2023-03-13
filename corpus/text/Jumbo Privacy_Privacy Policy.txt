@@ -1,0 +1,555 @@
+
+        OkBy pursuing your navigation on this site, you accept the use of cookies to carry out anonymous statistics of visits.
+For more information, please visit our privacy policy Blog DOWNLOAD March 18, 2020
+Privacy Policy Update As the CEO of Jumbo, I made a commitment to make sure that each decision we make for our product and our company fundamentally respects your privacy.
+Over time, we want to honor your trust by consistently striving to ensure each of our decisions protects your privacy.
+Pierre Valade
+
+
+
+This policy was last updated on December 9th, 2020.
+
+Thank you for using Jumbo Privacy! Here we describe how we might collect, use and handle your personal data when you use our privacy and security services.
+But first, we want to highlight two major principles that drive our day-to-day decisions:
+
+
+Minimize data collection: we will always build services where the collection or use of your personal data is as small as possible, even sometimes not collecting any personal data at all, and you will always know about it and chose if you agree to such collection, or not;
+
+Maximize security: security of our services and your personal data is our priority.
+This means that we will always choose the highest standards for ensuring the security of your personal data and the best services to process your personal data, when necessary to use 3rd party products or services.
+
+Whatever your choices are with regards to your activity with Jumbo Privacy, we will never EVER sell your personal data.
+As a privacy company, we want your privacy and your use of Jumbo Privacy to be fully transparent and understandable.
+Therefore, we have made a summary of all the services Jumbo Privacy provides you, and how every service impacts your personal data.
+
+Please find hereunder more information on the processing of personal data made by Jumbo Privacy â 2121 Atelier Inc.
+
+
+Title 1 â Jumbo Features you may use
+
+
+Section 1.
+Privacy &amp.
+Security Services in the Jumbo App
+
+Jumbo App is a mobile application available on iOS and Android who helps you manage your online privacy and security.
+By using the Jumbo App, you are asking the Jumbo App to make changes to your privacy settings and/or personal data.
+This is what we call âprocessing of your personal dataâ.
+This is why when you open the Jumbo App for the first time, you will see a pop-up displaying a link to this privacy policy.
+This privacy policy explains how the processing is done by us, in compliance with applicable laws protecting your privacy.
+Before using the Jumbo App, we kindly ask you to read this privacy policy carefully and agree to its terms to continue using the Jumbo App if you agree to it.
+If you do not agree with this privacy policy, please do not use the Jumbo App.
+
+A.
+Functionalities
+
+Every step of the way, you are the one controlling and deciding how to manage your personal data and privacy settings related to the accounts you link to the Jumbo App.
+The Jumbo App will never change anything in your accounts without your prior authorization.
+Consequently, we are only processing your data because you have consented to it and/or because we are performing a service you have requested from us.
+(i) Subscription to a Jumbo Plan
+If you decide to subscribe to a Jumbo Plan (i.e.
+Jumbo Plus or Jumbo Pro as described in our TOU) your account information necessary to grant you such subscription will be processed by Apple, if you use the iOS version of the Jumbo App, or Google if you use the Android version of the Jumbo App.
+Your personal data processed by Google and Apple to grant you the subscription to a Jumbo Plan include your Google or Apple account information, your name, your email, your payment details, as well as your personal data to enable your subscription (subscription ID and transaction ID).
+Jumbo Privacy has no access to your account information, even your name.
+Apple and Google only send Jumbo Privacy your subscription ID and transaction ID to confirm your subscription, and to allow us to give you access to the Jumbo Plan you have subscribed to directly in your phone.
+Your personal data is stored by Apple and Google until you delete it, except for your payment data, which is kept by Apple and Google for duration imposed by tax regulations in your country.
+For more information on how Apple and Google use your data, please consult Title 2 on Processors.
+
+(ii) Change of the privacy settings of your online accounts
+
+We offer you the possibility to scan some of your online accounts through the Jumbo App to suggest privacy changes to your account settings.
+You can choose what online account you want to scan through the Jumbo App.
+To inform you of the changes we suggest, we will ask you to log into your account through the Jumbo App, using your username and password.
+The authentication of your account will be made in your phone during the whole process.
+We do not store any of this personal data in the Jumbo Cloud.
+We might also offer you to save your password for some online services to avoid having to log in, every time you use the Jumbo App.
+If you chose to do so your password will be stored within the Jumbo App in your phone.
+In no event will Jumbo Privacy have access to your password.
+If you do not wish for your password to be stored in your phone, please do not use the features that allow such storing of password within the Jumbo App.
+To delete your passwords, please disconnect your account from the Jumbo App.
+When you connect and authenticate any service through the Jumbo App, you are technically leaving the Jumbo App and signing on to your dedicated account on such service.
+Therefore, the service might be collecting data related to such authentication.
+For more information, we advise you to read the respective serviceâs Privacy Policy.
+(iii) Transfer and Storage of your personal content
+
+If you decide to transfer some of your personal content, the transfer of such personal content will be made directly from your account to the storage space you have selected.
+This can be the Jumbo App or a third-party storage space selected.
+If you decide to store your personal content in the Jumbo App, your personal content will be stored in your phone.
+We do not have access to your personal content, and it is not stored in Jumbo Cloud.
+If you want to delete your personal content, please delete the Jumbo App.
+If you decide to transfer your personal content directly to a third party, we suggest you verify the third partyâs privacy policy before deciding to transfer your personal data to them.
+Indeed, we suggest them in our app, but we do not have a business relationship with them.
+We also do not endorse them, nor are affiliated to them.
+This means that we are not responsible for how your data is stored with them.
+(iv) Data breach feature
+
+If you chose to verify if your email address was in a data breach, a hash of your email address you indicate will be transmitted from the Jumbo App, to SpyCloud through Jumbo Cloud.
+This means that the hash of your email address will be on Jumbo Cloud for less than one second, and then transferred to SpyCloud.
+Rather than verifying a breach with your plain-text email (e.g.
+john@smith.com,) we query it with a hash (something that looks like this â642020b48e8f9706b14bc695f3b1f4ad719553dfâ.) A hash is created with whatâs called a âone-way-functionâ which is practically infeasible to revert and as such makes any potential leak of this data less impactful.
+Therefore, we never look at your email address nor store it.
+We use Microsoft Azure as our datacenter provider, and Cloudflare (more information on Cloudflare here) as our DNS provider (we also use cloudflare to proxy requests to Azure.) SpyCloud will use the hash of your email address only for the purpose of checking if your email address appeared in a data breach.
+You can, at any time, disconnect this feature.
+The hash of your email will be stored for security reasons by SpyCloud for 6 years.
+(v) Privacy Requests/Delete My Data
+
+When you chose to use the Privacy Requests/Delete My Data functionality to delete some of your personal data, or to opt-out from some services, you are mandating Jumbo Privacy to act as your privacy agent.
+We will only act as your privacy agent towards the services you have selected in the Jumbo App and for the privacy requests (access, opt-out, deletion) you have chosen in the Jumbo App.
+We need your legal full name and your signature to complete the mandate for exercise of privacy rights, and for the email address used to sign up to the account you want to associate to your Privacy Request in order to confirm the authentication ID.
+We also use your email address to send you the mandate for your review and signature.
+We might also collect your advertising ID (IDFA/AAID) directly in your phone, if you chose to make privacy requests related to such advertising ID, when necessary.
+The mandate is sent to you by Docusign which is a certifier of electronic signature.
+For more information about the use of your email address by Docusign, please see here.
+By signing the mandate you agree that Jumbo Privacy will process your personal data to make the privacy requests you have selected and notably that your full legal name, email, privacy requests and signed mandate will be sent to the service providers you have selected in the Jumbo App.
+We use Helpscout to send these emails.
+For more information about the use of your personal information by Helpscout, please see here.
+Once the privacy requests have been successfully processed, upon expiration of a period of twelve months during which you have not used the Delete My Data feature, we will send you a notification through the Jumbo App, to ask if you want to terminate your mandate from our archives.
+Please consult our TOU for more information.
+Once a mandate is terminated, we keep a record of your Privacy Requests and your mandate for two years in Jumbo Cloud in case we have any claims from you or the services you ask us to make Privacy Requests to, as proof you lawfully mandated us.
+(vi) Secure Together
+When you invite friends or if you have been invited to join Jumbo Privacy through the Secure Together feature, we collect a hash of the inviteeâs email address for us to send an email to them, and/or to confirm that they have downloaded the Jumbo App, and notify the inviter.
+The hash of the inviteeâs email addresses is stored in Jumbo Cloud for thirty daysâ from the date of collection to give the invitee time to download the Jumbo App and send us such confirmation.
+For more information about Jumbo Cloud, please see below.
+
+
+B.
+Your rights
+
+
+
+How to access, rectify, or delete your personal data?
+
+Except for Delete My Data and Secure Together, Jumbo Privacy does not access or store any of your personal data.
+Therefore, you can access rectify, or delete the accounts you have managed through the Jumbo App and/or the data you have stored within the Jumbo App at any time directly in the Jumbo App.
+If you want to delete any data stored in the Jumbo App, you need to delete the Jumbo App from your phone.
+You can access, rectify, or delete your data related to Delete My Data or Secure Together at any time, by sending an email to privacy@jumboprivacy.com
+If you are not able to do any of this, you want help doing so or have any related questions, please send an email to support@jumboprivacy.com.
+For more information about your use of the Jumbo App, please consult our TOS.
+
+Section 2.
+Jumbo App Analytics
+
+The Jumbo App contains an analytic tool that help us analyze your use of Jumbo app in order to improve the quality and design of the Jumbo app and your experience as a user of the Jumbo App.
+We do not track or store any of your personal data with this analytic tool.
+Instead, Apple/Google generate a unique identifier linked to your phone and your use of the Jumbo App called a âdeviceIDâ, which we use to identify a user from another in an anonymous way.
+The Jumbo App sends your analytics data to our analytics provider: Amplitude.
+For more information about Amplitude, please see here.
+In Amplitude.
+Your deviceID and usage of the Jumbo App is compiled with similar data from our other users for us to compile statistics regarding the use of the Jumbo App.
+We delete our analytics when they become obsolete.
+If you want to delete your anonymous analytics history of your use of the Jumbo App before there obsolescence, please contact support for help.
+You can opt-out from anonymous Jumbo App analytics at any time, directly from the Jumbo App, and we will no longer collect analytic data from your device.
+
+Section 3.
+Push Notifications
+
+We may send you updates about the Jumbo App and Jumbo Privacy by sending you push notifications through the Jumbo App if you have given us your prior approval to do so.
+You may opt-out of receiving these notifications at any time by changing the appropriate settings within your device.
+To send you push notifications, we store and use a serial number which was generated by Apple or Google, depending of the version of the Jumbo App you are using, best known as a âtokenâ, which is unique to your use of the Jumbo App in your phone.
+To send you such push notifications, we use MongoDB as service provider.
+For more information about MongoDB, please see here.
+Your token is stored by MongoDB, and in the Jumbo Cloud.
+Your token is stored until you change your settings or request us to delete it.
+We cannot identify you nor localize you through this token but we can know your time zone, the language chosen on your phone and send you messages.
+This is why we have a strict security policy when collecting, storing and using your token.
+
+Section 4.
+Support
+
+Jumbo Privacy is by your side to help you control your privacy.
+Therefore, if you have any questions or concerns regarding the Jumbo App, this Privacy Policy or your privacy rights, you can contact our support team directly in the Jumbo App, or by sending an email to: support@jumboprivacy.com.
+We use Helpscout, to receive and reply to your messages when sent by email, and Front when you chat with us directly in the Jumbo App.
+For more information about Helpscout, please see here.
+Your request is stored in Helpscout or Front for 45 days.
+
+Section 5.
+Surveys
+
+We sometimes conduct surveys within the Jumbo App to get feedback on our products and services.
+When conducting such surveys, we might collect anonymous information such as country or age range to understand demographics of our userbase.
+On some rare occasion, we give you the possibility to provide us your email address on an opt-in basis if you want the opportunity to chat with a team member or if you want to receive updates regarding the Jumbo App.
+In such event, we only process your email address for the purpose provided for in the survey, and for as long as strictly necessary.
+We do not sell it or transfer it to any third party.
+You can opt-out from any further communication, rectify, and/or erase your email address directly in any received communication, or by sending us an email to privacy@jumboprivacy.com.
+We use Typeform or Survey Monkey for conducting these surveys (more information about Typeform here and Survey Monkey here).
+
+Section 6.
+Newsletter
+
+You can subscribe to our newsletter at any time by giving us your email address in the Jumbo App or on our dedicated websites.
+We only send the newsletter to you for the informational purposes you have chosen when you subscribed.
+You can opt-out whenever you want by clicking the opt-out link directly in the newsletter or by sending us an email to : privacy@jumboprivacy.com.
+We will then stop sending you our newsletter, and will delete your email address from our emailing list.
+We use Mailchimp to send you our newsletter, for more information, please see here.
+
+Section 7.
+Functioning cookies on our websites
+
+We have installed cookies on our websites available at the following URL addresses : www.jumboprivacy.com and blog.jumboprivacy.com to collect your IP address only for strictly necessary legitimate purposes to enable our websites to work properly as described below.
+Our DNS provider, Cloudflare, uses cookies to allow you to navigate on our websites properly and to ensure their safety (notably against malicious visitors).
+The way it works is that these cookies send your IP address to Cloudflare (which is stored for less than 24 hours according to their privacy policy).
+We never have access nor can use your IP address since it is only available to Cloudflare, and only Cloudflare may read or modify the information contained in such cookie.
+For more information about Cloudflare, please see here.
+We do not have any other cookies on our websites (such as tracking or advertising cookies).
+You can refuse the use of cookies at any time by adjusting the settings of your browser (Internet Explorer, Safari, Firefox, Chrome) by selecting the âcookiesâ option in the âHelpâ function to obtain information about the location of the cookie folder.
+Please note that disabling cookies may limit access to certain features or pages of the Jumbo Privacy websites.
+
+Section 8.
+Jumbo Privacyâs ads
+
+You might have noticed some ads for Jumbo Privacy on websites or apps you have been on.
+In order to understand if you have downloaded the Jumbo App by clicking on one of our ads, and if so, what exact ad, we collect your IDFA and IP address when you start using the Jumbo App together with certain events, for legitimate business purposes.
+Events consist of information on rather you have take on a Jumbo subscription plan or not.
+Once collected, Your IDFA/IP address and the collected events are immediately sent to our ad campaign partner, Singular, without Jumbo storing them.
+This information is shared with adnetworks Jumbo Privacy works with to display ads (such as Google Ads, Apple Ads, Twitter Ads and Facebook Ads) to confirm ad campaign attributions.
+Your IDFA/IP address and relevant events are stored for 45 days by Singular for that purpose.
+For more information about Singular, please see here.
+Please note that you can opt-out from such data usage at anytime by sending us an email to privacy@jumboprivacy.com.
+
+TITLE 2: Sub-Processors
+
+
+Third party services Jumbo Privacy relies on, and what data they might store about you
+
+
+We only share your personal data with the services we rely on, if strictly necessary to provide you with our privacy and security services.
+
+
+Where we need to share your personal data with our third-party services, we have chosen them with a lot of care, to make sure they take privacy as seriously as we do and that they only use your personal data for the purposes we have instructed them to do.
+We might also have executed data processing agreement with them to regulate how such service providers use your personal data.
+This data processing agreement was implemented thanks to the GDPR.
+In the event where such service providers are limiting their data processing agreements to European users, we are negotiating to extend such protection to all our users wherever located.
+
+##
+
+Section 1.
+Help Scout
+
+
+Helpdesk
+
+We have decided to use Help Scout as our helpdesk service provider Therefore, if you email support@jumboprivacy.com, Help Scout will receive and keep a copy of your IP address, and your name if it sent as part of the headers of the email protocol.
+We have setup Help Scout so that it deletes automatically all emails from their servers 30 days after they are received.
+
+Privacy Requests/Delete My Data
+
+We also use Help Scout to manage your privacy requests.
+If you use this functionality, Help Scout will receive your privacy request and process the privacy request email which is sent to the service providers you have selected in the Jumbo App.
+They will store your first name, last name, country of residence, email address, signed mandate and privacy request.
+HelpScout stores your personal data as long as required to process your privacy request .
+Upon completion of your privacy requests, your personal data will be deleted within one month following such completion, from Help Scout.
+Emails containing details of your Privacy Requests and your signed mandate are then kept on Jumbo Cloud for two years for proof purposes.
+For more information about how Help Scout processes your data, please visit https://www.helpscout.com/company/legal/privacy/.
+You can also consult the data processing agreement signed with Help Scout, available here: https://www.helpscout.com/company/legal/dpa/
+
+Section 2.
+Jumbo Cloud: Microsoft Cloud, Azure
+
+We choose the products we use very carefully, and our email servers (that we are using for support@jumboprivacy.com for example) are powered by Microsoft Cloud.
+Microsoft Cloud has a very strong reputation to respect privacy.
+If you email support@jumboprivacy.com, Microsoft servers will receive and keep a copy of your IP address, and your name if your name is sent as part of the headers of the email protocol.
+Contrary to what we have set up for Help Scout, we will keep your emails for as long as it is necessary for replying to your request and then for as long as necessary, if required to, for evidence purposes (generally from two to five years, depending on your jurisdiction and the type of emails you have sent to Jumbo Privacy).
+For example, emails containing details of your Privacy Requests and your signed mandate will be kept for two years for proof purposes..
+For more information about how Microsoft processes your data, please visit https://privacy.microsoft.com/.
+You can also find more information about the data processing agreement signed with Microsoft here: https://docs.microsoft.com/en-us/legal/gdpr
+
+Section 3.
+Apple
+
+Apple hosts our Jumbo iOS app.
+This section applies to you if you use our iOS version of the Jumbo App.
+
+Subscription information
+
+Apple collects your account information and payment details when you subscribe to a Jumbo Plan.
+Your personal data is stored by Apple until you delete it, except for your payment data which is kept by Apple for duration imposed by tax regulations in your country.
+For more information, please visit https://support.apple.com/en-us/HT207233.
+
+Face ID and Touch ID
+
+You can use Face ID or Touch ID to unlock the Jumbo App if you use such version of the Jumbo App.
+Jumbo Privacy does not have access to this information, which is only managed by Apple.
+To learn more about this technology, please visit https://support.apple.com/en-us/HT208108 and https://support.apple.com/en-us/HT204587.
+You can disable this feature directly in the Jumbo App.
+
+App Analytics
+
+Apple provides Jumbo Privacy with analytics: this feature is called App Analytics.
+Apple does not provides Jumbo Privacy with information that would personally identify you.
+You can turn off this feature completely within your iPhone settings, also.
+For more information about how Apple processes your data, please visit https://www.apple.com/legal/privacy/.
+
+Section 4.
+Google Play Console
+
+Android hosts our Android app.
+This section applies to you if you use our Android version of the Jumbo App.
+
+Subscription information
+
+Google collects your account information and payment details when you take an in-app subscription.
+Jumbo Privacy does not have access to this information, which is only managed by Google.
+Your personal data is stored by Google until you delete it, except your payment details information that might be kept by Google for duration imposed by tax regulations in your country.
+
+App analytics
+
+Google provides Jumbo Privacy with anonymous analytics with regards to your use of our app (country, device): this feature is called Google Play Console.
+Google does not provide Jumbo Privacy with information that would personally identify you.
+You can turn off this feature completely, also.
+For more information about how Google processes your data, please visit https://policies.google.com/privacy.
+
+Section 5.
+Cloudflare
+
+We use Cloudflare as our DNS provider for our app and our websites.
+Cloudflare has a solid privacy reputation.
+Cloudflare says they will log your IP address for less than 24 hours.
+To the best of our knowledge, we havenât found a way to access, from the Cloudflare dashboard, these logs.
+For more information about how Cloudfare processes your data, please visit: www.cloudflare.com/privacypolicy/.
+
+Section 6.
+Github Pages
+
+The websites www.jumboprivacy.com and blog.jumboprivacy.com are hosted by Github, via their feature Github Pages.
+Jumbo has configured Cloudflare as a proxy between you and the Github servers, in order to avoid your IP address being sent to Github.
+Github never get any personal data.
+We do not use any cookies on our websites that will store any personal data.
+
+Section 7.
+SpyCloud
+
+To verify if your email address was involved in a data breach, we transmit the hash of your email, with your consent, to a third party provider: Spycloud.
+SpyCloud never has you address email but only the hash of it, which is an unrecognizable jumble of numbers and letters.
+SpyCloud uses this unique hash to determine which unique code has been violated on a specific website SpyCloud will verify, without knowing who you are, if your email address (i.e.
+the hash email) has been compromised.
+We have signed a specific data protection agreement with SpyCloud to supervise their use of your hash email.
+Please contact us for more information.
+
+Section 8.
+Mailchimp
+
+We may send you our newsletter if you have provided us with your email and agreed to receive it.
+To send you our newsletter, we use Mailchimp as our newsletter service provider.
+Mailchimp provides that it will only process your personal data to provide us with their emailing tools.
+Your email address will be automatically deleted from Mailchimp if you decide to opt-out from any communication.
+We do not keep email addresses for marketing purposes for more than a year following the last sent communication.
+For more information about how Mailchimp processes your data, please visit: https://mailchimp.com/legal/privacy/.
+You can consult the data processing agreement signed with Mailchimp here https://mailchimp.com/legal/data-processing-addendum/.
+
+Section 9.
+Simple Analytics
+
+We use Simple Analytics to collect anonymous statistics on our websites.
+Simple Analytics does not use cookies nor collect personal data to provide us such statistics.
+Please see their privacy policy for more information.
+For more information about how Simple Analytics processes your data, please visit https://simpleanalytics.com/privacy.
+
+Section 10.
+Typeform &amp.
+Survey Monkey
+
+We conduct surveys using Typeform or Survey Monkey.
+They provide that they will only process your personal data to provide us with their survey tools.
+To send you this survey, we will ask you for your email address or provide you access to our survey directly in the Jumbo App.
+We transfer the answers of the survey to our cloud services and delete them from Typeform/Survey Monkey within a week following the end of such survey.
+For more information about how Typeform processes your data, please visit https://admin.typeform.com/to/dwk6gt, how Survey Monkey processes your data, please visit: https://www.surveymonkey.com/mp/legal/privacy-policy/.
+You can also find more information about the data processing agreement signed with Typeform here: https://admin.typeform.com/to/dwk6gt and with Survey Monkey here: https://help.surveymonkey.com/articles/en_US/kb/SurveyMonkey-Data-Transfers-and-EU-Laws
+
+Section 11.
+Docusign
+
+
+Privacy Requests/Delete My Data
+
+We use Docusign to send you a mandate to sign for you to authorize Jumbo Privacy to act as your privacy agent for your privacy requests.
+Docusign is a trusted partner which we chose to process your Privacy Requests since Docusign delivers the highest level of signature certification.
+Docusign stores your first name, last name, email address and signed mandate.
+Docusign stores your personal data for the duration of validity of your signed mandate.
+We ask Docusign to transfer to us your mandate, and then delete your mandate from the Docusign Cloud within three months following the expiration or termination of your mandate.
+We have executed a data protection agreement with Docusign, which is our sub-processor, under which Docusign notably guarantees to us not to share your personal data with any third parties that do not strictly need to process your personal data to provide us with their services.
+For more information about how Docusign processes your data, please visit: https://www.docusign.com/company/terms-and-conditions/schedule-docusign-signature/attachment-data-protection.
+
+Section 12.
+Freelancers
+
+From time to time, we may use freelancers based in the USA or Europe to help us for specific tasks notably to our support team.
+These freelancers might process personal data belonging to you under our strict instructions.
+We chose very carefully the freelancers that work with us, and they all sign a data protection agreement containing security requirements to ensure the safety of your personal data before starting to work for Jumbo Privacy.
+For more information, please contact us.
+
+Section 13.
+MongoDB
+
+To send you push notifications, we use a unique token which is stored by our service provider, MongoDB.
+MongoDB only stores your token on our behalf, and is not authorized to use it for any other purposes than sending you push notifications in the Jumbo App.
+You may opt out of receiving these notifications at any time by changing the appropriate settings in the Jumbo app or on your smartphone.
+For more information about how MongoDB processes your data, please visit : https://www.mongodb.com/legal/privacy-policy.
+You can consult the data processing agreement signed with MongoDB here : https://www.mongodb.com/cloud-terms-and-conditions.
+
+Section 14.
+Amplitude
+
+We use Amplitude to analyze analytic data of our usersâ usage of the Jumbo App.
+Amplitude collects the Jumbo App analytics about your use of the Jumbo App with your DeviceID.
+Amplitude only uses analytics of our users anonymously, and in accordance with our instructions.
+For more information about how Amplitude processes your data, please visit https://amplitude.com/privacy.
+We have signed a specific data protection agreement with Amplitude, including the processing of your data.
+Please contact us for more information.
+
+Section 15.
+Singular
+
+We use Singular to help us manage our ad campaign performance.
+We send Singular our usersâ IDFA and IP address together with information regarding their Jumbo subscription plan.
+Singular only stores and uses such information in accordance with our instructions, notably when sharing this information to adnetworks Jumbo works with.
+For more information about how Singular processes your data, please visit https://www.singular.net/privacy-policy/.
+We have signed a specific data protection agreement with Singular, including the processing of your data.
+Please contact us for more information.
+
+Section 16.
+Stripe
+
+We use Stripe to manage subscriptions taken by our users on our website.
+Stripe collects your payment and billing details when you take a subscription to Jumbo Plus or Pro using our websites.
+Stripe stores all your related information.
+Stripe only provides Jumbo Privacy with an identifier which will enable Jumbo Privacy to recognize you if you download the Jumbo App and want to link Your subscription.
+Your personal data is stored by Stripe until you delete it, except your payment details information that might be kept by Stripe for duration imposed by tax regulations in your country.
+
+Section 17.
+Front
+
+We use front as our in-app chat provider.
+Front collects the content you send to Jumbo Privacy in your messages, your DeviceID, and your email if you indicate it.
+Your information is stored by Front for 45 days.
+Front only collects such information to enable us to reply to your queries directly in the Jumbo App, for statistical purposes to build our customer care team, and under our instructions.
+For more information about how Front processes your data, please visit: https://frontapp.com/privacy-policy.
+We have signed a specific data protection agreement with Front, including the processing of your data.
+Please contact us for more information.
+
+TITLE 3 - Other information about your data
+
+
+Section 1.
+Personal Data transfers EU/UK/Swiss-USA
+
+
+PRIVACY SHIELD UPDATE: ON JULY 16th, 2020, THE EUROPEAN COURT OF JUSTICE HAS DEEMED THE PRIVACY SHIELD NO LONGER AN ADEQUACY DECISION TO MAKE TRANSFERS OF PERSONAL DATA FROM THE EU TO THE USA.
+WE ARE ACTIVELY WORKING ON THIS TOPIC TO CONTINUE ENSURING THE PROTECTION OF OUR EUROPEAN USERSâ PRIVACY.
+
+
+Until then, please note that as provided under article 49 of the GDPR, we have the obligation to inform you of the possible risks of the transfer of your personal data to the USA due to the absence of an adequacy decision or other appropriate safeguards since such invalidation.
+By using the Jumbo App, you guarantee having been informed of such risks and understanding them.
+
+Since 2121 Atelier Inc is located in the USA, we might transfer some of your personal information from the European Union, the United Kingdom or Switzerland, to the USA.
+We comply and have self-certified with the EU/UK-U.S.
+and Swiss-U.S.
+Privacy Shield Frameworks as set forth by the U.S.
+Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union, the European Economic Area, the United Kingdom and Switzerland to the United States.
+You can check our certification here: Privacy Shield Certification.
+If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will take precedence.
+You can also learn more about Privacy Shield at www.privacyshield.gov.
+As described in the Privacy Shield Principles, Jumbo Privacy is responsible for personal data that it receives and subsequently transfers to third parties.
+If third parties that process personal data for us do so in a manner that does not comply with the Privacy Shield Principles, we are responsible for such failure, unless we prove that we are not responsible for the event giving rise to the damage.
+In compliance with the Privacy Shield Principles, Jumbo Privacy commits to resolve complaints about our collection or use of your personal information.
+EU, British and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Jumbo Privacy by email at privacy@jumboprivacy.com.
+Jumbo Privacy has further committed to refer unresolved Privacy Shield complaints to ICRD-AAA, an alternative dispute resolution provider located in the United States.
+If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit https://go.adr.org/privacyshield.html for more information or to file a complaint.
+The services of ICRD-AAA are provided at no cost to you.
+As further explained in the Privacy Shield Principles, binding arbitration before a Privacy Shield Panel will also be made available to you in order to address residual complaints not resolved by any other means.
+Jumbo Privacy is subject to the investigatory and enforcement powers of the U.S.
+Federal Trade Commission
+
+Section 2.
+Extraordinary disclosures
+
+We may be obligated to disclose your personal data if we determine that such disclosure is reasonably necessary and required:
+(a) to comply with applicable laws or judicial orders;
+(b) to protect the rights or property of Jumbo Privacy or other users of our services, including in investigating any violation or potential violation of the law, this Privacy Policy, or our TOS.
+We will always keep in mind that your data should be protected therefore we will always fight unjustified requests and be transparent about them.
+If Jumbo Privacy or its business or assets are acquired by, or merged into, another company, that company will possess any personal data in our possession at such time and will assume our rights and obligations under this Policy.
+
+Section 3.
+Security of data
+
+We take security very seriously and therefore have implemented appropriate technical and organizational measures to ensure a level of security appropriate to the risk linked to our processing of all data as described hereabove.
+To implement such measures, we have taken into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for your rights and freedoms as natural persons.
+
+Section 4.
+CCPA
+
+Even though the CCPA does not apply to Jumboâs activity, we have provided you with all necessary information as provided under the CCPA:
+
+we update our privacy policy every 12 months;
+we have posted a conspicuous link to the privacy policy on our website;
+we have informed you of the list of personal data that Jumbo Privacy might have collected about you over the last 12 months;
+we have informed you on how to access or delete your personal data, and will not discriminate against you if you exercise your rights under the CCPA;
+we have informed you that we do not sell your personal data.
+
+
+TITLE 4 â Your Rights
+
+As a matter of principle, you can exercise all your rights free of charge.
+
+Section 1.
+Access/Rectification/Deletion/Portability of your personal data
+
+On a general basis, you can access, rectify, or delete your personal data directly through the Jumbo Privacy App, or through the service providers we are relying on as described above or by contacting the support team directly through the Jumbo App.
+If you are unable to complete your requests through the Jumbo App or such services, you can send a detailed message explaining your request to us at : privacy@jumboprivacy.com.
+Jumbo Privacy will inform you if it can act on your request or if you need to do it directly in the Jumbo App, with our support.
+Jumbo Privacy would also like to inform that the request you send for the exercise of your rights might be kept for follow-up purposes.
+â¢Specification for deletion :
+You may also ask us to delete your personal data where one of the following grounds applies:
+
+the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed ;
+you withdraw the consent you have previously given ;
+you object to the processing of your personal data and there is no legal reason for such processing ;
+the processing of personal data does not comply with the provisions of the applicable legislation and regulations ;
+your personal data have been collected in relation to the offer of information society services to children under 16 years of age.
+
+Please note that the exercise of this right may not be possible when the retention of your personal data is necessary for compliance with statutory or regulatory provisions and in particular for example for the establishment, exercise or defence of legal claims.
+
+Section 2.
+Restriction of processing
+
+You may request restriction of processing of your personal data in the cases provided for by laws and regulations.
+You can exercise this right directly through the Jumbo App or by contacting the support team directly through the Jumbo App.
+If you are unable to complete your requests through the Jumbo App or such services, you can send a detailed message explaining your request to us at : privacy@jumboprivacy.com.
+
+Section 3.
+Post-mortem Guidelines
+
+You have the possibility to give guidelines in relation to the storage, deletion and communication of your personal data after your death to a certified trusted third party in charge of ensuring that the wishes of the deceased are respected in compliance with the conditions laid down in the applicable legislation.
+You can exercise this right directly through the Jumbo Privacy App or by contacting the support team directly through the Jumbo App.
+If you are unable to complete your requests through the Jumbo App or such services, you can send a detailed message explaining your request to us at : privacy@jumboprivacy.com.
+
+Section 4.
+Changes to the privacy policy
+
+Any changes we make to the Privacy Policy in the future will be posted on this page and, when mandatory, notified to you directly in the Jumbo Privacy App.
+
+Section 5.
+Liability and Disclaimers
+
+Limits on liability and disclaimers applicable to our privacy policy are provided under our TOS.
+
+Section 6.
+Information for European users
+
+Pursuant to Article 27 of the General Data Protection Regulation of the European Union, we have appointed our Chief Privacy Officer, Zoe Vilain, as our European Representative, which office is located 86 rue notre Dame de Nazareth, 75003 Paris, France.
+We also want to inform you that you are entitled to lodge any complaint with regards to privacy matters in relation with our activity to your local data supervisory authority.
+As our EU representant is in France, any complaint will be transferred to the French supervisory authority which is the CNIL.
+
+Section 7.
+Contact Us
+
+If you have any questions or concerns regarding this Privacy Policy, please send a detailed message to: privacy@jumboprivacy.com.
+Thanks for reading!
+Pierre Valade
+Chief Executive Officer
+
+Privacy Policy
+Terms of Use
+Contact
+ <img src="https://api.simpleanalytics.io/hello.gif" alt=""&gt.
+
+      

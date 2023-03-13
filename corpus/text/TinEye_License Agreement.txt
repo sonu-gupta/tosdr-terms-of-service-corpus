@@ -1,0 +1,186 @@
+
+         TinEye Services License Agreement for MatchEngine, MobileEngine, WineEngine and MulticolorEngine This agreement (the "Agreement") for the license of IdÃ©eâs TinEye Services (the "Services") is made and entered into by and between IdÃ©e Inc.
+("IdÃ©e") and you or the entity you represent ("Customer", "you").
+This Agreement governs Customer's access to and use of the Services.
+1.
+License. Subject to this Agreement, and in consideration of Customer's payment of Fees, IdÃ©e grants to Customer, and Customer agrees to comply with, a non-sublicensable, non-transferable, non-exclusive, terminable, limited license to use the Services to develop, test, support and allow access to Customer Implementation.
+2.
+Modifications.
+
+2.1 To the Services. IdÃ©e may make commercially reasonable changes to the Services from time to time.
+If IdÃ©e makes a material change to the Services, IdÃ©e will inform Customer by email.
+2.2 To This Agreement. IdÃ©e reserves the right, from time to time, with or without notice to you, to change this Agreement in our sole and absolute discretion.
+The most current version of this Agreement can be reviewed at this https://tineye.com/services_terms URL at any time.
+The most current version of the Agreement will supersede all previous versions.
+By using the Services after changes are made to this Agreement, Customer agrees to be bound by such changes.
+Customerâs only recourse if Customer disagrees with the Agreement, or changes to it, is to discontinue Customerâs use of the Services.
+If IdÃ©e changes this Agreement and Customer does not agree with the change and wishes to terminate its use of the Services, please notify IdÃ©e and IdÃ©e will provide a pro rata refund of the unearned Fees actually paid by Customer applicable to the period following termination of such Services.
+3.
+Restrictions.
+
+3.1 License Restrictions. Unless IdÃ©e specifically agrees in writing, Customer will not attempt to reverse engineer the Services or any component, or attempt to create a substitute, or a similar service through use of, or access to the Services.
+3.2.
+Access Codes. Access Codes are required, must be used according to the Documentation, and will be forwarded to Customer electronically.
+IdÃ©e may not respond to requests with an invalid Access Code.
+Customer's failure to use Access Codes provided by IdÃ©e will relieve IdÃ©e of its obligations to provide support services under Section 7.1.
+Customer may only access its account with the Access Codes issued to Customer by IdÃ©e.
+Customer may not sell, transfer, sublicense or otherwise disclose its Access Codes to any other party.
+Customer may not modify or attempt to circumvent the Access Codes.
+Customer is responsible for maintaining the secrecy and security of its Access Codes.
+Customer is fully responsible for all activities that occur using its Access Codes, regardless of whether such activities are undertaken by Customer or a third party.
+4.
+Acceptable Use. In your use of the Services, you must not:
+a.
+use the Services for any illegal, unauthorized or otherwise improper purposes, or in any manner which would violate this Agreement, or breach any laws or regulations, or violate any rights of third parties;
+b.
+remove any legal, copyright, trademark, watermark or other proprietary rights notices contained in or on materials Customer receives or accesses pursuant to this Agreement;
+c.
+sell, lease, share, transfer, sublicense or fail to protect the confidentiality of the Services or Customerâs Access Codes;
+d.
+copy, adapt, reformat, reverse-engineer, disassemble, decompile, translate or otherwise modify the Services or Customerâs Access Codes;
+e.
+interfere with or disrupt IdÃ©e services or servers or networks connected to IdÃ©e services, or disobey any requirements, procedures, policies or regulations of networks connected to IdÃ©e services;
+f.
+transmit any viruses, worms, defects, Trojan horses, or any items of a destructive nature through Customerâs use of the Services;
+g.
+use the Services in an application that contains or displays or promotes any of the following: spyware, adware, or other malicious programs or code;
+h.
+threaten, violate, or encourage the violation of, the legal rights of others.
+or
+i.
+use the Services for any unlawful, invasive, infringing, defamatory, or fraudulent purpose.
+5.
+Customer Implementation. Customer represents and warrants to IdÃ©e that, excluding the Services and any other property provided by IdÃ©e, Customer has the right to use, reproduce, transmit, copy, publicly display, publicly perform, and distribute the Customer Implementation, and that use by Customerâs users of the Customer Implementation shall not violate the rights of any third party (e.g., copyright, patent, trademark, or other proprietary right of any person or entity), or any applicable regulation or law.
+6.
+Ownership and Publicity.
+
+6.1 Generally. Except as expressly set forth herein, this Agreement does not grant either party any rights, implied or otherwise, to the other's content or any of the other's Intellectual Property Rights.
+Intellectual Property Rights in and to the content accessed through the Services are the property of the applicable content owner and may be protected by applicable laws.
+6.2 Attribution. Any public web page or application page that displays image results obtained via the Services must include text that reads "Powered by TinEye" and maintain an operable hypertext link to http://tineye.com/ featured in a reasonably prominent manner.
+Any definition or description of search services using the Services must include text that reads "Powered by TinEye" and maintain an operable hypertext link to http://tineye.com/.
+Customer will comply with reasonable requests made by IdÃ©e otherwise concerning attribution.
+6.3 Publicity. IdÃ©e may publicly refer to Customer, orally or in writing, as a licensee hereunder and may publish Customerâs name and/or logo (with or without a link to Customer's website or Customer Implementation) on IdÃ©eâs website, in press releases, and in promotional materials, without Customerâs prior consent.
+7.
+Service Level. IdÃ©e will use commercially reasonable efforts to ensure that your Services are operating at the uptime rate specific to your Service plan level for each calendar month.
+Uptime is the number of hours in a particular calendar month, less planned downtime of a maximum of 4 hours per calendar month.
+Planned downtime will occur only between Fridays at 10 p.m.
+and Mondays at 5 a.m.
+Eastern Time.
+IdÃ©e will use this planned downtime to implement any changes to the Services and will use reasonable precautions to ensure that the changes, once implemented, will not disrupt the Services.
+IdÃ©e will provide 24 hours prior notice of planned downtime via email.
+If the monthly uptime of your Service drops below the level for your Service plan, you are eligible to receive a credit for five times the pro rata value of the outage period.
+
+8.
+Support. Support means the ability to make email based requests for technical support assistance concerning the use of the Services.
+IdÃ©e provides support for the Service only.
+Any integration of the Service with Customerâs systems is Customerâs responsibility.
+IdÃ©e will use commercially reasonable efforts to provide support to Customer.
+Customer is entitled to phone support only if Customer's Service plan level includes it.
+9.
+Delivery. IdÃ©e will use commercially reasonable efforts to provide Customer access to Service within 1 business day of signup for the Service.
+10.
+Confidentiality.
+
+10.1 Obligations. Each party will: (a) protect the other party's Confidential Information with the same standard of care it uses to protect its own Confidential Information, but in no event less than reasonable care.
+and (b) not disclose the Confidential Information, except to Affiliates, employees and agents who need to know it and who have agreed in writing to keep it confidential.
+Each party (and any Affiliates, employees and agents to whom it has disclosed Confidential Information) may use Confidential Information only to exercise rights and fulfill obligations under this Agreement, while using reasonable care to protect the Confidential Information.
+Each party is responsible for any actions of its Affiliates, employees and agents in violation of this Section.
+10.2 Exceptions. Confidential Information does not include information that: (a) the recipient already knew.
+(b) becomes public through no fault of the recipient.
+(c) was independently developed by the recipient.
+or (d) was rightfully given to the recipient by another party.
+10.3 Required Disclosure. Each party may disclose the other party's Confidential Information when required by law, but only after it, if legally permissible: (a) uses commercially reasonable efforts to notify the other party.
+and (b) gives the other party the chance to challenge the disclosure.
+11.
+Term and Termination.
+
+11.1 Agreement Term. This Agreement will remain in effect for the Term.
+11.2 License Term. Subject to Customer's payment of Fees, the term for the license granted in this Agreement will begin on the Shipment Date and will continue for the License Term, unless terminated earlier as set forth below.
+11.2.1 Auto-Renewal. At the end of the License Term, the License Term for the Services will automatically renew for consecutive renewal terms of the same duration as the initial Licence Term.
+If Customer does not want the Services to renew, then it must cancel the Service prior to the end of the then-current term.
+This notice of non-renewal will be effective upon the conclusion of the then-current term.
+11.2.2 Revising Rates. IdÃ©e may revise its rates with at least thirty days' prior written notice to Customer (which may be via email), effective for the following License Term.
+11.3 Termination for Breach. Either party may terminate this Agreement if: (i) the other party is in material breach of the Agreement and fails to cure that breach within thirty days after receipt of written notice.
+(ii) the other party ceases its business operations or becomes subject to insolvency proceedings and the proceedings are not dismissed within ninety days.
+or (iii) the other party is in material breach of this Agreement more than two times notwithstanding any cure of such breaches.
+11.4 Termination by IdÃ©e. IdÃ©e has the right to terminate this Agreement on thirty daysâ prior written notice if it determines in its sole discretion to cease generally offering the Services.
+11.5 Effect of Termination.
+
+a.
+Termination for IdÃ©e's Breach. If the Agreement is terminated for IdÃ©e's breach, the licenses granted herein regarding Customer's use of the Services may, at Customer's option, continue for the remainder of the License Term, subject to Customer's continued compliance with this Agreement.
+b.
+Termination for Customer's Breach. If the Agreement is terminated for Customers breach, then: (i) the License Term, and all other rights and licenses granted by one party to the other, and the Services, will cease immediately.
+(ii) upon request, each party will promptly return or destroy all Confidential Information of the other party.
+(iii) all payments owed by Customer to IdÃ©e are immediately due.
+and (iv) Customer must delete any data it received from IdÃ©e as part of receiving the Services.
+c.
+Termination by IdÃ©e. Upon a termination by IdÃ©e under Section 11.4 this Agreement (i) the License Term, and all other rights and licenses granted by one party to the other, and the Services will cease upon the effective date of termination.
+(ii) upon request, each party will promptly return or destroy all Confidential Information of the other party.
+(iii) IdÃ©e will refund to Customer the pro rata portion of any Fees for the terminated portion of the License Term.
+and (iv) Customer must delete any data it received from IdÃ©e as part of receiving the Services.
+d.
+Expiration of the License Term. On the expiration of the License Term, the Services will cease functioning and this Agreement will terminate.
+11.6 Refund Policy. IdÃ©e will refund your unused fees only if IdÃ©e terminates its services to you without cause, before the end of a billing period for which you have paid.
+There is no other circumstances in which you will be entitled to a refund from IdÃ©e.
+You can however cancel your services at any time.
+12.
+Disclaimer. EXCEPT AS EXPRESSLY PROVIDED FOR HEREIN, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IDÃE, ITS LICENSORS, AND THEIR SUPPLIERS DO NOT MAKE ANY OTHER REPRESENTATION OR WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR USE AND NON-INFRINGEMENT.
+IDÃE, ITS LICENSORS, AND THEIR SUPPLIERS DO NOT WARRANT THAT THE OPERATION OF THE SERVICES WILL BE ERROR-FREE OR UNINTERRUPTED.
+THE SERVICES ARE NOT DESIGNED OR INTENDED FOR HIGH RISK ACTIVITIES.
+13.
+Limitation of Liability.
+
+13.1 Limitation on Indirect Liability. NEITHER PARTY, NOR ITS LICENSORS OR SUPPLIERS, WILL BE LIABLE UNDER THIS AGREEMENT FOR LOST REVENUES OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, EVEN IF THE PARTY KNEW OR SHOULD HAVE KNOWN THAT SUCH DAMAGES WERE POSSIBLE AND EVEN IF DIRECT DAMAGES DO NOT SATISFY A REMEDY.
+13.2 Limitation on Amount of Liability. OTHER THAN CUSTOMERâS LIABILITY FOR FEES DUE, NEITHER PARTY, NOR ITS LICENSORS OR SUPPLIERS, MAY BE HELD LIABLE UNDER THIS AGREEMENT FOR MORE THAN THE AMOUNT PAID BY CUSTOMER TO IDÃE DURING THE TWELVE MONTHS PRIOR TO THE EVENT GIVING RISE TO LIABILITY.
+13.3 Exceptions to Limitations. These limitations of liability do not apply to breaches of confidentiality obligations, or violations of a party's Intellectual Property Rights by the other party.
+14.
+Miscellaneous.
+
+14.1 Notices. Unless specified otherwise herein, (a) all notices must be in writing and addressed to the attention of the other partyâs primary point of contact and (b) notice will be deemed given: (i) when verified by written receipt if sent by personal courier, overnight courier, or when received if sent by mail without verification of receipt.
+or (ii) when verified by automated receipt or electronic logs if sent by facsimile or email.
+14.2 Assignment. Neither party may assign or transfer any part of this Agreement without the written consent of the other party, except to an Affiliate or to a purchaser of all or substantially all of the assets of the party, but only if: (a) the assignee agrees to be bound by the terms of this agreement.
+and (b) the assigning party remains liable for obligations incurred under the Agreement prior to the assignment.
+Any other attempt to transfer or assign is void.
+14.3 Force Majeure. Neither party will be liable for inadequate performance to the extent caused by a condition (for example, natural disaster, act of war or terrorism, riot, labor condition, governmental action, and Internet disturbance) that was beyond the party's reasonable control.
+14.4 No Agency. The parties are independent contractors, and this Agreement does not create an agency, partnership or joint venture.
+14.5 No Waiver. Failure to enforce any provision of this Agreement will not constitute a waiver.
+14.6 Severability. If any provision of this Agreement is found unenforceable, it and any related provisions will be interpreted to best accomplish the unenforceable provision's essential purpose.
+14.7 No Third-Party Beneficiaries. There are no third-party beneficiaries to this Agreement.
+14.8 Equitable Relief. Nothing in this Agreement will limit either party's ability to seek equitable relief.
+14.9 Governing Law and Jurisdiction. This Agreement is governed by the laws of the Province of Ontario and the federal laws of Canada applicable thereto.
+For any dispute relating to this Agreement, the parties consent to personal jurisdiction in, and the exclusive venue of, the Courts of the Province of Ontario.
+14.10 Survival. Those provisions that by their nature should survive termination of this Agreement, will survive termination of this Agreement.
+14.11 Counterparts. The parties may execute this Agreement in counterparts, including facsimile, PDF, and other electronic copies, which taken together will constitute one instrument.
+14.12 Entire Agreement. This Agreement is the parties' entire agreement relating to its subject and supersedes any prior or contemporaneous agreements on that subject.
+It consists of the body of this Agreement, and the terms located at a URL and referenced in this Agreement.
+If there is a conflict between the documents that make up this Agreement, the documents will control in the following order: the body of this Agreement, and the terms located at any URL and referenced in this Agreement.
+If Customer delivers to IdÃ©e a purchase order, any pre-printed or "boilerplate" terms and conditions of such purchase order shall be of no force or effect between the parties.
+15.
+Definitions.
+
+
+"Affiliate" means any entity that directly or indirectly controls, is controlled by, or is under common control with such party.
+
+"Access Codes" means password, security keys, tokens, non-public URLs and/or other credentials or authentication approaches such as IP address based filtering assigned to Customer by IdÃ©e that is uniquely associated with Customer's IdÃ©e account.
+
+"Confidential Information" means information disclosed by a party to the other party under this agreement that is marked as confidential or would normally be considered confidential under the circumstances.
+Customerâs Confidential Information includes the images it provides to IdÃ©e in the normal operation of the Services.
+
+"Customer Implementation" means an internal or external software application or website that incorporates the Services.
+
+"Documentation" means the IdÃ©e proprietary documentation in the form generally made available by IdÃ©e to its customers for use with the Services.
+
+"Fees" means the applicable fees for Customer's plan level set forth on the TinEye Services website (http://services.tineye.com/) and any applicable Taxes.
+
+"Intellectual Property Rights" means current and future worldwide rights under patent law, copyright law, trade secret law, trademark law, moral rights law, and other similar rights.
+
+"License Term" means the period of time during which Customer is authorized to use the Services.
+The Licensed Term is monthly unless agreed otherwise in a custom Services plan.
+
+"Services" means the IdÃ©e TinEye service, and your use of the Services in the Customer Implementation.
+
+"Start Date" means the date upon which IdÃ©e provides Customer the Access Codes for the Services.
+
+"Taxes" means any duties, customs fees, or taxes (other than IdÃ©e's income tax) associated with the sale of the Services, including any related penalties or interest.
+
+"Term" means the term of the Agreement, which will begin on the Start Date and continue until the earlier of: (i) the end of the last License Term or (ii) the Agreement is terminated as set forth herein.

@@ -1,0 +1,589 @@
+
+         Back to Top Back to Top Skip to main content logo 
+ Support 
+ Support Portal Submit a case ticket 
+ Splunk Answers Ask Splunk experts questions 
+ Support Programs Find support service offerings 
+ System Status View detailed status 
+ Contact Us Contact our customer support 
+ Product Security Updates Keep your data secure 
+
+
+ Languages 
+ Deutsch 
+ Francais 
+ æ¥æ¬èª 
+ íêµ­ì´ 
+ ç®ä½ä¸­æ 
+ ç¹é«ä¸­æ 
+
+
+ Click User Account 
+ Log In 
+ Sign Up 
+
+
+
+
+ logo 
+ Products Product Overview A data platform built for expansive data access, powerful analytics and automation MORE FROM SPLUNK 
+ Pricing 
+ Free Trials &amp.
+Downloads 
+ Platform 
+ Splunk Cloud Platform Cloud-powered insights for petabyte-scale data analytics across the hybrid cloud 
+ Splunk Enterprise Search, analysis and visualization for actionable insights from all of your data 
+ Security 
+ Splunk Enterprise Security Analytics-driven SIEM to quickly detect and respond to threats 
+ Splunk SOAR Security orchestration, automation and response to supercharge your SOC 
+ Observability 
+ Splunk Infrastructure Monitoring Instant visibility and accurate alerts for improved hybrid cloud performance 
+ Splunk Application Performance Monitoring Full-fidelity tracing and always-on profiling to enhance app performance 
+ Splunk IT Service Intelligence AIOps, incident intelligence and full visibility to ensure service performance 
+ View All Products 
+ Solutions Cloud Transformation Transform your business in the cloud with Splunk.
+Business Resilience Build resilience to meet todayâs unpredictable business challenges.
+Digital Customer Experience Deliver the innovative and seamless experiences your customers expect.
+by Use Case 
+ Advanced Threat Detection 
+ Application Modernization 
+ Cloud Migration 
+ Incident Investigation &amp.
+Forensics 
+ IT Modernization 
+ SOC Automation &amp.
+Orchestration 
+ BY TECHNOLOGY 
+ AWS 
+ Azure 
+ GCP 
+ Kubernetes 
+ OpenTelemetry 
+ SAP 
+ BY INDUSTRY 
+ Aerospace &amp.
+Defense 
+ Energy &amp.
+Utilities 
+ Financial Services 
+ Healthcare 
+ Higher Education 
+ Public Sector 
+ View All Solutions 
+ Why Splunk? Why Splunk? Bring data to every question, decision and action across your organization.
+Learn More 
+ Customer Stories See why organizations around the world trust Splunk.
+
+ Partners Accelerate value with our powerful partner ecosystem.
+
+
+
+ Diversity, Equity &amp.
+Inclusion Learn how we support change for customers and communities.
+
+
+
+ Resources Resources Explore e-books, white papers and more.
+Events Join us at an event near you.
+Blogs See what Splunk is doing.
+GET STARTED 
+ Splunk Lantern Splunk experts provide clear and actionable guidance.
+
+ Customer Success Customer success starts with data success.
+
+ Splunk Cloud Platform Migration Plan your migration with helpful Splunk resources.
+
+ Get Started With Splunk Learn how to use Splunk.
+
+ Data Insider Read focused primers on disruptive technology topics.
+
+ become an expert 
+ Splunk Training &amp.
+Certification Become a certified Splunk Expert.
+
+ Documentation Find answers about how to use Splunk.
+
+ User Groups Meet Splunk enthusiasts in your area.
+
+ Community Share knowledge and inspiration.
+
+ SURGe Access timely security research and guidance.
+
+ Expand &amp.
+optimize 
+ Services &amp.
+Support Itâs easy to get the help you need.
+
+ Splunkbase See Splunkâs 1,000+ Apps and Add-ons.
+
+ Splunk Dev Create your own Splunk Apps.
+
+
+
+
+
+ Support 
+ Support Portal Submit a case ticket 
+ Splunk Answers Ask Splunk experts questions 
+ Support Programs Find support service offerings 
+ System Status View detailed status 
+ Contact Us Contact our customer support 
+ Product Security Updates Keep your data secure 
+
+
+ Click Search Help 
+ Languages 
+ Deutsch 
+ Francais 
+ æ¥æ¬èª 
+ íêµ­ì´ 
+ ç®ä½ä¸­æ 
+ ç¹é«ä¸­æ 
+
+
+ Click User Account 
+ Log In 
+ Sign Up 
+
+
+ Free Splunk 
+
+
+ Click Search Help 
+ Free Splunk 
+ logo Free Splunk Log In | Sign Up  Products Product Overview A data platform built for expansive data access, powerful analytics and automation MORE FROM SPLUNK 
+ Pricing 
+ Free Trials &amp.
+Downloads 
+ Platform 
+ Splunk Cloud Platform Cloud-powered insights for petabyte-scale data analytics across the hybrid cloud 
+ Splunk Enterprise Search, analysis and visualization for actionable insights from all of your data 
+ Security 
+ Splunk Enterprise Security Analytics-driven SIEM to quickly detect and respond to threats 
+ Splunk SOAR Security orchestration, automation and response to supercharge your SOC 
+ Observability 
+ Splunk Infrastructure Monitoring Instant visibility and accurate alerts for improved hybrid cloud performance 
+ Splunk Application Performance Monitoring Full-fidelity tracing and always-on profiling to enhance app performance 
+ Splunk IT Service Intelligence AIOps, incident intelligence and full visibility to ensure service performance 
+ View All Products 
+ Solutions Cloud Transformation Transform your business in the cloud with Splunk.
+Business Resilience Build resilience to meet todayâs unpredictable business challenges.
+Digital Customer Experience Deliver the innovative and seamless experiences your customers expect.
+by Use Case 
+ Advanced Threat Detection 
+ Application Modernization 
+ Cloud Migration 
+ Incident Investigation &amp.
+Forensics 
+ IT Modernization 
+ SOC Automation &amp.
+Orchestration 
+ BY TECHNOLOGY 
+ AWS 
+ Azure 
+ GCP 
+ Kubernetes 
+ OpenTelemetry 
+ SAP 
+ BY INDUSTRY 
+ Aerospace &amp.
+Defense 
+ Energy &amp.
+Utilities 
+ Financial Services 
+ Healthcare 
+ Higher Education 
+ Public Sector 
+ View All Solutions 
+ Why Splunk? Why Splunk? Bring data to every question, decision and action across your organization.
+Learn More 
+ Customer Stories See why organizations around the world trust Splunk.
+
+ Partners Accelerate value with our powerful partner ecosystem.
+
+
+
+ Diversity, Equity &amp.
+Inclusion Learn how we support change for customers and communities.
+
+
+
+ Resources Resources Explore e-books, white papers and more.
+Events Join us at an event near you.
+Blogs See what Splunk is doing.
+GET STARTED 
+ Splunk Lantern Splunk experts provide clear and actionable guidance.
+
+ Customer Success Customer success starts with data success.
+
+ Splunk Cloud Platform Migration Plan your migration with helpful Splunk resources.
+
+ Get Started With Splunk Learn how to use Splunk.
+
+ Data Insider Read focused primers on disruptive technology topics.
+
+ become an expert 
+ Splunk Training &amp.
+Certification Become a certified Splunk Expert.
+
+ Documentation Find answers about how to use Splunk.
+
+ User Groups Meet Splunk enthusiasts in your area.
+
+ Community Share knowledge and inspiration.
+
+ SURGe Access timely security research and guidance.
+
+ Expand &amp.
+optimize 
+ Services &amp.
+Support Itâs easy to get the help you need.
+
+ Splunkbase See Splunkâs 1,000+ Apps and Add-ons.
+
+ Splunk Dev Create your own Splunk Apps.
+
+
+
+ Support 
+ Support Portal Submit a case ticket 
+ Splunk Answers Ask Splunk experts questions 
+ Support Programs Find support service offerings 
+ System Status View detailed status 
+ Contact Us Contact our customer support 
+ Product Security Updates Keep your data secure 
+
+ Languages Languages 
+ Deutsch 
+ Francais 
+ æ¥æ¬èª 
+ íêµ­ì´ 
+ ç®ä½ä¸­æ 
+ ç¹é«ä¸­æ 
+
+
+ Pricing 
+ Free Trials &amp.
+Downloads 
+ Search Help  
+Splunk Websites Terms and Conditions of Use
+LAST UPDATED: April 1, 2021
+
+Splunk Inc., a Delaware corporation with a principal place of business at 270 Brannan Street, San Francisco, California, and its affiliates and subsidiaries (collectively, âSplunkâ) makes information, products, and services available on this website (the âSiteâ), subject to the following terms and conditions of use (âTermsâ).
+Before using this Site, please read these Terms carefully.
+Throughout these Terms, âweâ, âusâ and âourâ refer to Splunk, and âyouâ or âyourâ refer to you personally (i.e., the individual who reads and agrees to be bound by these Terms), and, if you access this Site on behalf of a corporation or other legal entity, you and such corporation or other legal entity on whose behalf you access the Site.
+If you have entered into another agreement with us concerning specific services or products, then the terms of that agreement control where it conflicts with these Terms.
+
+1.
+ACCEPTANCE OF TERMS
+
+By using the Site, you agree to be bound by these Terms.
+If you do not agree to these Terms, please do not use the Site.
+Splunk provides the information, products and services on the Site to you, conditioned upon your acceptance, without modification, of these Terms contained herein.
+Your use of the Site constitutes your agreement with such Terms.
+
+We reserve the right to change these Terms, in whole or in part, in our own discretion at any time.
+You can determine when these Terms were last revised by referring to the âLAST UPDATEDâ legend at the top of these Terms.
+Such modifications shall be effective immediately upon the linking of modified Terms to the Site, and, if you possess an account through the Site for which you have provided an email address (âAccountâ), by communicating the modifications to you either (i) when you log in to the Site or (ii) by sending the modifications to the email address that you have provided to us.
+You agree to comply with, and be bound by, any such modifications (i) by continuing to use or access the Site after modified Terms are posted to the Site or (ii) if you possess an Account, by not requesting to terminate your Account within seven (7) days after receiving a notice of modifications as described above.
+
+In addition, your use of a particular Splunk service may be subject to specific guidelines or rules (âService-specific Rulesâ) posted from time to-time and incorporated by this reference into these Terms.
+If you do not accept our Terms or any Service-specific Rules, you should refrain from accessing the Site and its services.
+If we change any Service-specific Rules, we will post the changed version on the location where those Service-specific Rules normally appear, reference the change on the primary page for that service and include a link to the previous version of the terms or rules.
+Splunk reserves the right at any time and from time-to-time to modify or discontinue, temporarily or permanently, the Site or any service (or any part thereof).
+Splunk shall not be liable to any user or other third party for any such modification, suspension or discontinuance except as expressly provided herein.
+
+2.
+U.S.-BASED WEBSITE
+
+The Site is controlled and operated by Splunk from the United States, and, except as expressly set forth herein, is not intended to subject Splunk to the laws or jurisdiction of any state, country or territory other than that of the United States.
+Splunk does not represent or warrant that the Site or any part thereof is appropriate or available for use in any particular jurisdiction other than the United States.
+In choosing to access the Site, you do so on your own initiative and at your own risk, and are responsible for complying with all local laws, rules and regulations.
+You are also subject to U.S.
+export controls and are responsible for any violations of such controls, including any U.S.
+embargoes or other federal rules and regulations restricting exports.
+Splunk may limit the Siteâs availability, in whole or in part, to any person, geographic area or jurisdiction Splunk chooses, at any time and in Splunkâs sole discretion.
+By using the Site, you hereby certify that: (a) you are not: (i) a citizen or permanent resident of any country on which the United States has embargoed goods, technology and/or services (e.g., Cuba, Iran, North Korea, Sudan, Syria, or Crimea), or (ii) on any of the relevant U.S.
+Government Lists of prohibited or restricted persons, including but not limited to the Treasury Department's List of Specially Designated Nationals, and the Commerce Department's List of Denied Persons or Entity List.
+and (b) your use of Splunk products and services is in compliance with the applicable U.S.
+export control and economic sanctions laws and regulations.
+For further information on the export controls and sanctions laws see, http://www.bis.doc.gov/index.htm and http://www.treasury.gov/about/organizational-structure/offices/Pages/Office-of-Foreign-Assets-Control.aspx
+
+3.
+REGISTRATION AND USER INFORMATION
+
+You may be required to register with Splunk in order to access certain areas of the Site.
+Your submission of registration and other personal data through the Site is governed by Splunkâs Privacy Policy (the âPrivacy Policyâ) and is hereby incorporated into these Terms by this reference.
+By accepting these Terms, you agree to our collection, use, and disclosure of your information as described in the Privacy Policy.
+In the course of registration, you must: (a) provide true, accurate, current and complete information on the registration form and (b) maintain and promptly update such registration information as necessary.
+If, after investigation, we have reasonable grounds to suspect that your information is untrue, inaccurate, not current or incomplete, we may suspend or terminate your account and prohibit any and all current or future use by you of the Site (or any portion thereof).
+You may not use a user name (or email address) that is already being used by someone else.
+that may be construed as impersonating another person.
+that belongs to another person.
+that violates the intellectual property or other rights of any person.
+that is offensive.
+or that Splunk rejects for any other reason in its sole discretion.
+Your user name and password are for your personal use only, and not for use by any other person.
+You are responsible for maintaining the confidentiality of any password you may use to access the Site, and agree not to lend or transfer your password or user name, or lend or otherwise transfer your use of or access to the Site, to any third party.
+You are fully responsible for all interactions with the Site that occur in connection with your password or user name.
+You agree to notify Splunk immediately of any unauthorized use of your password or user name or any other breach of security related to your account or the Site, and to log off/exit from your account with the Site (if applicable) at the end of each session.
+Splunk is not liable for any loss or damage arising from your failure to comply with this Section, including any loss or damage arising from your failure to (a) immediately notify Splunk of any unauthorized use of your password or account or any other breach of security and (b) ensure that you log off/exit from your account at the end of each session.
+
+4.
+PROPRIETARY RIGHTS.
+LICENSE GRANTS
+
+4.1.
+Software.
+Any software that is made available to access or download by or through this Site (âSoftwareâ) is the copyrighted work of Splunk, its suppliers and/or its licensors.
+Your rights to access, download, and use any Software made available for download or access from the Site will be subject to your agreement to the terms and conditions of the software license agreement or other service agreement identified on the Site and/or in the Software (each, a âLicense Agreementâ).
+You may not install or use any Software that is accompanied by or includes a License Agreement unless you have agreed to the applicable License Agreement.
+Except to the extent expressly permitted in any applicable License Agreement, or expressly authorized under applicable law overriding any of the following restrictions, you agree that you will not sell, lease, lend, convey, transmit, modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or attempt to derive source code from the Software.
+Any reproduction, redistribution or other use or exploitation of the Software not in accordance with the License Agreement and/or these Terms is expressly prohibited by law, and may result in civil and criminal penalties.
+
+4.2.
+Content.
+Unless otherwise specifically noted, the information, content, data, text, graphics, images, videos, documents and other materials made available through the Site (âContentâ) are and shall remain the property of Splunk, its licensors and/or suppliers, and are protected by copyright, trademark, patent, and/or other proprietary rights and laws.
+Subject to your compliance with these Terms, solely for so long as you are permitted by Splunk to access and use the Site, and provided that you keep intact all copyright and other proprietary notices, you may (a) view any Content on any single computer solely for personal, informational, non-commercial purposes, and (b) download and print one (1) copy of materials that Splunk specifically makes available for downloading (such as white papers or user documentation) from this Site solely for personal, informational, non-commercial purposes, provided that such Content may not be modified or altered in any way.
+Unless otherwise specifically permitted for any particular Content, you may not use, download, upload, copy, print, display, perform, reproduce, publish, license, post, transmit, rent, lease, modify, loan, sell, distribute, or create derivative works based on, the Site or any Content, in whole or in part, without the express prior written authorization of Splunk.
+
+4.3.
+Community Content.
+Your rights to access, use, copy and distribute any user- and community-generated information or content (including other usersâ Contributions, as defined below, or third-party apps or content made available on splunkbase.splunk.com, dev.splunk.com or community.splunk.com, collectively âCommunity Contentâ) is subject to the relevant terms and conditions or license agreement attached to such Community Content.
+If there are no specific terms and conditions or license agreement attached to such Community Content, the licenses and restrictions under Section 4.2 âContentâ will apply.
+
+4.4.
+Proprietary Rights.
+Elements of the Site are protected by copyright, trade dress, trademark, unfair competition, and/or other laws and may not be copied or imitated in whole or in part.
+No logo, graphic, sound, or image from the Site may be copied or retransmitted unless expressly permitted in writing by Splunk.
+Nothing contained on the Site should be construed as granting, by implication, estoppel or otherwise, any license or right to use any of Splunkâs or its suppliersâ trade names, trademarks or service marks without Splunkâs express prior written consent.
+âSplunkâ and other Splunk logos, trademarks, service marks, and product and service names are the intellectual property of Splunk.
+
+5.
+INFORMATION SUBMITTED THROUGH THE SITE
+
+Unless otherwise specifically agreed to by you and Splunk, by uploading, emailing, posting, publishing or otherwise transmitting information, sample data, event types, tags, comments, suggestions, feedback, content or other materials to the Site or Splunk (each a âContributionâ), you hereby acknowledge that such Contribution is non-confidential and grant (or warrant that the owner of such rights has expressly granted) to Splunk a perpetual, irrevocable, worldwide, non-exclusive, sublicensable, fully paid-up and royalty-free license to use, make, have made, offer for sale, sell, copy, distribute, perform, display (whether publicly or otherwise), modify, adapt, publish and transmit such Contributions in any form, medium, or technology now known or later developed, and to grant to others rights to do any of the foregoing.
+In addition, you warrant that all so-called moral rights in the content have been waived.
+For each Contribution, you represent and warrant that you have all rights necessary for you to grant the licenses granted in this Section, and that such Contribution, and your provision thereof to and through the Site, comply with all applicable laws, rules and regulations.
+
+Splunk will not pre-screen or review Contributions, but Splunk reserves the right to refuse or delete any Contributions in its discretion.
+You acknowledge and agree that Splunk reserves the right (but has no obligation) to do one or more of the following in its discretion, without notice or attribution to you: (i) monitor Contributions as well as your access to the Site.
+(ii) alter, remove, or refuse to post or allow to be posted any Contribution.
+and/or (iii) disclose any Contributions, and the circumstances surrounding their transmission, to any third party in order to operate the Site, in order to protect Splunk, its suppliers or licensees and their respective employees, officers, directors, shareholders, affiliates, agents, representatives, and the Siteâs users and visitors.
+to comply with legal obligations or governmental requests.
+to enforce these Terms.
+or for any other reason or purpose.
+Splunk disclaims any responsibility for the Contributions displayed on its Site.
+Splunk assumes no responsibility for the timeliness, deletion, mis-delivery or failure to store or publish any Contributions or other user information or personalization settings.
+
+Splunk does not control the Community Content, identified in section 4.3 (
+âCommunity Contentâ
+) posted on the Site and, as such, does not guarantee the accuracy, integrity or quality of such Community Content.
+Under no circumstances will Splunk be liable in any way for any Community Content, including, but not limited to, liability for any errors or omissions in any content or for any loss or damage of any kind incurred as a result of the use of such content.
+By using the Site, you may be exposed to Community Content that is offensive, indecent or objectionable.
+You must evaluate, and bear all risks associated with, the use of such content, including any reliance on the accuracy, completeness, or usefulness of such content.
+
+6.
+PURCHASES
+
+If you wish to purchase our products and services, for your convenience, we may provide links on the Site to a web store or e-commerce platform where you can make such purchases.
+Please be aware that the web store or e-commerce platform may be hosted, operated or managed by a third party, and may be governed by such third-partyâs website terms and conditions and privacy policy.
+We encourage you to read carefully those third-party terms and conditions and privacy policy prior to making any purchases.
+These Terms do not govern, and we are not responsible or liable for, your interaction with such third-party managed web store or e-commerce platform.
+
+7.
+RULES OF CONDUCT
+
+While using the Site you will comply with all applicable laws, rules and regulations.
+In addition, Splunk expects you to respect the rights and dignity of others.
+Your use of the Site is conditioned on your compliance with the rules of conduct set forth in this Section.
+any failure to comply may also result in termination of your access to the Site pursuant to Section 13 
+âTerminationâ
+.
+You agree that you will not:
+
+Post, transmit, or otherwise make available, through or in connection with the Site:
+Anything that is or may be (a) threatening, harassing, degrading or hateful.
+(b) defamatory.
+(c) fraudulent or tortious.
+(d) obscene, indecent or otherwise objectionable.
+or (e) protected by copyright, trademark or other proprietary right without the express prior written consent of the owner of such right.
+Any material that would give rise to criminal or civil liability or that encourages conduct that constitutes a criminal offense.
+Any virus, worm, Trojan horse or other computer code, file, or program that is harmful or invasive or may or is intended to damage or hijack the operation of any hardware or software.
+Any unsolicited or unauthorized advertising, promotional materials, âjunk mail,â âspam,â âchain letter,â âpyramid schemeâ, âphishingâ, or investment opportunity, or any other form of solicitation.
+Use the Site for any fraudulent or unlawful purpose.
+Harvest or collect personally identifiable information or personal information or personal data (as defined in various data protection regulations such as the General Data Protection Regulation (EU) 2016/679 and the California Consumer Protection Act of 2018 (CCPA)) about other users of the Site.
+Impersonate any person or entity, including any representative of Splunk.
+falsely state or otherwise misrepresent your affiliation with any person or entity.
+or express or imply that Splunk endorses any statement you make.
+Interfere with or disrupt the operation of the Site or the servers or networks used to make the Site available, including disrupting or threatening the integrity or security of the Site.
+or violate any requirements, procedures, policies or regulations of such networks.
+Restrict, disrupt, interfere, or inhibit any other person from using the Site (including by hacking or defacing any portion of the Site, threatening, intimidating, or harassing others).
+Use the Site to advertise or offer to sell or buy any goods or services without Splunkâs express prior written consent.
+Reproduce, duplicate, copy, sell, resell or otherwise exploit for any commercial purposes, any portion of, use of, or access to the Site (including any content, Software and other materials available through the Site).
+Modify, adapt, create derivative works of, translate, reverse engineer, decompile or disassemble any portion of the Site (including any content, Software and other materials available through the Site), except as and solely to the extent expressly authorized under applicable law overriding any of these restrictions.
+Remove any copyright, trademark or other proprietary rights notice from the Site or content, Software and other materials originating from the Site.
+Frame or mirror any part of the Site without Splunkâs express prior written consent.
+Create a database by systematically downloading and storing all or any Site content.
+Use any robot, spider, site search/retrieval application or other manual or automatic device to retrieve, index, âscrape,â âdata mineâ or in any way reproduce or circumvent the navigational structure or presentation of the Site, without Splunkâs express prior, written consent.
+
+ 
+8.
+LINKS
+
+You may find links to other websites on the Site.
+Those links will let you leave Splunkâs site.
+Splunk exercises no control whatsoever over such third-party websites and any contents or web-based resources found on those third-party sites and is not responsible or liable for the availability thereof or the content, advertising, products or other materials thereon or any updates or changes thereto.
+Splunk is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement by Splunk of any linked sites.
+Splunk shall not be responsible or liable, directly or indirectly, for any damage or loss incurred or suffered by any user in connection therewith.
+Your access and use of those websites, including your use of any content, information, data, advertising, products, or other materials on or available through such websites, is solely at your own risk is subject to the terms and conditions of use and privacy policy(ies) applicable to such sites and resources.
+The Splunk Privacy Policy is applicable only when you are on the Site.
+Once you choose to be directed to another website, you should read that websiteâs privacy statement before disclosing any personal data.
+
+9.
+DISCLAIMER OF WARRANTIES
+
+YOUR USE OF THE SITE IS AT YOUR OWN RISK.
+THE SITE AND ANY CONTENT, INFORMATION, PRODUCTS OR SERVICES MADE AVAILABLE ON OR THROUGH THE SITE ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTY OF ANY KIND.
+SPLUNK AND/OR ITS SUPPLIERS AND LICENSORS HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH REGARD TO THIS SITE OR ANY INFORMATION, CONTENT, PRODUCTS OR SERVICES CONTAINED THEREIN, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+SPECIFICALLY, SPLUNK MAKES NO WARRANTY THAT (I) THE SITE WILL MEET YOUR REQUIREMENTS, (II) YOUR ACCESS TO THE SITE WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE, (III) THE QUALITY OF ANY CONTENT, PRODUCTS, SERVICES, INFORMATION OR OTHER MATERIAL OBTAINED THROUGH THE SITE WILL MEET YOUR EXPECTATIONS, AND (IV) ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED.
+THE SITE, THE PRODUCTS AND SERVICES AVAILABLE THROUGH THE SITE AND THE INFORMATION, CONTENT, SOFTWARE, DOCUMENTS, AND RELATED GRAPHICS PUBLISHED ON THIS SITE COULD INCLUDE TECHNICAL INACCURACIES, ERRORS, OR OMISSIONS.
+THE DISCLAIMERS OF WARRANTY AND LIMITATIONS OF LIABILITY APPLY, WITHOUT LIMITATION, TO ANY DAMAGES OR INJURY CAUSED BY THE FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DELETION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS, COMMUNICATION LINE FAILURE, THEFT OR DESTRUCTION OR UNAUTHORIZED ACCESS TO, ALTERATION OF OR USE OF ANY ASSET, WHETHER ARISING OUT OF BREACH OF CONTRACT, TORTIOUS BEHAVIOR, NEGLIGENCE OR ANY OTHER COURSE OF ACTION BY SPLUNK.
+
+10.
+LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL SPLUNK AND/OR ITS SUPPLIERS/LICENSORS AND ITS AND THEIR OFFICERS, DIRECTORS, EMPLOYEES OR AGENTS BE LIABLE FOR ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL OR PUNITIVE DAMAGES ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE SITE OR THESE TERMS INCLUDING, WITHOUT LIMITATION, ANY DAMAGES RESULTING FROM LOSS OF USE, DATA, PROFITS OR OTHER INTANGIBLES, USE OF PERSONAL OR CONFIDENTIAL DATA, LOSS OF SECURITY OF INFORMATION YOU HAVE PROVIDED IN CONNECTION WITH YOUR USE OF THE SITE (HOWEVER ARISING, INCLUDING CONTRACT, EQUITY, NEGLIGENCE OR OTHER TORTIOUS ACTION) EVEN IF ADVISED IN ADVANCE OF SUCH DAMAGES OR LOSSES.
+THE MAXIMUM LIABILITY OF SPLUNK AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AND LICENSORS/SUPPLIERS TO YOU OR ANY THIRD PARTIES IN ANY CIRCUMSTANCE SHALL BE THE TOTAL AMOUNT, IF ANY, PAID BY YOU TO SPLUNK TO ACCESS AND USE THE SITE.
+SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+
+11.
+RELEASE
+
+In the event that you have a dispute with one or more Site users, you release Splunk (and our officers, directors, agents and employees) from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way connected with such disputes.
+If you are a California resident, you waive California Civil Code 1542, which says: âA general release does not extend to claims that the creditor or releasing party does not know or suspect to exist in his or her favor at the time of executing the release and that, if known by him or her, would have materially affected his or her settlement with the debtor or released party.â
+
+12.
+INDEMNITY
+
+To the fullest extent permitted by law, you shall indemnify, defend and hold harmless Splunk, its licensors/suppliers and their respective officers, directors, employees and agents from any and all claims (including without limitation any proceeding, investigation or claim by a self-regulatory organization, state or federal securities agency or commission), demands, damages, costs and liabilities, including reasonable attorneysâ fees, arising out of or in connection with: (1) any of your Contributions, including an assertion that the information, content, or other materials or services provided or made available by you or the use thereof, may infringe any copyright, trademark, or other intellectual property rights of any individual or entity, invade the privacy rights of any individual, or misappropriate any individual or entity's trade secret, or contain any libelous, defamatory, disparaging, pornographic, or obscene materials.
+(2) any breach by you of your obligations under these Terms including the Rules of Conduct set forth in Section 7.
+(3) your unlawful and/or unauthorized use of, or activities in connection with this Site.
+The foregoing indemnities shall survive expiration or termination of these Terms.
+
+13.
+TERMINATION
+
+Splunk may, in its sole discretion, at any time for any reason or no reason, terminate your access to this Site and any account(s) you may have in connection with this Site, including if Splunk believes that you have violated or acted inconsistently with the letter or spirit of these Terms or if it is required by applicable law, regulation, court or governing agency order.
+
+This termination may be effected without notice and, on such termination, we may immediately deactivate your account and/or bar any further access to such files, and your right to use the Site will immediately cease.
+Splunk shall not be liable to you or any third party for any termination of your access to the Site or account hereunder.
+
+14.
+CLAIMS OF COPYRIGHT INFRINGEMENT
+
+Splunk respects the intellectual property rights of others and asks that you do the same.
+The Digital Millennium Copyright Act (the âDMCAâ) provides recourse for copyright owners who believe that material appearing on the Internet infringes their rights under U.S.
+copyright law.
+If you believe in good faith that materials available on the Site infringe your copyright, you (or your agent) may send Splunk a notice requesting that we remove the material or block access to it.
+If you believe in good faith that someone has wrongly filed a notice of copyright infringement against you, the DMCA permits you to send Splunk a counter-notice.
+Notices and counter-notices must meet the then-current statutory requirements imposed by the DMCA.
+See http://www.copyright.gov/ for details.
+Notices and counter-notices should be sent to:
+
+Copyright Agent
+Splunk Inc.
+270 Brannan St
+San Francisco, CA 94107
+dmca@splunk.com
++1 415.848.8400
+
+We encourage you to consult your legal advisor before filing a notice or counter-notice.
+
+15.
+FORWARD-LOOKING STATEMENTS
+
+Some of the information on this Site may contain projections or other forward-looking statements regarding future events or the future financial performance of Splunk.
+We wish to caution you that these statements are only predictions and actual events or results may differ materially.
+Such statements include those that (a) use the words âbelieves,â âexpects,â âanticipates,â âestimatesâ or words of similar importance or meaning.
+(b) are specifically identified as forward-looking.
+(c) describe any of Splunkâs plans, objectives or goals for future operations and products.
+or (d) concern the characteristics and growth of Splunkâs markets or customers or Splunkâs expected liquidity and capital resources.
+Factors that could cause actual results to differ materially include economic, competitive, governmental and technological influences affecting Splunkâs operations, markets, products, services and prices.
+Further information on potential factors that could affect the actual financial results of Splunk are included in Splunkâs filings with the Securities and Exchange Commission.
+specifically, Splunkâs most recent reports on Form 10-K and Form 10-Q.
+Splunk does not assume any obligation to update any forward-looking statement to reflect events that occur or circumstances that exist after the date on which they were made.
+
+16.
+GENERAL
+
+These Terms constitute the entire agreement between you and Splunk with respect to your use of this Site and supersede all prior or contemporaneous communications and proposals, whether electronic, oral or written, between you and Splunk with respect to this Site.
+These Terms and the relationship between you and Splunk shall be governed by the laws of the State of California without regard to its conflict of law provisions and you shall submit to the personal and exclusive jurisdiction of the courts located within the county of San Francisco, California.
+If any provision of these Terms is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the partiesâ intentions as reflected in the provision, and the other provisions of these Terms remain in full force and effect.
+A party may only waive its rights under these Terms, by a written document executed by both parties.
+Any failure to enforce any provision of these Terms shall not constitute a waiver thereof or of any other provision hereof.
+You may not assign, transfer or sublicense any or all of your rights or obligations under these Terms without Splunkâs express prior written consent.
+No provision of these Terms is intended for the benefit of any third party, and the parties do not intend that any provision should be enforceable by a third party either under the Contracts (Rights of Third Parties) Act 1999 or otherwise.
+
+17.
+FORCE MAJEURE
+
+Neither party or its affiliates, subsidiaries, officers, directors, employees, agents, partners and licensors will (except for the obligation to make any payments) be liable for any delay or failure to perform any obligation under these Terms where the delay or failure results from any cause beyond their reasonable control, including, without limitation, acts of God, epidemics, labor disputes or other industrial disturbances, electrical, telecommunications, or other utility failures, earthquake, storms or other elements of nature, blockades, embargoes, riots, acts or orders of government, acts of terrorism, or war.
+
+18.
+CONTACT.
+NOTICES
+
+If you have any general question, comment or complaint regarding the Site, please send an e-mail to sitefeedback@splunk.com.
+Formal notices to Splunk under these Terms (including a report of any violation of these Terms by any user) shall be sufficient only if in writing and transmitted via personal delivery or delivered by a major commercial rapid delivery courier service or by certified or registered mail, return receipt requested, to: Splunk Inc., Attention: Legal Department, 270 Brannan Street, San Francisco, California 94107, with a copy to legal@splunk.com.
+Notices to you may be made via posting to the Site, by email, or by regular mail, in Splunk's discretion.
+Without limitation, you agree that a printed version of these Terms and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to these Terms to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+
+
+
+ COMPANY COMPANY 
+ About Splunk 
+ Careers 
+ Global Impact 
+ Leadership 
+ Newsroom 
+ Partners 
+ Splunk Policy Positions 
+ Splunk Protects 
+ Splunk Ventures 
+ Supplier Central 
+ Why Splunk? 
+ PRODUCTS PRODUCTS 
+ Free Trials &amp.
+Downloads 
+ Pricing 
+ View All Products 
+ SPLUNK SITES SPLUNK SITES 
+ .conf 
+ Documentation 
+ Investor Relations 
+ Training &amp.
+Certification 
+ T-Shirt Store 
+ Videos 
+ View All Resources 
+ CONTACT SPLUNK CONTACT SPLUNK 
+ Contact Sales 
+ Contact Support 
+ SPLUNK MOBILE splunk logo 
+ Twitter 
+ Facebook 
+ Linked In 
+ Youtube 
+ Instagram 
+
+Â© 2005 - 2023 Splunk Inc.
+All rights reserved. Legal
+Privacy
+Sitemap
+Website Terms of Use Ã Contact Sales
+ This Website Uses CookiesWe use our own and third-party cookies to provide you with a great online experience.
+We also use these cookies to improve our products and services, support our marketing campaigns, and advertise to you on our website and other websites.
+Some cookies may continue to collect information after you have left our website.
+Learn more here âºCookies Settings âº Accept Cookies 
+      

@@ -1,0 +1,116 @@
+
+
+Home
+
+ OkayFreedom VPN Privacy Policy Preface
+OkayFreedom is a virtual private network service (hereafter: "Service" or "VPN Service"), which can route Internet traffic via a computer (a so-called VPN server) to various regions.
+This enables a user to hide his IP address from telemedia services and encrypt data traffic.
+This service is made possible by software (hereafter: "Software" or "Product"), which the user installs on their computer.
+The Service is offered by Steganos Software GmbH, Storkower Str.
+158, 10407 Berlin, Germany (hereafter: âSteganosâ).
+The following privacy policy applies to the use of OkayFreedom and is part of the Terms and Conditions.
+
+Â§1 No data storage when using a VPN server
+The OkayFreedom service saves neither addresses nor content accessed by the user, the IP address that OkayFreedom assigned to them.
+nor the user's own IP address through which they are using OkayFreedom.
+As a result, it is not possible for Steganos to ascertain the content an OkayFreedom user has accessed.
+Neither the IP address of the user nor that of the accessed servers are saved.
+
+Â§2 Pseudonymous user-ID instead of e-mail address
+Personal data (e.g., email address) isnât required for the use of OkayFreedomâs free version.
+For billing and load balancing purposes, OkayFreedom determines which data volume (only the amount of data transmitted, not addresses or content) belongs to which pseudonymous user-ID.
+The pseudonymous ID is derived from the hash value of the computer's MAC address on which OkayFreedom is being used and is not traceable to a particular computer or user.
+
+Â§3 De-coupling the payment process from the pseudonymous user-ID
+When booking a premium account through Steganos' e-commerce provider, a user will be asked for personal details.
+THE E-COMMERCE PROVIDERâLIKE STEGANOSâWILL NOT GAIN ACCESS AT ANY POINT IN TIME TO ADDRESSES OR CONTENT OF WEBSITES VISITED BY AN IDENTIFIABLE USER IF AN OKAYFREEDOOM VPN SERVER ROUTED THEM THERE.
+
+Â§4 Collection and usage of data by Steganos
+(1) Within the framework of OkayFreedom's free-of-charge offering, Steganos will only use the user's voluntarily given e-mail address for the provision of offers / services described here (see Terms and Conditions).
+In particular, Steganos utilizes the user's e-mail address to send updates, newsletters and/or current information.
+The user can unsubscribe from the newsletter.
+
+(2) Steganos wishes to offer the best service possible to its customers.
+Under certain circumstances, therefore, the software asks customers whether it may transmit their e-mail address to Steganos for the purpose of informing them about product innovations and special offers.
+The transmission is voluntary and happens only with express consent of the customer.
+To save the customer the effort of entering their e-mail address, Steganos software under certain circumstances tries to gather the address.
+Should the customer agree to transmitting their e-mail address but later decide against receiving further information by Steganos via e-mail, they can unsubscribe with no justification required.
+
+(3) Steganos automatically records certain information of users of the www.okayfreedom website that cannot be attributed to them, including IP address and browser type.
+THIS DOES NOT APPLY TO THE USE OF THE OKAYFREEDOM VPN SERVER.
+WHICH STORES NO DATA OF THIS TYPE.
+
+Â§5 Dissemination of information to third parties
+Steganos does not pass along users' personal data to third parties, unless the user previously has provided their express consent or unless there is a legal obligation to do so.
+An exception is made for certain technical service providers who have been carefully selected by and are under instruction from Steganos to carry out certain tasks.
+Such tasks include (for example) the distribution of newsletters (processing of project data), the collection and processing of anonymous data for usage patterns or integration of partner programs, as well as the collection of information about software errors that have occured for the improvement of the OkayFreedom website.
+NEITHER STEGANOS NOR THE COMMISSIONED DATA PROCESSOR SHALL GAIN ACCESS TO WEB ADDRESSES OR CONTENT VISITED BY AN IDENTIFIABLE USER IF AN OKAYFREEDOM VPN SERVER ROUTED THEM THERE.
+
+Â§6 Use of cookies
+Cookies are small files that can be "placed" on a user's computer by the server (for example the server of the OkayFreedom website).
+These files can contain various information, including personal data, to improve the userâs Internet experience.
+The OkayFreedom website utilizes cookies to record information about a session -- for example, to adjust the display of a website to a user's profile.
+Most browsers are set up to automatically accept cookies..
+Every user can configure their browser to accept or refuse certain cookies or to generate a permission-to-use query.
+How this works for each browser can be found in its respective documentation or âHelpâ function.
+It is not necessary to enable cookies to use OkayFreedom.
+The use of cookies on OkayFreedom by advertisers and other third parties is subject to the data privacy policies of the advertisers / third parties.
+thus the data privacy policies of OkayFreedom do not apply.
+
+Â§7 Support
+If a user avails himself of our support, their inquiry will be stored in a database along with voluntarily provided information (where available).
+This information is for the exclusive use of our support team for processing the inquiry.
+The data collected in this manner will also be used by Steganos for statistical analysis.
+Neither the raw data nor the results of the analysis (nor any portion thereof) will be made accessible to third parties.
+
+Â§8 Access to the OkayFreedom VPN server and the webserver
+We store user data on specially protected servers.
+Access is resticted to a few specially authorized persons.
+
+Â§9 Personalized advertisements
+Users consent to Steganos using their data for its (Steganos') own purposes and to having data transmitted in anonymous or pseudnonymous form to partners for the presenting of personalized advertisements or special offers and services via the OkayFreedom service.
+NEITHER STEGANOS NOR THE ADVERTISING PARTNER SHALL GAIN ACCESS TO WEB ADDRESSES OR CONTENT VISITED BY AN IDENTIFIABLE USER IF AN OKAYFREEDOM VPN SERVER ROUTED THEM THERE.
+
+Â§10 Google Analytics
+This website uses Google analytics, a website analysis service by Google Inc.
+(âGoogleâ).
+Google Analytics utilizes cookies (text files that are stored on your computer that enable the analysis of website usage by you).
+Information gathered from the cookies regarding your use of the website (including your IP address) are transmitted to a server in the USA by Google and are stored there.
+Google uses this information to analyze usage of the website, to generate reports about the website's activity for the website owner and to produce more services connected to the utilization of website- and Internet usage.
+Google may also, where applicable, transmit this information to third parties when legally required to do so or when third parties process this data on Google's behalf.
+Under no circumstances will Google relate your IP address to other data from Google.
+You can adjust your browser to prevent the installation of cookies.
+please note that in doing so, you may not be able to use the entire functionality and scope of the website.
+By using this website, you consent to the processing of your data that Google collects using the previously described methods for the previously mentioned purposes.
+GOOGLE HAS NO ACCESS TO WEB ADDRESSES OR CONTENT VISITED BY AN IDENTIFIABLE USER IF AN OKAYFREEDOM VPN SERVER ROUTED THEM THERE.
+
+Â§11 Children
+Persons under the age of 18 should not submit any personal data to us without the consent of their parents or guardians.
+
+Â§12 Changes of policy
+Steganos reserves the right to change this privacy policy at any time as long as these changes are compliant with German law.
+
+Â§13 Questions and comments
+If you need information about the data we have stored or if you have questions, suggestions or comments concerning the protection of your data, please send us an e-mail privacy@okayfreedom.com.
+
+
+Home
+FAQ | Support
+Press Center
+Copyright
+Terms of Use
+Privacy Policy
+Legal Notice
+ Copyright Â© 2021 Steganos Software GmbH We use cookies to personalize content and analyze access to our website.
+â Acccept cookies â Cookie settings â Learn more Essentielle Cookies OnOff  These cookies are necessary to enable you to browse our website and use the functions of the website, such as access to protected areas of the website.
+ Google Analytics OnOff  These cookies collect information about the surfing behaviour of visitors to our website.
+This enables us to make the structure, navigation and content of the website as user-friendly as possible for you.
+ â Save and accept settings Prev Cancel 
+Home
+FAQ | Support
+Press Center
+Copyright
+Terms of Use
+Privacy Policy
+Legal Notice
+

@@ -1,0 +1,55 @@
+
+A cookie is a small piece of data (text file) that a website â when visited by a user â asks your browser to store on your device in order to remember information about you, such as your language preference or login information.
+These cookies are set by us and called first-party cookies.
+We use cookies for the following purposes:
+
+Assisting you in navigating websites smoothly;
+Assisting in registration and login in Vivaldi services.
+
+Below is a detailed list of the cookies we use on our Website.
+Our Website is scanned with our cookie scanning tool regularly to maintain a list as accurate as possible.
+We classify cookies in the following categories:
+
+Strictly Necessary Cookies;
+Security Cookies;
+Anonymous Performance Cookies.
+
+Strictly Necessary Cookies
+These cookies are necessary for the website to function and cannot be switched off in our systems.
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
+You can set your browser to block or alert you about these cookies, but in this case some parts of the site may not work. wpml_browser_redirect_test and _icl_visitor_lang_js
+These are used by our locally installed WPML plugin to identify the preferred user language as our site is multilingual.
+Read more.
+io
+express.sid
+NodeBB session cookies allow you to comment on our blog articles while being logged in Vivaldi forum.
+openid-connect-generic-redirect
+Cookie that allows you to recognize if you have an open session with our services (blogs, forum, mail, sync) and keep you connected to it.
+commonAuthId
+It is set to the userâs browser with the hostname of WSO2 Identity Server instance and the value of the commonauthId cookie is the SSO session identifier.
+When SSO session is created in the WSO2 Identity Server, the session is put into the session cache and persisted to the database.
+Read more.
+opbs
+The OP browser state is typically going to be stored in a cookie or HTML5 local storage.
+It is origin bound to the Authorization Server.
+It captures meaningful events such as logins, logouts, change of user, change of authentication status for Clients being used by the End-User, etc.
+Read more.
+JSESSIONID
+It is set by login.vivaldi.net to track the session.
+PHPSESSID
+attribution_user_id
+device_view
+Cookies necessary for the function of embedded forms created using Typeform, for example to detect language preference and set visual design elements of the forms.
+These can be blocked by enabling âBlock Third Party Cookiesâ in your browserâs Privacy Settings.
+Security Cookie _cfduid
+Cloudflare cookie gather information allowing us to identify individual visitors behind a shared IP address and apply security settings on a per-visitor basis.
+Anonymous Performance Cookies
+These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our site.
+They help us know which pages are the most and least popular and see how visitors move around the site.
+The information these cookies collect is aggregated and therefore anonymous. _pk_id.
+_pk_ses.
+_pk_ref.
+Matomo (formerly called Piwik) cookies gather statistical information about website visitors.
+To respect your privacy we anonymize your IP address so that we only know where you come from and what type of hardware you use allowing us to make sure that the website renders well where you are using the machine you have.
+Read more 
+      

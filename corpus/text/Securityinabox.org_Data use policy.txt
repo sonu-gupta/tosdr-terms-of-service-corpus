@@ -1,0 +1,182 @@
+
+security in-a-box
+digital security tools and tactics__('Expand navigation')
+Tactics
+ Protect your device from malware and phishing attacks
+ Protect your information from physical threats
+ Create and maintain strong passwords
+ Protect the sensitive files on your computer
+ Recover from information loss
+ Destroy sensitive information
+ Keep your digital communication private
+ Remain anonymous and bypass censorship on the Internet
+[Unmaintained] Protect yourself and your data when using social networking sites
+ Use your smartphone as securely as possible
+
+
+
+
+Linux
+ Basic security for Linux
+ KeePassXC for Linux - Secure password manager
+ VeraCrypt for Linux - Secure file storage
+ Firefox and Security Add-Ons for Linux - Secure Web Browser
+[Out-of-date] Thunderbird, Enigmail and OpenPGP for Linux - Secure Email
+ Tor Browser for Linux - Online anonymity and circumvention
+
+
+
+
+Windows
+ Basic security for Windows
+ KeePassXC for Windows - Secure Password Manager
+ VeraCrypt for Windows - Secure File Storage
+ Firefox and Security Add-Ons for Windows - Secure Web Browser
+[Out-of-date] Thunderbird, Enigmail and OpenPGP for Windows - Secure Email
+ Tor Browser for Windows - Online anonymity and censorship circumvention
+[Out-of-date] CCleaner for Windows - secure file deletion and session cleanup
+
+
+
+
+Mac
+ Basic security for Mac
+ KeePassXC for Mac OS X - Secure password manager
+ VeraCrypt for Mac OS X - secure file storage
+ Firefox and Security Add-Ons for Mac OS X - Secure Web Browser
+[Out-of-date] Thunderbird, Enigmail and OpenPGP for macOS - Secure Email
+ Tor Browser for Mac OS X - Online anonymity and circumvention
+
+
+
+
+Android
+ Basic security for Android
+ Signal for Android
+ KeePassDX - Mobile Password Manager for Android
+[Out-of-date] KeePassDroid for Android
+
+
+
+
+iOS
+ Basic security for iOS
+ Signal for iOS
+
+
+
+
+Web
+ Mailvelope - OpenPGP encryption for webmail
+[Out-of-date] Riseup - secure email service
+[Out-of-date] Social networking platforms
+
+
+
+
+English
+Ø§ÙØ¹Ø±Ø¨ÙØ©
+Bahasa
+English
+EspaÃ±ol
+ÙØ§Ø±Ø³Û
+FranÃ§ais
+PortuguÃªs
+Ð ÑÑÑÐºÐ¸Ð¹
+à¸ à¸²à¸©à¸²à¹à¸à¸¢
+TÃ¼rkÃ§e
+Tiáº¿ng Viá»t
+ç®ä½ä¸­æ
+[Unmaintained] á áá­á
+[Unmaintained] Burmese
+[Unmaintained] áá¶áá¶ááááá
+[Unmaintained] ÐÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸
+[Unmaintained] Tibetan
+
+
+Data use policyWhy isn't this a "Privacy Policy"?
+Many websites link to their âprivacy policiesâ from their homepages, but what they actually tell you is how they plan to use your data.
+We believe that it is important to be transparent that this policy is a promise about how we will use the data you leave when you visit this site, but neither this promise nor the promise of any other site gives you full privacy.
+The privacy policy is a compulsory legal disclosure of how the website operator collects, retains, and shares personally identifiable information.
+In other words, itâs often a list of ways your personal data are not private and under their control.
+There are legitimate reasons that people and organisations running websites need to keep data about your visits.
+We limit the data that we keep to only the data that we need for maintaining the site and satisfying legal and funding-related reporting requirements.
+Visiting Security-in-a-Box
+Securityinabox.org is operated by Front Line Defenders, a non-profit operating from Dublin, Ireland and is governed by EU Data law.
+When you visit this site, we collect information about your visit of the sort that web browsers and servers typically make available.
+If you donât have Do not Track enabled, we may still collect the following anonymous/anonymised information when you visit our website:
+
+the time and date you visited the site
+the first page you visit
+how many times you click on links
+how long you stayed on the site
+the last page you visit before leaving
+what site brought you to the page (if you followed a link form another page, like on a search engine or social media)
+what sites you visited through links on our site
+what you download from our site
+what keyword or keywords you used if you found the site through a search engine
+what browser you use
+what operating system you use
+what kind of device you use (computer vs smartphone vs tablet)
+what brand device you use
+what model device you use
+your country
+your IP address (We anonymise Visitors' IP addresses in our stats: we use this information to protect our servers from misuse.
+We do not use this information to identify Security-in-a-Box visitors.)
+your screen resolution
+language of your browser
+number of times you have visited the site
+days since the last time you visited the site
+
+We do this to better understand how people use the site and so that we can fix problems with the site when they arise.
+From time to time, we also release reports that include very general information about who visits this site, like the total number of visitors or which countries or other websites comprise the most visits.
+We may collect statistics about the behaviour of visitors to the Security-in-a-Box.
+For instance, Security-in-a-Box may reveal how many visitors navigate from one page to another within the toolkit.
+We do this so that we can figure out how we can improve the toolkit and develop content that better suits your needs.
+We collect this information using open source analytics software that we host ourselves.
+This means that even the people who wrote the software do not see any of your information.
+This is done through a combination of server logs, javascript, and cookies.
+We need the server logs to protect this site and our servers, but you can block javascript using NoScript and turn off or delete cookies and the site will continue to work correctly.
+We do not partner with third parties to collect this information, nor do we share information with third parties, with the exception of the release of non-personally-identifying information in formats described above.
+I am using a VPN
+VPNs can obscure your IP address and your country location, but some data may still be visible.
+If you use a VPN while visiting our website, and you havenât enabled DNT, we would see all of the above information, save your IP address and country location, which would show the IP address and country of the exit point of your VPN.
+I am actually using TOR
+Just as when you are using a VPN, we can still access the above information, though the changing exit node IP addresses does add a complication.
+Furthermore, if we wanted to, we could go back through the exit node IP Addresses which are routinely published by Tor and determine if you are using TOR.
+But, that is something that we have never done and would not do.
+We will also see similar information if you visit this site through our Onion service .
+Using the toolkit and Related Services
+Occasionally, we may link to projects from Front Line Defenders, Tactical Tech, or other partners from this site.
+In the case of other projects hosted by Front Line Defenders, we may offers the opportunity to engaging in a way that requires collecting personally identifying information, like providing an email address so that we can send you updates that you have decided that you want to receive.
+In that case, Front Line Defenders collects such information only as is necessary or appropriate to fulfil the purpose of the visitorâs interaction.
+You can always refuse to supply your unique information or withdraw your consent at any time.
+This may prevent you from fully engaging in certain activities, but we try hard to make as much of our content available without any kind of barrier.
+Any way that you chose to engage with a Front Line Defenders site is voluntary and will not effect your use of Security-in-a-Box.
+Through your use of Security-in-a-Box itself, you will not be asked to provide personally identifying information.
+Projects and sites hosted by Front Line Defenders and other parters have their own data use policies and you should check the applicable policies if you have question about your data and those sites.
+Changes to this Policy
+Although most changes are likely to be minor, we may change the Security-in-a-Box Privacy Policy from time to time, in response to legal and technical changes and at our discretion.
+We encourage visitors to frequently check this page for any changes to this Data Use Policy.
+Your continued use of this site after any change in this Data Use Policy constitutes your acceptance of these change.
+Contacts
+All questions related to the data use policies of Security-in-a-Box should be directed in writing to the Front Line Defenders (mailto:info@frontlinedefenders.org).
+Reusing this Data Use Policy
+You are welcome to reuse and be inspired by this Data Use Policy after making sure it complies with the way your website tracks, uses and discloses users information.
+
+This document was last updated 13 October 2020.
+
+security in-a-box
+digital security tools and tactics
+
+About
+Contact
+Disclaimer
+Data Use Policy
+Glossary
+Twitter
+Blog
+
+This work is licensed under a Creative Commons Attribution-Share Alike 3.0 Unported License.
+Security-in-a-Box is a project of Front Line Defenders and Tactical Tech â
+      

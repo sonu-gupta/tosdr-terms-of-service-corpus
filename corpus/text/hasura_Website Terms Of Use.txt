@@ -1,0 +1,96 @@
+
+        Hasura, Inc.: Website Terms Of UseLast updated on 14th April, 2021These Website Terms of Use (the âWebsite Termsâ) govern your use of www.hasura.io (the âWebsiteâ) that is owned by Hasura, Inc.
+(âHasura,â "we," "us," or "our").
+By accessing, using, or downloading materials from this Website you agree to follow and be bound by these Website Terms.A user of the Hasura Website is also referred to as either âUser,â âyou,â or âyour.âPlease note, if you have entered into any other agreement with Hasura, including accepting any other terms of service or license agreements that may be specific to a Hasura offering to you, you will be subject to those agreements (âRelated Agreementsâ) in addition to these Website Terms.
+In case of a conflict between these Website Terms and the Related Agreements, the Related Agreement will take precedence.Capitalized terms not defined herein have the same meaning as ascribed under the Related Agreements.The Related Agreements comprise of the Hasura GraphQL Engine License .
+Hasura Cloud Terms of Service.
+the Hasura Support and Consulting Services Agreement.
+the Hasura Privacy Policy.
+and if applicable, any other agreement entered into between you and Hasura.IF YOU DO NOT AGREE WITH THE TERMS SET FORTH IN THESE WEBSITE TERMS, DO NOT REGISTER OR USE OUR WEBSITE OR THE SERVICES THEREUNDER.
+IF YOU USE OR ACCESS OUR WEBSITE OR THE SERVICES OFFERED HEREWITH, YOU ARE BOUND BY THESE WEBSITE TERMS.
+1.
+About HasuraHasura is a cloud infrastructure company that is focused on making application development easier for its Users.
+Currently Hasura has four offerings:
+
+âHasura Cloudâ (the âCloud Platformâ) means a cloud-based computing platform and the services that Hasura renders on this platform that includes the Hasura GraphQL Engine and add-on services for the Hasura GraphQL Engine that provides additional functionality such as team management, analytics, rate-limiting, allow-listing workflows, read-replica support, regression testing, etc.
+More details are available here.
+If you are a User of the Hasura Cloud, please review your rights and responsibilities provided under the Hasura Cloud Terms of Service that is available here.
+
+âHasura GraphQL Engineâ (the âEngineâ) which is a âGraphQLâ based data layer, that users can integrate with their database to get GraphQL APIs instantly.
+More details are available here.
+If you are a User of the Hasura GraphQL Engine, please review your rights and responsibilities provided under the Hasura GraphQL Engine License that is available.
+here.
+
+âHasura Enterpriseâ (the âEnterprise Platformâ) means an enterprise version of the Hasura GraphQL Engine that includes all features of the Hasura GraphQL Engine, add-on services that provide additional functionality such as team management, analytics, rate-limiting, allow-listing workflows, read-replica support, regression testing, etc.
+and can be deployed on-premise.
+More details are available here.
+
+âSupport and Consulting Servicesâ (the âServicesâ) means support services and consulting services related to use of the Cloud Platform, Engine or the Enterprise Platform.
+If you have any questions about the Cloud Platform, the Engine, the Enterprise Platform or the Services, please send us an email at support@hasura.io.2.
+Use of our Website, Cloud Platform, Engine, Enterprise Platform and ServicesBefore you use or access our Website you must read and agree to these Website Terms.
+By accessing, using, or downloading materials from the Website you agree to follow and be bound by these Website Terms.
+All rights, title, and interest not expressly granted are reserved.
+In some instance, you may use our Cloud Platform, Engine, Enterprise Platform or the Services only if you âRegisterâ with us and accept the Related Agreements.
+Before you use our Cloud Platform, Engine, Enterprise Platform or the Services you must read and agree to:
+As applicable, Hasura GraphQL Engine License.
+Hasura Cloud Terms of Service.
+the Hasura Support and Consulting Services Agreement.
+or any other agreement entered into between you and Hasura for use of the Cloud Platform, Engine, Enterprise Platform or the Services, and the
+Hasura Privacy Policy.
+ALL RIGHTS, TITLE, AND INTEREST NOT EXPRESSLY GRANTED ARE RESERVED.3.
+Creating an AccountIf you wish to access our Cloud Platform or our Services, then you may be asked to create an account (the âAccountâ).
+In order to create an Account, you will be asked to provide personal information such as your, e-mail address, Git Hub Id and Google Id for the purpose of user registration, identification and account verification.4.
+JurisdictionOur Cloud Platform, the Engine, the Enterprise Platform, the Services, and our Website are available worldwide.5.
+Children Under the Age of 13Our Cloud Platform, the Engine, the Enterprise Platform, and the Services are not available to persons who are under 13 years of age.
+We do not knowingly collect information from children under 13 years of age.
+If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information.
+If you believe we might have any information from or about a child under 13, please contact us at support@hasura.io.
+If you are under the age of 13, please do not use our Cloud Platform, Engine, Enterprise Platform or Services, and please do not create an Account with us.6.
+FeedbackAll comments, feedback, information, or materials submitted to us by you through or in association with this Website shall be considered non-confidential and our property.
+By submitting comments, feedback, information, or materials to Hasura, you agree to a free assignment to Hasura of all worldwide rights, title, and interest in copyrights and other intellectual property rights to the comments, feedback, information or materials.
+Hasura shall be free to use such comments, feedback, information, or materials on an unrestricted basis.7.
+Links to Third-Party SitesThis website may contain hyperlinks to websites controlled by parties other than Hasura.
+Hasura is not responsible for and does not endorse or accept any responsibility over the content or use of these websites.
+Do not open an account with such third parties unless you have read, understand and agree to the privacy policy of such other third-parties.8.
+Copyright Infringement/DMCA NoticeIf you believe that any content on our Website, Engine, or Platform violates your copyright, and wish to have the allegedly infringing material removed, the following information in the form of a written notification (pursuant to 17 U.S.C.
+Â§ 512(c) (âDMCA Takedown Noticeâ) must be provided to our designated Copyright Agent.
+It is our policy to terminate the accounts of repeat infringers.
+Your physical or electronic signature;
+Identification of the copyrighted work(s) that you claim to have been infringed;
+Identification of the material on our services that you claim is infringing and that you request us to remove;
+Sufficient information to permit us to locate such material;
+Your address, telephone number, and e-mail address;
+A statement that you have a good faith belief that use of the objectionable material is not authorized by the copyright owner, its agent, or under the law.
+and
+A statement that the information in the notification is accurate, and under penalty of perjury, that you are either the owner of the copyright that has allegedly been infringed or that you are authorized to act on behalf of the copyright owner.
+Hasuraâs Copyright Agent to receive DMCA Takedown Notices is Anand Rajkumar at anand@hasura.io, or at HASURA, INC.
+Attn: Hasura, Inc..
+355 Bryant Street, Suite 403, San Francisco CA 94107.
+You acknowledge that for us to be authorized to take down any content, your DMCA takedown notice must comply with all the requirements of this Section.
+Please note that, pursuant to 17 U.S.C.
+Â§ 512(f), any misrepresentation of material fact (falsities) in a written notification automatically subjects the complaining party to liability for any damages, costs and attorney's fees incurred by us in connection with the written notification and allegation of copyright infringement.9.
+Warranties and DisclaimersThe information, software, products, and services contained on this Website may be out of date or include omissions, inaccuracies or other errors.
+Except where expressly provided otherwise in an agreement between you and Hasura, all information, software, products, and services are provided âas isâ without warranty of any kind.
+Hasura hereby disclaims all warranties with respect to this information, software, products, and services, whether express or implied, including the implied warranties of merchant ability and fitness for a particular purpose.
+In no event shall Hasura be liable for any direct, indirect, incidental, special, or consequential damages, or damages for loss of profits, revenue, data or use, incurred by you or any third party, whether in action in contract or tort, arising from your access to, or use of, this website or any other hyperlinked site.Hasura reserves the right to make changes or updates to this website or the products or programs described in this website at any time without notice.10.
+Limitation of LiabilityYOU FURTHER EXPRESSLY AGREE THAT YOUR USE OF THIS WEBSITE IS AT YOUR SOLE RISK.
+TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, HASURA DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+THE COMPANY DOES NOT WARRANT THAT THIS WEBSITE.
+INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING ANY SOFTWARE) OR SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE COMPANY WEBSITE.
+ITS SERVERS.
+OR E-MAIL SENT FROM THE COMPANY ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+THE COMPANY WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THE COMPANY WEBSITE OR FROM ANY INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE WEBSITE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES, UNLESS OTHERWISE SPECIFIED IN THE AGREEMENT.
+CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES.
+IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.11.
+Governing Law, Arbitration, and JurisdictionAll matters relating to your access to, or use of, this Website shall be governed by U.S.
+federal law or the laws of the State of Delaware.Any dispute, claim or controversy arising out of or relating to these Website Terms, including the determination of the scope or applicability of these Website Terms to arbitrate, shall be determined by arbitration in the State of Delaware before one arbitrator.
+The arbitration shall be administered by the American Arbitration Association (âAAAâ) under the Commercial Arbitration Rules and Supplementary Procedures for Consumer Related Disputes then in effect for the AAA, except as provided herein.
+Judgment on the Award may be entered in any court having jurisdiction.
+ANY ARBITRATION UNDER THESE TERMS AND CONDITIONS SHALL TAKE PLACE ON AN INDIVIDUAL BASIS.
+THE PARTIES AGREE THAT THEY ARE WAIVING THEIR RIGHT TO PARTICIPATE IN CLASS ACTION.
+This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction.You may not access, download, use, or export the information, software, products or services contained on this website in violation of U.S.
+export laws or regulations, or in violation of any applicable local laws or regulations.12.
+SeverabilityIn the event any provisions of these Website Terms are found to be contrary to any law or regulation of an administrative or governmental agency or body, such provision will be modified and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law, and the remaining provisions will continue in full force and effect.
+In the event such a provision cannot be modified and becomes invalidated or unenforceable, its invalidation or unenforceability will not affect the validity or enforceability of any other provision of these Website Terms.13.
+Legal ContactsIf you have any questions concerning legal matters, trademarks, copyrights, or patents, contact Hasura at support@hasura.io.
+      

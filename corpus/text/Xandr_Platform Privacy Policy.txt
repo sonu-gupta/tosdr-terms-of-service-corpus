@@ -1,0 +1,698 @@
+
+
+Platform Privacy Policy 
+
+
+ 
+
+
+Last modified: January 1, 2023
+
+Platform privacy policy effective until January 1, 2023, located here.
+
+Xandr Inc.
+(âXandrâ), provides an advertising technology that allows websites, apps, smart TVs, audio and other internet-connected properties to generate revenue by showing advertisements to their users, and allows marketers and other advertisers to show advertisements to individuals (âend usersâ âconsumersâ or âyouâ) online who may be interested in their products or services.
+This privacy policy (âPrivacy Policyâ) explains how we collect, use, and disclose information about you through our digital advertising technology platform (the âPlatformâ).
+If you are interested in learning how we collect, use, and disclose information through other corporate activities, such as on our corporate website, Xandr.com, and learning how to exercise applicable privacy rights related to such information, please click here.
+Our goal is to be transparent about our business by describing our technology and services in simple terms so that you can understand our practices.
+If you have any questions about this information, please contact us here.&nbsp.
+We also created an Online Advertising and Ad Tech Glossary if you want to learn more about our technology, our services and more generally about the advertising technology ecosystem.
+
+
+Overview
+
+
+Below we provide an overview of our practices and where you can find more information.
+What information do we collect and use?
+The Platform is designed to collect and use primarily Platform Data (as defined below) and in some instances use it together with Other Information (as defined below) as described in this document. Details
+.
+How do we collect information?
+The Platform uses cookies, beacons, pixels, tags, mobile SDKs, and other non-cookie technologies to collect and store Platform Data about web browsers and devices across web sites and apps and over time. Details
+.
+Additionally, our publisher and advertiser clients, as well as data providers, provide us with Platform Data to support advertising transactions.
+For what purposes do we use the collected information?
+Xandr uses the information collected on the Platform to provide, operate, manage, maintain, and enhance the Platform and allow our clients to use our Platform.
+This means facilitating: serving of ads, including interest-based advertising by our clients and partners.
+facilitating serving of ads based on geographic location information.
+reporting on ad delivery and end user interactions with ads.
+providing frequency capping and recency measurement.
+using information for fraud detection and the prevention and detection of malicious behavior and maintaining and enhancing our services including through the use of information for machine learning, optimization and statistical analysis. Details
+.
+What information do we share with affiliates and third parties?
+Where permitted, we provide clients and their third-party providers access to their Platform Data that they collect, acquire, or use on the Platform, and typically they may remove it from the Platform for their own use.
+For a current list of third-party providers who may, subject to our clientsâ permission, receive your data, see here.
+Xandr may also provide Platform Data and Other Information to partners and service providers for the purpose of operating, managing, maintaining, or enhancing our services, including for the safety and security of the Platform and the online industry, with Xandr affiliates, including but not limited to Microsoft Corp., and subsidiaries, or as required by law.
+Xandr may share Platform Data with other affiliates for those companiesâ business purposes.
+Xandr does not share the information collected on the Platform with other third parties, unless legally required. Details
+.
+How is the information stored and how long is it kept?
+Platform Data and Other Information that we process is stored using generally accepted security standards.
+Platform Data is usually aggregated or deleted within 3-60 days but may be retained in the Platform for up to 18 months from the date of collection before aggregation or deletion. Details
+.
+What are your choices and rights?
+If you are a resident of certain jurisdictions, you may have certain rights and protections under a particular jurisdictionâs law regarding the collection, processing, and use of information about you.
+This policy describes the rights that may be available to you, and how you can exercise them. Details
+.
+
+
+Regardless of where you live, Xandr provides several options for you to choose how you want to interact with the Platform and respects user choices provided by certain apps and device-system software.
+Specifically, you may be able to: (i) opt out of having the Platform used to select ads for your browser based on your online web browsing behavior, (ii) opt out of the use of information about your usage of mobile apps for targeted advertising purposes, based on choices made available to you by those apps and your mobile device, and (iii) opt out of the collection of certain forms of location information, based on preferences available to you on your mobile device.  Details
+.
+
+If you have questions about privacy on the Platform, you can send us a message here.
+
+What are your California or Virgina Privacy Rights?
+If you are a California or Virginia resident (as defined below), you may have the right to: (i) request access to your personal data and request additional details about our information practices, (ii) request the correction of inaccuracies in your personal data held by Xandr, (iii) request deletion of your personal information, (iv) opt out of the âsaleâ or âsharingâ (also known as âtargeted advertisingâ) of your personal information (as those terms are defined below), and (v) to not be discriminated against for exercising any of your rights under these statesâ data protection laws. Details
+.
+What are your rights and protections in European Countries?
+If you are located in the European Economic Area, the United Kingdom, or Switzerland (the âEuropean Countriesâ), you have certain rights and protections under applicable law regarding the processing of your âpersonal dataâ as defined under applicable law.
+Some of the Platform Data that Xandr maintains in its Platform may constitute âpersonal dataâ under these statesâ data protection laws. Details
+.
+Where do we operate?
+Xandr is a global company headquartered in the United States with data centers located in the United States, Europe and Asia.
+If you access any of the Digital Properties  (as defined below) that use our technology, please be aware that your information may be transferred to, stored and processed by us and our affiliates in our facilities in the United States and other countries (including in Singapore, Japan, Australia and Brazil where our global affiliates have offices) and by those third parties with whom we may share your information. Details
+.
+What happens if this privacy policy is changed?
+Check this page for changes.
+We may change this privacy policy at any time.
+If we make changes that, in our sole discretion, are material, those changes will not be applied to information collected prior to the date the changes went into effect.
+Questions?
+If you have questions about privacy on the Platform, you can send us a message here.
+
+ 
+
+
+
+Introduction to the Xandr Platform
+
+
+Xandr provides a digital advertising technology Platform and related services that connect buyers of advertising inventory (âadvertisersâ) with sellers of advertising inventory (âpublishersâ).
+In this Privacy Policy, we refer to our buyers and sellers collectively as âclientsâ.
+Websites, mobile apps and publishers of other internet-connected digital media properties such as internet-connected TVs (each a âDigital Propertyâ and collectively âDigital Propertiesâ) use the Platform to sell ad space on those properties.
+Advertisers or companies on the advertiserâs behalf, use the Platform to purchase that ad space in the most efficient way possible.
+The Platform also allows Digital Properties and advertisers to do other things, like measure the effectiveness of their ads, help prevent malware or other bad activity, and similar functions designed to make the buying and selling of ad space seamless, efficient, and effective.
+Our clients collect and use data on the Platform in different ways.
+They may bring their own data to the Platform, collect data via the Platform, or remove their data from the Platform.
+Our references to our Platform in this policy only refer to Xandrâs own Platform and systems and do not include the technology or systems of clients or partners that use or integrate with us.
+They are bound by our policies when they use our Platform.
+ 
+
+
+Information Xandr Collects
+
+
+When you (an end user) visit a Digital Property that has integrated our Platform or that uses technology that integrates with our Platform, we collect certain information about you and your device.
+We may also receive personal data about you from our clients and data providers, as noted below.
+This policy refers this information as âPlatform Dataâ, and includes the following:
+
+
+Information about your browser including: the type of browser you use, browser language, browser settings, and cookie information.
+This may include data about you related to bid requests and an ad impressions, which is collected when we decide to show you an ad on a Digital Property and when we deliver an ad.
+
+Information about your device including device operating system version, connection type, device make, device model, device Identifiers such as your IDFA or AAID, and the IP address from which the device accesses a clientâs Digital Property.
+
+Location information, when location services have been enabled for an app on your device that has integrated our technology or where an app or other Digital Property sends that information to our Platform.
+Additionally, we may derive location information from your deviceâs IP address.
+
+Information about your activity on a Digital Property such as browsing history, viewing history, search history and information regarding an individualâs interaction with an internet website, app, or advertisement, including the time web pages or apps were visited or used, and in-game or online viewing activity (e.g., videos viewed, pages viewed).
+
+Inferences or audience segmentation derived from Platform Data or provided by affiliates, clients, or third parties, such as individual profiles, preferences, characteristics, and behaviors.
+
+Information about ads served, viewed or clicked on, including the type of ad, where the ad was served, whether you clicked on it and whether you visited the advertiserâs website or downloaded the advertiserâs app.
+
+Information about your internet service including information about which internet service provider is used by you.
+
+Hashed email addresses (or other information derived from such).
+
+Sensitive personal data about you, collected from your device or provided by affiliates, clients, or third parties, including:
+
+Precise location data from your device or derived from your deviceâs IP address;
+Inferences or audience segmentation provided by affiliates and third parties, such as individual profiles, preferences, characteristics, or behaviors relating to your:
+
+Racial or ethnic origin;
+Religious or philosophical beliefs;
+Union membership;
+Health.
+or
+Sex life or sexual orientation.
+
+
+
+
+
+Except as noted below for California business contacts, the personal data we collect about you does not include your name, email address, or Other Information that directly identifies you.
+However, the information listed above could be by itself or as combined with Other Information identify or reveal information about you, so it may qualify as âpersonal informationâ or âpersonal dataâ under applicable law.
+As described in further detail below, we may collect the categories of personal data listed above from other sources, such as our affiliates.
+Xandrâs Platform allows Digital Properties, advertisers, and others to buy and sell data to help make the ads that you see more relevant.
+Advertisers may share with us information about your interests or demographic information (such as your age or gender) that they have collected directly from you and from third parties, and they may use that information on our Platform to help make the ads served to you more relevant or for other purposes.
+ 
+
+
+The Sources from which Xandr Collects Platform Data and Other Information, and the Process for that Collection
+
+
+
+Cookies and other online tracking technology. When you first visit a Digital Property and where allowed by your browser, we assign a random unique identifier (an âAppNexus IDâ, or âXandr IDâ) to your browser or device, which allows the Platform to automatically recognize your browser or device the next time it visits another Digital Property that has integrated our technology.&nbsp.
+This allows our clients and partners to sync their own unique identifiers against this ID so that they can use their own data on the Platform that they may have associated with you (collectively âDigital Identifiersâ).
+The Platform uses cookies, beacons, pixels, tags, mobile SDKs, and similar technologies to collect this information.
+For a detailed description of cookies and similar technologies set by the Platform, see the Xandr Digital Platform Cookie Policy.
+ 
+
+
+Other Information
+
+
+We collect other information, including without limitation personal data, from our affiliates and other companies as further described below (collectively âOther Informationâ).
+
+Our affiliates. We collect information from affiliates, such as information generated or derived by your use of affiliate companiesâ services â such as technical and usage information.
+
+Other companies. We collect information from other companies such as analytics providers, advertising and marketing firms, third-party data providers, and other promotional and strategic partners.
+ 
+
+
+How We Use the Information We Collect
+
+
+We use, and allow our clients to use, the information we collect for the following purposes:
+
+
+For our legitimate business interests to provide services to advertisers and owners of Digital Properties, including providing and operating our services which includes:
+
+Compiling statistics about the advertising transactions occurring through our Platform and conducting research and development for our own internal business purposes, such as analyzing campaign forecasts and conducting machine learning to help our clients improve their sales of ad space and delivery of ads to you
+Analyzing and reporting on campaign and ad performance, such as reporting to advertisers about when and how you have been exposed to ads or clicked on ads, and reporting to Digital Properties information about when and how ads were shown on their Digital Properties and whether they were clicked on
+Investigating, protecting against and deterring malicious activity, fake traffic or fraudulent, unauthorized or illegal activity on the Platform and on the internet
+Detecting and removing errors in systems
+
+
+
+Hands on help: The Platform enables Xandrâs clients to collect, buy, sell, and share data and to use Platform Data and Other Information to buy and sell online advertising.
+Sometimes, Xandr staff gives hands-on help to clients use the Platform for these purposes, for example by configuring advertising campaigns for clients to best meet their objectives.
+
+Allowing our clients to use Platform Data for the following advertising-related purposes:
+
+Interest-Based or Targeted Advertising: Using Platform Data and third party provided data to infer your demographic characteristics or what you may be interested in and to serve ads to you based on this information.&nbsp.
+Our clients may use their Platform Data to create interest profiles about you.
+Frequency Capping: Limiting the number of times you see an ad so you donât see the same ad or type of ad too many times
+Showing Ads in Sequence: Showing you ads in a particular order to provide a better user experience
+Geo-Targeting: Customizing ads shown to you based on your current or prior location
+Contextual Ads: Showing ads to you based on the content you are viewing
+Ad Measurement: Understanding how users respond to ads (e.g., clicking on the ad, visiting an advertiserâs website, and downloading an advertiserâs app)
+Aggregated Statistics: Reporting aggregated statistics regarding, for example, the effectiveness of online advertising campaigns
+Cross-Device Mapping: Enabling Cross-Device Mapping (grouping the devices that are likely owned by an individual or household) in order to serve or measure advertising on related devices on behalf of our clients.
+
+
+
+Typically, companies using the Platform own the data that they provide to and get from the Platform.
+While we take care to obtain assurances from our clients and partners that their use of Platform Data will comply with applicable laws, when clients remove data from the Platform, their use of that data is governed by their own privacy policies and applicable laws, rules, or regulations.
+ 
+
+
+How and Why We Disclose to Third Parties the Share the Information We Collect
+
+
+We disclose Platform Data, in some instances together with Other Information, with third parties as follows:
+
+
+Clients and Third-Party Providers: When you visit a Digital Property and that Digital Property wants to show you ads, and, in order to show you those ads, the Digital Property may allow certain third parties to access your device or receive and use the information noted above under âWhat Information do we collect and use.â
+
+When our clients integrate our technology in order to show you ads and enable us to collect your data, other than for the reasons noted in this section below, 
+such sharing of that data is determined by the Digital Property.
+
+
+We share information with advertisers and third-party providers in accordance with the Digital Propertyâs instructions so that they can decide whether to bid on ad inventory or serve an advertisement and choose the best ad for you using their data and our and our partnersâ technology.
+This shared information may also be used to create or enhance demographic and interest-based segments or profiles to help our clients choose the best ad for you
+These advertisers and third-party providers may use the information we provide to improve their products and services for use by us and others across the broader online advertising ecosystem (e.g.
+your Device Identifier may be used to improve fraud detection services).
+
+
+
+Service Providers (including data centers, hosting providers, anti-fraud, technology and security providers): We share with Service Providers (or enable their collection of) Platform Data so that they can perform functions and provide services to us including for purposes of protecting the safety and security of the online ecosystem, including to detect and prevent malicious activity or fake traffic.
+Our Service Providers are subject to obligations consistent with this Privacy Policy and appropriate confidentiality and security measures.
+More detail about this sharing is listed in the âDisclosures of Information to Service Providersâ section below.
+
+Legal Rights and Compliance with Law: We may also disclose Platform Data in the event that we reasonably suspect malicious activity or fake traffic or when we reasonably believe it is required by law, subpoena or other legal process, including to meet security or law enforcement requirements.
+
+Affiliates: We share Platform Data with other affiliate companies for use in accordance with this Privacy Policy.
+Xandr receives data from our affiliates for use in accordance with this Privacy Policy.
+
+Business Transfers: We may transfer Platform Data and Other Information that we collect to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
+
+Aggregated Data: We may also share aggregated data derived from the Platform, including, for example, statistics about Platform activity.
+
+ 
+
+
+Your Choices and Rights
+
+
+If you reside or are located in certain jurisdictions (as further described below), you may have rights and protections regarding the collection, processing, sharing, and use of your data under a particular jurisdictionâs law.
+This may mean that you may have the right to:
+
+Request access and obtain a copy of your data;
+To request correction of your data;
+Subject to some specific legal reasons where we may need to retain data, to request that your data be deleted or erased;
+To opt out of the sale or sharing (also known as targeted advertising) of your data to third parties;
+To control our processing of your sensitive personal data;
+If applicable, to enforce your right to data portability;
+To object to the processing of your data in certain circumstances;
+Not be discriminated against for exercising your rights with respect to your data.
+
+Find more details below.
+We do not sell or share personal data pertaining to any individual that Xandr knows is under 16 years of age.
+ 
+
+Opt Out of Interest-Based Advertising
+
+
+
+Web Browsers
+
+
+You can visit privacycenter.xandr.com to opt out of having the Platform used to select ads for your browser based on your online web browsing behavior.
+When you opt out, an opt out cookie (from adnxs.com) will be stored in your web browser.
+The Platform will know the choice you have made when it sees your opt out cookie, and will apply your choice to all companies using the Platform.
+If you block or delete the opt out cookie, your browser will not be opted out and will need to allow cookies from Xandr and renew your opt out choice.
+To review your opt in status or learn more about interest-based advertising, please visit the Network Advertising Initiative opt out page, the DAAâs WebChoice tool or the DAACâs WebChoices tool.
+Important things to note about the web browser opt out:
+
+
+
+Blocked cookies
+: The opt out cookie may not work if your browser is configured to block third-party cookies.
+
+
+Deleting or protecting opt outs
+: If you delete your cookies, you will need to opt out again.
+There are browser plugins to help you preserve your opt out cookies.
+For more information, please visit http://www.aboutads.info/PMC.
+
+
+Only this browser
+: The opt out only applies to the browser profile in which you set it.
+For example, if you set the opt out while using Firefox, but then use Chrome, the opt out will not be active in Chrome.
+To opt out in Chrome, you will need to repeat the opt out process.
+This is because the cookies cannot be read between different browsers or browser profiles.
+
+
+The opt out does not block or delete cookies
+: It also does not prevent the use of cookies or other technologies for purposes other than selecting ads based on your interests as inferred by your online behavior.
+If you opt out, data may still be collected about your web browsing activities and you will still see advertising.
+Ads may be selected, for example, based on the content of the web page in which they are shown.
+If you wish to block or delete cookies altogether, you can use web browser settings to do so.
+
+
+
+Mobile Apps
+
+
+Mobile device system software such as Apple iOS or Google Play Services provide mechanisms that allow users to opt out of the use of information about their usage of mobile apps to deliver targeted ads to their mobile device.
+For more information, or to opt out using these mechanisms, consult your device settings (âOpt out of Personalized Adsâ on Android devices and âLimit Ad Trackingâ on iOS devices).
+When Xandrâs technology encounters âLimit Ad Trackingâ signals they are respected.
+Devices vary in where they include the setting to adjust, you can use the Network Advertising Initiativeâs mobile optout guide here.
+
+
+Location Data
+
+
+Most mobile devices offer you the ability to stop the collection of location information at any time by changing the preferences on your device.&nbsp.
+You may also be able to stop the collection of location information by particular apps by adjusting the settings for individual apps or following the standard uninstall process to remove specific mobile apps from your device.&nbsp.
+Note when location services have not been enabled in any of your apps, we may still infer data about your location based on your IP address.
+
+
+Televisions
+
+
+Your internet connected device (e.g.
+a smart TV or a set- top box) may give you the ability to opt-out of the use of information for advertising purposes.&nbsp.
+To determine if your Internet connected device has these options, please visit your deviceâs settings menu.
+Xandr reads and applies industry opt out signals for connected televisions.
+
+Access, Correction, and Deletion Rights
+
+If you reside in certain jurisdictions, you may have the right to access the data about your devices, request the correction of inaccuracies you find in such data, and request the deletion of such data.
+Note that because we do not collect information that directly identifies an individual (and prohibit clients from storing this information) on the Platform, it is generally not feasible for us to verify individualsâ identities to provide or correct data that is tied to their identities, so we are unable to process access, correction, and deletion requests for most consumers.
+However, you may be able to exercise these rights for data held by our affiliates.
+If you are interested in exercising any of these rights, please click here.
+Note that you can delete your cookies at any time by using your browser settings.
+You can also reset the advertising identifier in your mobile device at any time by using your platform setting referenced in Mobile Apps above.
+
+
+We Donât Mind If You Exercise Your Data Rights
+
+
+We are committed to providing you the controls over your personal data afforded to you by applicable data protection laws.
+If you exercise any of these rights explained in our Privacy Policy, we will not disadvantage you.
+You will not be denied or charged different prices or rates for goods or services or provided a different level or quality of goods or services.
+
+
+Consumers Under 16 Years Old
+
+
+As of the effective date of this policy, we do not have actual knowledge that we sell  or use personal data of consumers under 16 years of age for targeted or cross-contextual behavioral advertising (âsharingâ).
+If we collect personal data that we know is from a child under 16 years old in the future, we will not âsellâ or âshareâ that information unless we receive affirmative permission, in compliance with applicable data protection laws, to do so.
+If a child is between 13 and 16 years of age, the child may provide that permission.
+If you wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies, please use the Contact Us information provided below.
+
+
+Industry Self-Regulation
+
+
+Xandr supports industry self-regulation, and endorses best practices and self-regulatory requirements that apply to the Platform.
+Xandr/AppNexus is a member in good standing of the Network Advertising Initiative (âNAIâ) and adheres to the NAI Code of Conduct.
+Xandr/AppNexus also follows the industry self-regulatory guidelines of the Digital Advertising Alliance (âDAAâ) and the Digital Advertising Alliance of Canada (âDAACâ).
+Additionally, the following industry sites provide useful information about industry self-regulation of interest-based advertising:
+
+US: networkadvertising.org and www.aboutads.info
+
+EU: youronlinechoices.com
+
+Canada: youradchoices.ca
+
+
+ 
+
+
+Our Global Operations
+
+
+Xandr is a global company headquartered in the United States with data centers located in the United States, Europe and Asia.
+If you access any of the Digital Properties that use our technology, please be aware that your information may be transferred to, stored and processed by us and our affiliates in our facilities in the United States and other countries (including in Singapore, Japan, Australia and Brazil where our global affiliates have offices) and by those third parties with whom we may share your information.
+These countries (including the United States) may not provide an adequate level of data protection for your information (as determined by the European Commission for personal data in its jurisdiction) or have data protection or other laws as comprehensive as those in your country.
+Please see âInformation for Residents of European Countriesâ below for information on how we protect information that is transferred out of the European Economic Area, United Kingdom, and Switzerland.
+ 
+
+
+California Consumer Privacy Rights
+
+
+The California Consumer Privacy Act , as augmented and amended by the California Privacy Rights Act, or âCPRAâ(California Civil Code Section 1798.100 et seq.) applies to the collection, use, and disclosure of âpersonal informationâ collected from California residents (as those terms are defined by the CPRA, including consumer,  employee-related and business to business related information).
+Personal Information (California PI) is defined by California law as information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with California consumers or households.
+Additionally, please note the following:
+
+For employee related information related requests, please direct your requests to the Microsoft.com privacy policy.
+For business to business information, such as personal data related to your role in another company that Xandr may have access to, please see below for more information.
+Additionally, you may use the request mechanisms and instructions provided in this Xandr Platform Policy to enable your requests.
+
+The CPRA requires us to disclose the following information regarding California PI we collect.&nbsp.
+You can find this information in the policy sections above and this section.
+Please see the above sections of this policy for the following information:
+
+Categories of California PI we collect
+Categories of sources of California PI
+Our business and commercial purposes for collecting and using California PI
+Categories of California PI we have disclosed to third parties
+Categories of third parties to whom we disclosed California PI
+
+Additionally, in this section you may find the following disclosures:
+
+Categories of California PI âsoldâ or âsharedâ (as defined by the CPRA) and types of recipients of such data
+Disclosures relating to business contact California PI
+Information concerning your rights to access, correct, and delete your California PI
+Information regarding your right to opt-out of the âsaleâ and âsharingâ of your California PI and processing of sensitive California PI
+
+If you are a California consumer as defined by the CCPA or CPRA, you have the right to: (i) request access to the specific pieces of California PI we have collected about you and request additional details about our information practices, (ii) request deletion of your California PI, (iii) opt-out of the âsaleâ and âsharingâ of your California PI (as those terms are defined by the CPRA), (iv) opt-out of the processing of your sensitive California PI, and (v) to not be discriminated against for exercising any of your rights under the CPRA.&nbsp.
+Your options regarding the personal information we collect or receive about you are described below.
+Please note that if you wish to exercise any of your rights with any of Xandrâs clients, you must make your request directly to those Xandr clients, based on information and procedures that they supply.&nbsp.
+Xandr clients own the Platform Data that they maintain in the Platform.&nbsp.
+Xandr does not control how those clients use Platform Data.
+
+
+Personal Information âSoldâ or âSharedâ
+
+
+In addition to the data elements we disclose to third parties for our business purposes (as noted earlier in this policy),&nbsp.
+we may âshareâ or âsellâ, as those terms are defined by the CPRA, the following categories of California PI:
+
+Identifiers, such as IP address and online identifiers
+Internet or other electronic network activity, such as browsing history, search history, and information regarding your interaction with a website, app, or advertisement
+Inferences drawn from demographic information, internet browsing history, or other personal data used to create a profile about you
+Geolocation data
+The following potentially sensitive personal information:
+
+Precise location data
+Information revealing racial or ethnic origin, religious or philosophical beliefs, or union membership
+Information concerning sex life or sexual orientation
+Information relating to health
+
+
+The following California PI regarding business contacts (as further described below):
+
+Identifiers, such as name, email address, and online identifiers
+Professional information
+
+
+
+The above categories of California PI may be âsoldâ to or âsharedâ with the following types of third parties:
+
+Analytics and measurement providers
+Companies involved in marketing and advertising
+Xandr affiliates, including former affiliates prior to the Microsoft acquisition
+
+
+
+Business Contact Personal Information
+
+
+Under California law, certain types of business contact information are considered California PI.
+Thus, in addition to the other data types previously described in this policy, we collect business to business California PI about individuals, including the following categories of information:
+
+Identifiers, such as real name, alias, email address, online identifiers, and IP address.
+Commercial information, including services obtained from Xandr.
+Professional information.
+Sensitive personal information, including platform account login credentials.
+
+&nbsp.
+We collect this information from the following sources:
+
+Directly from you â such as contact and billing info and customer service interactions.
+Generated by your use of our services â such as technical and usage information.
+Other companies â such as vendors and marketing firms.
+Publicly available sources â such as public records.
+
+Business contact California PI is used for the following purposes:
+
+Perform services on behalf of the business, such providing our products and services, customer service, processing or fulfilling orders, and processing payments.
+Deliver marketing and advertising.
+Internal research, analytics, and development â e.g., user-preference analytics.
+Protect and enforce our agreements and property rights.
+Comply with court orders, legal processes, or respond to regulatory or other similar requests.
+
+We disclose the following categories of business contact California PI for our own business purposes to third parties:
+
+Identifiers, such as real name, alias, email address, online identifiers, and IP address.
+Commercial information, including services obtained from Xandr.
+Professional or employment related information.
+Sensitive personal information, including platform account login credentials.
+
+We disclose business contact California PI for our own business purposes to the following categories of third parties:
+
+Product and services delivery companies.
+Marketing services companies.
+Cloud storage companies.
+Billing and payment processing companies.
+Analytics companies.
+
+Additionally, business contact personal information may be retained as long as necessary for business, tax, or legal purposes.&nbsp.
+After that, we destroy it by making it unreadable or indecipherable.
+
+Your Right To Access, Correct, and Delete, Information Collected And Shared 
+
+Subject to certain exceptions, California consumers have the right to request from Xandr the following information with respect to their California PI, including business contact California PI:
+
+The categories and specific pieces of your California PI that weâve collected.
+The categories of sources from which your California PI was collected.
+The purposes for collecting, sharing, or selling your California PI.
+The categories of third parties with whom we shared your California PI.
+
+You can also submit a request to us for the following additional information:
+
+The categories of California PI weâve shared or sold about you, the categories of third parties to whom weâve shared or sold that California PI, and the category or categories of California PI shared or sold to each third party.
+The categories of California PI that weâve disclosed to third parties for a business purpose, such as to those who provide services for us.
+the categories of third parties to whom weâve disclosed that California PI.
+and the category or categories of California PI disclosed to each third party.
+
+Further, you may request that Xandr perform the following with respect to California PI we have collected about you:
+
+Correct your inaccurate California PI.
+Delete your California PI.
+
+To exercise your right to request the disclosure, correction, or deletion of your California PI that we collect or share, click here.
+These requests for disclosure are generally free.&nbsp.
+However, it is important to note that, except for business contact personal information, we do not generally collect or retain information that directly identifies an individual.&nbsp.
+Therefore, it is generally not feasible for us to verify individualsâ identities to provide, correct, or delete data that is tied to their identities, and as a result, we will deny most consumer requests in this regard.&nbsp.
+Further, we may retain your California PI in situations when that information is necessary for us to: provide you with a good or service that you requested.
+perform a contract we entered into with you.
+maintain the functionality or security of our systems.
+comply with or exercise rights provided by the law.
+or use the information internally in ways that are compatible with the context in which you provided the information to us, or that are reasonably aligned with your expectations based on your relationship with us.
+
+Your Right to Ask Us Not to Sell or Share Your California PI
+
+You can always tell us not to âsellâ or âshareâ your California PI by clicking here.
+Once we receive your request, we will not âsellâ or âshareâ your California PI, which in part means that we will not use your California PI for cross-context behavioral advertising (as defined by the CPRA), unless you later allow us to do so.
+We may ask for your permission to resume âsaleâ or sharingâ of your California PI at a later date, but we will wait at least 12 months before doing so.
+
+Your Right to Opt-out of our Processing of your Sensitive California PI
+
+You may also instruct us not to process your sensitive California PI by clicking here.
+Once we receive your request, which is connected to our âsaleâ and âsharingâ opt-out process, we will not use your sensitive California PI except as requested by you or as otherwise permitted by California law, such as to review and respond to a data access, correction, or deletion request, to deliver non-personalized advertising, or to help ensure the security and integrity of our advertising platform.
+
+Do Not Track Signals
+
+Our advertising platform will honor the Global Privacy Control browser signal (GPC) for California consumers where the usersâ web browsers support this signal.
+In particular, when a California consumer uses GPC to indicate that they do not want their California PI âsoldâ, âsharedâ, and/or tracked, Xandr will not process on our platform any California PI sourced from that consumerâs web browser for any âsaleâ or âsharingâ purposes, so long as the GPC opt-out signal remains present and readable by Xandr.
+Xandr does not currently honor any other âdo not trackâ browser-based signals.
+
+Authorized Agents
+
+You may designate an authorized agent to submit requests on your behalf.
+Your agent will need a valid power of attorney or written permission signed by you.
+
+
+California Metrics
+
+
+For more information, please click here.
+ 
+Virginia Consumer Privacy Rights
+
+
+ In addition to the other rights discussed in this policy, if you are a Virginia consumer, as defined by the Virginia Consumer Data Protection Act (âVCDPAâ), you have the right to: (i) request access to your personal data (as defined by the VCDPA) and request additional details about our information practices, (ii) request deletion of your personal data, (iii) opt-out of the âsaleâ and âsharingâ of your personal data, and (iv) to not be discriminated against for exercising any of your rights under the VCDPA.&nbsp.
+Your options regarding the personal data we collect or receive about you are described below.
+For more information regarding the personal data we collect, use, and share, please review the preceding sections of this policy.
+
+Your Right To Access, Correct, and Delete, Information Collected And Shared 
+
+Subject to certain exceptions, Virginia consumers have the right to request from Xandr:
+
+The specific pieces of personal data that weâve collected about you;
+The correction of inaccuracies you find in the personal data that weâve collected.
+and
+The deletion of the personal data weâve collected about you.
+
+To exercise your right to request the disclosure, correction, or deletion of your personal data that we collect, click here.
+These requests for disclosure are generally free.&nbsp.
+However, it is important to note that, because we do not collect information that directly identifies an individual (and prohibit clients from storing this information) on the Platform, it is generally not feasible for us to verify individualsâ identities to provide or correct data that is tied to their identities, so we are unable to process access, correction, and deletion requests for most consumers.&nbsp.
+Further, we may retain your personal data even after receipt of a verified deletion request in situations when that information is necessary for us to: provide you with a good or service that you requested.
+perform a contract we entered into with you.
+maintain the functionality or security of our systems.
+comply with or exercise rights provided by the law.
+or use the information internally in ways that are compatible with the context in which you provided the information to us, or that are reasonably aligned with your expectations based on your relationship with us.
+
+Your Right to Ask Us Not to Sell Your Personal Data or Serve You Targeted Ads
+
+As noted earlier in this policy, Xandr uses your personal data to facilitate the delivery of targeted advertising, as defined by the VCDPA, to you.
+You can always opt-out of the serving of targeted advertising by Xandr and also tell us not to âsellâ your personal data by clicking here.
+Once we receive your request, we will not âsellâ your personal data or use your personal data for targeted advertising, unless you later allow us to do so.
+
+Sensitive Personal Data Processing
+
+The VCDPA requires data controllers to obtain Virginia consumersâ consent prior to processing their sensitive personal data (as defined by the VCDPA).
+Because our Platform facilitates the delivery of advertising on third party websites and apps and we do not interact directly with you, we will not process your sensitive personal data where Xandr is considered is an independent controller of such data.
+Rather, we will only process your sensitive personal data where our clients or data providers (as applicable) have first obtained such consent from you.
+
+Other Important Information Regarding Your Rights Under the VCDPA
+
+Residents of Virginia have the right to opt-out of profiling done in furtherance of decisions that produce âlegal or similarly significant effectsâ, as defined by the VCDPA.
+As Xandr does not conduct this type of profiling, we do not offer profiling opt-outs to Virginia residents.
+If you would like to make sales, targeted advertising, sensitive personal data use, and profiling elections (as applicable) with our clients and data providers, you must make your request directly to those Xandr clients and data providers, based on information and procedures that they supply.
+
+
+Information for Residents of European Countries
+
+
+If you are located in the European Economic Area, the United Kingdom, or Switzerland (the âEuropean Countriesâ), you have certain rights and protections under applicable law regarding the processing of your âpersonal dataâ as defined under applicable law.
+Some of the Platform Data that Xandr maintains in its Platform may constitute âpersonal dataâ under these laws.
+
+Role of Xandr as a Controller or Processor
+
+If you are located in one of the European Countries, Xandr may act a âcontrollerâ as defined under applicable law when processing your personal data.
+Xandr may also act as a âprocessorâ as defined under applicable law to the extent that it processes your personal data on behalf of and at the instruction of another party, for example a Xandr client.
+
+Legal Basis for Processing
+
+Xandrâs legal basis for processing your personal data depends upon the specific context in which we collect or use it.
+We normally rely on our legitimate interests to collect and use personal data, except where our interests are overridden by your data-protection interests or your fundamental rights and freedoms.
+Our legitimate interests are described in greater detail in the âHow We Use the Information We Collectâ section of this policy.
+These legitimate interests include the operation of our Platform and business and the provision of our online advertising technology services to our clients as required by our agreements with them.
+In some cases, we may rely on your consent which is obtained for us by the operator of the Digital Properties that use our technology or use technology that interacts with our Platform.
+Where we rely on consent to process your personal data, we will obtain such consent in compliance with applicable laws.
+Where you have given your consent, you have the right to withdraw your consent at any time.
+Additionally, we may have a legal obligation to process personal data.
+
+Your Rights
+
+If you are located in one of the European Countries, you may be entitled to exercise certain data-subject rights available under applicable laws.
+These rights may include the right to request access to personal data we hold about you.
+You may also have the right to object to, or request that we restrict, processing of your personal data.
+You may also have the right to ask that your personal data be corrected, erased, or transferred to another party.
+If you would like to exercise any of these rights, you may do so as explained in the Your Choices and Rights section above.
+
+Data Transfers
+
+When Xandr transfers your personal data to group companies or third-party service providers outside of the European Countries, we ensure that appropriate protections are in place under European data protection legislation (which includes Model Clauses).&nbsp.
+For example, in order to ensure that your personal data is adequately protected when transferred outside of the European Countries, Xandr has entered into inter-company âmodel clauseâ agreements and other adequacy arrangements with other various entities located outside the European Countries with whom we share your information.
+A copy of such agreements is available on request.
+
+IAB Europe Transparency and Consent Framework
+
+If you are located in one of the European Countries and visiting a Digital Property, we are registered as a vendor with, support and encourage our clients to use the IAB Europe Transparency and Consent Framework (the âIndustry Frameworkâ) to provide you with dynamic transparency into and choice about the various third parties our clients use to serve you ads, including ourselves.
+When you visit a Digital Property, the Industry Framework is designed to allow a Digital Property the means to choose which vendors they wish to allow to access your device and process your personal data and provide dynamic transparency and choice to you about each of these vendors (either an opportunity for you to consent to the vendor or opt-out of data processing by the vendor depending on that vendorâs legal basis and processing activities).
+
+Questions or Complaints
+
+If you are in one of the European Countries and have a question or concern about how we process personal data you can contact our Data Protection Officer here.
+If we are not able to resolve your issue, you have the right to lodge a complaint with the data privacy authority where you reside.
+For contact details of your local Data Protection Authority, please see here.
+
+
+Information Our Clients and Vendors Collect
+
+
+Our clients, our Service Providers (as defined above), and our clientsâ Service Providers who use our technology, may use their own tags, pixels, cookies, or other similar technology (or those of their other affiliates) within their advertisements and on certain Digital Properties.
+Except as provided elsewhere in this Privacy Policy, we are not responsible for our clients, vendors and/or our clientsâ vendors use of such tracking technologies or for their privacy practices.
+
+
+Google Remarketing
+
+
+We use the remarketing, re-engagement, or similar audiences feature in Google Ads to advertise online.
+Third parties, including Google, show our ads on sites across the Internet and use cookies and/or device identifiers to serve ads based on your past website visits.
+You can opt-out of Googleâs use of cookies by visiting the Google Ad Settings website here.
+For more information about the privacy practices of Google, please visit the Google Privacy &amp.
+Terms website here.
+
+
+Retention
+
+
+We never store any information longer than we need it.
+Platform Data is usually aggregated or deleted within 3-60 days but may be retained in the Platform for up to 18 months for specific clients and for security and the detection and prevention of fraud and invalid traffic from the date of collection before aggregation or deletion.&nbsp.
+When we no longer need the information we collect, it is deleted or aggregated.
+Aggregated information is used for reporting and analysis and may be stored in the Platform for up to 2 additional years.&nbsp.
+Also, please see the California Consumer Privacy Rights section of this policy for more information on our retention of business contact California PI.
+When partners receive information through us or clients remove their information from the Platform, their storage and retention of the removed information is governed by their own privacy policies and applicable laws, rules, or regulations.
+
+
+Changes to this Privacy Policy
+
+
+Check this page for changes.
+We may change this Privacy Policy at any time.
+If we make changes that, in our sole discretion, are material, those changes will not be applied to information collected prior to the date the changes went into effect.
+
+
+Contact Us
+
+
+If you have questions about privacy on the Xandr Platform, you can send us a message here.
+
+If you are located in the European Countries, you can contact our Data Protection Officer here.
+
+You can also contact us by post using the details provided below:
+Xandr Inc.
+Attn: Privacy Office
+28 West 23rd Street, Fl 4
+New York, NY 10010
+USA
+ 

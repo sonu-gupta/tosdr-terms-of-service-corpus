@@ -1,0 +1,44 @@
+
+         Menu
+
+Home
+About
+Archive
+Webrings
+RSS Feed
+JSON Feed
+Privacy policy
+Services
+Source code
+Contact us
+Disclaimer
+ Privacy policy The value of the Tk HTTP header already says it,
+basically: We do not knowingly collect data of any kind from you.
+The server saves the public IP address of your machine in RAM for
+the time that it needs to complete your HTTP request.
+To our
+knowledge, no logging of this process is happening, except when
+certain errors occur that are not 400-type such as 404
+(File not found), in which case, the request, including IP address
+and user agent, may be logged to the system journal, which,
+however, is only stored in RAM, not on disk, and is limited to a
+few MBs.
+These kinds of errors do not usually occur on the website,
+but may happen on certain services like Libreddit or Invidious.
+These logs typically are never automatically analyzed and only
+viewed if debugging needs to happen.
+In such cases, they may be
+shared with third parties such as the developers of the service,
+but only if all identifying information is redacted beforehand.
+There are no tracking scripts or pixels, no cookies, and nothing
+that calls out to third parties on the website.
+Some pages on this
+site may link to external sites.
+We are not responsible for the
+privacy policies of those sites.
+The server runs on a connection provided by Deutsche Telekom AG.
+They have their own privacy policy, and we cannot guarantee that
+they do not perform any network-level logging.
+However, due to the
+use of transport-level encryption, they at least cannot see what
+pages you visit on this site.

@@ -1,0 +1,44 @@
+
+         API Privacy Policy To provide usage statistics, we store basic information about your queries (counters for successful and failed queries, for resolved countries) for the duration of your subscription, and for up to 1 year after your subscription has ended.
+We store access logs (such as your IP address, ip/domain being queried, API key) for a maximum of 24 hours, and we will never share this data with any other company or provider.
+These logs are used only for troubleshooting issues you may have. TL;DR Privacy Policy This is a summary of our full privacy policy and it applies to clients of members.ip-api.com.
+Client data
+For legal and operational reasons we will store billing data that you submit to us (such as company details, full name, email address and postal address) for the duration of your subscription, and for up to 1 year after your subscription has ended.
+We do not store your payment information (such as full credit card numbers).
+When placing an order, for the sole purpose of processing payments, we will transmit your billing data (company name, full name, email address and postal address) to our payment processors Netopia S.R.L.
+(mobilpay.ro), PayPal, CoinPayments or Payssion.
+We will not sell or give away any of your personal information to any third party, but we may share your personal information and access logs to comply with applicable laws and regulations (such as subpoenas or search warrants). If there ever were to be a breach of personal data, we will inform impacted parties within 24 hours of detecting the breach.
+Website
+We use cookies strictly to keep track of authenticated clients.
+We do not set any third-party cookies.
+We collect and store basic information about your requests to this website (such as IP address, browser agent, referring site, date and time of each request and other activities) for the duration of your subscription, and for up to 1 year after your subscription has ended.
+We do not use any third-party analytics. Terms of Service These terms apply to clients of members.ip-api.com and API calls to the pro.ip-api.com endpoint.
+Acceptable Use Policy
+You can query the ip-api pro endpoint for an unlimited amount of times for the duration that your subscription is active.
+We reserve the right to block your API keys or disable your subscription if we believe you are querying the API in an intentionally excessive or abusive manner, for example, if you're querying all possible IPv4 addresses for database mining purposes.
+We do not allow reselling of your API keys, subscription, or data returned by the API.
+You are responsible for keeping your API keys private.
+We recommend setting restrictions for your API keys, so eventual key leaks will prevent potential API abuse.
+Response time
+We use various techniques to offload, failover and balance traffic to multiple physical servers located around the world.
+The pro endpoint has a response time of less than 500ms in most populated areas of the world, and under 100ms in Europe, USA and most of Asia. If you consistently experience higher latencies, we will deploy servers to better serve your area.
+Please submit a request at contact@ip-api.com.
+
+SLA
+We strive for a 100% API uptime.
+However, if the uptime falls below 99.9% in a subscription month, or if the response time is consistently (for more than 1 hour) over 500ms, we will automatically extend your subscription for 10 days. If your subscription is not automatically extended you can submit a request at contact@ip-api.com with supporting documentation, such as log files showing the non-availability of the API.
+The SLA will not apply in the following cases: failure of network routes outside of our control, Denial of Service attacks, or suspension of your account or API keys.
+Data
+We use multiple sources for populating our database, including BGP, RIR, ISP and data sharing agreements, geofeeds and latency-based tracking. For some IP ranges we fallback to GeoLite2 data created by MaxMind, available from www.maxmind.com We do our best effort to return accurate data, but the information returned may contain errors or be inaccurate.
+We do not offer any warranties regarding the correctness of the data returned by the ip-api pro endpoint.
+Billing
+There is no commitment and no automatic renewal.
+You can stop paying at any time.
+Refunds
+You can request a full refund within 14 days from the day of payment by submitting a request at contact@ip-api.com.
+Refunds will be provided in the same way that the initial payment was made (e.g.
+credit card payments will be refunded directly to the same credit card). GDPR We are fully compliant with the General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679) and we take all the necessary steps to ensure any personal data collected from you is securely stored.
+Please read our full privacy policy for details on how we process and protect your data
+You can email our DPO at dpo@ip-api.com for any requests regarding your personal data or your rights. Contact Have questions or concerns about ip-api, our services and privacy? Contact us at contact@ip-api.com or via this form.
+Artia International S.R.L.VAT RO29237219 | Reg.
+J40/12390/2011Bucharest, Romania

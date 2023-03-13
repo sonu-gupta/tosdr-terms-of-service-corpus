@@ -1,0 +1,299 @@
+
+         Yubico Sale and License AgreementHome / Support / Terms and conditions / Yubico Sale and License Agreement Updated July 29th, 2020
+PLEASE READ THE FOLLOWING TERMS AND CONDITIONS BEFORE PURCHASING OR USING YUBICO PRODUCTS, INCLUDING BUT NOT LIMITED TO YUBIKEY AND YUBIHSM PRODUCTS (âHARDWARE) AND YUBICO VALIDATION SERVICES, INCLUDING YUBICLOUD (âVALIDATION SERVICEâ) (COLLECTIVELY, THE HARDWARE AND VALIDATION SERVICE SHALL BE REFERRED TO AS âPRODUCTSâ).
+THE TERMS AND CONDITIONS OF THIS SALES AND LICENSE AGREEMENT AND THE YUBICO ORDERING DOCUMENT YOU EXECUTED OR AGREED TO (âORDER FORMâ) (THIS SALES AND LICENSE AGREEMENT AND THE ORDER FORM, COLLECTIVELY THE âAGREEMENTâ) ARE AN AGREEMENT BETWEEN YOU AND YUBICO AND GOVERN YOUR USAGE OF PRODUCTS UNLESS YOU AND YUBICO HAVE EXECUTED A SEPARATE WRITTEN AGREEMENT GOVERNING YOUR USE OF PRODUCTS
+âYUBICOâ MEANS: YUBICO, INC., 530 LYTTON AVENUE, SUITE 301, PALO ALTO, CA 94301, U.S.A.
+IF YOU ARE ACQUIRING THE PRODUCTS IN THE AMERICAS.
+AND YUBICO AB, KUNGSGATAN 44 2ND FLOOR.
+111 35 STOCKHOLM, SWEDEN, IF YOU ARE ACQUIRING THE PRODUCTS OUTSIDE OF THE AMERICAS.
+REFERENCES HEREIN TO THE âPARTIESâ OR A âPARTYâ SHALL MEAN YOU AND YUBICO, AS APPLICABLE.
+This is a legally binding agreement between you and Yubico.
+By using Products or clicking âAgreeâ, as applicable, you are stating that you fully understand, agree to be bound by and accept all the terms and conditions of this Agreement.
+If you are accepting this Agreement on behalf of a company, you represent that you are authorized to do so.
+If you purchased Products as a private person (âConsumer Purchaserâ) directly from Yubicoâs online webstore and do not accept the terms of this Agreement, then you may not use the Products, and you may return such unused Products to Yubico, at your expense, within 30 days of the date of delivery (with the Order Form and all original unopened packaging and documentation) for a full refund of the purchase price.
+If you are a Consumer Purchaser that purchased from other third-party vendors, including retail stores, please contact those vendors directly for more information about their refund policies.
+
+
+Use and Restrictions
+(a) License Grant.
+The Hardware may contain certain object code software deployed onto its secure hardware prior to delivery to the user (âFirmwareâ) and/or provided separately for use with the Hardware (collectively, such Firmware and separately provided software being âSoftwareâ).
+Yubico grants you a personal, non-exclusive, non-sublicensable, non-assignable and non-transferable license to use the Software solely as part of your use of the Hardware, in accordance with the published specifications for the Product and for your internal non-commercial use.
+You may use the Firmware only as originally deployed onto the Hardware.
+(b) Restrictions.
+You shall not: (i) modify, translate or create derivative works from the Products.
+(ii) disassemble, decompile, reverse engineer, perform cryptographic analysis on or otherwise attempt to derive the source code of the Products, in whole or in part, unless expressly permitted by applicable law in the jurisdiction of use despite this prohibition.
+(iii) disclose, publish or otherwise make publicly available any benchmark, performance or comparison tests that you (or a third-party contracted by you) run on the Products, in whole or in part.
+(iv) separate the Firmware from the remainder of Hardware or use the Software on another device.
+(v) interfere with, disrupt the integrity or performance of, or attempt to gain unauthorized access to the Validation Service.
+(vi) sell, resell, distribute, transfer, publish, disclose, rent, lend, lease or sublicense the Products or its Software (for the avoidance of doubt, if you are acquiring Products on behalf of a company you may make the Products available to your employees for use as well as your Affiliates and Third-Party Contractors subject to Section 1(d), below).
+(vii) make the functionality of the Products available to any third party through any means, including without limitation by uploading the Software to a network or file-sharing service or through any hosting, application services provider, service bureau or other type of services.
+or (viii) use, or make available, the Validation Service with non-Yubico Products.
+(c) Optional Items.
+From time-to-time, Yubico at its sole discretion, may make available to you optional items including but not limited to (i) optional Software utilities and beta software for supporting the usage of the Hardware.
+and (ii) pre-release Hardware (collectively âOptional Itemsâ).
+Unless a particular Optional Item includes its own separate and specific terms and conditions, this Agreement shall govern the usage of Optional Items.
+Conditioned upon your compliance with the terms and conditions of this Agreement, Yubico grants you a non-exclusive and non-transferable license to use the Optional Items solely in executable form and solely for your internal business purposes of supporting the Hardware, and in the case of pre-release Hardware, for evaluation purposes.
+Optional Items are not fully tested by Yubico and may include significant issues.
+You acknowledge that Optional Items are likely to present risks associated with their use.
+Yubico strongly recommends that you back up all your data prior to using optional items from any source.
+Notwithstanding anything to the contrary in this Agreement, Optional Items are provided âas isâ, and do not carry any warranties or maintenance or support.
+similarly, in no event shall Yubico be liable for any damage arising from the use of Optional Items.
+(d) Affiliates and Third-Party Contractors.
+You may allow your âAffiliatesâ to use the Products, provided that you shall (i) provide the Affiliate with a copy of the Agreement.
+(ii) ensure that the Affiliate complies with this Agreement.
+and (iii) be responsible for any breach by such Affiliate.
+âAffiliateâ means any entity that Controls, is Controlled by, or is under common Control with you or Yubico, as applicable, where âControlâ means having the power, directly or indirectly, to direct or cause the direction of the management of the entity, whether through ownership of voting securities, by contract or otherwise.
+If you contract with a third-party contractor providing IT services solely for your benefit, they may use the Products subject to their compliance with this Agreement.
+
+
+Ownership
+The Software is licensed not sold.
+All title to the Software and other Yubico intellectual property rights related to the Software such as, but not limited to, copyright, trade secrets, patents, trademarks and service marks, shall always remain with Yubico and its licensors as applicable.
+To the extent you provide any suggestions or comments related to the Products, Yubico shall have the right to retain and use any such suggestions or comments in current or future products or subscriptions, without your approval or compensation to you.
+
+
+Support Services and Professional Services
+If you have not purchased technical support services (âSupport Servicesâ) or professional services (âProfessional Servicesâ) (collectively âServicesâ) pursuant to an Order Form, then Yubico will have no obligation to provide Services to you.
+If Yubico, in its sole discretion elects to provide Support Services to assist you, it is provided on an âas isâ basis without any warranties, service levels or obligations.
+similarly, in no event shall Yubico be liable for any damage arising from providing such discretionary Support Services.
+If you have purchased Services, then they shall be governed by the Yubico Services Agreement located at https://www.yubico.com/support/terms-conditions/yubico-services-agreement/.
+
+
+Payment, Taxes, and Delivery
+(a) Reseller Purchases.
+The entirety of this Section 4 does not apply to you if you purchased Products from a Yubico authorized distributor or reseller.
+All commercial terms, including but not limited to payment, taxes, and delivery shall be determined and settled between you and such distributor or reseller.
+(b) Yubico Webstore Purchases.
+If you are purchasing from the Yubico online webstore, applicable fees will be set forth on the website at the time of purchase or in the applicable invoice.
+Prices on the Yubico webstore: are exclusive of applicable VAT, sales tax, import duties, shipping fees and customs fees.
+VAT or sales tax will be added before the order confirmation, if applicable.
+To allow you to determine what import duties and taxes, if any, may be added to your order, please contact us by opening a support ticket here https://support.yubico.com/support/tickets/new to determine the country we will ship from.
+Shipping fees will vary based on the location of delivery.
+Shipping country: will be determined after order is placed.
+For specific information on what country your order is shipped from, please contact us by opening a support ticket here https://support.yubico.com/support/tickets/new.
+Usually, if the delivery country is in the Americas, we ship from the USA, otherwise we ship from Sweden.
+If the delivery address is in the European Union, we will ship from within the European Union.
+(c) Yubico Direct Sales.
+â(i) Payment. If you are purchasing from Yubico by entering into a written Order Form, you will pay Yubico the total fees specified in the Order Form.
+Fees will be due 30 days from invoice date, provided that Yubico reserves the right in its sole discretion to require prepayment from you if you do not have a well-established transaction history with Yubico or if you for instance have exhibited questionable credit worthiness or have failed to adhere to payment terms for prior Yubico purchases.
+In addition, you understand and accept that Yubico may at any time sell any outstanding debt to a third party.
+Further, Yubico reserves the right to require payment be made by electronic means including but not limited to ACH/EFT or wire transfer.
+All sums that are past due will accrue interest at the highest rate permissible by applicable law and you will reimburse Yubico for all reasonable costs and expenses incurred (including reasonable attorneysâ fees) in collecting any overdue amounts.
+All fees are non-refundable unless otherwise specified.
+Prices quoted are exclusive of all sales, use, value-added, good and services, withholding and other taxes or duties.
+â(ii) Taxes. You will pay or self-assess all taxes and duties assessed in connection with this Agreement and its performance, except for taxes payable on Yubicoâs net income.
+To the extent that any amounts payable by you are subject to withholding taxes, the amount payable shall be grossed up such that the amount paid to Yubicoâs net of withholding taxes equals the amount invoiced by Yubico.
+If you pay any withholding taxes based on payments made by you to Yubico hereunder, you will furnish Yubico with written documentation of all such tax payments, including receipts and other customary documentation, to demonstrate to the relevant tax authorities that you have paid such taxes.
+If applicable, you shall also provide Yubico with appropriate VAT/GST registration numbers and other documentation satisfactory to the applicable taxing authorities to substantiate any claim of exemption from any tax or duties.
+You agree that your purchases are not contingent on the delivery of any future functionality or features (including future availability of Products or any new releases), or dependent on any oral or written public comments made by Yubico regarding future functionality or features.
+â(iii) Transaction Entities. If you are making global purchases from Yubico (i.e.
+purchases both in the Americas and outside of the Americas), by entering into this Agreement, you on behalf of your Affiliates, agree that Yubico and its regional Affiliates may invoice your respective regional Affiliates that are benefiting from the Products in the joint effort of increasing tax efficiencies as permitted by applicable law and to adhere to established accounting practices.
+You represent that you are authorized to bind your regional Affiliates to being invoiced by Yubico and its regional Affiliates.
+When fulfilling delivery requests for such Regional Affiliates, Yubico may require such Regional Affiliates to complete a fulfillment request form or similar document for formalizing order confirmation.
+â(iv) Delivery. All Products that require shipping will be shipped Free Carrier (INCOTERMS 2010 FCA) Yubicoâs designated shipping point.
+You will be responsible for shipping expenses and will arrange to have your carrier pick up and deliver your purchased Products.
+
+
+Limited Warranty, Exclusions, Disclaimer
+(a) Warranty.
+Yubico warrants that the Hardware will be free from defects in material and workmanship for a period of one year from the date of delivery to the original purchaser who has purchased Hardware from Yubico or its authorized resellers (the âWarranty Periodâ) (such warranty being the âLimited Warrantyâ).
+If a defect in material or workmanship arises within the Hardware during the Warranty Period and the Hardware is returned to Yubico within the Warranty Period, Yubico will, at its sole option and subject to applicable laws: (a) repair or replace any defective Hardware with a new or refurbished product.
+or (b) refund the original purchase price of the Hardware.
+The Warranty Period for any repaired or replacement Hardware will persist for the longer of the remainder of the original one-year Warranty Period or 90 days from the date the repaired or replacement product is shipped to the user.
+This Section 5(a) sets forth Yubicoâs sole obligation and your sole remedy for any breach of this Limited Warranty.
+(b) Exclusions.
+The Limited Warranty extends only to the original purchaser of the Hardware and is non-transferrable.
+This warranty does NOT apply to Hardware that: (a) is altered or modified, other than by Yubico.
+(b) is not maintained in a normal and customary fashion or is operated outside of Yubicoâs recommended guidelines.
+(c) has been subjected to abnormal physical or electrical stress, misuse, negligence or accident.
+(d) has had its original serial number altered or removed, other than as a result of normal wear and tear.
+or (e) Yubico has provided free of charge.
+(c) Warranty Disclaimer.
+EXCEPT FOR THE LIMITED WARRANTY EXPRESSLY STATED IN SECTION 5 (A) ABOVE AND TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE PRODUCTS ARE PROVIDED âAS ISâ.
+YUBICO AND ITS SUPPLIERS MAKE NO OTHER WARRANTIES AND EXPRESSLY DISCLAIM ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+Yubico does not warrant that (a) the products will meet your requirements, (b) use thereof shall be uninterrupted or error-free, (c) the products or any equipment, system or network on which the Products are used will be free of vulnerability to intrusion or attack, or (d) or that all programming errors can be found in order to be corrected.
+You are solely responsible for the data, software and other content carried on your equipment, system or network on which the Products are used and for backing-up your data, software and other content.
+
+
+Compliance with Laws
+In connection with the use and transport of the Products, including the Software, you shall comply with all applicable export, import, and other relevant laws of any applicable jurisdiction.
+Determination of the applicable law is your responsibility.
+You acknowledge and understand that the Product, including the Software, is cryptographic in nature and that it therefore is highly regulated.
+You are strictly prohibited from exporting, re-exporting or importing the Product and/or Software, regardless of method, without first complying with all applicable government use, import, and export laws, rules, regulations, and orders, and obtaining any necessary approvals or permits.
+Obtaining any necessary export or import approval for the Product is your responsibility.
+
+
+Privacy Notice
+We may process your personal data in relation to the performance of this Agreement.
+For more information regarding our processing of your personal data and your rights in relation thereto, please see our 
+Privacy Notice
+ and 
+Cookie Notice
+.
+
+
+Limitation of Liability
+IN NO EVENT WILL YUBICOâS AND ITS AFFILIATESâ, AND ITS AND THEIR SUPPLIERSâ, DISTRIBUTORSâ, RESELLERSâ AND EMPLOYEESâ TOTAL CUMULATIVE LIABILITY RELATING TO THIS AGREEMENT OR THE USE OF THE PRODUCT OR SERVICE EXCEED THE AMOUNT PAID FOR THE PRODUCT.
+IN NO EVENT WILL YUBICO, ITS AFFILIATES, AND ITS AND THEIR SUPPLIERS, DISTRIBUTORS, RESELLERS AND EMPLOYEES BE LIABLE FOR DAMAGES IN RESPECT OF LOST REVENUE, INCIDENTAL, PUNITIVE, EXEMPLARY, INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES, EVEN IF ANY OF THEM HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES INCLUDING, BUT NOT LIMITED TO, BUSINESS INTERRUPTION, LOST BUSINESS REVENUE, LOST PROFITS, FAILURE TO REALIZE EXPECTED SAVINGS, ECONOMIC LOSS, LOSS OF DATA, LOSS OF BUSINESS OPPORTUNITY OR ANY CLAIM AGAINST USER BY ANY OTHER PARTY.
+The foregoing limitations will apply even if any warranty or remedy provided under this Agreement fails of its essential purpose.
+Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.
+
+
+Term and Termination
+The term of this Agreement shall commence on the date of Yubicoâs order confirmation and shall continue until terminated as set forth below, however, our Privacy Notice and Cookie Notice may remain in effect even after expiry or termination of the Agreement.
+This Agreement shall terminate automatically without notice or action by Yubico (a) if you breach any material term or condition of this Agreement.
+or (b) in the event you become insolvent or makes an assignment of this Agreement for the benefit of creditors or if any other bankruptcy proceedings are commenced by or against you.
+
+
+Changes
+Yubico reserves the right at any time and at its own discretion to change the terms and conditions of this Agreement as it applies to future purchases of Products.
+The Privacy Notice and Cookie Notice may be changed from time to time in accordance with what is stated therein.
+
+
+Choice of Law and Venue
+If you are a U.S.
+resident that has acquired Products as a Consumer Purchaser, Exhibit A (âAgreement to Arbitrate â U.S.
+Consumer Purchaserâ) applies.
+If you are not a U.S.
+resident Consumer Purchaser, this Agreement shall be deemed to have been made in, and shall be construed pursuant to the laws of: (i) the State of California, U.S.A.
+if you obtained the Products from Yubico, Inc..
+and (ii) Sweden if you obtained the Products from Yubico AB.
+In either event, the choice of law shall be without regard to the conflict of laws provisions thereof.
+Furthermore, both parties consent to the exclusive jurisdiction of the Federal and State courts located in Santa Clara County in the State of California when California law applies and the courts located in Sweden, with Stockholm District Court as the court of first instance, when the laws of Sweden apply.
+
+
+Other
+The terms and conditions set forth or referenced herein constitute the entire understanding and agreement between you and Yubico and supersede all prior representations and agreements with respect to the subject matter herein.
+This Agreement, including all rights and licenses granted herein, is not assignable, transferable or sub-licensable by you and any attempt to do so shall be null and void.
+Any notice, report, approval or consent required or permitted hereunder must be in writing.
+The waiver by Yubico of a breach of this Agreement shall not constitute a waiver of any subsequent breach of this Agreement.
+nor shall any delay by Yubico to exercise any right under this Agreement operate as a waiver of any such right.
+If any provision of this Agreement shall be adjudged by any court of competent jurisdiction to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect.
+The parties agree that a material breach of this Agreement adversely affecting Yubicoâs proprietary or intellectual property rights in the Products, including the Software, would cause irreparable injury to Yubico and its Affiliates for which monetary damages would not be an adequate remedy and that Yubico therefore shall be entitled to preliminary and permanent injunctive relief (without the requirement to post a bond) to address such a breach, in addition to any other remedies it may have hereunder or at law.
+If you have any questions regarding this Agreement, you may contact Yubico on our support site at https://support.yubico.com/support/home.
+If you wish to send us a legal notice, please start the subject line of your support request with âAttention: Legal Departmentâ.
+
+
+Exhibit A
+Agreement to Arbitrate â U.S.
+Consumer Purchaser.
+
+(a) General:
+
+If you are a U.S.
+resident that has acquired Products as a Consumer Purchaser, you and Yubico agree that any dispute, claim or controversy arising out of or relating to this Agreement or the breach, termination, enforcement, interpretation or validity thereof or the use of the Software (collectively, âDisputesâ) will be settled by binding arbitration, except that each party retains the right: (i) to bring an individual action in small claims court and (ii) to seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation or violation of a partyâs copyrights, trademarks, trade secrets, patents or other intellectual property rights (the action described in the foregoing clause (ii), an âIP Protection Actionâ).
+Without limiting the preceding sentence, you will also have the right to litigate any other Dispute if you provide Yubico with written notice of your desire to do so by email to legal@yubico.com within 30 days following the date you first purchase or obtain the Software (such notice, an âArbitration Opt-out Noticeâ).
+If you donât provide Yubico with an Arbitration Opt-out Notice within the 30-day period, you will be deemed to have knowingly and intentionally waived your right to litigate any Dispute except as expressly set forth in clauses (i) and (ii) above.
+The exclusive jurisdiction and venue of any IP Protection Action or, if you timely provide Client with an Arbitration Opt-out Notice, will be the state and federal courts located in the Northern District of California and each of the parties hereto waives any objection to jurisdiction and venue in such courts.
+Unless you timely provide Client with an Arbitration Opt-out Notice, you acknowledge and agree that you and Yubico are each waiving the right to a trial by jury or to participate as a plaintiff or class member in any purported class action or representative proceeding.
+Further, unless both you and Yubico otherwise agree in writing, the arbitrator may not consolidate more than one personâs claims and may not otherwise preside over any form of any class or representative proceeding.
+If this specific paragraph is held unenforceable, then the entirety of this Section will be deemed void.
+Except as provided in the preceding sentence, this Section will survive any termination of this Agreement.
+
+(b) Arbitration Rules:
+
+The arbitration will be administered by the American Arbitration Association (âAAAâ) in accordance with the Commercial Arbitration Rules and the Supplementary Procedures for Consumer Related Disputes (the âAAA Rulesâ) then in effect, except as modified by this Section.
+(The AAA Rules are available at www.adr.org/Rules or by calling the AAA at 1-800-778-7879.) The Federal Arbitration Act will govern the interpretation and enforcement of this Section.
+
+(c) Arbitration Process:
+
+A party who desires to initiate arbitration must provide the other party with a written Demand for Arbitration as specified in the AAA Rules.
+(The AAA provides a general Demand for Arbitration and a separate Demand for Arbitration for California residents).
+The arbitrator will be either a retired judge or an attorney licensed to practice law and will be selected by the parties from the AAAâs roster of arbitrators.
+If the parties are unable to agree upon an arbitrator within seven days of delivery of the Demand for Arbitration, then the AAA will appoint the arbitrator in accordance with the AAA Rules.
+
+(d) Arbitration Location and Procedure:
+
+Unless you and Yubico otherwise agree, the arbitration will be conducted in the county where you reside.
+If your claim does not exceed $10,000, then the arbitration will be conducted solely on the basis of the documents that you and Yubico submit to the arbitrator, unless you request a hearing or the arbitrator determines that a hearing is necessary.
+If your claim exceeds $10,000, your right to a hearing will be determined by the AAA Rules.
+Subject to the AAA Rules, the arbitrator will have the discretion to direct a reasonable exchange of information by the parties, consistent with the expedited nature of the arbitration.
+
+(e) Arbitratorâs Decision:
+
+The arbitrator will render an award within the time frame specified in the AAA Rules.
+The arbitratorâs decision will include the essential findings and conclusions upon which the arbitrator based the award.
+Judgment on the arbitration award may be entered in any court having jurisdiction thereof.
+The arbitratorâs award of damages must be consistent with the terms of Section 8 (âLimitation of Liabilityâ) as to the types and amounts of damages for which a party may be held liable.
+The arbitrator may award declaratory or injunctive relief only in favor of the claimant and only to the extent necessary to provide relief warranted by the claimantâs individual claim.
+If you prevail in arbitration you will be entitled to an award of attorneysâ fees and expenses, to the extent provided under applicable law.
+Yubico will not seek, and hereby waives all rights it may have under applicable law to recover, attorneysâ fees and expenses if it prevails in arbitration.
+
+(f) Fees:
+
+Your responsibility to pay any AAA filing, administrative and arbitrator fees will be solely as set forth in the AAA Rules.
+However, if your claim for damages does not exceed $75,000, Yubico will pay all such fees unless the arbitrator finds that either the substance of your claim or the relief sought in your Demand for Arbitration was frivolous or was brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)).
+Find
+Take product finder quiz
+Set up
+Find set-up guides
+Buy
+Buy online
+Contact sales
+Find resellers
+Stay connected
+Sign up for email
+
+
+Products
+
+YubiKeys
+YubiHSM
+YubiEnterprise services
+Services &amp.
+software
+Works with YubiKey
+Find the right YubiKey
+
+
+Why Yubico
+
+For personal use
+For businesses
+For developers Solutions
+
+Remote Workers
+Passwordless
+Microsoft 365
+Call centers
+Cryptocurrency
+Financial services
+Federal Government
+State &amp.
+Local Government
+Moreâ¦ Resources
+
+Getting Started
+COVID-19 Resources
+White papers
+Webinars
+Case studies
+Product briefs
+Infographics
+Yubico blog
+Authentication standards
+Videos
+Developer program Company
+
+About us
+Trust in Yubico
+The team
+Innovation history
+Careers &amp.
+culture
+Press room
+Contact us
+Partners
+Events
+Our customers
+Affiliate program Support
+
+Support services
+Professional Services
+Set up your YubiKey
+Knowledge base
+Documentation
+Downloads
+Security advisories Cookies Legal Trust Privacy Terms of Use EnglishFrenchGermanJapaneseSpanishSwedish
+Yubico Â© 2020.
+All Rights Reserved.

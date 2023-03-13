@@ -1,0 +1,259 @@
+
+
+ Sync for Business 
+ Pricing 
+ Why Sync? 
+
+
+ Sign in 
+ Sign up free Get help Account security 
+Sign in to the Sync.com web panel to manage your account security settings.
+
+
+In this article:
+
+
+How to I enable or disable two-factor authentication (2FA)?
+How do I enable or disable single sign on (SSO)?
+How do I manage web panel session time (auto-logout)?
+How do I disable a lost or stolen computer or device?
+How do I re-enable (unsuspend) a computer or device?
+How do I remotely sign out from the Sync.com web panel?
+How do I disable or enable password change from the Sync desktop app?
+ How to I enable or disable two-factor authentication (2FA)?
+Two-factor authentication is a recommended security feature that can help protect your Sync account from unauthorized access.
+Enabling two-factor authentication means that the Sync apps and web panel will require an additional security code (along with your password ) when you sign in to your account or add a new computer or device.
+You can enable two-factor authentication using a mobile authenticator app (such as Google Authenticator) or using email delivery.
+
+To enable or disable 2FA using email delivery (easiest):
+
+
+Sign in to the web panel.
+Click your email address (or display name) on the top right corner of the blue menu bar.
+Select Settings.
+
+Click the Security tab.
+Click Edit beside two-factor authentication.
+Click Enable 2-FA via email (or Disable to disable 2FA if you previously enabled it).
+Be sure to download the backup codes and store them in a safe place.
+You can use each backup code once, in the event that you need to sign in and do not have access to your email.
+
+
+2FA is now enabled.
+You will have to check your email address for the additional security code each time you sign in into the web panel or install Sync on a new computer or device.
+
+To enable 2FA using a mobile authenticator app (such as Google Authenticator):
+
+Before you begin you will need to download and install the Google Authenticator app on your phone or tablet.
+Get it on the Apple App Store or Google Play Store.
+
+Sign in to the web panel.
+Click your email address (or display name) on the top right corner of the blue menu bar.
+Select Settings.
+
+Click the Security tab.
+Click Edit beside two-factor authentication.
+Click Enable 2-FA via Google Authenticator.
+Note: if 2FA is currently set to Email, click Disable and then click Edit again to Enable 2-FA via Google Authenticator.
+Open the Google Authenticator app on your mobile device and tap Scan a barcode.
+You may have to tap + first, if youâve already setup the app with other services.
+
+Scan the QR code displayed on the Sync web panel, into the Google Authenticator app.
+The Google Authenticator app will provide a 6-digit verification code.
+Enter the verification code on the Sync web panel and click Save.
+Be sure to download the backup codes and store them in a safe place.
+You can use each backup code once, in the event that you do not have access to your mobile device.
+
+2FA is now enabled.
+You will have to check the Google Authenticator app for the additional security code each time you sign in into the web panel or install Sync on a new computer or device. How do I enable or disable single sign on (SSO)?
+Sync includes a single sign on feature, allowing you to automatically sign in to the web panel from an authenticated Sync desktop app installed on your computer.
+
+Once youâve installed the Sync desktop app you can click the Sync icon on the Windows system tray or the Mac menu bar and select the Go to Sync.com web panel quick link.
+This will sign you into the web panel automatically, as the desktop app has already been authenticated.
+
+To enable or disable single sign on:
+
+
+Sign in to the web panel.
+Click your email address (or display name) on the top right corner of the blue menu bar.
+Select Settings.
+
+Click the Security tab.
+Click Edit beside single sign-on.
+Enable or disable the option as needed and click the Enable or Disable button to confirm.
+
+If SSO is disabled, you will be prompted to enter your username and password each time you access the web panel from the desktop app Go to Sync.com web panel quick link.
+SSO does not override two-factor authentication.
+With 2FA enabled you will be prompted for an additional security code each time you sign in into the web panel, regardless of your SSO settings. How do I manage web panel session time (auto-logout)?
+You can set the web panel to automatically log you out when there is no activity.
+This is recommended if you frequently sign in to your Sync account from public computers.
+
+To manage auto-logout:
+
+
+Sign in to the web panel.
+Click your email address (or display name) on the top right corner of the blue menu bar.
+Select Settings.
+
+Click the Security tab.
+Click Edit beside automatic logout.
+Select your Auto logout time.
+Click Save.
+ How do I disable a lost or stolen computer, phone or tablet?
+If your computer or mobile device is lost or stolen you can unlink it from your Sync account to disable the Sync app from downloading and syncing your files or making changes to your account settings.
+
+To disable (unlink) a device:
+
+
+Sign in to the web panel.
+Click your email address (or display name) on the top right corner of the blue menu bar.
+Select Settings.
+
+Click the Devices tab.
+Click the 
+ (ellipsis) icon beside the computer or device you want to disable.
+Select Delete.
+Check the Confirm box and click Delete.
+
+Note: if your device was lost and you re-locate it, you can enable it. How do I re-enable (unsuspend) a computer, phone or tablet?
+
+To restore a previously disabled your computer or mobile device:
+
+
+Sign in to the web panel.
+Click your email address (or display name) on the top right corner of the blue menu bar.
+Select Settings.
+
+Click the Devices tab.
+Click Show deleted at the bottom of the device list.
+Click the 
+ (ellipsis) icon beside the deleted computer or device you want to re-enable.
+Select Restore.
+ How do I remotely sign out from the Sync.com web panel?
+If you forgot to sign out from the web panel, or you suspect that someone has signed in using your account credentials, you can remotely logout anytime.
+
+Sign in to the web panel.
+Click your email address (or display name) on the top right corner of the blue menu bar.
+Select Settings.
+
+Click the Devices tab.
+Click the 
+ (ellipsis) icon beside the web session you want to disable.
+Select Logout.
+ How do I disable or enable password change from the Sync desktop app?
+If youâve installed the Sync desktop app on a computer that is shared by multiple people, you can disable the password reset feature of the app.
+This can help you control who can change your Sync account password.
+
+Important: if you disable password change on your computer it is highly recommend that you enable email-based password reset and set a password hint, to prevent being locked out of your account permanently due to a forgotten password.
+
+To manage this setting per computer:
+
+
+Sign in to the web panel.
+Click your email address (or display name) on the top right corner of the blue menu bar.
+Select Settings.
+
+Click the Devices tab.
+Click the 
+ (ellipsis) icon beside the computer you want to disable password change on.
+Select Set permission.
+Choose Disabled or Enabled as required.
+Click Save settings.
+
+
+
+Desktop Apps
+Sync.com Web Panel
+Mobile Apps
+Sharing - Links
+Sharing - Team Shares
+File Requests
+Vault
+Business Pro
+Account &amp.
+Billing
+Passwords &amp.
+Security
+ Contact Support
+ System Status
+
+
+
+
+
+ Back to top Company 
+About us 
+
+
+Blog 
+
+
+Careers 
+
+
+Security &amp.
+privacy
+
+
+ Products 
+Business plan 
+
+
+Features 
+
+
+Pricing 
+
+
+Resellers 
+
+
+ Help 
+Contact us 
+
+
+Help center 
+
+
+Download 
+
+
+Sign in to web 
+
+
+ Industry 
+Legal 
+
+
+Healthcare &amp.
+HIPAA 
+
+
+Accounting
+
+
+Canadian cloud storage 
+
+
+ Uses 
+Dropbox alternative 
+
+
+Free cloud storage 
+
+
+Secure file sharing 
+
+
+Email large files 
+
+
+
+
+&nbsp.
+
+&nbsp.
+
+ Â© 2021 Sync.com Inc.
+ Privacy Policy Â· Terms of Service Â· GDPR 
+      

@@ -1,0 +1,322 @@
+
+        ÃÃThe goal of this project is to measure and study the diversity of web browsers and establish statistical profiles of browser fingerprints.
+All of the data for the project will be collected in an anonymized form which ensures that it is not Personally Identifiable Information*, nor otherwise likely to lead to the identification or tracking of any web users.
+*Personally identifiable information (PII) is any data that could potentially identify a specific individual.
+We are committed to protecting the privacy of visitors to our website.
+In this policy, "we" refers to the Inria researchers and students who are bound to keep information they receive confidential.Information Gathered by the AmIUnique WebsiteFor the needs of the research project defined
+here, AmIUnique collects anonymous data about the configuration of computers, operating systems, browsers and plugins.
+If you click the "View my fingerprint" button, this type of information will be collected from your browser.
+Although these kinds of data may form a `fingerprint' that could in principle be combined with information about page requests and identifying details in order to track people's browsing habits, we will
+never do so.
+The specific 'fingerprint' information we collect is : 
+
+The HTTP headers sent to the server : 
+
+
+
+the User agent header
+HTTP header sent to the server that contains information regarding your browser and operating system
+
+
+
+
+the Accept header
+HTTP header sent to the server that contains information regarding the type of media that are acceptable for the response
+
+
+
+
+the Encoding header
+HTTP header sent to the server that lists the compression methods supported by the browser
+
+
+
+
+the Language header
+HTTP header sent to the server that indicates the preferred languages for the response
+
+
+
+
+the Connection header
+HTTP header sent to the server that contains specific options that are desired for that particular connection
+
+
+
+
+the Host header
+HTTP header sent to the server that specifies the domain name of the server and eventually the TCP port number on which the server is listening
+
+
+
+
+the Upgrade Insecure Requests header
+HTTP header sent to the server that indicates the client's preference for an encrypted and authenticated response.
+
+
+
+
+the Referer header
+The address of the previous web page from which a link to the currently requested page was followed.
+
+
+
+
+the Cache-Control header
+Specifies directives for caching mechanisms in both requests and responses.
+
+
+
+
+the Do Not Track header
+HTTP header sent to the server that indicates the user's tracking preference.
+
+
+
+
+The If not match header
+Makes the request conditional and applies the method only if the stored resource doesn't match any of the given ETags.
+This is used to update caches (for safe requests), or to prevent to upload a new resource when one is already existing.
+
+
+
+
+The pragma header
+Implementation-specific header that may have various effects anywhere along the request-response chain.
+Used for backwards compatibility with HTTP/1.0 caches where the Cache-Control header is not yet present.
+
+
+
+
+The x-forwarded-proto header
+The X-Forwarded-Proto (XFP) header is a de-facto standard header for identifying the protocol (HTTP or HTTPS) that a client used to connect to your proxy or load balancer.
+Your server access logs contain the protocol used between the server and the load balancer, but not the protocol used between the client and the load balancer.
+To determine the protocol used between the client and the load balancer, the X-Forwarded-Proto request header can be used.
+
+
+
+
+The xnginx-proxy header
+Indicate we are behind a nginx proxy.
+
+
+
+
+The sec fetch headers
+Set of Fetch metadata request headers that aim to provide servers with enough information to make a priori decisions about whether or not to service a request based on the way it was made, and the context in which it will be used.
+
+
+
+
+All custom headers
+Non-standard http headers added for example by extensions or yourself.
+These headers can be particularly discriminating and are very interesting to study.
+
+
+
+
+
+the list of plugins
+Browser-populated JavaScript attribute that gives the list of activated plugins in the browser (window.navigator.plugins)
+
+
+
+
+the platform
+Browser-populated JavaScript attribute that indicates the platform the browser is running on (window.navigator.platform)
+
+
+
+
+the cookies preferences (allowed or not)
+Browser-populated JavaScript attribute that indicates if the browser accepts cookies or not (window.navigator.cookieEnabled)
+
+
+
+
+User agent with Javascript
+A string giving details on the browser and its underlying operating system.
+This attribute is collected with Javascript.
+
+
+
+
+the Do Not Track preferences (yes, no or not communicated)
+Browser-populated JavaScript attribute that indicates your Do Not Track setting (window.navigator.doNotTrack), "NC" means the value was not specified
+
+
+
+
+the timezone
+Timezone offset of your browser obtainable through JavaScript (new Date().getTimezoneOffset())
+
+
+
+
+the screen resolution and its color depth
+Browser-populated JavaScript attributes that indicate the resolution of the deviceâs screen (window.screen.height/width/colorDepth)
+
+
+
+
+the use of local storage
+JavaScript test to find out if local storage is supported (storage of a specific value in "localStorage")
+
+
+
+
+the use of session storage
+JavaScript test to find out if session storage is supported (storage of a specific value in "sessionStorage")
+
+
+
+
+a picture rendered with the HTML Canvas element
+Rendering of a specific picture with the HTML5 Canvas element following a fixed set of instructions.
+The picture presents some slight noticeable variations depending on the OS and the browser used.
+
+
+
+
+a picture rendered with WebGL
+Rendering of specific 3D forms following a fixed set of instructions.
+The picture presents some slight noticeable variations depending on the device of the user.
+
+
+
+
+the presence of AdBlock
+Test to find out if the AdBlock extension is installed
+
+
+
+the list of fonts
+
+
+
+using Flash
+Flash attribute that gives the entire list of fonts installed on the operating system (flash.text.Font.enumerateFonts(true))
+
+
+
+
+using JS
+Fonts installed in the device using JS
+
+
+
+
+
+
+Content language with javascript
+Using Javascript for getting preferred languages for the response
+
+
+
+
+BuildID
+A string indicating the build identifier of the browser(not present in all browsers).
+This attribute is collected through JavaScript via the 'navigator' object.
+
+
+
+
+Audio informations
+Javascript attributes giving information about the audio output such as supported types, context or frequency.
+
+
+
+
+Navigator properties
+List the properties present in the navigator object
+
+
+
+
+Permissions
+Permissions of the browser
+
+
+
+
+Video formats
+Supported video format for the video element
+
+
+
+
+Media devices
+Returns the list of microphones, cameras, headphones..
+presents on the device
+
+
+
+
+Sensors
+Test if some sensors are present on the device.
+
+
+
+
+Keyboard layout
+Test to detect the keyboard layout (qwerty, azerty, etc)
+
+
+
+
+Battery
+Returns property belonging to the battery value, such as level, charging, chargin time and discharging time.
+
+
+
+
+Connection
+Connection informations
+
+
+
+
+Windows properties
+Test some window properties.
+
+
+
+
+Bot detection
+Some attributes with bot detection as a goal like error generation or testing some API like selenium.
+
+
+
+In addition to these data, we collect several kinds of `housekeeping' information to assist us in analyzing the fingerprint data.
+The housekeeping information is : 
+
+Cookies
+IP addresses
+Timestamps
+
+Our practices and purposes for collecting these housekeeping records are discussed below : CookiesAmIUnique sets a cookie that persists for 4 months for the purpose of determining how often browser characteristics change, and how often they stay the same, when a browser returns over time.
+If your browser is configured to accept cookies, and you return to AmIUnique several times, the cookie will be used to link the data from your visits together so that we can study the natural evolution of browser fingerprints.
+AmIUnique also stores a temporary cookie that persists for 5 minutes in order to avoid fingerprinting a user again if they revisit within 5 minutes.
+If you want to disable/enable browser cookies, click on the link below corresponding to your browser for instructions.
+You should be aware that entirely disabling cookies may block some interactive features on some websites (most notably, automatic logins).
+Instructions for:
+
+Microsoft Windows Explorer
+Google Chrome
+Mozilla Firefox
+Apple Safari
+Opera Browser
+
+Moreover, if you are interested in enabling/disabling Flash cookies, you can do so by visiting the following page : Manage Flash cookiesIP addressesAmIUnique logs IP address.
+This IP will allow us to collect a dataset about how often browsers that change IP address could have been followed using a fingerprint.TimestampsAmIUnique collects a timestamp each time it is visited.
+This will be used to measure how fast browser fingerprints change.Our Use of Information from AmIUniqueWe will analyze the collected data in order to establish what are realistic profiles for browser fingerprints.
+The purpose of this analysis is to set an automatic procedure to proactively diversify user platforms in a realistic manner.
+AmIUnique has no Third-Party Service Providers.Sharing of AmIUnique dataWe may publish or share aggregated, statistical data from the AmIUnique project in order to facilitate privacy research, educate people about privacy problems, and to aid in the development of privacy-enhancing technologies.
+We have gone to great lengths to ensure that AmIUnique does not produce any records about anyone's browsing habits or the identities of any individual visitors, so we will never be in a position where we could share any such records.SecurityIn a general way, Inria commits to carry out technical and organizational means to protect all information we gathered against illegal or fortuitous destruction, fortuitous loss, alteration, diffusion or unauthorized access.
+Nevertheless, Inria shall be required to divulgate any information to comply with any applicable law or rules, or to respond to any administrative or judiciary order.
+Although we make good faith efforts to store information collected in a secure operating environment, we cannot guarantee complete security.
+Information collected will be maintained for a length of time appropriate to the needs of this research project.
+
+This Privacy Policy is based on some material from the EFF website
+(Electronic Frontier Foundation), which is freely redistributed under the
+Creative Commons Attribution License

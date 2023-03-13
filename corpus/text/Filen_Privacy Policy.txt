@@ -1,0 +1,14 @@
+
+
+Filen does not sell, license, sub-license or share any of the data submitted directly or indirectly by our users with any person or entity.
+No data is logged except account information (username, password [passwords are hashed and salted], email address and last IP used to log in) for those who use the account feature.
+We also log IP addresses and user agents for certain events, such as uploading or editing files/folders.
+All of this data is available to the user.
+Our users can ask us to delete their information from our database at any time.
+We also provide a full list in JSON format of logged data to every user which can be downloaded on demand.
+We may collect data about visits to our website to measure the number of visitors to different parts of the website, to assess user access patterns, to make the website load faster and otherwise to operate the website.
+We may use cookies or other similar technology for these purposes.
+We may collect data about our client's (web/mobile/desktop) performance and errors to increase performance and fix bugs as fast as possible.
+Since Filen is fully GDPR compliant, we make it possible for the user to view or download his data stored by us or even fully remove it forever.
+Filen uses Sentry and a self hosted Matomo Instance for internal analytics, release health and bug monitoring.
+

@@ -1,0 +1,229 @@
+
+         Toggle Navigation 
+The Tidelift Subscription 
+
+
+Lifter Resources 
+
+
+Contact
+Contact
+Tidelift.com
+ Lifter agreement 
+
+
+If you want to become a lifter, youâll be asked to digitally sign a version of this document.
+In that case, the signed version of the document is the official one.
+If there are any differences between this reference version and the signed version, the signed version will govern our relationship.
+
+ Lifter Terms and Conditions 
+ September 2019 
+ These terms and conditions are an agreement between Tidelift, Inc.
+(âTideliftâ, âWeâ, or âUsâ), a Delaware corporation, and the person or entity identified in the attached Lifter Information Form (âLifterâ or âYouâ).
+
+ Tidelift wants to pay you to provide certain software maintenance, support, analysis, or other services to Tidelift and Tideliftâs Subscribers (the âServicesâ, as further defined below), and you want to provide such services.
+
+ You and Tidelift therefore agree as follows:  1 Services 1.1 What services will you provide while youâre a Lifter?  During the term of this agreement, you will provide the Services in accordance with this agreement.
+Depending on the nature of the specific Service, Services may be provided to Tidelift through our software platform, or to the broader open source community through standard open source project maintenance tools.
+More information on the Services we currently require Lifters to provide is in our documentation, currently available at tidelift.com/docs/lifting/tasks-overview.
+ 1.2 What may Tidelift require if the Services are not satisfactory?  If you do not satisfactorily provide the Services, Tidelift may, at its option and without limitation, (a) require you to immediately re-perform the applicable Service at no additional charge.
+and/or (b) reduce the fees paid, or due to be paid, to you for the applicable Service in an amount commensurate with the cost to the Subscriber to cover the breach and/or the cost to Tidelift to assist its Subscriber with covering the breach.
+ 2 Payment 2.1 How much will you be paid?  Unless otherwise specified in the attached Lifter Information Form, Tidelift will pay you for the Services as determined based on our then-current payment algorithm.
+Factors that we may consider, at our sole discretion, may include usage of the Project by our Subscribers, level of maintenance performed, and overall number of Subscribers.
+More information on the way we currently calculate payments is in our documentation, currently available here.
+ 2.2 How will you be paid?  Tidelift will pay you monthly, in United States dollars.
+Payments will be made through our payments system, using the mechanisms specified when the payments account is created.
+You are responsible for keeping any payment information updated.
+More information on the way we currently make payments is in our documentation, currently available here.
+ 3 Licenses and Open Source 3.1 Do you need to grant Tidelift any rights to the software?  The Services will consist in part of maintaining and updating open source software that is licensed and made available to the public by its copyright owners or licensees.
+This agreement does not attempt to license or assign such rights to Tidelift, and should not be construed to do so.
+ 3.2 Will you give Tidelift Subscribers a chance to fix their mistakes before suing them for violating the license on your open source code?  Before filing any legal proceeding or claim (other than a Defensive Action) against a Subscriber arising from termination of the Projectâs license, you will extend to the Subscriber the following provisions regarding cure and reinstatement: 
+
+ As used in this section, the term âthis Licenseâ refers to the particular Projectâs License being enforced, and âDefensive Actionâ means a legal proceeding or claim that you bring against a Subscriber in response to a prior proceeding or claim initiated by the Subscriber.
+
+
+
+ If Subscriber ceases all violation of this License, then Subscriberâs license from you is reinstated (a) provisionally, unless and until you explicitly and finally terminate Subscriberâs license, and (b) permanently, if you fail to notify Subscriber of the violation by some reasonable means prior to 60 days after the cessation.
+
+
+
+ Moreover, Subscriberâs license from you is reinstated permanently if you notify Subscriber of the violation by some reasonable means, this is the first time Subscriber has received notice of violation of this License (for any work) from you, and Subscriber cures the violation prior to 30 days after Subscriberâs receipt of the notice.
+
+ 3.3 What promises do you make about your contributions to the software?  You confirm that the contributions you have made to the Project (i) were created in whole or in part by you, and you had the right to submit them under the open source license indicated by the Project.
+or (ii) were based upon previous work that, to the best of your knowledge, was covered under an appropriate open source license, and you have the right under that license to submit that work with modifications, whether created in whole or in part by you, under the same open source license (unless you are permitted by the Project to submit under a different license).
+ 3.4 What about other contributors to the software?  Tidelift acknowledges that Sections 3.2 and 3.3 do not govern other contributors to the Project, and that you have made no representations on their behalf.
+ 4 Feedback and Trademarks 4.1 How can Tidelift use suggestions you make?  You may, but are not obligated to, provide comments, suggestions, feedback, or ideas about the Services (âFeedbackâ).
+You hereby grant Tidelift a license to use or otherwise exploit the Feedback without limitations, unless the parties otherwise agree in writing in advance.
+ 4.2 How can we promote each other?  Tidelift may name you, and display any logos you may provide us, in places where we promote Lifters or Liftersâ projects, such as Tidelift.com.
+You must only provide us with logos you have the right to provide us to use under these terms and conditions.
+If you cannot provide us with such logos, you must notify us.
+
+ You may name us, and display our logo, in places where the Project is promoted (such as its website), subject to any requirements we set out in our branding guidelines, currently available here.
+
+ Each of us retains our own rights in its own trademarks and logos.
+ 5 Termination 5.1 When can you terminate this agreement?  You may terminate this agreement, for any reason or no reason, with 30 or more days written notice to Tidelift.
+ 5.2 When can either of us terminate this agreement?  Either party may terminate this agreement immediately, without notice, if the other party (or any paid subcontractors, as identified to Tidelift under Section 7.1) materially defaults in the performance of any of its obligations under the agreement.
+Material defaults may include: 
+
+failure to complete tasks set out in the Tidelift software platform (including ineffective or inaccurate completion);
+violations of the Lifter Code of Conduct, currently available here;
+violation of applicable laws (including without limitation, laws governing intellectual property);
+violations of sections of the Terms of Service that provide that Tidelift can immediately terminate a userâs account.
+or
+any attempts to manipulate or game compliance or scoring systems (including either those created by Tidelift or by host open source projects).
+
+ For all other breaches of this Agreement, the non-breaching party will provide the allegedly breaching party with written notice and a reasonable opportunity to cure the breach.
+If the allegedly breaching party does not cure the breach in a timely manner and to the non-breaching party's satisfaction, the non-breaching party can terminate this Agreement.
+ 5.3 What can you do if Tidelift terminates the agreement?  Your sole remedy for termination by Tidelift will be a payment pro-rated for any Services actually performed prior to the effective date of termination.
+ 5.4 What parts of the agreement will continue in effect if the agreement is terminated?  Upon termination or expiration of this agreement for any reason, Sections 1.2 (remedy for performance), 4.1 (use of suggestions), 5.3 (remedy for termination), 7 (Relationship and Delegation), 8 (Mutual Arbitration), 9 (Confidentiality), and 10 (Additional Legal Terms) will survive such termination or expiration.
+ 6 Updating the Agreement 6.1 When can Tidelift update the Agreement?  Tidelift may update this agreement upon no less than 30 days prior notice to you, except that Section 9 (Arbitration) may be modified or terminated only by a writing accepted by both parties.
+ 7 Relationship and Delegation 7.1 Can others perform the services for you?  Your obligations under this agreement may be performed by others, including paid subcontractors, in whole or in part.
+However, if you subcontract your obligations under this agreement, you must identify the subcontractors to us by providing their Tidelift account information to us.
+ 7.2 If you subcontract with others, what obligations do you have?  You are solely responsible for all aspects of your relationship with any of your subcontractors, including payment to them.
+You are responsible for complying with your obligations to Tidelift under this Agreement, regardless of whether you have hired subcontractors to perform any of your obligations.
+Such obligations include compliance with requirements at least as strict as those imposed by Sections 3.2, 3.3, 5.2, and 9.
+ 7.3 Can you engage in other related work?  Yes, you may engage in other work related to the Project, including paid consulting, service hosting, or solicitation of charitable donations.
+ 7.4 Are you a Tidelift employee?  No, you are not a Tidelift employee.
+Our relationship under this agreement is that of independent contractors.
+We do not intend for either party to be the agent, employee, or joint venturer of the other.
+
+ Consistent with your role as an independent contractor, you acknowledge that: 
+ you will have no right to receive, and Tidelift will have no obligation to provide, any employment benefits (including, without limitation, medical and dental plans, investment plans, and the like) in connection with this agreement or the Services.
+
+ you will determine the amount of time required to perform the Services, and will supply the software development tools and equipment necessary to perform the Services.
+
+ you, and not Tidelift, have the right to control the manner and means of accomplishing the desired result for each Project.
+
+ you are customarily engaged in work similar to the work that you will provide to Tidelift pursuant to this Agreement and you are capable of providing services similar to those Services that you will provide under this Agreement even without Tidelift.
+and 
+ to the best of your knowledge, the Services you provide under this Agreement are different from any goods or services that Tidelift provides.
+ 7.5 Who is responsible for taxes?  Except as otherwise required by law, you, and not Tidelift, are responsible for all taxes, withholding, and similar obligations such as workersâ compensation insurance, benefits, and employment taxes.
+ 8 Mutual Arbitration 8.1 How will disputes between us be resolved? What disputes are subject to arbitration?  All disputes between the parties, including any of Tidelift's subsidiaries, affiliates, shareholders, directors, employees, or agents and any alleged joint employers) shall be settled exclusively by final and binding arbitration before a single, neutral arbitrator as described in this section 8 (the âArbitration Agreementâ).
+ 8.2 What disputes are not subject to arbitration?  The only disputes and actions between the parties excluded from arbitration are: (a) actions to enforce this Arbitration Agreement, compel arbitration, or to seek temporary injunctive relief prior to the appointment of the arbitrator.
+and (b) claims which this Arbitration Agreement cannot, as a matter of law, bind the parties to settle through arbitration.
+ 8.3 What rules, arbitrator, and location will be used for the arbitration?  Unless the parties agree otherwise in writing, the American Arbitration Association (âAAAâ) shall administer the resolution of covered disputes pursuant to its Employment Arbitration Rules (or successor rules governing the resolution of employment disputes).
+In the event of any inconsistency between this Arbitration Agreement and the applicable rules of the AAA, this Arbitration Agreement shall govern.
+
+ The parties shall select a mutually agreeable arbitrator within 30 days of receipt of a valid notice of arbitration, as defined in Section 8.4.
+If they are unable to do so, the arbitrator shall be selected as provided in the AAAâs Employment Arbitration Rules.
+
+ The arbitration hearing shall be held in Boston, Massachusetts.
+ 8.4 What must happen to initiate an arbitration?  A party wishing to initiate arbitration must notify the other party in writing by hand delivery or certified mail.
+The notice must identify the party requesting the arbitration, describe the facts upon which the claim is based, the date and location of any occurrences giving rise to the claim, and the remedy requested.
+
+ Notice to Tidelift must be sent to: 50 Milk Street, 16th Floor, Boston, MA 02109, USA.
+ 8.5 Who will bear the costs of arbitration?  Tidelift shall pay all costs unique to arbitration (as compared to the costs of adjudicating the same claims before a court or agency), including the fees charged by AAA, as described in the applicable AAA fee schedule.
+However, if Lifter initiates the claim, Lifter shall contribute an amount equal to the filing fee to initiate the claim in the court of general jurisdiction in Boston, Massachusetts.
+
+ Each party shall pay its own attorneysâ fees and any costs that are not unique to the arbitration (i.e., costs that each party would incur if the claim(s) were litigated in a court or agency such as costs to subpoena witnesses and/or documents.
+take depositions and purchase deposition transcripts.
+copy documents.
+etc.).
+Any dispute as to whether a cost is unique to arbitration shall be resolved by the arbitrator.
+
+ The arbitrator may award reasonable fees and costs or any portion thereof to the prevailing Party to the same extent a court would be entitled to do so, in accordance with applicable law.
+
+ As an exception to the preceding allocation of costs, Rule 68 of the Federal Rule of Civil Procedure (âOffer of Judgmentâ) shall apply to the arbitration proceedings, and related costs, as if they were a trial or other scheduled proceeding for assessing the extent of liability.
+ 8.6 What authority will the arbitrator have?  The arbitrator shall have the same authority to order remedies to individual claimants as would a court of competent jurisdiction.
+The arbitrator shall also have the same authority to decide dispositive motions as would a court, though they may establish appropriate and less formal procedures for such motions consistent with the expedited nature of arbitration proceedings.
+The arbitrator shall have the authority to issue subpoenas to compel the attendance of witnesses at the arbitration hearing and to compel the production of documents during discovery.
+Except as stated in this section 8.6, the arbitrator shall have the authority to resolve any dispute relating to the interpretation, applicability, enforceability, or formation of this Arbitration Agreement, including without limitation any claim that the Agreement is void or voidable.
+
+ The arbitrator shall not have the authority to hear disputes not recognized by existing law, and shall dismiss such disputes upon motion by either Party in accordance with the standards and burdens generally applicable in federal district court.
+ 8.7 Can claims be brought as a class or collective action?  Neither party shall bring claims covered by this Arbitration Agreement as a plaintiff or class member in any purported class action, collective action or representative action proceeding.
+Both parties waive any right for any dispute covered by this Agreement to be heard or arbitrated on a collective action basis, class action basis, as a private attorney general, or on bases involving claims or disputes brought in a representative capacity on behalf of the general public, on behalf of other Tidelift independent contractors (or any of them) or on behalf of other persons alleged to be similarly situated.
+Both parties acknowledge that there are no bench or jury trials and no class actions or representative actions permitted under this Arbitration Agreement.
+
+ The arbitrator shall not consolidate claims of different Lifters into one proceeding, nor shall the arbitrator have the power to hear arbitration as a class action, collective action, or representative action.
+Any disputes regarding the enforceability or scope of this Section 8, including, but not limited to, whether class, collective, or representative actions are authorized in arbitration by this Arbitration Agreement, shall be decided by a court of competent jurisdiction rather than by an arbitrator.
+ 8.8 Do both parties waive a jury trial?  Except as provided expressly in this Arbitration Agreement, the parties voluntarily waive all rights to a trial in court before a judge or jury on all claims between them covered by this agreement, and the right to file or seek relief in a court seeking recovery of money damages.
+ 8.9 What law applies to this Arbitration Agreement?  The parties acknowledge that this Section 8 contains the parties' "Arbitration Agreement".
+that this Arbitration Agreement is made in the course of interstate commerce.
+that any arbitration under this Arbitration Agreement is governed by the Federal Arbitration Act, 9 U.S.C.
+Â§1 et.
+seq.
+(the âFAAâ).
+and the Parties are subject to the FAA for purposes of the Arbitration Agreement.
+This choice of law provision applies only to this Arbitration Agreement, and not to the rest of this agreement.
+Judgment upon the arbitrator's award may be entered in any court of competent jurisdiction.
+ 9 Confidentiality 9.1 What is Confidential Information?  âConfidential Informationâ means (i) any information about Tideliftâs Subscribers, such as their identity, the nature of their software usage, or the price they pay for the Tidelift service.
+or (ii) any information disclosed to you that we label as âConfidential,â âProprietaryâ, or some similar designation.
+Examples of materials Tidelift may label as confidential could be future product plans or upcoming feature announcements.
+ 9.2 What is not included in Confidential Information?  Confidential Information will not include any information that (i) was publicly known or otherwise generally available prior to the time it was disclosed to you by Tidelift.
+(ii) becomes publicly known and made generally available after disclosure by Tidelift to you through no action or inaction of yours.
+(iii) is already in your possession at the time of disclosure by Tidelift as shown by your files and records immediately prior to the time of disclosure.
+(iv) is obtained by you from a third party without a breach of such third party's obligations of confidentiality.
+(v) is independently developed by you without use of or reference to Tidelift's Confidential Information, as shown by documents and other competent evidence in your possession.
+or (vi) is required by law to be disclosed by you, provided that you give Tidelift prompt written notice of such requirement prior to such disclosure and assistance in obtaining an order protecting the information from public disclosure.
+ 9.3 What must do you do (and not do) with Confidential Information?  You must not disclose any Confidential Information to anyone for any purpose except to perform your obligations under this agreement.
+You must take reasonable measures to protect the secrecy of and avoid disclosure and unauthorized use of the Confidential Information of the other party.
+Without limiting the foregoing, you must take at least those measures that you take to protect your own most highly confidential information.
+You must reproduce Tideliftâs proprietary rights notices on any necessary copies, in the same manner in which such notices were set forth in or on the original.
+ 10 Additional Legal Terms 10.1 What will happen if one section of this agreement is invalid or unenforceable?  If any provision of this agreement is held to be invalid or unenforceable, then the remaining provisions will nevertheless remain in full force and effect, and such provision will be reformed in a manner to effectuate the original intent of the parties as closely as possible and remain enforceable.
+ 10.2 What meaning do the section headings have?  The questions used as headings for each section of this agreement are provided for convenience only, and do not affect its meaning.
+In the case of a conflict between the section heading and the body of the agreement, the body of the agreement will control interpretation.
+ 10.3 What laws will be used to interpret this agreement?  Except as set forth in Section 8.9 of this agreement, this agreement will be governed by and construed under the laws of the State of Massachusetts, without regard to its conflicts of laws principles.
+This agreement will be construed as a whole, according to its fair meaning, and not for or against any Party.
+ 10.4 How can the parties communicate legal notices required by this agreement with each other?  Except as explicitly stated otherwise, legal notices must be served on each party at the mailing address in the Lifterâs account information or through a component of the Tidelift.com website designated by Tidelift for that purpose.
+ 10.5 What other legal terms apply to this agreement?  This agreement is the entire agreement between the parties relating to the subject matter herein and supersedes any and all prior agreements relating thereto.
+Tidelift may assign, transfer, or delegate this agreement, or any right or obligation or remedy in the agreement.
+No waiver by either party of any breach or default of the agreement will be deemed to be a waiver of any preceding or subsequent breach or default.
+ 10.6 What is the effective date of this agreement?  This agreement will become effective when all parties have signed it.
+The date of this agreement will be the date this agreement is signed by the last party to sign it (as indicated by the date associated with that partyâs signature).
+ 11 Definitions 11.1 How are these terms defined?  Agreement or âthis agreementâ means these terms and conditions, the Tidelift.com Terms of Service (tidelift.com/about/tos), the attached Lifter Information Form, and any addenda or documents expressly referred to in these terms and conditions.
+
+ Project means the open source project or projects you agree to perform Services for.
+
+ Service means the services to be provided by the Lifter, as indicated in the Tidelift.com software and the applicable documentation here, and any additional services described in the Lifter Information Form.
+
+ Subscriber means a person or company paying for a Tidelift subscription.
+
+ Lifter Information Form 
+ This Lifter Information Form is an addendum to the attached Lifter Terms and Conditions.
+
+ Packages to be lifted: 
+ ______________ 
+
+If you want to become a lifter, youâll be asked to digitally sign a version of this document.
+In that case, the signed version of the document is the official one.
+If there are any differences between this reference version and the signed version, the signed version will govern our relationship.
+
+
+
+Still need help? Contact Us Contact Us  Last updated on February 6, 2020 Related Articles 
+
+
+How we pay lifters
+
+
+What is lifting?
+ Toggle Search 
+
+
+ Categories 
+Dependency checking on GitHub 
+
+
+FAQs 
+
+
+Getting started 
+
+
+Licensing 
+
+
+Maintenance 
+
+
+Marketing 
+
+
+Security 
+
+
+Tidelift.com
+ No results found Â© Tidelift 2021.
+Powered by Help Scout  Contact Us 
+ Name Email Subject Message Upload file 
+      

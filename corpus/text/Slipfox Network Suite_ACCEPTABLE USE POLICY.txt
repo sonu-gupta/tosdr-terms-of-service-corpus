@@ -1,0 +1,52 @@
+
+null.slipfox.xyz | THE NULL POINTER
+file hosting and URL shortening service.
+ USAGE
+HTTP POST files here: curl -F'file=@yourfile.png' https://null.slipfox.xyz
+post your text directly: echo "text here" | curl -F'file=@-;' https://null.slipfox.xyz
+you can also POST remote URLs: curl -F'url=https://example.com/image.jpg' https://null.slipfox.xyz
+or you can shorten URLs: curl -F'shorten=http://example.com/some/long/url' https://null.slipfox.xyz file URLs are valid for at least 30 days and up to a year (see below).
+shortened URLs do not expire.
+not allowed: application/java-archive, application/java-vm
+maximum file size: 512.0 MiB  ACCEPTABLE USE POLICY
+All things shared with this site are stored unencrypted and are publically accessible,
+provided other users can guess your file extension.
+Because of this,
+please do not post any informations that
+may violate law (login/password lists, email lists, personal information).
+null.slipfox.xyz is NOT a platform for: 
+
+child pornography
+malware, including âpotentially unwanted applicationsâ
+botnet command and control schemes involving this service
+anything even remotely related to crypto currencies
+hosting your backups
+spamming the service with CI build artifacts
+piracy (While i personally support piracy it is illegal and will get this site shut down.)
+alt-right shitposting
+
+
+REQUIREMENTS
+there is only one thing you need to use this service - curl.
+curl is available on most platforms, including Windows, Mac OS X and Linux.
+if you run a server and like this site, clone it! centralization is bad.
+ ALIAS
+to make your life easier, you can add aliases to your .bash_aliases on Linux
+and .bash_profile on Mac OS X.
+just remember to reset your terminal session after that.
+0file() { curl -F"file=@$1" https://null.slipfox.xyz .
+}
+0pb() { curl -F"file=@-;" https://null.slipfox.xyz .
+}
+0url() { curl -F"url=$1" https://null.slipfox.xyz .
+}
+0short() { curl -F"shorten=$1" https://null.slipfox.xyz .
+} now you can use:
+0file "yourfile.png"
+# or
+echo "text here" | 0pb FILE RETENTION PERIOD
+retention = min_age + (-max_age + min_age) * pow((file_size / max_size - 1), 3)  ABUSE
+if you would like to request permanent deletion, please
+send an email to slips at slipfox dot xyz please allow up to 24 hours for a response.
+
+      

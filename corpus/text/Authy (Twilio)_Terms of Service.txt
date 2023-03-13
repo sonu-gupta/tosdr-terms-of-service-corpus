@@ -1,0 +1,1106 @@
+
+        Legal
+
+Customer Agreements
+
+ Terms of Service 
+ Addendum for Spain 
+ ãµã¼ãã¹å©ç¨è¦ç´ (Twilio Japan ToS) 
+ APS Documentation 
+ Acceptable Use Policy 
+ Dev.to Hackathon Terms 
+ Emergency Services Addendum 
+ Security Overview 
+ SLA 
+ Twilio Messaging Policy 
+
+
+
+Supplier Agreements
+
+ Supplier Purchase Order Terms and Conditions 
+
+
+
+Partner Terms
+
+ Twilio API for SFDC Services 
+
+
+
+Product Specific Terms
+
+ Add-Ons 
+ Emergency Calling 
+ Flex Zendesk Terms 
+ Frontline Terms 
+ Phone Numbers 
+ <Pay&gt.
+Terms and Conditions 
+ Services 
+ SendGrid Services 
+ Short Codes 
+ Twilio Services 
+
+
+
+Intellectual Property
+
+ DMCA Policy 
+ Trademark 
+
+
+
+Privacy
+
+ Binding Corporate Rules 
+ CCPA Notice 
+ Cookie Notice 
+ Data Protection Addendum 
+ GDPR 
+ Privacy Policy 
+ Privacy Shield 
+ Sub-processors 
+ Frontline 
+
+
+
+Referrals
+
+ Referral Program Terms and Conditions 
+
+
+
+Resources for Law Enforcement
+
+ Government Requests 
+ Transparency Report 
+
+
+
+Civil Requests
+
+ Submit a request or subpoena 
+
+
+Print this pageTwilio Terms of ServiceThese Terms of Service are effective on September 1, 2020 for all customers agreeing to these Terms of Service for the first time. 
+If you have previously agreed to a version of our Terms of Service before September 1, 2020 (âPrior TOSâ), please note that these Terms of Service will be effective October 1, 2020.
+Please be aware that by continuing to use our Services after October 1, 2020, you are accepting these updated terms.
+If you have a separate written agreement with Twilio, then the updates to the Terms of Service will not apply to you.
+As part of these updates, we have not changed your ability to use our services.
+You may continue to access your customer account and use our services as you always have.Table of Contents
+ 1.
+Changes to These Terms 
+ 2.
+Your Twilio Account(s) 
+ 3.
+Access and Use of the Services 
+ 4.
+Customer Data 
+ 5.
+Customer Responsibilities, Restrictions and Requirements 
+ 6.
+Changes to the Services.
+
+ 7.
+Beta Offerings.
+
+ 8.
+Affiliates 
+ 9.
+Product Terms 
+ 10.
+Fees, Payment Terms, Taxes 
+ 11.
+Ownership and Confidentiality 
+ 12.
+Representations and Warranties.
+Warranty Disclaimer 
+ 13.
+Mutual Indemnification 
+ 14.
+Limitation of Liability.
+Emergency Services 
+ 15.
+Term.
+Termination 
+ 16.
+Survival 
+ 17.
+General 
+ 18.
+Agreement to Arbitrate 
+ 19.
+Fun 
+ 20.
+Additional Terms 
+ 21.
+Country Specific Addendum - Spain 
+
+
+Unless you work for a company that has negotiated a separate written agreement with us, these are the terms that apply to your use of our services.
+You should read them.
+
+
+Our services consist of both the platform, connectivity and email services that Twilio provides to you.
+
+
+And, heads up, you should really check out Section 14 because it limits our liability to you if something goes wrong.
+
+
+Also, if we get into a dispute, weâll have to figure it out in arbitration.
+Check out Section 18 for more details.
+
+In these Terms of Service (hereafter â
+
+Agreement
+
+â or â
+
+Terms
+
+â), â
+
+we
+
+,ââ
+
+us
+
+,ââ
+
+our
+
+â or â
+
+Twilio
+
+â will refer collectively to Twilio Inc., 375 Beale Street, Suite 300, San Francisco, CA 94105 and its affiliates.
+The terms â
+
+you
+
+,â â
+
+your
+
+â and â
+
+Customer
+
+â will refer to you.
+To be eligible to register for a customer account in order to use the Services, you must review and accept these Terms by clicking on the âI Acceptâ or âGet Startedâ button or other mechanism provided.
+If you are registering for a&nbsp.
+customer account in order to use the Services on behalf of an organization, then you are agreeing to these Terms for that organization and promising to Twilio that you have the authority to bind that organization to these Terms (and, in which case, the terms â
+
+you
+
+â and â
+
+your
+
+â or â
+
+Customer
+
+â will refer to that organization).
+The exception to this is if that organization has a separate written agreement with Twilio covering the use of the Services, in which case that agreement will govern such use.
+
+PLEASE REVIEW THESE TERMS CAREFULLY.
+ONCE ACCEPTED, THESE TERMS BECOME A BINDING LEGAL COMMITMENT BETWEEN YOU AND TWILIO.
+IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, YOU SHOULD NOT CLICK THE âI ACCEPTâ OR âGET STARTEDâ BUTTON AND YOU SHOULD NOT USE THE SERVICES.
+
+When we refer to the âServicesâ in these Terms, we mean to include all products and services that Twilio offers, and that you order under an Order Form or by using the Twilio or SendGrid customer account.
+This also includes our services provided to you on a trial basis or otherwise free of charge.&nbsp.
+Services may include products that provide both (a) the platform services, including access to any application programming interface (âAPIâ) and (b) where applicable, connectivity services, that link the Services to the telecommunication providersâ networks via the Internet.
+Refer to the definitions at www.twilio.com/legal for a more detailed description.
+When we refer to the â
+
+Twilio API
+
+â we mean an application programming interface for the Services (or feature of the Services) provided to you by us.
+When we refer to the â
+
+Documentation
+
+â we mean all of the Twilio API instruction manuals and guides, code samples, manuals, guides, on-line help files and technical documentation made publicly available by us for the Services, and as may be updated from time to time.&nbsp.
+This is available at www.twilio.com/legal and includes terms that are specific to certain products (namely what we may refer to as âproduct specific terms").&nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+ 
+When we refer to the â
+
+Customer Application
+
+â we mean any software application or service that Customer makes available to End Users that interfaces with the Services.
+
+IMPORTANT NOTE: THESE TERMS LIMIT OUR LIABILITY TO YOU.
+For more details, go to Section 14.
+
+
+IN ADDITION, DISPUTES RELATED TO TERMS OR RELATED TO YOUR USE OF THE SERVICES GENERALLY MUST BE RESOLVED BY A DISPUTE RESOLUTION PROCESS WHICH MAY LEAD TO BINDING ARBITRATION.
+For more details, go to Section 18.
+
+
+If you have any questions, you can reach Twilio at 
+twilio.com/help/contact
+.
+
+
+Contact us if&nbsp.
+you are a U.S.
+federal government user or otherwise accessing or using the Services in a U.S.
+federal government capacity.&nbsp.
+
+ 1.
+Changes to These Terms 
+These terms might change.
+But weâll let you know before we make any significant changes that impact you or your use of our Services.
+If you keep using our Services after you receive notice from us that the terms have changed, then that means you have accepted those changes and they will be binding on you.
+
+Prior notice of changes: Twilio may update these Terms of Service from time to time by providing you with prior written notice of material updates at least thirty (30) days in advance of the effective date.
+Notice will be given in your account portal or via an email to the email address owner of your account.
+This notice will highlight the intended updates.
+Except as otherwise specified by Twilio, updates will be effective upon the effective date indicated at the top of these Terms of Service.
+The updated version of these Terms will supersede all prior versions.
+Your acceptance: Following such notice, your continued access or use of the Services on or after the effective date of the changes to the Terms constitutes your acceptance of any updates.
+If you do not agree to any updates, you should stop using the Services.
+
+Exceptions: Twilio may not be able to provide at least thirty (30) days prior written notice of updates to these Terms that result from changes in the law or requirements from telecommunications providers.
+ 2.
+Your Twilio Account(s) 
+If you want to use our Services, you need to create a customer account.
+To create an account, you need to give us some information about yourself.
+The information you provide must be true and kept up to date.
+
+
+You are responsible for anything that happens under each of your accounts, including anything the users of your application do while using your application, and that means even if someone fraudulently uses your account, you are responsible for those fees.
+
+To use the Services, you will be asked to create a customer account.
+As part of the account creation process, youâll be asked to provide your email address, create a password, and verify that youâre a human being by providing a telephone number to which weâll send you a verification code to enter into a form.
+Until you register for an account, your access to the Services will be limited to what is available to the general public.
+When registering for an account, you must provide true, accurate, current and complete information about yourself as requested during the account creation process.
+You may also create sub-accounts within each account.
+You must keep that information true, accurate, current and complete after you create each account. 
+You are solely responsible for all use (whether or not authorized) of the Services under your customer account(s) and any subaccount(s), including the quality and integrity of your Customer Data and each Customer Application (as defined below).
+You are also solely responsible for all acts and omissions of anyone who has access to or otherwise uses any Customer Application (âEnd Usersâ).
+You agree to take all reasonable precautions to prevent unauthorized access to or use of the Services and will notify us promptly of any unauthorized access or use.
+We will not be liable for any loss or damage arising from unauthorized use of your customer account(s).
+You will be solely responsible, at your own expense, for acquiring, installing and maintaining all hardware, software and other equipment as may be necessary for you and each End User to connect to, access, and use the Services.
+As part of our ongoing and routine monitoring of account activity, and to help us reduce the risk of fraudulent use of your account and our services, you will initially be limited in the number of messages you can send while we are activating your account, or where you have not used your account in 6 months or longer. 3.
+Access and Use of the Services 
+We want to make our Services available for you to use 24/7, but things happen that occasionally make our Services unavailable.
+We offer service credits if our Services donât meet our Twilio service level agreement (SLA).&nbsp.
+
+(check out our Twilio SLA).
+
+
+You and your affiliates may use our APIs and published documentation to create your application that your end users can use so long as you, your affiliates, and your end users comply with these Terms of Service, and our 
+Acceptable Use Policy
+.
+
+3.1 Provision of the Services.
+We will make the Services available to you in accordance with these Terms, the Documentation and any applicable Order Forms.
+The Services will comply with this service level agreement âSLAâ), which may be updated from time to time.
+Services will also comply with the Twilio Security Overview.
+We will&nbsp.
+provide the Services in accordance with laws applicable to Twilioâs provision of the Services to its customers generally (i.e.
+without regard for your particular use of the Services), and subject to your&nbsp.
+use of the Services in accordance with these Terms, the Documentation and any applicable Order Form.
+3.2 You may use the Services, on a non-exclusive basis, solely to:&nbsp.
+(a) use the Documentation and Twilio APIs as needed to develop your Application.
+(b) use and make the&nbsp.
+Services available to End Users in connection with the use of each Customer Application in accordance with the Documentation and our Acceptable Use Policy.
+(c) use the Services solely in connection with and as necessary for your activities pursuant to these Terms.
+and (d) allow your affiliates to use the Services (subject to Section 8 (Affiliates)) pursuant to this Section 3. 4.
+Customer Data 
+Our Data Protection Addendum and Privacy Policy include important terms about the use and disclosure of Customer Data, which is your Confidential Information.&nbsp.
+The Data Protection Addendum has now been added into these Terms by our referring to it, and it now applies to all our customers.
+Please read our 
+Privacy Policy
+ to understand what we do with your data.
+If you donât want your data used that way, then, stop using our Services immediately.
+
+
+We might have to use or disclose your data for one or more of the reasons below:
+
+
+
+
+
+If necessary to provide you with our Services;
+
+
+
+
+To address technical issues, provide support or maintain our Services;
+
+
+
+
+If we need to protect Twilio, other customers, or the public;
+
+
+
+
+If there is an emergency.
+or
+
+
+
+
+If the law requires.
+
+
+
+Email and SMS are insecure by their nature, so please keep that in mind when using the Services.
+This is simply a fact beyond our control, and therefore cannot be held responsible.
+
+
+If we make reference to âlawâ or âlawsâ in these terms, we mean laws in the traditional sense, namely statutes, ordinances, and regulations.
+
+4.1 Use of Customer Data
+âCustomer Dataâ consists of data and other information made available to us by or for you&nbsp.
+through the use of the Services under these Terms
+ Data Privacy.&nbsp.
+The terms of the Data Protection Addendum made part hereof (âData Protection Addendumâ) shall apply when personal data is being processed pursuant to this Agreement.&nbsp.
+Additionally, personal data may be disclosed in accordance with the Privacy Policy.
+You acknowledge that you have read our âPrivacy Policyâ and understand that it sets forth how we will collect, store, use and disclose your Customer Data including personal data.
+If you do not agree with our Privacy Policy, then you must stop using the Services immediately.
+You instruct us to use and disclose Customer Data as necessary to (a) provide the Services consistent with Twilio's then-current Data Protection Addendum, Privacy Policy, Section 11.4, and this Section 4, including detecting, preventing, and investigating security incidents, fraud, spam, or unlawful use of the Services, and (b) respond to any technical problems or your queries and ensure the proper working of the Services.
+You acknowledge, that the Internet and telecommunications providersâ networks are inherently insecure.
+Accordingly, you agree Twilio is not liable for any changes to, interception of, or loss of Customer Data while in transit via the Internet or a telecommunications providerâs network. 5.
+Customer Responsibilities, Restrictions and Requirements 
+Some âdos and donâtsâ to keep in mind when using the Services:
+
+
+a) &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+
+Donât transfer our services, resell them, etc., except as allowed under Section 3.2(b);
+
+
+b) &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+
+Donât use our services to try to contact emergency services unless you have a special agreement with us allowing you to do so;
+
+
+c) &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+
+Donât use our services to break the laws, regulations, rules, etc., to violate these terms, to violate our Acceptable Use Policy, or to violate someone elseâs rights;
+
+
+d) &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+
+Do make sure that Twilio is allowed to use your data as needed to provide you our services; 
+
+
+e) &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+
+Donât reverse engineer, etc.
+any software we provide;
+
+
+f)&nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+
+Don't use our services to improve or train similar products and services;
+
+
+g) &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+
+Don't create multiple accounts as a way of getting around paying for the services.
+and 
+
+
+&nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+h)&nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+ Do c
+omply with the law.
+
+
+
+
+
+
+Refer to our Data Protection Addendum for information about return and deletion of Customer Data.
+
+
+
+Because has a section on customer responsibilities and restrictions We are excited to see what you build with the Services.
+But, you should know you and your End Users have a number of responsibilities you must carry out, and&nbsp.
+there are some restrictions on what you can do with them and requirements that you must follow if you use the Services.
+5.1 Your Responsibilities
+You will: (a) be solely responsible for all use (whether or not authorized) of the Services and Documentation under your&nbsp.
+account, including for the quality and integrity of Customer Data and each Customer Application.
+(b) use Services only in accordance with this Agreement, the Acceptable Use Policy, Documentation, Order Forms or other applicable terms relating to the use of the Services, and applicable laws.
+(c) be solely responsible for all acts, omissions and activities of your End Users, including their compliance with these Terms, Documentation, the Acceptable Use Policy, and any Order Forms or other terms of sales of the Services.
+(d) do your best to prevent unauthorized access to or use of the Services and notify Twilio promptly of any such unauthorized access or use.
+(e) provide reasonable cooperation regarding information requests from law enforcement, regulators, or telecommunications providers.
+and (f) comply with the representations and warranties you make in Section 12 (Representations and Warranties) below.
+5.2 Services Usage Restrictions
+With regard to the Services, you agree that:&nbsp.
+(a) except to make the Services available to your End Users in connection with the use of each Customer Application as permitted herein, you will not transfer, resell, lease, license or otherwise make available the&nbsp.
+Services to third parties or offer them on a standalone basis.
+(b) you will not attempt to use the Services to access or allow access to Emergency Services (meaning, an official government-sponsored emergency telephone number (such as 911 in North America or 112 in the European Union and other locations worldwide) which is used to dispatch professional emergency responders) unless the Service is expressly approved for Emergency Services, and you use those Services strictly in accordance with the Emergency Services Addendum or enter such other agreement as Twilio deems appropriate.
+and (c)&nbsp.
+you will ensure that the Services are used in accordance with all applicable law and third party rights, as well as these Terms and our Acceptable Use Policy, as amended from time to time.
+(d) you will ensure that we are entitled to use your Customer Data, as needed to provide the Services.
+(e) you will not use the Services in any manner that violates any applicable law.
+(f) You will not use the Services to create, train, or improve (directly or indirectly) a substantially similar product or service, including any other machine translation engine.
+(g) you will not create multiple Customer Applications or Service accounts to simulate or act as a single Customer Application or Service account (respectively) or otherwise access the Service in a manner intended to avoid incurring fees.
+(h) except as allowed by applicable law, you will not reverse engineer, decompile, disassemble or otherwise create, attempt to create or derive, or permit or assist anyone else to create or derive the source code of any software provided in connection with the Services.
+
+
+
+We can suspend our services for several reasons, in addition to your failure to pay your fees when they are due, if: 1.
+you violate our Acceptable Use Policy.
+2.
+you send fraudulent traffic.
+3.
+your use negatively impacts the operation of our services.
+4.
+legal conditions make it impractical for our services to operate.
+or 5.
+you file for bankruptcy or go out of business.
+
+
+Weâll try to let you know if we need to suspend your customer account(s) in advance if we can, but cannot guarantee this.
+
+
+We will also try to limit the suspension.
+
+5.3 Suspension of Services.
+In addition to suspension of the Services for non-payment of fees as described in Section 10.3 (Suspension for Non-Payment), we may also suspend the Services immediately upon notice for cause if: (a) you violate (or give us reason to believe you have violated) any provision of these Terms, our Acceptable Use Policy.
+(b) there is reason to believe the traffic created from your use of the Services or your use of the Services is fraudulent or negatively impacting the operating capability of the Services.
+(c) we determine, in our sole discretion, that providing the Services is prohibited by applicable law, or it has become impractical or unfeasible for any legal or regulatory reason to provide the Services.
+or (d) subject to applicable law, upon your liquidation, commencement of dissolution proceedings, disposal of your assets or change of control, a failure to continue business, assignment for the benefit of creditors, or if you become the subject of bankruptcy or similar proceeding, or (e) there is any use of the Services by Customer or End Users that in Twilioâs judgment threatens the security, integrity or availability of the Services.
+However, Twilio will use commercially reasonable efforts under the circumstances to (x) provide you with notice and an opportunity to remedy such violation or threat prior to any such suspension;&nbsp.
+(y) where practicable limit the suspension based on the circumstances leading to the suspension (e.g., to certain phone numbers, sub-accounts or other subset of traffic).
+and (z) remove the suspension as quickly as reasonably practicable after the circumstances leading to the suspension have been resolved.
+If your account is blocked because you are operating in a country or region prohibited under Section 12.1.4 (Export Controls), you will receive notice of your account being inoperable when you attempt to log into your account in the restricted country or region.
+
+
+5.4 Building Regulated Services
+Twilio offers both non-interconnected and interconnected VoIP products.
+If you purchase an interconnected VoIP product, you are&nbsp.
+responsible, just like Twilio, to comply with the regulatory requirements, taxes, and fees imposed on interconnected VoIP services.
+If you purchases a non-interconnected VoIP product or service from Twilio, it is still possible for you to build an interconnected VoIP service with Twilio's non-interconnected VoIP product.
+If you build an interconnected VoIP service (regardless of which Twilio product is purchased), you will be responsible to comply with the regulatory requirements, taxes, and fees imposed on interconnected VoIP services. 6.
+Changes to the Services.
+
+We are always looking to innovate and make our services better, so our APIs and SLA may change over time.
+We will let you know in advance if any API changes arenât backwards-compatible.
+
+The features and functions of the Services, including the Twilio API and our SLA, may change over time.
+It is your responsibility to ensure that calls or requests you make to the Services are compatible with our then-current Services.
+Although we try to avoid making changes to the Services that are not backwards compatible, if any such changes become necessary, we will use reasonable efforts to let you know at least sixty (60) days prior to implementing those changes. 7.
+Beta Offerings.
+
+You have the choice to use our Beta Offerings.
+But you donât have to.
+These are not generally available, and they may have bugs or defects.
+Also we do not consider these to be âServicesâ under these Terms.&nbsp.
+So we have no responsibility if something goes amiss.
+You understand that we donât make any promises that Beta Offerings wonât have problems.
+
+
+You understand that we will not be liable for any damages from your use of Beta Offerings.
+
+From time to time, Twilio may make Beta Offerings available to you.&nbsp.
+You may choose to try such Beta Offerings or not in your sole discretion.
+Twilio may discontinue Beta Offerings at any time in our sole discretion and may decide not to make a Beta Offering generally available.
+For avoidance of doubt, such Beta Offerings are not âServicesâ under these Terms.
+âBeta Offeringsâ means services that are identified as alpha, beta, non-GA, limited release, developer preview, or any such similarly designated services, products, features, and documentation offered by Twilio. 8.
+Affiliates 
+Your affiliates (namely a parent company or a subsidiary that your own company controls) can use our Services, and&nbsp.
+you and your affiliates will both be responsible for everything that your affiliates do when theyâre using our Services.
+That includes any violations&nbsp.
+of these Terms of Service.
+If your affiliate want to bring a claim against Twilio, then only you may bring that claim on your affiliateâs behalf.
+Of course, your affiliates can also accept our Terms and order their own Services.
+
+Your affiliates mean any entity or person that controls you, is controlled by you, or under common control with you, such as a subsidiary, parent company, or employee.
+The term âcontrolâ means more than 50% ownership.
+Similarly, if we refer to our affiliates, we mean an entity or person that controls us, is controlled by us, or is under common control with us.
+Your affiliates are not permitted to purchase Services using the Terms of Service that you accepted.
+Instead your affiliates will need to accept the Terms themselves.
+If your affiliates use the Services under these Terms, then you and those affiliates will be jointly and severally responsible for the acts and omissions of your affiliates, including, but not limited to, their breach of these Terms.
+Any claim from any of your affiliates that use the Services pursuant to these Terms may only be brought against us by you on your affiliatesâ behalf. 9.
+Product Terms 
+Review the product terms in the navigation bar.
+
+Refer to www.twilio.com/legal for terms that apply to certain features and functionality of our Services. 10.
+Fees, Payment Terms, Taxes 
+You agree to pay the fees generated under your account(s).
+If you donât have an order form with discounted fees, then you must pay the rates listed at 
+sendgrid.com/pricing
+&nbsp.
+and  
+twilio.com/pricing
+,&nbsp.
+respectively.
+
+
+If you use our Services in violation of these terms and cause us to be fined or penalized, we will automatically bill you for it.
+
+
+You also agree to pay all applicable taxes.
+If you are exempt from paying any taxes, though, please let us know and send us proof.
+
+
+You will pay us for any Services you use.
+If you pay by credit card, then you must make sure that you have topped your Twilio account(s) up with sufficient funds to cover your monthly fees.
+If you do not have sufficient funds in your Twilio account(s) to cover your monthly fees, then we may suspend our services.
+
+
+If we approve you for invoicing, you agree to pay all fees that you owe to Twilio in US dollars, unless we agree to another currency in writing, no later than 30 days after the date of the invoice.
+
+
+If you donât pay on time, then we may send you a late notice.
+If we donât get your payment within 10 days after the date on the late notice, then we may charge a late fee and/or suspend our services.
+Please pay us on time.
+
+
+If we suspend our services to you for your non-payment, then we are not responsible for anything bad that might happen as a result.
+
+
+If you ever think that we charged you the wrong amount and you want to dispute it, then let us know, in writing, within 60 days of billing date for the charge in question.
+You have to be reasonable when disputing an invoice.
+You must be acting in good faith and cooperating with us to resolve the problem.
+
+10.1 Fees.
+You agree to pay fees in accordance with the rates listed at twilio.com/pricing and sendgrid.com/pricing, unless otherwise set forth in an order form or order confirmation between the parties (an â
+
+Order Form
+
+â).
+Additionally, we will charge you, and you shall pay, in accordance with Section 10.3, any and all additional costs, fines, or penalties we incur from a governmental or regulatory body or telecommunication provider as a result of your use of the Services.
+10.2 Taxes.
+Unless otherwise stated in an Order Form, you shall be responsible for and shall pay all Taxes imposed on or with respect to the Services that are the subject of this Agreement.&nbsp.
+â
+
+Taxes
+
+â mean all applicable federal, state and local taxes, fees, charges, telecommunications provider (e.g., carrier) surcharges or other similar exactions, including, without limitation, sales and use taxes, communications service taxes, utility userâs taxes or fees, excise taxes, VAT, GST, other license or business and occupations taxes, 911 taxes, franchise fees and universal service fund fees or taxes.
+For purposes of this Section 10.2, Taxes do not include any Taxes that are imposed on or measured by our net income, property tax, or payroll taxes.
+If you are exempt from any such Taxes for any reason, we will exempt you from such Taxes on a going-forward basis once you deliver a duly executed and dated valid exemption certificate to our tax department and our tax department has approved such exemption certificate.
+Such exemptions should be sent directly to taxforms@twilio.com.
+For avoidance of doubt, the Customer will not be exempt from the Federal Universal Service Fund fees unless the Customer itself is a direct contributor to the Federal Universal Service Fund and has a contributor number that can be verified through the United States Federal Communications Commission (FCC) website.
+If you are exempt from VAT or GST, then it is your responsibility to provide your VAT or GST registration number to us.
+If you provide us an exemption certificate or your VAT or GST number after you have paid Taxes, then we will provide, upon your written request, a credit to your customer account for Taxes previously paid for up to a period of three (3) months from the date of receipt of your written request.
+If for any reason a taxing jurisdiction determines that you are not exempt from any such exempted Taxes and then assesses us such Taxes, you agree to promptly pay to us such Taxes, plus any applicable interest or penalties assessed.
+Should you be required by applicable law to withhold any tax from any payment owed to us, then you may provide us with an exemption certificate or similar document to reduce or eliminate any such withholding.
+Upon receipt of such certificate or document, you shall thereafter reduce or eliminate, as the case may be, such withholding.
+You shall provide us with documents evidencing your payment of any such withheld Tax to applicable tax authorities.
+10.3 Payment Terms.
+You will make all of the payments due hereunder in accordance with the following applicable payment method:
+10.3.1 Credit Card Payment Terms.
+If you elect to pay via credit card, then you are responsible for either (a) enabling auto-recharge on your customer account(s) or (b) ensuring that your customer account(s) has a sufficient positive balance to cover all fees due.
+If, for any reason, you have a negative balance on your customer account(s), then we reserve the right to suspend the Services.
+10.3.2 Invoicing Payment Terms.
+If you elect to receive invoices and pay in arrears and we approve you for the same, then invoices will be sent to you via email as a PDF on a monthly basis.
+You will make all of the undisputed fees hereunder within thirty (30) days of the date of the invoice.
+Unless you and Twilio agree otherwise in writing, all undisputed fees due pursuant to these Terms are payable in United States dollars, unless otherwise agreed to between the parties in writing.
+Payment obligations canât be canceled, and fees paid are non-refundable.
+If you are overdue on any payment of undisputed fees and fail to pay within ten (10) business days of a written notice of your overdue payment, then we may assess, and you must pay a late fee.
+The late fee will be either 1.5% per month, or the maximum amount allowable by applicable law, whichever is less.
+Following the notice of non-payment, we may also suspend the Services until you pay the undisputed fees due plus any late fees.
+10.3.3 Suspension for Non-Payment.
+If we suspend the Services pursuant to this Section 10.3, then we will have no liability for any damage, liabilities, losses (including any loss of data or profits) or any other consequences that you may incur in connection with any such suspension.
+10.4 Fee Disputes.
+If you are disputing any fees or Taxes, you must act reasonably and in good faith and you must cooperate diligently with Twilio to resolve the dispute.
+You must notify us in writing if you dispute any portion of any fees paid or payable by you pursuant to these Terms.
+You must provide that written notice to us within sixty (60) days of the date we bill you for the charge you want to dispute, and we will work together with you to resolve the dispute promptly. 11.
+Ownership and Confidentiality 
+Whatâs ours is ours, and whatâs yours is yours.&nbsp.
+Please let us know what you think about Twilio and our services.
+By the way, though, if you send us feedback, then we can use it and we donât owe you anything for it.&nbsp.
+If you use our services, then we can use your companyâs name, logos, and description of how you use our services on our website, in earnings calls, and in marketing, promotional, or other materials available to the public in accordance with any of your usage guidelines.
+
+11.1 General.
+As between you and Twilio, we exclusively own and reserve all right, title and interest in and to the Services, Documentation, our Confidential Information and&nbsp.
+all anonymized or aggregated data resulting from use and operation of the Services (such as but not limited to volumes, frequencies, or bounce rates) and that do not identify a natural person as the source of the information, as well as any feedback, recommendations, correction requests, or suggestions from you or any End User about the Services (âContributionsâ).
+&nbsp.
+As between you and Twilio, you exclusively own and reserve all right, title and interest in and to each Customer Application, Customer Data and your Confidential Information.
+11.2 Suggestions and Contributions.
+We welcome your Contributions about the Services.
+But please know that by submitting Contributions you agree that: (a) we are not under any obligation of confidentiality with respect to your Contributions.
+(b) we may use or disclose (or choose not to use or disclose) your Contributions for any purpose and in any way.
+(c) we own your Contributions.
+and (d) you are not entitled to any compensation or reimbursement of any kind from us under any circumstances for your Contributions.
+11.3 Use of Marks.
+You grant Twilio the right to use your name, logo, and a description of your use case to refer to you on Twilioâs website, earnings release and calls, marketing or promotional materials, subject to your standard trademark usage guidelines that you provide to us from time-to-time.
+
+We both agree not to tell anyone else about confidential information that we get from each other and only to use it as agreed to in these Terms, including the Data Protection Addendum, which refers to the Privacy Policy.
+
+
+Money alone may not be enough to make either of us whole if one of us breaks our promise of confidentiality.
+So, we both can seek other remedies (like gag orders), if needed.
+
+
+
+11.4 Confidentiality.
+11.4.1 "
+
+Confidential Information
+
+" means any information or data, regardless of whether it is in tangible form, disclosed by either party that is marked or otherwise designated as confidential or proprietary or that should otherwise be reasonably understood to be confidential given the nature of the information and the circumstances surrounding disclosure.
+Confidential Information does not include any information which: (a) is publicly available through no fault of the receiving party.
+(b) was properly known to the receiving party, without restriction, prior to disclosure by the disclosing party.
+(c) was properly disclosed to the receiving party, without restriction, by another person without violation of the disclosing party's rights.
+or (d) is independently developed by the receiving party without use of or reference to the Confidential Information of the disclosing party.
+11.4.2 Use and Disclosure.&nbsp.
+The Receiving Party will use the same degree of care that it uses to protect the confidentiality of its own confidential information of like kind (but not less than reasonable care) to (i) not use any Confidential Information of the Disclosing Party for any purpose outside the scope of this Agreement and (ii) except as otherwise authorized by the Disclosing Party in writing, limit access to Confidential Information of the Disclosing Party to those of its and its affiliatesâ employees and contractors who need that access for purposes consistent with this Agreement and who are legally bound to&nbsp.
+keep such information confidential consistent with the terms of this Section 11.
+Twilio may disclose the terms of any Order Form or other purchase of Services to its affiliates, legal counsel and accountants without your prior written consent, and Twilio will remain responsible for its affiliateâs, legal counselâs or accountantâs compliance with this Section 11 (Confidentiality).
+Notwithstanding the foregoing, (x) Twilio may disclose the terms of this Agreement and any applicable purchase transaction to a subcontractor to the extent necessary to perform Twilioâs obligations under this Agreement, and (y) Twilio may use and disclose your Confidential Information as necessary to provide the Services, including as set forth in the Data Protection Addendum, and in each case of (x) and (y) under terms of confidentiality materially as protective as set forth herein.
+11.4.3 Compelled Disclosure.
+Twilio may disclose your Confidential Information if so required pursuant to a regulation, law or court order.
+We will give you notice of the compelled disclosure (to the extent legally permitted).&nbsp.
+You will cover our reasonable legal fees for preparation of witnesses, deposition and testimony to the extent such compelled disclosure is in connection with a lawsuit or legal proceeding to which you are a party or to the extent fees are incurred in connection with reasonable assistance we provide to you&nbsp.
+in connection with your efforts to contest disclosure.
+11.5 Injunctive Relief.
+The parties expressly acknowledge and agree that no adequate remedy may exist at law for an actual or threatened breach of this Section 11 and that, in the event of an actual or threatened breach of the provisions of this Section 11, the non-breaching party will be entitled to seek immediate injunctive and other equitable relief, without waiving any other rights or remedies available to it. 12.
+Representations and Warranties.
+Warranty Disclaimer 
+If you want to record or monitor calls, messages, or any other form of communications, then be warned that there are a lot of laws that govern these types of activities.
+You MUST comply with every law and regulation that applies.
+Be sure to get permission from anyone you want to record/monitor.&nbsp.
+If you break any applicable laws or regulations and, as a result, Twilio gets sued, investigated, etc., then you will pay for it all.
+
+
+You promise that you are only giving Twilio any customer data for which youâve given required notices and gotten permission as required by law.
+In addition, we will only use and disclose this customer data following Section 4 above.
+
+
+
+
+
+12.1 Representations and Warranties.
+12.1.1 Recordings and Communications Monitoring.
+You represent and warrant that if you record or monitor telephone calls, SMS messages, or other communications using the Services, then you will comply with all applicable laws prior to doing so and will secure all required&nbsp.
+prior consents to record or monitor communications using the Services.
+We make no representations or warranties with respect to recording or monitoring of telephone calls, SMS messages, or other communications.
+You acknowledge that these representations, warranties, and obligations are essential to our ability to provide you with access to recording and monitoring features that are part of the Services, and you further agree to indemnify us and our affiliates in accordance with the terms of Section 13 (Mutual Indemnification) for claims arising out of or related to your acts or omissions in&nbsp.
+connection with providing notice and obtaining consents regarding such recording or monitoring of telephone calls, SMS messages, or other communications using the Services.
+
+
+
+We promise that our services will work the way we say they will in our published documentation.
+
+12.1.2 Customer Data.
+You represent and warrant that you have provided (and will continue to provide) adequate notices and have obtained (and will continue to obtain) the necessary permissions and consents to provide Customer Data to us for use and disclosure pursuant to Section 4 (Our Use of Customer Data).
+12.1.3 Services.
+We represent and warrant that the Services will perform materially in accordance with the applicable Documentation.
+Twilioâs sole obligation, and your sole and exclusive remedy, in the event of any failure by Twilio to comply with this Section 12.1.3 will be for Twilio to, at Twilioâs option, re-perform the affected Services or refund to you the fees you actually paid for the affected Services.
+
+Both of us must follow U.S.
+export and economic sanctions laws.
+We are both swearing that we and our organizations are not on any of the lists that the U.S.
+government publishes of people and organizations that U.S.
+companies are not allowed to do business with.
+
+12.1.4 Export Controls.
+The Services may be subject to applicable export control and economic sanctions laws of the U.S.
+and other jurisdictions.&nbsp.
+Twilio and You each agree to comply strictly with all domestic and international export laws and economic sanctions regulations, in the case of Twilio, in providing the Services, and, in the case of you, in receiving and using the Services respectively, and to the extent consistent with these Term, you will&nbsp.
+obtain any necessary license or other authorization to export, re-export, or transfer the Services.
+These laws include restrictions on destinations, End Users, and end use.
+Without limitation, you may not transfer the Services without U.S.
+government authorization to any entity on a U.S.
+government exclusion list (e.g., the Department of Commerceâs List of Denied Persons, Entity, or Unverified List, and the Treasury Departmentâs List of Specially Designated Nationals and Consolidated Sanctions List).
+Twilio represents that Twilio is not named on a U.S.
+government exclusion list.
+You represent that you or any End User using the Services is not named on a U.S.
+government exclusion list, and you further warrant that you will immediately discontinue use of the Services if you or any End User using the Services becomes placed on any such list.
+
+Except for any of our explicit warranties in this Section 12 and our obligations described in these Terms, we are offering our Services âas is.â
+
+
+
+
+12.2 Disclaimers
+
+
+12.2.1 GENERAL DISCLAIMER.
+WITHOUT LIMITING A PARTYâS&nbsp.
+EXPRESS WARRANTIES AND OBLIGATIONS HEREUNDER, AND EXCEPT AS EXPRESSLY PROVIDED HEREIN,&nbsp.
+THE SERVICES ARE PROVIDED âAS IS,â AND TWILIO MAKES NO WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, AND TWILIO&nbsp.
+SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, TO THE FULLEST&nbsp.
+EXTENT PERMITTED BY LAW.
+TWILIO ADDITIONALLY DISCLAIMS ALL WARRANTIES RELATED TO THIRD PARTY TELECOMMUNICATIONS PROVIDERS.
+BETA OFFERINGS ARE PROVIDED âAS ISâ AND âAS AVAILABLEâ WITH NO WARRANTIES WHATSOEVER, AND TWILIO SHALL HAVE NO LIABILITY WHATSOEVER FOR ANY HARM OR DAMAGE ARISING OUT OF OR IN CONNECTION WITH A BETA OFFERING.  
+
+
+ 13.
+Mutual Indemnification 
+If our Services violate someone elseâs intellectual property rights, then we will fight that fight and pay the damages awarded by the Court.
+
+
+If we think our Services may violate someone elseâs intellectual property rights, then we may try to obtain the right for you to continue to use our Services or modify our Services so they are no longer infringing.
+If we are unable to do either, then we may terminate these Terms and close your Twilio account(s) and refund you any unused, pre-paid fees.
+
+
+There are limits on what we indemnify you for.
+Twilio will not pay for any bills, damages, costs, etc.
+for (1) a claim that was filed because you violated these terms and (2) any intellectual property infringement claim that arises from your use of our Services with other applications, products, or services, or (3) if you did not pay us for the Services and they were free of charge.
+
+13.1 Indemnification by Twilio.
+We will defend you from and against all claims, demands, suits or proceedings made or brought against you by a third party alleging that the Services infringe or misappropriate such third partyâs intellectual property rights (âInfringement Claimâ), and will indemnify you from any damages, attorney fees, and costs finally awarded against you as a result of, or for amounts you pay to settle an Infringement Claim under a settlement under Section 13.5 (Conditions of Indemnification) for which Twilio has given its written approval.
+13.2 Infringement Options If your use of the Services has become, or in Twilioâs opinion is likely to become, the subject of any Infringement Claim, Twilio may at its option and expense: (a) procure for you the right to continue using the Services as set forth herein.
+(b) modify the Services to make them non-infringing.
+or (c) if the foregoing options are not reasonably practicable, terminate these Terms and refund you any unused pre-paid fees.
+This Section 13 states your exclusive remedy for any Infringement Claim by a third party.
+13.3 Limitations Twilio will have no liability or obligation with respect to any Infringement Claim and a court award of damages&nbsp.
+(a) arising out of your use of the Services in breach of these Terms, (b) arising out of the combination, operation, or use of the Services with other applications, portions of applications, products, or services where the Services would not by themselves, and without modification, be infringing, or (c) arising from Services for which there is no charge.
+
+If someone comes after Twilio because:
+
+
+a. 
+you or your end users violate these terms;
+
+
+b. 
+of something you or your end users do while using our services.
+or
+
+
+c.
+of something related to your application,
+
+
+then you have to fight that fight and cover the damages awarded by the Court.
+
+13.4 Indemnification by You.
+You will defend Twilio, its officers, directors, employees,&nbsp.
+and affiliates (â
+
+Twilio Indemnified Parties
+
+â)&nbsp.
+from and against any claim, demand, suit or proceeding made or brought against a Twilio Indemnified Party by a&nbsp.
+third party alleging or arising out of (a) your or any of your End Usersâ breach of these Terms or your obligations under Section 5 (Customer Responsibilities, Restrictions and Requirements), or breach of your representations or warranties under Section 12 of these Terms.
+(b) your or any of your End Usersâ use of the Services or any activities under these Terms.
+or (c) your Customer Application, including, without limitation, any intellectual property claims for infringement or misappropriation relating to each Customer Application (collectively, âCustomer Indemnifiable Claimsâ) and will indemnify Twilio from any damages, attorney fees, and costs finally awarded against Twilio Indemnified Parties as a result of, or for amounts paid by Twilio Indemnified Parties to settle a Customer Indemnifiable Claim under a settlement under Section 13.5 (Conditions of Indemnification) for which you have&nbsp.
+given your written approval.  
+
+If either you or Twilio wants to be indemnified by the other for a particular claim, then the party requesting indemnification needs to do certain things -- namely given notice of the claim, cooperate, and let the party providing the indemnification handle the defense or settlement of the claim.
+If these things are not done, then the other party may not have to provide the requested indemnification.
+See the legal language for what is required.
+
+13.5 Conditions of Indemnification.
+As a condition of the foregoing indemnification obligations: (a) the indemnified party (â
+
+Indemnified Party
+
+â) will promptly notify the indemnifying party (â
+
+Indemnifying Party
+
+â) of any Infringement Claim or Customer Indemnifiable Claim, as applicable (collectively referred to as a âClaimâ), provided, however, that the failure to give such prompt notice shall not relieve the Indemnifying Party of its obligations hereunder except to the extent that the Indemnifying Party was actually and materially prejudiced by such failure.
+(b) the Indemnifying Party will have the sole and exclusive authority to defend or settle any such Claim (provided that, the Indemnifying Party will obtain the Indemnified Party's consent in connection with any act or forbearance required by the Indemnified Party, which consent will not be unreasonably withheld).
+and (c) the Indemnified Party will reasonably cooperate with the Indemnifying Party in connection with the Indemnifying Partyâs activities hereunder, at the Indemnifying Partyâs expense.
+The Indemnified Party reserves the right, at its own expense, to participate in the defense of a Claim.
+Notwithstanding anything herein to the contrary, the Indemnifying Party will not settle any Claims for which it has an obligation to indemnify pursuant to this Section 13 admitting liability or fault on behalf of the Indemnified Party, nor create any obligation on behalf of the Indemnified Party without the Indemnified Partyâs prior written consent. 14.
+Limitation of Liability.
+Emergency Services 
+Generally speaking, neither of us owes each other for any bad things that might indirectly result from our services not working as intended.
+However, each of us may owe the other for indirect damages for the claims covered under Section 13 (Mutual Indemnification) where we basically step into your shoes to defend a claim brought against you, or where you step into our shoes to defend a claim against us.  
+
+
+Any direct damages we might owe each other cannot be more than the amount youâve paid (or should have paid) in the previous 12-months for the&nbsp.
+given Services giving rise to the claims.
+However, direct damages wonât be limited if they result from your breach of Sections 5 (Customer Responsibilities, Restrictions and Requirements) or satisfying our mutual indemnification obligations.
+
+
+We have special products and a special agreement that covers connecting to emergency services.
+If you donât have that agreement with us, you may not use our services to connect to emergency services (like 911).
+If something bad happens because you or someone using our services under your Twilio account(s) tries but is unable to reach emergency services, then Twilio is not and cannot be held responsible.
+
+14.1 INDIRECT, CONSEQUENTIAL AND RELATED DAMAGES.
+EXCEPT FOR AMOUNTS PAYABLE UNDER A PARTY'S INDEMNIFICATION OBLIGATIONS UNDER SECTION 13 (MUTUAL INDEMNIFICATION) OF THESE TERMS, IN NO EVENT WILL EITHER PARTY OR ITS AFFILIATES HAVE ANY LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT FOR ANY REVENUES, GOODWILL, OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER, LOST DATA, BUSINESS INTERRUPTION OR PUNITIVE DAMAGES, WHETHER AN ACTION IS IN CONTRACT OR TORT AND REGARDLESS OF THE THEORY OF LIABILITY, EVEN IF A PARTY OR ITS AFFILIATES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR IF A PARTYâS OR ITS AFFILIATESâ REMEDY OTHERWISE FAILS OF ITS ESSENTIAL PURPOSE.&nbsp.
+THE FOREGOING DISCLAIMER WILL NOT APPLY TO THE EXTENT PROHIBITED BY LAW.
+14.2 LIMITATION OF LIABILITY.
+EXCEPT FOR DAMAGES ARISING FROM BREACH OF YOUR OBLIGATIONS UNDER SECTION 5 (CUSTOMER RESPONSIBILITIES, RESTRICTIONS AND REQUIREMENTS) AND EXCEPT FOR AMOUNTS PAYABLE UNDER A PARTYâS INDEMNIFICATION OBLIGATIONS UNDER SECTION 13 (MUTUAL INDEMNIFICATION) OF THESE TERMS,&nbsp.
+IN NO EVENT WILL THE AGGREGATE LIABILITY OF EACH PARTY ARISING OUT OF OR RELATED TO THESE TERMS EXCEED THE AMOUNTS PAID OR PAYABLE BY CUSTOMER HEREUNDER FOR THE SERVICES GIVING RISE TO THE LIABILITY DURING THE TWELVE (12) MONTH PERIOD PRECEDING THE FIRST INCIDENT OUT OF WHICH THE LIABILITY AROSE.&nbsp.
+THE FOREGOING LIMITATION WILL APPLY WHETHER AN ACTION IS IN CONTRACT OR TORT, AND REGARDLESS OF THE THEORY OF LIABILITY, BUT WILL NOT LIMIT YOUR PAYMENT OBLIGATIONS UNDER SECTION 10 (FEES, PAYMENT TERMS, TAXES) ABOVE.
+14.3 &nbsp.
+EMERGENCY SERVICES DISCLAIMER.
+&nbsp.
+NEITHER TWILIO NOR ITS REPRESENTATIVES WILL BE LIABLE UNDER ANY LEGAL OR EQUITABLE THEORY FOR ANY CLAIM, DAMAGE, OR LOSS (AND CUSTOMER WILL HOLD TWILIO HARMLESS AGAINST ANY AND ALL SUCH CLAIMS) ARISING FROM OR RELATING TO THE INABILITY TO USE THE SERVICES TO CONTACT EMERGENCY SERVICES, AS DEFINED IN SECTION 5.2(b), ABOVE.&nbsp.
+TWILIOâS OUTBOUND COMMUNICATIONS SERVICES SHOULD NOT BE USED FOR CONTACTING EMERGENCY SERVICES, UNLESS THE TWILO SERVICE IS EXPRESSLY APPROVED FOR THIS PURPOSE AND YOU AND TWILIO HAVE ENTERED AN EMERGENCY SERVICES ADDENDUM <APPROVED PRODUCTS AND ADDENDA&gt.
+(OR OTHER APPLICABLE AGREEMENT) IN CONNECTION WITH YOUR USE OF THE APPROVED PRODUCT, AS DESCRIBED IN SECTION 5.2(b).
+THE PROVISIONS OF THIS SECTION 14 ALLOCATE THE RISKS PURSUANT TO THESE TERMS BETWEEN THE PARTIES, AND THE PARTIES HAVE RELIED ON THE LIMITATIONS SET FORTH HEREIN IN DETERMINING WHETHER TO ENTER INTO THESE TERMS. 15.
+Term.
+Termination 
+These terms become effective on the day you click âI Acceptâ or when you or someone else starts using our services under your customer account.
+
+
+Either we or you may terminate these terms and close your Twilio account(s) for any reason 30 days after one of us tells the other in writing.
+However, if there are any order forms in effect, then these terms wonât terminate until all order forms have expired or been terminated.
+
+
+If you significantly breach these terms, and donât fix the breach within five (5) days of us telling you about the breach, then we may terminate these terms and close your Twilio account(s).
+Similarly, if we significantly breach these terms, and donât fix the breach within five (5) days of you telling us, then you may terminate these terms.
+
+15.1 Term.
+These Terms, as may be updated from time to time, will commence on the date they are accepted by you and continue until terminated in accordance with Section 15.2 (Termination) below (â
+
+Term
+
+â).
+15.2 Termination.
+Either party may terminate these Terms and close your customer account(s) for any reason upon thirty (30) days written notice to the other party.
+Notwithstanding the preceding sentence, if there is an Order Form(s) in effect, then these Terms will not terminate until such Order Form(s) have expired or been terminated.
+Twilio, at its sole discretion, may terminate these Terms and close your customer account(s) in the event you commit any material breach of these Terms and fail to remedy that breach within five (5) days after Twilio provides written notice of that breach to you.
+You may also terminate these Terms in the event we commit a material breach of these Terms and fail to remedy that breach within five (5) days after providing written notice of that breach to us. 16.
+Survival 
+Some terms live on even after these Terms of Service end.
+That includes your payment obligations and Sections mentioned.
+
+Upon termination of these Terms, your payment obligations, the terms of this Section 16, and the terms of the following Sections will survive (i.e.
+still apply): Section 4 (Customer Data), Section 10 (Fees, Payment Terms, Taxes), Section 11 (Ownership and Confidentiality), Section 13 (Mutual Indemnification), Section 14 (Limitation of Liability.
+Emergency Services), Section 17 (General), and Section 18 (Agreement to Arbitrate). 17.
+General 
+We both agree to follow the law, regulations, and statutes that apply to us.
+
+
+Just because we donât enforce some part of these terms against you now doesnât mean we canât start enforcing them against you later.
+If the various documents that are referred to in these Terms seem to be in conflict, we explain which documents will prevail over the other ones.
+
+
+By the way, we have moved the&nbsp.
+copyright-related issues to the online navigation bar.
+
+17.1 Compliance with Laws.
+You will comply with the applicable law relating to your respective activities pursuant to these Terms.
+Twilio will provide the Services in accordance with laws&nbsp.
+applicable to Twilioâs provision of the Services to its customers generally (i.e.
+without regard for Customerâs particular use of the Services), and subject to Customerâs use of the Services in accordance with this Agreement, the Documentation and&nbsp.
+applicable Order Form (if any).
+17.2 No Waiver, Order of Precedence.
+Our failure to enforce at any time any provision of these Terms, our Acceptable Use Policy, or any other of your obligations does not waive our right to do so later.
+And, if we do expressly waive any provision of these Terms, our Acceptable Use Policy, or any of your other obligations, that does not mean it is waived for all time in the future.
+Any waiver must be in writing and signed by you and us to be legally binding.
+In the event of any conflict or inconsistency among the following documents, the order of precedence shall be (except as otherwise expressly set forth in an applicable Order Form): (1)  the AUP, (2) product-specific terms, (3) the Terms of Service&nbsp.
+and (4) the Documentation.
+
+
+
+You cannot just transfer these terms or your obligations under these terms to someone else without our permission.
+We can transfer these terms or our obligations under these terms without consent.
+
+17.3 Assignment.
+You will not assign or otherwise transfer these Terms, in whole or in part, without our prior written consent.
+Any attempt by you to assign, delegate, or transfer these Terms will be&nbsp.
+void.
+Twilio may assign these Terms, in whole or in part, without consent.
+Subject to this Section 17.3, these Terms will be binding on both you and Twilio and each of our successors and assigns.
+
+These terms donât create any special relationship between us, like employer-employee, joint venture, or a partnership.
+Nothing will change that.
+We both will be responsible for our own employees.
+
+17.4 Relationship.
+You and Twilio are independent contractors in the performance of each and every part of these Terms.
+Nothing in these Terms is intended to create or shall be construed as creating an employer-employee relationship or a partnership, agency, joint venture, or franchise.
+You and Twilio will be solely responsible for all of our respective employees and agents and our respective labor costs and expenses arising in connection with our respective employees and agents.
+You and Twilio will also be solely responsible for any and all claims, liabilities or damages or debts of any type that may arise on account of each of our respective activities, or those of each of our respective employees or agents, in the performance of these Terms.
+Neither you nor Twilio has the authority to commit the other of us in any way and will not attempt to do so or imply that it has the right to do so.
+
+Except as explained in Section 18, if any part of these terms is not enforceable, the rest of the terms will still be enforceable.
+
+17.5 Severability.
+Except as described in Section 18 (Agreement to Arbitrate), if any provision of these Terms is held by a court or other tribunal of competent jurisdiction to be unenforceable, that provision will be limited or eliminated to the minimum extent necessary to make it enforceable and, in any event, the rest of these Terms will continue in full force and effect.
+
+If you need to notify us, you must use our headquartersâ address 
+for mail 
+and send a copy to legalnotices@twilio.com.
+
+and if you are notifying us by email, you still need to send a copy to legalnotices@twilio.com
+, Attn: General Counsel.
+
+17.6 Notices.
+Any notice required or permitted to be given hereunder will be given in writing to the party at the address specified in this Agreement by personal delivery, certified mail, return receipt requested, overnight delivery by a nationally recognized carrier or by email.
+Billing-related notices to Customer will be addressed to the relevant billing contact designated by Customer in its account.  Notices to Twilio shall be copied to legalnotices@twilio.com, Attn: General Counsel.
+
+If one of us canât keep our promises because something crazy happens beyond our control (think earthquake, massive power outage, war), then that doesnât count as a breach of these terms.
+
+17.7 Force Majeure.
+No failure, delay or default in performance of any obligation of a party shall constitute an event of default or breach of these Terms to the extent that such failure to perform, delay or default arises out of a cause, existing or future, that is beyond the control and without negligence of such party, including action or inaction of governmental, civil or military authority.
+fire.
+strike, lockout or other labor dispute.
+flood, terrorist act.
+war.
+riot.
+theft.
+earthquake and other natural disaster.
+The party affected by such cause shall take all reasonable actions to minimize the consequences of any such cause.
+
+If youâre affiliated with a government entity, these terms still apply to your use of our services.
+
+17.8 Government Terms.
+We provide the Services, including related software and technology, for ultimate federal government end use solely in accordance with these Terms.
+If you (or any of your End Users) are an agency, department, or other entity of any government, the use, duplication, reproduction, release, modification, disclosure, or transfer of the Services, or any related documentation of any kind, including technical data, software, and manuals, is restricted by these Terms.
+All other use is prohibited and no rights other than those provided in these Terms are conferred.
+The Services were developed fully at private expense.
+
+Other than arbitration (see the next section), if we canât agree on something and we end up having a legal dispute, then California laws will apply.
+We definitely donât want to, but, if we have to go to court, then it will be in San Francisco, California.
+Court isnât a great option, but at least weâll be in one of the best cities in the world!
+
+17.9 Governing Law and Venue.
+The enforceability and interpretation of Section 18 (Agreement to Arbitrate) will be determined by the Federal Arbitration Act (including its procedural provisions).
+Apart from Section 18, these Terms will be governed by and interpreted according to the laws of the State of California without regard to conflicts of laws and principles that would cause laws of another jurisdiction to apply.
+These Terms will not be governed by the United Nations Convention on Contracts for the International Sale of Goods.
+Except as provided in Section 18 (Agreement to Arbitration), any legal suit, action or proceeding arising out of or related to these Terms or the Services shall be instituted in either the state or federal courts of San Francisco, California, and we each consent to the personal jurisdiction of these courts.
+
+This is the only set of terms that governs our relationship.
+Any purchase order or other terms that you provide will not be binding or valid.
+
+17.10 Entire Agreement.
+Except as provided in these Terms and any exhibits or addenda or other terms incorporated by reference into these Terms, these Terms supersede all prior and contemporaneous proposals, statements, sales materials or presentations and agreements, oral and written.
+No oral or written information or advice given by Twilio, its agents or employees will create a warranty or in any way increase the scope of the warranties or obligations under these Terms.
+Any purchase order document or similar document provided by you shall be construed solely as evidence of your internal business processes, and the terms and conditions contained thereon shall be void and have no effect with regard to these Terms between you and Twilio and be non-binding against Twilio even if signed by Twilio after the date you accept these Terms. 18.
+Agreement to Arbitrate 
+Please, please, please reach out to our Customer Support Team (theyâre amazing!) before bringing a legal case.
+
+
+
+
+
+
+If our Customer Support Team canât help you with a dispute, then we both agree to go to binding arbitration, again, in San Francisco, California.
+Arbitration means a professional arbitrator will decide how to resolve our dispute instead of a judge or a jury deciding the case.
+
+
+
+
+
+
+Despite what we said above, there are some disputes that wonât go to arbitration, but to court, like IP disputes and disputes about your violation of our Acceptable Use Policy.
+We also donât have to arbitrate small claims court cases.
+
+
+If we arbitrate, then weâll do it through the American Arbitration Association (AAA).
+Before we even arbitrate, though, weâll try mediation with an AAA mediator.
+If mediation doesnât work, then weâll go to arbitration through AAA with only one arbitrator (one is so much easier).
+And remember, the arbitratorâs decision will be final and binding.
+
+
+Agreement to Arbitrate
+
+Before bringing a formal legal case, please first try contacting our Customer Support.
+Most disputes can be resolved that way.
+18.1 We Both Agree to Arbitrate.
+If a dispute cannot be resolved through our Customer Support Team, you or any of your affiliates on one hand and Twilio and any of Twilioâs affiliates on the other hand, all agree to resolve any dispute relating to these Terms or in relation to the Services by binding arbitration in San Francisco, California.
+This applies to all claims under any legal theory, unless the claim fits in one of the exceptions below in Section 18.2 (Exceptions to Agreement to Arbitrate).
+It also applies even after you have stopped using your customer account(s) or closed it.
+If we have a dispute about whether this agreement to arbitrate can be enforced or applies to our dispute, we all agree that the arbitrator will decide that, too.
+Pursuant to this Section 18 (Agreement to Arbitrate), you understand that you and your affiliates and Twilio and its affiliates are giving up the right to have a judge and/or jury resolve any controversy or claim arising out of or relating to these Terms or the Services.
+18.2 Exceptions to Agreement to Arbitrate.
+You and your affiliates on one hand, and Twilio and its affiliates on the other hand, agree that we will go to court to resolve disputes relating to:
+
+
+Your, your affiliatesâ, Twilioâs or Twilioâs affiliatesâ intellectual property (e.g., trademarks, trade dress, domain names, trade secrets, copyrights or patents).
+or
+
+
+Your violation of our Acceptable Use Policy .
+
+
+Also, any of us can bring a claim in small claims court either in San Francisco, California, or the county where you live, or some other place we both agree on, if it qualifies to be brought in that court.
+In addition, if any of us brings a claim in court that should be arbitrated or any of us refuses to arbitrate a claim that should be arbitrated, the other of us can ask a court to force us to go to arbitration to resolve the claim (i.e., compel arbitration).
+Any of us may also ask a court to halt a court proceeding while an arbitration proceeding is ongoing.
+18.3 Details of Arbitration Procedure.
+Prior to filing any arbitration, both parties jointly agree to seek to resolve any dispute between us by mediation conducted by the American Arbitration Association (AAA), with all mediator fees and expenses paid equally by the parties.
+If mediation is not successful, either party may initiate an arbitration proceeding with AAA.
+You can look at AAAâs rules and procedures on their website http://www.adr.org or you can call them at 1-800-778-7879.
+The arbitration will be governed by the then-current version of AAAâs Commercial Arbitration Rules (the "Rules") and will be held with a single arbitrator appointed in accordance with the Rules.
+To the extent anything described in this Section 18 conflicts with the Rules, the language of this Section 18 applies.
+Each of us will be entitled to get a copy of non-privileged relevant documents in the possession or control of the other party and to take a reasonable number of depositions.
+All such discovery will be in accordance with procedures approved by the arbitrator.
+This Section 18 does not alter in any way the statute of limitations that would apply to any claims or counterclaims asserted by either party.
+The arbitratorâs award will be based on the evidence admitted and the substantive law of the State of California and the United States, as applicable, and will contain an award for each issue and counterclaim.
+The award will provide in writing the factual findings and legal reasoning for such award.
+The arbitrator will not be entitled to modify these Terms.
+Except as provided in the Federal Arbitration Act, the arbitration award will be final and binding on the parties.
+Judgment may be entered in any court of competent jurisdiction.
+
+We both agree not to bring a class action suit against the other.
+If for some reason a court decides that this term isnât enforceable, then this entire Section 18 will go away.
+
+18.4 Class Action Waiver.
+Both you and your affiliates, on one hand, and Twilio and its affiliates on the other hand, agree that any claims or controversies between us must be brought against each other on an individual basis only.
+That means neither you and your affiliates on one hand nor Twilio and its affiliates on the other hand can bring a claim as a plaintiff or class member in a class action, consolidated action, or representative action.
+The arbitrator cannot combine more than one personâs or entityâs claims into a single case, and cannot preside over any consolidated, class or representative proceeding (unless we agree otherwise).
+And, the arbitratorâs decision or award in one personâs or entityâs case can only impact the person or entity that brought the claim, not other Twilio customers, and cannot be used to decide other disputes with other customers.
+If a court decides that this Section 18.4 (Class Action Waiver) is not enforceable or valid, then the entire Section 18 (Agreement to Arbitrate) will be null and void (i.e., go away).
+But, the rest of the Terms will still apply. 19.
+Fun 
+Let your imagination run wild with Twilio!
+
+You understand and acknowledge that developing applications should be fun and easy, and by using the Services, you agree to let your imagination run wild. 20.
+Additional Terms 
+These terms apply to customers from the EEA, UK or Switzerland.&nbsp.
+Note the Addendum below for Spain.
+
+For customers using Twilio to process personal data from the European Economic Area (EEA), Switzerland, or the United Kingdom:
+EU Data Protection Addendum.
+If Twilio will be processing personal data from the EEA, Switzerland, or the United Kingdom on your behalf, the Data Protection Addendum incorporated by reference into these Terms of Service will apply.
+For more information about Twilioâs compliance with the GDPR, please click here.
+A.
+For Customers who reside in European Economic Area (EEA), Switzerland, or the United Kingdom: the following additional terms shall apply:
+(1) In relation to the limitation of liability: Nothing in this Agreement shall exclude or limit the liability of either party for (i) gross negligence or intentional misconduct of such party, (ii) death or personal injury caused by that party's negligence or (iii) fraud or fraudulent misrepresentation or (iv) any other liability to the extent that the same may not be excluded or limited as a matter of applicable law.
+(2) In relation to updating these Terms: Twilio may amend or modify these Terms from time to time, in which case the amended or modified version of these Terms will supersede all prior versions.
+Twilio will notify you via email to the email address owner of your account (or to your account portal if you have not been using Services for the prior 6 months) not less than thirty (30) days prior to the effective date of any such amendment or modification and will inform you about the intended amendments or modifications.
+If you do not object to the amendment or modification within thirty (30) days from the aforementioned notice, such non-objection may be relied upon by Twilio as your consent to any such amendment or modification.
+Twilio will inform you about your right to object and the consequences of non-objection with the aforementioned notice.
+Please note, Twilio may not be able to provide at least thirty (30) days prior written notice of updates to these Terms of Service that result from changes in the law or requirements from telecommunications providers.
+
+These terms apply to customers who reside in Germany
+
+B.
+For Customers who reside in Germany the following additional terms shall apply:
+In relation to Warranties:
+(aa) Twilio warrants that the Services will operate in accordance with the Documentation and will materially comply with any specifications contained therein.
+Both parties agree that to the extent the Customer is entitled to any statutory warranty rights, the applicable statutory warranty period is hereby reduced to twelve (12) months
+(bb) Any and all further warranties are excluded. 21.
+Country Specific Addendum - Spain These terms apply to customers in Spain.
+These terms apply to customers in Spain.
+Interpersonal Communications
+Customers that are provided geographic number based interpersonal communications services in Spain acknowledge and agree that in Spain these services are provided to you by MASVOZ TELECOMUNICACIONES INTERACTIVAS, S.L.U.
+with C.I.F NÂº B-62959077, and Registered office at Travessera de GrÃ cia 17-21, 1st floor, (Barcelona), PC: 08021.
+Personal data, including subscriber information, shared with MasVoz in connection with their provision of these services will be processed as set forth in their privacy notice.

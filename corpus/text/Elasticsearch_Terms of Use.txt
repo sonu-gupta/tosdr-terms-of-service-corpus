@@ -1,0 +1,183 @@
+
+Not for editing
+
+ THESE TERMS OF USE ("TERMS") SET FORTH THE TERMS AND CONDITIONS UNDER WHICH ELASTICSEARCH BV ("ELASTICSEARCH", "WE" OR "US") ALLOWS THE USE BY PERSONS AND ENTITIES ("YOU") OF THE WEBSITE LOCATED AT WWW.ELASTIC.CO (TOGETHER WITH ALL ASSOCIATED WEBSITES LINKED TO SUCH WEBSITE BY ELASTICSEARCH, ITS SUBSIDIARIES AND AFFILIATED COMPANIES, THE "SITE").
+
+ SHOULD YOU ELECT TO USE THE SITE, THE TERMS, TOGETHER WITH THE ELASTICSEARCH PRIVACY STATEMENT LOCATED AT WWW.ELASTIC.CO/LEGAL/PRIVACY-STATEMENT ("PRIVACY STATEMENT"), FORM A LEGAL CONTRACT BETWEEN YOU AND ELASTICSEARCH (the "agreement").
+BY USING the SITE, YOU ARE IRREVOCABLY AGREEING TO ALL OF THE TERMS AND CONDITIONS OF THE AGREEMENT.
+IF YOU DO NOT AGREE WITH ANY OF THE TERMS AND CONDITIONS IN THE AGREEMENT, YOU MAY NOT USE THE SITE.
+
+ Elasticsearch reserves the right to change, update, add or remove provisions of these Terms, at any time by posting the updated Terms on the Site, along with a notice of the effective date of the updated Terms.
+By using this Site after Elasticsearch has updated the Terms, you are agreeing to all of the updated Terms.
+If you do not agree with any of the updated Terms, your only recourse will be to stop using the Site.
+
+
+Effective Date: March 10, 2015
+Eligibility By using the Site, you represent that you are 18 years of age or older, or if you are between the ages of 13 and 18, that you are using the Site with the permission of your parent or legal guardian, or that you are an emancipated minor between the ages of 13 and 18.
+If you are a parent or legal guardian who is registering for a child, you hereby agree to bind your child to the Agreement and to fully indemnify and hold harmless Elasticsearch if your child breaches or disaffirms any term or condition of the Agreement.
+If you are using this Site on behalf of an entity, you represent that you are authorized to legally bind such entity to the Agreement.
+If Elasticsearch believes that you do not meet any of these requirements Elasticsearch may immediately terminate your use of the Site.
+If you are under the age of 13 years old, you may not use the Site.
+Content
+Elasticsearch Content.
+Except as may be otherwise noted, the information, materials (including, without limitation, HTML, text, audio, video, white papers, press releases, data sheets, product descriptions, software and FAQs and other content) available on or from the Site (collectively, "Elasticsearch Content") are the copyrighted works of Elasticsearch and its licensors, and Elasticsearch and its licensors expressly retain all right, title and interest in and to the Elasticsearch Content, including and without limitation, all intellectual property rights therein and thereto.
+Except as expressly permitted in these Terms, any use of the Elasticsearch Content may violate copyright and/or other applicable laws.
+
+
+Third Party Content.
+In addition to Elasticsearch Content, the Site may contain information and materials provided to Elasticsearch by third parties (collectively, "Third Party Content").
+Third Party Content is the copyrighted work of its owner, which expressly retains all right title and interest in and to the Third Party Content, including, without limitation, all intellectual property rights therein and thereto.
+In addition to being subject to these Terms, Third Party Content may also be subject to different and/or additional terms of use and/or privacy policies of such third parties.
+Please contact the appropriate third party for further information regarding any such different and/or additional terms of use applicable to Third Party Content.
+
+
+Limited Site Content License.
+Elasticsearch grants you the limited, revocable, non-transferable, non-exclusive right to use the Site and the associated Elasticsearch Content and Third Party Content (collectively, "Site Content") by displaying the Site Content on your computer, and downloading and printing pages from the Site under the condition that (i) such activity is solely for your personal, education or other non-commercial use, or for your internal business purposes, (ii) you do not modify or prepare derivative works from the Site Content, (iii) you do not obscure, alter or remove any notice of copyright set forth on any pages of the Site or Site Content, (iv) you do not otherwise reproduce, re-distribute or publicly display any of the Site Content and (v) you do not copy any Site Content to any other media or other storage format.
+
+
+User Content.
+If you elect to display or post on, submit to, or otherwise make available to others on, the Site any content or works of authorship, including, without limitation, images, software, audio files, text, or any other materials (collectively, "User Content"), you hereby grant to Elasticsearch (to the extent permitted by applicable law) a perpetual, irrevocable, royalty-free, worldwide, non-exclusive right and license, including the right to grant sublicenses to third parties, to use, reproduce, publicly display, publicly perform, prepare derivative works from and distribute such User Content, for any purpose and in any form, medium or distribution method now known or hereafter existing, known or developed.
+Elasticsearch agrees to use any personally identifiable information contained in any of your Submissions in accordance with Elasticsearch's Privacy Statement.
+In addition, you hereby irrevocably represent and warrant to Elasticsearch that (i) you have all necessary power, authority, right, title and/or licenses to grant to Elasticsearch the foregoing right and license and (ii) the posting, submission, display by you of User Content on the Site, and the exercise by Elasticsearch of the foregoing license does not and will not (1) violate any law or (2) infringe any intellectual property right of any third party.
+We may modify or adapt your User Content in order to transmit, display or distribute the same over computer networks and in various media and/or make changes to the User Content as necessary to conform and adapt the same to any requirements or limitations of any networks, devices, services or media.
+
+
+Software.
+To the extent that the Site contains Elasticsearch Content or Third Party Content that is software available for download ("Software"), such Software is subject to, and your use of such Software is governed by, an applicable license agreement (each a "License Agreement") accompanying, provided with, linked to or embedded in, such Software.
+You may not use any Software unless you first read and agree to all of the terms and conditions of the applicable License Agreement.
+ANY SOFTWARE AVAILABLE ON THE SITE IS WARRANTED, IF AT ALL, IN ACCORDANCE WITH THE TERMS AND CONDITIONS OF THE APPLICABLE LICENSE AGREEMENT.
+EXCEPT AS MAY BE EXPRESSLY SET FORTH IN THE APPLICABLE LICENSE AGREEMENT, OR TO THE EXTENT NOT PERMITTED UNDER APPLICABLE LAW, ELASTICSEARCH EXPRESSLY DISCLAIMS ANY AND ALL IMPLIED OR STATUTORY WARRANTIES WITH RESPECT TO SUCH SOFTWARE, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+
+Trademarks.
+All trademarks, service marks and logos included on the Site ("Marks") are the property of Elasticsearch or third parties, and you may not use such Marks without the express, prior written consent of Elasticsearch or the applicable third party.
+
+
+Monitoring.
+Elasticsearch may, but is not obligated to, monitor Site Content, User Content and your use of the Site.
+Elasticsearch reserves the right to accept, reject or modify any Site Content or User Content, but assumes no liability based on its acceptance, rejection, modification or failure to modify any Site Content or User Content.
+
+
+Infringement and DMCA.
+Elasticsearch respects the intellectual property rights of others, and we ask you to do the same.
+Elasticsearch may, in appropriate circumstances and at our discretion, terminate access to this Site for users who infringe the intellectual property rights of others.
+If you believe that your work is the subject of copyright infringement and/or trademark infringement and appears on our Site, please provide Elasticsearch's designated agent the following information:
+
+
+A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+Identification of the copyrighted and/or trademarked work claimed to have been infringed, or, if multiple works are covered by a single notification, a representative list of such works.
+Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled at the Site, and information reasonably sufficient to permit Elasticsearch to locate the material.
+Information reasonably sufficient to permit Elasticsearch to contact you as the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which you may be contacted.
+A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright and/or trademark owner, its agent, or the law.
+A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+ Elasticsearch's agent for notice of claims of copyright or trademark infringement on this Site can be reached at: legal@elastic.co.
+
+ Please also note that for copyright infringements under Section 512(f) of the Copyright Act, any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
+
+ We will notify you that we have removed or disabled access to copyright-protected material that you provided, if such removal is pursuant to a valid DMCA take-down notice that we have received.
+If you receive such a notice from us, you may provide us with a counter-notification in writing to the Elasticsearch designated agent that includes all of the following information:
+
+
+Your physical or electronic signature;
+Identification of the material that has been removed or to which access has been disabled, and the location at which the material appeared before it was removed or access to it was disabled;
+A statement from you under the penalty of perjury, that you have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled.
+and
+Your name, physical address and telephone number, and a statement that you consent to the jurisdiction of a court for the judicial district in which your physical address is located, or if your physical address is outside of the United States, for any judicial district in which Elasticsearch may be located, and that you will accept service of process from the person who provided notification of allegedly infringing material or an agent of such person.
+
+ Elasticsearch reserves the right, in its sole discretion, to terminate the account or access of any user of the Site who is the subject of repeated DMCA or other infringement notifications.
+General Use of the Website
+Restrictions on User Content.
+In connection with your use of the Site, you agree not to submit any User Content which (i) is unlawful, (ii) violates any right of publicity or invades the privacy of others, (iii) constitutes obscene, pornographic, indecent, profane or otherwise objectionable material, (iv) is discriminatory, hateful or bigoted toward, or abusive of, any group or individual, (v) is libelous or defamatory or (vi) violates any applicable law or government regulation.
+
+
+Prohibited Conduct.
+You may not use the Site to post, transmit or link to: (i) any advertisement, promotional materials or solicitation related to any product or service that is competitive with Elasticsearch products or services.
+(ii) software or programs which contain any harmful code, including, but not limited to, viruses, worms, time bombs or Trojan horses.
+(iii) content that defames, abuses, harasses, stalks, threatens, or otherwise violates the legal rights (such as rights of privacy and publicity) of others.
+(iv) content that includes racially, ethnically, or otherwise offensive language.
+(v) content that discusses or incites illegal activity.
+or (vi) content that includes explicit/obscene language or solicit/post sexually explicit images (actual or simulated).
+In addition, you may not: (a) deploy to the Site any robot, spider, scraper, website search/retrieval application, or other application designed to retrieve, index, "data mine," information from the Site.
+(b) use the Site to disseminate any unsolicited or unauthorized advertising, promotional materials, 'junk mail', 'spam', 'chain letters', 'pyramid schemes', or any other form of such solicitation.
+(c) take any action that imposes an unreasonable or disproportionately large load on our infrastructure.
+(d) alter the opinions or comments posted by others on this Site.
+or (e) post anything on the Site that is contrary to our public image, goodwill or reputation.
+
+ This list of prohibitions provides examples and is not complete or exclusive.
+Elasticsearch reserves the right to (i) terminate access to your account and your ability to post to this Site (or use the Services) and (ii) refuse, delete or remove any content.
+with or without cause and with or without notice, for any reason or no reason, or for any action that Elasticsearch determines to be inappropriate or disruptive to this Site or to any other user of this Site.
+Elasticsearch may report to law enforcement authorities any actions that may be illegal, and any reports it receives of such conduct.
+When legally required or at Elasticsearch's discretion, Elasticsearch will cooperate with law enforcement agencies in any investigation of alleged illegal activity on the Site.
+
+
+Indemnification.
+You agree to indemnify and hold Elasticsearch and its officers, directors, employees, affiliates, agents, licensors, and business partners harmless from and against any and all costs, damages, liabilities, and expenses (including attorneys' fees and costs of defense) Elasticsearch or any other indemnified party suffers in relation to or arising from any violation by you of these Terms, and/or any claim or demand from a third-party that your use of this Site or the use of this Site by any person using your user name and/or password (including without limitation, your participation in the posting areas or, your Submissions), violates any applicable law or regulation, or the patents, copyrights, trademark rights or other rights of any third-party.
+
+
+Export Control.
+You hereby represent and warrant that you understand and acknowledge that some Site Content may be subject to export, re-export and import restrictions under applicable law and that you are not located in, under the control of, or a national or resident of, any country to which the United States has embargoed goods.
+Registered Use of the Site
+Registered Users.
+A person who is eligible and desires to create an account may, upon consenting to the Agreement, submit an application to register in accordance with the procedures set forth by Elasticsearch.
+Elasticsearch reserves the right, in its sole discretion, to deny, restrict, suspend, discontinue, or terminate your account, with or without prior notice or explanation, for any or no reason, without any liability to you.
+
+
+Use Restrictions.
+If you become a registered user of the Site in order to gain access to support or other limited access parts of the Site, you agree (i) that the information you provide to Elasticsearch in connection with your registration will be current, complete and accurate, (ii) not to choose a user name that violates any law or the intellectual property rights of others, or is offensive.
+provided that Elasticsearch reserves the right to reject the use of any user name for any reason or no reason, (iii) not to transfer, sell, convey or assign the right to use the Site to any third party without the prior written consent of Elasticsearch and (iv) not to permit any third party to use your user name and password to access the Site.
+
+
+Accounts and Passwords.
+You are entirely responsible for maintaining the confidentiality of your account information, including your password, and for any and all activity that occurs under your account.
+You agree to notify Elasticsearch immediately of any unauthorized use of your account or password, or any other breach of security.
+However, you may be held liable for losses incurred by Elasticsearch or any other user of or visitor to the Site due to someone else using your ID, password or account.
+You may not use anyone else's ID, password or account at any time without the express permission and consent of the holder of that ID, password or account.
+Elasticsearch will not be liable for any loss or damage arising from your failure to comply with these obligations.
+
+
+Electronic Communications.
+By registering with the Site, you consent to receiving electronic communications from Elasticsearch.
+These electronic communications are part of your relationship with Elasticsearch.
+You agree that any notices, agreements, disclosures or other communications that we send you electronically will satisfy any legal communication requirements, including that such communications be in writing.
+Privacy Statement Please review our Privacy Statement, which is available at www.elastic.co/legal/privacy-statement, explains how we use information that you submit to Elasticsearch, and which is incorporated into the Agreement by this reference.
+Links to Third-Party Sites This Site may be linked to other websites that are not Elasticsearch websites (collectively, "Third Party Sites").
+Any and all of the Third Party Sites may change from time to time.
+You acknowledge and agree that the Third Party Sites may have different privacy policies and terms and conditions and/or user guides and business practices than Elasticsearch, and you further acknowledge and agree that your use of such Third Party Sites is governed by the respective Third Party Site privacy policy and terms and conditions and/or user guides.
+You hereby agree to comply with any and all terms and conditions, user guides and privacy policies of any of Third Party Sites.
+Elasticsearch is providing links to the Third Party Sites to you as a convenience, and Elasticsearch does not verify, make any representations or take responsibility for such Third Party Sites, including, without limitation, the truthfulness, accuracy, quality or completeness of the content, services, links displayed and/or any other activities conducted on or through such Third Party Sites.
+YOU AGREE THAT ELASTICSEARCH WILL NOT, UNDER ANY CIRCUMSTANCES, BE RESPONSIBLE OR LIABLE, DIRECTLY OR INDIRECTLY, FOR ANY GOODS, SERVICES, INFORMATION, RESOURCES AND/OR CONTENT AVAILABLE ON OR THROUGH ANY THIRD PARTY WEB SITES AND/OR THIRD PARTY DEALINGS OR COMMUNICATIONS, OR FOR ANY HARM RELATED THERETO, OR FOR ANY DAMAGES OR LOSS CAUSED OR ALLEGED TO BE CAUSED BY OR IN CONNECTION WITH YOUR USE OR RELIANCE ON THE CONTENT OR BUSINESS PRACTICES OF ANY THIRD PARTY.
+EXCEPT AS MAY BE OTHERWISE EXPRESSLY STATED IN WRITING, Elasticsearch does not endorse such third party sites or any products or services associated therewith, and you agree that ELASTICSEARCH HAS NO LIABILITY FOR ANY damages you may incur in connection with the use of any third party site.
+Disclaimer of Warranties and Limitation of Liability
+Warranty Disclaimer.
+THE SITE AND THE SITE CONTENT ARE PROVIDED STRICTLY ON AN "AS IS" AND "AS AVAILABLE" BASIS, AND ELASTICSEARCH MAKES NO REPRESENTATION OR WARRANTY THAT THE SITE OR THE SITE CONTENT ARE COMPLETE, SUITABLE FOR YOUR PURPOSE, OR ACCURATE.
+ON BEHALF OF ITSELF AND ITS LICENSORS, ELASTICSEARCH HEREBY EXPRESSLY DISCLAIMS ANY AND ALL IMPLIED, STATUTORY OR OTHER WARRANTIES WITH RESPECT TO THE SITE AND THE SITE CONTENT, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFIRNGEMENT.
+THE ENTIRE RISK AS TO RESULTS OBTAINED THROUGH USE OF THE SITE AND/OR THE SITE CONTENT RESTS WITH YOU.
+ELASTICSEARCH MAKES NO REPRESENTATION OR WARRANTY THAT THE AVAILABILITY OF THE SITE WILL BE UNINTERRUPTED, OR THAT THE SITE AND/OR THE SITE CONTENT WILL BE ERROR FREE OR SECURE.
+
+
+Limitation of Liability.
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE THAT ELASTICSEARCH SHALL NOT BE LIABILE TO YOU FOR ANY DAMAGES ARISING OUT OF OR CONNECTED TO YOUR USE OF, OR INABILITY TO USE, THE SITE, INCLUDING, WITHOUT LIMITATION, ANY AND ALL DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, SPECIAL, EXEMPLARY OR STATUTORY DAMAGES, INCLUDING ANY LOSS OF BUSINESS, LOSS OR PROFITS, LOSS OF REVENUE, LOSS OF DATA, LOSS OF GOODWILL, OR ANY COST OF COVER OR COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, EVEN IF ELASTICSEARCH HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND REGARDLESS OF THE LEGAL THEORY UNDER WHICH DAMAGES ARE SOUGHT, WHETHER IN BREACH OF CONTRACT OR IN TORT, INCLUDING NEGLIGENCE.
+The foregoing limitations of liability do not limit the liability of Elasticsearch arising from gross negligence or willful intent, to the extent such damages may not be excluded or limited under applicable law.
+Proprietary Rights All rights not expressly granted herein are reserved.
+Except as otherwise required or limited by applicable law, any reproduction, distribution, modification, retransmission, or publication of any copyrighted material is strictly prohibited without the express, written, consent of the copyright owner or an applicable license.
+Site Location and Local Laws Elasticsearch controls and operates this Site from its offices in Amsterdam, The Netherlands and Mountain View, California, USA, and the Site Content may not be appropriate or available for use in other locations.
+In addition, the Site may be mirrored, and other websites operated or controlled by Elasticsearch may be located, in various countries.
+Elasticsearch makes no representation or warranty that all of the features of this Site will be available to you from specific countries, or that the Site Content is permitted to be accessed from any country.
+You acknowledge that you are solely responsible for any decision by you to use the Site from your location, and that such use may be subject to, and that you are responsible for, compliance with applicable local laws.
+Feedback If you send or transmit any communications, comments, questions, suggestions, or related materials to Elasticsearch, whether by letter, email, telephone, or otherwise (collectively, "Feedback"), suggesting or recommending changes to the Site, Site Content or any services offered through the Site, including, without limitation, new features or functionality relating thereto, all such Feedback is, and will be treated as, non-confidential and non-proprietary.
+You hereby grant to Elasticsearch a royalty-free, worldwide, transferable, irrevocable, perpetual license, including the right to grant and authorize sublicenses, to use or incorporate into the Site and/or any products or services any and all Feedback.
+For the avoidance of doubt, Elasticsearch shall be free to use, without any attribution or compensation to you, any ideas, know-how, concepts, techniques, or other intellectual property and proprietary rights contained in the Feedback, whether or not patentable, for any purpose whatsoever, including but not limited to, developing, manufacturing, having manufactured, importing, having imported, licensing, marketing, distributing, reproducing, and selling, directly or indirectly, products and services using such Feedback, and otherwise exploiting in any manner such Feedback.
+You understand and agree that Elasticsearch is not obligated to use, display, reproduce, or distribute any such ideas, know-how, concepts, or techniques contained in the Feedback, and you have no right to compel such use, display, reproduction, or distribution.
+Governing Law and Jurisdiction This Agreement will be governed by the laws of the State of California, without regard to its conflict of laws principles.
+This Agreement shall not be governed by the 1980 UN Convention on Contracts for the International Sale of Goods or any laws based on the Uniform Computer Information Transactions Act (UCITA).
+All suits hereunder will be brought solely in Federal Court for the Northern District of California, or if that court lacks subject matter jurisdiction, in any California State Court located in Santa Clara County.
+The parties hereby irrevocably waive any and all claims and defenses either might otherwise have in any such action or proceeding in any of such courts based upon any alleged lack of personal jurisdiction, improper venue, forum non conveniens or any similar claim or defense.
+General Elasticsearch prefers to advise you if we feel you are not complying with these Terms and to recommend any necessary corrective action.
+However, certain violations of these Terms, as determined by Elasticsearch, may result in immediate termination of your access to this Site without prior notice to you.
+If any of these Terms is found to be inconsistent with applicable law, then such term shall be interpreted to reflect the intentions of the parties, and no other terms will be modified.
+Elasticsearch's failure to enforce any of these Terms is not a waiver of such terms.
+The Agreement sets forth the entire agreement between you and Elasticsearch and supersede all prior or contemporaneous negotiations, discussions or agreements between you and Elasticsearch about this Site.
+The proprietary rights, disclaimer of warranties, representations made by you, indemnities, limitations of liability and general provisions shall survive any termination of these Terms.
+Contact Us If you have any questions about these Terms or otherwise need to contact Elasticsearch for any reason, you can reach us at legal@elastic.co.
+

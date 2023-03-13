@@ -1,0 +1,347 @@
+
+         In this section Fedora Project
+
+
+
+ Mission and Foundations 
+ Leadership 
+ Current Objectives 
+ High-Level Organization 
+ Brand 
+ Code of Conduct
+
+ Clarifying Notes and Statements 
+
+
+ Get Help 
+ Get Involved 
+
+
+ Fedora Project 
+ ARM Singe Board Computers 
+ Ask Fedora SOPs 
+ CommOps 
+ Community Architecture (CommArch) 
+ Community Platform Engineering 
+ Defensive Coding Guide 
+ Diversity, Equity, and Inclusion 
+ Emerging Fedora Desktops 
+ Engineering Teams 
+ EPEL 
+ Fedora Accounts 
+ Fedora Badges 
+ Fedora CI 
+ Fedora Container Docs 
+ Fedora CoreOS 
+ Fedora Council 
+ Fedora Docs Team 
+ Fedora Documentation 
+ Fedora ELN 
+ Fedora Gaming 
+ Fedora i3 S.I.G.
+
+ Fedora Infrastructure 
+ Fedora Internet Of Things 
+ Fedora IoT Working Group 
+ Fedora Join SIG 
+ Fedora Kinoite 
+ Fedora Legal 
+ Fedora Linux Releases 
+ Fedora Localization Team 
+ Fedora Magazine 
+ Fedora Marketing 
+ Fedora Program Management 
+ Fedora Project 
+ Fedora QA Docs 
+ Fedora Rawhide Gating 
+ Fedora Server Documentation 
+ Fedora Server Working Group 
+ Fedora Silverblue 
+ Fedora Spins &amp.
+Labs 
+ Fedora TeleIRC SIG 
+ Fedora Tools 
+ Fedora User Docs 
+ rawhide 
+ f37 
+ f36 
+ f35 
+ f34 
+ f33 
+ f32 
+ f31 
+ f30 
+ f29 
+ f28 
+ f27 
+ f26 
+
+
+ Fedora Websites &amp.
+Apps 
+ Fedora Workstation Documentation 
+ Fedora Workstation Working Group 
+ FESCo 
+ Flatpak 
+ Java-Packaging HOWTO 
+ Localization help and stats 
+ Mentored Projects 
+ Mindshare Committee 
+ Mindshare Teams 
+ Minimization 
+ Modularity 
+ NeuroFedora User Documentation 
+ Package Maintainers 
+ Packaging Guidelines 
+ Quick Docs 
+ Remix Docs 
+
+
+Fedora Project
+Code of Conduct
+ en-US en-US
+ar
+ast
+az
+be
+bg
+bn
+ca
+cs
+de
+el
+es
+es_419
+fa
+fi
+fil
+fr
+fur
+he
+hi
+hr
+hu
+id
+it
+ja
+jp
+ko
+mr
+ms
+my
+nb_NO
+ne
+nl
+or
+pl
+pt
+pt_BR
+pt_PT
+ro
+ru
+si
+sk
+sq
+sv
+sw
+te
+tr
+tzm
+uk
+ur
+ur_PK
+uz
+zh_CN
+zh_Hans
+zh_TW 
+
+
+
+
+ Contents
+Fedora Community Code of Conduct
+Our Pledge
+Our Standards
+Our Responsibilities
+Scope
+Reporting and Enforcement
+Attribution &amp.
+License
+ Code of Conduct
+Contents
+Fedora Community Code of Conduct
+Our Pledge
+Our Standards
+Our Responsibilities
+Scope
+Reporting and Enforcement
+Attribution &amp.
+License
+ Fedora Community Code of Conduct The Fedora Code of Conduct is a set of guidelines that explains how our community behaves and what we value to members and outsiders.
+The Code of Conduct is a living document and will be updated when and if it is deemed necessary.
+The Code of Conduct is not âcodeâ in the sense of being an algorithm or a computer program.
+The Code of Conduct is not âblindly and algorithmicallyâ executed but is instead enforced by humans making real decisions based on all of the available information and using all available context.
+The Code of Conduct does not seek to restrict speech or penalize non-native speakers of English.
+Instead the Code of Conduct spells out the kinds of behaviors we, as a community, find to be acceptable or unacceptable.
+The Code of Conduct is, in many ways, the outward embodiment of the Friends component of Fedoraâs Foundations. Our Pledge In the interest of fostering an open and welcoming environment, we as the Fedora community pledge to collaborate in a respectful and constructive manner, and welcome everyone willing to join us in that pledge.
+We welcome individuals regardless of ability, age, background, body size, education, ethnicity, family status, gender identity and expression, geographic location, level of experience, marital status, nationality, national origin, native language, personal appearance, race and/or ethnicity, religion, sexual identity and orientation, socioeconomic status, or any other dimension of diversity.
+Our channels, mailing lists, and posts should focus on Fedora and on free and open source software and content.
+We pledge to make participation in our project and our community a harassment-free experience for everyone.
+We pledge to avoid personal attacks on others, and to avoid inflammatory language and speech that perpetuates discrimination.
+Furthermore, we pledge to not use the Fedora Project and its platforms as a basis to engage in personal campaigns against other organizations or individuals. Our Standards Examples of behavior that contributes to creating a positive environment include:
+
+
+Using welcoming and inclusive language
+
+
+Being kind to others
+
+
+Behaving with civility
+
+
+Being respectful of differing viewpoints and experiences
+
+
+Gracefully accepting constructive criticism
+
+
+Focusing on what is best for the community
+
+
+Showing empathy towards other community members
+
+
+Examples of unacceptable behavior include:
+
+
+The use of sexualized language or imagery and unwelcome sexual attention or advances
+
+
+Initiating controversy for controversyâs sake (repeatedly asking disingenuous questions under a guise of sincerity)
+
+
+Saying insulting/derogatory comments and making personal attacks.
+
+
+Repeatedly instigating conflict, and baiting people into arguments
+
+
+Public or private harassment
+
+
+Publishing someone elseâs private information, such as a physical or electronic address, without explicit permission
+
+
+Deliberate intimidation, stalking, or following
+
+
+Violent threats or language directed against another person
+
+
+Sexist, racist, homophobic, transphobic, ableist, or exclusionary statements, even if they were meant as jokes
+
+
+Excessive swearing
+
+
+Unwelcome physical contact
+
+
+Sustained disruption of talks or other events
+
+
+Other conduct which could reasonably be considered inappropriate in a professional setting even if the conduct may be legal under the laws of some jurisdiction.
+
+ Our Responsibilities The Fedora Council is committed to enforcing this Code of Conduct in a fair and impartial manner so that Fedora community members are able to participate in the Fedora Project and its associated activities in a safe and respectful environment.
+To achieve this, the Council has delegated responsibility to a Code of Conduct Committee for clarifying and interpreting the standards of acceptable behavior, responding to and investigating reports of behavior that is not aligned to this Code of Conduct and determining appropriate and fair corrective action in response.
+The Committee will perform these functions along with the Red Hat Legal team, as appropriate.
+Within their respective areas of participation Fedora Community members have the right in their sole discretion and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct.
+Those Fedora Community members are expected to exercise these rights in alignment with the Code of Conduct. Scope This Code of Conduct applies in all online and offline project spaces and in all online and offline spaces where an individual is representing the project, its community, or is acting as a community member.
+Examples of acting as a community member include:
+
+
+Posting to a Fedora mailing list,
+
+
+Filing a bug with Fedora,
+
+
+Participating in an official Fedora communication channel, such as IRC or telegram
+
+
+Contributing to the Fedora Project in any form
+
+
+Using an official project email address
+
+
+Posting via an official social media account
+
+
+Acting as an appointed representative at an online or offline event
+
+
+Speaking for Fedora or its subprojects at a public event or online video
+
+
+Working in a Fedora or related booth or table at an event
+
+
+Participating in a Fedora or related technical meetup
+
+
+Serving as an elected or appointed leader in Fedora, including being a member of the Fedora Council
+
+ Reporting and Enforcement Instances of behavior inconsistent with this code may be reported by contacting the Fedora project by filing a private Fedora Code of Conduct ticket at https://pagure.io/CoC/new_issue.
+If the incident occurs at an event, the local event staff should be contacted in addition to opening a ticket.
+Individuals without access to https://pagure.io/CoC/new_issue may send an email to the following address: codeofconduct@fedoraproject.org.
+This email will be converted into a private Code of Conduct ticket by the Code of Conduct Committee.
+All reports will be kept confidential.
+When we discuss incidents with anyone we will anonymize details as much as we can.
+This means that the identities of all involved parties will remain confidential unless those individuals instruct us otherwise or we are required to make disclosures under the law.
+Additionally, in some cases we may need to disclose this information to other parties at Red Hat.
+Fedora is not a separate legal entity and therefore has to comply with all requirements imposed upon Red Hat.
+Upon our review/investigation of the reported incident, we will determine what action is appropriate based on this Code and its clarifying statements.
+An incident review will include communication with the reporter and the individual being reported, and an opportunity for both parties to provide an account of the incident.
+All complaints will be reviewed and will result in a response.
+Failure to follow this Code may result in actions including, but not limited to, warnings, temporary suspension, and in extreme circumstances, banning from the Fedora Project.
+Please note, while we take all concerns/reported incidents raised seriously, we will use our discretion to determine when and how to follow up on reported incidents. Attribution &amp.
+License This Code of Conduct is an edited form of the Contributor Covenant, version 1.4 along with material from the PyCon Code of Conduct and others.
+The process of dealing with reports is inspired by ideas from the Mozilla CPG Incident Process.
+Additional material is drawn from many sources, including:
+
+
+http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports
+
+
+http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy_resources
+
+
+https://www.ashedryden.com/blog/codes-of-conduct-101-faq
+
+
+http://safetyfirstpdx.org/training/code_of_conduct/TemplateIncidentResponseGuide.pdf
+
+
+https://www.washingtonpost.com/opinions/how-my-restaurant-successfully-dealt-with-harassment-from-customers/2018/03/29/3d9d00b8-221a-11e8-badd-7c9f29a55815_story.html
+
+
+https://www.shrm.org/hr-today/news/hr-magazine/Pages/1214-workplace-investigations.aspx
+
+
+https://www.eeoc.gov/policy/docs/harassment.html
+
+
+Want to help? Learn how to contribute to Fedora Docs.
+All Fedora Documentation content available under CC BY-SA 4.0 or, when specifically noted, under another accepted free and open content license.
+
+ Privacy Statement 
+ Legal 
+ Code of Conduct 
+ Sponsors 
+
+Last build: 2022-12-17 19:50:10 UTC | Last content update: 2021-05-11 
+ Fedora is sponsored by Red Hat.
+Learn more about the relationship between Red Hat and Fedora.
+

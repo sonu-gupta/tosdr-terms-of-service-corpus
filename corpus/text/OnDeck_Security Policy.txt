@@ -1,0 +1,11 @@
+
+OnDeck is committed to resolving security vulnerabilities quickly and carefully.
+In order to protect our users and their data, we request that vulnerabilities be responsibly and confidentially reported to us so that we may investigate and respond accordingly.
+Vulnerabilities should not be announced until we have developed and rolled-out an update. Unpermitted Uses of OnDeckâs Website and Unpermitted Types of Security Research
+Intentionally harming the experience or usefulness of the service to others
+Causing, or attempting to cause, a Denial of Service (DoS) condition
+Accessing, or attempting to access, data or information that does not belong to you
+Destroying or corrupting, or attempting to destroy or corrupt, data or information that does not belong to you 
+
+If you are researching security issues, especially those which may compromise the privacy of others, please do so cautiously in order to respect our usersâ privacy.
+When possible, you should conduct all vulnerability testing against non-production instances of our products to minimize the risk to data and services.

@@ -1,0 +1,27 @@
+
+         Status Users SignUp Wiki Blog FAQ Rules Privacy Donate 
+ Rule Reasoning #rules 
+We want to be able to provide the services, plain and simple.
+Our servers are located in Canada and the United States.
+Even though our main server is in the US, and COPPA only requires that users be 13 or older without parental permission, we want to be able to have users in the EU, and GDPR "requires parental consent before information society service providers can process the personal data of children under 16 years of age." Processing includes collection, automated or not, so even though we do not actively collect personal information, a user may give it to our servers without our knowledge.
+For example, if someone types their name in an unecnrypted Matrix room, it is stored in our database.
+We will not ban a user that is under 16 if they are not located in the EU.
+This rule is purely ideological, but we are committed to it.
+It means that any original software (e.g.
+on Gitea) must be free software, and other original media must grant the four essential freedoms as well.
+It must grant the user the freedom to use/view, copy, distribute, study, and change the media for any purpose.
+Restrictions we will accept include preventing the user from taking away the freedom of others (e.g.
+by changing the license to a proprietary one), but these restrictions are not necessary.
+If you are unsure about a license, contact an admin.
+We will not tolerate any sort of biased hatred, as we want ~vern to be a place of equal opportunity and freedom for all.
+ Guideline Reasoning #guidelines 
+We want our community to be as friendly and welcoming as possible, so please be kind to others.
+
+Made with <3 by ~vern team
+Copyright (C) 2022 ~vern team.
+Some rights reserved under CC BY-SA 4.0.
+Logo info can be found at /logo
+
+Find the source code for this website on ~vern Gitea
+Commit Details: 98259b9-2023-01-01 21:30:46 -0500 
+      

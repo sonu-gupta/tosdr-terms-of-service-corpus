@@ -1,0 +1,149 @@
+
+        Developer Agreement
+Last modified: 30 July 2020
+1.
+Introduction
+Global ID Framework Inc.
+d/b/a GlobaliD (âGlobaliDâ âweâ âusâ or âourâ) provides the Identity Namespace Platform (âGlobaliD Platformâ), which supports the creation, maintenance and use of a unique portable digital identity for users.
+1.1 Agreement
+These terms govern your development using the GlobaliD Platform, including the features and services we make available through:
+
+A.
+Our website at global.id and any other GlobaliD branded or co-branded websites (including sub-domains, international versions, widgets, and mobile versions);
+B.
+The GlobaliD Platform and API, documentation source code, object code library, executable applications and other materials;
+C.
+Any plugins;
+D.
+Other media, brands, products, services, software, devices, or networks now existing or later developed.
+and
+E.
+Any other resources or services available here https://developer.global.id (âGlobaliD Developer Servicesâ) made available by us.
+
+1.2 The Developer agrees to be bound by the GlobaliD
+Terms of Service and this Developer Agreement, including without limitation the releases, indemnities, disclaimers, limitations of liability, prohibited use, dispute resolution, and cancellation policies set forth above.
+If there is a conflict between the Developer Agreement and GlobaliDâs Terms of Service, this Developer Agreement shall control.
+The terms of this Developer Agreement apply to those who develop on the GlobaliD Platform to create integrations using our SDK, API, any object code library, sample source code or documentation related to the GlobaliD Platform.
+2.
+Changes to this Developer Agreement
+From time to time, we may change or update this Developer Agreement with or without prior notice.
+Developer is responsible for reading and remaining familiar with these terms and any changes and continued development constitutes acceptance of any changes or updates.
+3.
+Our License Grant to Developer
+Subject to our terms and restrictions, we grant Developer a limited, revocable, non-exclusive, non-transferable and non-sublicensable license solely to use and integrate the Developerâs Tools and underlying content into your website or application (your âApplicationâ) so that your Application can interface directly with the GlobaliD Service (âthe collection of GlobaliDâs services, including any associated features or functionalities, websites and user interfaces, as well as all content and software applications associated with our services)â.
+Developer shall not transfer or sublicense our code, APIs or other tools to anyone and will only use our SDKs to develop and distribute applications using the GlobaliD Platform and GlobaliD Developer Services.
+4.
+Fees
+Currently the GlobaliD Platform does not collect fees.
+GlobaliD will introduce fees in later stages.
+5.
+Developerâs License Grant to Us
+Developing on the GlobaliD Platform, Developer grants GlobaliD all rights and an unlimited, perpetual, irrevocable, non-exclusive, transferable and sub licensable license to enable your Application to function, including the right to incorporate or display information within the GlobaliD Service or in marketing materials and to use your name, logos, content, designs and information through the GlobaliD Platform and GlobaliD Developer Services worldwide and royalty free, including but not limited to all information you provide to or in connection with our Application Directory.
+Developer covenants that the Developer has the right to grant such license and warrant that no third party will dispute or initiate a claim against us with respect to such license.
+6.
+Intellectual Property
+We retain all rights and interest in any and all components of the GlobaliD Developer Services, our trademarks and all other GlobaliD intellectual property.
+Developer agrees that Developer will make no claim with respect to our Service or any components thereof.
+Developer may use and display our marks and logos with our written permission solely to attribute the GlobaliD Developers Services as the source of their applications.
+Developer shall follow all GlobaliD trademark and brand policies and guidelines.
+7.
+Developerâs Responsibilities and Agreements
+Developer agrees to:
+7.1 Provide utility while being honest and transparent with us, our partners and users.
+7.2 Be a GlobaliD user and follow all applicable terms, principles and policies.
+7.3 Add something unique that does not replicate our core features or change the look or functionality of GlobaliD features (through, for example, skinning, layout manipulation, CSS injection, DOM modification).
+7.4 Not circumvent limits on or requirements of the Service or develop applications designed to redirect people off of the service for onboarding to a competing service.
+7.5 Comply with all applicable laws and regulations in the jurisdiction(s) where the Applicationâs available.
+7.6 Not confuse, deceive, defraud, mislead, spam or surprise anyone
+7.7 Provide and strictly follow a comprehensive, user-accessible policy detailing how the Developer will collect and use information about or from users through cookies, SDKs or similar technologies.
+Developer must also provide and strictly follow a comprehensive and user-accessible privacy policy.
+Developer will ensure that a link to Developerâs required privacy policy will be available to users who use Developerâs Application.
+7.8 Only use data Developer may obtain from users consistent with our terms and policies in addition to the Developerâs required privacy policy with usersâ consent
+7.9 Not sell, license, or rent any data obtained from us or through use of the GlobaliD Platform or Service.
+7.10 Not transfer any data obtained from use of the GlobaliD Platform or GlobaliD Developer Services unless required for Application functionality and only then consistent with all applicable terms and policies.
+7.11 Only use user data as required for use and access to the Developerâs Application by the end user to whom such user data relates.
+7.12 Not use or disclose any information derived directly or indirectly from the user data for any purpose other than as allowed herein.
+Developer shall not use any part of the user data to create a database separate from Developerâs Application or transmit all or part of such data to any third party for any use separate from the Developerâs Application.
+7.13 Delete any user data if requested to do so by a user unless required by law to retain that data.
+If the Developer is required to retain such data, the Developer shall provide an explanation to the user of the requirement and retention duration.
+7.14 Provide responsive and helpful customer support for users authorizing Developer Application
+7.15 Ensure that any and all information received from GlobaliD or its users is stored securely and protected against unauthorized use or access.
+Developer shall protect all user access tokens and only show data obtained from any access token on devices associated with that token.
+Developer shall not proxy, request or collect any user passwords.
+Developer shall strictly guard all secret keys and access tokens and hereby indemnifies GlobaliD from any and all misuse of keys or tokens.
+7.16 Ensure that any vendors or third parties for services related to the Developerâs Application, are bound by confidentiality obligations with respect to information you receive from us or users.
+7.17 Not reverse engineer, modify, or translate any components of the GlobaliD Platform, GlobaliD Developer Services or GlobaliD Service.
+7.18 Hold any and all needed licenses and have adopted any and all required processes, reporting and/or payout obligations necessary for offering Developerâs Application functionality.
+7.19 Not infringe any third-partyâs intellectual property rights and warrant that they own or have the rights to any implicated intellectual property.
+U.S.-based Developer warrants that they operate in compliance with the Digital Millennium Copyright Act, as necessary and the Childrenâs Online Privacy Protection Act.
+7.20 Indemnify and defend GlobaliD and its affiliates and hold them harmless from and against all claims, damages, losses and expenses of any kind (including attorneysâ fees) related to any claim asserted against us related to their Application or service, actions, in actions, content or information or a violation of these terms or the GlobaliD Terms of Service.
+7.21 Abide by all limits on API calls, impressions or other limits.
+7.22 Not send unsolicited commercial communications.
+7.23 Fairly disclose any and all charges or fees associated with their Application or service.
+7.24 Not cache, aggregate, or store data or content accessed via the Developerâs Tools other than is strictly needed for functionality of an Application.
+7.25 Not use the GlobaliD Platform to promote or disseminate spyware, adware, or any other malicious programs or code.
+8.
+Integrity
+The following provisions are designed to protect the integrity of the GlobaliD Service.
+Developer agrees that:
+8.1 We can monitor, collect and analyze your Application and related data for anypurpose.
+8.2 We can audit Application to ensure compliance with all applicable terms, policies and guidelines and Developers agrees to cooperate in any such audit.
+8.3 We can take action, including termination, if we believe that your Application violates our terms, policies or guidelines.
+negatively impacts the GlobaliD Service or creates legal risk for us.
+Such action may occur without notice.
+8.4 We may set limits on the number of API calls Developer can make and may moderate Developer activity, or revoke permissions in the event of abuse or attempts to circumvent limits.
+8.5 If you offer your Application or similar applications on other platforms, you must offer users the same terms on the GlobaliD Platform.
+In the absence of a separate written agreement to the contrary, we will be free to use any information, suggestions or recommendations you provide to us pursuant for any purpose.
+9.
+Ongoing Support and Updates
+We may provide support or modifications for the Developers Services.
+We may change, suspend, or discontinue any aspect of the Developers Services or cease offering the Developers Services at any time.
+GlobaliD shall not be liable to Developer for compensation, reimbursement or damages of any kind on account of loss of prospective profits, anticipated sales, or goodwill, or on account of expenditures, investments, or commitments in connection with Developerâs use of the GlobaliD Service or GlobaliD Platform.
+10.
+Additional Information
+In some situations we may require Developer to provide additional information about themselves, their product and/or service.
+We may need to restrict or block your Application until these requests are fulfilled and we complete review.
+Without limitation, this could occur in situations where the Developer is providing functionality related to cross border transfers.
+offers of credit, offers of loans, either directly or as a broker or functions that require licensing.
+gambling related functions or the provision of the exchange of virtual currency.
+11.
+Prohibited Services
+Developer agrees that Developer will not facilitate any services or functionality that:
+11.1 Is related to or facilitates prohibited transactions or illegal activities or services.
+or
+11.2 Requires the consent or other rights from any third party unless they have obtained all such rights and may not offer any services or functionality that would require us to pay any fees or royalty to any third party
+12.
+User Support
+Developer is solely responsible for resolving any and all disputes with users including those we notify you about or otherwise.
+We retain the right but not the obligation to assist in resolution.
+Developer agrees to provide GlobaliD with any and all records or information that we request in connection with any dispute with a user.
+Developer understands and acknowledges that services with minors may be voidable by law.
+13.
+Taxes
+Developer agrees to fulfill any and all tax obligations associated with the Developerâs application.
+14.
+Requests from Others
+Developer agrees to provide us with copies or details of any governmental agency request for information about us or our users unless prohibited by law.
+15.
+Cooperation
+Developer agrees to cooperate with us to prevent or halt fraudulent or illegal activity.
+We reserve the right to limit services or suspend, disable or terminate the GlobaliD Service for any reason for investigation, as legally ordered or if we determine in our sole discretion that the Developer has or may create legal risk for GlobaliD.
+16.
+No Warranties
+The GlobaliD Platform and Developer Service and any materials received from us are providedâAS ISâ and without warranty of any kind, express or implied, and are subject to all the warranty limitations and liability limitations applicable to the GlobaliD Service as set forth in the GlobaliD Terms of Service.
+17.
+Security
+Security is key for our users and we take our commitments seriously.
+Developer need to and agree as follows:
+17.1 Developer is responsible for any unauthorized collection, receipt, transmission, access, storage, disposal, use and disclosure of usersâ personal information.
+17.2 Developer agrees to (i) keep and maintain any and all personal information in strict confidence, using such degree of care as is appropriate to avoid unauthorized access, use or disclosure.
+(ii) not to use, sell, rent, transfer, distribute, or otherwise disclose or make available personal information for the benefit of anyone other than us and a user who has authorized Developerâs Application in connection with the authorized service provided.
+17.3 Developer agrees that any collection, access, use, storage, disposal and disclosure of personal information does and will comply with all applicable federal, state and foreign privacy and data protection laws, regulations and directives.
+17.4 Developer agrees to implement administrative, physical and technical safeguards to protect personal information that are no less rigorous than accepted industry practices including the International Organization for Standardizationâs standards: ISO/IEC 27001:2005 âInformation Security Management Systems â Requirements and ISO-IEC 27002:2005 â Code of Practice for International Security Management, the Information Technology Library (ITIL) standards, and other applicable industry standards for information security, and shall ensure that all such safeguards, including the manner in which the information is collected, accessed, used, stored, processed, disposed of and disclosed, comply with applicable data protection and privacy laws.
+17.5 A Developer that works with credit, debit or other cardholder information will be in compliance with current Payment Card Industry Data Security Standard (âPCI DSSâ) requirements
+17.6 Developer agrees to implement secure coding practices as outlined from such organizations as OWASP to ensure security is built into the secure coding lifecycle.
+17.7 Developer will notify us of any security breach immediately and shall cooperate with any reasonable requests we may make.
+18.
+Need further information?
+If youâve got a question or you need further information about developing on GlobaliD, email us at support@global.id.
+

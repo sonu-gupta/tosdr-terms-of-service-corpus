@@ -1,0 +1,100 @@
+
+         SearchClear searchClose searchMain menuGoogle apps This site uses cookies from Google to deliver its services and to analyze traffic.Learn moreOK, Got itGoogle Chrome HelpSign in Send feedback on...This help content &amp.
+informationGeneral Help Center experienceNextHelp CenterCommunityAnnouncementsGoogle Chrome Check if a site's connection is secureTo see whether a website is safe to visit, you can check for security info about the site.
+Chrome will alert you if you canât visit the site safely or privately.
+
+In Chrome, open a page.
+To check a site's security, to the left of the web address, look at the security status: 
+ Secure
+ Info or Not secure
+ Not secure or Dangerous
+
+
+To see the site's details and permissions, select the icon.
+You'll see a summary of how private Chrome thinks the connection is.
+ What each security symbol means These symbols let you know how safe it is to visit and use a site.
+They tell you if a site has a security certificate, if Chrome trusts that certificate, and if Chrome has a private connection with a site. Secure Information you send or get through the site is private.
+Even if you see this icon, always be careful when sharing private information.
+Look at the address bar to make sure you're on the site you want to visit. Info or Not secure The site isn't using a private connection.
+Someone might be able to see or change the information you send or get through this site. 
+On some sites, you can visit a more secure version of the page:
+
+Select the address bar.
+Delete http://, and enter https:// instead.
+
+If that doesn't work, contact the site owner to ask that they secure the site and your data with HTTPS. Not secure or Dangerous We suggest you don't enter any private or personal information on this page.
+If possible, don't use the site.
+
+Not secure: Proceed with caution.
+Something is severely wrong with the privacy of this siteâs connection.
+Someone might be able to see the information you send or get through this site.
+You might see a "Login not secure" or "Payment not secure" message.
+
+Dangerous: Avoid this site.
+If you see a full-page red warning screen, the site has been flagged as unsafe by Safe Browsing.
+Using the site will likely put your private information at risk. Fix "Your connection is not private" error If you see a full-page error message saying "Your connection is not private," then there's a problem with the site, the network, or your device.
+Learn how to troubleshoot "Your connection is not private" errors. What a security certificate is When you go to a site that uses HTTPS (connection security), the website's server uses a certificate to prove the website's identity to browsers, like Chrome.
+Anyone can create a certificate claiming to be whatever website they want.
+To help you stay on safe on the web, Chrome requires websites to use certificates from trusted organizations. Give feedback about this article Choose a section to give feedback on Was this helpful?How can we improve it?YesNoSubmit false 
+ Â©2020 Google 
+ Privacy Policy 
+ Terms of Service 
+ catalÃ âdanskâDeutschâeestiâEnglish (United Kingdom)âespaÃ±olâespaÃ±ol (LatinoamÃ©rica)âFilipinoâfranÃ§aisâhrvatskiâIndonesiaâitalianoâlatvieÅ¡uâlietuviÅ³âmagyarâMelayuâNederlandsânorskâpolskiâportuguÃªsâportuguÃªs (Brasil)âromÃ¢nÄâslovenÄinaâslovenÅ¡ÄinaâsuomiâsvenskaâTiáº¿ng Viá»tâTÃ¼rkÃ§eâÄeÅ¡tinaâÎÎ»Î»Î·Î½Î¹ÎºÎ¬âÐ±ÑÐ»Ð³Ð°ÑÑÐºÐ¸âÑÑÑÑÐºÐ¸Ð¹âÑÑÐ¿ÑÐºÐ¸âÑÐºÑÐ°ÑÐ½ÑÑÐºÐ°ââ×¢××¨××ªâØ§ÙØ¹Ø±Ø¨ÙØ©âÙØ§Ø±Ø³Ûà¤¹à¤¿à¤¨à¥à¤¦à¥âà¹à¸à¸¢âä¸­æï¼ç®ä½ï¼âä¸­æï¼ç¹é«ï¼âæ¥æ¬èªâíêµ­ì´â Englishâ Englishâ
+catalÃ â
+danskâ
+Deutschâ
+eestiâ
+English (United Kingdom)â
+espaÃ±olâ
+espaÃ±ol (LatinoamÃ©rica)â
+Filipinoâ
+franÃ§aisâ
+hrvatskiâ
+Indonesiaâ
+italianoâ
+latvieÅ¡uâ
+lietuviÅ³â
+magyarâ
+Melayuâ
+Nederlandsâ
+norskâ
+polskiâ
+portuguÃªsâ
+portuguÃªs (Brasil)â
+romÃ¢nÄâ
+slovenÄinaâ
+slovenÅ¡Äinaâ
+suomiâ
+svenskaâ
+Tiáº¿ng Viá»tâ
+TÃ¼rkÃ§eâ
+ÄeÅ¡tinaâ
+ÎÎ»Î»Î·Î½Î¹ÎºÎ¬â
+Ð±ÑÐ»Ð³Ð°ÑÑÐºÐ¸â
+ÑÑÑÑÐºÐ¸Ð¹â
+ÑÑÐ¿ÑÐºÐ¸â
+ÑÐºÑÐ°ÑÐ½ÑÑÐºÐ°â
+â×¢××¨××ª
+âØ§ÙØ¹Ø±Ø¨ÙØ©
+âÙØ§Ø±Ø³Û
+à¤¹à¤¿à¤¨à¥à¤¦à¥â
+à¹à¸à¸¢â
+ä¸­æï¼ç®ä½ï¼â
+ä¸­æï¼ç¹é«ï¼â
+æ¥æ¬èªâ
+íêµ­ì´â
+Englishâ
+ Enable Dark Mode Send feedback on...
+This help content &amp.
+information General Help Center experience Search Help Center Google Help
+Help Center
+Community
+Google Chrome
+Privacy Policy
+Terms of Service
+Submit feedback
+ true 237 What is the issue with this selection?Inaccurate - doesn't match what I see in the productHard to understand - unclear or translation is wrongMissing info - relevant but not comprehensiveIrrelevant - doesnât match the title and / or my expectationsMinor errors - formatting issues, typos, and / or broken linksOther suggestions - ideas to improve the contentShare additional info or suggestionsâ âDo not share any personal infoCancelSubmitBy continuing, you agree Google uses your answers, account &amp.
+system info to improve services, per our Privacy &amp.
+Terms.
+false 
+      

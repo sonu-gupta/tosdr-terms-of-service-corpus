@@ -1,0 +1,344 @@
+
+We use cookies to personalize your use of our site.
+This includes third-party cookies for that we use for advertising and site analytics.
+See our Privacy Statement and Cookie Policy for more information on how we collect and use data. Cookie Options Accept All 
+
+
+
+
+
+
+
+
+Products
+NAS &amp.
+IP SAN
+Networking
+Surveillance
+
+
+Solutions
+Support
+Security
+About Us
+Sign in
+
+
+Products
+Solutions
+Support
+Security
+About Us
+
+
+
+
+
+
+
+
+
+
+NAS &amp.
+IP SAN
+Networking
+Surveillance
+ProductsNAS &amp.
+IP SAN
+Personal &amp.
+Home User
+IT Enthusiast
+Small and Midsize Business
+Enterprise
+View All NAS Models
+Dual controller IP SAN
+Unified Controller
+Storage Drives
+NVMe SSD
+SATA SSD
+SATA HDD
+Accessories
+Expansion Units
+RAM Modules &amp.
+Rail Kits
+Add-in Cards
+Spare Parts
+License
+Applications &amp.
+ServicesDiskStation Manager
+DSM Overview
+View All Packages
+Data Protection
+Synology Active Backup
+Synology High Availability
+Hyper Backup
+Snapshot Replication
+Productivity
+Synology MailPlus
+Synology Contacts
+Synology Chat
+Synology Office
+Cloud
+Synology CloudÂ²
+File Syncing &amp.
+Sharing
+Synology Drive
+Cloud Sync
+Virtualization
+Storage for Virtualization
+Virtual Machine Manager
+Management
+Synology Directory Server
+CMS &amp.
+Maintenance
+Multimedia
+Photo Station
+Moments
+Audio Station
+Video Station
+
+DiskStation ManagerLearn moreFor Business
+Business File Server
+Cross-Office File Sharing
+Storage for Virtualization
+Business Email Solution
+File Transfer Acceleration
+SMB IT Services
+Data Intelligence at the Edge
+For Home
+File Sharing
+File Syncing
+Storage for Content Creators
+Music Library
+Video Collections
+External Storage Replacement
+Data Protection
+Enterprise Data
+Windows Endpoints
+VMware/Hyper-V Backup
+SaaS Backup
+Personal Backup
+NAS Protection
+Protection against Ransomware
+For Surveillance
+Office building surveillance solution
+Retail industry solution
+Face Recognition
+Small-Sized Business
+Medium-Sized Business
+Large-Scale Deployments
+Customer Stories
+Business File Server
+Data Protection
+File Syncing and Sharing
+Office Productivity
+Storage for Virtualization
+Surveillance
+Networking
+Mesh Wi-Fi for Small Business
+Secure Network for Smart Home
+View All SolutionsProduct Support
+Get Technical Help
+Download Center
+Documentation
+Contact Us
+Product and Support Status
+Product Support Status
+Service Status
+Product Security
+Security Overview
+Protection against Ransomware
+Security Advisory
+Synology Bounty Program
+Company
+About Synology
+Customer Stories
+Newsroom
+Contact Us
+Careers
+Additional Resources
+Community
+Blog
+Synology Account
+Become a Partner
+Where to Buy
+ Legal Terms of Services 
+ Synology Account 
+ Website Terms of Use 
+ Software EULA 
+ Package Center 
+ Others 
+ Privacy Statement 
+ Cookie Policy 
+ Services Data Collection Disclosure 
+ Warranty 
+ Developer Distribution Agreement 
+ Pre-Release Program Agreement 
+ Cookie Policy Effective 5/22/2018
+Last updated: September 2020
+Synology websites and certain online services may use cookies, which are files that are placed on your device to enable data collection.
+If you opt-in to our use of cookies, we will use the information collected by cookies to better understand how you navigate our website and to assess your engagement, to remember customized settings and preferences, such as your language choice.
+All cookies will expire in 540 days from the day you visit Synology websites.
+After you have opted-in to our use of cookies, you can disable cookies by modifying settings in your browser.
+If you choose to do so, some functionalities that are dependent on cookies may not function properly.
+Where any information we collect through cookies qualifies as personal data, our Privacy Statement applies to the collection and use of that data.
+Please review this Cookie Policy and our Privacy Statement carefully.
+The following categories are defined by ICC UK Cookie guide. Category 1.
+Strictly necessary cookies These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website.
+Without these cookies, services you have asked for, such as payment services or account authorization, cannot be provided.
+This category of cookies cannot be disabled.
+The table below provides more information on these cookies. Cookie Name Source Purpose XSRF-TOKEN/_csrf_token Synology, Inc.
+This cookie is used to help with site security in preventing Cross-Site Request Forgery attacks.
+syno_web40/ synodemo_sessionrma_session/ aravel_session/ synology_community_sessionevent_session/ payment_session/ project_management_session/ recruiting_system_session/ PHPSESSID/ synology_accounts_session/ payment_session Synology, Inc.
+These cookies are used to maintain the state of the connection between the Synology web servers and your computer, enabling you to move between web pages on the Synology websites.
+__stripe_sid/ _stripe_mid Stripe, Inc.
+These cookies are used for processing payment and to aid in fraud detection.
+backup_project_id/backup_token/fullname/stoken/a_id_token/a_oauth_access_token/_last_region/ Synology, Inc.
+These cookies are used to remember identification and preferences of a visitor on Synology C2 websites.
+NID Google LLC This cookie is set by Google reCAPTCHA, which is used for spam protection when you view a page containing a form.
+Category 2.
+Performance cookies These cookies collect information about how visitors use a website, for instance, which pages visitors go to most often, and if they get error messages from web pages.
+These cookies do not collect information that identifies a visitor.
+All information these cookies collect is aggregated and therefore anonymous.
+It is only used to improve how a website works.
+This category of cookies can be disabled by changing your cookie preferences.
+The table below provides more information about these cookies. Cookie Name Source Purpose _ga/ _gtm/ _gid /_gat_UA-nnnnnnn-nn Google LLC These cookies are used to collect information about how visitors use Synology websites.
+We use the information to help us improve websites through the collection of anonymized information (e.g., number of visitors to website) Category 3.
+Functionality cookies These cookies allow the website to remember choices you make (such as your user name, language, or the region you are in) and provide enhanced, more personal features.
+These cookies can also be used to remember changes you have to parts of web pages that you can customize.
+They may also be used to keep track of which notices you have already viewed to avoid repetition.
+The information these cookies collect will not personally identify you and cannot track your browsing activity on other websites.
+This category of cookies can be disabled by changing your cookie preferences.
+The table below provides more information about these cookies. Cookie Name Source Purpose language/Synology_community_language Synology, Inc.
+These cookies are used for remembering your language preference on Synology websites.
+_LiveChat LiveChat, Inc.
+This cookie is used for storing user's personal customization when using LiveChat.
+Category 4.
+Targeting cookies or advertising cookies These cookies are used to deliver adverts more relevant to you and your interests.
+They are also used to limit the number of times you see an advertisement as well as help to measure the effectiveness of the advertising campaigns.
+They are usually placed by advertising networks with the website operator's permission.
+They remember that you have visited a website and this information is shared with other organizations such as advertisers.
+Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization.
+For example, in our remarketing or retargeting campaigns, we will serve targeted ads to you after you have visited or taken action on our website.
+In terms of technical execution, remarketing is the process of using a JavaScript tag to place a cookie in your browser.
+The cookie then informs a remarketing platform to serve specific display ads through an ad exchange, based on the pages or products you have engaged with or searched for on our website or app.
+This category of cookies can be disabled by changing your cookie preferences.
+The table below provides more information about these cookies. Cookie Name Source Purpose bcookie LinkedIn Corporation These cookies are used to display relevant advertising to visitors.
+_fbq Facebook These cookies are used to display relevant advertising to visitors.
+_uetsid_uetvid Microsoft These cookies are used to display relevant advertising to visitors.
+IDE/ _gcl_au Google LLC These cookies are used to display relevant advertising to visitors.
+_rdt_uuid Reddit Inc.
+These cookies are used to display relevant advertising to visitors.
+wcs_bt Naver Corporation These cookies are used to display relevant advertising to visitors.
+twq Twitter, Inc.
+These cookies are used to display relevant advertising to visitors.
+How do I refuse my consent to the use of cookies? If you do not want cookies to be stored on your device, you can adjust the setting of your browser to reject the setting of all or some cookies, and to alert you when a new cookie is added.
+For further information about how to do so, please refer to your browser help documentation.
+Please note that if you use your browser settings to block all cookies (including strictly necessary cookies) you may not be able to access or use all or parts or functionalities of our sites.
+If you want to remove previously-stored cookies, you can manually delete the cookies at any time.
+However, this will not prevent the sites from placing further cookies on your device unless you adjust your browser setting as described above.
+For more information on the development of user-profiles and the use of targeting and advertising cookies, please see www.youronlinechoices.eu if you are located in Europe, or www.aboutads.info/choices if in the United States. Contact Us If you have any questions about our use of cookies, you can find the most relevant contact details in our Privacy Statement. What can we do for you? 
+ NAS Selector 
+ RAID Calculator 
+ NVR Selector 
+ Knowledge Base 
+ Downloads 
+ Community 
+ NAS Selector 
+ RAID Calculator 
+ NVR Selector 
+ Knowledge Base 
+ Downloads 
+ Community Company 
+ About Synology 
+ Blog 
+ Newsroom 
+ Media Coverage 
+ Customer Stories 
+ Office Locations 
+ Sales 
+ Where to Buy 
+ Contact Us 
+ Become a Partner 
+ Compatibility 
+ HDD/SSD 
+ IP Camera 
+ Router 
+ Network Card 
+ I/O Module &amp.
+IP Speaker 
+ Other Devices 
+ Support 
+ Knowledge Base 
+ Download Center 
+ Security Advisory 
+ Developers 
+ Synology Account 
+ Resources 
+ Beta Program 
+ Bounty Program 
+ Community 
+ Copyright Â© 2021 Synology Inc.
+All rights reserved.
+Terms &amp.
+Conditions | Privacy | Cookie Preference 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Global - English Please select your preferred languageAmericas
+Brazil - English
+Canada - English
+MÃ©xico - EspaÃ±ol
+United States - English
+Asia Pacific
+Australia - English
+India - English
+Indonesia - English
+Malaysia - English
+New Zealand - English
+Philippines - English
+Singapore - English
+Vietnam - English
+à¹à¸à¸¢ - à¹à¸à¸¢
+å°ç£ - ç¹é«ä¸­æ
+æ¥æ¬ - æ¥æ¬èª
+é¦æ¸¯ç¹å¥è¡æ¿å - ç¹é«ä¸­æ
+ëíë¯¼êµ­ - íêµ­ì´
+Europe
+Danmark - Dansk
+Deutschland - Deutsch
+EspaÃ±a - EspaÃ±ol
+France - FranÃ§ais
+Italia - Italiano
+MagyarorszÃ¡g - Magyar
+Nederland - Nederlands
+Polska - Polski
+Sverige - Svenska
+TÃ¼rkiye - TÃ¼rkÃ§e
+United Kingdom - English
+ÄeskÃ¡ Republika - ÄeÅ¡tina
+Ð Ð¾ÑÑÐ¸Ñ - Ð ÑÑÑÐºÐ¸Ð¹
+Region
+Africa - English
+Global - English
+Middle East - English
+
+
+
+
+

@@ -1,0 +1,29 @@
+
+We use Amplitude Analytics.
+It collects your country (such as The US), language (such as English), and OS platform/carrier (such as Windows or iPhone/Verizon) anonymously.
+This data is only kept on Amplitudeâs servers for 90 days, then removed.
+It does also create a cookie with your device ID and another encrypted string (and possibly other cookies).
+You can use Do Not Track and Global Privacy Control to opt-out, as we only load the analytics with both of these disabled.
+You can also use the âdo not trackâ button in the footer, or do amplitude.getInstance().setOptOut(true); in the console.
+You can enable Do Not Track with these methods: Chrome and Chromium-based browsers, like Opera and Brave Step 1: Open your settings page Step 2: Turn on Send a "Do not track" request with your browsing traffic
+ Chromium Package Step 1: Open your settings page Step 2: Click More
+ Step 3: Turn on Send a "Do Not Track" request with your browsing traffic
+ Firefox and Firefox Profiles, like Tor Browser Step 1: Open your settings page Step 2: Scroll down to Send websites a "Do Not Track" signal that you don't want to be tracked
+ Step 3: Toggle Always
+ Microsoft Edge Step 1: Open your settings page Step 2: Scroll down to Privacy
+ Step 3: Turn on Send "Do Not Track" requests
+ Internet Explorer Step 1: Click on the gear near the top right Step 2: Hover over Safety
+ Step 3: Click Turn on Do Not Track requests
+ Other Browsers We don't have every browser here, so please look up how to turn on Do Not Track requests for your browser, or look in its settings.
+If you can't find anything about it, try setting navigator.doNotTrack to "1" in its source code or flag settings.
+And to turn on Global Privacy Control, go to the official website and download one of the supporting extensions or browsers.
+Like Do Not Track, you can also set navigator.globalPrivacyControl to "1" if none of these extensions or browsers appeal to you.
+As of right now, deleting your data prior to the 90-day expiration is only possible with your Amplitude ID or aDevice ID.
+If you have it, then you can email ethanmcbloxxer@protonmail.com with the topic âDelete my Amplitude dataâ and the message containing your Amplitude ID or aDevice ID.
+Please also specify whether the message contains your Amplitude ID or aDevice ID.
+If you donât have it, you can retrieve your aDevice ID by opening the siteâs cookies and looking at the part of the cookie beginning with amp before a period.
+
+
+Plus, by using the Dark Mode Toggle, we store a cookie called dark on your device.
+This is to make sure that every page you go to afterward is also dark.
+This is not deleted when you change back to light mode, but it becomes false instead.Last revised on 19th January, 2021For revision notifications, you can use this RSS feed.

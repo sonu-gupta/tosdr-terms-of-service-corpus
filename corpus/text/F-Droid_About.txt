@@ -1,0 +1,186 @@
+
+         Apps Forum Docs News Issues Contribute About About F-Droid is a robot with a passion for Free and Open Source (FOSS) software
+on the Android platform.
+On this site youâll find a repository of FOSS apps,
+along with an Android client to perform installations and updates, and news,
+reviews and other features covering all things Android and software-freedom
+related.
+Donations for F-Droid development are handled via our
+OpenCollective.
+Donations for the
+f-droid.org core infrastructure are handled by F-Droid Limited, a UK
+âprivate companyâ registered in England
+(no.
+08420676). Contact You can discuss F-Droid or get help on the
+forum and F-Droidâs user chat.
+To chat with others about F-Droid, either join via IRC in the #fdroid
+channel on freenode or
+join #fdroid:f-droid.org on
+Matrix.
+The discussions are logged on
+matrix.f-droid.org.
+There also exist bridges to Telegram and Jabber/XMPP (experimental).
+To
+join via Telegram, click on this
+link.
+For Jabber/XMPP, join
+#fdroid#matrix.org@bridge.xmpp.matrix.org.
+F-Droid contributors also run a social-media account on the Fediverse.
+You
+can interact with us or follow us on
+@fdroidorg@mastodon.technology.
+You can send email at team@f-droid.org, but
+messages are much more likely to be answered on the forum or #fdroid
+channel.
+If you want to help, you can join us. Consulting / Commercial Support If youâre running an organisation that uses F-Droid or would like to use
+F-Droid, you will sometimes want to have an expert.
+For this, we have a list
+of companies and developers who contributed to F-Droid in one way or another
+and are available for consulting:
+Find an F-Droid Consultant License 
+The source code for this site and the content produced by the F-Droid
+community are available under the GNU Affero General Public License
+version 3 or later (AGPLv3+).
+The content of the news section and the F-Droid logo are also available
+under Creative Commons Attribution-ShareAlike 3.0 License
+(CC-BY-SA-3.0) or GNU
+General Public License version 3 or later
+(GPLv3+).
+The descriptive text and graphics for each app have a specific license
+from that project.
+Free software should also have free descriptions and
+graphics.
+The F-Droid logo was created by William Theaker.
+Updates to that, and
+additional artwork, are by Robert Martinez.
+ Terms, etc.
+F-Droid is a non-profit volunteer project.
+Although every effort is made to ensure that
+everything in the repository is safe to install, you use it AT YOUR OWN
+RISK.
+Wherever possible, applications in the repository are built from
+source, and that source code is checked for potential security or privacy
+issues.
+This checking is far from exhaustive though, and there are no
+guarantees.
+F-Droid respects your privacy.
+We donât track you, or your device.
+We donât
+track what you install.
+You donât need an account to use the client, and it
+sends no additional identifying data when talking to our web server other
+than its version number.
+We donât even allow you to install other
+applications from the repository that track you, unless you first enable
+âTrackingâ in the AntiFeatures section of preferences.
+Any personal data you
+decide to give us (e.g.
+your email address when registering for an account
+to post on the forum) goes no further than us, and will not be used for
+anything other than allowing you to maintain your account. Contributors The F-Droid project was founded in 2010 by Ciaran Gultnieks, and is brought
+to you by at least the following people:
+
+Alberto A.
+Fuentes
+Alex Oberhauser
+Ali DemirtaÅ
+Andreas Itzchak Rehberg
+Andrew McMillan
+Andrew Nayenko
+Antonio Tapiador
+Ayron Jungren
+BalÃ¡zs MeskÃ³
+Ben Arnold
+Boris Kraut
+Chirayu Desai
+Ciaran Gultnieks
+CÃ©dric Cabessa
+Dan Bravender
+Danial Behzadi
+Daniel Kraft
+Daniel MartÃ­
+David Black
+David Sterry
+Dominik SchÃ¼rmann
+Fabian Rodriguez
+Felix Edelmann
+Florian Schmaus
+Fynn Godau
+Graziano Sorbaioli
+Greg Lyle
+Hans-Christoph Steiner
+Hans-Emil Skogh
+Henrik Tunedal
+Ivo Ugrina
+Jan Berkel
+Jan C Borchardt
+Jochen Sprickerhof
+John Sullivan
+JoÃ£o Fernando C.
+JÃºnior
+Kees Hulberts
+Kevin Cernekee
+Kevin Everets
+Laura Arjona Reina
+Leonardo De Luca
+Marcus Hoffmann
+Mariotaku Lee
+Mathijs van Gorcum
+Matt Kraai
+Matthias Weiler
+Michael Haas
+Michael PÃ¶hn
+Michele Azzolari
+Mostafa Ahangarha
+Nat Meysenburg
+Neo Kolokotronis
+Nico Alt
+Nicolas Raoul
+Nikita Kozlov
+Nutchanon Wetchasit
+Osoitz Elkorobarrutia
+OÄuz Ersen
+Paul Sokolovsky
+Peter Serwylo
+Philipp Wollschlegel
+Pierre Rudloff
+Rafael Fontenelle
+Robert Martinez
+Ruslan Boitsov
+Stefan Handschuh
+Steven McDonald
+Sveinn Ã­ Felli
+Takumi Shoji
+Tias Guns
+Tobias Kuban
+Torsten Grote
+Trey Yang
+Valerio Bozzolan
+Wellington Terumi Uemura
+William Theaker
+
+If you have contributed to F-Droid and your name is missing, itâs a mistake
+and you should add yourself to the
+list!
+Please include your Weblate username if you are a translator.
+Keep it
+sorted by surname, please.
+The original F-Droid client app was based on the Aptoide app developed by
+Roberto Jacinto. à½à½¼à½à¼à½¦à¾à½à¼ English Deutsch espaÃ±ol ÙØ§Ø±Ø³Û franÃ§ais ×¢××¨××ª magyar Ã­slenska italiano íêµ­ì´ polski portuguÃªs do Brasil ÑÑÑÑÐºÐ¸Ð¹ shqip TÃ¼rkÃ§e ÑÐºÑÐ°ÑÐ½ÑÑÐºÐ° ç®ä½ä¸­æ ç¹é«ä¸­æ <input id="language-chooser-submit" type="submit" value="Change" /&gt.
+Find Apps Donate F-Droid is powered by your donations!
+
+
+
+
+
+More Options
+ Connect @fdroidorg@mastodon.technology News 
+ Repomaker is back! Nov 19, 2020 
+ Adding React Native Apps to F-Droid Oct 14, 2020 
+ Publishing an F-Droid Repo using a Hardware Security Module Oct 5, 2020 
+ Happy 10 Years of F-Droid! Sep 29, 2020 
+ Donations with Free Software Jul 20, 2020 
+ Last Updated The Light Bible multi languages, free, offline, no advertising.
+Buddha Quotes A Free and Open Source Buddha Quotes app with a focus on privacy.
+Share To InputStick Send text to your InputStick straight from the Share menu Latest Apps Corona Tracing Trace corona in Germany Dice Gainz A random workout generator.
+Archlinux Forums Satellite application for bbs.archlinux.org forums  Â© 2010-2020 F-Droid Limited and Contributors (F-Droid 2020-12-09, fdroid-website 2.25) Edit on GitLab 

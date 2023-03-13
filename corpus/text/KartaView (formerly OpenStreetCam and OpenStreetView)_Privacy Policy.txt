@@ -1,0 +1,110 @@
+
+         LeaderboardBlogSign InGet the AppKartaView is a free and open platform for street level imagery.
+Anyone can contribute images with a smartphone and our open source apps.
+
+KartaView will detect salient features from the uploaded images such as signs, lanes and road curvature to improve KartaView.Download .apkLoginPrivacy Policy English Welcome to the future of mapping.
+Here is our Privacy Policy, hopefully nice and easy to follow.
+ContentsIntroductionInformation collected about you and our use of such informationwhen your information will be shared or disclosedsecurity of Personal Dataretention periodchildren's privacyConsumer requests for information and their rights on their Personal Dataother websiteschanges to this policyupdate information / revoke choices / suggestions / contact informationcontact information for international users1.
+Introduction This Privacy Policy governs the collection, use, disclosure and/or processing of your personal data when you use and/or access the KartaView portal (kartaview.org) and/or the KartaView app (collectively âKartaView Productsâ) and/or the Improve OSM portal (https://improveosm.org) and/or the Improve OSM app (collectively âImprove OSM Productsâ and together with the KartaView Products the âKartaViewâ) offered by GrabTaxi Holdings Pte.
+Ltd.
+(and/or its related corporation) ("Grab", âweâ, âusâ) (âPrivacy Policyâ).
+Before using KartaView applications, services, websites or otherwise interacting with us (as defined in the Terms and Conditions of Use where these terms and conditions of use represent an agreement (âAgreementâ) between you and us) , you should read this Privacy Policy.
+If you do not agree with the terms of this Policy, please do not engage in any of these activities.
+This Privacy Policy explains how KartaView collects, stores, uses and discloses information from you when you use KartaView.
+For more information about Grab, its products and services, or its Privacy Policy, you can visit https://www.grab.com/sg/terms-policies/privacy-policy/ .
+We understand and respect your concerns about the use of your personally identifiable information, collected from you as a user of KartaView that identifies or is able to identify you as a specific person ("Personal Data").
+We may collect your Personal Data directly from you or from third party authorised providers, such as Google, Facebook or ImproveOSM when you login to KartaView.
+Collection of your Personal Data includes, without limitation, name, surname, nickname, e-mail address.
+and both foreground and background locations and images.
+When KartaView is not in use, we do not collect any Personal Data.
+We believe that you may want to know types of information about you that we collect, as well as how that information is used, maintained, and, in some cases, shared.
+The following sets forth our privacy practices and policies, applicable to the KartaView application consumers and visitors of the KartaView website.2.
+Information collected about you and our use of such information The types of personal and other information we may collect about you are provided directly by you.
+How we use and maintain that information is described below.
+Information You Provide:2.1 Register/Information Related to Your AccountWe collect and store personal data about you when you register to use KartaView, and when you otherwise transmit such information to us via the internet, based on the performance of the Agreement (represented by the acceptance of the Terms and Conditions of Use).
+For instance, to register your account we collect and store in a database your name, nickname(s) and e-mail.
+
+We collect images and location data when you are using the recording feature of the KartaView app.
+When you use the recording feature of the KartaView Android app when the app is in background, we may also collect images and locations.
+We use API calls from either Android or iOS Operating System to collect these locations and images and they are stored in our database and in the following format:
+
+For locations - in a .txt file format
+For images - in mp4 or JPEG format
+
+Images taken by you with KartaView will be stored locally on your device until such time when you upload these images onto KartaView.
+The images will be transmitted via HTTPS and will be uploaded to KartaView where they are used by us to further improve and enhance map-making.
+We may also use the information that we collect about you to manage your account and provide you with user support, for the purpose of the performance of the Agreement.
+
+We may furthermore use such information to perform research and analysis about your use of our products and services on a pseudonymous basis (for opt-out possibilities please see below), based on our legitimate interests to improve the products and services offered to you.
+
+If you have provided explicit consent for us to provide you with any marketing materials, we may use your Personal Data to inform you from time to time by email and/or within our application about products or services that we think will interest you.
+Otherwise, we will only contact you with periodic updates to notify you on important matters relating to the KartaView Products that you are using and to administer your relationship with us.
+We may share the information we collect about you and your usage activity on an anonymous, aggregated basis with our third party partners, based on our legitimate interests for the purpose of performing research and analysis about users of our products and services.
+2.2 When you contact usWe use your contact details (e.g.
+email address) you provide when you contact us in order to respond to any inquiry or feedback you submit by email, Facebook, Twitter or from within any of our applications, for the performance of the Agreement or based on our legitimate interests when the processing following the feedback or the inquiry is not carried out in connection with the performance of the Agreement, but rather to address other types of queries.2.3 Using KartaViewWhen you use any of our services, including when you use a mobile device equipped with one of our services, you will be asked to provide certain information.
+We may also assign you a separate and unique ID number, which may be stored and used to manage your account and provide you with consumer support, based on the performance of the Agreement as well as to perform research and analysis about your use of our products and services on a pseudonymous basis (for opt-out possibilities please see below) based on our legitimate interest to improve the products/services we offer.
+The uploaded images onto KartaView will not contain, on a best effort basis, any Personal Data.
+Grab has implemented a technology for blurring human faces if such are identified in the images you upload when using KartaView.
+In the event you have found any Personal Data, such as human face in any of the images, please do not hesitate to reach out to us in order for us to rectify it as soon as possible.2.4 Public ForumsIf you use or link to public forums such as social networking services, blogs on KartaView or non- KartaView websites, internet bulletin boards, or chat rooms, be aware that any Personal Data you submit can be read, collected, or used by other users of such forums, including to send you unsolicited messages.
+KartaView cannot prevent the distribution and use of such information by other parties.2.5 Other SubmissionsWe collect Personal Data about you when you submit survey responses to improve our products/services, a job application or resume in order to take steps at your request prior to entering into a contract.2.6 Cookies and Similar Technologies on the Website and KartaView ApplicationWe may employ browser cookies or similar technologies to identify the computer, mobile device, or some of our services and record your preferences and other data.
+We use cookies or similar technologies to evaluate how our websites, devices or applications are used and to provide continuous improvement to our services, make recommendations, and complete transactions you request.
+Cookies may be stored locally on mobile devices or on computer servers operated or controlled by KartaView.
+We may use visitor identification technology that collects pseudonymous data about your use of some of our services.
+In addition, when you visit our website our systems automatically collect your IP address and the type of browser that you use.
+When you browse our website, our systems log the KartaView web pages that you visit on a pseudonymous basis.
+Server log files are records of activity automatically created by the server and stored.
+If we combine or link cookies with personal information, we will treat the combined or linked information as personal information under this policy.
+We may employ third-parties to place advertisements about our products and services on other web sites.
+The use of cookies or other similar technologies by such third parties is governed by their privacy policies.
+In the same manner, when you use the mobile application, we log information about: your last interaction with the application, your device model and brand and also we measure the application performance.
+All of this is done on the basis of legitimate interests in improving our services and products.
+You may limit the automatic collection of certain information by our website by disabling the cookies using your browser options.
+Please be aware that disabling cookies may prevent you from using specific features on our websites, such as ordering services, or maintaining an online account.3.
+when your information will be shared or disclosed Grab does not sell, rent, license or otherwise share information with third parties except as explained in this Privacy Policy.
+We may disclose Personal Data about you to third parties with your consent or if permitted under applicable statutory law.
+The categories of data recipients to which Grab could disclose your Personal Data to, for example: third party providers, other contractual partners, subcontractors and/or public authorities.
+Third Party Providers
+We may share certain pseudonymised personal data or aggregated data with strategic partners that work with us to analyze usage as well as in providing and improving our products or services.
+or in helping us in our marketing aspects to consumers, or for similar purposes.
+Information that is not personally identifiable or is aggregated is not subject to any restrictions of use or disclosure under this Privacy Policy.
+Legal Processes
+We will comply with any subpoenas, court orders or other legal processes for any of the information about you in our possession, and we may use such information to establish or exercise yours, ours, or others' legal rights, or to defend against legal claims.
+We also may be required to disclose your Personal Data in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+Overseas transfers of personal data 
+Your personal data may be transferred outside of Singapore and the EEA (European Economic Area), including to jurisdictions which do not protect Personal Data to the same standard as the data protection laws of Singapore and the EEA.
+When transferring personal data overseas, Grab takes measures to comply with applicable data protection laws and implement appropriate safeguards.4.
+security of Personal Data Grab has implemented various physical, electronic and procedural safeguards to protect the confidentiality and security of Personal Data under our control.
+For instance, Grab limits access to the systems that store such information to authorized personnel.
+
+While Grab maintains a multitude of technical and security measures to prevent unauthorized access to, alteration, destruction, or disclosure of your Personal Data, no security measures are absolute or wholly guaranteed.
+Grab will make reasonable attempts to notify you if it determines there were unauthorized acts by third parties that violate the applicable law or this Privacy Policy, or other security breaches, or where otherwise required by law.5.
+retention period Grab will maintain your personal data for as long as it is needed for the purpose for which it is collected, a business need exists, or as required by applicable laws, regulations, or government orders.
+In general, we will retain user account information for up to 180 days from the time you choose to close your account, subject to any legislatively prescribed retention periods.
+When we dispose of personal data, we use commercially reasonable procedures to erase or render it unreadable.6.
+children's privacy Grab will not knowingly request or collect Personal Data from any person under 18 years of age.
+If, however, you authorize a child to use our services or products by providing them a device associated with your Grab or KartaView service, any Personal Data associated with such use will be treated as your information in accordance with this Privacy Policy.
+Grab encourages parents to be involved in the online activities (including wireless Internet browsing) of their children to ensure that no information is collected from a child without parental or guardian consent.7.
+Consumer requests for information and their rights on their Personal Data Grab acknowledges that individuals have the right to access the Personal Data that we maintain about them.
+Consumers are entitled to request information concerning (i) their Personal Data under Grab's control, (ii) possible recipients of such Personal Data and (iii) the purpose of the processing of such Personal Data.
+To protect your privacy and security, Grab will take reasonable steps to verify your identity before providing you access or making corrections.
+Grab will resolve requests to correct inaccuracies in Personal Data, except where the request is unreasonable.
+Consumers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us at geo.kartaview@grabtaxi.com.
+In addition, under the (EU) Regulation 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (âGDPRâ) applies, you have the following rights with regard to the processing of your Personal Data: right to request erasure of your Personal Data or restriction of processing or to object to the processing as well as the data portability under the applicable conditions provided by GDPR.
+When we process your Personal Data based on your consent, you may withdraw your consent at any time.
+The withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal.
+Please note that if you withdraw your consent to any or all use of your Personal Data, depending on the nature of your request, we may not be able to provide or continue providing you with access and use to KartaView or parts thereof.
+You may lodge a complaint with the relevant data protection supervisory authority if you believe us to be in breach of the applicable data protection laws.8.
+other websites For your convenience, this website contains links to other websites, including some websites administered by Grab, or administered by other companies on behalf of Grab, as well as to websites unrelated to KartaView.
+This Privacy Policy does not apply to other websites.
+Each website should be checked for its own privacy policy.9.
+changes to this policy Grab may from time to time update this Privacy Policy, and we encourage you to periodically review this privacy policy to be informed of the latest changes.
+Whenever a change to this Privacy Policy is significant, we will place a prominent notice on this website, at least five (5) business days before the effective date.10.
+update information / revoke choices / suggestions / contact information If you would like to update or correct any information that you have provided to Grab through your use of KartaView, limit or opt-out of certain communications, revoke prior communication choices you have made, exercise other rights related to processing your Personal Data or obtain more information with respect to this or if you have suggestions for improving this Privacy Policy, please send an email at geo.kartaview@grabtaxi.com.
+We will use reasonable commercial efforts to address any concerns that you may have.11.
+contact information for international users Grab commits to resolve complaints about your privacy and our collection or use of your Personal Data.
+European Union individuals with inquiries or complaints regarding this Privacy Policy should first contact Grab at the following address: geo.kartaview@grabtaxi.com
+Individuals residing outside European Union with queries or comments on this Privacy Policy or the use of your Personal Data, please contact Grabâs data protection officer at dataprotection@grab.com.
+
+
+Date of last update: June 18th 2021Â© 2020 KartaViewBlogJOSM PluginTerms and ConditionsPrivacy Policy 
+      

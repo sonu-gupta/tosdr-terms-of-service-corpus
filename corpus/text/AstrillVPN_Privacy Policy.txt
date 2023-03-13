@@ -1,0 +1,81 @@
+
+
+ Our Policy 
+Astrill is committed to protecting your digital privacy.
+Our privacy policy can be divided in two major parts - privacy policy when using our services (connecting to our VPN servers) and privacy policy when using our website.
+Both of these are explained in full extent and detail below, please read this page to understand what data is collected and how your personal information is treated.
+
+
+ Strict no-logs policy 
+We try to keep as little personal information as possible.
+Some information is however necessary for technical functioning of the services.
+What we keep and how long we store it is explained in details below:
+Our system keeps track of active sessions - connection time, IP address, device type and Astrill VPN application version during the duration of your VPN session.
+Once you disconnect from VPN this information is removed permanently from our system.
+This information is solely used to limit the number of devices connecting from single account simultaneously.
+You can check all active sessions from member zone and you can erase them at any time.
+Astrill also counts amount of traffic used by clients in order to plan network expansions.
+No personally identifiable information is kept - only the total number of transferred bytes.
+The very design of our VPN server software does not allow us to see which clients accessed what websites even if we wanted to.
+No logs whatsoever are stored on VPN servers after connection is terminated.
+Additionally to this, we keep last 20 connection records which include: connection time, connection duration, country, device type and Astrill client application version number.
+This information is only used by our customer support to identify potential issues with VPN connection and provide adequate support.
+This information contains no personally identifiable information (for example we don't keep IP addresses or your physical location).
+This information is automatically removed in case of no activity in past 30 days.
+You can also request manual deletion of all data by contacting our support at support@astrill.com anytime.
+
+
+ What information do we collect on website? 
+When you sign up for Astrill VPN we collect your e-mail and name.
+Depending on your payment method, we may require your phone number and address.
+No credit card data is ever saved on Astrill servers, we use exclusively trusted 3rd party providers for payment processing.
+You can read their privacy policy after selecting payment method from our invoice page and being redirected to their website to make payment.
+We may collect information about what pages on Astrill website are visited by users, their IP addresses and activities performed while browsing astrill.com and its mirror domains.
+We use 3rd party services to collect and evaluate website statistics such as Google Analytics or Facebook pixel.
+This analysis does not include passwords or any billing or personal information such as address, phone number, card number or any other sensitive information.
+Whole memberzone, sign up and payment process are excluded from this tracking.
+We encourage usage of tracker blockers such as Adblock Plus or Ghostery.
+You can opt out from this tracking using Do Not Track header (see below)
+
+We respect Do Not Track header. If your browser sends us DNT header, we will not include any tracking javascript snippets and no 3rd party analytic tools will be used anywhere on our website.
+We respect your privacy.
+
+
+
+ What do we do with the information we collect on website? 
+Astrill.comâs primary goal in collecting personal information is to provide you, the user, with a customized experience on our website.
+The information we collect (including information contained in your cookie) may be used to provide such capabilities as personalization services, interactive communications, online shopping, and personalized communication.
+
+We also use the information to estimate the size of our audience and measure certain traffic patterns, to track the progress and number of entries in our promotions and contests, to track visits to and business conducted at our online store, to notify our visitors about updates to our website and system statuses.
+
+
+ E-mailing and newsletter 
+Astrill will only send you e-mails that are absolutely crucial for proper functioning of our services.
+When you sign up, we will send you an e-mail to confirm your e-mail address.
+We will also send you an e-mail whenever any purchase is made on Astrill website.
+We send no newsletter to our clients by default. You can manually enable receiving of newsletter and other membership-related e-mails in memberzone account settings.
+You can unsubscribe as well any time by clicking the Unsubscribe link present in the footer of all our e-mails or by changing settings in memberzone.
+Your e-mail address is never shared with any 3rd party.
+
+
+
+ What are Cookies and how do we use them ? 
+Astrill.com uses âCookiesâ to track and record your preferences and activity on our website.
+Cookies are small bits of data that are sent to your browser and stored on your computerâs hard drive.
+Your cookie may be set at various times during your interaction with our Web site.
+It is updated from time to time as you access the many different portions of our Web site.
+Each time you access our site, our server may deliver certain customized information to you based on the data stored in your cookie.
+
+
+ With whom do we share your information and for what purpose? 
+Astrill.com does not sell, rent, or trade your personal information with anybody.
+Your information is protected and stays with us.
+
+
+ Changes to our Privacy Policy 
+From time to time, we may change our Privacy Policy.
+We will post those changes on this page so that our customers will always be aware of what information we collect, and how we use it.
+
+
+ Last Updated: May 2018 
+      

@@ -1,0 +1,39 @@
+
+         Privacy policy General Information This notice covers both the Video DownloadHelper extension on any browser it runs on, including Chrome, Firefox and Edge, and the www.downloadhelper.net web site.
+First of all, we care about privacy and we do not make business out of users
+data.
+We only collect information that is necessary to do the job our products are expected to do. Web site The www.downloadhelper.net web site does not identify visitors.
+There is no account signup/login, nor do we use persistent cookies.
+We although use session cookies to permit navigation throughout the site.
+
+When visiting the supported sites section, anonymized data are gathered about the sites being visited and the approximated time spent on each of them.
+The idea is to be able to suggest to users sites to discover new sites based on their past navigation during the session.
+This is a work in progress.
+ Extension When using the Video DownloadHelper, no data are sent back to our service.
+On the Chrome version, whenever a download completes, there is a chance (currently 1% based on a random draw) that an anonymized message is sent to Google Analytics services.
+This message contains the originating domain of the video and the fact the download was initiated in incognito mode or not.
+The purpose is to consolidate those data to be able to update a supported sites list on the www.downloadhelper.net site.
+ Video DownloadHelper licensing When purchasing a license to use the extension without any restriction, some specific data are maintained in a database.
+The recorded information is the user's email and the license key.
+If the license has been purchased through PayPal before October 25 2014, it also includes the user's name.
+We do not use the registered emails to send message promoting any service.
+However we reserve the right to send emails if this is absolutely required, like when a user needs the license to be revalidated, or in case of a detected security breach.
+The extension communicates with the licensing server when the license is purchased or revalidated (required when reinstalling the extension).
+When this happens, the IP address is also stored in a secure manner (SALT + SHA256 hashing algorithm) on the server.
+Due to Video DownloadHelper licenses being permanent, the licensing data do not expire.
+Users may request their licensing data to be removed, but this will of course result in the license being cancelled.
+ Video DownloadHelper donations For accounting purpose, donations are stored in the server database.
+The recorded information is the donator email address.
+This information does not expire.
+Donators can request the recorded to be removed resulting in the donation receipt being erased.
+ Third parties License and donation payments are processed by Stripe.
+We do not have access to personal banking information other than the credit card country and an index allowing to find the transaction on the Stripe accounting interface.
+Stripe committed to be GDPR compliant.
+
+The www.downloadhelper.net web site uses Cloudflare CDN service.
+This allows pages to be loaded faster on the user's browser, malicious attacks being blocked, server resources being saved.
+Cloudflare committed to be GDPR comliant.
+ Data hosting  Video DownloadHelper services are run by ACLAP SAS, a French company.
+Web site and data are hosted by OVH with servers located in France.
+ Contact For any privacy concerns or removal request, requests can be made by email to dto@downloadhelper.net or through the support forum.
+

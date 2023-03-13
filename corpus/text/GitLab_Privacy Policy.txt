@@ -1,0 +1,475 @@
+
+        This website uses cookiesWe use cookies to personalize content and ads, to provide social media features, to analyze our traffic, and to provide the best experience to you. Please accept the following cookies to get the most from about.gitlab.com. See our cookie policy for more information.[#OOI_PERSONAL_INFORMATION#] Use necessary cookies only Allow all cookies Show details OK Use necessary cookies only Allow selection Allow all cookies NecessaryFunctionalPerformancePersonalization Show details Cookie declaration [#IABV2SETTINGS#] About cookies âNecessary (19)âFunctional (13)âPerformance (27)âPersonalization (105)âUnclassified (76)These cookies are necessary for the Website to function and cannot be turned off in our systems.
+They are usually only set in response to actions made by you which amount to a request for information or services, such as logging in or filling in forms on our Website.
+You can set your browser to block or alert you about these cookies, but some parts of the Website will not then work.
+These cookies do not store any personally identifiable information.
+NameProviderPurposeExpiryTypeCookieConsentCookiebotStores the user's cookie consent state for the current domain1 yearHTTP__cf_bm [x7]MarketoCodepeng2.comCrowdGlassdoorGitLabThis cookie is used to distinguish between humans and bots.
+This is beneficial for the website, in order to make valid reports on the use of their website.1 dayHTTP__cfruidCodepenThis cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
+SessionHTTPdisqusauthDisqusRegisters whether the user is logged in.
+This allows the website owner to make parts of the website inaccessible, based on the user's log-in status.
+1 dayHTTP__cfduid [x2]gitlab.compage.gitlab.comUsed by the content network, Cloudflare, to identify trusted web traffic.29 daysHTTPAWSALBGlassdoorRegisters which server-cluster is serving the visitor.
+This is used in context with load balancing, in order to optimize user experience.
+6 daysHTTPAWSALBCORSGlassdoorRegisters which server-cluster is serving the visitor.
+This is used in context with load balancing, in order to optimize user experience.
+6 daysHTTPJSESSIONID [x2]GlassdoorNew RelicPreserves users states across page requests.1 dayHTTPSameSiteGlassdoorEnsures visitor browsing-security by preventing cross-site request forgery.
+This cookie is essential for the security of the website and visitor.
+1 dayHTTPBIGipServer#GitLabUsed to distribute traffic to the website on several servers in order to optimise response times.SessionHTTPlocal_storage_support_testTwitterThe cookie is used in context with the local-storage function in the browser.
+This function allows the website to load faster by pre-loading certain procedures.
+PersistentHTML These cookies enable us to provide enhanced functionality and personalization for our website.
+They may be set by us or by third party providers whose services we have added to our pages.
+If you do not allow these cookies then some or all of these services may not function properly NameProviderPurposeExpiryTypeDFTT_END_USER_PREV_BOOTSTRAPPEDGoogle Tag ManagerBoolean indicating the user has previously been authenticated.2 yearsHTTPlang [x2]LinkedInRemembers the user's selected language version of a websiteSessionHTTPlocale [x5]SchedThe cookie determines the preferred language and country-setting of the visitor - This allows the website to show content most relevant to that region and language.2 daysHTTPaet-dismissDisqusNecessary for the functionality of the website's comment-system.
+PersistentHTMLdrafts.queueDisqusNecessary for the functionality of the website's comment-system.
+PersistentHTMLsubmitted_posts_cacheDisqusNecessary for the functionality of the website's comment-system.
+PersistentHTMLdcGoogle Tag ManagerNecessary for the functionality of the website's chat-box function.
+SessionHTTPlanguageLinkedInSaves the user's preferred language on the website.1 dayHTTP These cookies collect information about how visitors use our Website, for instance, the number of visits, which pages visitors go to most often, and if they get error messages from web pages.
+These cookies donât collect information that identifies a visitor.&nbsp.
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+NameProviderPurposeExpiryType_hjid [x3]Google Tag ManagerHotjarSets a unique ID for the session.
+This allows the website to obtain data on visitor behaviour for statistical purposes.PersistentHTML_hjIncludedInPageviewSampleGoogle Tag ManagerDetermines if the user's navigation should be registered in a certain statistical place holder.1 dayHTMLDrift.Targeting.activeSessionStartedAtGoogle Tag ManagerThis cookie is used to collect information about how the visitor interacts with the live chat function on the website.PersistentHTMLDrift.Targeting.currentReferrerGitLabAllows the website to recoqnise the visitor, in order to optimize the chat-box functionality.
+PersistentHTMLDrift.Targeting.referrerDomainGitLabAllows the website to recoqnise the visitor, in order to optimize the chat-box functionality.
+PersistentHTMLdriftt_aidGoogle Tag ManagerAnonymous identifier token2 yearsHTTPhjViewportIdGitLabSets a unique ID for the session.
+This allows the website to obtain data on visitor behaviour for statistical purposes.SessionHTMLm/uBizibleCollects data on the userâs navigation and behavior on the website.
+This is used to compile statistical reports and heatmaps for the website owner.SessionPixeljuggler/event.gifDisqusIdentifies the visitor across devices and visits, in order to optimize the chat-box function on the website.
+SessionPixelajs_anonymous_idFigmaThis cookie is used to identify a specific visitor - this information is used to identify the number of specific visitors on a website.29 daysHTTP_ga [x2]GiphyGoogleRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.2 yearsHTTP_gat [x2]GiphyGoogle Tag ManagerUsed by Google Analytics to throttle request rate1 dayHTTP_gid [x2]GiphyGoogleRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.1 dayHTTP_dc_gtm_UA-#Google Tag ManagerUsed by Google Tag Manager to control the loading of a Google Analytics script tag.1 dayHTTP_hjAbsoluteSessionInProgressGoogle Tag ManagerThis cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.1 dayHTTP_hjTLDTestGoogle Tag ManagerDetects the SEO-ranking for the current website.
+This service is part of a third-party statistics and analysis service.
+SessionHTTP_mkto_trkMarketoAnonymous web activity in browser for Marketo2 yearsHTTPvidGoogle Tag ManagerCollects data on visitor interaction with the website's video-content - This data is used to make the website's video-content more relevant towards the visitor.
+2 yearsHTTPADRUM_BTaGlassdoorThis cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website.1 dayHTTPcollectGoogleUsed to send data to Google Analytics about the visitor's device and behaviour.
+Tracks the visitor across devices and marketing channels.SessionPixelslideshare.experimentsLinkedInUsed by SlideShare to determine if the visitor is participating in a design experiment.PersistentHTMLvuidVimeoCollects data on the user's visits to the website, such as which pages have been read.2 yearsHTTP These cookies may be set through our site by our advertising partners.
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other websites.
+They do not store directly personal information, but are based on uniquely identifying your browser and internet device.
+If you do not allow these cookies, you will experience less targeted advertising.
+NameProviderPurposeExpiryType__d_mktoGitLabCollects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.1 dayHTTP_uetsid [x2]Google Tag ManagerUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+PersistentHTML_uetsid_expGoogle Tag ManagerContains the expiry-date for the cookie with corresponding name.
+PersistentHTML_uetvid [x2]Google Tag ManagerUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+PersistentHTML_uetvid_expGoogle Tag ManagerContains the expiry-date for the cookie with corresponding name.
+PersistentHTMLDrift.Targeting.currentPageViewStartedGoogle Tag ManagerNecessary for the functionality of the website's chat-box function.
+PersistentHTMLDrift.Targeting.currentSessionStartedAtGoogle Tag ManagerIdentifies the visitor across devices and visits, in order to optimize the chat-box function on the website.
+PersistentHTMLDrift.Targeting.firstVisitGoogle Tag ManagerNecessary for the functionality of the website's chat-box function.
+PersistentHTMLDrift.Targeting.lastVisitGoogle Tag ManagerNecessary for the functionality of the website's chat-box function.
+PersistentHTMLDrift.Targeting.numberOfSessionsGoogle Tag ManagerDetermines the number of visits of the specific visitor.
+This is used in order to make the chat-box function more relevant.PersistentHTMLt [x2]Rakuten MarketingPendingSessionPixel#.gifLiveRampPendingSessionPixelapps/app-event-trackerZapierPendingSessionPixelapps/embed/widget/beacon.gifZapierPendingSessionPixelzapforeversessionZapierPending1 yearHTTPzapsessionZapierPending6 daysHTTPDrift.Targeting.numberOfVisitsGoogle Tag ManagerDetermines the number of visits of the specific visitor.
+This is used in order to make the chat-box function more relevant.PersistentHTMLDrift.Targeting.previousPageGoogle Tag ManagerIdentifies the last page visited by the visitor.
+This is used in order to make the chat-box function more relevant.PersistentHTMLdriftt_sidGoogle Tag ManagerIdentifier token for a specific browser session.1 dayHTTPauidAcuityRegisters a unique user ID that recognises the user's browser when visiting websites that show ads from the same ad network.
+The cookie is used to collect statistical data of the visitor's movements and to generate targeted ads.1 yearHTTP__rmcoLucidchartNecessary for the implementation of Instagram picture-gallery onto the website.
+PersistentHTMLbitoBeeswaxSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement.
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.1 yearHTTPbitoIsSecureBeeswaxPresents the user with relevant content and advertisement.
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.1 yearHTTPcheckForPermissionBeeswaxDetermines whether the visitor has accepted the cookie consent box.
+1 dayHTTPcBidswitchRegulates synchronisation of user identification and exchange of user data between various ad services.1 yearHTTPtuuid [x2]BidswitchDemandBaseRegisters whether or not the user has consented to the use of cookies.1 yearHTTPtuuid_lu [x2]BidswitchDemandBaseContains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites.
+This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times.
+1 yearHTTPMUIDMicrosoftUsed widely by Microsoft as a unique user ID.
+The cookie enables user tracking by synchronising the ID across many Microsoft domains.1 yearHTTP_BUID [x2]BizibleBiziblyBizible - Universal user id to identity the same user across multiple clients' domains1 yearHTTPm/ipvBizibleBizible cookie - requested information from BizibleSessionPixelvalidateCookieDemandBaseUsed in context with Account-Based-Marketing (ABM).
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit.
+This is used for retargeting of multiple users rooting from the same IP-addresses.
+ABM usually facilitates B2B marketing purposes.SessionPixelrmuid [x3]Rakuten MarketingRakuten MarketingUsed to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.1 yearHTTPjuggler/telemetry/lounge_dynamic.gifDisqusCollects data on the visitorâs use of the comment system on the website, and what blogs/articles the visitor has read.
+This can be used for marketing purposes.
+SessionPixelpunchv-e-fGoogleUsed to implement the content through Google Docs.
+PersistentHTMLpunchv-e-nGoogleUsed to implement the content through Google Docs.
+PersistentHTMLpunchv-e-vGoogleUsed to implement the content through Google Docs.
+PersistentHTMLSGoogleRelated to Google Sheets1 dayHTTPIDEGoogleUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.1 yearHTTPtest_cookieGoogleUsed to check if the user's browser supports cookies.1 dayHTTPDRIVE_STREAMGoogleGoogle DriverSessionHTTPfrFacebookUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.3 monthsHTTPtrFacebookUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.SessionPixel_biz_flagsABizibleBizible - A single cookie that stores multiple information, such as whether or not the user has submitted a form, performed a crossdomain migration, sent a viewthrough pixel, opted out from tracking, etc, 1 yearHTTP_biz_nABizibleBizible - sequence number that bizible includes for all requests, for internal diagnostics purpose1 yearHTTP_biz_pendingABizibleBizible - temporarily stores analytics data that has not been successfully sent to bizible server yet.
+1 yearHTTP_biz_sidBizibleBizible - session id of the user1 dayHTTP_biz_uidBizibleBizible - User id on the current domain1 yearHTTP_fbpGoogle Tag ManagerUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.3 monthsHTTPgdIdGlassdoorUsed to track which users have shown interest in what job postings.
+The cookie ensures that the most relevant job postings are shown to the specific user.
+10 yearsHTTPtrsGlassdoorUsed to track which users have shown interest in what job postings.
+The cookie ensures that the most relevant job postings are shown to the specific user.
+1 yearHTTPads/ga-audiencesGoogleUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.SessionPixelNIDGoogleRegisters a unique ID that identifies a returning user's device.
+The ID is used for targeted ads.6 monthsHTTPpagead/1p-user-list/#GoogleTracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites.
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.SessionPixel_hjIncludedInSampleHotjar	Hotjar cookie.
+This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate funnels.1 yearHTTPljt_readerSovrnCollects data related to reader interests, context, demographics and other information on behalf of the Lijit platform with the purpose of finding interested users on websites with related content.1 yearHTTPbcookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.2 yearsHTTPbscookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.2 yearsHTTPlidcLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 dayHTTPlisscLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 yearHTTPUserMatchHistoryLinkedInUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+29 daysHTTPconsent/v2/pRakuten MarketingStores the user's cookie consent state for the current domainSessionPixelcsRakuten MarketingThis cookie is used to optimize ad relevance by collecting visitor data from multiple websites â this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.SessionPixelicts [x2]LiveRampRakuten MarketingPresents the user with relevant content and advertisement.
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.1 yearHTTPkm_ai [x2]lucid.appLucidchartRegisters data on visitors' website-behaviour.
+This is used for internal analysis and website optimization.
+5 yearsHTTPeng_mtLucidchartTracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.
+PersistentHTMLtaboola global:user-idLucidchartSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement.
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.PersistentHTML_msuuidlucid.appUsed to analyse which ads are most valuable to advertisers on the website and register how the user accessed the website.1 yearHTTPimages/1x1.gifLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.SessionPixelpxrcLiveRampThis cookie registers data on the visitor.
+The information is used to optimize advertisement relevance.
+2 monthsHTTPrlas3LiveRampCollects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.1 yearHTTPUIDScorecardresearchCollects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address.
+The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.2 yearsHTTPUIDRScorecardresearchCollects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address.
+The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.2 yearsHTTPi/adsctTwitterThe cookie is used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content.
+SessionPixelTapAd_3WAY_SYNCSTapadUsed for data-synchronization with advertisement networks.2 monthsHTTPTapAd_DIDTapadUsed to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.2 monthsHTTPTapAd_TSTapadUsed to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.2 monthsHTTP__widgetsettingsTwitterCollects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+PersistentHTMLi/jotTwitter Inc.Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement.
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+SessionPixelpersonalization_idTwitterThis cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+2 yearsHTTPVISITOR_INFO1_LIVEYouTubeTries to estimate the users' bandwidth on pages with integrated YouTube videos.179 daysHTTPYSCYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.SessionHTTPyt-remote-cast-installedYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-connected-devicesYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-device-idYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-fast-check-periodYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-appYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-nameYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLaumAcuityPending1 yearHTTPpixelAdformPendingSessionPixelcc.jsSwiftypePendingSessionPixellogDemandBasePendingSessionPixelkx-e-fGooglePendingPersistentHTMLkx-e-nGooglePendingPersistentHTMLkx-e-vGooglePendingPersistentHTMLRULGooglePending1 yearHTTP Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+NameProviderPurposeExpiryTypedebug [x5]SchedPendingSessionHTTPlastday [x5]SchedPending2 daysHTTPpageView [x5]SchedPending2 daysHTTPview [x4]SchedPending2 daysHTTPembed[width] [x2]SchedPending2 daysHTTPiframe [x2]SchedPending2 daysHTTPmobileoff [x2]SchedPending2 daysHTTPSCHEDsession [x4]SchedPending1 dayHTTPasstGlassdoorPending1 dayHTTPcassGlassdoorPending1 dayHTTPGSESSIONIDGlassdoorPending1 dayHTTPab_id [x2]lucid.appLucidchartPending5 yearsHTTPinitialLandingPage [x2]lucid.appLucidchartPendingSessionHTTPlt-anonymous-id [x2]lucid.appLucidchartPendingSessionHTTPlt-pageview-id [x2]lucid.appLucidchartPendingSessionHTTPlt-session-data [x2]lucid.appLucidchartPendingSessionHTTPrandom_token [x2]lucid.appLucidchartPendingSessionHTTPvisit_source [x2]lucid.appLucidchartPending1 dayHTTP1319302:session-dataLucidchartPendingPersistentHTMLDrift.Targeting.currentReferrerDomainLucidchartPendingPersistentHTMLDrift.Targeting.originalReferrerLucidchartPendingPersistentHTMLgeoiptrackingLucidchartPendingSessionHTMLLastCalculatedLocalStorageSizeLucidchartPendingPersistentHTMLxhrCacheTwoClearedFromLocalStorageLucidchartPendingPersistentHTMLtpMarin SoftwarePendingSessionPixelex543ZapierPending1 dayHTTPzapidentityZapierPending1 yearHTTP_hjFirstSeen [x2]Google Tag ManagerPendingPersistentHTML_lbvisitedGoogle Tag ManagerPendingPersistentHTML_lbvisitedcountGoogle Tag ManagerPendingPersistentHTMLexperimentUuidGitLabPending13 daysHTTPld:5e4333e30437cc080f58513a:$diagnosticsGitLabPendingPersistentHTMLnotInEuLucidchartPendingPersistentHTMLnotInEuExpirationLucidchartPendingPersistentHTMLnotInEuLoaderCountryLucidchartPendingPersistentHTMLperiscope_sessionPeriscope DataPending29 daysHTTPts.timestamp_cachePeriscope DataPendingPersistentHTMLevents/1/NRJS-c685010af489d443818New RelicPendingSessionPixelevents/1/c2762aa297New RelicPendingSessionPixeluBiziblyPendingSessionPixelpageComponentErrorCountGooglePendingPersistentHTMLpageRenderedGooglePendingPersistentHTMLsoftLoadedGooglePendingPersistentHTMLinitialPathNameFigmaPendingSessionHTML_sp_id.6b85Google Tag ManagerPending2 yearsHTTP_sp_ses.6b85Google Tag ManagerPending1 dayHTTPexperimentation_subject_idGitLabPending20 yearsHTTP â[#IABV2_LABEL_PURPOSES#]â[#IABV2_LABEL_FEATURES#]â[#IABV2_LABEL_PARTNERS#] [#IABV2_BODY_PURPOSES#] [#IABV2_BODY_FEATURES#] [#IABV2_BODY_PARTNERS#] Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site.
+For all other types of cookies we need your permission.
+This site uses different types of cookies.
+Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+To access click: 
+
+docs.gitlab.com declaration
+about.gitlab.com declaration
+
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.  
+  Cookie declaration last updated on 29 November 2020 by Cookiebot <iframe height=0 src='//www.googletagmanager.com/ns.html?id=GTM-NJXWQL' style='display:none;visibility:hidden' width=0></iframe&gt.
+Get free trial 
+
+Product 
+GitLab Professional Services
+
+
+Accelerate your software lifecycle with help from GitLab experts
+
+
+Popular GitLab use cases
+
+Enterprise
+Continuous Integration (CI/CD)
+Source Code Management (SCM)
+Out-of-the-box Pipelines (Auto DevOps)
+Security (DevSecOps)
+Agile Development
+Value Stream Management 
+
+Pricing
+
+
+Resources All-Remote
+Community
+Get Started
+Upcoming Events
+Is GitLab any good?
+Customer Case Studies
+2020 Developer Survey
+Topics
+GitLab docs 
+
+Blog
+
+
+Support Contact Support
+Licensing and Subscriptions
+Caring for Customers
+Support Resources
+Partners
+Channel Partners 
+
+Install GitLab
+
+ Explore 
+ Sign in 
+
+
+
+ Get free trial 
+
+
+
+
+Product 
+GitLab Professional Services
+
+
+Accelerate your software lifecycle with help from GitLab experts
+
+
+Popular GitLab use cases
+
+Enterprise
+Continuous Integration (CI/CD)
+Source Code Management (SCM)
+Out-of-the-box Pipelines (Auto DevOps)
+Security (DevSecOps)
+Agile Development
+Value Stream Management 
+
+Pricing
+
+
+Resources All-Remote
+Community
+Get Started
+Upcoming Events
+Is GitLab any good?
+Customer Case Studies
+2020 Developer Survey
+Topics
+GitLab docs 
+
+Blog
+
+
+Support Contact Support
+Licensing and Subscriptions
+Caring for Customers
+Support Resources
+Partners
+Channel Partners 
+
+Install GitLab
+
+ Explore 
+ Sign in 
+
+
+
+ Get free trial 
+
+
+
+ Having trouble using search? You may need to update your cookie settings to allow personalization (personal information) cookies.
+You might also need to allow us on your adblocker, firewall, or browser privacy settings.
+GitLab Privacy Policy Introduction
+This privacy policy (âPrivacy Policyâ) applies to all visitors and users of the GitLab.com hosted services and websites (collectively, the âWebsiteâ or âWebsitesâ) and self-managed installations, which are offered by GitLab B.V.
+and/or any of its affiliates (âGitLabâ or âweâ or âusâ).
+Please read this Privacy Policy carefully.
+By accessing or using any part of the Websites or self-managed installations, you acknowledge you have been informed of and consent to our practices with regard to your personal information and data.
+GitLab is an open source project and collaborative community, as well as a company.
+This means that many portions of our Websites, including information you voluntarily provide, will be public-facing for the open sharing of innovative developments, ideas, and information that makes our collaborative community so great.
+While we are committed to open sharing, we strive to respect the privacy of individual community members and will minimize the information we collect and share.
+If you do not want to share your information, including personally identifiable information, with other community members and the public, please be thoughtful as to how you interact with our Websites and what information you provide through the Websites (for example, through creating a public profile, project contributions, comments, and blog posts). Data Protection
+
+Oversight of Data Security is handled by GitLab's respective Data Protection Officers.
+Should you wish to make modifications, deletions, or additions to any personal data you believe to be captured by GitLab, or if you have any general security concerns, please contact the Data Protection Office (DPO) for your respective territory at
+dpo@gitlab.com.
+
+What Information GitLab Collects and Why
+Information from Website Visitors
+Like most website operators, GitLab collects basic non-personally-identifying information from Website visitors of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request.
+We collect this information to better understand how visitors use the Website, to improve our Websites and experience for visitors, and to monitor the security of the Websites.
+From time to time, GitLab may publicly release non-personally-identifying information collected from Website visitors in the aggregate, e.g., by publishing a report on trends in the usage of the Website.
+GitLab also collects potentially personally-identifying information like Internet Protocol (IP) addresses from visitors.
+GitLab does not use such information to identify or track individual visitors, however.
+We collect this information to understand how visitors use the Websites, to improve performance and content, and to monitor the security of the Websites.
+GitLab may collect statistics about the behavior of visitors to our Websites.
+For instance, GitLab may reveal how many downloads a particular version got using aggregated statistics that contain anonymous user information only.
+Usage Data Information from Self-managed GitLab Instances
+GitLab collects information about usage from each self-managed GitLab instance (Community Edition and Enterprise Edition) through a usage ping.
+The usage ping sends a payload containing data such as total number of projects and pipelines, as well as license information and hostname to GitLab.
+Only aggregates of usage data is sent: no project names or other content is sent to GitLab.
+You can view the exact payload of the usage ping in the administration panel in GitLab.
+Here you can also opt-out of the usage ping.
+Personally-Identifying Information
+Users of the Websites may choose to interact with GitLab in ways that provide us with their personally-identifying information.
+In some instances, a User ID is generated for form and url tracking, page views, page pings and usage counts in order to ascertain product performance and development.
+The amount and type of information that GitLab gathers depend on the nature of your interaction with us, as well as the amount of information you choose to share.
+For example, we ask visitors who use our blog forums to provide a username and email address to identify them on the Website.
+We will also collect the information you provide with us in connection with creating an account on the Website.
+Profile information is shared publicly, as well as activity under your profile and the date your profile was created.
+If you report a security vulnerability to GitLab and request public acknowledgment, then we may publicly disclose the personal information you provided to us in connection with the report, including your name to fulfill your request for acknowledgment.
+In each case, GitLab collects such personally-identifiable information only insofar as is necessary or appropriate to fulfill the purpose of the userâs interaction with or request of GitLab.
+We will not disclose personally-identifying information other than as described in this Privacy Policy.
+Visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent you from engaging in certain Website-related activities or being able to access and use certain features and services.
+
+For details about what information is collected and with whom it is shared, please go to
+Tech Stack Applications.
+
+Information GitLab Does Not Collect
+GitLab does not intentionally collect sensitive personal information, such as social security numbers, genetic data, health information, or religious information.
+Although GitLab does not request or intentionally collect any sensitive personal information, we realize that users might store this kind of information in a Gitlab repository.
+If you store any sensitive personal information on GitLabâs servers, you are consenting to our storage of that information on our servers, which are located in the United States.
+If you're a child under the age of 13, you may not have an account on the Website.
+GitLab does not knowingly collect information from or direct any of our Website or content specifically to children under 13.
+If we learn or have reason to suspect that a user is under the age of 13, we will close the childâs account.
+Other countries may have different minimum age limits.
+If you are below the minimum age for providing consent for data collection in your country, you may not use GitLab.
+Basis for Processing Your Information
+Performance of a contract.
+The use of your information may be necessary to perform the contract that you have with us.
+For example, if you use our Websites to purchase GitLab product subscriptions or services, contribute to a project, create a profile, post and comment through our Websites, or request information through our Websites, we will use your information to carry out our obligation to complete and administer that contract or request.
+Legitimate interests.
+We use your information for our legitimate interests, such as to provide you with the best content through our Websites and communications with users and the public, to improve and promote our products and services, and for administrative, security, fraud prevention and legal purposes.
+Consent.
+We may rely on your consent to use your personal information for certain direct marketing purposes, such as sending you newsletter updates about GitLab products.
+You may withdraw your consent at any time through the unsubscribe feature provided with each marketing email or by contacting us at the addresses given at the end of this Privacy Policy. How GitLab Uses and Protects Personally-Identifying Information
+Sharing Your Information
+GitLab only discloses potentially personally-identifying and personally-identifying information to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on GitLab's behalf or to provide services available on the Website, and (ii) that have agreed not to disclose it to others.
+Please note, email and IP addresses of members of a repository may be shared with the respective administrator of that repository.
+GitLab will not rent or sell potentially personally-identifying and personally-identifying information to anyone.
+Other than to its employees, contractors, and affiliated organizations, as described above, GitLab discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when GitLab believes in good faith that disclosure is reasonably necessary to protect the property or rights of GitLab, third parties, or the public at large.
+GitLab takes measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
+International Transfer of Information
+The Website is hosted in the United States and information we collect will be stored and processed on our servers in the United States.
+Our employees, contractors and affiliated organizations that process information for us as described above may be located in the United States or in other countries outside of your home country.
+by using the Website, you consent to the international transfer of your information by GitLab.
+GitLab Communications with You
+If you are a registered user of the Websites and have supplied your email address, GitLab may occasionally send you an email to tell you about security, system information, new features, solicit your feedback, or just keep you up to date with what's going on with GitLab and our products.
+We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum.
+There's an unsubscribe link located at the bottom of each of the marketing emails we send you so you can stop receiving such emails at any time.
+If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish your request in order to help us clarify or respond to your request or to help us support other users.
+We will not publish your personally-identifiable information in connection with your request. Cookies, Tracking Technologies and Do Not Track
+Cookies
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns.
+GitLab uses cookies to help GitLab identify and track visitors, their usage of the Websites, and their Website access preferences.
+GitLab visitors who do not wish to have cookies placed on their computers may set their browsers to refuse cookies before using the Websites.
+Disabling browser cookies may cause certain features of GitLab's websites to not function properly.
+Certain pages on the Website may set other third party cookies.
+For example, we may embed content, such as videos, from another site that sets a cookie.
+These sites set their own cookies and we do not have access or control over these cookies.
+The use of cookies by third parties is not covered by our Privacy Policy.
+
+For more information on what cookies are used, visit our
+Cookies Policy.
+
+Tracking Technologies
+We use third party tracking services, but we donât use these services to track you individually or collect your personally identifiable-information.
+We use these services to collect information about how the Website performs and how users navigate through and use the Website so we can monitor and improve our content and Website performance.
+Third party tracking services gather certain simple, non-personally identifying information over time, such as your IP address, browser type, internet service provider, referring and exit pages, timestamp, and similar data about your use of the Website.
+We do not link this information to any of your personal information such as your user name.
+Do Not Track
+"Do Not Track" is a privacy preference you can set in your browser if you do not want online services to collect and share certain kinds of information about your online activity from third party tracking services.
+GitLab does not track your online browsing activity on other online services over time and we do not permit third-party services to track your activity on our site beyond our basic tracking, which you may opt out of.
+Because we do not share this kind of data with third party services or permit this kind of third party data collection for any of our users, and we do not track our users on third-party websites ourselves, we do not need to respond differently to an individual browser's Do Not Track setting. Global Privacy Practices
+Information we collect will be stored and processed in the United States in accordance with this Privacy Policy but we understand that users from other countries may have different expectations and rights with regard to their privacy.
+For all Website visitors and users, no matter their country of location, we will:
+
+provide clear methods of unambiguous, informed consent when we do collect your personal information;
+only collect the minimum amount of personal data necessary for the purpose it is collected for, unless you choose to provide us more;
+offer you simple methods of accessing, correcting, or deleting your information that we have collected, with the exception of information you voluntarily provide that is necessary to retain as is for the integrity of our project code as described further below.
+and
+provide Website users notice, choice, accountability, security, and access, and we limit the purpose for processing.
+We also provide our users a method of recourse and enforcement.
+
+If you are located in the European Union, you are entitled to the following rights with regard to your personal information and data:
+
+Right of access to your personal data, to know what information about you we hold
+Right to correct any incorrect or incomplete personal data about yourself that we hold
+Right to restrict/suspend our processing of your personal data
+Right to complain to a supervisory authority if you believe your privacy rights are being violated
+
+Additional rights that may apply to you in certain instances:
+
+Right of data portability (if our processing is based on consent and automated means)
+Right to withdraw consent at any time (if processing is based on consent)
+Right to object to processing (if processing is based on legitimate interests)
+Right to object to processing of personal data for direct marketing purposes
+Right of erasure of your personal data from our system (âright to be forgottenâ) if certain grounds are met
+
+To exercise your privacy rights, you can email us at the address given below in the âContacting GitLab About Your Privacyâ section of this Privacy Policy. Data Retention and Deletion
+If you already have an account on the Websites, you may access, update, alter, or delete your basic user profile information by logging into your account and updating profile settings.
+GitLab will retain your information for as long as your account is active or as needed to perform our contractual obligations, provide you services through the Website, to comply with legal obligations, resolve disputes, preserve legal rights, or enforce our agreements.
+We will delete inactive accounts after a period of twelve (12) months.
+We will also erase information once it is no longer necessary to fulfill the purposes for which it was collected and processed.
+Please note that due to the open source nature of our products, services, and community, we may retain limited personally-identifiable information indefinitely in order to ensure transactional integrity and nonrepudiation.
+For example, if you provide your information in connection with a blog post or comment, we may display that information even if you have deleted your account as we do not automatically delete community posts.
+Also, as described in our Terms of Use, if you contribute to a GitLab project and provide your personal information in connection with that contribution, that information (including your name) will be embedded and publicly displayed with your contribution and we will not be able to delete or erase it because doing so would break the project code.
+Contacting GitLab About Your Privacy
+
+If you have questions or concerns about the way we are handling your information, or would like to exercise your privacy rights, please email us with the subject line "Privacy Concern" at
+GitLab Legal.
+
+We will respond within 30 days of receiving your message at the latest but please note for promptest response, we recommend emailing us. Privacy Policy Changes
+Although most changes are likely to be minor, GitLab may change its privacy policy from time to time, and in GitLab's sole discretion.
+If we decide to make a significant change to our Privacy Statement, we will post a notice on the homepage of our website for a period of time after the change is made.
+We may also provide notification to users who have provided us email addresses of material changes to this Privacy Policy through our Website.
+GitLab encourages visitors to frequently check this page for any minor changes to its Privacy Policy.
+Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+Privacy policy change history
+
+
+
+Privacy Policy
+
+
+Data Protection
+
+
+How GitLab Uses and Protects Personally-Identifying Information
+
+
+Cookies, Tracking Technologies and Do Not Track
+
+
+Global Privacy Practices
+
+
+Data Retention and Deletion
+
+
+Privacy Policy Changes
+
+
+How to Submit Access and Deletion Requests
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+YouTube
+
+
+
+
+LinkedIn
+
+ Why GitLab?
+
+Product
+Solutions
+Services
+DevOps lifecycle
+DevOps tools
+Is it any good?
+Releases
+Pricing
+Get started
+ Resources
+
+All resources
+All-Remote
+Blog
+Newsletter
+Events
+Webcasts
+Topics
+Training
+Docs
+Install
+ Community
+
+Customers
+Contribute
+Partners
+Channel Partners
+Explore repositories
+Source code
+Shop
+Direction
+Contributors
+Core Team
+Hall of fame
+Community Forum
+ Support
+
+Get help
+Contact Sales
+Contact Support
+Support options
+Status
+Customers Portal
+ Company
+
+About
+What is GitLab?
+Jobs
+Culture
+Team
+Press
+Analysts
+Handbook
+Security
+Contact
+Terms
+Privacy
+Trademark
+ Git is a trademark of Software Freedom Conservancy and our use of 'GitLab' is under license View
+page source
+â Edit in
+Web IDE
+â please
+contribute.
+Close suggested results 
+      

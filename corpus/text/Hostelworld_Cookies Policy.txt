@@ -1,0 +1,192 @@
+
+         Hostelworld.com 
+
+
+
+
+ Log in to book faster! 
+
+
+
+
+
+
+ EUR 
+
+
+
+
+
+
+
+
+
+
+Home
+Cookies Policy
+ Hostelworld - HTTP Cookies What is a Cookie?
+A cookie, also known as an HTTP cookie, web cookie, or browser cookie, is usually a small piece of data sent from a website and stored in a user's web browser while a user is browsing a website.
+When the user browses the same website in the future, the data stored in the cookie can be retrieved by the website to notify the website of the user's previous activity.
+Cookies were designed to be a reliable mechanism for websites to remember the state of the website or activity the user had taken in the past.
+This can include clicking particular buttons, logging in, or a record of which pages were visited by the user.
+
+Other kinds of cookies perform essential functions in the modern Web.
+Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether the user is logged in or not, and which account they are logged in under.
+Without such a mechanism, the website would not know whether to send a page containing sensitive information, or require the user to authenticate himself by logging-in.
+ Types of Cookies in Use
+The following types of cookie are in use within Hostelworld systems:
+
+Strictly necessary cookies
+Performance cookies
+Functionality cookies
+Targeting / Advertising cookies
+
+These cookies are a mixture of first party cookies, which we set ourselves, and third party cookies, which are set by other websites.
+ Cookie Functions
+We use cookies across our websites, mobile applications and emails to improve their performance and enhance your user experience.
+Cookies are used to provide the following functions
+
+
+Personalization â For example, a customerâs language preference is remembered.
+Session management - To ensure that a userâs session is routed to the correct system within the Hostelworld infrastructure for the duration of their visit.
+
+Usage Tracking - Hostelworld use Omniture web analytics / Google Analytics solution to provide analysis of a usersâ ongoing usage of the website.
+This facilitates ongoing improvements to the website.
+
+AB Testing / multivariate testing - We can display multiple versions of a page to a customer to assess which generates the best customer experience.
+
+Advertising - Display advertising content depending on location, language, and your past browsing history.
+ Strictly Necessary Cookies
+We use a number of cookies which are strictly necessary to allow you to access our websites, to move between pages and to receive services which you have requested.
+The following are examples of some of the strictly necessary cookies which we use:
+
+Service Function Example Cookie Details Cookie Type Load Balancer We use multiple servers to ensure that our users receive the best possible experience when browsing our websites, even when we are experiencing high levels of traffic.
+This cookie is required to route your session to the correct server.
+All these cookies are prefixed with "NSC_" First Party PHP Session ID We use the PHP scripting language to create our websites.
+The PHP Session ID Cookie is required for PHP code to function.
+PHPSESSID, psid First Party Credit Card Processing We use cookies to facilitate the processing of credit cards when you make a booking through the website.
+_k First Party Functionality Cookies
+We use functionality cookies to allow us to remember your preferences.
+For example, cookies save you the trouble of selecting your language or currency every time you access the website, and recall your customisation preferences.
+The following are examples of the types of functionality cookies which we use:
+
+Service Function Example Cookie Details Cookie Type Hostelworld Site Language When you indicate that you would like one of our websites to be displayed in a different language we use this cookie to record that preference.
+lang First Party Hostelworld Site Currency When you indicate that you would like to use a particular currency with one of our websites we use this cookie to record that preference.
+HostelWorldCurrency, HostelsComCurrency First Party Liveperson.net We provide a service whereby you can contact a customer service representative through our websites.
+These cookies enable that service to operate.
+HumanClickSiteContainerID_18146098, HumanClickKEY, HumanClickACTIVE Third Party Performance Cookies
+We utilise other cookies to analyse how our visitors use our websites and to monitor website performance.
+This allows us to provide a high quality experience by customising our offering and quickly identifying and fixing any issues that arise.
+For example, we might use performance cookies to keep track of which pages are most popular, which method of linking between pages is most effective, and to determine why some pages are receiving error messages.
+The following are examples of the types of performance cookies which we use:
+
+Service Function Example Cookie Details Cookie Type Visual Web Optimiser We use these cookies to display multiple versions of a page to our users to assess which generates the best customer experience.
+All cookies are prefixed with "_vis_opt" First Party Adobe Site Catalyst These cookies allow us to generate [anonymous] customer usage statistics.
+All these cookies are prefixed with "s_" First Party.
+(Note: s_vi is a Third Party cookie) Google Analytics This is a secondary customer usage service to Adobe Site Catalyst.
+All these cookies are prefixed with "_utm" First Party Targeting / Advertising Cookies
+Hostelworld, our partners and advertisers use cookies to display advertisements that we believe are relevant to you and your interests.
+Third Party advertisers and partners may analyse data they collect about your use of the Hostelworld website, through first and third-party cookies, in order to serve adverts to you on the Hostelworld website or on other third party websites.
+We also work with advertisers in order to display Hostelworld adverts on third party websites, based on cookies set on your visit to the Hostelworld website.
+Advertisers may also use information about your previous web activity to tailor the adverts which are displayed on the Hostelworld website.
+Advertising/targeting cookies may also be used to track your responses to particular adverts, which helps advertisers to ensure that you see the most relevant advertisements in future, both on Hostelworld websites and on third party websites.
+The following are examples of the types of targeting/advertising cookies which we use:
+
+Service Function Example Cookie Details Cookie Type PPC Tracking /App Tracking When we advertise on external websites we sometimes pay for these advertisements on the basis of how many clicks are made on the adverts which lead to users visiting our websites or installing our apps (this is known as Pay Per Click advertising).
+We use these cookies to allow reporting of customer activity on the site and to track app installations and in-app conversions.
+VisitorSource, VisitorNo,LB, Cookie_PPCSource, Cookie_PPCSOURCE30days, LB_PPCSource*, PPCVisitno First Party and Third Party Google Analytics We use certain of the Google Analytics advertising features to allow third parties to serve adverts to you when you are on other sites that may be relevant to you based on your use of the Hostelworld site.
+This is done on an anonymised basis, using non-personally identifiable information.
+We may also use Google Analytics advertising features to help ascertain how many times our adverts are seen on other sites, and to be provided with aggregated and anonymised details about the demographics and interests of users of Hostelworld.
+All these cookies are prefixed with "_utm" First Party Commission Junction We partner with a number of affiliates who refer users to our websites.
+This is an example of one of the cookies which we use to track these referrals.
+HWCommissionJunction First Party DoubleClick We display adverts on the website that we and our advertisers believe are relevant to you.
+These cookies may also be used by advertisers to allow third parties to serve adverts to you when you are on other sites.
+These adverts may be adapted to be relevant to you based on your use of the Hostelworld site.
+This is done on an anonymised basis, using non-personally identifiable information.
+The DoubleClick cookies are an example of some of the cookies which we use in connection with these advertising services.
+Id, mc,_drt, uid, pluto2 Third Party Add This Widget Some of the services on our website are supplied by third parties, such as the "Add this button which allows the sharing of pages from our websites on social networks.
+The third party service also sets cookies which track the usage of the service and may be used to deliver advertisements which are of interest to you.
+Uid, _atuvc, dt, loc, uit, psc Third Party Managing Cookies
+If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in your browser settings.
+For further information about how to turn off cookie acceptance please refer to the âHelpâ function in your browser.
+
+ If you would like to opt out of the Google Analytics features mentioned above, details of how to opt-out are available here.
+
+Hostelworld works with Flashtalking to serve advertising creative.
+Hostelworld may place 1st party cookies on your machine to provide more relevant ad messages.
+To opt-out of Flashtalking cookies please click here.
+These cookies are anonymous and will not collect personally identifiable information.
+
+Please note that disabling cookie support may prevent this website from functioning properly and you may not be able to fully utilise all of its features and services.
+ Further Information
+Further information about cookies and their usage can be found at http://www.allaboutcookies.org and http://www.youronlinechoices.com/.
+ Hostelworld Mobile Apps Book on the go with the new Hostelworld mobile apps. Search and book more than 36,000 properties in over 178 countries, from anywhere.
+Accommodation
+
+ Hostels 
+ Hotels 
+ Bed and Breakfasts 
+
+Quick Links
+
+ Blog 
+ Group Bookings 
+ Booking Guarantee 
+ Hostel Awards 
+ Airport Transfers 
+ Car Rentals 
+ Flights 
+ Tours &amp.
+Experiences 
+
+About Us
+
+ Hostelworld Group PLC 
+ Press 
+ Careers 
+ Hostel Sign Up 
+ Affiliate Program 
+
+Find Us On
+
+
+
+ Hostelworld Facebook 
+
+
+ Twitter 
+
+
+ YouTube 
+
+
+ Hostelworld Instagram 
+ Â© 1999â2020 Hostelworld.com Limited Data Protection Notice | Terms &amp.
+Legal | Website Testing | Site Map | 
+Help 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Back to top <ul&gt.
+<li><a href="https://www.hostelworld.com/cookiespolicy.php" title="English" alt="English">English</a></li><li><a href="https://www.german.hostelworld.com/cookiespolicy.php" title="Deutsch" alt="Deutsch">Deutsch</a></li><li><a href="https://www.french.hostelworld.com/cookiespolicy.php" title="FranÃ§ais" alt="FranÃ§ais">FranÃ§ais</a></li><li><a href="https://www.italian.hostelworld.com/cookiespolicy.php" title="Italiano" alt="Italiano">Italiano</a></li><li><a href="https://www.spanish.hostelworld.com/cookiespolicy.php" title="EspaÃ±ol" alt="EspaÃ±ol">EspaÃ±ol</a></li><li><a href="https://www.portuguese.hostelworld.com/cookiespolicy.php" title="PortuguÃªs" alt="PortuguÃªs">PortuguÃªs</a></li><li><a href="https://www.brazilian.hostelworld.com/cookiespolicy.php" title="PortuguÃªs (Brasil)" alt="PortuguÃªs (Brasil)">PortuguÃªs (Brasil)</a></li><li><a href="https://www.swedish.hostelworld.com/cookiespolicy.php" title="Svenska" alt="Svenska">Svenska</a></li><li><a href="https://www.polish.hostelworld.com/cookiespolicy.php" title="Polski" alt="Polski">Polski</a></li><li><a href="https://www.finnish.hostelworld.com/cookiespolicy.php" title="suomi" alt="suomi">suomi</a></li><li><a href="https://www.danish.hostelworld.com/cookiespolicy.php" title="Dansk" alt="Dansk">Dansk</a></li><li><a href="https://www.dutch.hostelworld.com/cookiespolicy.php" title="Nederlands" alt="Nederlands">Nederlands</a></li><li><a href="https://www.norwegian.hostelworld.com/cookiespolicy.php" title="Norsk" alt="Norsk">Norsk</a></li><li><a href="https://www.czech.hostelworld.com/cookiespolicy.php" title="ÄeskÃ½" alt="ÄeskÃ½">ÄeskÃ½</a></li><li><a href="https://www.russian.hostelworld.com/cookiespolicy.php" title="Ð ÑÑÑÐºÐ¸Ð¹" alt="Ð ÑÑÑÐºÐ¸Ð¹">Ð ÑÑÑÐºÐ¸Ð¹</a></li><li><a href="https://www.turkish.hostelworld.com/cookiespolicy.php" title="TÃ¼rk" alt="TÃ¼rk">TÃ¼rk</a></li><li><a href="https://www.japanese.hostelworld.com/cookiespolicy.php" title="æ¥æ¬èª" alt="æ¥æ¬èª">æ¥æ¬èª</a></li><li><a href="https://www.korean.hostelworld.com/cookiespolicy.php" title="íêµ­ì´" alt="íêµ­ì´">íêµ­ì´</a></li><li><a href="https://www.chinese.hostelworld.com/cookiespolicy.php" title="ä¸­æ" alt="ä¸­æ">ä¸­æ</a></li&gt.
+</ul&gt.
+Session Expired Please enter the password for the account <% email %&gt.
+ Password Skip &amp.
+Continue Login Forgot password? Ã <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KBCQMF" height="0" width="0" style="display:none;visibility:hidden"></iframe&gt.
+
+      

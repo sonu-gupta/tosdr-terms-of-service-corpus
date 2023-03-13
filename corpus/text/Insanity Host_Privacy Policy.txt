@@ -1,0 +1,86 @@
+
+InsanityHost operates the insanity.host website providing Discord Bot hosting service.
+This policy is used to inform website visitors about the collection, use, and disclosure of Personally Identifiable Information if you decided to use InsanityHost's offered service.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.
+The Personal Information that we collect is used for providing and improving the Service.
+We will not use or share your information with anyone except as described in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at insanity.host, unless otherwise defined in this Privacy Policy.
+InsanityHost complies with the CalOPPA, COPPA, CAN-SPAM and GDPR laws.
+ Collection
+Personal information (also known as personal information) is defined as any form of data in which a person can be identified.
+This does not include data that has been collected anonymously where the identifiable information has been removed.
+To be able to provide you with the requested services, we have to collect certain personal information when you register an account.Such information includes but is not limited to:- Full name- Email address- Address- Account credentials such as passwords
+Furthermore, we automatically collect data whenever you visit the Site.
+This includes, but is not limited to, technical information about your browser and device (IP address, operating system, browser type/version, device model/manufacturer) and page activity (pages visited, links clicked, referrals from other webpages, time spent on pages etc.)Such data is collected (but not limited to) through the use of Google Analytics and access logs on the servers hosting the websites.
+When you use InsanityHost's services, your services files will be retained on our nodes up until the point of termination at which point the files will be destroyed as outlined in our Terms of Service.
+Please note that only InsanityHost staff, server subusers and verified third-parties (please see the third-parties section of this document for more information) will ever have access to these files unless explicit permission has been given by the owner of the service.
+To operate properly and reliably, InsanityHost and our partners or service providers (eg.
+live chat provider) may place cookies on your device to ensure the best experience while using our sites.
+To find out more information regarding how cookies work, please refer to https://www.allaboutcookies.org for detailed information on the subject.
+ Usage
+We may use your personal information (both identifiable and anonymous) to carry out the following (but not limited to):- Improve the site and customer service through the use of analytics and customer feedback- Provide the purchased service(s)- Deliver information related to InsanityHost through means such as marketing emails or social media- Allow you to participate in surveys or giveaways- Prevent fraudulent activity- Resolve any disputes between you and InsanityHost- Administer any other features you explicitly consented to
+We do not sell, trade or grant access to your Personally Identifiable Information.This does not include third-parties assisting us in operating InsanityHost as defined in the third-parties section of this document.
+We may also release this information when required by legal enforcement or to protect ours or others rights, property or safety.
+We do not attempt to use your data against you unless specifically required by legal enforcement.
+ Data Storage
+Your data is stored securely on InsanityHost nodes provided by a hardware/hosting provider.
+Such nodes are only accessible by InsanityHost administration and other staff members who require access to carry out their duties (eg.
+system administrators).
+Information such as passwords are stored securely on databases using the latest widely-accepted cryptographic hashing protocols.
+Every effort is made to ensure that all public websites use SSL certificates in order to ensure that all data transmitted from your internet browser to our servers is encrypted so that it cannot be intercepted by malicious parties during transmission.
+Please note, not all information collected by InsanityHost is stored on InsanityHost servers.
+Third-parties such as Google store data collected through their services in their datacenters.
+Data collected by InsanityHost is stored for the length of time that it is required in order to serve its purpose at which point it is destroyed.
+ Links
+Our Service may contain links to other sites.
+If you click on a third-party link, you will be directed to that site.
+These external sites are not operated by us.
+Therefore, we strongly advise you to review the Privacy Policy of these websites.
+We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+ Children
+Our Services do not address anyone under the age of 13.
+We do not knowingly collect personally identifiable information from children.
+In case we discover that a child under 13 has provided us with personal information, we will take reasonable actions to remove such data from our systems.
+If you are a parent or legal guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to take the necessary actions to remove this data.
+ Third-Parties
+InsanityHost uses the services of/is assisted by third-parties in order to provide the services offered by InsanityHost.
+Data is used as described below.
+Please note, that as new third-parties are utilized to provide our service, every effort will be made to ensure that this policy is updated.
+However, this is not always possible.
+If you have any questions regarding how third-parties use your data, please contact us.
+Discord:InsanityHost uses Discord (https://discord.com) to offer support to customers and to serve as a way for InsanityHost staff to communicate with each other and our audience/community.
+Data such as, but not limited to, your name, email addresses and IP address may be shared between staff members in order to provide support or other administrative functions.
+Please note that InsanityHost utilizes a Discord ticket transcript system where one of our Discord bots creates a web-viewable transcript of any tickets opened within our Discord.
+These transcripts are stored on a third-party server operated by our Discord bot developers.
+If you would like a transcript removed, please contact us.
+
+Google:We use Google services, including but not limited to Google Forms, Google Analytics and Google Docs, to provide functions such as customer feedback and collect analytical data as laid out in the collection section of this document.
+Google Analytics does collect Personally Identifiable Information such as IP addresses in order to provide analytics on the location (city, region or country) of our websites visitors.
+To our knowledge, this information is not shared by Google with third-parties.
+Social Media (GitHub, Twitter etc.):InsanityHost uses social media platforms for the purposes of marketing and to interact with our audience/community.
+Personal information is not knowingly shared via these means.
+Cloudflare:We use Cloudflare (https://cloudflare.com/) in order to, but not limited to, serve SSL certificates, cache website data to reduce loading times, provide DDoS (Distributed Denial of Service attack) protection for our websites and to inject code into our website in order to add features.
+Cloudflare may collect data such as IP addresses and inspect traffic sent to our websites in order to ensure that it is not malicious in order to protect our infrastructure.
+For more information, please refer to the 'End User' section of Cloudflareâs privacy policy: https://www.cloudflare.com/privacypolicy/
+PayPal:We use PayPal (https://paypal.com) as our preferred payment gateway in order to take payments for invoices.
+PayPal may collect data including, but not limited to, your name, address, email address, IP address, and payment details.
+For more information, please refer to PayPal's privacy policy: https://www.paypal.com/webapps/mpp/ua/privacy-full
+Tawk.to:InsanityHost uses Tawk.to (https://tawk.to/) in order to provide a live chat feature on our websites.
+We use the live chat feature solely for pre-purchase questions and we do not offer support for clients via this means.
+As a result, personal data is not generally shared using this means.
+However, Tawk.to may collect information such as, but not limited to, your IP address, time spent on pages, location (city, region or country) based on IP address, browser type, referring site and the date and time of each visitor request.
+For more information, please refer to Tawk.to's privacy policy: https://www.tawk.to/privacy-policy/
+Hardware/Hosting Providers:InsanityHost utilizes the services of hardware/hosting providers in order to provide functions such as the hosting of websites and customers services.
+Data is collected and stored on these servers as described in the collection section of this document.
+If you have any questions, please contact us.
+
+InsanityHost Partners:In certain circumstances, InsanityHost may grant Partners access to clients servers and their associated information such as files, email addresses and control panel usernames in order for them to provide support for a product that their users may host on our services.
+Our staff carefully monitor what services Partners are accessing and if we believe that they have abused this in any way then we will take reasonable action to identify what has occurred and contact clients affected.
+If you have any questions regarding this, please contact us.
+ Changes
+We may update our Privacy Policy at any time without prior notification.
+Thus, we advise you to review this page periodically for any changes.
+These changes come into effect immediately, if not specified otherwise.
+ Contact
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us, either via our Discord, billing panel or contact@insanity.host.
+

@@ -1,0 +1,135 @@
+
+Lunavi provides colocation, complex hosting and other Internet-related services to its clients.
+While respecting that the Internet provides a forum for free and open discussion and dissemination of information, when competing interests arise, Lunavi reserves the right to take preventative or corrective actions.
+This Acceptable Use Policy (AUP) supplements and explains certain terms of the customerâs service agreement and is intended as a guide to the customerâs rights and obligations when utilizing Lunavi's services.
+This AUP will be revised periodically and posted on Lunaviâs web site, www.lunavi.com, provided that Customer is not bound to such changes unless it explicitly consents.
+The fact that no one party owns or controls the Internet accounts for much of the Internetâs openness and value, but also places a high premium on the judgment and responsibility of those disseminating information to others via the Internet.
+Lunavi does not review, edit, censor, or take responsibility for any information its clients create.
+Users placing information on the Internet have the same liability as other authors for copyright infringement, defamation, and other harmful speech.
+Also, information carried over Lunavi's network may reach a large number of people, including both clients and non-clients of Lunavi.
+Thus, clientsâ postings to the Internet may affect others and impact their goodwill, business reputation, and operations.
+Clients, their customers, affiliates, or subsidiaries engaging in the following prohibited activities violate Lunavi policy and the service agreement:
+
+1.1.1 UCE / Spam
+
+The abuse and misuse of e-mail is a serious problem, and Lunavi cannot and will not tolerate it.
+This policy covers all servers and domains on our network, including but not limited to Shared Hosting, Virtual Private Servers, Dedicated Servers and Colocation.
+Definition of UCE (Unsolicited Commercial E-mail), or spam:
+
+The bulk UCE, promotional material, or other forms of solicitation sent via e-mail that advertise any IP address belonging to Lunavi or any URL (domain) that is hosted by Lunavi.
+Unsolicited postings to newsgroups advertising any IP or URL hosted by Lunavi.
+The use of web pages set up on ISPs that allow spamming (also known as "ghost sites") that directly or indirectly reference customers to domains or IP addresses hosted by Lunavi.
+Advertising, transmitting, or otherwise making available any software, program, product, or service that is designed to facilitate a means to spam.
+Forging or misrepresenting message headers, whether in whole or in part, to mask the true origin of the message.
+
+For further information on mail abuse, please visit the Mail Abuse Prevention System (MAPS) web site.
+Lunavi follows and enforces the CAN-SPAM Act (Controlling the Assault of Non-Solicited Pornography and Marketing Act) of 2003.
+This Act prohibits misleading header information, misleading or deceptive subject lines, requires an opt-out method for the recipient, and commercial e-mail must include valid physical postal address of sender and be labeled as an advertisement.
+Please reference: http://www.ftc.gov/bcp/conline/pubs/buspubs/canspam.pdf for more information on the CAN-SPAM Act of 2003.
+
+Spam, mailing lists and other email restrictionsâ
+Due to the increased problems and risk to our network, Lunavi also prohibits the use of 3rd party mailing lists and FFA's.
+See our mailing list management principals for managing your own lists.
+Examples that we do not allow include but are not limited to: Safelist, Purchased/Sold mailing lists, FFA's.
+Since it is unsolicited, users who receive spam often become angry and send complaints to our upstream providers.
+This upsets our providers who abhor spam for the same reasons that Lunavi does - it causes negative consumer attitudes and drains resources.
+We strive to maintain favorable business relationships in the Web community and obviously will not allow any practice that threatens these relationships.
+
+Consequences/Penalties for Spamming
+
+Lunavi reserves the right to terminate any account that violates this policy.
+Usage of Lunavi services constitutes acceptance and understanding of this policy.
+It is the responsibility of dedicated server owners, Virtual Private Server and colocation clients to manage the email from their server/accounts and to comply with anti-spam policies.
+Lunavi reserves the right to decide what it considers "spam", "UCE", "mail bombing", or "bulk e-mail", and to determine from all of the evidence whether or not the e-mail recipients were from an "opt-in" e-mail list.
+
+1.1.2 Adult Content
+
+
+Shared Hosting Servers
+
+Because the Internet is a global communication tool, and we have clients from nearly every country in the world it is difficult to dictate what is considered "adult material." However, it is not our function to discriminate against those who choose to utilize adult content or adult-related material.
+This being said, there are still several reasons why Lunavi has been forced to create its no adult sites policy for its shared hosting server users.
+What does Lunavi consider "Adult Material"?
+
+Any site whose revenue is gained in part or whole from its adult content.
+Photos or videos showing frontal nudity on either men or women for non-scientific or non-artistic purposes.
+
+Hyperlinks to adult sites, including but not limited to sites that violate these policies.
+Sites that have discussion boards and share information that is 'adult' in nature.
+Sites that sell or promote 'adult' material, including but not limited to adult toys.
+
+Lunavi reserves the right to decide what it considers "adult content", "adult material", "sexually explicit", or "sexually related".
+Let us know if you are unsure of the approval of your site before placing an order.
+Please email sales(a)lunavi.com for review of your content and/or site.
+
+Why does Lunavi have this policy?
+
+
+Bandwidth and Resources
+
+A shared server is a shared environment where many servers reside on each particular machine.
+This being said, consider that an average "adult site" gets more hits than 100 standard web sites.
+Some of the smaller adult sites get around 5 GB of transfer per day.
+With these types of resources being utilized, our servers would be severely slowed if we allowed these high traffic sites to also reside on our servers.
+On top of that, we would be forced to raise our prices to pay for the additional bandwidth.
+We strive to keep our servers fast and inexpensive, and our bandwidth clear.
+therefore, adult sites are not an option.
+
+Banned IPs
+
+Adult sites tend to get blocked.
+Since many of our shared accounts also share IP addresses and/or the range of IPs is blocked, all other users on that server or network range are impacted.
+
+Association
+
+Many people do not want to be associated with adult content, based on personal opinions and beliefs.
+IPs are assigned to a server in ranges and IP addresses are in many cases shared IPs.
+Consequently, we want our shared servers to be 'adult content' free.
+
+Virtual Private (VPS), Dedicated and Colocation servers
+
+Because we can swap IP addresses and assign them to the owners of these accounts, we allow our dedicated and colocation customers to have adult contention their servers.
+All of our Terms of Service and Acceptable Use policies apply, including, but not limited to:âUCE / Spam: Adult sites tend to use UCE/spam as a source of marketing.
+Before considering using our services for Adult material, please review our spam policy.
+We have zero tolerance for spam.âIllegal Content: We do not allow any illegal activities on our network, including, but not limited exploitation of minors.â
+
+1.1.3 Copyright Infringement /Intellectual Property
+
+Engaging in any activity that infringes or misappropriates the intellectual property rights of others, including copyrights, trademarks, service marks, trade secrets, software piracy, and patents held by individuals, corporations, or other entities.
+Also, engaging in activity that violates privacy, publicity, or other personal rights of others.
+Lunavi may be required by law to remove or block access to customer content upon receipt of a proper notice of copyright infringement.
+Reference: Digital Millennium Copyright Act (DMCA): http://www.copyright.gov/legislation/hr2281.pdf
+DMCA Notices can be sent to:
+DCMA NoticesLunavi, Inc.340 Progress CircleCheyenne, WY 82007
+
+Email: abuse(at)lunavi.comâ
+
+1.1.4 Miscellaneous and Other Activities
+
+
+Defamatory or Abusive Language
+
+Using Lunaviâs network as a means to transmit or post defamatory, harassing, abusive, or threatening language.Any content that is discriminatory based on gender, race, age and/or promotes hate or violence is prohibited.
+
+Usenet Group postings that violate our TOS
+
+Lunavi reserves the right not to accept postings from newsgroups where we have actual knowledge that the content of the newsgroup violates the AUP.
+
+Facilitating a Violation of our TOS
+
+Advertising, transmitting, or otherwise making available any software, program, product, or service that is designed to violate this AUP, which includes the facilitation of the means to spam, initiation of pinging, flooding, mail bombing, denial of service attacks, and piracy of software.
+
+Other activities Lunavi determines to be harmful
+
+As we have pointed out, the responsibility for avoiding the harmful activities just described rests primarily with the client.
+Lunavi will not, as an ordinary practice, monitor the communications of its client to ensure that they comply with Lunavi policy or applicable law.
+Lunavi also is concerned with the privacy of on-line communications and web sites.
+In general, the Internet is neither more nor less secure than other means of communication, including mail, facsimile, and voice telephone service, all of which can be intercepted and otherwise compromised.
+As a matter of prudence, however, Lunavi urges its clients to assume that all of their on-line communications are insecure.
+Lunavi cannot take any responsibility for the security of information transmitted over Lunaviâs facilities.
+Lunavi will not intentionally monitor private electronic mail messages sent or received by its clients unless required to do so by law, governmental authority, or when public safety is at stake.
+Lunavi may, however, monitor its service electronically to determine that its facilities are operating satisfactorily.
+Also, Lunavi may disclose information, including but not limited to, information concerning a client, a transmission made using our network, or a web site, in order to comply with a court order, subpoena, summons, discovery request, warrant, statute, regulation, or governmental request.
+Lunavi assumes no obligation to inform the client that client information has been provided and in some cases may be prohibited by law from giving such notice.
+Finally, Lunavi may disclose client information or information transmitted over its network where necessary to protect Lunavi and others from harm, or where such disclosure is necessary to the proper operation of the system.
+Any complaints about a client's violation of this AUP should be sent to: abuse(at)lunavi.com.

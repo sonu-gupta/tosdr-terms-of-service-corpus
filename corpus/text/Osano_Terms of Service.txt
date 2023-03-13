@@ -1,0 +1,524 @@
+
+         Opens in a new window Opens an external website Opens an external website in a new window Close this dialog This website stores data such as cookies to enable essential site functionality, as well as marketing, personalization, and analytics.
+By remaining on this website you indicate your consent.
+Cookie Policy 
+ Close Cookie Preferences 
+ Log In 
+ Try Osano for Free 
+
+
+
+
+ Products 
+
+
+Consent Management
+Subject Rights
+Data Discovery
+Vendor Management
+Regulatory Guidance
+Assessments
+Legal Templates
+Consult Privacy Team
+GDPR Representative
+
+
+ Plans 
+ Integrations 
+ Resources 
+
+
+Articles
+Topics
+Free Privacy Audit
+Newsletter
+Our Pledge
+Product Updates
+Schedule a Demo
+System Status
+Webinars
+
+
+ What's New 
+ Search 
+ Everything Documentation News &amp.
+Blogs Website Terms of Service Last Updated: December 16, 2021 Terms of Service These Terms of Service, the Order Form, and any additional document incorporated herein are collectively referred to as the âAgreementâ and is a legally binding agreement between Osano, Inc., a Delaware Public Benefit Corporation, with offices at 3800 North Lamar Blvd, Suite 200, Austin, TX 78756 (âOsanoâ), and you (the âCustomerâ).
+Customer and Osano may each be referred to as a âPartyâ and collectively referred to as the âPartiesâ.
+This Agreement governs your access to and use of the Services.
+By accepting this Agreement, either by checking a box indicating your acceptance or by executing an order form that references this Agreement, you agree to the terms of this Agreement.
+If you are entering into this Agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such legal entity and its affiliates to these terms and conditions.
+If you do not have such authority, or if you do not agree with these terms and conditions, you must not accept this Agreement and may not use these Services.
+
+Table of Contents:
+
+
+1.
+Definitions.
+2.
+Osano Services.
+3.
+Intellectual Property.
+4.
+Fees and Payment.
+5.
+Confidential Information and Security Requirements.
+6.
+Term and Termination.
+7.
+Warranties and Warranty Disclaimer.
+8.
+Mutual Indemnification.
+9.
+Limitation of Liability.
+10.
+General.
+Future Pricing Tiers Exhibit
+ 1.
+Definitions.
+
+âAffiliateâ means a person or entity that owns is owned by or is under common control of a Party.
+âControlâ means that a person or entity owns more than 50% of the equity interest of any entity and/or has the ability to control the management of such an entity.
+
+"Availability" means the total available minutes in a given calendar month less any minutes attributable to a Scheduled Downtime.
+Availability is calculated and viewable at https://status.osano.com.
+The Osano Statement of Service Levels Agreement is viewable at https://www.osano.com/legal/sls.
+
+âAuthorized Usersâ means individuals who are authorized by Customer to use the Platform and Services with varying levels of control and access specified by Customer and who have been supplied user identifications and passwords by Customer.
+Authorized Users may include the employees, consultants, contractors, agents, or other designees of Customer and its Affiliates, but shall not include any employee or agent of any Osano competitor.
+
+âCritical Malfunctionâ means Osano administrative interfaces at my.osano.com are unreachable, or external, mission-critical endpoints (including Consent Management or Subject Rights Portal) are returning errors.
+
+âCustomer Informationâ means all information and data submitted to Osano by or on behalf of Customer in connection with the creation and management of Customerâs account for the Services.
+
+âDocumentationâ means the instruction manuals, guides, and frequently asked questions available at https://docs.osano.com.
+
+âMonitored Vendor Countâ means the total number of products monitored for privacy scores, litigation, or document monitoring by Osano on behalf of Customer.
+
+âMonthly Usersâ means the average number of unique users who access the Customerâs consent management service on a monthly basis as measured for a trailing three-month period.
+
+âPlatformâ means the Osano proprietary Software as a Service including but not limited to hosted software SDKs, libraries, APIs, and user interfaces.
+
+âOrder Formâ means a document issued by Osano and executed or otherwise agreed upon by authorized representatives of the Customer, which specifies, among other things and as applicable, a description of the Services, the Fees, and any other details specifically related to the Services.
+
+
+"Scheduled downtime" means regular Platform maintenance, upgrades, and may take place on Sunday mornings between midnight and 4 AM U.S.
+Eastern Time.
+
+âServicesâ means access to the Platform and services, via an account, that are ordered by and paid for by Customer under an Order Form and made available by Osano, including user guides, documentation, and help/training materials provided by Osano.
+
+âService Start Dateâ means, for each Order Form, the earlier of (i) the date set forth on the Order Form or (ii) the first date on which Customer is granted access to the Services purchased pursuant to the Order Form.
+
+âSoftware as a Serviceâ (âSaaSâ) means a software delivery model in which a hosted software platform is made available on a subscription basis.
+
+âUsage Dataâ means all data, information, and statistics collected by Osano related to the Customerâs consent and data activity, including, without limitation, those pertaining to the consents, traffic, and PII storage. 2.
+Osano Services.
+
+2.1 Services. During the Term (as defined herein), subject to the terms and conditions of this Agreement for such Services, and solely for Customerâs business purposes, Osano shall make the Services available to Customer in accordance with an executed Order Form.
+
+2.2.
+Updates and Functionalities. Customer acknowledges that, from time to time, Osano may apply updates to the Services and that such updates may result in changes in the appearance and/or functionality of such Platform and Services.
+Excluding the addition of wholly new products, Osano will provide, implement, configure, install, support, and maintain at its own cost any and all updates, upgrades, enhancements, improvements, releases, corrections, bug fixes, patches, and modifications to the Services (collectively, the âUpdatesâ).
+In no way is Osano required to customize its Services for Customer, and Osano does not represent or warrant that its Platform or Services will be compatible with Customerâs systems.
+
+2.3 Acceptable Use Policy.
+
+
+Customer shall:
+
+
+be responsible for Authorized Usersâ compliance with this Agreement;
+use commercially reasonable efforts to prevent unauthorized access to or use of the Platform or Services, including keeping passwords and usernames confidential and not permitting any third-party to access or use its or any of its Authorized Usersâ usernames, passwords, or Customer account for the Services;
+be solely responsible and liable for all activity knowingly conducted through its Customer account in connection with the Services;
+promptly notify Osano if Customer becomes aware of or reasonably suspects any security breach, including any loss, theft, or unauthorized disclosure or use of Customerâs (or any Authorized Userâs) username, password, or Customer account;
+use, or otherwise access in connection with Customerâs use thereof, the Services only in accordance with applicable laws and government regulations.
+and
+
+
+Customer must not:
+
+
+make the Platform or Services available to anyone other than its Authorized Users;
+sell, trade, or otherwise transfer the Platform or Services to another party;
+use the Services to store or transmit any content that may be infringing, defamatory, threatening, harmful, or otherwise tortious or unlawful, including any content that may violate intellectual property, privacy, rights of publicity, or other laws, or send spam or other unsolicited messages in violation of applicable law.
+upload to, or transmit from, the Platform or Services any data, file, software, or link that contains or redirects to a virus, Trojan horse, worm, or other harmful component;
+attempt to reverse engineer, decompile, hack, disable, interfere with, disassemble, modify, copy, translate, or disrupt the features, functionality, integrity, or performance of the Platform or Services (including any mechanism used to restrict or control the functionality of the Platform or Services), any third-party use of the Platform or Services, or any third-party data contained therein (except to the extent such restrictions are prohibited by applicable law);
+attempt to modify or cause to be hidden any Osano âpowered byâ branding without prior written consent.
+attempt to gain unauthorized access to the Platform or Services or related systems or networks or to defeat, avoid, bypass, remove, deactivate, or otherwise circumvent any software protection or monitoring mechanisms of the Platform or Services;
+access the Platform or Services in order to build a similar or competitive product or service to Platform or Services.
+or
+commit any act or do anything which might: (i) reasonably be considered immoral, deceptive, or obscene.
+(ii) injure, tarnish, damage or otherwise negatively affect the reputation and goodwill associated with Osano;
+knowingly implement Osano in a manner which is inconsistent with data privacy laws of Customer's website visitor(s) or application user(s).
+or
+authorize, assist, or encourage any third-party to do any of the above.
+
+Customer agrees that Osano may, with prior written notice to Customer, suspend or terminate access to the Platform or Services for a violation of this Section 2.3 or for any abusive practices that degrade the performance of any Service for Customer and/or other Osano customers.
+In the event of such a suspension, if Customer does not reasonably resolve issue within thirty (30) days, Osano may terminate this Agreement.
+
+2.4 Non-Exclusivity. Customer acknowledges that the rights granted to it under this Agreement and any Order Form are non-exclusive and that nothing in this Agreement or any Order Form will be interpreted or construed to prohibit or in any way restrict Osanoâs right to license, sell, or otherwise make available the Platform or Services to any third-party. 3.
+Intellectual Property.
+
+3.1 Platform and Services. As between Customer and Osano, Osano retains all right, title, and interest in and to the Platform and Services.
+Nothing herein shall be construed to restrict, impair, encumber, alter, deprive, or adversely affect the Services or any of Osanoâs rights or interests therein or any other Osano intellectual property, brands, information, content, processes, methodologies, products, goods, services, materials, or rights, tangible or intangible.
+All rights, title, and interest in and to the Services not expressly granted in this Agreement are reserved by Osano.
+
+3.2 Feedback. Customer may from time to time provide suggestions, comments, or other feedback to Osano with respect to the Services (âFeedbackâ).
+Feedback, even if designated as confidential by Customer and, notwithstanding Article 5 of this Agreement, shall not create any confidentiality obligation for Osano.
+Customer shall, and hereby does, grant to Osano a non-exclusive, worldwide, perpetual, irrevocable, transferable, royalty-free, license to use the Feedback for the purpose of improving its Platform or Services.
+
+3.3 Customer and Usage Data. Customer hereby grants Osano a limited, worldwide, non-exclusive, non-transferable (except as set forth in Section 10.1) license, with the right of sublicense, to access, use, reproduce, electronically distribute, transmit, perform, format, display, store, archive, index the Customerâs Usage Data and Customer Information for the sole purpose of providing and developing the Platform and Services to Customer and supporting Customerâs use of the Platform and Services.
+Osano may use aggregated and anonymized Usage Data for analytics, provided that such Usage Data cannot be in any way linked to Customer or any individual person or used to identify Customer or any individual person.
+Subject only to the limited license expressly granted herein, Customer and its Authorized Users shall retain all right, title and interest in and to, and all intellectual property rights in the Customer Information.
+Nothing in this Agreement will confer on Osano any right of ownership or interest in or to or the intellectual property rights in the Customer Information.
+All Customer Information will be processed by Osano according to the DPA available https://www.osano.com/legal/dpa.
+
+3.4 Privacy Policy. Customer is solely responsible for the Customer Information submitted to the Platform.
+Osano may use the Customer Information or Usage Data to provide the Services, as provided herein and in accordance with applicable data privacy laws.
+Customer is a Business and Osano is a Service Provider for purposes of the California Consumer Privacy Act.
+Osano shall not: (a) sell the Customer Information or Usage Data.
+(b) retain, use or disclose the Customer Information or Usage Data for any purpose other than for the specific purpose of performing the Services.
+(c) retain, use or disclose the Customer Information or Usage Data for a commercial purpose other than providing the Services.
+or (d) retain, use or disclose the Customer Information or Usage Data outside of the direct business relationship between Customer and Osano.
+Osano certifies that it understands these restrictions and will comply with them.
+Osano complies with the EU-U.S.
+Privacy Shield Framework and Swiss-U.S.
+Privacy Shield Framework as set forth by the U.S.
+Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.
+More details about the Privacy Shield can be found in Osano's Privacy Policy and GDPR Statement. 4.
+Fees and Payment.
+
+4.1 Fees. Customer will pay all fees as and when described in the Order Form(s) (the âFeesâ).
+
+4.2 Invoicing. Osano shall invoice Customer for the Fees in the currency set forth on the applicable Order Form.
+Unless otherwise stated on the Order Form, all undisputed invoices shall be payable on the schedule provided in the Order Form.
+Any disputed amounts shall not affect the payment of nonâdisputed amounts.
+Customer shall make payments to Osano via the entity and address set forth in the Order Form and any subsequent invoice, either via check, wire, credit card, automated clearing house (âACHâ), or other payment method made available by Osano.
+
+4.3 Auto-Renewal. Customer agrees and authorizes Osano to issue a recurring charge for Customerâs utilization of the Platform and Services absent termination consistent with Article 6.
+The total Fees paid by Customer for any renewal term shall not increase by more than five percent (5%) over the total Fees paid by Customer in the previous term for service in the same tier of usage.
+
+4.4 Re-Pricing of Fees and Fee True-Up. In the event it is determined that the Customerâs usage exceeds the quantity set forth in the Order Form, Customer agrees that Osano may adjust the Fees set forth within the Order Form and Customer shall pay any additional Fees commensurate with the actual quantities and prices identified in section Exhibit Future Pricing Tiers included on these Terms of Service.
+
+4.5 Late Payment. If any undisputed amounts invoiced hereunder as Fees or otherwise are not received by Osano by the due date, then at Osanoâs discretion, such charges may accrue late interest at the rate of 12% per year or the maximum rate permitted by law, whichever is lower, from the date such payment was due until the date paid.
+In addition, upon 30 daysâ written notice to Customer provided after the due date of any undisputed fees, Osano may suspend Customerâs access to the Services, if any, if Osano has not received the amounts invoiced hereunder at the expiration of such period as defined in the Order Form.
+
+4.6 Taxes and Withholdings. Customer is responsible for paying all taxes, assessments, charges, fees, and levies that may be levied or based upon Customerâs subscription to the Services, and any interest, fines, and penalties with respect thereto, imposed by any governmental authority.
+If Osano has the legal obligation to pay or collect Taxes for which Customer is responsible under this Section 4.6, the appropriate amount shall be invoiced to and paid by Customer, unless Customer provides Osano with a valid tax exemption certificate authorized by the appropriate taxing authority.
+
+4.7 No-Charge Trial Period. Osano may at its sole discretion offer a no-charge trial period during which Customers may use the Osano Services and Platform for a period of time as defined in the order days from the date of registration without pre-paying in advance (âNo-Charge Trial Periodâ).
+
+Customer is required to provide valid payment information In order to create an Account and access the Osano Platform and Services for the trial period. 
+Customers who participate in a No-Charge Trial Period must cancel their subscription by the end of the No-Charge Trial Period to avoid incurring charges.
+If Customer does not cancel before the No-Charge Trial Period expires, Customer authorizes Osano to bill the Customerâs payment method on file for the full cost of the plan described during the registration process.
+The subscription will automatically renew and continue, unless and until Customer cancels their subscription or Osano terminates this Agreement pursuant to Section 6.3&nbsp.
+Customer will not receive a notice from Osano that Customerâs No-Charge Trial Period is about to end or has ended. 
+Customers may cancel their subscription at any time during the No-Charge Trial Period by following the steps described in the registration process.
+Upon cancellation of Customerâs account, Customer will immediately lose all access to the Osano Services and Platform.
+ 5.
+Confidential Information and Security Requirements.
+
+5.1 Confidential Information. Each Party will use the same degree of care that it uses to protect the confidentiality of its own confidential information of a like-kind (but in no event less than reasonable care consistent with industry standards) and will not disclose or use any Confidential Information (as defined below) of the other Party for any purpose outside of the scope of this Agreement, and each Party shall limit access to Confidential Information to those of its, or its Affiliatesâ, employees, contractors, and agents who need such access for purposes consistent with this Agreement and who have signed confidentiality agreements with the receiving Party containing protections no less stringent than those herein.
+In this Agreement, âConfidential Informationâ means all information, data, and financial information relating to the business, commercial strategies, pricing, personnel, customers, products, or services of each Party.
+Confidential Information includes (i) Each partyâs proprietary system offerings, including the Platform and/or Services, along with documentation and plans related thereto.
+(ii) Passwords, authorization keys, or codes used to access or operate such system offerings.
+(iii) Any results, Usage Data, or statistics collected through the use of the system offerings.
+or (iv) Any nonpublic business information that is either marked physically or identified orally as âconfidentialâ or âproprietary.â For the avoidance of doubt, Customer Information and Usage Data will be the Confidential Information of Customer.
+Confidential Information excludes any information that
+
+was in the receiving partyâs possession before receiving it from the disclosing party;
+is provided to the receiving party by a third-party without restriction on use or disclosure and without breaching any rights of the disclosing party;
+is or becomes generally known or available to, or accessible by, the public through no act or omission of the receiving party.
+or
+was or is independently developed by the receiving party without reference to the disclosing partyâs Confidential Information.
+
+In the event that the receiving party or any representative of the receiving party becomes legally compelled (by law, rule, regulation, subpoena, or similar court process) to disclose any of the Confidential Information, the receiving party will (if permitted to do so) provide the discloser with notice of such circumstances and will limit such disclosure to the required disclosure.
+
+5.2 Security Requirements. Osano has implemented technical and organizational security measures consistent with the standards, practices, and controls cited in its then-current SOC 2 report.
+However, Osano cannot guarantee that unauthorized third-parties will never be able to defeat those measures and expressly denies any responsibility for damages, monetary or otherwise, resulting from unauthorized third-party access to Customerâs account or use, alteration, or disclosure of the Customer Information or Usage Data except in the event of Osano' gross negligence or willful misconduct.
+
+5.3 Multi-Factor Authentication. Multi-Factor Authentication is a security system that requires more than one level of authentication before accounts can be accessed.
+It was developed to add extra security steps to the login process, to keep accounts safe and verify users before they can gain access to accounts.
+Users that provide their mobile phone numbers for authentication purposes agree to receive an SMS message as part of the process.
+Carrier message and data rates may apply. 6.
+Term and Termination.
+
+6.1 Term of Agreement. This Agreement shall commence on the Service Start Date (the âEffective Dateâ) and shall continue in effect until all Order Forms have expired or this Agreement has been terminated in accordance with this Article 6 (the âTermâ).
+
+6.2 Term of Order Forms. The term of each Order Form shall start on the Service Start Date specified on the Order Form and shall continue for the term specified therein.
+Except as expressly stated otherwise in an Order Form, all Order Forms shall automatically renew for subsequent one-year renewal periods, unless a Party gives the other Party written notice of non-renewal at least 30 days prior to the end of the then-current term.
+Upon renewal, Osano reserves the right to increase the Fees for Services by providing Customer written notice thereof (which notice may be provided by email) at least 30 days prior to the end of the then-current term.
+
+6.3 Termination for Cause. Either Party may terminate this Agreement for cause (i) upon 30 days' written notice to the other Party of a material breach if such breach remains uncured at the expiration of such period.
+or (ii) immediately if the other Party becomes the subject of a petition in bankruptcy or any other proceeding relating to insolvency, receivership, liquidation, or assignment for the benefit of creditors.
+No refund shall be issued in the event of termination of Customer for cause by Osano.
+
+6.4 Termination for Convenience.
+For any Customer which initiated automatic account provisioning through the Order Form available at https://www.osano.com/plans (or any other page on this website) Osano may terminate this Agreement for convenience upon 60 daysâ written notice to the Customer.
+In the event of Osanoâs termination for convenience, Osano will issue the Customer a pro-rata refund of Fees paid for Services not rendered.
+
+6.5 Effects of Termination. Upon termination of this Agreement for any reason, all Order Forms will automatically terminate and: (i) Customer will immediately cease all use of the Services.
+(ii) Customer will have no further access to its Customer account provided by Osano, and (iii) Customer will pay Osano all unpaid Fees owing to Osano.
+If Customer terminates this Agreement in accordance with Section 6.3, Osano will refund to Customer any unearned Fees that Customer paid in advance for the Services.
+If Osano terminates this Agreement in accordance with Section 6.3, then, without limiting any other remedies that may be available, Customer will pay any unpaid Fees covering the remainder of the term of each Order Form after the date of termination.
+In no event will termination relieve Customer of its obligation to pay any amounts and Fees payable to Osano for the period prior to the date of termination and other obligations that survive termination of this Agreement.
+At such time that all unpaid Fees owing to Osano have been received by Osano, Osano shall return to Customer all Customer Information and Usage Data in a form to be agreed upon by the parties at no additional charge to Customer.
+
+6.6 Survival. Any provision of this Agreement that, either by its terms or to give effect to its meaning, must survive, and such other provisions that expressly or by their nature are intended to survive termination shall survive the expiration or termination of this Agreement.
+Without limiting the foregoing, Section 4.1 as well as Articles 3, 5, 7-10 shall survive the expiration or termination of this Agreement. 7.
+Warranties and Warranty Disclaimer.
+
+7.1 Mutual Warranties. Each Party represents and warrants that it has the power and authority to enter into this Agreement and to perform its obligations and duties under this Agreement and that doing so is not in conflict with any other agreement.
+
+7.2 Osano Warranties. Osano warrants that (i) subject to Section 2.2, the Services will materially perform in accordance with the applicable documentation and the functionality of the Services will not be materially decreased during the term of the applicable Order Form.
+and (ii) the Services do not contain any malicious code or viruses.
+For any breach of the above warranty, Customerâs exclusive remedies are those described in Section 6.3.
+(iii) the Services do not knowingly infringe the intellectual property of any third-party.
+
+7.3 Disclaimer. SOME COUNTRIES AND JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF IMPLIED TERMS IN CONTRACTS WITH CONSUMERS AND AS A RESULT, THE CONTENTS OF THIS SECTION 7.3 MAY NOT APPLY TO CUSTOMER.
+EXCEPT AS EXPRESSLY PROVIDED HEREIN, TO THE GREATEST EXTENT PERMITTED BY APPLICABLE LAW, OSANO EXPRESSLY EXCLUDES AND DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
+WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, OSANO SPECIFICALLY DISCLAIMS ALL EXPRESS OR IMPLIED WARRANTIES OF DESIGN, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUALITY, AND NON-INFRINGEMENT, THAT THE SERVICES WILL MEET CUSTOMERâS REQUIREMENTS, OR THAT THE SERVICES WILL ALWAYS BE AVAILABLE, ACCESSIBLE, UNINTERRUPTED, TIMELY, SECURE, ACCURATE, COMPLETE, OR ERROR-FREE.
+IN ADDITION, OSANO DOES NOT WARRANT ANY CONNECTION TO OR TRANSMISSION FROM THE INTERNET.
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM OSANO OR ELSEWHERE NOR ANY COURSE OF DEALING WILL CREATE ANY WARRANTY OR CONDITION NOT EXPRESSLY STATED IN THIS AGREEMENT.
+EXCEPT AS EXPRESSLY PROVIDED HEREIN, THE SERVICES ARE PROVIDED ON AN âAS ISâ AND âAS AVAILABLEâ BASIS.
+THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY PROVIDED HEREIN.
+THE SERVICES AND ANY INFORMATION PROVIDED BY OSANO ARE NOT LEGAL ADVICE AND CUSTOMER IS RESPONSIBLE FOR ITS OWN COMPLIANCE WITH APPLICABLE LAWS AND REGULATIONS.
+OSANO DISCLAIMS ANY AND ALL RESPONSIBILITY OR LIABILITY IN RELATION TO THE CONTENT MADE AVAILABLE THROUGH THE SERVICES, INCLUDING USAGE DATA, CUSTOMER INFORMATION, AND ANY CONTENT OR SERVICES PROVIDED BY THIRD-PARTIES.
+OSANO DOES NOT CONTROL OR VET CUSTOMER INFORMATION AND IS NOT RESPONSIBLE FOR WHAT CUSTOMERS POST, TRANSMIT, OR SHARE ON OR THROUGH THE SERVICES.
+OSANO EXPRESSLY DENIES ANY RESPONSIBILITY RESULTING FROM HACKING, TAMPERING, OR OTHER UNAUTHORIZED ACCESS OR USE OF THE SERVICES OR THE INFORMATION CONTAINED THEREIN AS WELL AS YOUR CUSTOMER ACCOUNT AND CUSTOMER INFORMATION. 8.
+Mutual Indemnification.
+
+8.1 Indemnification by Osano. Osano shall defend, indemnify, and hold harmless Customer its Affiliates, directors, officers, employees, and agents from and against all claims, losses, damages, penalties, liability, and costs, including reasonable attorneysâ fees, of any kind or nature that are in connection with or arising out of a third-party claim alleging that the use of the Services or Platform as permitted hereunder infringes a valid intellectual property right (a âClaimâ) and shall indemnify Customer for any damages finally awarded against, and for reasonable attorneysâ fees incurred by Customer in connection with any such Claim.
+Osano will have no liability for any Claim to the extent it arises from:
+
+a modification of the Platform or Services by or at the direction of Customer or an Authorized User;
+use of the Platform or Services in violation of this Agreement or applicable law;
+use of the Platform or Services by Customer after Osano notifies Customer to discontinue use because of an infringement or misappropriation claim;
+the customer's combination, operation, or use of the Platform or Services with any other software, program, or device not provided or specified by Osano to the extent such infringement would not have arisen but for such combination, operation, or use.
+or
+Customerâs use of the Platform or Services in a manner that is inconsistent with its intended use.
+
+If a Service has become, or in Osanoâs opinion is likely to become, the subject of any such Claim, Osano may at its option and expense:
+
+procure for Customer the right to continue using the Service as set forth hereunder;
+replace or modify the Service or certain functionalities to make it non-infringing.
+or
+if options (a) or (b) are not reasonably practicable, terminate either this Agreement or the Order Form for such Service.
+
+This Section 8.1 sets forth Osanoâs sole liability (and the Customer's sole remedy) regarding infringement or misappropriation of third-party rights.
+
+8.2 Indemnification by Customer. Subject to Osanoâs compliance with Section 8.3, Customer shall defend, indemnify, and hold harmless Osano, its Affiliates, directors, officers, employees, and agents from and against all claims, losses, damages, penalties, liability, and costs, including reasonable attorneysâ fees, of any kind or nature that are in connection with or arising out of a third-party claim (i) alleging that Customerâs use of the Services infringes or violates the intellectual property rights, privacy rights, or other rights of a third-party or violates any applicable law.
+(ii) relating to, or arising from, Customer Information, Usage Data, or Customerâs breach of Section 2.3 or Section 7.1.
+
+8.3 Indemnification Procedure. The indemnified Party shall (i) promptly give written notice of the claim to the indemnifying Party, although failure to provide prompt notice will not relieve the indemnifying Party of its obligation to indemnify unless the indemnifying Party is materially prejudiced by the delay.
+(ii) give the indemnifying Party sole control of the defense and settlement of the claim (provided that the indemnifying Party may not settle or defend any claim without the indemnified Partyâs prior written consent unless it unconditionally releases the indemnified Party of all liability).
+and (iii) provide the indemnifying Party with reasonable cooperation and assistance at the indemnifying Partyâs expense. 9.
+Limitation of Liability.
+EXCEPT AS EXPRESSLY PROVIDED HEREIN, IN NO EVENT SHALL EITHER PARTY'S AGGREGATE LIABILITY TO THE OTHER FOR ALL CLAIMS OF ANY KIND, INCLUDING ANY CLAIMS ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER BY STATUTE, CONTRACT, TORT, OR UNDER ANY OTHER THEORY OF LIABILITY, EXCEED THE FEES PAID BY CUSTOMER FOR THE SERVICES SUBJECT TO THE CLAIM DURING THE TWELVE (12) MONTH PERIOD PRIOR TO THE FIRST EVENT OR OCCURRENCE GIVING RISE TO SUCH LIABILITY.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL EITHER PARTY, ITS DIRECTORS, EMPLOYEES, AGENTS, OR LICENSORS BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING DAMAGES FOR LOSS OF PROFITS, GOODWILL USE, OR DATA OR OTHER INTANGIBLE LOSSES, THAT RESULT FROM THE USE OF, OR INABILITY TO USE, THE SERVICES OR ANY OTHER ASPECT OF THIS AGREEMENT.
+ANY CLAIMS OR DAMAGES THAT ONE PARTY MAY HAVE AGAINST THE OTHER PARTY SHALL ONLY BE ENFORCEABLE AGAINST THE PARTIES TO THIS AGREEMENT AND NOT ANY OTHER ENTITY OR ITS OFFICERS, DIRECTORS, REPRESENTATIVES OR AGENTS.
+THE FOREGOING LIMITATIONS OF LIABILITY DO NOT APPLY TO THE INDEMNITY OBLIGATIONS SET FORTH IN THIS AGREEMENT.
+THE PARTIES ACKNOWLEDGE AND AGREE THAT THE ESSENTIAL PURPOSE OF THIS SECTION 9 IS TO ALLOCATE THE RISKS UNDER THESE TERMS BETWEEN THE PARTIES AND LIMIT THEIR POTENTIAL LIABILITY GIVEN THE FEES CHARGED UNDER THIS AGREEMENT, WHICH WOULD HAVE BEEN SUBSTANTIALLY HIGHER IF OSANO WERE TO ASSUME ANY FURTHER LIABILITY OTHER THAN AS SET FORTH HEREIN.
+THE PARTIES HAVE RELIED ON THESE LIMITATIONS IN DETERMINING WHETHER TO ENTER INTO THESE TERMS.
+NOTHING IN THIS AGREEMENT IS INTENDED TO EXCLUDE OR RESTRICT OR SHALL BE CONSTRUED AS EXCLUDING OR RESTRICTING THE LIABILITY OF OSANO FOR (I) DEATH OR PERSONAL INJURY CAUSED BY THE NEGLIGENCE OF OSANO, ITS EMPLOYEES, OR ITS AGENTS.
+(II) WILLFUL MISCONDUCT, FRAUD, OR GROSS NEGLIGENCE OF OSANO OR ITS EMPLOYEES.
+OR (III) ANY LIABILITY THAT CANNOT BE LIMITED OR EXCLUDED BY APPLICABLE LAW. 10.
+General.
+
+10.1 Assignment. Neither Party may assign or otherwise transfer any of its rights or obligations hereunder, (except by merger, sale of assets, change of control, operation of law or otherwise) without the prior written consent of the other Party (not to be unreasonably withheld), and any attempted assignment without such consent will be void.
+Notwithstanding the foregoing, either Party may assign this Agreement in its entirety (including all exhibits), without the consent of the other Party, in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its shares or assets.
+In the event of such assignment, Party will notify the other Party in writing.
+
+10.2 Relationship of the Parties. No agency, partnership, joint venture, or employment relationship is created as a result of this Agreement and neither Party has any authority of any kind to bind the other in any respect.
+
+10.3 Publicity. Customer agrees that Osano may disclose that Customer is a customer of the Services in Osano advertising, press, promotion, and similar public disclosures, including at trade shows and similar events.
+In addition to the foregoing, Customer hereby grants Osano a non-exclusive license during the Term to list Customerâs name and display Customerâs logo as an Osano customer on Osanoâs website.
+
+10.4 Force Majeure. Except for payment obligations, neither Party shall be liable for any failure to perform its obligations hereunder where such failure results from any cause beyond such Partyâs reasonable control, including the elements.
+fire.
+flood.
+severe weather.
+earthquake.
+vandalism.
+accidents.
+sabotage.
+power failure.
+denial of service attacks or similar attacks.
+Internet failure.
+acts of God and the public enemy.
+acts of war.
+acts of terrorism.
+riots.
+civil or public disturbances.
+strikes lockouts or labor disruptions.
+and any laws, orders, rules, regulations, acts or restraints of any government or governmental body or authority, civil or military, including the orders and judgments of courts.
+
+10.5 Counterparts and Interpretation. This Agreement may be executed in any number of counterparts, all of which taken together shall constitute one single agreement between the Parties.
+Headings are for convenience only and are not to be considered in construing or interpreting this Agreement.
+This Agreement shall be construed and interpreted fairly, in accordance with the plain meaning of its terms, and there shall be no presumption or interference against the Party drafting this Agreement in construing or interpreting the provisions hereof.
+
+10.6 Amendment. No amendment, supplement, restatement, or termination of any provision of this Agreement shall be valid unless it is in writing and signed by each Party to this Agreement at the time of the amendment, supplement, restatement, or termination.
+
+10.7 Severability. Each provision of this Agreement is severable.
+If any provision of this Agreement is or becomes illegal, invalid, or unenforceable in any jurisdiction, the illegality, invalidity, or unenforceability of that provision will not affect the legality, validity, or enforceability of the remaining provisions of this Agreement or of that provision in any other jurisdiction.
+
+10.8 Notices. For purposes of service messages and notices about the Services, Osano may place a banner notice across the Services or website to alert Customer.
+Alternatively, notice may consist of an email from Osano to an email address associated with Customerâs account, even if Osano has other contact information.
+For communication about Customerâs account and services associated with Osano, Osano may contact Customer or its Authorized Users through its Customer account or through other means including email, mobile number, telephone, or delivery services such as the postal service.
+Customer acknowledges and agrees that Osano shall have no liability associated with or arising from Customerâs failure to maintain accurate contact or other information, including, but not limited to, Customerâs failure to receive critical information about the Services.
+Notices to Osano must be delivered by email to
+legal@osano.com
+with a duplicate copy sent via registered mail to the following address: Osano Inc., 3800 N.
+Lamar Blvd, Suite 200, Austin, Texas 78756.
+Attention: Legal.
+This contact information provided may be updated by giving notice in accordance with this Section 10.8.
+
+10.9 Waivers. No waiver of any provision of this Agreement is binding unless it is in writing and signed by all Parties to this Agreement, except that any provision that does not give rights or benefits to particular Parties may be waived in writing, signed only by those Parties who have rights under, or hold the benefit of, the provision being waived if those Parties promptly send a copy of the executed waiver to all other Parties.
+No failure to exercise and no delay in exercising, any right or remedy under this Agreement will be deemed to be a waiver of that right or remedy.
+No waiver of any breach of any provision of this Agreement will be deemed to be a waiver of any subsequent breach of that provision or of any similar provision.
+
+10.10 Governing Law, Jurisdiction and Venue. This Agreement and each of the documents contemplated by or delivered under or in connection with this Agreement are governed exclusively by, and will be enforced, construed, and interpreted exclusively in accordance with, the laws applicable in the State of Delaware.
+Each of the parties irrevocably consents to the exclusive personal jurisdiction of the federal and state courts located in Delaware, as applicable, for any matter arising out of or relating to this Agreement, except that in actions seeking to enforce any order or any judgment of such federal or state courts located in Delaware, such personal jurisdiction shall be nonexclusive.
+
+10.11 Binding Arbitration. It is the intention of the Parties to use their reasonable best efforts to informally resolve, where possible, any dispute, claim, demand or controversy arising out of the performance of this Agreement by mutual negotiation and cooperation, a period of which shall be no less than five (5) business days from first notice of any such dispute.
+In the event the Parties are unable to informally resolve any such dispute, including relating to this Agreement, the Parties agree to arbitrate any controversy, claim or dispute between them arising out of or in any way related to this Agreement and any disputes upon termination of the relationship, including claims for violation of any local, state or federal law, statute, regulation or ordinance or common law.
+The arbitration will be conducted in Travis County, Texas, by a single neutral arbitrator and in accordance with the American Arbitration Associationâs (âAAAâ) then current Commercial Arbitration Rulesâ expedited procedures for resolution.
+Notwithstanding the provision in the preceding or subsequent paragraph with respect to applicable substantive law, the arbitration conducted pursuant to the terms of this Agreement shall be governed by the Federal Arbitration Act (9 U.S.C., Secs.
+1-16).
+The arbitrator shall have the power to enter any award that could be entered by a judge of the trial court of the State of Texas, and only such power, and shall follow the law.
+In the event the arbitrator does not follow the law, the arbitrator will have exceeded the scope of his or her authority and the parties may, at their option, file a motion to vacate the award in court.
+The parties agree to abide by and perform any award rendered by the arbitrator.
+Judgment on the award may be entered in any court having jurisdiction thereof.
+The prevailing party shall be entitled to costs and attorneysâ fees.
+
+10.12 Entire Agreement. The terms of this Agreement, together with any and all Exhibits and other terms incorporated by reference constitute the entire agreement between the Parties with respect to the subject matter thereof and supersede any prior or inconsistent agreements, negotiations, representations, and promises, written or oral, with respect to the subject matter and is binding upon the Parties and their permitted successors and assigns.
+In the event of any conflict between this Agreement and the terms of an Order Form, the provisions of the Order Form shall prevail.
+The terms of this Agreement will apply to all orders submitted to Osano and shall supersede any additional terms that may be incorporated in a purchase order form or any other Customer-generated form.
+Any such Customer terms shall be null and void. Future Pricing Tiers Exhibit Monthly Average Traffic Additional Monthly Fee Business
+Business+ 40,000
+$20.00
+$0.00 50,000
+$40.00
+$0.00 60,000
+$60.00
+$259.00 70,000
+$80.00
+$279.00 80,000
+$100.00
+$299.00 90,000
+$120.00
+$319.00 100,000
+$140.00
+$339.00 125,000
+$180.00
+$379.00 150,000
+$220.00
+$419.00 175,000
+$260.00
+$459.00 200,000
+$300.00
+$499.00 225,000
+$340.00
+$539.00 250,000
+$380.00
+$579.00 300,000
+$440.00
+$639.00 350,000
+$500.00
+$699.00 400,000
+$560.00
+$759.00 450,000
+$620.00
+$819.00 500,000
+$680.00
+$879.00 600,000
+$760.00
+$959.00 700,000
+$840.00
+$1,039.00 800,000
+$920.00
+$1,119.00 900,000
+$1,000.00
+$1,199.00 1,000,000
+$1,080.00
+$1,279.00 1,100,000
+$1,160.00
+$1,359.00 1,200,000
+$1,240.00
+$1,439.00 1,300,000
+$1,320.00
+$1,519.00 1,400,000
+$1,400.00
+$1,599.00 1,500,000
+$1,480.00
+$1,679.00 1,600,000
+$1,560.00
+$1,759.00 1,700,000
+$1,640.00
+$1,839.00 1,800,000
+$1,720.00
+$1,919.00 1,900,000
+$1,800.00
+$1,999.00 2,000,000
+$1,880.00
+$2,079.00 2,100,000
+$1,960.00
+$2,159.00 2,200,000
+$2,040.00
+$2,239.00 2,300,000
+$2,120.00
+$2,319.00 2,400,000
+$2,200.00
+$2,399.00 2,500,000
+$2,280.00
+$2,479.00 3800 N Lamar Blvd Ste 200 Austin, TX 78756  +1 (512) 842-6730 
+ Log In Products 
+ Consent Management 
+ Subject Rights 
+ Data Discovery 
+ Vendor Management 
+ Regulatory Guidance 
+ Assessments 
+ Legal Templates 
+ Consult Privacy Team 
+ GDPR Representative 
+ Company 
+ About Us 
+ Careers 
+ Contact 
+ Data Licensing 
+ How We Work 
+ Our Pledge 
+ Press &amp.
+Media 
+ Partners &amp.
+Resellers 
+ Swag Store 
+ Resources 
+ Articles 
+ Documentation 
+ FAQs 
+ Free Privacy Audit 
+ Newsletter 
+ Open Source 
+ Plans &amp.
+Pricing 
+ Product Updates 
+ Schedule a Demo 
+ Site Search 
+ System Status 
+ Webinars 
+ Legal 
+ Cookies 
+ Do Not Sell 
+ DPA 
+ GDPR 
+ Privacy 
+ Terms 
+ Copyright Â© 2018 - 2022 Â· Osano, Inc., a Public Benefit Corporation Â· Osano is a registered trademark of Osano, Inc.
+a Public Benefit Corporation Â· Nothing on the Osano website, platform, or services, nor any portion thereof constitutes actual legal or regulatory advice, opinion, or recommendation by Osano, Inc.
+a Public Benefit Corporation, Osano International Compliance Services LTD, or Osano UK Compliance LTD.
+If legal assistance is required, users should seek the services of an attorney. What's New at Osano Close October 24, 2022 Introducing Osano Privacy Legal Templates Now, with Osano Privacy Legal Templates you can get started faster by leveraging templates generated by our global team of privacy experts. Learn more September 1, 2022 Introducing DSAR email intake Capture data subject rights requests with the convenience of email and the efficiency of a dedicated intake form. Learn more July 19, 2022 New reworked DSAR and discovery We've reworked and redesigned Osano Subject Rights Management and Data Discovery, unifying them into a single, seamless experience and creating automation to save you time. Learn more June 22, 2022 Stay GDPR compliant under new French ruling Privacy regulators at the CNIL in France recently declared that Google Analytics violates GDPR.
+Osanoâs new block list feature can disable Google Analytics in France to keep you compliant while allowing you to use Google Analytics in regions where it is still legal. LEARN MORE June 8, 2022 New in May 2022: DSAR conditional fields, 28 new integrations, and more! Customize DSAR forms with conditional fields, serve consent banners in additional languages, use 28 new integrations for Data Discovery, and more! Check out our latest product announcement blog for demos, links, and more information. LEARN WHATâS NEW IN MAY View more product updates Osano product &amp.
+engineering teams have been hard at work.
+View the full list of all product updates. View Product Updates 
+      

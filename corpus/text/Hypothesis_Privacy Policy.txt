@@ -1,0 +1,249 @@
+
+
+This privacy policy covers use of Hypothesis on the open web.
+For use of Hypothesis in a learning management system (LMS), see our companion privacy policy.
+
+This privacy policy informs you of our policies regarding the collection, use, and disclosure of personal information of users of our website and/or services. We pride ourselves in ensuring that we collect, use, process and erase any personal information in accordance with current applicable laws in the United States of America (USA) and the General Data Privacy Regulation (GDPR). Weâve written a short blog post about our GDPR compliance.
+If you have requests or questions concerning your personal information, please contact us at support@hypothes.is
+Hypothesis offers annotation services, which you can use by signing up for an account where you will be asked to acknowledge and agree to our privacy policy.
+Some parts of those services are also available for anyone to view without an account, such as public annotations.
+We also publish an organizational website which in turn includes our annotation services so people can annotate our website.
+We do not ask visitors to opt in just to access our organizational website because we have taken specific steps not to collect any personal information on the website using cookies or other means.
+The only cookies we use are de-identified, helping us understand how the website is used in general and to make it faster and easier to use.
+The website does enable you to opt in separately to do things like file support requests, receive emails, and/or follow our social media accounts, each of which may collect personal information from you to fulfill your request and are outlined below.
+Because our annotation services are embedded in our website, and because annotations can in turn embed other media, you may encounter annotations made by visitors that include media or links to other websites that set cookies that collect personal information.
+You can adjust your browser to block such cookies before viewing annotations on our website.
+
+Collecting Your Personal Information
+Using Your Personal Information
+Sharing Information with Third Parties
+Securing Your Personal Information
+Your Rights
+E-mail Communications &amp.
+How to Opt-Out
+Additional Information or Assistance
+Modifications and Changes to the Privacy Policy
+
+Collecting Your Personal Information
+We collect both personally-identifiable information, or personal information, and non-personally-identifiable information from you.
+Often, you choose what information to provide to us, but sometimes, we may require certain information for you to use and for us to provide our services.
+Specifically, we collect the following:
+Information You Voluntarily Provide
+
+Account Creation &amp.
+User Profile: When you sign up and use our services, you will voluntarily provide us with the following information: username, email, and profile information.
+
+Annotating Using Sidebar: When you are using our Hypothesis Sidebar you are actively visiting websites on the internet, highlighting content of interest and annotating (i.e.
+providing your opinion or remarks as related to content youâve found).
+These annotations are associated to your account.
+
+Creating Groups: When you are using our services, you are permitted to annotate using a public group (viewable by anyone using the services), or annotate in private groups (viewable by members of the private group), or annotate in âonly meâ privacy settings (viewable to only you).
+By giving us this information, you agree to it being collected, used, disclosed, transferred to the USA and stored by us.
+Automatically Collected Information
+Information about your computer hardware and software may be automatically collected by our services.
+This information can include: your IP address, location information, operating system, browser type, domain names, access times and referring website addresses.
+This information is collected in a log file and retained for a limited time and is used for the operation of the services, to maintain quality of the services, and to provide general statistics regarding use of the services and website.
+Use of Cookies
+The website and services may use âcookiesâ to help personalize your online experience.
+The primary purpose of a cookie is to tell the web server that you have previously visited a specific page.
+For example, if you personalize login to our services, a cookie tracks your session to various parts of the site.
+You have the ability to accept or decline cookies.
+Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.
+If you choose to decline cookies, you may not be able to fully experience the interactive features of our website and services.
+Using Your Personal Information
+We may use your personally identifiable information to process user requests.
+to provide and improve services administration.
+to personalize your user experience.
+to contact users via email.
+to respond to inquiries, and/or other requests or questions.
+to send company news, updates, and other related info via our mailing list.
+to facilitate registration for and use of our services.
+and to provide technical support.
+Hypothesis gives you the choice of providing, editing or removing certain information.
+You may update your Hypothesis account information through your account settings.
+You can also request the deletion of the personal information in your account by contacting us at support@hypothes.is.
+Sharing Information with Third Parties
+Hypothesis shares information with the following third parties:
+
+API Access Users
+
+
+Authenticated: These are API users that have been provided developer access keys to access the services.
+We may give developer access keys to partners, individuals, or organizations who plan to use our API for statistical analysis or research purposes.
+Authenticated users can only retrieve annotations they have permission to view.
+
+Unauthenticated: These are API users that have access to the services without developer access keys.
+Anyone can use the API without an access key.
+Unauthenticated users can only retrieve public annotations.
+
+
+Chrome Extension Permissions
+
+The Hypothesis extension for the Chrome web browser will ask users to grant certain permissions at the time of installation.
+See more detailed information about how we use these permissions in our blog post.
+
+
+Cloud Hosting and Infrastructure Service Providers
+
+We use Amazon Web Services (AWS) as our cloud hosting service provider located in Northern California.
+CloudAMQP provides some cloud infrastructure for us.
+We use Pantheon to host our website.
+
+
+Cybersecurity Tracking Service Providers
+
+We use a cybersecurity tracking service provider to monitor for cybersecurity attacks on our system.
+
+
+Educational Institutions
+
+By prior arrangement, schools or school districts in the USA may arrange, with specific terms and time allowances, to request access to all user information generated by user accounts made from school email addresses.
+Schools or districts may need to get explicit consent from students over the age of 18.
+
+
+Email Service Providers
+
+We use email delivery service providers to send emails to users about their accounts and activity, and to users who have agreed to receive news and updates about our services and annotation in general.
+At least one of these services uses tracking pixels to give us insight into the technology used by our users and to provide aggregate statistics on open and click rates.
+
+
+Embedded Videos
+
+Our services and website provide the ability to embed media hosted by third parties.
+Some of these may set cookies on web pages with embedded media and may set 3rd-party cookies by default.
+
+
+Performance Monitoring Service Providers
+
+We may share information with one or more performance monitoring service providers for digital performance monitoring management purposes, so that we can monitor and address any issues with the performance of the services.
+
+
+Platform Data Analytics Service Providers
+
+We use analytics providers to gather analytics related data reporting capabilities to monitor visitors and usage.
+
+
+Platform Error Tracking Service Providers
+
+We may share information with one or more platform error tracking service providers to improve the quality and reliability of the services.
+User IP address information and usernames may be sent to these parties for diagnostic purposes.
+
+
+Support Tickets
+
+Hypothesis uses a hosted solution for support ticket management.
+Upon creating a support ticket, we require that users provide an email address so we can contact them regarding their ticket.
+At any time, you can request for your support tickets to be anonymized or deleted by emailing support@hypothes.is.
+
+
+
+Hypothesis doesnât share user information with advertisers, affiliates or partners.
+However, we do provide API access to our systems to third parties, as described above (Authenticated and Unauthenticated users) who access user information such as annotations (along with username of annotator, URL of annotation source, and text body of annotation) for which they have specific permissions to access.
+We do not monetize our user traffic in any way.
+Automated Processing of Personal Information
+Hypothesis does not engage in any automated processing (i.e.
+profiling) of user information at this time.
+Users should be aware that third parties with access to our services using our APIs may engage in automated processing of user information.
+Securing Your Personal Information
+Hypothesis secures your personal information from unauthorized access, use, or disclosure using the following methods:
+When personal information is transmitted to other websites, it is protected through the use of encryption, such as the Transport Layer Security (TLS) protocol.
+User passwords are salted and hashed using the industry standard âbcryptâ algorithm.
+No Hypothesis staff member has access to user passwords.
+Hypothesis staff have access to user email addresses only for support purposes.
+We retain user IP address information and request information for a strictly limited period for diagnostic purposes only.
+We also collect some information in aggregate about your activities within our application from the client.
+This de-identified information is used for internal metrics and operational support, but we do not track your individual activity.
+Breach of Privacy
+In case of a breach of private information, we will notify affected users via the email address associated with their account within 72 hours of uncovering the breach.
+International Transfer of Your Personal Information
+Hypothesis operates globally so it is necessary to transfer your information internationally.
+In particular, your information will likely be transferred to and processed via servers located in the USA.
+The USA, European Economic Area (âEEAâ) Member States, and other countries all have different laws.
+When your information is moved from your home country to another country, the laws and rules that protect your personal information in the country to which your information is transferred may be different from those in the country in which you live.
+For example, the circumstances in which law enforcement can access personal information may vary from country to country.
+In particular, if your information is in the USA, it may be accessed by government authorities in accordance with laws in the USA.
+To the extent that Hypothesis is deemed to transfer personal information outside of the EEA, we rely separately, alternatively, and independently on the following legal bases to transfer your information:
+
+Privacy Shield.
+Hypothesis does not participate in Privacy Shield at this time.
+However, Hypothesis may rely on the EU-USA Privacy Shield to transfer personal information to some of our third-party service providers in the United States of America, where they are certified to receive such information under the Privacy Shield Program.
+
+Necessary for the performance of the contract.
+Hypothesis provides voluntary services.
+you can choose whether or not you want to use our services.
+However, if you want to use our services, you need to agree to our Terms of Service which set out the contract between Hypothesis and its users.
+As we operate in countries worldwide (including in the USA) and may use technical infrastructure in the USA to deliver our services to you, in accordance with the contract between us, we need to transfer your personal information to the USA and to other jurisdictions as necessary to provide our services.
+Retention
+Hypothesis will keep information provided by users and third-party service providers for no longer than is necessary for operating and improving our services.
+Moreover, Hypothesis will respect of rights of individual users who request that their information be removed, updated, etc.
+Hypothesis will retain your information for as long as your account is active (i.e.
+for the lifetime of your Hypothesis account), as described in this policy, or as needed to provide our services to you.
+If you no longer want Hypothesis to use your information to provide our services to you, you may close your account.
+Hypothesis will retain and use your information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your information to comply with applicable tax/revenue laws), resolve disputes, enforce our agreements, and as otherwise described in this policy.
+We also retain log files for internal analysis purposes.
+These log files are generally retained for a brief period of time, except in cases where they are used for site safety and security, to improve site functionality, or when we are legally obligated to retain them for longer time periods.
+Your Rights
+Right to Access User Information
+Users have a right to access their User Information (email, username, number of annotations, group membership, annotations, etc) at any time either through their user settings or by logging into the services.
+Right to Update User Information
+Users have a right to update their User Information (email, username, number of annotations, group membership, etc) at any time either through their user settings (i.e.
+https://hypothes.is/users/[username])) or by contacting Hypothesis at support@hypothes.is and submitting an email request to have their user Information updated.
+Hypothesis may request identifying information to confirm the identity of the party requesting an update.
+Update or Delete Annotations
+Users have a right to update or delete their public, private, and group annotations.
+Any update or delete request of public annotations will take affect going forward in our systems, but any prior publication of the âun-editedâ public or group annotation captured by third parties with API access (authenticated or unauthenticated) to our systems may still retain the original, unchanged public or group annotation which they may have retrieved prior to the update or delete request.
+Ability to Update Privacy Settings Associated with Annotations
+Hypothesis annotations have one of three privacy settings: fully public, public within an annotation group, and fully private (visible only to its author).
+Annotators can change the visibility (privacy settings) of any of their annotations in the following ways:
+
+
+Private annotations can be made more public.
+Depending on their context, they can either be made visible publicly or only to members of an annotation group.
+
+Public annotations and annotations shared with groups can be made private, thereafter visible only to their authors, but others may have seen such annotations and/or captured them via the API while they were more widely available.
+
+Right to Erasure
+Users have a right to delete their user Information (email, username, active status, number of annotations, group membership, etc) at any time by contacting Hypothesis at support@hypothes.is and submitting an email request to have their user Information deleted.
+Hypothesis may request identifying information to confirm the identity of the party requesting an update.
+Please note that any annotations captured by our services prior to request for deletion by a user would have been accessible to API users, and we do not have a mechanism to force those API users to remove that information, but we will respect the request of the user and delete it from our services going forward.
+Data Portability
+Users have the right to receive a copy of the information maintained about them, which they have provided to our services, in a standard format and have the right to transmit the information to another business entity without hindrance from us.
+Users can email support@hypothes.is to request a copy of their information.
+Right to Restriction of Processing
+Users have the right to restrict processing of their personal information.
+We will assist users in updating the information maintained about them or assisting them with their subject access requests in a timely manner in order to remedy concerns users have about their personal information.
+Right to Object
+Our services do not justify data processing on the basis of legitimate interest.
+Therefore, this right does not apply to our services.
+Right to Not Be Subject to Automated Decision Making
+Our services do not provide decisions based solely on automated processing that produces legal effects concerning the user.
+Therefore, this right does not apply to our services.
+Withdrawing Consent
+Where you have provided your consent, you have the right to withdraw your consent to our processing of your information and your use of our services.
+For example, you can withdraw your consent to email communications by using the unsubscribe links in such emails.
+You can choose to withdraw your consent to our processing of your information and your use of our services at any time by closing your account and then emailing support@hypothes.is to request that your personal information be deleted, except for information that we are required to retain.
+This deletion is permanent and your account cannot be reinstated.
+E-mail Communications &amp.
+How to Opt-Out
+From time to time, we may contact you via email for the purpose of providing news, announcements, alerts, confirmations, surveys, and/or other general communication.
+In order to improve our services, we may receive notifications when you open, forward, or click on links in emails from us.
+Please note that email communications from us about our services or annotation beyond the administration of your account are opt-in.
+If you would like to stop receiving such email communications, you may opt out using the âunsubscribeâ link provided in every email or by contacting us at support@hypothes.is.
+Opt-in organizational emails from us may contain tracking facilities within the actual email.
+Subscriber activity is tracked and stored in a database for future analysis and evaluation.
+Such tracked activity may include but shall not be limited to: the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity.
+This information is used to refine future email campaigns and supply the users with more relevant content based on their activity.
+You may also control the receipt of certain types of communications from us.
+We may send you messages about our services or your activity.
+Some of these messages are required, services-related messages for users (such as transactional messages, email confirmation, replies to annotations, or legal notices).
+Other messages are not required, such as newsletters and announcements.
+You can control which optional messages you choose to receive via the unsubscribe links in our emails.
+If you no longer wish to use our services or receive services-related messages (except for legally required notices), then you may close your account by contacting us at support@hypothes.is.
+Additional Information or Assistance
+We encourage you to reach out to us at support@hypothes.is to resolve any issues or concerns that you may have with this privacy policy or the ways we manage your information.
+In the event that you feel that we have not resolved your issue via email or support ticket communications, you have the right to file a complaint with your local supervisory authority or regulatory agency.
+Modifications and Changes to the Privacy Policy
+We may modify, add to, suspend, or delete this privacy policy, in whole or in part, at our sole discretion at any time, with such modifications, additions or deletions being effective on the date of publication online.
+Your access of the website and/or use of our services, after modification, addition or deletion of the privacy policy shall be deemed to constitute acceptance by you of the modification, addition or deletion.
+
+Updated: 12 September 2019

@@ -1,0 +1,89 @@
+
+         Toggle navigation cryptostorm 
+who
+privacy
+security
+benefits
+join
+connect
+contact
+
+
+sitemap
+ GDPR update
+The old privacy policy was written in 2013, which might make it seem outdated, but the fact is we haven't ever updated it because our data policies have remained the same.
+cryptostorm has no active business entities in any EU member state at the moment, but we do believe that every nation should be creating and enforcing data protection legislation like the GDPR.
+For that reason, we thought we'd rewrite the old privacy policy and see if we could provide more (probably too many) technical details on exactly how the whole ordering/connecting process works, what's being logged, and what to do if you don't want us to retain what little data we do have.
+
+The first step any potential customer would take is visiting this site, https://cryptostorm.is.
+This is an Apache webserver that has mostly default logging, which means the log will contain visitor IPs, user agents (browser), referrer (where you came from), the file you're requesting, and the time/date of the request.
+We have no reason to maintain historical records of our web visitors, so those logs are rotated/deleted automatically after 2 weeks.
+The reason these logs exist is because it's virtually impossible to maintain security on a web server without these access/error logs.
+If you don't want your real IP address to show up in those web logs, you can also reach this website at the .onion address stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion.
+If visiting this website on the clearnet is necessary, or not a big deal in your threat model, you can also visit this website using Tor Browser, Cryptofree, any type of proxy, or a competitor's VPN service.
+To keep your browser/user agent hidden from us, you can use any one of the many user agent changing browser addons, such as User Agent Switcher for Firefox, or User-Agent Switcher for Chrome.
+For the referrer, browser addons such as Change Referer Button for Firefox or Referer Control for Chrome is what you're looking for.
+If for whatever reason you can't wait the 2 weeks for the web logs to purge themselves, you can always email support@cryptostorm.is and ask us to remove you from the web logs early.
+
+The second step in the ordering process is selecting a payment method to use on the https://cryptostorm.is/#section5 page.
+No matter what payment method you choose, the data we retain is always the same: email, token delivered, and a transaction ID provided by the payment processor.
+For security reasons, after about 2 weeks, that data is manually encrypted and sent to an offsite backup server, leaving only the transaction ID for reasons explained below.
+The email address you provide is only used to deliver the token, and the token is retained for re-delivery in case you lose your token.
+The transaction ID is used to prevent duplicate orders from being processed twice, which is necessary because the entire ordering/delivery process is fully automated.
+In the case of Bitcoin payments through Bitpay, we also provide an option that allows you to opt-out of email delivery.
+When you choose that option, we send Bitpay a local '@cryptostorm.is' email address for the order, because Bitpay requires an email address, and since we host our email on the same server as this website, the email never leaves for the internet.
+At the moment, we can't offer the same option for PayPal orders due to limitations in the PayPal IPN, nor can we offer it for CoinPayments.net orders due to the amount of time it generally takes for most of those alternative cryptocurrencies to confirm the transaction.
+The tokens used by the automated delivery process come from a simple flat database that is manually loaded after minting the tokens on a separate server that holds the authentication database.
+Again, if for some reason you want your token/email removed from our delivery log or it's offsite/encrypted backup, just email support@cryptostorm.is and ask.
+
+The third step, once a customer has their token, is connecting to cryptostorm.
+Whenever a customer connects to any node, that node will authenticate the provided token by connecting to a separate/dedicated web server that hosts an API that accesses the actual authentication database running on the same server.
+That authentication database is a simple MySQL database that uses the following columns:
++---------------+--------------+------+-----+---------+-------+
+| Field | Type | Null | Key | Default | Extra |
++---------------+--------------+------+-----+---------+-------+
+| activated_at | varchar(20) | YES | | NULL | |
+| duration | int(11) | YES | | NULL | |
+| hash | varchar(129) | YES | | NULL | |
+| session_count | int(11) | YES | | NULL | |
++---------------+--------------+------+-----+---------+-------+
+The 'activated_at' field is NULL to begin with, then later filled with the current time/date in UNIX time format whenever the customer connects for the first time.
+This field allows tokens to expire whenever they're supposed to.
+The 'duration' field contains the token's length, or duration, in days (i.e., 31, 7, 365, etc.).
+This field is used by https://cryptostorm.nu to let customers know how many days their token has left until expiration, and it's also used to enforce simultanous connection limits.
+The 'hash' field is the sha512 hash of the plaintext token.
+Whenever tokens are minted, the hash goes into this database on the auth server, and the plaintext token goes into the delivery server's flat database.
+That keeps the authentication database from knowing the plaintext token after minting, and it keeps the nodes from ever knowing the plaintext token.
+And finally, 'session_count' is self-explanatory.
+OpenVPN on the server increases this field when a customer connects, using the script available at https://cryptostorm.is/conf/session_up.sh.txt, and it decreases this field using https://cryptostorm.is/conf/session_down.sh.txt when they disconnect.
+The OpenVPN server-side authentication is done by using the --auth-user-pass-verify script available at https://cryptostorm.is/conf/auth.sh.txt
+As you can see from the above three scripts, the only data ever sent from the nodes to the authentication server API is your token's sha512 hash, and it's always sent using HTTPS.
+
+While connected to cryptostorm, none of the log files will ever contain any data that could be used to identify a customer:
+[root@zuna ~]# ls -la /var/log/
+total 102508
+drwxr-xr-x.
+4 root root 4096 May 26 08:07 .
+drwxr-xr-x.
+21 root root 4096 Aug 11 2017 ..
+drwxr-x---.
+2 root root 4096 May 26 07:58 audit
+-rw------- 1 root root 672146 May 26 09:00 cron
+-rw-r--r--.
+1 root root 147752 May 26 08:59 lastlog
+-rw------- 1 root root 104076476 May 26 09:00 messages
+-rw------- 1 root root 54237 May 26 08:59 secure
+drwxr-xr-x 2 root root 4096 Aug 11 2017 snort
+-rw-rw-r--.
+1 root utmp 84480 May 26 08:59 wtmp The 'audit' directory contains log files used by auditd which records PAM activity that's only used by crontab and OpenSSH, neither of which are used for customer related activities.
+The 'cron' directory contains output/errors from crontab, which is useful for debugging any potential problems we might be having with our cronjobs.
+'lastlog' and 'wtmp' contain login data of the administrators who've logged in to the server at the console or using OpenSSH.
+'messages' contains kernel messages, such as grsec execv() data, which allows us to monitor the node for unauthorized command execution.
+And finally, the 'snort' directory contains a single 'alert' file that contains minimal data about positive hits against our snort IPS that we use to prevent basic forms of abuse (automated vulnerability scanning, brute force attacks, etc.).
+This 'alert' log never contains any real client IPs, only their internal VPN IP (10.x.x.x), and it's rotated/purged often.
+Historical bandwidth usage data is collected by vnstat, but this data is NOT per-session or per-instance, it's for the entire server.
+We use this data to determine whether or not a node is getting so much traffic that it needs a secondary server to balance things out.
+Again, none of the above log files ever contain any data that could be used to identify a customer.
+
+I hope this information is useful to anyone curious about how our systems work, and if you have any more questions that aren't answered here, feel free to email support@cryptostorm.is.
+

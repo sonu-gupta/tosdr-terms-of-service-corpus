@@ -1,0 +1,1123 @@
+
+        Merchant Terms of Use 
+ Merchant Terms of Use
+ Wallet Terms of Use
+ BitPay ID Terms of Use
+ Merchant Terms of Use TERMS UPDATED ON MAY 13, 2021
+ These Merchant Terms of Use (the âTermsâ) govern the use of the products, services or any other features, technologies or functionalities related to merchant payment acceptance services (the "Acceptance Services") provided by BitPay, Inc.
+(âBitPayâ, âweâ, âourâ, or âusâ) through BitPayâs website, API or through any other means to you (âMerchantâ, âyouâ or âyourâ).
+By using the Acceptance Services, you accept these Terms and agree to be bound by them, confirm that you have read, understood, and accepted all of the provisions contained herein, including, without limitation, Section 18.7, Governing Law.
+Arbitration.
+Waiver of Class Action.
+ 1.
+Our Services  BitPay is a blockchain/cryptocurrency payment processor that enables you to accept cryptocurrencies as a payment method in exchange for goods or services you sell to your customers (âShoppersâ).
+
+ BitPay is not a cryptocurrency exchange, nor does it provide cryptocurrency custody as part of the Acceptance Services.
+The Acceptance Services are only available to businesses that sell products or services and registered charitable organizations that accept donations.
+
+ By using the Acceptance Services, you authorize BitPay to act as your agent and to take any and all actions that we think are necessary or desirable to provide the Acceptance Services and to comply with applicable laws and regulations.
+Payment by a Shopper to BitPay is considered the same as payment made directly to you and limits the Shopper's outstanding obligations to the extent of the payment.
+ 2.
+Our Regulatory Compliance  BitPay is a U.S.
+legal entity and is subject to U.S.
+laws and regulations.
+This includes the Bank Secrecy Act, the economic and trade sanctions programs administered by the Office of Foreign Assets Control (OFAC) of the United States Department of the Treasury, the USA PATRIOT Act, and other anti-money laundering (AML) and anti-terrorist financing (ATF) laws.
+BitPay is also a registered Money Service Business with the Financial Crime Enforcement Network of the U.S.
+Department of the Treasury (FinCEN) and is a licensed money transmitter in the U.S.
+states where applicable law requires it to be licensed.
+As required by applicable laws and regulations, BitPay maintains a comprehensive AML/ATF/Sanctions compliance program.
+ 3.
+Representations and Warranties  You represent and warrant that: 
+
+ The individual accepting these terms on behalf of the Merchant is of the age of majority, and has all necessary power, capacity and authority to bind the Merchant hereto.
+
+ You have all necessary right, power, authority and ability to enter into and fulfill your obligations under these Terms and your use of the Acceptance Services.
+
+ Your business entity is duly organized, validly exists, is in good standing under the laws of the state and country of its formation, and is duly qualified and in good standing in each jurisdiction in which the conduct of its business requires it to so qualify.
+
+ Your use of the Acceptance Services will not contravene any applicable international, federal, state or local laws or regulations, including tax laws and regulations.
+
+ You ensure that your use of the Acceptance Services does and at all times will comply with all applicable anti-money laundering/anti-terrorist funding compliance laws and regulations, including, without limitation, all OFAC-administered sanctions programs and any other sanctions programs that may apply to you based on the jurisdiction(s) in which you operate your business and serve your customers.
+
+ Your use of the Acceptance Services will violate neither these Terms nor any other applicable terms of use.
+and 
+ All information that you have provided to us, and may from time to time provide to us, is and shall continue to be true and complete, and shall be timely updated and corrected to maintain its status as true and complete.
+
+ 4.
+Your Merchant Account (âAccountâ) 
+4.1 Account Opening and Registration
+
+ As a regulated financial services business and licensed money transmitter, we are required to collect certain information from Merchants to comply with anti-money laundering and anti-terrorist funding laws and regulations.
+Therefore, as part of establishing a BitPay Merchant Account, at a minimum you will be asked to submit business-related information such as name, mailing address, physical address, phone number, email address, information relating to the ultimate beneficial owner(s) or the individual(s) having significant control over the business such as tax identification number and government-issued identification, legal name, fictitious name (i.e.
+DBA), company website, and bank account details to be used for settlement of transactions made using the Acceptance Services.
+You may be asked to submit additional information and/or documents to enable us to verify your identity and assess business risk, such as entity formation documentation, third-party verification such as recent bank statements or letter of good standing, compliance program documentation, and information regarding your Shoppers and the nature of your expected transactions.
+
+ The information you provide at the time of opening the Account must be accurate and complete, and you must inform us within ten (10) business days of any changes to such information.
+BitPay has the right to reject your Account registration, to later close your Account, or to restrict the provision of the Acceptance Services to you if you do not provide and maintain accurate, complete and satisfactory information.
+
+
+4.2 Transaction Processing Limits
+
+ BitPay imposes daily and annual transaction processing volume limits per Account.
+If you wish to increase your limit, you will be required to apply for an upgrade from your Account dashboard and provide us with documentation necessary to qualify for that upgrade.
+Depending on the upgrade request, you may be required to provide additional information and documentation.
+Requests will not be approved until all required documentation has been reviewed and the accuracy and authenticity of the information has been confirmed.
+A description of the processing limits and the upgrade process is available in our FAQs here: https://support.bitpay.com/hc/en-us/articles/206003676-How-do-I-raise-my-approved-processing-volume-tier-limit- 
+
+4.3 Shopper Verification
+
+ Your Shoppers may be required to complete a verification process at the time of payment, depending on the amount of the transaction, as part of our AML/ATF compliance obligations.
+This process is known as creating a âBitPay IDâ.
+Help articles regarding BitPay ID are available in our FAQs here: https://support.bitpay.com/hc/en-us/articles/360037486651-How-do-I-complete-the-BitPay-ID-process- 
+
+4.4 Prohibited Use and Business
+
+
+4.4.1 Prohibited Use
+
+ In connection with your use of the Acceptance Services, and your interactions with other users and third parties, you agree you will not engage in the following Prohibited Uses.
+This list is non-exhaustive and we reserve the right to modify it at any time.
+It is within our sole discretion to determine whether an activity falls into one of these categories.
+If you are uncertain as to whether or not your use of the Acceptance Services involves a Prohibited Use or have questions about how these requirements apply to you, please contact us at https://bitpay.com/request-help/wizard.
+
+
+
+Unlawful Activity: Actions which violate, or would assist in violation of, any law, statute, ordinance, or regulation, including applicable sanctions programs including but not limited to the U.S.
+Department of Treasury's Office of Foreign Assets Control ("OFAC"), or which would involve proceeds of any unlawful activity.
+activity which would publish, distribute or disseminate any unlawful material or information.
+
+
+Abusive Activity: Actions which impose an unreasonable or disproportionately large load on our infrastructure, or detrimentally interfere with, intercept, or expropriate any system, data, or information.
+transmit or upload any material to our computer systems, networks or sites that contain viruses, trojan horses, worms, or any other harmful or deleterious programs.
+attempt to gain unauthorized access to our our computer systems, networks or sites or our other customersâ Accounts, computer systems or networks connected to us, through any other means.
+interfere with another individual's or entity's access to or use of the Acceptance Services.
+use information of another party to access or use our computer systems, networks or sites, except in the case of specific Merchants which are specifically authorized by a user to access such user's Account and information.
+transfer your Account access or rights to your Account to a third party, unless by operation of law or with the express written permission of BitPay.
+or harvest or otherwise collect information from our computer systems, networks or sites about others, including without limitation email addresses, without proper consent.
+
+
+Abusive Actions Against Others: Actions which defame, abuse, extort, harass, stalk, threaten or otherwise violate or infringe the legal rights (such as, but not limited to, rights of privacy, publicity and intellectual property) of others.
+incite, threaten, facilitate, promote, or encourage hateful or violent acts against others.
+
+
+Fraud: Actions which operate to defraud us, our users, or any other person.
+provide any false, inaccurate, or misleading information to us.
+
+
+Intellectual property infringement: Actions which operate to defraud us, our users, or any other person.
+provide any false, inaccurate, or misleading information to us.
+
+
+
+4.4.2 Prohibited Business
+
+ In addition to the Prohibited Uses, the following categories of businesses, business practices, and items for sale are prohibited from the Acceptance Services.
+Most Prohibited Business categories are imposed by the requirements of our banking providers or regulators.
+This list is non-exhaustive and we reserve the right to modify it at any time.
+It is within our sole discretion to determine whether an activity falls into a Prohibited Business category.
+If you are uncertain as to whether or not your use of the Acceptance Services involves a Prohibited Business, or have questions about how these requirements apply to you, please contact us at https://bitpay.com/request-help/wizard.
+
+
+ Drugs and drug paraphernalia (e.g., narcotics, controlled substances, and any equipment designed for making or using drugs).
+
+ Marijuana/cannabis dispensaries and related products and businesses.
+
+ Weapons, munitions, gunpowder and other explosives (including fireworks).
+
+ Toxic, flammable, and radioactive materials.
+
+ Pseudo-pharmaceuticals.
+
+ Substances designed to mimic illegal drugs.
+
+ Sexually explicit content.
+
+ Sexually-related services.
+
+ Pyramid and investment schemes, multi-level marketing schemes, and other unfair, predatory or deceptive practices.
+
+ Items used for speculation or hedging purposes (such as derivatives).
+
+ Credit and collection services.
+
+ Items that infringe or violate any intellectual property rights such as copyrights, trademarks, trade secrets, or patents, including counterfeit or unauthorized goods.
+
+ Products and services with varying legal status from state to state.
+
+ Transactions that disclose the personal information of third parties in violation of applicable law.
+and 
+ Transactions related to cloud-mining.
+
+
+
+4.5 Restricted Business
+
+ If you engage in any of the following categories of businesses, business practices, and items for sale, you will only be allowed to transact as expressly authorized by us and may be required to agree to additional conditions, make supplemental representations and warranties, complete enhanced onboarding procedures, and operate subject to restrictions.
+This list is non-exhaustive and we reserve the right to modify it at any time.
+It is within our sole discretion to determine whether an activity falls into one of these categories.
+If you are uncertain as to whether or not your use of the Acceptance Services involves a Restricted Business, or have questions about how these requirements apply to you, please contact us at https://bitpay.com/request-help/wizard.
+
+
+ Charitable organizations.
+
+ Religious/spiritual organizations.
+
+ Money Services Business as defined by FinCen of the United States Department of the Treasury.
+
+ e-Wallets.
+
+ Foreign and currency exchange services.
+
+ Sale or trade of cryptocurrencies.
+
+ Transactions associated with purchases of annuities or lottery contracts, lay-away systems, banking, offshore banking, transactions to finance, investing, investment related products.
+and 
+ Transactions involving gambling or any activity requiring an entry fee and a prize, including but not limited to casino games, sports betting, horse or greyhound racing, lottery tickets, other ventures that facilitate gambling, and sweepstakes, if you and your Shoppers are located exclusively in jurisdictions where such activities are permitted by law.
+
+
+
+4.6 Guarding Your Password
+
+ You will choose a password when registering for your Account.
+You are responsible for maintaining the confidentiality of your password and Account access credentials.
+You are fully responsible for all activities that occur with the use of your password or Account.
+Please notify us immediately of any unauthorized use of your password or Account or any other breach of security.
+You may not allow third parties or unauthorized users to use your Account.
+We will not be liable for any loss that you may incur as a result of someone else using your password or Account, either with or without your knowledge.
+
+
+4.7 Records
+
+
+4.7.1 Our Obligations
+
+ As required by applicable laws and regulations, BitPay is required to maintain records of all documentation and information related to your Account for the duration that your Account is active and after your Account is closed.
+
+
+4.7.2 Your Obligations
+
+ As required by applicable laws and regulations, you are required to maintain all records needed to fulfill orders for goods or services and provide post-sale support to your Shoppers.
+If the sale of an item requires a government registration of the sale, you are responsible for such registration.
+
+
+4.7.3 Request for Documentation and Right to Inspect Records
+
+ BitPay or its auditors, an appropriate regulator, or other relevant competent authority may request to obtain and inspect certain of your business records with reasonable advance notice or immediately if required by law, a regulator, or other relevant authority.
+If you refuse such a request, we reserve the right to suspend or terminate your Account.
+
+
+4.7.4 Information Sharing
+
+ You hereby authorize us to share information about you, your Account and Account activity with law enforcement, regulators and government agencies.
+We hereby also authorize you to share information about us and our Acceptance Services to you with law enforcement, regulators and government agencies.
+
+
+4.8 Account Suspension and Closure
+
+
+4.8.1 Your Right to Close Your Account
+
+ You may close your Account anytime.
+You will still be obligated to us for any fees incurred, if applicable, before the closure, and we will remit to you funds not yet paid to you and associated with pre-closure sales.
+If your Account balance is below our documented minimum transfer amount, you may be responsible for any applicable transaction fees that may be incurred in the funds transfer.
+Support for closing your account is available here: https://support.bitpay.com/hc/en-us/articles/204598335-How-to-close-your-merchant-account.
+
+
+4.8.2 Our Right to Decline, Suspend, or Close Your Account
+
+ We reserve the right to decline to provide our Acceptance Services to you or immediately suspend or close your Account, without notice, if we learn or reasonably suspect, in our sole discretion, that you will use or have used your Account to engage in unlawful or improper activity in violation of applicable laws or regulations, these Terms, and/or our other applicable terms of use, including but not limited to a violation of Section 4.4, Prohibited Use and Business, or Section 4.5, Restricted Business.
+We reserve the right at all times to monitor, review, retain and/or disclose any information as necessary to satisfy any applicable law, regulation, sanctions programs, legal process or governmental request.
+
+ Additionally, if your Account does not have a paid transaction for more than twelve consecutive months, we reserve the right to suspend the Account and automatically disable processing capabilities.
+You will receive information about the process to reactivate the Account.
+
+ BitPay also reserves the right to terminate accounts which receive excessive Shopper complaints (see Section 12.1, Shopper Complaints).
+
+
+4.8.3 Effect of Account Closure
+
+ If your Account is closed for any reason, you agree: (a) to continue to be bound by these Terms, (b) to immediately stop using the Acceptance Services, (c) that the license provided under these Terms shall end, (d) to remove from your website, apps and marketing materials and will discontinue using any BitPay service marks, logos or other branding, (e) that we will retain certain information and Account data stored on our servers as required under applicable laws and regulations, and (f) that we shall not be liable to you or any third party for termination of access to the Acceptance Services, closure of an Account, or retention of information or Account data.
+ 5.
+Your Use of Third-Party Services  In using the BitPay website or the Acceptance Services, you may separately be offered additional services, products or promotions by third parties.
+If you decide to use any of these third-party services, you do so at your own risk and are solely responsible for reviewing, understanding and complying with the associated terms and conditions.
+We expressly disclaim any liability for third-party services and are not responsible for the performance of third-party services or servicers.
+ 6.
+Security and Wallet Security 
+6.1 Security
+
+ We have implemented security measures designed to protect information from accidental loss and from unauthorized access, use, alteration or disclosure.
+Our security measures include risk assessments and controls for the following: application and system access, system and application development and maintenance, acceptable use, data classification, incident response, disaster recovery and business continuity, and security training.
+We cannot guarantee that unauthorized persons will never gain access to your information, and you acknowledge that you provide your information at your own risk, except as otherwise provided by applicable law.
+
+
+6.2 Digital Wallet Security
+
+ Shoppers sending cryptocurrency payments and Merchants receiving settlements in cryptocurrency need to have a digital wallet.
+A digital wallet is a piece of software enabling a user to store encrypted private keys, used to sign transactions to access funds.
+A custodial digital wallet constitutes an account where third parties serve as financial intermediaries or custodians of a userâs cryptocurrencies.
+A custodial wallet provider stores the userâs private keys and thus has control over the userâs funds.
+A non-custodial digital wallet does not constitute an account where third parties serve as financial intermediaries or custodians of a userâs cryptocurrencies.
+A non-custodial wallet provider administers only the technical platform to store a userâs private keys, but has no control over or access to the private keys, and therefore no control over or access to the userâs funds.
+
+ Shoppers and Merchants may use any cryptocurrency wallet to store their funds, including the BitPay wallet.
+BitPay does not endorse or vouch for the quality or security of any third-party wallets.
+The wallet owner is solely responsible for safekeeping passwords and private keys used to access their wallet, as well as maintaining the security protocols and updates on devices used to download and use their wallet.
+If a Shopper or Merchant chooses to use the BitPay wallet, they do so subject to the BitPay Wallet Terms of Use.
+
+ BitPay is not responsible for, and cannot assist with recovery of, a loss of cryptocurrency funds incurred by a Merchant or Shopper if a wallet is compromised, for example due to loss of or unauthorized access to private keys, accidental sharing of a backup, a bug in the userâs device or the wallet software, or a malicious attack on the wallet software.
+
+ In the event your account balance gets settled to a wallet that becomes compromised or inaccessible, or in the event a Shopperâs wallet becomes compromised or inaccessible, it is up to you to decide how to handle any inquiries or potential claims.
+BitPay does not get involved in resolving such issues.
+ 7.
+Privacy and Data Protection  Our Privacy Policy, including our California Consumer Privacy Act (âCCPAâ) terms, is available at https://bitpay.com/about/privacy, and is incorporated by reference into these Terms.
+ 8.
+Ownership and Use of Services and Intellectual Property 
+8.1 Our Ownership of the Services and BitPay Website
+
+ You agree and acknowledge that we own all right, title, and interest in the Acceptance Services, the associated software, technology tools and content, the BitPay service marks and logos, the BitPay website, the content displayed on the website, and other materials produced by BitPay (collectively, âBitPay IPâ).
+You are only permitted to use the Acceptance Services and BitPay IP to offer the Acceptance Services to your Shoppers, according to these Terms.
+We grant you a personal, limited, revocable, non-exclusive and non-transferable license to use BitPay IP.
+You shall not rent, lease, sublicense, distribute, transfer, copy, reproduce, download, display, modify or timeshare BitPay IP or any portion thereof, or use BitPay IP as a component of or a base for products or services prepared for commercial sale, sublicense, lease, access or distribution.
+You shall not prepare any derivative work based on BitPay IP, nor shall you translate, reverse engineer, decompile or disassemble BitPay IP.
+
+
+8.2 Use of BitPay Marks
+
+ While you have an active Account with BitPay, you may use those BitPay Marks that are made available to you by us through our Brand Guidelines and strictly subject to your use being consistent with the Brand Guidelines.
+Any and all goodwill arising from your use of the BitPay Marks will inure to our sole and exclusive benefit.
+We reserve the right to update the BitPay Brand Guidelines from time to time, and you are responsible for maintaining compliance with the then current version, provided that you have up to sixty days following an update to make any necessary changes.
+We will make commercially reasonable efforts to provide notice of any changes to the Brand Guidelines.
+The Brand Guidelines are available via our website at https://brand.bitpay.com.
+Without waiving any rights that may be available to us, if we determine that you are using any BitPay Marks inconsistent with the Brand Guidelines or in a manner that we reasonably determine is objectionable, we will provide you with notice and you agree to promptly discontinue the objectionable use.
+Failure to discontinue objectionable uses or repeated violations of the Brand Guidelines will be deemed a breach of this Agreement.
+ 9.
+Advertising and Marketing  With your prior written approval, we may publish your corporate name, URL, artwork, text, logo, case studies, and other publicly available information about your business ("Content") in BitPay's promotional materials, marketing channels and business directory.
+A third party may use BitPay's publicly available Content and tailor the data to create entries for directories or other channels, and the data listed on third-party directories or channels will be subject to separate third-party terms of use.
+We may also request a testimonial or quote in the form of a blog post, promotional material, press release, or interview, and/or a reference.
+You have no obligation to provide Content, a testimonial, quote or reference.
+Upon mutual agreement, you and BitPay may engage in a separate marketing campaign.
+
+ You represent and warrant to us that you have the right to provide the Content to us, and that the use, copying, modification and publication of the Content by us: (a) will not infringe, violate or misappropriate any third-party copyright, patent, trade secret or other proprietary rights, (b) will not infringe any rights of publicity or privacy, and (c) will not be defamatory or otherwise violate any law.
+ 10.
+Invoices 
+10.1 Invoice Generation and Competitive Exchange Rate Guarantee for Your Shopper
+
+ In order to accept a cryptocurrency payment, you need to create a payment request (âInvoiceâ) using the Acceptance Services, based on the amount you want to collect in your settlement currency, such as U.S.
+Dollars or Euros, or in any of the supported cryptocurrencies.
+BitPay's hosted invoice user interface must be displayed to the Shopper during checkout.
+
+ When BitPay processes payments, we use BitPayâs Best Bid (âBBBâ) rate.
+We guarantee the exchange rate for the Shopper as long as the Shopper pays within the proper time window after the invoice is created.
+Invoice timeout information is clearly displayed on each BitPay invoice.
+For more information about how BitPay calculates exchange rates and factors in market depth, please refer to bitpay.com/exchange-rates.
+
+ While we guarantee the exchange rate for the Shopper as long as the Shopper pays within such time window, you agree that you assume the volatility risk of your settlement currency.
+For example, if you ask us to collect $150.00 and the Shopper sends the cryptocurrency equivalent within the time window, we guarantee you will receive exactly $150.00, minus our fee, but we do not guarantee the future value of the U.S.
+Dollar.
+Similarly, if you elect to receive some of all of your settlement in cryptocurrency, we do not guarantee the future value of that cryptocurrency.
+
+
+10.2 Invoice Completion
+
+ An invoice is considered âcompleteâ by us if it has been fully paid by the Shopper, the corresponding transaction has reached our required number of block confirmations, and the payment has been credited to your Account ledger.
+
+ The number of confirmations required for a transaction depends on several factors, including the blockchain being used and our internal analysis of risk.
+We employ risk mitigation techniques to detect fraudulent payments, such as payments that are at risk of never receiving the required number of block confirmations.
+However, these measures do not completely eliminate the risk associated with unconfirmed payments.
+
+ You have the option to inform your Shopper earlier about the status of an invoice, e.g., if the Shopper has sent funds but the transaction has not yet been confirmed.
+A confirmed invoice means that payment has been made and the required block confirmations have occurred, such that the transaction has passed our risk validation measures, but it still needs to be credited to your Account ledger.
+For more information about how block confirmations and invoice completion works, see our FAQs here: https://support.bitpay.com/hc/en-us/articles/115004832203-How-do-bitcoin-block-confirmations-work- 
+ BitPay is not liable for settling invoices which are not considered fully paid or complete.
+In other words, if you accept a payment before it is credited by us to your Account ledger, we are not required to settle to you if we determine that the payment was fraudulent or otherwise invalid.
+
+
+10.3 Supported Cryptocurrencies on the BitPay Invoice
+
+ BitPay may add new cryptocurrencies to the BitPay Invoice.
+Additional cryptocurrencies on the invoice will be on an opt-out basis, such that they will be enabled by default unless you instruct BitPay to disable them.
+In addition, there may be circumstances that cause BitPay to decide to remove a particular cryptocurrency as a payment option.
+
+
+10.4 Payment Exceptions
+
+ In certain situations when an Invoice is underpaid or overpaid, it will result in a âpayment exceptionâ.
+Shoppers will automatically receive an email from BitPay in order to claim the underpayment or overpayment, as described below.
+BitPay incurs miner fees to refund a payment.
+If a Shopper requests a refund for a payment exception, BitPay will deduct the miner fees from the refunded amount (see Section 14, Fees, for details).
+
+
+10.4.1 Underpayments
+
+ Underpayments occur when a Shopper sends less than the full amount required to mark the Invoice as fully paid.
+Since the Invoice is not fully paid or complete, the funds do not get applied to your Account.
+BitPay will send an email to the Shopper allowing the Shopper to request a refund for the partial payment.
+
+
+10.4.2 Overpayments
+
+ Overpayments occur when an Invoice receives excess funds.
+In such cases, the Invoice passes through the state of being paid in full and is marked as an overpayment.
+Once the invoice status is set to "complete", the funds to mark the Invoice as fully paid are applied to your Account.
+However, the excess funds are not applied.
+BitPay will send an email to the Shopper allowing the Shopper to request a refund for the excess funds.
+The Shopper also has the ability to request a refund of the excess funds directly from the invoice.
+
+
+10.4.3 Orphan Payments
+
+ âOrphan paymentsâ occur when a transaction is received outside the time window referenced in Section 10.1, Invoice Generation and Competitive Exchange Rate Guarantee.
+Any payments sent to the expired invoice will show up in BitPayâs system as an orphan payment.
+Orphan payments also occur when a user sends cryptocurrency to one of our wallet addresses without a connection to an invoice.
+For more information or to resolve orphaned payments, either you or the Shopper will need to reach out to our support team (https://bitpay.com/request-help/wizard) with required information.
+
+
+10.4.4 Unsupported Payments
+
+ For an overview of currently supported cryptocurrencies, please refer to bitpay.com/exchange-rates.
+Unless explicitly mentioned in our website or in our Terms of Use, we do not support or process payments for unsupported coins, tokens, or blockchain forks, collectively known as âUnsupported Paymentsâ ("UP").
+Shoppers should not pay a BitPay Invoice with UP or send UP to a BitPay address.
+If a Shopper transmits UP, the Shopper may lose any perceived value in the UP.
+Additionally, BitPay assumes no responsibility whatsoever with respect to UP and Shoppers will not be able to recover UP from BitPay.
+
+
+10.4.5 Unclaimed Property
+
+ If a payment exception occurs, BitPay will try to locate you or the Shopper using the information shown in our records, but if BitPay is unable to contact you or the Shopper and/or has no record of you or the Shopper's use of the Acceptance Services for several years, applicable law may require BitPay to report these funds as unclaimed property to the applicable jurisdiction.
+BitPay reserves the right to deduct a dormancy fee or other administrative charges from such unclaimed funds, as permitted by applicable law.
+
+
+10.5 Delayed Settlement
+
+ If we need to conduct an investigation or resolve any pending dispute related to your Account, or if required by law, court order, or at the request of law enforcement, we may delay settlement or restrict access to settlement funds.
+In the case of a delayed settlement, we will strive to promptly inform you, unless prohibited by court order or law enforcement.
+We will not be liable to you for any damages or harm caused as a result of such delayed settlement or restricted access.
+Unless required to delay settlement by law, we are committed to not delay or restrict settlement unnecessarily, and if partial delay or restriction is possible, we will only partially delay or restrict.
+Once the reasons for delayed settlement or restricted access to settlement funds can be reasonably proven to have been resolved, BitPay will pay the full amount of such funds to you without undue delay.
+
+
+10.6 Account Information
+
+ You will have access to Account information detailing your ledger, transaction and settlement history through your Account dashboard or via BitPayâs API.
+Should you identify an error, you must notify us within thirty (30) calendar days of the ledger entry posting.
+ 11.
+Refunds 
+11.1 General Procedures
+
+ BitPay can facilitate cryptocurrency refunds to Shoppers on your behalf.
+You can decide to issue a partial refund or refund the full amount of the initial purchase.
+You can also decide whether to issue the refund denominated in the invoice currency or in the cryptocurrency used to pay the invoice.
+If you do not have enough funds in your Account to cover pending refund requests, we may require you to make a bank deposit to an account specified by us.
+Any required currency conversion during the refund process will be calculated at a spot rate determined by us, following the guidelines found here: bitpay.com/exchange-rates.
+
+
+11.2 Disclosure of Merchant Refund Policy
+
+ BitPay is not responsible for Merchant refund policies.
+We suggest Merchants provide a clear refund policy to their customers (including, if applicable, âno refunds are allowed as all sales are finalâ).
+For certain industries, a refund policy may not be applicable (e.g., where a service is provided).
+If refunds are permitted, we recommend that Merchants refund the amount of the initial purchase in the currency in which the item was priced.
+
+
+11.3 Refund of Payment Exceptions
+
+ If a payment exception is refunded within 30 days after the invoice creation date, the exact amount of cryptocurrency originally received will be returned to the Shopper.
+
+ If a payment exception is not refunded within 30 days after the invoice creation date, BitPay will lock the applicable cryptocurrency/USD exchange rate exactly 30 days after the date and time of invoice creation.
+The locked exchange rate on the 30th day will be used to determine the amount of cryptocurrency that will be refunded.
+Additionally, because of cryptocurrency price fluctuations, BitPay will only refund the cryptocurrency amount sent to BitPay or the USD value, whichever is less.
+
+ Example for BTC (same applies to other supported cryptocurrencies) if BTC price is lower after the 30th day:  Day BTC Paid BTC Price to USD BTC Refund Amount USD Value of Refund 1 1 $1,000 1 $1,000 30 1 $900 1 $900 31 1 $800 1 $800 60 1 $450 1 $450  Example for BTC (same applies to other supported cryptocurrencies) if BTC price is higher after the 30th day:  Day BTC Paid BTC Price to USD BTC Refund Amount USD Value of Refund 1 1 $500 1 $500 30 1 $1,000 1 $1,000 31 1 $2,000 0.5 $1,000 60 1 $4,000 0.25 $1,000 
+11.3.1 Refund of XRP Payment Exceptions: Requirement of InvoiceID or Tag
+
+ Because all XRP invoices share the same address, BitPay requires all Shoppers to include the invoiceID or Destination tag when sending the XRP transaction from their wallets.
+If an XRP transaction is sent to BitPay without either the invoiceID tag or the tag information and results in a payment exception, there is no guarantee that we can determine who it came from and therefore we will not be able to provide a refund.
+We recommend that you include this provision language in your own terms of use.
+ 12.
+Complaints 
+12.1 Shopper Complaints
+
+ If we receive a complaint from a Shopper, we will send it to you for resolution.
+We reserve the right to terminate Merchant accounts that receive excessive complaints (see Section 4.8.2, Our Right to Decline, Suspend, or Close Your Account).
+
+
+12.2 Merchant Complaints
+
+ Merchants that wish to register complaints regarding our Acceptance Services should contact us via: 
+
+ Website: https://bitpay.com/request-help/wizard 
+ Phone: Call us at 1-404-907-2055
+ Mail: 8000 Avalon Blvd, Suite 300, Alpharetta, GA 30009 
+
+
+12.3 SPECIAL NOTICE FOR NEW YORK RESIDENTS
+
+ Additionally, the New York State Department of Financial Services will also accept complaints from New York Residents (a defined term in the BitLicense) regarding BitPay: 
+
+ Phone: 1-800-342-3736
+ Mailing address: 1 State Street, New York, New York 10004-1511 
+ Website: https://www.dfs.ny.gov/complaint 
+ 13.
+Settlement 
+13.1 Methods of Settlement
+
+ BitPay will clear payments from your Shoppers to you over the cryptocurrency peer-to-peer payment network and credit your Account ledger, according to your settlement preferences settings.
+The debits and credits to your Account ledger are funds temporarily held by BitPay until settlement to your bank account and/or wallet can take place.
+You can receive settlement in a local currency, in any of the supported cryptocurrencies, or in a mixture of both, and we have no right to impose any cryptocurrency over local currency, as your choice in this respect supersedes any of our preferences.
+Please note that minimum settlement thresholds apply, as set forth in Section 13.7, below.
+
+ An Account ledger will be created for each currency selected for settlement pursuant to your settlement preferences.
+If you change your settlement preferences, those changes will be effective for Account ledger balances that are received after the date of the change.
+Any Account ledger balances dating from before the preference change will settle pursuant to your pre-change settlement preferences.
+
+
+13.2 Your Bank Account
+
+ You must provide us with written notice at least one (1) business day prior to closing your bank account.
+If you wish to continue to receive direct deposits, you must provide us with information for a substitute bank account.
+You are solely liable for all fees and costs associated with your bank account and for all overdrafts.
+You are also liable to us for any fees that we may incur based on your provision of inaccurate information or instructions.
+You authorize us to initiate electronic credits to your bank account at any time, as necessary to process your transactions.
+We will not be liable for any delays in receipt of funds or errors in bank account entries caused by third parties, nor will we be liable or responsible for any errors in the account or address information that you have provided to us.
+
+
+13.3 Settlements in Local Currencies
+
+ Direct deposit to a designated bank account in a fiat currency is available to Merchants located in certain countries.
+Please refer to bitpay.com/docs/settlement for a list of those countries.
+If you wish to receive direct deposits, you must provide valid bank account information and keep such information current.
+Each business day, we will send a direct deposit to your bank account to clear out your accumulated Account ledger balance, provided that (a) the settlement minimums are met, and (b) funds will be deposited in your bank account within two business days following the settlement order.
+We reserve the right to charge you applicable wire fees, except when settling in U.S.
+Dollars to a bank located in the United States or when settling in Euros to a bank within the SEPA zone.
+
+ Settlements will be initiated from a bank account held in the name of BitPay, Inc.
+or Stichting Client Funds BMSE, which is a foundation established by us to segregate client funds from operational funds.
+
+
+13.4 Settlements in Supported Cryptocurrencies.
+Disclosure of Material Risks
+
+ Any supported cryptocurrency accepted by BitPay on your behalf must be settled to a cryptocurrency wallet that you provide.
+Payments in any of the supported cryptocurrencies will be sent to your designated wallet address, generally by the end of the day following the relevant transaction (as determined in U.S.
+Eastern Standard or Daylight Time, as applicable) and provided that the settlement minimum is met.
+We are not liable for any losses incurred as a result of improperly reported or designated wallet addresses that you provide.
+
+ You assume the volatility risk of the cryptocurrencies in which settlement occurs.
+If any of the supported cryptocurrencies are the chosen settlement medium, you assume the volatility risk of the cryptocurrency value.
+
+ BitPayâs Acceptance Services do not include cryptocurrency custody.
+If you choose to be settled in cryptocurrency, and if we cannot complete such settlement with you, at the time the settlement otherwise would have occurred BitPay will freeze the value of any Account ledger balance at the then applicable US Dollar conversion rate.
+For example, if a Shopper makes a purchase from you such that you are to be settled 0.1 BTC, but we cannot complete the settlement to a wallet address that you provided, then when the settlement to your wallet would otherwise have occurred, we will freeze the value of the settlement in US Dollars at the applicable US Dollar conversion rate.
+You may subsequently be settled in cryptocurrency or fiat, but that settlement amount will be based on the frozen US Dollar value, regardless of currency value fluctuations in the intervening period.
+In this example, if at the time the settlement would otherwise have occurred to your wallet, the value of 0.1 BTC was $5,000, then that will be the value frozen for this transaction on your Account ledger.
+If you ultimately decide to receive fiat settlement of this Account ledger balance, such settlement will be for $5,000, regardless of the prevailing BTC to US Dollar exchange rate at the time of settlement.
+Similarly, if you maintain your bitcoin settlement preference and you provide a valid bitcoin wallet address, we will remit settlement at the then prevailing exchange rate based on the $5,000 value (e.g., if the exchange rate when we receive the valid wallet address is 1 BTC:$80,000, you will receive 0.0625 BTC, or if the exchange rate is 1 BTC:$25,000, you will receive 0.2 BTC).
+
+ BitPay does not own or control the underlying software protocols that govern the operation of cryptocurrencies supported on our platform.
+In general, the underlying protocols are open source and anyone can use, copy, modify, and distribute them.
+BitPay is only liable for the Account ledger balance selected in your refund reserve or payout preference (see Section 13.6, Refund Reserve).
+
+
+13.5 DISCLOSURE: Material Risks of Virtual Currency Disclosure Under 23 NYCCR 200.19
+
+ While there are material risks from accepting various forms of payment (such as cash, other fiat currencies, network card payments, other proprietary electronic payments and alternative virtual currency payments), BitPay discloses the following: 
+
+ Virtual Currency (like Bitcoin) is not legal tender, is not backed by the government, and accounts and value balances are not subject to Federal Deposit Insurance Corporation or Securities Investor Protection Corporation protections.
+
+ Legislative and regulatory changes or actions at the state, federal, or international level may adversely affect the use, transfer, exchange, and value of Virtual Currency.
+
+ Transactions in Virtual Currency may be irreversible, and, accordingly, losses due to fraudulent or accidental transactions may not be recoverable.
+
+ Some Virtual Currency transactions shall be deemed to be made when recorded on a public ledger, which is not necessarily the date or time that the Shopper initiates the transaction.
+
+ The value of Virtual Currency may be derived from the continued willingness of market participants to exchange Fiat Currency for Virtual Currency, which may result in the potential for permanent and total loss of value of a particular Virtual Currency should the market for that Virtual Currency disappear.
+
+ There is no assurance that a Person who accepts a Virtual Currency as payment today will continue to do so in the future.
+
+ The volatility and unpredictability of the price of Virtual Currency relative to Fiat Currency may result in significant loss over a short period of time.
+
+ The nature of Virtual Currency may lead to an increased risk of fraud or cyber attack.
+
+ The nature of Virtual Currency means that any technological difficulties experienced by BitPay may prevent the access or use of a Shopperâs Virtual Currency.
+and 
+ Any bond or trust account maintained by BitPay for the benefit of its Merchants may not be sufficient to cover all losses incurred by customers.
+
+
+
+13.6 Refund Reserve
+
+ With your explicit consent, we can set a refund reserve on your Account.
+The purpose of the refund reserve is to make sure there is always a buffer of funds available on your Account to cover pending refunds (e.g., when goods/services are not delivered).
+
+ If no refund reserve is set, pending refunds will be deducted from the balance on your Account, which is settled daily by us.
+If a refund reserve is set, we will only settle the pending balance sitting on top of the refund reserve amount.
+If there is no balance to be settled, we will use the funds available in your refund reserve to cover pending refund requests from your Account.
+If the refund reserve is being used, any incoming deposits to your Account would first refill the reserve up to the amount defined (incoming deposits are invoices paid by Shoppers and/or bank deposits from you to an account specified by BitPay).
+Refund reserve values are established and maintained in fiat currency only.
+
+
+13.7 Settlement Minimum
+
+ BitPay settles the accumulated balance on your Account ledger if it is above the minimum amount defined for the settlement currency selected on the Account dashboard.
+Please refer to bitpay.com/docs/settlement for information related to minimum settlement amounts and deposit frequency.
+
+ For cryptocurrency Account ledger balances below the settlement minimum, BitPay will freeze the transaction values in your Account at the U.S.
+Dollar equivalent value at the conversion rate at the time the settlement would otherwise have occurred (i.e., at the time the balance would have been settled but for the settlement minimum not being met).
+Once the cumulative Account ledger balance for a given cryptocurrency reaches the settlement minimum, as measured by the conversion rate at the applicable settlement time, BitPay will remit the cryptocurrency settlement to your applicable wallet address.
+ 14.
+Fees 
+14.1 Definitions
+
+
+BitPay Processing Fees
+ We charge a processing fee to businesses for each transaction (Invoice) successfully processed through your Account.
+These fees are deducted from your Account ledger balances (net settlements).
+
+
+Miner Fees
+ Cryptocurrency transactions typically incur miner fees.
+These fees are automatically created by cryptocurrency wallets in order to broadcast a transaction on a given blockchain network.
+These fees are paid to cryptocurrency miners (and their operators) that process transactions and maintain the respective network.
+Miner fees are variable depending on network conditions and the desired confirmation speed for the transaction.
+If a cryptocurrency network gets congested, the minimum required miner fee will be higher to ensure the transaction can be reliably processed on the network.
+Using a lower-than-average miner fee can put a transaction at risk of slow confirmation or no confirmation at all.
+
+
+BitPay Network Costs
+ BitPay network costs are specific to Bitcoin (BTC) or Bitcoin Cash (BCH) payments.
+they do not apply to the other cryptocurrencies supported on the BitPay invoice.
+When a Shopper pays a BitPay invoice using BTC or BCH, the payment goes to a BitPay address.
+We then pay network-based miner fees (like the one paid by the Shopper) to combine the different cryptocurrency amounts paid by Shoppers (called UTXO: âUnspent Transaction Outputâ), send the funds to cryptocurrency exchange platforms (âUTXO Sweepsâ), and convert them to fiat currency, which is necessary to settle businesses using the Acceptance Services.
+We require timely blockchain confirmations for UTXO Sweeps so we can quickly exchange funds and promptly pay businesses using the Acceptance Services.
+Network costs are calculated based on miner fees.
+Therefore, if miner fees rise, network costs also rise.
+
+
+14.2 Merchant Fees
+
+
+BitPay Processing Fees
+ We charge you a processing fee for each transaction (invoice) successfully processed through your Account.
+We reserve the right to change our processing fee.
+We will notify you in advance of such a change, and your continued use of the Acceptance Services after we provide notice of the fee change constitutes your acceptance of such change.
+Current pricing information is provided on the BitPay website at bitpay.com/pricing.
+
+
+Refund Fees on Successful Payments
+ If you issue a full or partial refund on a successful payment, we deduct the miner fee used to return the cryptocurrency payment to the Shopper.
+The deduction is added as a separate entry in your Account ledger after the refund is executed.
+
+
+14.3 Shopper Fees
+
+
+Miner Fees
+ The Shopper pays a miner fee in order to send funds from his/her cryptocurrency wallet to pay a BitPay invoice.
+
+
+BitPay Network Costs
+ If the estimated amount of the network cost is more than 0.01 USD, BitPay charges it as a separate fee to the Shopper.
+The Shopperâs payment of the network cost helps BitPay cover its miner fee costs.
+
+
+Refund Fees on Payment Exceptions
+ If a Shopperâs transaction ends up as a Payment Exception (see Section 10.4, Payment Exceptions), BitPay deducts the corresponding miner fee used to return the payment to the Shopper from the total refund amount.
+
+
+14.4 Fee Summary
+ BitPay Processing Fees Refund Fees (Successful payments) Miner Fees BitPay Network Cost Refund Fees (Payment Exceptions) Merchant â â Shopper â â â 15.
+Indemnification  You agree to indemnify BitPay, its affiliated and related entities, and any of its officers, directors, employees and agents from and against any claims, costs, losses, liabilities, damages, expenses and judgments of any and every kind (including, without limitation, costs, expenses, and reasonable attorneysâ fees) arising out of, relating to, or incurred in connection with any claim, complaint, action, audit, investigation, inquiry, or other proceeding instituted by a person or entity that arises or relates to any actual or alleged breach of your representations, warranties, or obligations set forth in these Terms.
+ 16.
+No Warranties  EXCEPT AS OTHERWISE SET FORTH IN THIS AGREEMENT, WE PROVIDE THE ACCEPTANCE SERVICES ON AN âAS ISâ AND âAS AVAILABLEâ BASIS, AND YOUR USE OF THE ACCEPTANCE SERVICES IS AT YOUR OWN RISK.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE PROVIDE THE ACCEPTANCE SERVICES WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED (INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT).
+WITHOUT LIMITING THE FOREGOING, WE DO NOT WARRANT THAT THE ACCEPTANCE SERVICES (AND OUR WEBSITE): WILL OPERATE ERROR-FREE OR THAT DEFECTS OR ERRORS WILL BE CORRECTED.
+WILL MEET YOUR REQUIREMENTS OR WILL BE AVAILABLE, UNINTERRUPTED OR SECURE AT ANY PARTICULAR TIME OR LOCATION.
+ARE FREE FROM VIRUSES OR OTHER HARMFUL CONTENT.
+WE DO NOT ENDORSE, WARRANT, GUARANTEE OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE OFFERED OR ADVERTISED BY A THIRD PARTY THROUGH THE ACCEPTANCE SERVICES OR THROUGH OUR WEBSITE, AND WE WILL NOT BE A PARTY TO NOR MONITOR ANY INTERACTIONS BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES.
+ 17.
+Limitation of Liability  EXCEPT AS OTHERWISE SET FORTH IN THIS AGREEMENT, IN NO EVENT WILL WE BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES OR ANY LOSS, THEFT, DISAPPEARANCE, OR DAMAGES FOR LOST PROFITS, LOST REVENUES, LOST DATA OR OTHER INTANGIBLE LOSSES THAT RESULT FROM THE USE OF, INABILITY TO USE, OR UNAVAILABILITY OF THE ACCEPTANCE SERVICES, REGARDLESS OF THE FORM OF ACTION AND WHETHER OR NOT WE KNEW THAT SUCH DAMAGE MAY HAVE BEEN INCURRED.
+
+ IN NO EVENT WILL WE BE LIABLE FOR ANY DAMAGE, LOSS OR INJURY RESULTING FROM HACKING, TAMPERING, VIRUS TRANSMISSION OR OTHER UNAUTHORIZED ACCESS OR USE OF THE ACCEPTANCE SERVICES, YOUR ACCOUNT, OR ANY INFORMATION CONTAINED THEREIN.
+
+ IN NO EVENT WILL OUR LIABILITY FOR ANY DAMAGES ARISING IN CONNECTION WITH THE ACCEPTANCE SERVICES EXCEED THE FEES EARNED BY US IN CONNECTION WITH YOUR USE OF THE ACCEPTANCE SERVICES DURING THE 6 MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE CLAIM FOR LIABILITY.
+THE FOREGOING LIMITATIONS OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION.
+ 18.
+Miscellaneous 
+18.1 Taxes
+
+ You are solely responsible for determining any and all taxes assessed, incurred, or required to be collected, paid, or withheld for any reason in connection with the use of the Acceptance Services.
+You also are solely responsible for collecting, withholding, reporting, and remitting correct taxes to the appropriate tax authorities.
+We are not obligated to nor will we determine whether taxes apply, nor calculate, collect, report, or remit any taxes to any tax authorities arising from any transaction.
+
+ If in a given calendar year using the Acceptance Services you receive (i) more than $20,000 in gross amount of payments and (ii) more than 200 payments, BitPay will report annually to the Internal Revenue Service, as required by law, your name, address, employer identification number, the total dollar amount of the payments you receive in a calendar year, and the total dollar amount of the payments you receive for each month in a calendar year.
+
+
+18.2 Assignment
+
+ You may not transfer or assign these Terms or any rights granted by these Terms.
+You agree and acknowledge that we may assign or transfer these Terms.
+
+
+18.3 Severability
+
+ Should any provision of the Terms be determined to be invalid or unenforceable under any law, regulation, or court order, such determination will not affect the validity or enforceability of any other provision of the Terms.
+
+
+18.4 Waivers
+
+ A partyâs failure to assert any right or provision in the Terms shall not constitute a waiver of such right or provision, and no waiver of any term shall be deemed a further or continuing waiver of such or other term.
+
+
+18.5 Entire Agreement
+
+ The Terms, including other of BitPayâs terms referenced herein, represents the entire understanding between you and us.
+Headings are included for convenience only and shall not be considered in interpreting the Terms.
+
+
+18.6 Notices
+
+ Any notice or other communication given to a party in connection with the Terms shall be in writing in English.
+Notices may be sent by a recognized overnight air courier and/or by email.
+The parties agree that all terms, conditions, agreements, notices, disclosures or other communications that we provide to each other electronically will be considered to be âin writingâ.
+The provisions of this clause shall not apply to the service of any proceedings or other documents in any legal action.
+BitPay may send notices to you at the email and physical address that you submit in creating your Account.
+You may update these addresses through your Account dashboard.
+Notices to BitPay may be sent to BitPay, Inc., 8000 Avalon Boulevard, Suite 300, Alpharetta, Georgia 30009, USA, Attn: General Counsel, legal@bitpay.com.
+
+18.7 Governing Law.
+Arbitration.
+Waiver of Class Action
+
+ These Terms and any dispute or claims arising out of or in connection with them or their subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the laws of the United States of America, and to the extent that no federal law applies, the laws of the State of Georgia.
+If a disagreement or dispute in any way involves the Acceptance Services or the Terms and cannot be resolved between the parties with reasonable effort, the disagreement or dispute shall be resolved exclusively by final and binding administration by the American Arbitration Association (AAA), to take place in Atlanta, Georgia, U.S.A.
+or a location agreed upon by both parties, and will be conducted before a single arbiter pursuant to the applicable Rules and Procedures established by the AAA.
+
+ You agree that, unless prohibited by law, there shall be no authority for any claims to be arbitrated on a class or representative basis, and arbitration will only decide a dispute between you and us.
+Arbitration proceedings must be initiated within one (1) year after the disagreement or dispute arises.
+If any part of this arbitration clause is later deemed invalid as a matter of law, then the remaining portions of this section shall remain in effect, except that in no case shall there be a class arbitration.
+
+
+18.8 Updates to Terms
+
+ We may make changes to these Terms from time to time, and if we do, we will notify you by revising the date at the top of the Terms and, in some cases, we may provide you with additional notice.
+You should look at the Terms regularly.
+Unless otherwise noted, the amended Terms will be effective immediately, and your continued use of our Services will confirm your acceptance of the changes.
+If you do not agree to the amended Terms, you must stop using our Services.
+
+
+18.9 Force Majeure
+
+ Neither party will be liable for delays in processing or other non-performance caused by such events as fires, telecommunications, utility, or power failures, equipment failures, labor strife, riots, war, non-performance of our vendors or suppliers, acts of God, pandemics, or other causes over which the respective party has no reasonable control.
+provided that the party has procedures reasonably suited to avoid the effects of such acts.
+
+
+18.10 Confidentiality
+
+ A partyâs âConfidential Informationâ is defined as any information of the disclosing party, which: (a) if disclosed in a tangible form is marked as âConfidentialâ or âProprietaryâ or if not so marked, should be reasonably understood by the receiving party from the context of disclosure or from the information itself, to be confidential.
+(b) if disclosed orally or visually is declared to be confidential or, if not so declared, should be reasonably understood by the receiving party from the context of disclosure or from the information itself to be confidential.
+or (c) is designated as Confidential Information in these Terms.
+Confidential Information shall include without limitation, information accessed via the BitPay API, technical specifications and processes of each party, and all Merchant data.
+Each party shall hold the other partyâs Confidential Information in confidence and shall not disclose such Confidential Information to third parties nor use the other partyâs Confidential Information for any purpose other than solely as required and necessary to perform its obligations under these Terms.
+Such restrictions shall not apply to Confidential Information that: (a) is known by the recipient prior to the date of disclosure by the disclosing party.
+(b) becomes publicly known through no act or fault of the recipient.
+(c) is received by recipient from a third party without a restriction on disclosure or use.
+or (d) is independently developed by recipient without reference to or knowledge of the Confidential Information.
+
+ Notwithstanding the foregoing, a party may share Confidential Information with an affiliate in the event that the other party requests services from such affiliate and such affiliate shall be bound by this Section.
+In the event Confidential Information is required to be disclosed by a court, government agency, regulatory requirement, or similar disclosure requirement, the party subject to such requirement shall promptly notify the disclosing party upon learning of the existence or likely existence of such requirement and shall use reasonable efforts to avoid such disclosure and, if necessary, use reasonable efforts to obtain confidential treatment or protective order covering any disclosed Confidential Information.
+The partiesâ respective obligations to maintain the confidentiality of information disclosed hereunder shall survive the expiration or termination of these Terms or until such time as such information becomes public information through no fault of the receiving party.
+
+
+18.11 Survival
+
+ The provisions of Sections 3 (Representations and Warranties), 4.8.3 (Effect of Account Closure), 6 (Security and Wallet Security), 7 (Privacy), 8 (Ownership and Use of Services and Intellectual Property), 9 (Advertising and Marketing), 10.5 (Delayed Settlement), 15 (Indemnification), 16 (No Warranties), 17 (Limitation of Liability), and 18 (Miscellaneous) shall survive the termination of these Terms.
+
+
+18.12 No Joint Venture or Agency
+
+ Nothing in this Agreement is intended to, or shall be deemed to, establish any joint venture between the Parties, and other than the limited agency established in Section 1, nothing is intended to establish either Party as an agent of the other.
+
+
+18.13 Business Days Defined
+
+ For the purposes of these Terms, a business day shall be standard business hours on any day excluding Saturday or Sunday and days generally accepted as federal holidays in the United States.
+ Wallet Terms of Use TERMS UPDATED ON JANUARY 28, 2018
+This is a binding Agreement between BitPay Inc.
+(âBitPayâ or âWeâ) and the person, persons, or entity (âYouâ or âYourâ) using the service, Software, or application (âSoftwareâ). 1.
+Rights and Obligations  BitPay provides the Software solely on the terms and conditions set forth in this Agreement and on the condition that You accept and comply with them.
+By using the Software You (a) accept this Agreement and agree that You are legally bound by its terms.
+and (b) represent and warrant that: (i) You are of legal age to enter into a binding agreement.
+and (ii) if You are a corporation, governmental organization or other legal entity, You have the right, power and authority to enter into this Agreement on behalf of the corporation, governmental organization or other legal entity and bind them to these terms.
+
+ This Software functions as a free, open source, and multi-signature digital wallet.
+The Software does not constitute an account where We or other third parties serve as financial intermediaries or custodians of Your cryptocurrencies(s).
+
+ While the Software has undergone beta testing and continues to be improved by feedback from the open-source user and developer community, We cannot guarantee there will not be bugs in the Software.
+You acknowledge that Your use of this Software is at Your own discretion and in compliance with all applicable laws.
+You are responsible for safekeeping Your passwords, private key pairs, PINs, and any other codes You use to access the Software.
+
+ IF YOU LOSE ACCESS TO YOUR WALLET OR YOUR ENCRYPTED PRIVATE KEYS AND YOU HAVE NOT SEPARATELY STORED A BACKUP OF YOUR WALLET AND CORRESPONDING PASSWORD, YOU ACKNOWLEDGE AND AGREE THAT ANY CRYPTOCURRENCY YOU HAVE ASSOCIATED WITH THAT WALLET WILL BECOME INACCESSIBLE.
+All transaction requests are irreversible.
+The authors of the Software, employees and affiliates of BitPay, copyright holders, and BitPay Inc.
+cannot retrieve Your private keys or passwords if You lose or forget them and cannot guarantee transaction confirmation as they do not have control over the network.
+ 2.
+Gift Cards  Gift Cards ("GCs") sold by BitPay Inc., an authorized and independent reseller of GCs, through the software are subject to the following terms.
+Except as required by law, GCs cannot be transferred for value or redeemed for cash.
+GCs may be used only for purchases of eligible goods or services at the merchant's website, physical location, or certain of its affiliated websites.
+For complete terms and conditions, please read the merchant's gift card terms and conditions.
+GCs trademarks and copyrights belong to the merchant owners or its affiliates.
+ALL SALES ARE FINAL, AND NO REFUNDS WILL BE PROVIDED FOR ANY GC.
+Please contact the GC merchant directly.
+ 3.
+Disclaimer  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OF THE SOFTWARE, EMPLOYEES AND AFFILIATES OF BITPAY, COPYRIGHT HOLDERS, OR BITPAY INC.
+BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ IN NO EVENT WILL BITPAY OR ITS AFFILIATES, OR ANY OF ITS OR THEIR RESPECTIVE SERVICE PROVIDERS, BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY USE, INTERRUPTION, DELAY OR INABILITY TO USE THE SOFTWARE, LOST REVENUES OR PROFITS, DELAYS, INTERRUPTION OR LOSS OF SERVICES, BUSINESS OR GOODWILL, LOSS OR CORRUPTION OF DATA, LOSS RESULTING FROM SYSTEM OR SYSTEM SERVICE FAILURE, MALFUNCTION OR SHUTDOWN, FAILURE TO ACCURATELY TRANSFER, READ OR TRANSMIT INFORMATION, FAILURE TO UPDATE OR PROVIDE CORRECT INFORMATION, SYSTEM INCOMPATIBILITY OR PROVISION OF INCORRECT COMPATIBILITY INFORMATION OR BREACHES IN SYSTEM SECURITY, OR FOR ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL OR PUNITIVE DAMAGES, WHETHER ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, REGARDLESS OF WHETHER SUCH DAMAGES WERE FORESEEABLE AND WHETHER OR NOT WE WERE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+ 4.
+Intellectual Property  We retain all right, title, and interest in and to the Content and all of BitPayâs brands, logos, and trademarks, including, but not limited to, BitPay Inc., BitPay, BitPay â Secure Bitcoin Wallet, BitPay Wallet, BitPay App, Copay, BitPay Prepaid Card, and variations of the wording of the aforementioned brands, logos, and trademarks.
+ 5.
+Choice of Law  This Agreement, and its application and interpretation, shall be governed exclusively by the laws of the State of Georgia, without regard to its conflict of law rules.
+You consent to the exclusive jurisdiction of the federal and state courts located in or near Atlanta, Georgia for any dispute arising under this Agreement.
+ 6.
+Severability  In the event any court shall declare any section or sections of this Agreement invalid or void, such declaration shall not invalidate the entire Agreement and all other paragraphs of the Agreement shall remain in full force and effect.
+ 7.
+Binding Agreement  The terms and provisions of this Agreement are binding upon Your heirs, successors, assigns, and other representatives.
+This Agreement may be executed in counterparts, each of which shall be considered to be an original, but both of which constitute the same Agreement.
+
+ You assume any and all risks associated with the use of the Software.
+We reserve the right to modify this Agreement from time to time.
+ BitPay ID Terms of Use EFFECTIVE DATE: JULY 01, 2019
+ These BitPayID Terms of Use (âTermsâ) govern your use of our âBitPayIDâ site(s) (the âSiteâ) and related products, services and applications, including any content or information provided as part of the Site or such related products, services or applications (collectively with the Site, the âServicesâ), which are owned or operated by BitPay Inc.
+(âBitPayâ, âweâ, âourâ or âusâ).
+For clarity, these Terms do not govern BitPay merchant activity or BitPayâs wallet or gift card services, all of which are governed by separate terms.
+
+ Our Privacy Policy, available at https://bitpay.com/about/privacy, is incorporated by reference into these Terms.
+Please read these Terms and the Privacy Policy carefully before you access the Services, as these Terms form a binding legal agreement between you and BitPay.
+
+ These Terms may apply to you individually, the business or other legal entity user you represent, or both.
+If you are using the Services on behalf of a company or other legal entity, you hereby represent and warrant that you have the authority to enter into these Terms on behalf of such entity.
+BitPay provides the Services solely on the terms and conditions set forth in these Terms and on the condition that you accept and comply with them.
+By accessing, using or registering for the Services, you (a) accept these Terms and agree that you are legally bound by its terms.
+and (b) represent and warrant that: (i) you are of legal age to enter into a binding agreement.
+and (ii) if you are entering into these Terms on behalf of a corporation, governmental organization or other legal entity, You have the right, power and authority to enter into these Terms on behalf of the corporation, governmental organization or other legal entity and bind them to these terms.
+
+ IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THE SERVICES.
+YOUR USE OF OUR SERVICES REQUIRES YOUR ACCEPTANCE OF THESE TERMS AS THEY MAY BE AMENDED FROM TIME TO TIME, INCLUDING THE POLICIES INCORPORATED BY REFERENCE HEREIN, WHICH INCLUDES THE BITPAY PRIVACY POLICY.
+ 1.
+Overview of Services.
+Changes 
+1.1 Overview of Services
+
+ BitPayID provides access to a personal BitPay dashboard, allowing users to access their transaction history and navigate other BitPay products and services, together with other services that may be provided in connection with, or as part of, BitPayID from time to time.
+
+
+1.2 Changes
+
+ We may update or change these Terms from time to time by posting the amended Terms on the Site.
+Such updates or changes shall be effective at the time of posting.
+If you continue to use the Services after we provide notice of such changes, your continued use constitutes an acceptance of the amended Terms and an agreement to be bound by them.
+
+ If you do not agree to the amended Terms, you must close your account and discontinue your use of the Services.
+ 2.
+Your Eligibility.
+Your Responsibility  To be eligible to use the Services, you represent and warrant that you: (i) are at least 18 years of age, or otherwise over the age of majority in the jurisdiction in which you reside.
+(ii) are not currently restricted from the Services and are not otherwise prohibited from having an account related thereto.
+(iii) will only maintain one account at any given time.
+(iv) will only provide accurate information to BitPay.
+(v) have full power and authority to enter into these Terms and doing so will not violate any other agreement to which you are a party.
+and (vi) will not violate any rights of BitPay or a third party.
+
+ You assume all responsibility for your use of, and access to, the Services.
+Accounts are for a single user, company or other legal entity, as applicable.
+Any multiple-party use, other than individual use on behalf of a company or other legal entity, is prohibited.
+For example, sharing a login between non-entity individual users is prohibited.
+ 3.
+Registration.
+Your Content 
+3.1.
+Registration.
+Verification of Your Identity
+
+ In order to use the Services, you must register an account.
+When you open an account, we may ask you for contact information such as your name, phone number, email address, and other information relating to you or your organization.
+If applicable, we may also ask you for information on your business, including your businessâs legal name or DBA, physical address of the business, and your company's website.
+The information that you provide at the time of account opening must be accurate and complete and you must inform us within ten business (10) days of any changes to such information.
+We may require additional information from you to help verify your identity and assess risk, such as your date of birth, tax identification number, or government-issued identification.
+We may also obtain information about you from third parties, such as credit bureaus and identity verification services.
+We have the right to reject your account registration or to later close your account, if you do not provide us with accurate, complete, and satisfactory information.
+In order to verify the information you submit via the account registration process, we may request information from various third parties, including credit bureaus and identity verification services.
+By accepting these Terms you authorize us to retrieve information about you by using third parties and acknowledge we may have to share the information you have previously submitted to do so.
+From time to time BitPay may engage third parties in order to assist in different aspects of the provision of our Services to you.
+You acknowledge and agree your use of the Services may require we share your information with these third parties who may need to review your eligibility to use the Services according to their own verification procedures.
+
+
+3.2.
+Accuracy
+
+ By registering for our Services, you represent and warrant that all information you submit to us is true, accurate, current and complete and that you will promptly notify us in writing if your information changes.
+It is your responsibility to keep your account and profile information accurate and updated.
+We are not responsible for any disputes or claims related to any inaccurate, incomplete, or untimely information provided by you to us.
+
+
+3.3.
+Privacy
+
+ To use our Services, you must register with us and submit certain personally identifiable information.
+You expressly agree that we may collect, disclose, store and otherwise use your information in accordance with the terms of the BitPay Privacy Policy, available at https://bitpay.com/about/privacy.
+
+
+3.4.
+Your Content
+
+ As between you and BitPay, you own the information, materials, photos, or other content (the âContentâ) you provide BitPay under this Agreement.
+Any Content that you upload or otherwise provide to BitPay in connection with the Services may be used by BitPay in order to provide and promote the Services or BitPayâs business.
+Accordingly, you grant to BitPay, and all of its subsidiaries, affiliates, successors, and assigns, a worldwide, perpetual, royalty-free, fully paid, sublicensable, non-exclusive, and transferable right to use, publish, reproduce, distribute, modify, prepare derivative works of, adapt, publicly display and otherwise use the Content.
+Such right to use such Content shall survive the termination of these Terms and termination of the Services.
+You authorize us to use, forward, or post your profile or related information on other sites and services.
+Additionally, you authorize us to use your corporate logo and corporate name, if applicable, for any promotional purposes (to opt-out, email us at marketing@bitpay.com).
+Notwithstanding the foregoing, you retain all rights to the Content, except as otherwise provided herein or as otherwise provided in any other agreement between you and BitPay.
+Any Content you submit to us is provided at your own risk of loss.
+You are solely responsible for all Content you share, provide, display, publish, or disseminate to others, whether such action was taken by us or you.
+By providing Content to us, you represent and warrant that you are entitled to submit it and that it is not confidential and not in violation of any law, contractual restrictions or other third party rights (including any intellectual property rights).
+BitPay may also remove or delete your Content from the Services at any time in its sole discretion.
+
+
+3.5.
+Your Account
+
+ Except for your Content licensed to us as set forth above, the account you create and any related profile is owned by us.
+With regard to your account, you agree to: (i) keep your password secure and confidential.
+(ii) not permit others to use your account.
+(iii) not use the accounts of others.
+(iv) not transfer your account to another party.
+and (v) notify us of any actual or suspected unauthorized use of your account.
+You are responsible for any activity occurring under your account.
+
+
+3.6.
+Feedback 
+
+ You may from time to time identify problems, solutions to identified problems, provide suggestions, comments or other feedback related to our Services or otherwise relating to BitPay (âFeedbackâ) to BitPay.
+You acknowledge and agree that all Feedback is and shall be given entirely voluntarily and BitPay shall be free to use or disclose such Feedback for any purpose.
+You further acknowledge and agree that your Feedback does not contain confidential or proprietary information and you are not entitled to any compensation or reimbursement of any kind from BitPay under any circumstances relating to such Feedback.
+ 4.
+Personal Use.
+Limited License.
+Ownership  Subject to the terms and conditions herein, BitPay grants you a limited, revocable, non-transferable, non-sublicensable, non-exclusive license and right to access the Services through a generally available mobile device, web browser or BitPay authorized Site to view content and information and otherwise use the Services to the extent intended and permitted by the functionality thereof.
+This license is personal to you, and you may not resell our Services, permit other users access to our Services through your account, or use the Services to host content for others.
+You may not copy or download any content from the Services except with the prior written approval of BitPay.
+You acknowledge that, except as otherwise expressly provided, these Terms are solely between you and BitPay.
+
+ Furthermore, without the prior written approval of BitPay, you may not distribute, publicly perform or display, lease, sell, transmit, transfer, publish, edit, copy, create derivative works from, rent, sub-license, distribute, decompile, disassemble, reverse engineer or otherwise make unauthorized use of the Services.
+Any commercial use not expressly authorized is prohibited.
+You agree not to remove, obscure, or alter copyright, patent, trademark, or other proprietary rights notices affixed to the Services.
+Your rights are subject to your compliance with these Terms as well as any other agreements applicable to the Services you are using.
+The Services provided by BitPay are licensed, not sold.
+The Services, and all copies of the Services, are owned by BitPay or its third party licensors and are protected by various intellectual property laws, including, without limitation, copyright and trade secret laws.
+BitPay reserves all rights not expressly granted to you herein.
+You agree that you have no right to any BitPay trademark or service mark and may not use any such mark in any way unless expressly authorized by BitPay.
+
+ Making unauthorized copies or distribution of Site content or otherwise violating these Terms may result in the termination of your BitPay account, prohibition on use of the Services, and further legal action.
+BitPay reserves the right to limit your use of or access to the Services, in its sole discretion in order to maintain the performance and availability of the Services and to enforce these Terms.
+
+ BitPay is not liable for the loss, corruption, alteration or removal of any content transmitted using our Services.
+By using our Services, you expressly waive the right to seek damages and agree to hold BitPay harmless for any such loss, alteration, corruption or removal.
+You acknowledge and agree that you are solely responsible for retaining all records and reconciling all transaction information relating to your use of the Services.
+ 5.
+Fees.
+Payment Terms.
+Credits  If you purchase any Services that we offer for a fee (âPaid Servicesâ), you agree to pay the applicable fees for the Paid Services when due plus all related taxes.
+All applicable taxes are calculated based on the billing information you provide us at the time of purchase.
+Unless otherwise denoted, all fees are assessed in U.S.
+dollars.
+You also agree that BitPay and its third-party service providers providing payment processing services may store your payment information.
+We may charge your payment information for subsequent charges you authorize, such as account upgrades or other special charges authorized by you.
+If the payment method you use with us reaches its expiration date and you do not edit the applicable information or cancel such Paid Service, you authorize us to continue billing that payment method and you remain responsible for any uncollected amounts.
+If you purchase a subscription to a Paid Service, you will be billed for your first month immediately upon purchasing or upgrading to a subscription account.
+Unless otherwise set forth on an applicable ordering document incorporating these Terms, the Services are billed in advance on a monthly basis and are non-refundable.
+For any upgrade or downgrade in plan level, your payment information will automatically be charged the new rate on your next billing cycle in addition to the prorated change in the amount of your subscription for the remainder of the current billing cycle (downgrading your plan level may cause the loss of features or capacity of your account.
+BitPay does not accept any liability for such loss).
+Your subscription account shall automatically renew, provided that you may cancel the subscription any time before the end of the current billing period and the cancellation will take effect on the next billing period.
+You shall retain access to such Paid Services from the time you cancel until the start of the next billing period, but you will not receive a refund or credit for any days remaining in your current billing period.
+You agree to reimburse us for all collection costs and interest for any overdue amounts.
+
+ BitPay may offer certain customers free trials to Paid Services.
+If you purchase a subscription to a Paid Service that includes a free trial, you will receive free access to such Paid Service for the duration of the free trial period.
+At the end of the applicable free trial period, you will be charged the price of the subscription for such Paid Service and may continue to be charged until you cancel your subscription.
+To avoid charges, you must cancel before the end of the free trial period.
+
+ Failure to pay may result in the termination of your subscription.
+You may cancel or suspend your Paid Services by contacting BitPay at support@bitpay.com.
+Unless expressly stated to the contrary, we do not guarantee refunds for lack of usage, dissatisfaction or any other reason.
+
+ Paid Services may be subject to additional terms, in addition to these Terms, related to the provision of the Paid Service.
+ 6.
+Acceptable Use Policy  You agree to comply with all applicable laws and regulations in connection with your use of the Services.
+You may not use our Services to post or transmit any illegal material, including without limitation any transmissions that would constitute a criminal offense, give rise to civil liability, or otherwise violate any local, state, national or international law or regulation.
+In particular, the following is a representative, non-exhaustive list of acts that are prohibited: 
+
+ Using the Services while operating a motor vehicle.
+
+ The transmission or posting of chain letters or pyramid schemes, or other acts that involve deceptive online marketing practices or fraud.
+
+ Acts that may materially and adversely affect the quality of other usersâ experience.
+
+ Actual or attempted unauthorized use or sabotage of any computers, machines or networks.
+
+ Introducing malicious programs into BitPayâs Services, network or servers (e.g.
+viruses, worms, Trojan horses, etc.).
+
+ Engaging in any monitoring or interception of data not intended for you without authorization.
+
+ Attempting to circumvent authentication or security of any host, network, or account without authorization.
+
+ Reverse engineer, decompile, disassemble, decipher or otherwise attempt to derive the source code for any underlying intellectual property used to provide the Services, or any part thereof.
+
+ Adapt, modify or create derivative works based on the Services, technology underlying the Services, or other usersâ content, in whole or part.
+
+ Duplicate, license, sublicense, publish, broadcast, transmit, distribute, perform, display, sell, rebrand, or otherwise transfer information found on the Services (excluding content posted by you) except as permitted in these Terms, or as expressly authorized by BitPay in writing.
+
+ Using any method, software or program designed to collect identity information, authentication credentials, or other information.
+
+ Transmitting or receiving, uploading, using or reusing material that is abusive, indecent, defamatory, harassing, obscene or menacing, or a breach of confidence, privacy or similar third party rights.
+
+ Transmitting or receiving, uploading, using or reusing material that violates any intellectual property rights of a third party, including, without limitation, patents, trademarks, trade secrets or copyrights.
+
+ Transmitting, receiving, uploading, using or reusing material that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements).
+
+ Falsifying user identification information.
+
+ Using the Services for anything other than lawful purposes including, but not limited to, intentionally or unintentionally violating any applicable local, state, national or international law.
+or 
+ Impersonating any person or entity, including, but not limited to, an BitPay representative, or falsely stating or otherwise misrepresenting your affiliation with a person or entity.
+You agree not to use the Services for the purpose of recruiting for another website or service that offers competing functionality to the Services.
+
+ 7.
+Right to Restrict or Terminate Access  BitPay may deny or restrict your access to all or part of the Services without notice in its reasonable discretion if it deems that you have engaged in any conduct or activities that BitPay in its reasonable discretion believes violates the letter or spirit of any of these Terms.
+If BitPay denies or restricts your access to the Services because of such a violation, you shall have no right to obtain any refund or credit for the subscriptions fees you have paid.
+
+ In the event that these Terms or the Services are terminated for any reason or no reason, you acknowledge and agree that you will continue to be bound by these Terms.
+Following termination, you shall immediately cease use of the Services and any license granted to you under any agreement related to your use of the Services shall immediately terminate.
+Upon termination, BitPay reserves the right to delete all of your Content, data, and other information stored on BitPayâs servers.
+BitPay will not be liable to you or any third party as a result of the termination of these Terms or the Services or for any actions taken by BitPay pursuant to these Terms as a result of such termination.
+Without limiting the generality of the foregoing, BitPay will not be liable to you or any third party for damages, compensation, or reimbursement relating to your use of the Services, or the termination thereof.
+
+ You may terminate these Terms by terminating your use of the Services and any related account.
+Any sections or terms which by their nature should survive or are otherwise necessary to enforce the purpose of these Terms, will survive the termination of these Terms and termination of the Services.
+Termination of these Terms or the Services does not relieve you from your obligation to pay BitPay any amounts owed to BitPay.
+ 8.
+Security  We have implemented security measures designed to secure your information from accidental loss and from unauthorized access, use, alteration or disclosure.
+However, we cannot guarantee that unauthorized persons will never gain access to your information, and you acknowledge that you provide your information at your own risk, except as otherwise provided by applicable law.
+You acknowledge and agree that you are solely responsible for protecting your password and other personal information and for the consequences of not protecting such data.
+
+ Access to our Services and to certain online transactions may involve the use of identification numbers, passwords, payment accounts or other individualized nonpublic information (âPrivate Documentationâ).
+You shall use your best efforts to prevent unauthorized use of our Services, your account, or of any Private Documentation, and shall promptly report to BitPay any suspected unauthorized use or other breach of security.
+You shall be responsible for any unauthorized use of your account, identification numbers or passwords until we receive written notice of a breach of security and a request to block further access for such numbers and passwords.
+BitPay shall not be liable for any unauthorized use of payment accounts.
+ 9.
+Indemnity  You agree to indemnify BitPay, its affiliated and related entities, and any of its officers, directors, employees and agents from and against any claims, costs, losses, liabilities, damages, expenses and judgments of any and every kind (including, without limitation, costs, expenses, and reasonable attorneysâ fees) arising out of, relating to, or incurred in connection with any claim, complaint, action, audit, investigation, inquiry, or other proceeding instituted by a person or entity that arises or relates to: (a) any actual or alleged breach of your representations, warranties, or obligations set forth in these Terms.
+(b) your wrongful or improper use of the Services.
+(c) your Content or any other content or material you submit or otherwise transmit through our Services.
+(d) any other partyâs access or use of the Services with your account information, or (e) your use of the Services.
+BitPay reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to defense by you.
+ 10.
+Disclaimer of Warranty  WE PROVIDE THE SERVICES ON AN âAS ISâ AND âAS AVAILABLEâ BASIS, AND YOUR USE OF THE SERVICES IS AT YOUR OWN RISK.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE PROVIDE THE SERVICES WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED (INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT).
+WITHOUT LIMITING THE FOREGOING, WE DO NOT WARRANT THAT THE SERVICES (AND OUR WEBSITE): WILL OPERATE ERROR-FREE OR THAT DEFECTS OR ERRORS WILL BE CORRECTED.
+WILL MEET YOUR REQUIREMENTS OR WILL BE AVAILABLE, UNINTERRUPTED OR SECURE AT ANY PARTICULAR TIME OR LOCATION.
+ARE FREE FROM VIRUSES OR OTHER HARMFUL CONTENT.
+WE DO NOT ENDORSE, WARRANT, GUARANTEE OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE OFFERED OR ADVERTISED BY A THIRD PARTY THROUGH THE SERVICES OR THROUGH OUR WEBSITE, AND WE WILL NOT BE A PARTY TO NOR MONITOR ANY INTERACTIONS BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES.
+
+ SOME JURISDICTIONS MAY NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES OR CONDITIONS, OR ALLOW LIMITATIONS ON HOW LONG AN IMPLIED 
+ WARRANTY LASTS, SO THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY TO YOU.
+IN SUCH EVENT, BITPAYâS WARRANTIES AND CONDITIONS WITH RESPECT TO THE SERVICES WILL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY APPLICABLE LAW IN SUCH JURISDICTION.
+ 11.
+Limitation of Liability  IN NO EVENT WILL WE BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES OR ANY LOSS, THEFT, DISAPPEARANCE, OR DAMAGES FOR LOST PROFITS, LOST REVENUES, LOST DATA OR OTHER INTANGIBLE LOSSES THAT RESULT FROM THE USE OF, INABILITY TO USE, OR UNAVAILABILITY OF THE SERVICES, REGARDLESS OF THE FORM OF ACTION AND WHETHER OR NOT WE KNEW THAT SUCH DAMAGE MAY HAVE BEEN INCURRED.
+IN NO EVENT WILL WE BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DAMAGE, LOSS OR INJURY RESULTING FROM HACKING, TAMPERING, VIRUS TRANSMISSION OR OTHER UNAUTHORIZED ACCESS OR USE OF THE SERVICES, YOUR BITPAY ACCOUNT, OR ANY INFORMATION CONTAINED THEREIN.
+IN NO EVENT WILL OUR LIABILITY FOR ANY DAMAGES ARISING IN CONNECTION WITH THE SERVICES EXCEED THE GREATER OF: (A) THE AMOUNT YOU PAID BITPAY FOR YOUR USE OF THE SERVICES IN THE PRIOR SIX (6) MONTHS.
+AND (B) THE SUM OF ONE HUNDRED (100) US DOLLARS.
+THE FOREGOING LIMITATIONS OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION.
+
+ EACH PROVISION OF THESE TERMS THAT PROVIDES FOR A LIMITATION OF LIABILITY, DISCLAIMER OF WARRANTIES, OR EXCLUSION OF DAMAGES IS TO ALLOCATE THE RISKS OF THIS AGREEMENT BETWEEN THE PARTIES.
+THIS ALLOCATION IS REFLECTED IN THE PRICING OFFERED BY BITPAY TO YOU AND IS AN ESSENTIAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN THE PARTIES.
+EACH OF THESE PROVISIONS IS SEVERABLE AND INDEPENDENT OF ALL OTHER PROVISIONS OF THESE TERMS.
+THE LIMITATIONS IN THIS SECTION AND THE PRIOR SECTION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY IN THIS AGREEMENT.
+ 12.
+Copyright Protected Materials  BitPay respects the intellectual property rights of others and expects that you do the same.
+It is our policy to terminate, in appropriate circumstances, the accounts of subscribers who infringe the copyrights of others.
+You may not upload, download, post, publish, transmit, reproduce, or distribute in any way, files, material, information, software or other material obtained through the Services that is protected by copyright or other proprietary right or derivative works with respect thereto, without obtaining permission of the copyright owner or other right holder.
+BitPay has the right, but not the obligation, to remove from the Services any files, material, information, software or other material BitPay believes is or may be, in its sole discretion, infringing or otherwise in violation of the rights of others.
+
+ If you believe in good faith that your copyright has been infringed, please provide a written communication regarding such belief to: marketing@bitpay.com., 13.
+Third-Party Terms &amp.
+Content  We do not control, and we are not responsible for, any data, content, services, or products (including software) that you access, download, receive or buy while using the Services.
+We may, but do not have any obligation to, block information, transmissions or access to certain information, services, products or domains to protect the Services, our network, the public or our users.
+We are not a publisher of third-party content accessed through the Services and are not responsible for the content, accuracy, timeliness or delivery of any opinions, advice, statements, messages, services, graphics, data or any other information provided to or by third parties as accessible through the Service.
+
+ From time to time, the Services may contain references or links to third-party materials not controlled by BitPay or its suppliers or licensors.
+BitPay provides such information and links as a convenience to you and should not be considered endorsements of such sites or any content, products or information offered on such sites.
+You acknowledge and agree that BitPay is not responsible for any aspect of the information or content contained in any third party materials or on any third party sites accessible or linked to the Services.
+You are responsible for evaluating whether you want to access or use a third party sites.
+Accordingly, if you decide to use third party sites, you do so at your own risk and agree that this Agreement does not apply to your use of any third party sites.
+You should review any applicable terms or privacy policy of a third party sites before using it or sharing any information.
+
+ If you are accessing the Services through an application from the Apple App Store, you and BitPay agree to the following additional terms: 
+
+ BitPay and you acknowledge that these Terms are concluded between you and BitPay only, and not with Apple, and BitPay, not Apple, is solely responsible for the Services and the content thereof.
+BitPay and you agree to be bound by the App Store Terms of Service as of the Effective Date (which you acknowledge you have had the opportunity to review), including without limitation the Usage Rules (as defined in the App Store Terms of Service) (capitalized terms below have the definitions given to them in the App Store Terms of Service unless otherwise defined herein).
+
+ You may only access the Services on an iOS product that you own or control and only as permitted by the Usage Rules set forth in the App Store Terms of Service.
+
+ To the extent set forth herein or required by applicable law, BitPay is solely responsible for providing any maintenance and support services with respect to the Services.
+
+
+ ou acknowledge and agree that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Services.
+
+
+ BitPay, not Apple, is solely responsible for any product warranties set forth in these Terms, whether express or implied by law, to the extent not effectively disclaimed.
+In the event of any failure of the application to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the application to you.
+provided that, to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Services, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty, if any, will be BitPayâ sole responsibility, to the extent not disclaimer herein.
+
+ BitPay and you acknowledge that BitPay, not Apple, is responsible for addressing any claims by you or any third party relating to the Services or your possession and/or use of the Services, including, but not limited to: (i) product liability claims.
+(ii) any claim that the Services fail to conform to any applicable legal or regulatory requirement.
+and (iii) claims arising under consumer protection or similar legislation.
+
+ Apple shall in no way be responsible for any claim (including any related investigation, defense, settlement or discharge thereof) that the Services or your possession and use of the Services infringe any third partyâs intellectual property rights.
+
+ If you send SMS messages through Services, you acknowledge that standard text messaging rates or other carrier charges may apply to such use.
+
+ If you authorize BitPay to access your Address Book on your iOS product, you acknowledge and agree that BitPay may access and use such data to invite share job with your contacts.
+
+ 14.
+Governing Law.
+Dispute Resolution  These Terms will be governed by and construed in accordance with the laws of the State of Georgia without reference to conflict of law or choice of law provisions, and applicable federal law (including the Federal Arbitration Act).
+If a disagreement or dispute in any way involves the Services or these Terms and cannot be resolved between you and us with reasonable effort, the disagreement or dispute shall be resolved exclusively by final and binding administration by the American Arbitration Association ("AAA"), and will be conducted before a single arbiter pursuant to the applicable Rules and Procedures established by the AAA.
+You agree that the arbitration shall be held in Atlanta, Georgia, or at any other location that is mutually agreed upon by you and us.
+You agree that the arbiter will apply the laws of the State of Georgia consistent with the Federal Arbitration Act, and will honor and agree to all applicable statutes of limitation.
+You agree that, unless prohibited by law, there shall be no authority for any claims to be arbitrated on a class or representative basis, and arbitration will only decide a dispute between you and us.Arbitration proceedings must be initiated within one (1) year after the disagreement or dispute arises.
+If any part of this Arbitration clause is later deemed invalid as a matter of law, then the remaining portions of this section shall remain in effect, except that in no case shall there be a class arbitration.
+ 15.
+Electronic Notices and Disclosures  You agree to accept communications from us in an electronic format, and agree that all terms, conditions, agreements, notices, disclosures or other communications that we provide to you electronically will be considered to be âin writingâ.
+ 16.
+Miscellaneous  These Terms, along with any rules, guidelines, or policies published on the BitPay homepage constitute the entire agreement between BitPay and you with respect to your use of our Services.
+If there is any conflict between the Terms and any other rules or instructions posted on the Services, the Terms shall control.
+No amendment to these Terms by you by shall be effective unless acknowledged in writing by BitPay.
+Notwithstanding the foregoing, BitPay reserves the right, in its sole discretion, to modify these Terms or the policies referenced herein at any time as set forth above.
+Subject to the arbitration provisions above, exclusive venue for any action arising out of or in connection with this agreement shall be in Atlanta, Georgia.
+The parties each hereby consent to the jurisdiction and venue in Atlanta, Georgia and waive any objections to such jurisdiction and venue.
+Notwithstanding the foregoing, you agree that BitPay shall be entitled to apply for injunctive remedies or other equitable relief in any jurisdiction.
+Subject to any applicable law to the contrary, you agree that any cause of action arising out of or related to the use of our Services must be commenced within one (1) year after the cause of action accrues, or such action will be permanently barred.
+If any portion of these Terms is found to be unenforceable or invalid for any reason, that provision will be limited or eliminated to the minimum extent necessary so that the rest of these Terms will otherwise remain in full force and effect.
+You may not assign your rights or obligations under these Terms without the prior written consent of BitPay.
+BitPayâs failure to insist upon or enforce any provision of these Terms shall not be construed as a waiver of any provision or right.
+Any sections or terms which by their nature should survive or are otherwise necessary to enforce the purpose of these Terms, will survive the termination of these Terms and termination of the Services.
+All headings included in these Terms are included for convenience only, and shall not be considered in interpreting these Terms.
+These Terms do not limit any rights that BitPay may have pursuant to any intellectual property laws or any other laws.
+All rights and remedies available to BitPay, pursuant to this Agreement or otherwise, at law or in equity, are cumulative and not exclusive of any other rights or remedies that may be available to BitPay.
+In no event shall you seek or be entitled to rescission, injunctive or other equitable relief, or to enjoin or restrain the operation of the Services, or any other materials issued in connection therewith, or exploitation of the Services or any content or other material used or displayed through the Services.
+Except as otherwise expressly set forth herein, there shall exist no right of any person, other than you and 
+ BitPay, to claim a beneficial interest in these Terms or any rights occurring by virtue of these Terms.
+No independent contractor relationship, partnership, joint venture, employer-employee or franchise relationship is created by this Agreement.
+
+ If you have any questions, complaints, or claims, you may contact BitPay at 8000 Avalon Blvd, Suite 300, Alpharetta, GA 30009, support@bitpay.com

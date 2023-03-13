@@ -1,0 +1,271 @@
+
+VPN Privacy Policy | Extensions Privacy Policy | Common Information | Cookies Policy
+This policy applies solely to our VPN Services and must be read together with the general data processing information.
+Please read Common Information for overall information about who we are.
+For other products and services please visit Extensions Privacy Policy, and for the information how we handle website cookies, please visit our Cookies Policy.
+This policy applies to client versions: 
+
+Windows 5.1
+MacOS 5.2
+Android 5.8
+iOS 5.2
+HMA VPN Proxy Unblocker 1.1
+
+For older versions of this document, please visit the legal archive.
+This policy does not apply to service data which may be collected by different products, such as an antivirus app, or to the operation of cookies on our website. What data our VPN processes? Generally speaking, we need some personal data particularly to provide you our products and services, optimize and improve our products and services, to send you direct marketing, or to comply with our legal obligations.
+We try to minimize the collection of any data, we aggregate or delete it as soon as possible, and if it is not necessary we donât collect it at all.
+We will describe how we process the data in the following sections.
+But letâs start with what we donât collect. Our No Logging Policy - data we donât send to our servers.
+Period.
+
+Originating IP address.
+Any DNS queries while connected.
+We rely on our own secure DNS servers, so your queries are also protected from exposure to 3rd parties.
+Browsing history.
+Transferred data.
+ Personal Data Use Personal data is understood as any information that relates to an identified or identifiable natural person and includes the information you provide to us while using our VPN services.
+More specifically, we may collect and process personal data about you in the following situations: Product functionality Service Data from our VPN servers If you use our VPN service, we collect the minimum amount of information needed to provide and operate it, as well as keep it running safely and efficiently.
+This is the data we collect to make sure our VPN infrastructure works (âService Dataâ): Service Data What we use it for Day of connectionE.g.
+We store the date you were connected together with an internal identifier, but not the exact time: timestamps are floored to either 12 am or 12 pm.
+To troubleshoot for support and abuse handling.
+Example: To know the amount of daily active users.
+Rounded amount of data transmittedE.g.
+If a user transferred within the session 364MB, we floor it to 300MB.
+1843MB of transferred data is floored to 1000MB.
+We keep just the first digit of the value together with an internal identifier.
+To plan for new network capacity and server improvements.
+Example: We may deploy more capacity to meet demand and make sure speeds stay up for all users.
+
+We store serverâs service data for 35 days, after which time it is deleted on a rolling basis â data created on Jan 3rd, 2020 gets deleted on Feb 7rd 2020, for example. Service Data from our VPN clients In order to make sure our VPN clients do their job properly and without errors we have to know how many specific errors we have.
+This data pertains to interactions taken in the app, and cannot be used to uncover what youâre using the VPN service for. Client Data What we use it for Connection events
+Events such as the attempt to connect, disconnection, connection error, etc.
+together with an internal identifier exclusively used for this (âconnection event identifierâ) To operate and provide VPN service with high quality.
+We do not pair any individual user with this data.
+Example: How many unknown users get the same error? Application Events
+Events such as auto-connection, uninstall event, etc.
+together with an internal identifier (âapplication event identifierâ) To plan product development and analytics
+Example: How many users do we have? Is a new client-side feature we introduced popular? Are people uninstalling after our latest release? Crash reports generated and sent by the user
+We might collect data like your e-mail, app version or internal identifiers described above.
+To help troubleshoot the issue.
+We donât send any privacy-sensitive data automatically - you need to explicitly allow sending this back to us and check prior to what data is being sent before you share it with us.
+Please note that if you provide us together with information above also your personal data, e.g.
+within an ad hoc crash report that you decide to send to us, we could add this information to the service data and might be able to connect it with you.
+Example: App is crashing on some specific device.
+This is how customer care support can help with device-specific issues.
+
+We store clientâs service data for 2 years, after which time it is deleted on a rolling basis â data created on Jan 3rd, 2019 gets deleted on Jan 3rd, 2021, for example.
+Note: if you are using an older version of HMA, our apps may be configured to collect your username.
+While we have set our servers to immediately dump this information for all versions of clients, this is still a potential risk to your privacy.
+The only way to resolve this is to upgrade your VPN app/service to the latest versions. Account creation and management When you create an account with us (note: this is necessary in order for you to use the VPN service), we will need some information about you.
+This is the personal data that is created and stored for the management of your account: Account data What we use it for Email address To send you purchase receipts, communications, and occasional product news Username (only for legacy versions) To manage your account and facilitate your login into the service.
+We do not collect this information anymore.
+Usernames are used only with older versions of our VPN clients.
+Activation code To activate your subscription Subscription renewal date To tell us until when the account is valid All of the above data is stored for as long as you use our service, as it is necessary for us to provide it.
+However, your Account Data is not paired with your activity usage.
+You can see all of this data by logging into our Privacy Preference portal. Billing and Payment We rely on third-party payment processors to handle your product purchases.
+You can find out which provider we are working with for the point of purchase you chose (for example our website, an app store, etc) by looking at your transactional email or receipt.
+This is the list of payment processors we cooperate with and their privacy policies:
+
+2Checkout - https://www.2checkout.com/legal/privacy/
+Google Play - https://policies.google.com/privacy?hl=en-US
+Apple iTunes - https://www.apple.com/legal/privacy/en-ww/
+
+These providers are in the position of independent controllers and may collect a variety of information about you to complete the purchase.
+All of them are PCI-compliant or the equivalent and are prohibited from using your personal data for anything but facilitating your payment and subscription management or as otherwise described in their applicable terms of service and privacy policy.
+Some of that billing data may be shared with us in order to detect and prevent fraud, help with customer support, or used as a record of your payment for accounting, taxation, and invoicing purposes.
+This data is what we call âbilling dataâ and it includes your name, address, email address, the product (subscription you purchased) and for how long, and payment information.
+Your payment provider will process your credit card number, but it is not shared with us.
+On our side, billing data is stored for as long as you continue to use our service, and for up to 10 years after that.
+If legal obligations change, or we need to resolve disputes and enforce our agreements, we may be obliged to keep this data longer than that. Communication The Email If you contact us by email, it will be stored for 6 months, unless required by law or other exceptional circumstances.
+We do this to speed up our turn around on support and to follow up.
+
+If you are a user of our service or you have subscribed on our website, we will send you such commercial communications through this channel in the form of newsletters, or blog notifications.
+Please note, if you donât want to be on our mailing list, you may use the âUnsubscribeâ link available in every communication we send you. Livechat When you use our Livechat functionality, we also store the message for 6 months.
+Our Livechat functionality is provided by Zopim (a ZenDesk subsidiary), which may also collect some data subject to their security policy and privacy policy.
+Please note that if you provide us with your personal data we might be able to connect the collected service data with you. Third-party tools used for analytics To analyze application events from our VPN clients in order to understand how our services function, or how stable or successful they are, we rely on our own analytics tools as much as possible.
+Here are the third-party tools we use, how we use them, and their privacy policies: Microsoft App Center on macOS.
+Microsoft App Center (former HockeyApp) on older versions of our macOS and iOS apps: This was used to do beta distribution, crash reporting, user metrics, feedback, and more.
+This tool belongs to Microsoft and you can find their privacy policy here. Google Firebase Analytics on iOS and Android Firebase helps us to understand how people interact with certain aspects of our service.
+While Firebase normally relies on Android Advertising ID or iOS Identifier for Advertisers, this is not the case of our service because weâve opted to use our own anonymizing identifiers instead.
+As this tool is not necessary for service functioning, you can opt-out of providing us with this anonymized application performance data in our application settings. Google Fabric Crashlytics on iOS and Android This Google tool helps us to improve application stability, pinpoint things that donât work, and improve your experience.
+Its implementation doesnât contain any information that can personally identify you.
+Both Firebase Analytics and Crashlytics are subject to Googleâs privacy policies Deprecated Analytics If youâre still on older versions of our service, the following analytics are embedded in them:
+
+Facebook Analytics on older versions of our Android apps: we used to use this to know how many people opened an app, how much time they spent in it, and other information about how they interacted with them.
+You can find Facebookâs privacy policy here.
+
+We highly recommend that you upgrade to later versions. Extensions Privacy Policy As an optional part of the VPN service, we offer the following free extensions.
+Please read Common Information for overall information about who are we.
+For other products and services please visit Extensions Privacy Policy, and for information on how we handle website cookies, please visit our Cookies Policy.
+This policy applies to version 1.1.
+For older versions of this document, please visit the legal archive. Free HMA VPN Proxy Unblocker The proxy extension is provided as a free tool for online privacy protection.
+Because of that, we need to gather different data to protect our product from abuse. What personal data Free HMA VPN Proxy Unblocker processes? If you use the free HMA VPN Proxy Unblocker for Chrome and Firefox browsers, this is the personal data that gets collected: Service data What we use it for Your originating IP address To prevent attacks on our network.
+Example: If someone attempts to attack our servers, we will cut off the connection.
+Domain names To prevent attacks on our network.
+Example: If someone attempts to use our servers to attack our own infrastructure, we will cut off the connection.
+Timestamp of requests To prevent attacks on our network.
+Example: If someone attempts to attack our servers, we may report the attacker to their ISP or law enforcement.
+We delete all of this data every 30 days on a rolling basis so data created on January 3rd gets deleted on February 2nd, for example.
+On the client extension side, we collect data to understand how people are using the extension, troubleshoot it, and plan development.
+None of this can be used to specifically identify you. Client data What we use it for User AgentE.g.Mozilla/5.0 (Macintosh.
+Intel Mac OS X 10_14) For user support, troubleshooting, and product development planning
+Example: Help us troubleshoot issues with specific configurations.
+Application Events
+E.g.
+User has used Panic Mode feature, etc.
+Product planning.
+Example: Let us know what features are popular.
+We delete this data after 2 years. Other extensions Our IP Checker and Panic Button extensions donât collect any data. Common Information This Common Privacy Information provides information about how we handle and protect your personal data and the choices available to you regarding the collection, process, access, and how to update, correct and delete your personal data that is common to all our products.
+
+For specific products and services please visit VPN Privacy Policy, Extensions Privacy Policy, and for information on how we handle website cookies, please visit our Cookies Policy.
+Additional information on our personal data practices may be provided in product settings, contractual terms, or notices provided prior to or at the time of data collection.
+Please refer to the VPN Service Privacy Policy and Extensions Privacy Policy that complement this general policy and describe specifics of personal data processing within those products and services. Who are we? Our website www.hidemyass.com (âour Siteâ) and services are operated by Privax Limited, which is a limited company registered in England under company registration number 07207304, with our registered office at 110 High Holborn, London, WC1V 6JS, United Kingdom (referred to as "we," "us," "our," or âHMAâ). Which services do we offer? We offer the following services:
+
+VPN
+Extensions - Free HMA VPN Proxy Unblocker, IP Checker, Panic Button
+ What personal data do we process? For specific information on each service and particular categories of processed personal data, please refer to the relevant tab named after the service in the navigation bar. For which purposes we process your personal data? Personal data is information that relates to an identified or identifiable natural person, such as the personal data necessary to provide you with our service, to create and manage your account, to handle your product purchases, to communicate with you, to optimize and improve our service, and to comply with our legal obligations.
+
+More specifically, we use your personal data for the following purposes relying on the following legal bases:
+On the basis of fulfilling our contract with you or entering into a contract with you on your request, in order to:
+
+Handle the purchase of our service in cooperation with our payment processors;
+Provide the download, activation, and performance of our service;
+Keep our products or services up-to-date, safe and free of errors;
+Verify your identity and entitlement to a paid service, when you contact us for support or access our services;
+Update you on the status of your orders and licenses;
+Manage your subscriptions and user accounts.
+and
+Provide you with technical and customer support.
+
+On the basis of your consent, in order to:
+
+Subscribe you to a newsletter, if you are not a user of our product;
+
+On the basis of legal obligations, we process your personal data when it is necessary for compliance with a legal tax, accounting, anti-money laundering, legal order, or other obligation to which we are subject.
+On the basis of our legitimate interest, we will use your personal data for:
+
+Communications about possible security, privacy and performance improvements and products that supplement or improve your purchased service and to optimize the content and delivery of this type of communication;
+Product development, research and to implement product features and improvements;
+Analytics, using both internal and third-party tools, to evaluate and improve the performance and quality of our service and websites and to understand usage trends, user acquisitions, and conversions.
+Security of our systems and applications;
+Internal administrative processes (e.g.
+finances, controlling, business intelligence, legal &amp.
+compliance, information security, etc.).
+and
+Establishing, exercising or defending our legal rights.
+ Where and for how long we store your personal data? Where we store your data When you use our service, you may be using servers located in a variety of different countries.
+However, there is a difference between use and storage.
+What little information that gets generated by your use of our infrastructure does not get stored outside of our 2 main borders: the United Kingdom and the Czech Republic.
+There may be some instances where, as a matter of necessity, we need to transfer data outside of these two jurisdictions.
+When we process the data within our group, regardless of where we are, we always implement the same level of data protection afforded by the GDPR to all personal data we process.
+Where we cooperate with third parties which are involved in data processing, we legally bind any party we deal with to adhere to those high levels of protection with adequacy decision or standard contractual clauses approved by the European Commission, and to ensure your rights are protected in accordance with this Privacy Policy.
+In all cases, we follow generally accepted standards and security measures to protect the personal data submitted to us, both during transmission and once we receive it.
+We always strive to protect your data to the maximum extent we can.
+By using the service, you acknowledge this transfer, storing or processing. How long we store your data Concerning storage or retention periods, the specific terms applicable to the various types of data used for various purposes are noted in their respective sections.
+After these periods elapse, we will delete this data and no longer use it for that specific purpose.
+These retention periods may be longer where it is necessary for us to comply with our legal obligations or legal orders, resolve disputes, and enforce our agreements, including in the court of law. To whom we disclose your personal data? As a rule, we do not disclose any information to other commercial parties, with the following exceptions: Avast Group As we are part of the Avast Group, information may be shared with members of the Avast Group in order to execute on the provisions of this service, for direct marketing, or to help our product development.
+In all cases, they are subject to the terms of this Privacy Policy. Service providers It may be necessary to share some data with selected parties to deliver the service you require â such as with a payment card provider who we use to process your credit card transaction or to perform analytics via third-party analytics tools.
+These parties are listed in the relevant sections of this Privacy Policy. Mergers, acquisitions and corporate restructurings Like any other company, we too go through its own cycle of growth, expansion, streamlining and optimization.
+Its business decisions and market developments, therefore, affect its structure.
+
+If we are involved in a reorganization, merger, acquisition or sale of our assets, your personal data may be transferred as part of that transaction.
+We will notify you will be notified of any such deal and outline your choices in that event, when applicable. State authorities and legal requirements In the event we are served with valid subpoenas, warrants, or other legal documents, or where applicable law compels us to comply, or when we are required to defend the rights or property of the Avast Group, including the security of our products and services, and the personal safety, property, or other rights of our customers and employees â we may share your personal data for these purposes as collected above. What rights do you have? As a data subject, you have the following rights regarding the processing of your personal data:
+
+
+Right to information - Right to receive information about the processing of your personal data, prior to processing as well as during the processing, upon request.
+
+Right of access - Right to receive a copy of your personal data undergoing processing.
+
+Right to rectification - Right to seek rectification of inaccurate personal data.
+
+
+Right to erasure ("right to be forgotten") - Right to erasure of your personal data, but only in specific cases stipulated by law, e.g., if there is no legally recognized title on our part for further processing of your personal data (incl.
+protection of our legitimate interests and rights).
+
+Right to data portability - Right to receive personal data which you have provided and is being processed on the basis of consent or where it is necessary for the purpose of conclusion and performance of a contract, in machine-readable format.
+This right applies exclusively to personal data which processing is carried out by automated means.
+
+Right to object - Right to object to processing carried out in legitimate interest on grounds relating to your particular situation, and we are required to assess the processing in order to ensure compliance with all legally binding rules and applicable regulations.
+In case of direct marketing, such as newsletters, we shall cease processing personal data for such purposes after the objection.
+
+Right to withdraw consent - In the case of processing based on your consent, as specified in this Privacy Policy, you can withdraw your consent at any time.
+The withdrawal of consent shall not affect the lawfulness of processing based on your consent before its withdrawal.
+
+Right to restriction of processing - Right to restriction of processing of your personal data if: you are contesting the accuracy of your personal data, for a period enabling us to verify its accuracy.
+the processing is unlawful and you oppose the erasure of the personal data and request the restriction of its use instead.
+we no longer need the personal data for the purposes of the processing, but they are required by you for the establishment, exercise or defence of legal claims.
+or you have objected to processing of your personal data, and there is a pending verification whether our legitimate grounds override your interests.
+
+Right to contact supervisory authority or court - You may contact and lodge a complaint with the supervisory authority â The Information Commissionerâs Office (www.ico.org.uk) or your local authority or a relevant court.
+
+The fulfillment of data subject rights listed above will depend on the category of personal data and the processing activity.
+In all cases, we strive to fulfill your request.
+You can exercise certain of these rights on our Privacy Preference portal (where you can also find more details about your rights and other personal data â related matters) or by emailing us at info@hidemyass.com.
+We will action your request within one month of receiving a request from you concerning any one of your rights as a data subject.
+Should we be inundated with requests or particularly complicated requests, the time limit may be extended to a maximum of another two months.
+Where requests we receive are manifestly unfounded or excessive, in particular because of their repetitive character, we may either: (a) charge a reasonable fee taking into account the administrative costs of providing the information or communication or taking the action requested.
+or (b) refuse to act on the request.
+For the free versions, we do not and will not maintain, acquire or process additional information solely in order to identify the users of our free products and services.
+This is simply not necessary for the free versions of our products to be provided to you and function.
+This means, when you use a free version of our service, you may contact us with a request concerning your personal data.
+
+Please note, consistent with our privacy by design, privacy by default and minimization practices, we may not be able to identify you in connection with the service data collected by our VPN (see VPN Privacy Policy).
+If such a situation occurs, please go to your product settings and explore your options. How do we protect your personal data? We maintain administrative, technical, and physical safeguards for the protection of your personal data. Administrative safeguards Access to the personal data of our users is limited to authorized personnel who have a legitimate need to know based on their job descriptions, for example, employees who provide technical support to end users, or who service user accounts.
+In the case of third-party contractors who process personal data on our behalf, similar requirements are imposed.
+These third parties are contractually bound by confidentiality clauses, even when they leave.
+Where an individual employee no longer requires access, that individual's credentials are revoked. Technical safeguards We store your personal data in our database using the protections described above.
+In addition, we utilize up-to-date firewall protection for an additional layer of security.
+We use high-quality antivirus and anti-malware software, and regularly update our virus definitions.
+Third parties who we hire to provide services and who have access to our users' data are required to implement privacy and security practices that we deem adequate. Physical safeguards Access to user information in our database by Internet requires using an encrypted VPN, except for email which requires user authentication.
+Otherwise, access is limited to our physical premises.
+Physical removal of personal data from our location is forbidden.
+Third-party contractors who process personal data on our behalf agree to provide reasonable physical safeguards. Changes to this policy We reserve the right to change this Privacy Policy at any time, but we will inform you when we are doing so, and highlight the changes we are making.
+We also keep an archive of previous versions of this policy available for review. Contact Us If you have any questions or feedback regarding these terms, you can contact us by email: info@hidemyass.com.
+HMA, has also appointed a Data Protection Officer, who can be contacted at dpo@hidemyass.com. Cookies Policy We collect your personal data when you access the website www.hidemyass.com related to Privax or its brand HideMyAss!
+Please read Common Information for overall information about who are we.
+For other products and services please visit Extensions Privacy Policy, and for information how we handle website cookies, please visit our Cookies Policy.
+We collect your personal data when you access the website www.hidemyass.com related to Privax or its brand HideMyAss! What Are Cookies and How We Use Them Cookies are small text files that can be used by websites to make a user's experience more efficient.
+You can find more about cookies here.
+We use cookies, and other similar technologies such as pixel tags and web beacons, to remember your preferences, to personalize your experience on our sites, tell us which parts of our websites people have visited, help us measure the effectiveness of campaigns, and give us insights into user interactions and user base as a whole so we can improve our communications and products. How You Can Disable Cookies or Opt-Out of Interest-based Targeting If you do not wish to allow the use of cookies, you can disable them through your browser settings.
+In some browsers you can set up rules to manage cookies on a site-by-site basis, giving you more fine-grained control over your privacy.
+We do note, however, that not all browsers across all platforms may support this functionality.
+Browser manufacturers provide help pages relating to cookie management in their products.
+Please see below the relevant links to the main browsers:
+
+Google Chrome
+Internet Explorer
+Mozilla Firefox
+Safari (Desktop)
+Safari (Mobile)
+Android Browser
+Opera
+Opera Mobile
+
+For other browsers, please consult the documentation that your browser manufacturer provides.
+You can opt-out of interest-based targeting provided by participating ad servers through:
+
+http://optout.aboutads.info/ by Digital Advertising Alliance
+http://www.youronlinechoices.com/ by European Interactive Digital Advertising Alliance
+
+In addition, on your iPhone, iPad or Android, you can change your device settings to control whether you see online interest-based ads in the following manner:
+
+iOS devices: go to Settings &gt.
+Privacy &gt.
+Advertising &gt.
+enable Limit Ad Tracking.
+Please note that if you use more than one device, you need to opt-out separately in each device.
+Android devices: Please follow the instructions set forth at https://support.google.com/ads/answer/2662922?hl=en.
+Please note that if you use more than one device, you need to opt-out separately in each device.
+
+Please note that if you disable cookies, our websites may not function properly or at all or your access to our websites and their features may be affected or restricted. Cookie Table When you interact with our websites and our affiliate partners, these are the cookies you may encounter, and why we use them: Cookie name How we use it Google Analytics: _ga with IP anonymization Website analytics
+Example: Understand which pages people find most interesting or confusing.
+Hotjar script cookies:_hjClosedSurveyInvites,_hjDonePolls,_hjMinimizedPolls,_hjDoneTestersWidgets,_hjMinimizedTestersWidgets,_hjIncludedInSample Conduct surveys.
+Only set if you interact with the surveys.
+Example: Ask people for feedback.
+Login cookies:PHPSESSIDCAKEPHPbe To keep you logged in when using your account.
+Affiliate cookies:aff_tag,ruid,aff_id,UTM_AFFSOURCE,UTM_CAMPAIGN,UTM_SOURCE To let us know which website referred you to us.
+Example: Help us compensate website owners who brought us business.
+Refer-a-friend cookies:raf_tag Know which friend referred you to us.
+Example: Your friend could get an extra free month for recommending us to you.
+If you donât want to allow the use of cookies, you can disable them through your browser settings.
+Keep in mind that if you disable cookies, some parts of our website may not work properly. Last Updated This Policy was last updated on April 27, 2020.

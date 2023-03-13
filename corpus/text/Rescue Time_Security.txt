@@ -1,0 +1,137 @@
+
+
+
+
+Learn More 
+A Day with RescueTime
+Switch to a 4 Day Work Week
+Get Focused
+
+
+
+
+For Teams
+Sign In
+Try for free
+ RescueTime Security RescueTime is a Software as a Service (SaaS) provider that serves many diverse consumers and businesses.
+From students to the Fortune 500, our clients have demanding security and privacy requirements, and RescueTime has been designed to accommodate the most rigorous standards.
+How do we achieve security for your account? Here, we will present a quick overview of infrastructure, application design, and special considerations, like HIPAA and auditing. Infrastructure and Platform: Safe Foundations A secure design for hardware, networks, and deployments.
+ To make RescueTime work, there are two principle components: the application that runs on your device and the cloud-based service that processes the data and builds results for you.
+The client runs on multiple platforms and devices (Windows, Apple OS X, Linux, Android, ChromeOS), and is principally responsible for automatically measuring how the device is used.
+The client also offers some additional user-facing features that are best delivered outside the browser.
+The cloud service receives data from the client and also provides the client with statistics and configuration information to enrich the user's experience and manage client features.
+ The Client Application Platform  For desktop systems, the client is built on a common codebase using standard cross-platform libraries that work across Windows, OS X and Linux.
+This encompasses the code used for secure communication with our servers, as well as configuration handling and time logic.
+We maintain our client with regular updates, publish change information, audit and test all changes, and track dependent library security updates.
+Our client is designed to be lightweight, with a negligible memory and processor footprint, using a compact codebase and minimized complexity to reduce risk.
+
+ For mobile systems, we currently support automatic time collection on Android devices, including phones and tablets.
+Our app is built entirely inside the Android SDK and so takes advantage of the Google Android team's own security provisions (app sandboxing, regular platform maintenance updates, etc).
+ More about how the client works >&gt.
+ The Cloud Service Platform  RescueTime data processing, reporting, and account management is handled through our website locations, which are all hosted on Amazon's EC2 facility.
+Out of the box, EC2 gives us audited robust infrastructure security, both physical and network level.
+On that foundation, we provide additional feature-targeted firewalling, privilege separation and controls, two-factor access methods, and logged, auditable operations interfaces.
+Our website services are built on common open-source platforms, apps and frameworks that we monitor for regular security maintenance updates, both at the operating system level and for required apps and libraries.
+
+ All operational interaction with our platform is accomplished through either HTTPS or SSH (secure tunnels).
+Our testing and development deployments are maintained in a matching configuration, with access only through HTTPS and SSH tunnels.
+We do not maintain any office based data storage or services.
+All of our engineering resources are secured in EC2 under the same practices and policies applied to the production configuration.
+More about the site and web services >&gt.
+ Safe and Adaptable Design Maintaining your safety using safe coding practices, proper data models, strict business logic, and workflow. Secure client design / Adapting to your privacy requirements  Our client ensures your device, your account, and your data is secure.
+Thought is given to each interaction and transition involving your account and data.
+Here are some of the key features and design principles: 
+
+Secure network traffic: All background client to server interactions use the HTTPS (HTTP in SSL) protocol
+Auditable device history: For each of your activated devices, its history, such as version updates, is logged and auditable
+Light system touch: Our automatic measurements only retrieve the in-focus application's process name, the current window title, and, when possible if the app is a browser, the current URL Our app will never automatically use your camera, take screen shots, log keystrokes, peek at web form content, or anything else than what is described above.
+It only gathers what is described above.
+Furthermore, you control what is measured, what is kept and what is discarded with your user settings.
+We are committed to providing a personal productivity and time analytics solution tailored for your personalized goals.
+
+Configurable for your use: Your settings can affect what and when the client does measure, what and when it does not.
+Filterable for your use: With your account settings, you can instruct the processing system to discard information for select sites and applications, and which ones should have title-based details.
+You can even work with us to get a custom detail filter.
+Actively maintained: Our application is updated regularly, and is aware when it is behind revision and should update.
+Data safety: Your time data is held in memory when possible, and regularly transitioned to our site for processing when online.
+ Secure web site and services  RescueTime's web site and services handle processing and reporting of your time statistics.
+You manage your account and user settings through the web site.
+Also, the client communicates with the site to synchronize settings, make statistic-based decisions (like popup alerts), and transmit activity information.
+Here are some crucial aspects of the architecture: 
+
+ Secure network access: All of your interactions with our site are secured by the HTTPS protocol, no-one can snoop your account or time data.
+
+ Authentication options and safety: You can take advantage of the authentication services of Google, Twitter, Facebook, and LinkedIn, in addition to or in place of using a RescueTime password.
+
+Data ownership and account control: You can delete your account at any time.
+Deleting your account will delete all your time history data.
+While your account is active, you can use various tools to export views of your all your data.
+Your RescueTime information is safer on our site than on your device, like with all secure web based services (GMail, Facebook, Online banking, etc.).
+If your device is lost, stolen, or compromised, your RescueTime data will still be safe.
+Furthermore, maintaining your time statistics for your device or devices on our web site lets you access and manage your account and data from anywhere with Internet access.
+
+Strict logical separation: Your account and data are isolated by strict controls in the database and app logic, no other account can access your information.
+
+Audit trails: Your relevant account activities are logged in an auditable historical record, including RescueTime operations and support interactions with your account.
+Furthermore, all operations activities of any kind by RescueTime employees are mediated through a secure tunnel and toolset that ensure detailed auditable records (such as system restart or software updates).
+
+Secure web development practices: We regularly test our own site and monitor security bulletins.
+In addition, we periodically retain consultant services to have third party validation.
+The site is hardened against common attack vectors such as XSS, XSRF, and SQL or script injection using standard safe coding practices.
+
+Capability system plan: We follow the principle that each logical component of the system only have the capabilities enabled for its specific responsibility and be thoroughly hardened for that targeted purpose, limiting the exposed attack surface.
+
+Real time monitoring and adaptive response: Both at the platform level and in the application business logic, our system has mechanisms to detect abusive use patterns, and automatically protect itself where possible, while raising alarms for human review.
+
+ RescueTime and HIPAA, HITECH, SAS70 and more How regulations and policies may affect you. HIPAA / HITECH: privacy and security requirements  We have clients, including individuals and teams, in many different lines of business.
+Some have concerns driven by protection of intellectual property, others have regulatory requirements.
+For those under HIPAA compliance standards for their software purchases: 
+
+
+Is it even required? HIPAA requirements are triggered when a software product maintains patient identifiable information.
+For this reason, your use of RescueTime would likely be covered by HIPAA, because some applications' window titles may have a patient's name or similar small but identifiable detail.
+It would be possible to take advantage of our privacy configurations and controls to restrict what is captured and measured, to prevent this requirement altogether while using RescueTime.
+However, this may limit the utility of the product to you.
+
+...
+So, assuming you need HIPAA compliance to use RescueTime:
+Secure network transmission: HIPAA requires that all transmission of data between your business or our software be encrypted.
+RescueTime meets this requirement.
+
+Physical security: The service must be hosted in an access limited and monitored facility.
+RescueTime meets this requirement by maintaining all resources in Amazon's EC2 data center.
+
+Access control: Operational access to the service must be secured for authorized use only and be auditable.
+RescueTime meets this requirement.
+
+Safe practices and policies: The service should maintain disaster recovery plans and offsite backups.
+RescueTime meets this requirement, primarily by leveraging features of Amazon's EC2 service.
+
+The HITECH supplement requires SaaS products to report intrusion or security events that effect customers' data.
+Specifically, the requirement is that if customer data resides in storage unencrypted (for example, a backup), even in a secured environment, that the service provider (us) must notify all and any customers whose data could have been vulnerable as the result of an intrusion event or other security violation.
+RescueTime guarantees its customers that it will alert any and all customers possibly affected by a security defect or hacking event.
+Note: At this time, RescueTime has not contracted an audit firm to provide third party validation of compliance.
+Please contact sales@rescuetime.com for more information on how we can accommodate your needs.
+
+ SAS70 and the rest  RescueTime is a fast growing business, and we contract services as needed as we continue to grow.
+As of this time we have not engaged our own SAS70 audit.
+Much of what these audits require is covered simply by operating on EC2.
+However, the web site services above and beyond the platform level is not.
+We are happy to consider all questions regarding obtaining audits.
+We have some clients that perform their own tests against our system to ensure we meet their standards.
+ Here's a plan to get started: 
+ SIGN UP NOW, try it out, adjust the settings.
+It's easy to make it work for you.
+Start "locked down" if you want by unchecking the details options.
+
+ If you make privacy related changes, you can "erase all logged time" and start fresh when you are happy with settings.
+You can also ignore and erase individual apps and sites.
+
+ Talk to us.
+Whatever you're trying to manage, we can probably make it work.
+Our app has the ability to apply custom rules for any app or site.
+
+ View the privacy policy or ask us a question Please let us know if you have concerns not covered in this information. // Cookies help us deliver our services.
+By using our services, you agree to our use of cookies.
+OK Product Sign Up Sign In For Teams Support Help Contact Us Security Privacy For Developers Terms of Service Company Who We Are Press Resources Jobs Affiliates &amp.
+Partners Resources Blog Community Customer Stories System Status Take back control of your Time

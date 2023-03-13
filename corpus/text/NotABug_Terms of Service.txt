@@ -1,0 +1,89 @@
+
+         Please enable JavaScript in your browser! Home Explore Help 
+ Register 
+ Sign In Terms of Service 
+Terms of Service
+Code of Conduct
+Privacy Policy
+ Terms of Service  NotABug.org provides Git repository, Wiki, and issue tracker hosting, referred to as hosting from here on in this document, for Free/Libre software projects as defined by the Free Software Foundation under certain terms and conditions  Reporting  If you find a violation of these terms anywhere on NotABug.org, or you have questions about this policy, please contact admin@notabug.org. Copyright  NotABug.org does not claim any ownership of any data uploaded by its users.
+Using NotABug.org does not constitute a transfer of copyrights to NotABug.org. Public repositories  NotABug.org will provide public hosting for projects for which the following conditions are met: 
+
+ Your projects' source code is licensed under a license compatible with the Free Software definition
+ Non-source components of your project are licensed compatible with the definition of free culture works.
+In addition any version of the GNU Free Document License is permitted.
+
+ Your project is of reasonable size.
+Currently this is around 1GB in size.
+Exceptions can and will be made.
+contact admin@notabug.org if you feel your project should get an exemption.
+ The content of your project, and the conduct of your projects' members conform to our Code of Conduct
+ You agree to, and understand our Privacy Policy
+ Failure to adhere to these terms will result in a warning being issued to the email address we have on file, and your project will be made private immediately.
+If we do not get a response or the project is not brought in conformance within one week the project and all associated data will be deleted.
+
+ Private repositories  NotABug.org will provide you with private Git repositories for which the following conditions are met: 
+
+ Your project is of reasonable size.
+Currently this is around 100MB in size.
+Exceptions can and will be made.
+contact admin@notabug.org if you feel your project should get an exemption.
+ Your conduct conforms to our Code of Conduct
+ You agree to, and understand our Privacy Policy
+ Failure to adhere to these terms will result in a warning being issued to the email address we have on file.
+If we do not get a response or the project is not brought in conformance within one week the project and all associated data will be deleted.
+
+ Code of conduct  NotABug.org is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion.
+We do not tolerate harassment of participants in any form.
+This code of conduct applies to all NotABug.org spaces, including Git repositories, issues, comments, and wiki content, both online and off.
+Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the NotABug.org operators.
+Some projects hosted on NotABug.org may have additional rules in place, which will be made clearly available to participants.
+Participants are responsible for knowing and abiding by these rules.
+Clearly available is defined as a file named "CONDUCT" in the root of a repository, optionally in markdown format.
+This document supersedes any project specific code of conduct in case of a conflict. Privacy Policy  NotABug.org takes your privacy very seriously, apart from tracking required for normal operation of the site we make no further attempts to identify you or your activity.
+NotABug.org is also available through the Tor anonymous network.
+Additionally NotABug.org maintains a Tor hidden service at http://qs3zumwfci4tntnd.onion/.
+Please see this for additional information. Public activity  As the function of NotABug.org is to share code and ideas many of your actions will be available to the internet at large.
+Please be aware that the email address you use in your Git pushes will be publicly visible in any Git repository that you collaborate with, and any forks made of those repositories.
+ Tracking  We do not track your movements through the site besides normal HTTP server logs.
+We do not incorporate any special tracking features.
+Our webserver logs contain your IP address which we use to better understand how our visitors use NotABug and to enforce the terms of service.
+We retain your original IP address in our logs for up to 2 weeks after which they will be anonymized by hashing the address.
+ Third-party services  NotABug.org does not incorporate any third-party javascript, we do, however, use Libravatar for avatar hosting.
+This means that on certain requests your browser may make a request to https://seccdn.libravatar.org/avatar.
+We are working on a way to turn this off on a per-user basis. Data transfer conditions  NotABug.org will never sell or trade any of your information with third parties.
+But as a normal function of the website visitors to the website have access to all your public activitiy such as Git pushes, Issue comments, and wiki edits.
+We will not share your information with law enforcement unless compelled to do so by a valid warrant in our jurisdiction.
+Where legally possible we will attempt to inform you through the email address we have on file if this were to occur.
+All NotABug.org data is stored in the European Union. Cookies  NotABug.org sets three cookies in your browser:
+ Session cookies 
+
+
+ notabug_session - This is a session identifier.
+This is used to keep you logged into the site.
+(essential site functionality) 
+ _csrf - see This for an explanation.
+(essential site functionality) 
+
+ Long-lived cookies 
+
+ lang - Stores the language you chose for the NotABug.org interface.
+(client experience)
+ We do not set any third party cookies in your browser 
+ Account deletion  Should you choose to delete your account all account data will be removed from our backups within 24 hours.
+After this we have no data to tie your old account to your public activity.
+We do not delete records of your public activity in issues and comments made on repositories not previously owned by your account, but this data is anonymized (Attributed to DeletedUser).
+If you would prefer to delete this data also you can do so manually before deleting your account.
+Note that it is not possible to delete references to your account from comments not made by you.
+Additionally, we cannot delete any Git pushes done by your account on repositories not owned by you. Jurisdiction  The NotABug.org servers are hosted on rented servers in Germany, the owners of the NotABug.org service are Dutch citizens.
+ Contact  We will not contact you for any reason except in the following situations: 
+
+ A breach of our terms of service has been reported to us and needs investigation.
+
+ A major change to our Terms of Service has been implemented.
+
+ We have received a warrant for information about your account.
+
+ Older versions of this document  This document is maintained on NotABug.org here.
+ Terms of Service â¢ About us â¢ Outages â¢ Report a problem â¢ Javascript licenses â¢ SSH Fingerprints 
+ English English ç®ä½ä¸­æ ç¹é«ä¸­æï¼é¦æ¸¯ï¼ ç¹é«ä¸­æï¼èºç£ï¼ Deutsch franÃ§ais Nederlands latvieÅ¡u ÑÑÑÑÐºÐ¸Ð¹ æ¥æ¬èª espaÃ±ol portuguÃªs do Brasil polski Ð±ÑÐ»Ð³Ð°ÑÑÐºÐ¸ italiano suomi TÃ¼rkÃ§e ÄeÅ¡tina ÑÑÐ¿ÑÐºÐ¸ svenska íêµ­ì´ galego ÑÐºÑÐ°ÑÐ½ÑÑÐºÐ° English (United Kingdom) Magyar SlovenÄina Indonesian Persian 
+      

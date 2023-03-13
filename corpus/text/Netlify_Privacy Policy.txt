@@ -1,0 +1,235 @@
+
+         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZQ32TR" height="0" width="0" style="display:none;visibility:hidden"></iframe&gt.
+Netlify logotype  New plugin: Install Next.js on Netlify with a single click! Learn more  Home Skip to content Menu 
+Search
+Platform The Netlify Platform Explore how it works 
+Instantly build and deploy your sites to our global network from Git.
+Custom domains, HTTPS, deploy previews, rollbacks, and much more.
+
+ Netlify Build 
+ Netlify Edge 
+ Netlify Functions 
+ Netlify Workflow 
+ Key Features 
+Deploy Preview 
+Split Testing 
+Forms 
+Identity 
+Analytics 
+Security 
+Edge Handlers  New
+Build Plugins 
+ Technologies 
+ Jamstack 
+ React 
+ Vue.js 
+ Gatsby 
+ Angular 
+ Next.js 
+ Sitecore 
+ Drupal 
+ WordPress 
+
+
+ Pricing 
+Enterprise Netlify Enterprise 
+High-Performance Products
+Customers
+Resources
+Enterprise Whitepaper
+Security at Netlify
+Agency Partner Program
+ Solutions 
+E-commerce
+Web Applications
+Large Sites
+What others have built
+ Case Study Canada's largest grocer delivers sites 10x faster, while saving money 92% Better Performance $38k Monthly Cost Savings View Case Study 
+Jamstack 
+Jamstack Architecture
+Jamstack Introduction
+Jamstack Book
+Jamstack Conf
+ + New Techniques for Ultra Fast Sites and Web Applications by Mathias Biilmann &amp.
+Phil Hawksworth Get the eBook for Free 
+Community 
+Netlify Community
+Blog
+Community Hub
+Support Forum
+Jamstack Explorers
+Remotely Interesting Podcast
+Swag Store
+ Visit our Community Find resources, ask questions, and share your knowledge! Go to Community 
+ Docs 
+
+
+Search
+Contact sales
+Log in
+Sign up
+ Privacy Policy Netlify takes your privacy seriously.
+We will not sell, lease, or exchange your personal data to, or otherwise share your personal data with, third parties in ways other than described in this Privacy Policy.
+Netlify complies with the EU-U.S.
+Privacy Shield Framework as set forth by the U.S.
+Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States.
+Netlify has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
+If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/list.
+By using Netlify including services available at the Netlify.com domains, you are using a service provided by Netlify (the âServiceâ) and you agree to be bound by the Terms of Service and this Privacy Policy.
+Some capitalized terms used in this Privacy Policy and not otherwise defined may be defined in the Terms of Service.
+This Privacy Policy only addresses activities from our servers. Consent and Information Collection and Use When you join us as a user of our Services, we ask for personal information that will be used to activate your account, provide the Services to you, communicate with you about the status of your account, and for other purposes set out in this Privacy Policy.
+Your name, company name, address, telephone number, email address, credit card information and certain other information about you may be required by us to provide the Services or disclosed by you during your use of the Services.
+You will also be asked to create a private password, which will become part of your account information.
+By providing personal information to us and by retaining us to provide you with the Services, you voluntarily consent to the collection, use and disclosure of such personal information as specified in this Privacy Policy.
+Without limiting the foregoing, we may on occasion ask you to consent when we collect, use, or disclose your personal information in specific circumstances.
+Sometimes your consent will be implied through your conduct with us if the purpose of the collection, use or disclosure is obvious and you voluntarily provide the information.
+We may use your personal or account information for the following purposes:
+
+To provide the Services to you and to improve the quality of the Site and Services,
+To provide information to you so that you may use the Site and Services more effectively,
+To create, manage and control your account information, and to verify access rights to services and software,
+To bill your account,
+To communicate with you for the purpose of informing you of changes or additions to the Services, or of the availability of any service we provide,
+To assess service levels, monitor traffic patterns and gauge popularity of different service options,
+To carry out our marketing activities;
+To enforce this Privacy Policy;
+To respond to claims of any violation of our rights or those of any third parties;
+To respond to your requests for customer service;
+To protect the rights, property or personal safety of you, us, our users and the public.
+and as required or authorized by law.
+
+We may occasionally communicate with you regarding our products, services, news and events.
+You have the option to not receive this information.
+We provide an opt-out function within all email communications of this nature, or will cease to communicate with you for this purpose if you contact us and tell us not to communicate this information to you.
+The only kind of these communications that you may not âopt-outâ of are those required to communicate announcements related to the Services, including information specific to your account, planned Services suspensions and outages.
+We will attempt to minimize this type of communication to you. Age of Consent We do not knowingly provide the Services to, and will not knowingly collect the personal information from anyone under the age of consent. Rights to Your Information You have the right to access, edit and delete your information at any time through the web interface provided as part of the Services. California Residents In accordance with California Consumer Privacy Act (CCPA), we do not sell, rent, or share personal information with third parties as defined under the California Consumer Privacy Act of 2018 (California Civil Code Sec.
+1798.100 et seq.), nor do we sell, rent, or share personal information with third parties for their direct marketing purposes as defined under California Civil Code Sec.
+1798.83.
+Please refer to the GDPR/CCPA page for details of Netlify commitment on GDPR and Netlify Data Protection Addendum (DPA). EU Residents Netlify will subject all EU residents personal information received via the Privacy Shield to the EU-U.S.
+Privacy Shield Principles.
+Netlify is subject to the investigative and enforcement authority of the Federal Trade Commission (FTC).
+Netlify may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+In accordance with the Privacy Shield Principles, Netlify is committed to resolve complaints about our collection or use of your personal information and you may contact us at privacy@netlify.com
+Netlify is also committed to cooperate with the EU Data Protection Authorities (DPAs) with regard to unresolved Privacy Shield complaints for EU individuals.
+Netlify has liability for onward transfers to third parties unless we can prove we were not a party to the events giving rise to the damages.
+Additionally, an individual may be allowed to invoke binding arbitration to resolve disputes under certain limited conditions See Privacy Shield Annex 1 at https://www.privacyshield.gov/article?id=ANNEX-I-introduction
+Please refer to the GDPR/CCPA page for details of Netlify commitment on CCPA and Netlify Data Protection Addendum (DPA). Disclosure We will only share your information with third parties in accordance with your instructions or as necessary to provide you with a specific service or otherwise in accordance with applicable privacy legislation.
+As a general rule, we do not and will not sell, rent, share or disclose your personal information without first receiving your permission or as permitted in this Privacy Policy. Aggregated Data We may also use your personal information to generate Aggregated Data for internal use and for sharing with others on a selective basis.
+âAggregated Dataâ means records which have been stripped of information potentially identifying customers, landing pages or end-users, and which have been manipulated or combined to provide generalized, anonymous information.
+Your identity and personal information will be kept anonymous in Aggregated Data. Links The Site may contain links to other sites and we are not responsible for the privacy practices or the content of such sites.
+We encourage you to read the privacy policy of linked sites.
+Their privacy policies and practices differ from our policies and practices. Cookies and Log Files We use cookies and log files to track user information.
+Cookies are small amounts of data that are transferred to your web browser by a web server and are stored on your computerâs hard drive.
+We use cookies to track which page variant a visitor has seen, to track if a visitor has clicked on a page variant, to monitor traffic patterns and to gauge popularity of service options.
+We will use this information to deliver relevant content and services to you.
+This also allows us to make sure that visitors see the website they expect to see if they return to the same web URL and it allows us to tell you how many people click on your website. Change of Ownership or Business Transition In the event of a change of ownership or other business transition, such as a merger, acquisition or sale of our assets, your information may be transferred in accordance with applicable privacy laws. Security We will strive to prevent unauthorized access to your personal information, however, no data transmission over the Internet, by wireless device or over the air is guaranteed to be 100% secure.
+We will continue to enhance security procedures as new technologies and procedures become available.
+We strongly recommend that you do not disclose your password to anyone.
+If you forget your password, we will ask you for your ID and send you an email containing a link that will allow you to reset your password.
+Please remember that you control what personal information you provide while using the Services.
+Ultimately, you are responsible for maintaining the secrecy of your identification, passwords and/or any personal information in your possession for the use of the Services.
+Always be careful and responsible regarding your personal information.
+We are not responsible for, and cannot control, the use by others of any information which you provide to them and you should use caution in selecting the personal information you provide to others through the Services.
+Similarly, we cannot assume any responsibility for the content of any personal information or other information which you receive from other users through the Services, and you release us from any and all liability in connection with the contents of any personal information or other information which you may receive using the Services.
+We cannot guarantee, or assume any responsibility for verifying, the accuracy of the personal information or other information provided by any third party.
+You release us from any and all liability in connection with the use of such personal information or other information of others. Contact Us If you have any questions or suggestions regarding our Privacy Policy, please contact us at privacy@netlify.com Home Stay up to date with all Jamstack &amp.
+Netlify news Email address Subscribe Why Netlify 
+Customers
+Enterprise
+Resources
+Agency Partner Program
+ Products 
+Platform
+Netlify Build
+Netlify Edge
+Netlify Dev
+Pricing
+Add-ons 
+Analytics
+Functions
+Identity
+Forms
+Large Media
+
+
+ Learn 
+Docs
+Open Source
+Jamstack book
+Community
+Security
+Site Speed Test
+Technologies 
+Jamstack
+Vue.js
+Gatsby
+Angular
+Next.js
+Sitecore
+Drupal
+WordPress
+
+
+ Contact us 
+Sales
+Support
+Status
+Forums
+ Company 
+Blog
+About
+Careers
+Press
+Netlify Store
+Sustainability
+
+Â© 2020 Netlify Twitter GitHub Community YouTube Jamstack 
+What is Jamstack?
+Who is using Jamstack?
+Jamstack for ecommerce
+Jamstack book
+Jamstack radio
+Jamstack conference
+Jamstack community
+ Deployment 
+How to deploy Vue.js applications to the web
+How to prerender content for the web
+Deploying a single page application
+What is a CDN?
+Structured Redirects and Headers
+What is an edge service provider?
+A/B testing on Static Sites
+Split testing for private features
+Deploy websites from Git
+Continuous Deployment
+Deploy tools: deployed branches
+Deploy tools: locked deploys
+Deploy tools: drag n drop/manual deploys
+Custom domains
+Wordpress Migration
+ Serverless 
+What is a serverless website?
+What are serverless functions?
+Serverless Functions and Lambda
+Netlify Functions
+What are microservices?
+Identity APIs
+Ecommerce APIs
+Express.js with Serverless Functions
+Guide: How to Create an API with AWS
+ Development 
+Versioning and Rollbacks
+Continuous integration and deployment
+Build tools
+ Markup and Static Site Generators 
+What are static site generators?
+Deploy a static site
+Compare best static site generators
+ Performance 
+Post processing
+Minification
+Caching
+Images and performance
+ Terms Privacy GDPR/CCPA DMCA Abuse Search Back to top Search for: 
+      

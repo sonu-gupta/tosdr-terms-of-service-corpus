@@ -1,0 +1,280 @@
+
+         Toggle navigation SteamID 
+
+
+
+
+ Tools 
+Tools
+Multiple Account Finder
+Multiple Mutual Friend Finder
+Avatar / Player finder
+Text Searching
+Name Search
+Name search (Historic)
+Summary search
+ Available Community URL search
+ Removed Friends Tracker
+Group detail search
+Community URL History search
+
+
+ Devs 
+SteamID API
+SteamID Listner
+SteamID WebHooks
+Sourcemod Plugin
+
+
+ My pages 
+My Patreon Manager
+My API Manager
+My Account
+My Watch &amp.
+Ban List
+My Player Notes
+
+
+ Teams 
+Team Search
+
+
+New Team
+Manage Team
+Team Reports / Exports
+Team Members
+Team invites
+Team Comments
+
+
+ Stats &amp.
+Lists 
+Stats by SteamID digit
+Top rated players
+Lowest Scored players
+Top Steam Levels
+Community Removed
+Most Tracked Players
+
+
+Bans by SteamID digit
+VAC Ban Waves
+VAC banned statistics
+Trade banned statistics
+Community banned statistics
+Game banned statistics
+
+
+Games - Most Hours
+Games - Most Owned Games
+Games - Most value in games
+
+
+Re-used Vanity URLS
+
+
+special profiles lists
+
+
+Downloads
+
+
+
+
+ Help 
+Finding profiles
+Profile Data information
+
+
+How to find my Steam ID
+
+
+About
+FAQ
+Contact SteamID
+
+
+ Advanced 
+
+
+
+
+
+ SteamID Ã SteamID's Privacy Policy This Privacy Policy governs the manner in which SteamID collects, uses, maintains and discloses information collected from users (each, a "User") of the SteamID's website ("Site","SteamID","SteamID API").
+This privacy policy applies to the Site and all products and services offered by SteamID.
+
+
+SteamID access to SteamCommunity Data
+
+SteamID collects information via the public SteamAPI which allows services such as SteamID to collect data.
+The User that has generated this content has agreed its use under the Steam Subscriber agreement.
+This Privacy policy has been written to conform with the SteamAPI policy
+
+SteamID does not have access or collect your personal SteamCommunity data
+
+ An example of a steam API call can be viewed here Please note this old XML method has been deprecated for some years but provides a basic view.
+
+There is a Steam Web API Wiki if you would like to read more into the current SteamAPI
+
+
+What is the non-personal infomation we collect from Steam used for?
+
+The data that we collect about gaming profiles is used to draw statistics and provide a look up service which aids in spotting scammers, cheaters, purchased accounts, compromised accounts, accounts pretending to be bots for other third party services.
+It is also used to locate old friends, get copies of your old avatars.
+This service includes but not limited to displaying Friends list , Old friends , Previous avatars, previous gaming personas, level history , CustomURL history, easy viewing of friend bans and much more.
+ Further expansion on data collected from the SteamAPI and how we deal with certain fields
+The real name "realnamee" field passed though on the SteamAPI is not stored in a database or processed with SteamID.
+The Country "loccountrycode" field set on the Steam profile is displayed and is recoreded for statistics
+The gaming avatar URL is collected BUT the raw image itself is not stored
+ Personal identification information (and how this is used)
+ Data Source: user input - SteamID
+
+We may collect personal infomation that is voluntary given to SteamID from Users once signed into steamid.uk.
+This is used to contact you via email if required and send you optional email notifications.
+
+Optional registration to SteamID is required to gain access to some features which will require us to store your email address and send you verification emails.
+
+
+
+ The right to erasure (the right to be forgotten) / GDPR / DataProtection / Personally identifiable information
+
+SteamCommunity Data
+SteamID has no access to personal information held on steam servers only what we are given over the public Steam API.
+
+SteamID Understands common requests surrounding the Real Name field "realname" on the SteamAPI and the Gaming avatar field "avatarIcon" which are available from Steam via the community API
+
+
+â¢ Real Name
+The real name field is pulled though from the Steam platform live, this is not proccsesd or stored by SteamID.
+
+
+â¢ Gaming avatar
+
+SteamID does not store your gaming avatar, only the link to the content which is not hosted on the SteamID network.
+SteamID may proxy over the images as we blur images not manually validated to prevent adult material being displayed, Blurred images are in most cases unrecognisable as they are so heavily modified beyond recognition
+To request that the avatar be un-linked to your profile please refer to the Data manager 
+ GDPR
+What personal information can I expect SteamID to store
+
+â¢ Name - This is optional
+â¢ Email- This is optional
+â¢ Patreon Name - This is optional
+â¢ Patreon Email- This is optional
+
+â¢ IP Address
+
+
+Where can i view my personal information stored?
+
+The GDPR Manager will show all personal information held on SteamID
+
+What does SteamID use this personal information for?
+
+â¢ Name
+
+Your name is used to address you on emails should you wish to receive emails
+
+â¢ Email
+
+Your email address is used to send emails about services you are using with SteamID
+
+â¢ Patreon Name
+
+Your name is used to address you on emails / Patreon messages
+
+â¢ Patreon Email
+
+Your email address is pulled though from the patreon API and it is used to link up your Patreon support
+
+
+â¢ IP Address
+
+When visiting this website, Your IP address is logged.
+This is for the purpose of detecting and preventing fraud and maintaining security of the SteamID network.
+The IP address is not stored in its original viewable form.
+
+IP logs are cleared automatically after 1 year, unless there is manual intervention relating to fraud or security needs.
+General webserver logs are generally cleared within 48 hours.
+
+Where do you store my personal data?
+
+The data is stored electronically within the main database which is located in a secure data center.
+This data maybe pulled securely from the database within the SteamID network to another SteamID server to process a requests
+
+
+Removal of personal data
+
+Personal SteamID Data Removal
+If you have chosen to enter your personal information in the My Profile page OR pledge via patreon you can remove this if you wish, the data is not locked in the database &amp.
+not kept in an audit table in the database, Once it's removed its gone from the database itself.
+
+Please note that the removal of this may break certain access to the website as once its gone, it really is gone.
+
+To remove this please view the GDPR Manager which will always be updated if any new personal information fields are introduced in the future.
+Your email address may appear in email server logs if you have been sent emails from SteamID, such as to validate your address to use features.
+
+ Removal of non-personal data
+
+non-personal profile data removal
+We understand that some users have entered their FULL name, Birthdate as their persona / gamer name, which may allow them to become personally identifiable.
+If you have used your full personal name as your non-personal online persona you can request deletion from the data manager In some instances where it is suspected that the request has not been made by the original account holder, further verification maybe required.
+Data can only be requested on your own profile and not a profile that is not owned by you.
+
+ SteamID API
+
+The SteamID API requires that you link back to SteamID where the use of the SteamID API is being used, Failure to do this could result in your SteamID API use to be suspended.
+
+You must ensure that your application that uses the SteamID API wont harm the SteamID API Service &amp.
+Servers, Any automated method in accessing the SteamID API should have adequate measures in place to prevent abuse / spamming before making requests.
+ All API requests are logged to produce analytics of this service, Abuse of the API is also flagged so please use fairly.
+
+SteamID Reserves the right to Change the SteamID API and suspend any API access without warning.
+
+
+ Non-Personal identification information
+
+We may collect non-personal identification information about Users whenever they interact with our Site.
+Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+Web browser cookies
+
+Our Site may use "cookies" to enhance User experience.
+User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them.
+User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent.
+If they do so, note that some parts of the Site may not function properly.
+
+
+Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties.
+We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site.
+In addition, these sites or services, including their content and links, may be constantly changing.
+These sites and services may have their own privacy policies and customer service policies.
+Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies.
+These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer.
+This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you.
+This privacy policy does not cover the use of cookies by any advertisers.
+
+Google Adsense &amp.
+Analytics
+
+Some of the ads may be served by Google.
+Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet.
+DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc.
+You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+
+Changes to this privacy policy
+
+SteamID has the discretion to update this privacy policy at any time so we recommend you check back when using the SteamID.
+
+Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy and terms of service.
+If you do not agree to this policy, please do not use our Site.
+Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+ About SteamID started in 2009 to help combat cheaters and scammers Support Patreon Supporters Help FAQ Legal / Data Legal / Privacy SteamID Usage GDPR Manager Data Manager Stats SteamID Stats Steam Digit Stats 62 users online Ban statistics VAC banned statistics Trade banned statistics Community banned statistics Game banned statistics SteamID 2009 ~ 2021 - This site is not affiliated with Valve / Steam in any way.
+Historic data is stored by SteamID

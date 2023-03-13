@@ -1,0 +1,159 @@
+
+         Skip to content Sign up 
+ Why GitHub? Features â 
+Code review
+Project management
+Integrations
+Actions
+Packages
+Security
+Team management
+Hosting
+Mobile
+
+
+Customer stories â
+Security â
+
+
+ Team 
+ Enterprise 
+ Explore 
+Explore GitHub â
+ Learn &amp.
+contribute 
+Topics
+Collections
+Trending
+Learning Lab
+Open source guides
+ Connect with others 
+Events
+Community forum
+GitHub Education
+GitHub Stars program
+
+
+ Marketplace 
+ Pricing Plans â 
+Compare plans
+Contact Sales
+
+
+Nonprofit â
+Education â
+
+
+
+
+ Search All GitHub âµ Jump to âµ 
+
+
+ No suggested jump to results 
+
+
+ Search All GitHub âµ Jump to âµ 
+ Search All GitHub âµ Jump to âµ 
+ Sign in Sign up {{ message }} Security Trust and privacy Team Incident response Security Security at GitHub Millions of teams trust GitHub to keep their work safe.
+Our team of experts goes beyond industry standards to secure our platform.
+And builds features that help you do the same.
+ Meet our Team â 
+ See how we earn your trust â  Securing software, together Introducing community-powered ways to discover, report, and prevent security vulnerabilities. Learn more â GitHub Advisory Database NEW Browse a curated database of CVEs and security, mapped to packages tracked by the GitHub dependency graph. Learn more â Security incident response Our threat detection program provides investigation, response, and coordination for all security incidents at GitHub. Learn more â The GitHub Bug Bounty Program Weâve invited the security research community to help make our product more secure since 2014. Learn more â Features Secure code,
+from blueprint to execution Accounts and access Keep your GitHub account secureâand review important changes along the way.
+
+ Two-factor Authentication (2FA) (SMS, TOTP) 
+ Universal Second Factor (U2F) 
+ Delegated Account Recovery 
+ Git over Secure Shell (SSH) and HTTPS 
+ GPG commit-signing verification 
+ Email privacy controls 
+ Security audit log 
+ Teams and integrations Manage teams, projects, and integrations to do your best work securely.
+
+ Fine-grained access controls 
+ SAML 
+ LDAP 
+ Repository access levels (Read, write, and admin) 
+ Default repository permissions 
+ OAuth Application Whitelists 
+ Security monitoring through organization-wide webhooks 
+ Access controls for third-party integrations 
+ Projects and monitoring Build confidently with exactly the right teamsâand monitor security as you go.
+
+ Required reviews 
+ Required status checks 
+ Built-in continuous integration (CI) and testing 
+ Read only deploy keys 
+ Deployments API 
+ Monitoring and logging 
+ Evidence key controls 
+
+Find a plan that meets your teamâs security needs. Compare plans â Questions about security? Have a question, concern, or comment about GitHub security? Please contact GitHub Support. Contact GitHub Support News Stay up to date 
+ GitHub Advisory Database launchedâ 
+ Securing software, togetherâ 
+ Introducing new ways to keep your code secureâ 
+ New improvements and best practices for account security and recoverabilityâ 
+ Soft U2Fâ 
+ A glimpse into GitHub's Bug Bounty workflowâ 
+ Product 
+Features
+Security
+Team
+Enterprise
+Customer stories
+The ReadME Project
+Pricing
+Resources
+Roadmap
+ Platform 
+Developer API
+Partners
+Atom
+Electron
+GitHub Desktop
+ Support 
+Help
+Community Forum
+Professional Services
+Learning Lab
+Status
+Contact GitHub
+ Company 
+About
+Blog
+Careers
+Press
+Social Impact
+Shop
+
+
+ Twitter 
+ Facebook 
+ YouTube 
+ LinkedIn 
+ GitHub 
+
+
+Â© 2020 GitHub, Inc.
+Terms
+Privacy
+ Cookie Preferences
+
+Site Map
+What is Git?
+ You canât perform that action at this time.
+You signed in with another tab or window.
+Reload to refresh your session.
+You signed out in another tab or window.
+Reload to refresh your session.
+ We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+Learn more.
+ Accept Reject  We use optional third-party analytics cookies to understand how you use GitHub.com so we can build better products.
+ You can always update your selection by clicking Cookie Preferences at the bottom of the page.
+For more information, see our Privacy Statement.
+ Essential cookies We use essential cookies to perform essential website functions, e.g.
+they're used to log you in.
+Learn more  Always active Analytics cookies We use analytics cookies to understand how you use our websites so we can make them better, e.g.
+they're used to gather information about the pages you visit and how many clicks you need to accomplish a task.
+Learn more  Accept Reject Save preferences 
+      

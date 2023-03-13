@@ -1,0 +1,29 @@
+
+        
+GotHub is an alternative front-end for GitHub.
+Features
+
+Lightweight - for both you and the instance host
+No JavaScript - pure HTML and CSS goodness
+No requests made to Micro$oft - they won't even know you made a request!
+Open source - for peer review &amp.
+trustworthiness
+Save bandwidth - no JavaScript/tracking bloat loaded!
+
+Privacy
+GitHub is owned by Microsoft, a big tech company known to track it's users.
+If you care, you can read GitHub's privacy policy here or if you don't care enough to read all that and want it condensed.
+GotHub solves this by proxying all GitHub requests for you!
+Usage
+Just replace github.com with gh.vern.cc!
+DMCA/Copyright Notice
+All content shown on this site are from GitHub.
+Any issues with content shown on this site needs to be reported to GitHub, not the instance host's internet or domain provider.
+This project was made as a "spiritual successor" to Riverside Rocks' 1337git which is, unfortunately, hosted on GitHub.
+Kinda ironic.
+This project does not let you clone GitHub repositories.
+I would recommend using a VPN if you have to clone a GitHub repository and want to keep yourself private from them instead.
+Credits
+Midou36O - desigining the GotHub logo
+
+ GotHub version: 7eb43d9c

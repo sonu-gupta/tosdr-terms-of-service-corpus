@@ -1,0 +1,101 @@
+
+The purpose of Two-Step Verification is to protect you from unauthorized logins into your Ring account. 
+Every time you log into Ring (any app, ring.com or Ring Community) you will receive a One-Time Passcode via your email address on file, and you will have to enter a six-digit code to successfully log in.
+
+The passcode expires after 10 minutes.
+You can request "Resend code" after 60 seconds if you havenât received it.
+If you continue to use your mobile apps every 30 days, you will not have to login via Two-Step Verification (unless you log out, or "Remove All" authorized devices from Control Center).
+
+
+Note: A feature on the sign-in page will allow you to choose to remember the browser you logged in with.
+By agreeing to identify your browser, you will not be challenged by Two-Step Verification for 30 days. 
+Troubleshooting
+If you are receiving an âerror occurredâ or âbad connectionâ similar error message when logging into your Ring App, this is because your app requires an update to continue.
+You can update your app by following this link: https://ring.com/gettheapp. 
+The following Ring app versions do not have the ability to utilize Two-Step Verification:
+
+
+iOS 5.12 or earlier
+
+
+You may receive an error message stating, âYour internet connection is not currently working.
+Please try again."
+
+
+
+Android 3.12 or earlier
+
+
+You may receive an error message stating, âAn error occurred trying to perform the operation.
+Try again later.
+
+
+What happens if I'm unable to receive, or cannot locate, the Two-Step Verification email?
+Search your email for the subject line, âNew Login Attemptâ.
+This email should include the 6-digit code necessary to log in to your account.
+
+Note: Codes expire 10 minutes after the login attempt.
+Double-check spam folders, or other filters that might be active on your email account.
+FAQs
+
+What is Two-Step Verification?
+Two-Step Verification is a mandatory, enhanced security feature that helps keep your account secure and prevents unauthorized users from gaining access to your Ring account.
+With every new login to your Ring account, you will receive a six-digit code to verify your login attempt.
+That one-time code needs to be entered within 10 minutes before you can access your Ring account.
+If you are already logged into your account, in the Ring app for instance, you will not be asked to enter a code.
+If you log into your account from another device, you will be asked to enter a verification code.&nbsp.
+ 
+We have added an additional measure of security for you and also require any Shared Users on your account to use Two-Step Verification.
+The same code entry process happens for any Shared Users that you have on the account.
+They will receive a one-time code, which expires in 10 minutes, and will have to enter it in order to get access to their Ring account.  
+You or your Shared Users can choose to receive the one-time passcode via the email address listed on the Ring account or on a phone as a text message (SMS).
+Requiring this code helps ensure that the person trying to log into your account is actually you and that your Shared Users are also authorized to access information from your Ring account.  
+
+Is this feature available for every Ring user? Is it mandatory?
+Yes.
+Upon every Ring account login, you will be prompted to enter a one-time, six-digit code to verify the login attempt.
+This applies to primary account Owners as well as Shared Users.
+If you already have SMS (text) verification enabled, you will receive the one-time six digit code through a text message instead of an email to verify your login.
+
+Why is Ring doing this?
+The Two-Step Verification is a way of securing your account from bad actors by making sure that you know and can identify any browser or device that is being used to access your account.
+
+Am I going to have to do this every time I log into my account?
+No.
+If you continue to use your mobile apps every 30 days, you will not have to login via Two-Step Verification (unless you log out or "Remove All" authorized devices).
+
+How long does the six-digit code last?
+The code will last for 10 minutes.
+After that, you'll need to attempt to log back in to get a new code.
+
+What happens if I don't receive the code at my email address?
+Be sure to check your spam filter for the code.
+If you still haven't received it, you can ask for the code to be re-sent after 60 seconds have elapsed.
+
+I donât see this feature in my app / I am not being prompted to enter the six digit code in my app, why canât I use this feature?
+If you received the Two-Step Verification email, but are unable to enter the six-digit code in the Ring app, you will need to update your Ring app to the latest version.
+
+Are users being forced to log out of their accounts because of this feature?
+No.
+
+Can you opt out of Two-Step Verification?
+No.
+
+If I have text message verification turned on, will I still receive the Two-Step Verification email?
+No.
+If you already have text message verification enabled, you will receive the one-time six digit code through a text message instead of an email.
+
+What if I set up my Ring account with an email I no longer use / have access to?
+If you have an email tied to a Ring account that you no longer use or have access to, you should call Ring Community Support for assistance.
+
+Will Shared Users receive Two-Step Verification emails as well?
+Yes.
+All Ring accounts, including shared users, will need to authenticate all logins to their Ring account by using Two-Step Verification.
+All new shared user logins must be authenticated by entering the one-time, six-digit code in the Ring app.
+If a shared user already has text verification enabled, they will receive the one-time six digit code through a text message instead of an email.
+
+What about the Neighbors app or Rapid Ring app?
+Yes, Two-Step Verification is mandatory for all logins on the Neighbors app, Rapid Ring app, Ring.com, and Ring Community as well.
+
+What do I do if I no longer have access to the mobile device I was using for Two-Step Verification?
+If you no longer have access to the mobile device you used for Two-Step verification, please contact our Support team.

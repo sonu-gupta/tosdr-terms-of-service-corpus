@@ -1,0 +1,25 @@
+
+         Mumble/PrivacyFrom NixNetNamespaces
+Page
+Discussion
+More
+More
+Page actions
+Read
+View source
+History
+&lt.
+Mumble
+Logs are recorded every day, stored for a week, then shredded.
+See logrotate for technical information.
+Administrators (currently only Amolith) can view your IP address, operating system and operating system version, Mumble client version, and public certificate.
+Voice data is encrypted in transport (more information)
+
+Keep in mind that, while Mumble provides recording functionality and there are visual indicators when it's being used, malicious individuals could be recording your conversation with other software.
+Mumble should be considered as private as IRC and the same precautions taken with both.
+
+Note: temporary email accounts, fake names, made up usernames, etc.
+all work just as well as legitimate ones.
+If you don't want to provide any personal information, don't :) Retrieved from âhttps://docs.nixnet.services/index.php?title=Mumble/Privacy&oldid=1717â
+
+      

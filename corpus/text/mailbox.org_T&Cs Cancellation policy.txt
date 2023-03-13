@@ -1,0 +1,378 @@
+
+         T&Cs | Cancellation policy 
+
+
+
+
+
+Your account with mailbox.org is a prepaid account.
+If you do not deposit credit, or if the deposited credit runs out, then your account will be deleted after 30 days (Section 6 of our General Terms and Conditions).
+After another 30 days we delete all the Data that we stored for you (Section 5 of our General Terms and Conditions).
+If you do not have any credit in your prepaid-Account, then you can just let your account expire.
+In this case, you do not need to send a cancellation of your contract. Notice of Cancellation Right We are legally obliged to inform you of your right of cancellation as a consumer.
+This English version is only for your convenience.
+The German version is legally binding.
+
+Right to withdraw
+You have the right to withdraw from the contract within 14 days without giving any reason.
+The withdrawal period will expire after 14 days from the day of the conclusion of the contract.
+To exercise the right of withdrawal, you must inform us (Heinlein Hosting GmbH, Schwedter StraÃe 8/9A, 10119 Berlin, Fax 030/40505119, E-Mail widerruf@mailbox.org) of your decision to withdraw from the contract by an unequivocal statement (e.g.
+a letter sent by post, fax or e-mail).
+You may use the attached model withdrawal form, but it is not obligatory.
+To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
+
+Effects of withdrawal
+If you withdraw from this contract, we shall reimburse to you all payments received from you, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to withdraw from this contract.
+We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise.
+in any event, you will not incur any fees as a result of such reimbursement.
+If you requested to begin the performance of services during the withdrawal period, you shall pay us an amount which is in proportion to what has been provided until you have communicated us your withdrawal from the contract, in comparison with the full coverage of the contract.
+
+Lapse of cancellation right
+Your right to withdraw from this contract also expires when we begin performing the complete service before expiry of the cancellation period with the expressed agreement of the service user or the service subscriber has himself initiated the same.
+
+
+Model withdrawal form
+(complete and return this form only if you wish to withdraw from the contract)
+To Heinlein Hosting GmbHSchwedter StraÃe 8/9A10119 Berlin
+Fax 030/40505119E-Mail widerruf@mailbox.org:
+â I/We (*) hereby give notice that I/We (*) withdraw from my/our (*) contract of sale of the following goods (*)/for the provision of the following service (*):
+â Ordered on (*)/received on (*)
+â Name of consumer(s)
+â Address of consumer(s)
+â Signature of consumer(s) (only if this form is notified on paper)
+â Date
+(*) Delete as appropriate
+
+
+
+
+
+End of Notice of Cancellation Right
+
+ 
+ 
+Our General Terms and Conditions for mailbox.org Prepaid
+
+Section 1 â Provider, User
+
+(1) The provider of the services offered under the domain mailbox.org (hereinafter âServiceâ) is Heinlein Hosting GmbH, Schwedter Str.
+8/9b, D-10119 Berlin, Germany (hereinafter âProviderâ).
+(2) Any terms and conditions defined by the User shall be inapplicable.
+The Provider expressly refutes the inclusion thereof if inclusion is not individually covenanted in writing.
+
+
+
+Section 2 â Scope of Services
+
+(1) The Provider shall make an email address available to the User under the domain of the Provider, e.g., in the format username@mailbox.org (hereinafter âMailbox Addressâ).
+The User may select the user name upon contractual conclusion, provided the user name is available as per the name-specific guidelines of the Provider and has not already been assigned.
+(2) Upon setting up the Mailbox Address, the Provider creates an identical user account which the User can use via SMTP, POP3, and IMAP or via the websites under mailbox.org in order to retrieve and send emails, to configure settings, and, if desired, to use further services, such as calendar administration, address book management, task management or file transfer functions.
+(3) The hosting of domains or webspace is not a component of the services to be rendered.
+
+
+
+Section 3 â Availability (âUptimeâ) and Storage Capacity (âQuotaâ)
+
+(1) The Provider shall make its services available for an average of 99.9% of the duration of any given calendar month.
+(2) The Providerâs obligation of performance shall be limited, in the instance of data transmission, to communication between the Providerâs server and a suitable juncture with the Internet that is to be identified by the Provider.
+The Provider exerts no influence on the availability and reliability of the virtual data paths outside its own network.
+Therefore, there is no obligation to effect successful data transmission from the juncture to servers of third parties.
+(3) The Provider is only obligated, within the parameters of the storage capacity (âquotaâ) individually agreed, to receive emails and to store data on behalf of the User.
+The quota depends upon the Userâs selected tariff and can vary specific to the various services rendered by the Provider.
+In the user account, the User can obtain information on his/her current quota utilization.
+(4) Emails sent to the User once the storage capacity has been exhausted are returned by the Providerâs mail server.
+the sender receives a message notifying that Party that the delivery attempt has failed (âover quotaâ).
+(5) Once the storage capacity has been exhausted, the User cannot add any further details (e.g., addresses, calendar entries, tasks, notes, files).
+
+
+
+Section 4 â Fees, Performance against Credit Balance
+
+(1) The Provider shall render services against credit balance.
+Advance payments made by the User shall count towards fees for subsequently availed services.
+(2) The User may increase his/her credit balance at any time by remitting payment to the Provider.
+Payments may be made via bank transfer, by sending postal cash payments, via PayPal, or by transferring Bitcoin credit.
+In the event that the contractual relationship with the customer has existed for at least 12 months, the User can also remit payment via the SEPA direct debit scheme.
+(3) In the case of fees, the price list valid at the time of contractual conclusion shall be applicable, in addition to these terms and conditions of use.
+(4) Fees recurring on a monthly basis shall be payable in advance on the first day of a billing month for that month.
+The first billing month shall commence upon contractual conclusion and shall run for one month in accordance with Section 188 Paragraph 2 of the German Civil Code (BGB).
+subsequent billing months shall be configured accordingly.
+(5) The Provider shall notify the User via email if the credit balance drops below the amount required for two monthsâ utilization at the selected tariff.
+(6) In the event that the User has a credit balance that, however, is insufficient for the settlement of fees for a complete billing month, the Provider shall render services pro rata temporis consistent with the value of the remaining credit balance.
+To this end, 1/30 of the monthly fees shall be deemed to constitute the basis for each calendar day, a partial day being calculated by being rounded off, in favor of the User, as one complete day.
+(7) In the event that the credit balance is exhausted, the active User account shall be converted into a limited-function user account in accordance with Section 5.
+Furthermore, the Provider shall not be obligated to render services in advance.
+(8) In the event that pro rata fees or reimbursements are payable owing to a change in tariff or on other grounds, these shall be calculated on a per-calendar-day basis by computing 1/30 of the amount applicable to a billing month.
+(9) The User shall also be liable for fees arising from a third partyâs utilization of the Userâs user account (e.g., following negligent disclosure of that Partyâs access data) unless the User can prove that s/he is not responsible for such utilization.
+(10) All fees are deemed to include applicable sales tax prevailing in Germany.
+
+
+
+Section 5 â Active and Limited-Function User Accounts
+
+(1) As long as the User has a credit balance, all services specific to the selected tariff shall be fully available to the User (âactive user accountâ).
+(2) In the event that the credit balance is exhausted, the Provider shall notify the User via email, and the user account shall be limited in terms of its functionality to the TRIAL30 tariff (âlimited user accountâ).
+(3) For a period of 30 days following such notification in respect of conversion to a limited-function user account, the account may be reconverted to an active user account if a credit payment is remitted.
+(4) In the event that a limited-function account is not converted to an active user account within a period of 30 days, the contractual relationship shall terminate upon lapse of the 30th day without notice of termination being required.
+The Provider shall delete the data specific to the User that are stored on its systems in accordance with Section 10, and shall release the email address for re-registration.
+
+
+
+Section 6 â Contractual Conclusion, Account Creation
+
+(1) The contract is concluded online exclusively via the website mailbox.org.
+Only the desired user name and a password, selected by the User, are to be entered when applying.
+(2) In the event that the user account can be set up with the selected user name, the Provider shall confirm that the contract has been concluded by way of confirmation displayed on the screen as well as via an email that shall be sent directly to the newly created Mailbox Address.
+The User can read and download this email via his/her user account, which s/he can retrieve by entering his/her user name and password.
+(3) Initially, the user account will be set up as a limited-function user account consistent with the 30-day TRIAL30 tariff.
+The User can switch to a different tariff once s/he has paid in a credit balance of at least one monthâs fees consistent with the desired tariff.
+In the event that the User does not switch to a different tariff within 30 days of commencement of the contract, Section 5 Paragraph 4 shall apply.
+
+
+
+Section 7 â Consumerâs Right of Cancellation
+
+(1) Consumers are accorded the legal right of cancellation specific to the License Agreement concluded with the Provider.
+The details are set out in the cancellation policy.
+(2) A consumer is any natural person who concludes a legal transaction for a purpose that can be attributed neither to their commercial nor their independent professional activity.
+
+
+
+Section 8 â Misuse, Release from Damages
+
+(1) The User is not permitted to misuse his/her user account and the Providerâs infrastructure for purposes that contravene the contract or the law.
+The Parties define misuse, in particular, as follows:
+(a) the dispatch of emails with falsified or intentionally deceptive sender information for the purpose of preparing for or carrying out a criminal act
+(b) the dispatch of inadmissible email marketing (âspamâ) and any instance of the User making his/her Mailbox Address available as a response address for spam sent via a third party
+(c ) the storage or the dispatch of dial-up programs (âdialersâ) if these are not approved by regulatory authorities
+(d) the storage or the transmission of viruses or similar malicious software (âmalwareâ), and of programs whose distribution is prohibited under Section 95a Paragraph 3 of the Copyright Act (UrhG) (software for the circumvention of copy protection)
+(e) utilization for the purpose of computer sabotage or of the unauthorized access of other Internet hosts (Sections 303a, 303b of the German Criminal Code [StGB]), and comparable acts or preparations thereto that lend themselves to being utilized for the execution of an illegal act
+(f) the storage or the dispatch of image, video, audio, text, or other files in contravention of copyrights, trademark rights, name rights, competition or personal rights, or of files that contain prohibited propaganda material or designators of unconstitutional organizations (Sections 86, 86a of the StGB)
+(g) the storage or the dispatch of pornographic material as defined under Sections 184-184d of the StGB or of media listed in Section 24 Paragraph 1 of the Young Personsâ Protection Act (JuSchG) as being harmful to juveniles.
+(3) The User shall be obligated to indemnify the Provider against all third-party claims raised against the Provider as a consequence of content that is distributed via the Userâs Mailbox Address, especially owing to the alleged infringement of copyrights, trademark rights, name rights, competition rights, or personal rights.
+Entitlement to indemnification also encompasses any expenses incurred by the Provider in respect of appropriate fact finding and legal defense.
+
+
+
+Section 9 â Contractual Term, Termination
+
+(1) The License Agreement is concluded for an indefinite term.
+rules governing the automatic termination of contracts specific to user accounts without a credit balance shall remain unaffected.
+(2) The User may terminate the contractual relationship ordinarily, duly observing a notice period of two weeks at the end of a billing month.
+(3) The Provider may terminate the contractual relationship ordinarily, duly observing a notice period of one month at the end of a billing month.
+(4) Either Partyâs right to effect extraordinary termination for a serious reason shall remain unaffected.
+For the Provider, a serious reason may be misuse of service as defined in Section 8.
+(5) Any termination shall be in writing.
+alternatively, the User may also use the online form in the user account for cancellation.
+
+
+
+Section 10 â Deletion of User Data
+
+(1) The Provider shall be entitled â and, vis-Ã -vis the User, obligated â to irretrievably delete all data within the user account following expiry of a retention period of 60 days following termination of the contractual relationship.
+These include, in particular, all emails, address book and calendar entries, tasks, notes, and files that are integral to the user account.
+The purpose of the 60-day retention period is to give the User an opportunity to recover his/her data in the instance that the s/he has mistakenly terminated the contract or allowed it to expire.
+The Userâs right to request immediate deletion once the contract comes to an end shall remain unaffected.
+(2) The User shall be obligated to secure any data that s/he would like to continue to use beyond the term of the contract in a timely manner prior to the contract coming to an end by downloading them onto a proprietary storage medium.
+(3) However, data whose continued storage is mandated according to tax law, commercial law, or other statutory legislation shall be precluded from deletion.
+
+
+
+Section 11 â Liability, Data protection
+
+(1) The liability of the Provider in respect of material damage is limited to instances of intent and gross negligence.
+In other cases, the Provider shall be liable for material damage only in the instance of infringement of obligations, the fulfillment of which fundamentally enables the proper implementation of the contract, and compliance with which the User may routinely rely upon (cardinal obligations).
+In such an instance, the Provider shall be liable solely for typically occurring, foreseeable consequences.
+Section 44a of the German Telecommunications Act (TKG) shall be of primary applicability insofar as it relates to this normâs area of application.
+(2) On a voluntary and legally nonbinding basis, the Provider may set up a backup service that generates a snapshot of the userâs respective body of emails and/or other data at a certain time and saves it for a period of seven days.
+If there are snapshots, the user may independently restore an earlier body on the basis of a snapshot if the data is lost â e.g.
+in the event that the user deletes data by accident (âbackup self-serviceâ).
+The user, however, shall not have any contractual right to this complementary functionality.
+The user is also aware that the loss or damage of data can never be entirely ruled out even if the Provider exercises due diligence, with such applying both to original data and any snapshot backup copies.
+(3) The User shall be obligated to regularly back up the data in his/her user account that s/he deems important and save them on a proprietary storage medium â and no less frequently than on a weekly basis.
+Data backup serves to reduce damage in the event of loss, which cannot be ruled out entirely, or of data damage at the Providerâs end.
+This can also occur when the Provider exercises the necessary caution mandated for the service in question.
+Such an obligation on the part of the User shall be independent of whether or not the Provider has also assumed the obligation of data backup.
+(4) The liability of the Provider in respect of damage arising from injury to life, limb, or health, derived from the Product Liability Act or from undertaking a warranty, shall remain unaffected by the preceding paragraphs.
+
+
+
+Section 12 â Specifics for PGP-Encrypted Emails
+
+Insofar as the User encrypts his/her emails in the user account by means of PGP, s/he shall be obligated to observe particular caution in respect of keeping his/her PGP key safe.
+In the event that the PGP key is lost, emails can no longer be decrypted.
+The Provider does not have a duplicate key, nor does it have recourse to any other means of recovering email plain text.
+
+
+
+Section 13 â Amendments to the General Terms and Conditions
+
+(1) The Provider may amend these General Terms and Conditions insofar as there is a legitimate interest in so doing.
+A legitimate interest may exist, in particular, if a third party changes or develops technical norms, necessitating an adjustment of services on the part of the Provider.
+The Provider shall notify the User of the intended amendment no later than six weeks before the time of amendment.
+If the User does not challenge this in writing within one month, his/her agreement shall be deemed to have been given.
+In the notification, the User is specifically made aware of the right to object and the option of cancellation.
+(2) The Provider may, duly observing the procedure defined in Paragraph 1, also raise agreed gross fees insofar as taxes incorporated therein or any regulatory fees are increased following contractual conclusion or if such fees are introduced for the first time.
+For its part, the Provider shall be obligated to lower gross fees if there is a decrease in or waiver of taxes incorporated therein or of any fees.
+
+
+
+Section 14 â Severability Clause
+
+In the event that one of the provisions within these General Terms and Conditions should prove to be ineffective or impracticable, this shall not affect the validity of the remaining provisions.
+The same shall apply to any unintended omission or gap in provisions.
+
+
+
+Section 15 â Applicable Law
+
+The laws of the Federal Republic of Germany, to the exclusion of provisions governing international private law, shall apply to the contractual relationship between Provider and User.
+However, German law shall not be applicable to consumers permanently resident abroad insofar as national legislation to which the consumer is subject contains provisions that do not permit deviation by means of contractual arrangements at the expense of the consumer.
+
+
+
+Last update: June 29, 2018
+
+ 
+ 
+ 
+Our General Terms and Conditions for mailbox.org Business
+
+Section 1 â Provider, Users
+
+(1) The provider of the services offered at the address mailbox.org/business (hereinafter 'Service') is Heinlein Support GmbH, Schwedter Str.
+8-9b, 10119 Berlin (hereinafter 'Provider').
+(2) Within the meaning of this contract, the 'Client' is any business client which concludes a contract for the use of mailbox.org for its 'Users'.
+(3) Any terms and conditions defined by the User shall be inapplicable.
+The Provider expressly rejects their inclusion unless their inclusion is individually agreed to in writing.
+
+
+
+Section 2 â Scope of services
+
+(1) The Provider shall provide the Client with a login name for the setup and administration of the Client's user accesses.
+The Client can personally select the login name when concluding the contract, provided that the name is available in accordance with the Provider's naming guidelines and has not already been assigned.
+(2) Using this login name, the Client can manage domains for use under mailbox.org Business and setup and activate user e-mail addresses for use in mailbox.org Office.
+The Users can use mailbox.org Business through SMTP, POP3 and IMAP or through the websites at mailbox.org in order to adjust settings and use other services such as calendar, address book, task management or data transfer functions as desired.
+(3) The hosting of webspace is not a component of the Service.
+
+
+
+Section 3 â Availability ('Uptime') and storage capacity ('Quota')
+
+(1) The Provider shall make its Service available for an average of 99.9% of the duration of any given calendar month.
+(2) In the case of data transmission, the Providerâs duty to perform shall be limited to the communication between the Provider's server and a suitable Internet connection point to be selected by the Provider.
+The Provider has no influence on the availability or reliability of the data paths outside its own network.
+There is therefore no obligation to effect the successful forwarding onward of data from connection points to servers of third parties.
+(3) The Provider is only obligated to receive e-mails and store data for the respective user mailbox within the parameters of the individually agreed storage capacity ('Quota').
+The Quota depends on the User's selected tariff and may differ for various services of the Provider.
+The User can obtain information about his/her current Quota utilisation in his/her user account.
+(4) E-mails sent to the User when the storage capacity is already exhausted are returned by the Provider's mail server.
+the sender receives a message about the failure of the attempted delivery ('over quota').
+(5) Once the storage capacity has been exhausted, the User cannot add any further data (e.g., addresses, calendar entries, tasks, notes, files).
+
+
+
+Section 4 â Fees, performance against credit balance
+
+(1) The Provider shall render its services on a basis of billing with payment due within 14 days.
+(2) Payments may be made via bank transfer or the SEPA direct debit procedure.
+(3) In addition to these terms and conditions of use, the price list valid at the time of the conclusion of the contract shall apply for fees.
+(4) Fees recurring on a monthly basis shall be payable in advance on the first day of a billing month for that month.
+The first billing month shall commence upon conclusion of the contract and shall run for one month in accordance with Section 188(2) of the German Civil Code (BGB).
+subsequent billing months shall be configured accordingly.
+(5) If the Client is more than 45 days in arrears with payments despite being sent a reminder, the Provider has the right to temporarily discontinue the performance of services and is not obligated to further advance performance.
+(6) The User shall also be liable for fees arising from a third party's utilisation of the services of the User's user account (e.g., following negligent disclosure of the User's access data) unless the User can prove that he/she is not responsible for the utilisation of services.
+(7) All fees are deemed to include the prevailing applicable sales tax in accordance with the input tax calculation rules depending on the Client's country of origin
+
+
+
+Section 5 â Conclusion of contract, account setup
+
+(1) The contract is concluded online exclusively via the website mailbox.org/business.
+(2) If the user account can be set up with the selected user name, the Provider shall confirm the conclusion of the contract on the screen as well as via an e-mail which will be sent directly to the newly created e-mail address.
+
+
+
+Section 6 â Misuse, indemnification against damages
+
+(1) The Client and its Users are not permitted to misuse the user account or the Provider's infrastructure for purposes which are in breach of contract or are illegal.
+The Parties define misuse, in particular, as follows:
+(a) the dispatch of e-mails with falsified or intentionally deceptive sender information for the purpose of preparing for or carrying out a criminal act
+(b) the dispatch of prohibited e-mail marketing ('spam') as well as any instance of the User making his/her e-mail address available as a response address for spam sent via a third party
+(c ) the storage or dispatch of dialler programs ('diallers'), unless these are permitted by regulatory authorities
+(d) the storage or the transmission of viruses or similar malicious software ('malware') as well as programs whose dissemination is prohibited in accordance with Section 95a Paragraph 3 of the Act on Copyright and Related Rights (UrhG) (software for the circumvention of copy protection)
+(e) utilisation for the purpose of computer sabotage or of the unauthorised access of other Internet hosts (Sections 303a and 303b of the German Criminal Code [StGB]) as well as comparable acts or preparations thereto which lend themselves to being utilised for the execution of an illegal act
+(f) the storage or the dispatch of image, video, audio, text or other files in contravention of copyrights, trademark rights, name rights, competition rights or personal rights or of files which contain prohibited propaganda material or designators of unconstitutional organizations (Sections 86 and 86a of the German Criminal Code [StGB])
+(g) the storage or the dispatch of pornographic material as defined in Sections 184-184d of the German Criminal Code (StGB) or of media listed in Section 24 Paragraph 1 of the Youth Protection Act (JuSchG) as being harmful to minors.
+(3) The User is obligated to indemnify the Provider against all third-party claims raised against the Provider as a consequence of content which is distributed via the User's e-mail address, particularly due to alleged infringements of copyrights, trademark rights, name rights, competition rights, or personal rights.
+The entitlement to indemnification also encompasses any expenses incurred by the Provider for appropriate fact finding and legal defence.
+
+
+
+Section 7 â Term and termination of the contract
+
+(1) The user agreement is concluded for an indefinite term.
+the provisions on the termination of contracts for user accounts in arrears of payment shall remain unaffected.
+(2) The User may terminate the contractual relationship ordinarily, duly observing a notice period of two weeks, effective at the end of a billing month.
+(3) The Provider may terminate the contractual relationship ordinarily, duly observing a notice period of two weeks, effective at the end of a billing month.
+(4) Each party's right to extraordinary termination for cause shall remain unaffected.
+For the Provider, cause for termination may be a misuse of the Service as defined in Section 8.
+(5) Any termination must be made in writing.
+alternatively, the User may also use the online form provided in the user account for cancellation.
+(6) The User shall be reimbursed for any existing credit balance at the end of the contractual relationship.
+The reimbursement shall be carried out using the same method of payment which the User last used to make a deposit into his/her account.
+
+
+
+Section 8 â Erasure of user data
+
+(1) The Provider is entitled and has an obligation to the User to irretrievably erase all data of the user account following a retention period of 30 days after the termination of the contractual relationship.
+These include, in particular, all e-mails, address book and calendar entries, tasks, notes and files which belong to the user account.
+The 30-day retention period serves to give the User an opportunity to recover his/her data in the event that he/she inadvertently terminated the contract or allowed it to expire.
+The User's right to obtain immediate erasure at the end of the contract shall remain unaffected.
+(2) The User is obligated to back up any data which he/she would like to continue to use after the end of the contract in a timely manner prior to the end of the contract by downloading the data to the User's own storage medium.
+(3) However, data whose continued storage is mandated according to tax law, commercial law or other statutory legislation shall be precluded from the erasure.
+
+
+
+Section 9 â Liability, data backup
+
+(1) The liability of the Provider for pecuniary damage is limited to instances of intent and gross negligence.
+In other cases, the Provider shall be liable for pecuniary damage only in the case of beach of duties whose fulfilment is required in order to enable the proper implementation of the contract in the first place and upon compliance with which the User may routinely rely (cardinal duties).
+In such a case, the Provider shall be liable solely for consequences which can be typically expected to arise.
+Section 44a of the German Telecommunications Act (TKG) shall prevail, provided that it relates to this standard's scope of application.
+(2) The liability of the Provider for pecuniary damage due to damage or or loss of user data stored on a Provider of the server is limited to the consequences of a failure on the part of the Provider to back up the data due to intent or gross negligence, provided that the Provider was obligated to perform such data backup.
+The User is aware that the risk of data loss cannot be entirely ruled out, even when the Provider observes the requirements of due care, and that this applies for both the original data as well as for backup copies.
+(3) It is the obligation of the User to regularly back up the data of his/her user account which is important to him/her on his/her own storage medium on a regular basis but no less frequently than a weekly basis.
+Data backup serves to reduce damage in the event of loss, which cannot be ruled out entirely, or in the event of data damage at the Provider's end.
+such a case can occur even if the Provider exercises the due care and diligence for the service in question.
+This shall remain the obligation of the User regardless of whether or not the Provider has also assumed the obligation to back up the data.
+(4) The liability of the Provider for damage arising from injury to life, limb or health in accordance with the Product Liability Act or from the provision of a guarantee shall remain unaffected by the preceding paragraphs.
+
+
+
+Section 10 â Changes to the General Terms and Conditions
+
+(1) The Provider may make changes to these General Terms and Conditions where there is a legitimate interest in doing so.
+In particular, a legitimate interest may exist if a third party changes or refines technical standards, thereby necessitating an adjustment of the services of the Provider.
+The Provider shall notify the User of the intended change no later than six weeks before the time of the change.
+If the User does not object in text form within one month, his/her consent shall be deemed to have been given.
+The User shall be given special indication of the right to object and option to terminate.
+(2) Duly observing the procedure defined in Paragraph 1, the Provider may also increase the agreed fees if taxes incorporated therein or any regulatory fees are increased after the conclusion of the contract or if such fees are newly introduced.
+For its part, the Provider shall be obligated to lower fees if there is a decrease in or waiver of taxes incorporated therein or of any fees.
+
+
+
+Section 11 â Severability clause
+
+Should one of the provisions of these General Terms and Conditions should prove to be ineffective or impracticable, this shall not affect the validity of the remaining provisions.
+The same shall apply in the event of any unintended omission or gap in provisions.
+
+Section 12 â Choice of law
+
+The laws of the Federal Republic of Germany, to the exclusion private international law, shall apply to the contractual relationship between Provider and User.
+However, German law shall not be applicable to consumers with a permanent residence abroad if national legislation to which the consumer is subject contains provisions which do not permit deviation by means of contractual arrangements at the expense of the consumer.
+
+Last updated: 10 December 2014 (1)
+

@@ -1,0 +1,328 @@
+
+         Skip to content The Rise Broadband Call Center will be closed on Memorial Day and resume normal business hours on Tuesday 6/1.
+To make a payment, review your account, or check your data usage/speed please use account portal and for sales, feel free to shop online.
+Thank you and Happy Memorial Day! 
+My Account
+
+Account Dashboard
+Pay My Bill
+Q&A: Current Customer
+
+
+Help &amp.
+Support
+
+Support
+Sales/New Service
+
+
+
+
+ Menu 
+Explore
+
+Inquire about Service 
+Check Availability
+Call Us
+Q&A: Current Customer
+Q&A: Residential
+Q&A: Small Business
+Q&A: Enterprise
+
+
+Legal 
+Policies &amp.
+Agreements
+Broadband Terms
+Open Internet Statement and Policy
+
+
+Press Room 
+Press Releases
+News Coverage
+Recent Milestones
+Digital Press Kit PDF
+Events
+
+
+About Rise 
+Rise Management
+Coverage Map
+Careers
+
+
+
+
+Residential
+
+Check Service Availability
+Premium WiFi
+Rise @Home
+Home+ Warranty and Protection
+Digital Phone
+Q&A: Residential
+
+
+Business Services
+
+Small Business or Enterprise?
+Small Business1-10 Employees or 1-2 Phone Lines 
+Small Business Package Options
+Rise @Work
+Q&A: Small Business
+
+
+Enterprise10+ Employees or 3+ Phone Lines 
+Introduction to Fixed Wireless
+Cloud PBX
+iMeet-Conferencing
+Business Technical Services
+Q&A: Enterprise
+
+
+
+
+Get in Touch
+
+Contact Us
+Call Us
+
+
+ 844-411-RISE Search Search for: Open Internet Statement and Policy 
+RISE BROADBAND 
+
+Open Internet Policy Statement
+
+(as of June 2018)
+Rise Broadband (âRISE BROADBAND,â âwe,â âour,â or âusâ) provides Internet access services to residential and commercial subscribers in 16 states (âServicesâ).&nbsp.
+We are committed to providing our Services as an open platform for innovation, investment, job creation, economic growth, competition, and free expression.&nbsp.
+RISE BROADBAND also supports the following Net Neutrality principles:
+
+Transparency
+NO Blocking of lawful Internet content, subject to reasonable network management as described below
+NO Throttling of lawful Internet content, subject to reasonable network management as described below
+NO Unreasonable Discrimination
+NO Paid Prioritization of Internet content
+Freedom of subscribers to access lawful Internet content
+Freedom of subscribers to use non-harmful applications of their choice
+Freedom of subscribers to attach non-harmful personal devices
+
+This Open Internet Policy Statement sets forth certain information regarding the policies and practices of RISE BROADBAND and how we manage our networks for residential and business broadband internet access service (the âRISE BROADBAND Networksâ).
+ This Open Internet Policy Statement is a supplement to and is incorporated by reference in the various legal terms and conditions of our Services, which are found at our Policies and Agreements page, including but not limited to RISE BROADBANDâs âAcceptable Use Policyâ  (collectively âService Agreementsâ).
+ In the event of any inconsistency between this Open Internet Policy Statement and the Service Agreements, this Open Internet Policy Statement shall control.
+RISE BROADBANDâs broadband access service is a fixed wireless service.&nbsp.
+Generally, given the nature of fixed wireless services, certain circumstances may affect the speed and quality of the service, including but not limited to foliage, line-of-sight obstructions, the distance between a subscriberâs premises and the transmission point, as well as the subscriberâs connection of multiple devices to a RISE BROADBAND Network.&nbsp.
+Although we have engineered the RISE BROADBAND Networks to provide consistent high-speed data services, some network management for these scenarios is required in order to provide the best online experience possible for all of our subscribers.
+ Very heavy data usage by even a few subscribers at times and places of competing RISE BROADBAND Network demands can affect the performance for all subscriber
+
+I.
+NETWORK MANAGEMENT PRACTICES
+
+Network management is only activated when congestion is detected on a RISE BROADBAND Network.
+ In regular intervals, RISE BROADBAND Network equipment is polled to identify what devices may be experiencing congestion.
+ When a specific device is determined to be congested, the subscribers serviced from that/those network device(s) are analyzed and then managed based on plan and usage thresholds until the congestion has been alleviated, as described more fully below.
+ Subscribers will still be able to do what they want online.
+in many cases activities may be unaffected.
+ In other cases, subscribers may see reduced speed in downloads or uploads.
+ No specific type of usage activity or subscriber aggregate monthly usage is targeted by these practices.
+ It is important to note that RISE BROADBAND Network management is temporary and based on constantly changing network conditions.
+The network management practices described in this section are part of the âstandardâ RISE BROADBAND Network architecture.
+ As RISE BROADBAND acquires other broadband Internet networks, we implement these practices as quickly as possible.
+A.
+Blocking: Other than reasonable network management practices disclosed below, we do not block or otherwise prevent a subscriber from accessing lawful content, applications, services, or your use of non-harmful devices.
+B.
+Throttling: Other than reasonable network management practices disclosed below, we do not throttle or otherwise shape, slow, degrade or impair a subscriber from accessing lawful Internet traffic on the basis of content, application, service, user, or use of a non-harmful device.
+All lawful Internet use is handled identically.
+C.
+Affiliated Prioritization: We do not directly or indirectly favor some traffic over other traffic, including through use of techniques such as traffic shaping, prioritization, or resource reservation, to benefit any of our affiliates, defined as an entity that controls, is controlled by, or is under common control with RISE BROADBAND.
+D.
+Paid Prioritization: We do not directly or indirectly favor some traffic over other traffic, including through use of techniques such as traffic shaping, prioritization, or resource reservation, in exchange for consideration, monetary or otherwise.
+E.
+Congestion Management: Our Services are provided on a âbest effortsâ basis and our congestion management practices are in place to ensure that all subscribers experience as high quality a service.
+If our Network experiences congestion, it is typically between 7:00 pm and 11:00 pm local time.&nbsp.
+Subscribers select how much high-speed data they receive under a designated service plan.&nbsp.
+If a subscriber exceeds his/her/its selected high-speed allotment during a service cycle, we may reduce the subscriberâs data speed for the remainder of that service cycle.&nbsp.
+We do not impose any additional usage limits for the Services unless part of our network management practices.
+In a manner consistent with our Service Agreements and Privacy Policy, we may monitor network traffic to ensure capacity is sufficient to maintain an efficient network load, to perform diagnostics and to otherwise manage and enhance the RISE BROADBAND Networks.&nbsp.
+To help manage traffic on the RISE BROADBAND Networks, during times of high demand, we may allocate available bandwidth among subscribers on an equal basis, by account level.&nbsp.
+In addition, we may prioritize certain applications, such as public safety and voice, over other traffic types.
+
+i.
+RISE BROADBAND&nbsp.
+deploys three types of âfair queuingâ as a network management tool when congestion is present in RISE BROADBAND Networks, including (a) âfair splitâ where all users on a device get a fair share of bandwidth.
+(b) âfair factorâ which allows for users on different service plans to get a proportion of bandwidth based on their plan (i.e.
+a 5Mbps user will get less bandwidth than a 50Mbps user).
+or (c) âborrowingâ where RISE BROADBAND prioritizes types of traffic to deliver a higher quality of experience (i.e.
+VoIP has priority over streaming and streaming has priority over bulk file transfers/downloads).
+No traffic type is completely denied access.
+
+
+ii.
+RISE BROADBAND may also use specific traffic shaping software in order to manage our Network during periods of congestion.
+
+
+iii.
+RISE BROADBAND may also conduct deep packet inspection (âDPIâ), which is a type of filtering that will examine the data and/or header part of Internet traffic for viruses, spam, intrusions, or protocol non-compliance that may harm a RISE BROADBAND Network.
+to determine the routing of Internet traffic.
+for internal statistical and performance purposes.
+for lawful intercept capabilities, and/or enforcement of our Service Agreements.
+We do not use DPI to conduct data mining for targeted marketing or advertising, or anti-competitive purposes.
+
+
+iv.
+If RISE BROADBAND determines, in our sole and reasonable discretion, that the manner in which a subscriber is using the service negatively impacts other subscribers or any RISE BROADBAND Network, we reserve the right to apply additional congestion management techniques.
+
+F.  Application-Specific Behavior: Subject to the qualification that RISE BROADBAND may reasonably limit or rate-control specific or classes of applications, or other specific protocols or protocol ports as set forth below, RISE BROADBAND generally treats all lawful applications identically.
+However, we reserve the right to block or limit access to any applications, ports, or protocols that we determine, in our sole and reasonable discretion, may expose any RISE BROADBAND Network to potential legal liability, harm any RISE BROADBAND Network or otherwise interfere with or impair the experience of other subscribers on RISE BROADBAND Networks.&nbsp.
+RISE BROADBAND Networks also may not support certain high-bandwidth video and voice applications, or peer-to-peer applications that carry unlawful or harmful content/software.
+G.
+Device Attachment Rules: Generally, you do not need approval to connect a third-party device to a RISE BROADBAND Network.
+RISE BROADBAND does not limit the types of devices that can be connected to any RISE BROADBAND Networks, provided they are used for lawful purposes and do not harm a RISE BROADBAND Network, violate our Service Agreements, or harm other users of RISE BROADBAND Networks.
+However, if we determine, in our sole and reasonable discretion, that the connection of a particular type of device to any RISE BROADBAND Network negatively impacts other users or the RISE BROADBAND Network, or may expose us to potential legal liability, we reserve the right to limit or restrict subscribersâ ability to connect such type of device to RISE BROADBAND Networks.
+ If you need technical support services to assist you in the installation and configuration of third party devices, please contact us or visit https://www.risebroadband.com/support/.&nbsp.
+Depending on your level of service and your specific Service Agreement, there may be an additional monthly fee for our IT support services.
+H. Security: RISE BROADBAND has taken reasonable physical, technical and administrative safeguards to protect the integrity and operations of RISE BROADBAND Networks and our subscribers from malicious and unwanted Internet traffic.
+We monitor the RISE BROADBAND Network for security threats and may prohibit certain activity on RISE BROADBAND Networks that we may deem, in our sole and reasonable discretion, poses a potential risk to any RISE BROADBAND Network and/or to other subscribers.&nbsp.
+Triggering conditions include but are not limited to denial of service activity, IP address or port scanning, excessive account login failures.
+or certain Internet addresses that are disruptive, malicious and typically persistent.&nbsp.
+If we notice excessive subscriber connections, including but not limited to Wi-Fi connections, that are harmful or are commonly used to disrupt the normal use of any RISE BROADBAND Network or use by other subscribers, we will attempt to notify the subscriber to work collaboratively to remedy the issue to the extent possible.
+however, we reserve the right as a reasonable security practice, without advance notice, to block any subscriber traffic, ports, protocols, devices, or applications (such as peer-to-peer applications that may carry malicious software or are known to be problematic) that we determine, in our sole and reasonable discretion, may cause harm to any RISE BROADBAND Network or to other subscribers, or may expose us to potential legal liability.
+
+ II. 
+PERFORMANCE CHARACTERISTICS AND COMMERCIAL TERMS
+
+Specific service fees and rates for an individual subscriber are set forth in the subscriberâs email confirmation of sale, invoice and My Account  page.
+Various information regarding our Services, including additions, changes or modifications are also publicized on the RISE BROADBAND Web site at https://www.risebroadband.com/.
+A.
+Service Description and Terms: Links to a current description of the categories of Internet access service offered to residential and business subscribers are available below, including service terms, expected and actual access speed and latency, and the suitability of the service for real-time applications.
+The service terms of our Services are subject to change at any time:
+
+i.
+Residential Services â
+
+i.
+Broadband Internet Terms and Conditions of Service
+ii.
+ActivePhone Terms and Conditions of Service
+
+
+ii.
+Business Services â
+
+
+i.
+Business General Terms and Conditions
+ii.
+Dedicated Internet Access Agreement
+iii.
+Enterprise Service Level Agreement
+iv.
+ActivePhone and CoreVoice Trunks Service Agreement
+
+B.
+Service Pricing and Fees: Links to the current rate card pricing and additional fees for Internet access service offered to residential and business subscribers are available below.
+RISE BROADBAND offers a range of service plans and special promotions that may affect this pricing and the pricing for our Services are subject to change at any time:
+
+i.
+Standard Rate Card Pricing for Internet Service
+ii.
+Additional Fees and Payment Terms Disclosure Statement
+
+C.
+Usage Metering
+: RISE BROADBAND subscriptions include a specific amount of monthly Internet data usage (up and down transfer) as specified in each subscriberâs service plan.
+If usage exceeds the threshold, additional charges will apply.
+ Charges will be based on usage (up and down transfer) in 10 GB increments.
+ 10 GB increments will be billed after the first bit of usage over the subscription threshold.
+ Additional 10 GB increments will be billed as usage dictates.
+Subscribers will be notified when they have hit certain usage thresholds.
+ Email notification will be sent to the subscriber at the following events:
+
+i.
+75% of subscription usage has been consumed
+ii.
+95% of subscription usage has been consumed
+iii.
+Every time a new 10 GB increment has been purchased
+
+In addition to email notification, subscribers can also track their usage online at their My Account page.
+D.
+Network Speeds: RISE BROADBAND offers a range of download speeds to residential subscribers varying from 5 Mbps to 50 Mbps.&nbsp.
+The network is designed to support these speeds to help ensure that every subscriber receives the speeds to which they have subscribed.
+ RISE BROADBAND however cannot guarantee speeds at all times, as there are many factors and conditions beyond RISE BROADBANDâs control that can affect Internet performance.
+ Some of these external factors and conditions are:
+
+
+
+i.
+Performance of subscriber computer and/or router
+ii.
+Type of connection to RISE BROADBAND Customer Premise Equipment (i.e., Wi-Fi)
+iii.
+Congestion of web sites and services on Internet
+iv.
+Web site or service limiting speeds on the Internet
+v.
+Internet and equipment performance outside of the RISE BROADBAND Network
+
+
+
+RISE BROADBAND Internet packages are advertised as âup toâ certain speeds reflecting performance under ideal conditions.
+ Without purchasing an expensive âdedicatedâ Internet connection, no Internet Service Provider can guarantee package speeds at all times.
+RISE BROADBAND provides a Speed Test for our subscribers to use.
+ While the test results on this site provide information regarding service speeds, they are not definitive as they are highly dependent on equipment and configuration found in the home network.
+ Additional information regarding subscriber experience across RISE BROADBAND Internet Plans can be found at our FAQ page.
+ This page displays mean subscriber speeds and latency information by Internet plan.
+ Subscriber speed tests are collected from the RISE BROADBAND Speed Test servers identified above.
+ These results are calculated by averaging all subscriber speed tests and latency, by plan, at peak periods of usage.
+ Peak periods of usage are defined as 7:00 pm to 11:00 pm on weeknights.
+E. Impact of Non-Broadband Internet Access Service Data Services (also known as âSpecialized Servicesâ): RISE BROADBAND does not offer Specialized Services to subscribers that will affect the last-mile capacity available for, and the performance of, our broadband Internet access Service offering.
+F. Acceptable Use: As set forth in the Service Agreement, all of RISE BROADBANDâs service offerings are subject to the Acceptable Use Policies (âAUPâ) section of the Service Agreement, which we may from time to time establish or revise.
+The AUP is available here.
+G.
+Privacy Policy: RISE BROADBANDâs current Privacy Policy is available here.
+H.
+Redress Options: RISE BROADBAND endeavors to respond to all subscriber concerns and complaints in a timely and fair manner.
+We encourage subscribers to contact us at 844-816-9149, or support@risebroadband.com, or U.S.
+postal mail to discuss any complaints or concerns as they RISE BROADBAND.
+ Our postal address is 619 14th Street, SW, Loveland, CO 80537, Attention: Customer Care.
+I. Disputes and Arbitration: The Service Agreement requires the use of arbitration to resolve disputes and otherwise limits the remedies available to subscribers in the event of a dispute.
+
+III.
+FCC REQUIREMENTS AND COMPLAINT PROCESS
+
+The Federal Communications Commission (âFCCâ) has adopted rules to preserve the Internet as an open platform (âRulesâ).
+ Information regarding these Rules is available on the FCCâs website at: https://www.fcc.gov/restoring-internet-freedom
+If a subscriber believes that we are not in compliance with the FCCâs rules, the subscriber may file an informal complaint with the FCC.
+ The FCC urges subscribers to submit any complaints via its website at the following address: https://consumercomplaints.fcc.gov/hc/en-us.
+
+ IV. 
+ADDITIONAL DISCLAIMERS
+
+This Open Internet Policy Statement does not affect, alter or otherwise supersede the legal status of cooperative efforts by RISE BROADBAND that are designed to curtail copyright or trademark infringement in response to information provided by rights holders in a manner that is timely, effective, and accommodates the legitimate interests of the company, rights holders, our subscribers and other end users.
+ Furthermore, this Open Internet Policy Statement does not prohibit us from making reasonable efforts to address the transfer of unlawful content or unlawful transfers of content.
+ For additional information, please review the Service Agreements and Privacy Policy.
+ 
+
+#&nbsp.
+# #
+
+
+ Explore Pricing &amp.
+Plans Signup Today
+
+ Call Us 844-411-RISE
+
+ Questions? Read the FAQ Rise Broadband Residential High-Speed Internet
+Business High-Speed Internet
+Contact Us
+About Rise Broadband
+Press Room
+Careers My Account Manage My Account
+Pay My Bill Letâs Connect 844-411-RISE
+Contact Us
+Visit us on Facebook Legal Policies and Agreements
+Rise Broadband Privacy Policy
+Open Internet Statement and Policy Â© 2021 Rise Broadband - Policies &amp.
+Agreements - Privacy Policy - Open Internet Statement and Policy yelp quotes-left quotes-right star codepen ico-box ico-building-circle ico-house-circle ico-person-circle search user check close home download play-circle-o pencil map-marker chevron-left chevron-right minus chevron-up chevron-down comments phone twitter facebook chain bars google-plus caret-down caret-up caret-left caret-right envelope linkedin angle-left angle-right angle-up angle-down desktop laptop tablet mobile folder-open-o smile-o frown-o meh-o info exclamation youtube youtube-play cube wifi pinterest-p volume-control-phone plus wifi arrow right speed gauge connected entertainment gaming price globe streaming work speed-price speed dots 
+      

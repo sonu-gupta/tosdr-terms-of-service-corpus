@@ -1,0 +1,135 @@
+
+         Cookies used by the RIPE NCC List of cookies used by the RIPE NCC https://www.ripe.net/about-us/legal/cookies https://www.ripe.net/logo.png Cookies used by the RIPE NCC List of cookies used by the RIPE NCC Cookie name
+Purpose
+Term
+
+Serverid
+
+
+JSESSIONID
+
+
+PHPSESSID
+
+These cookie identifies the user.
+It is used for tying the user session to a particular application server.
+This cookie is set when you visit any of our pages being served from our content management systems.
+It is used to help our server to handle your requests in the most efficient way and is deleted when you quit your browser.
+Expires when the browser session is closed.
+
+crowd.token_key
+
+This cookie identifies the user.
+It is used to authenticate logged-in single-sign-on (RIPE NCC Access) users.
+ 
+Expires when the browser session is closed
+
+_pk_id.4.1234
+
+This cookie is used to keep track of traffic for analytic purposes when accessing a RIPE Meeting website.
+ 
+Expires after 2 years
+
+_pk_ses.4.1234
+
+This cookie is used to keep track traffic for analytic purposes upon accessing RIPE Meeting sites.
+This information is not shared with third parties.
+ 
+Expires after 30 minutes
+
+lastKnownLocationLng
+
+
+lastKnownLocationLat
+
+
+lastKnownLocationZoom
+
+ 
+This cookie saves the state of the LIR Locator application.
+When the user opens the page again, they will find the same location they had in their previous visit.
+Expires after 3 months
+
+m2mTermsAccepted
+
+This cookie is set when users accept Terms of Service or Terms and Conditions of a service.
+If this cookie is not set, users will be asked to accept terms every time before they use a RIPE NCC service.
+ 
+Expires after 3 months
+
+firstVisit-beta
+
+This cookie prevents help information from appearing again after the user has discarded it.
+ 
+Expires after 3 months
+
+stat-session
+
+ 
+
+atlasessp
+
+ 
+These are standard cookies for user identification and session persistence.
+ 
+Expires after 2 weeks
+
+stat-csrftoken
+
+ 
+
+csrftoken
+
+ 
+These cookies enhance security to protect from cross-site scripting attacks.
+Presently they are used to support comments forms.
+ 
+Expires after 1 year
+
+crowd.ripe.hint
+
+This cookie is used to identify logged in users among RIPE NCC services (Single Sign On).
+ 
+Expires when the browser session is closed
+
+PREF
+
+This cookie is used for YouTube services.
+It is handling user preferences.
+It is beyond the RIPE NCC's control.
+Use of YouTube services like embedded video require that the user request those services from YouTube directly, which in turn sets this cookie.
+Users interested in Google policies around this cookie should consult their privacy policy site: http://www.google.com/intl/en/policies/
+ 
+Expires after 10 years
+
+VISITOR_INFO1_LIVE
+
+For YouTube services.
+This cookie is used for YouTube services.
+It is handling visitor data to aid in streaming quality.
+It is beyond the RIPE NCC's control.
+Use of YouTube services like embedded video require that the user request those services from YouTube directly, which in turn sets this cookie.
+Users interested in Google policies around this cookie should consult their privacy policy site: http://www.google.com/intl/en/policies/
+ 
+Expires after 1 year
+_icl_current_*
+Cookies set to help display the correct/chosen language to the user on www.enog.org Expires after 24 hours 
+wp-settings-time-* 
+ Cookie set when you log into the system to submit a topic/presentation on www.enog.org
+Expires after 1 year 
+tableau_locale,tableau_public_negotiated_locale,langPref
+
+Cookies set by Tableau to remember the visitors' browser locale.
+These cookies are beyond the control of the RIPE NCC and are set by Tableau when a user accesses Tableau data visualisations embedded on all ripe.net websites.
+Users interested in Tableau's cookie policies should consult their privacy policy: https://www.tableau.com/privacy Expires when the browser session is closed 
+has_js
+
+Cookie set by Tableau to identify if the visitor has JavaScript enabled or not.
+This cookie is beyond the control of the RIPE NCC and is set by Tableau when a user accesses Tableau data visualisations embedded on all ripe.net websites.
+Users interested in Tableau's cookie policies should consult their privacy policy: https://www.tableau.com/privacy Expires when the browser session is closed 
+SimpleSAMLSessionID
+
+Cookie set by Tableau to maintain the current session of the visitor.
+This cookie is beyond the control of the RIPE NCC and is set by Tableau when a user accesses Tableau data visualisations embedded on all ripe.net websites.
+Users interested in Tableau's cookie policies should consult their privacy policy: https://www.tableau.com/privacy Expires when the browser session is closed   Created: 07 Dec 2012 - Last updated: 01 Jul 2020 
+      

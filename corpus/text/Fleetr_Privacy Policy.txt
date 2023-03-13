@@ -1,0 +1,270 @@
+
+         1.
+Introduction
+Jooycar US Services, Inc.
+(âJooyCar,â âweâ, âusâ or âourâ) provides the Fleetr Software-as-a-Service platform (the âPlatformâ) that enables fleet operators to track and manage their fleet operations, and includes the Fleetr mobile software application (the âAppâ) and hardware devices (the âHardwareâ).
+When we refer to the âJooyCar Servicesâ throughout this Privacy Notice, we mean, collectively, the App, Platform, Hardware and any other services provided by us to you in connection with any of the foregoing.
+This Privacy Notice describes how JooyCar may process, use, transfer, store and disclose personal information in connection with the use of the JooyCar Services.
+Please read this Privacy Notice carefully.
+The term âpersonal informationâ or âpersonal dataâ means any information about an individual from which that person may be identified.
+For example, it may include your name, telephone number, email address, or payment information, and in some jurisdictions your IP address.
+It does not include data from which the identity of an individual has been definitively removed along with any identifiers connected to such individual (also known as anonymous or anonymized data).
+JooyCar may collect personal information when you:
+
+Download and/or use the App;
+Access and/or use the Platform;
+Use and/or install the Hardware in the vehicles Fleet Operator owns, leases, and/or controls (the âFleet Vehiclesâ);
+Drive, ride in or otherwise be in possession of a Fleet Vehicle with the Hardware installed;
+Purchase a subscription to access and use the JooyCar Services;
+Interact with and use the JooyCar Services;
+Interact with and/or use support and other services provided by us as part of or in connection with the App, Platform and/or Hardware.
+and
+Communicate with us directly.
+
+Please note that certain information collected by us in connection with your use of the JooyCar Services is controlled by the entity or other third party that has entered into the JooyCar Terms of Service Agreement available on the Support section of www.fleetr.com or other agreement (hereinafter, the âAgreementâ) with JooyCar for the access and use of the JooyCar Services (such, entity and/or organization, the âFleet Operatorâ).
+When JooyCar collects or processes such information, it does so as a processor on behalf of the Fleet Operator, who is acting as the controller.
+If you access and/or use the JooyCar Services as an authorized employee, contractor, and/or agent of the Fleet Operator (individually and collectively, âAuthorized Usersâ) or if you drive a Fleet Vehicle owned and/or operated by the Fleet Operator (a âDriverâ), the Fleet Operator determines its own policies regarding storage, access, modification, deletion, sharing, and retention of such information which may apply to your use of the JooyCar Services if you are an Authorized User, or the operation and/or use of the Fleet Vehicle if you are a Driver.
+If you are an Authorized User and/or Driver, please check with the Fleet Operator about the Fleet Operatorâs the policies and settings it implements with respect to information you submit in connection with your use of the JooyCar Services or in connection with the use of a Fleet Vehicle, as applicable.
+
+By accessing or using the jooycar Services, or submitting information in connection with your use of the jooycar Services, you acknowledge and agree that you have read this Privacy Notice. 2.
+Changes to this Privacy Notice
+JooyCar reserves the right to update or modify this Privacy Notice at any time.
+The revised Privacy Notice will be posted on our website located at www.fleetr.com (the âSiteâ).
+All updates and modifications to Privacy Notice will be effective from the day they are posted online (except as stated below).
+If we make any material changes to Privacy Notice, we post a notice of the changes on the Site and will notify the Fleet Operator and/or Authorized Users through the user interface of the Platform and/or App.
+It is your responsibility to regularly visit and review the Privacy Notice.
+If you are a Fleet Operator and you do not agree to any updates or modifications to the Privacy Notice, do not use or access the JooyCar Services (or any part thereof).
+Your continued use of the JooyCar Services after we have posted the updated Privacy Notice, or, in the event of material changes, ten (10) days following the date we posted the notice of such changes on the Site and/or through the Platform and/or App, as applicable, signifies to us that you acknowledge and agree to be bound by the revised Privacy Notice.
+By accessing or using the jooycar Services, or submitting information in connection with your use of the jooycar Services, you acknowledge and agree that you have read this Privacy Notice. 3.
+Information we Collect
+a.
+Information Collected Directly
+If you are a Fleet Operator and/or Authorized User, JooyCar may collect the following personal information in connection with your use of the JooyCar Services:
+
+
+
+Your email address, first name and/or last name,
+Contact information for the Fleet Operator, such as business address and phone number;
+Your username, password and/or other login credentials;
+Information regarding the Fleet Vehicles and the operation of the Fleet Vehicles, which may include, the license plate number, make and model;
+Information regarding the Driver operating and/or driving the Fleet Vehicle, including, the Driverâs name, drives license, and phone number.
+and
+Other information you may provide by filling out forms or by contacting us (such as your feedback or other communications with us).
+
+
+
+Please be advised that we may ask you to update your information from time to time in order to keep it accurate.
+Additionally, if you provide personal information to us about someone else, you must ensure that you are entitled to disclose that information to us and that, without us taking any further steps required by data protection laws, we may collect, use and disclose such information for the purposes described in this Privacy Notice.
+For example, you should ensure the individual concerned is aware of the terms detailed in this Privacy Notice
+If you are a Driver, we may collect information indirectly from you through your employer/fleet owner, please contact them for details.
+b.
+Information Collected Indirectly
+Usage Information
+
+When using or interacting with the JooyCar Services we, or our authorized third-party service providers, automatically collect information about the use and interaction with the JooyCar Services as described below (collectively, âUsage Informationâ).
+
+
+
+
+
+General Usage Information: We collect certain information about interactions with the JooyCar Services, including information about the device used to interact with and/or access the JooyCar Services, including, without limitation, IP address, access dates and times, information about the approximate location of the person accessing the JooyCar Services (as determined through the IP address), mobile device information, device event information, crash data, and log data when accessing and using the JooyCar Services.
+Hardware Information.
+When using and/or installing the Hardware in Fleet Vehicles, and/or during the operation of the Fleet Vehicle, whether by Fleet Operator, an Authorized User and/or Driver, we collect certain information directly from the Hardware units:
+
+
+
+Fleet Vehicle Information: When the Hardware is installed in Fleet Vehicles, the Hardware automatically collects, tracks, and transmits information regarding the operation and use of the Fleet Vehicles, such as the make and model, the vehicle identification number (VIN), engine codes, operational status of vehicle parts (for example, condition of brakes, shocks, engine, oil levels, and sensors), current speed based on miles per hour (MPH), acceleration and deceleration of the Fleet Vehicle, and miles driven.
+
+
+Geolocation: The Hardware automatically collects, tracks, and transmits the geolocation of the Fleet Vehicle during the operation of the Fleet Vehicle.
+This enables a Fleet Operator and/or its Authorized Users to track the driving routes of a Fleet Vehicle and track and determine your location if you are a Driver while operating the Fleet Vehicle, or a passenger in a Fleet Vehicle or otherwise in possession of a Fleet Vehicle.
+
+
+Technical and Performance Information: We automatically collect and record certain technical and performance information from the Hardware such as, usage statistics, performance analytics, device model and serial number, software version, error logs, connectivity status, power status, and charge level, and whether product features are working properly.
+Typically, all technical and performance information is gathered by JooyCar in anonymous form and does not identify an individual personally.
+
+
+
+
+
+
+
+JooyCar uses Usage Information to provide the JooyCar Services to the Fleet Operator pursuant to the Agreement, and understand how the JooyCar Services are being used by Fleet Operator and its Authorized Users (which may include administrative and support communications with us), and other actions taken in connection with the use of the JooyCar Services.
+We use this information for our internal purposes, specifically to operate, maintain, secure and improve the JooyCar Services.
+We may also use this information to provide Fleet Operator and/or its Authorized Users with notifications, recommendations, and information about specific features of the JooyCar Services and/or additional products, services, or features we believe may be of interest to Fleet Operator.
+Cookies and Similar Technologies
+
+We or authorized third parties collect certain information (including, without limitation, Usage Information) by automated means using cookies, web beacons, and server logs for analytic purposes.
+JooyCar tracks users use of the JooyCar Services, but does not track users across third party websites.
+A cookie is a small text file that is stored on a userâs computer for record-keeping purposes.
+When Fleet Operator and/or its Authorized Users access or use the JooyCar Services, we may by means of cookies, beacons, tags, scripts, and/or similar technologies automatically collect technical information about the devices and software used to access the JooyCar Services, such as the type of Internet browser or mobile device used, IP addresses or device IDs (or other persistent identifier that uniquely identifies a computer or mobile device on the Internet), the operating system of the computer or mobile device accessing the JooyCar Services, and other similar technical information.
+Typically, all technical, analytics, and usage information is gathered by JooyCar in anonymous form and does not identify any individual personally.
+We use both session ID cookies and persistent cookies.
+These technologies (or a combination of them) are used to help us:
+
+
+
+
+
+Compile statistics and analytics about the use of and interaction with the JooyCar Services, including details about how and where our Service are accessed, how often a certain user visits or uses the JooyCar Services, the date and time of such visits, user actions on or through the JooyCar Services, and information regarding in-App activities, and other similar traffic, usage, and trend data, which allow us to better understand the functionality of our mobile software on mobile devices and gain insights about how mobile software is used in order to improve our customer experience;
+Gather important functionality, testing, and performance data about the JooyCar Services, including performance data related to the App, Platform and Hardware, such as networking activity, CPU load, and resource usage, among other relevant data;
+Moderate user behavior on the JooyCar Services, such as protecting against fraud and other inappropriate activities;
+Gather demographic information about our user base.
+and
+Perform other similar functions.
+
+
+
+
+
+We may use third party tools and technologies to help us gather this information discussed above.
+For instance, we use Fabric and Firebase, products provided by Google, Inc., which includes, Google Analytics to collect and process certain analytics data with technologies such as tracking pixels.
+Google provides some additional privacy options described at www.google.com/policies/privacy/partners/ with respect to Google Analytics cookies.
+To opt out from Google Analytics, you can download a plug-in from http://tools.google.com/dlpage/gaoptout.
+c.
+Information Collected from Third Parties
+In some instances, we process personal information from third parties other than from you directly, which consists of:
+
+
+
+
+
+
+
+Data from our partners, such as transactional data from providers of payment services or location data from Google Maps;
+Data from Fleet Operators who authorize you to access and use the JooyCar Services as an Authorized User;
+Data submitted by Fleet Operators and/or Authorized Users if you are a Driver;
+Data from national databases of safety records if you are a Driver, for example, diver safety records maintained by the National Driver Registry (NDR), which consist of identification information including name, date of birth, gender, driver license number, and reporting State.
+
+
+
+
+
+
+
+In addition, we may collect certain information from third party databases to provide the JooyCar services that does not identify any person or individual, for example, national databases of speed limits.
+however, if we combine or connect such information with personal data so that it can directly or indirectly identify you, we treat the combined data as personal data, which will be processed in accordance with this Privacy Notice.
+d.
+Aggregated Data
+With the personal information and other data (including, Usage Information) collected by us, we process âAggregated Dataâ, such as statistical or demographic data.
+Aggregated Data may be derived from personal information, but is not considered personal information under the law if it does not directly or indirectly reveal a personâs identity.
+If we combine or connect Aggregated Data with personal information so that it can directly or indirectly identify a person, we treat the combined data as personal information, which will be processed in accordance with this Privacy Notice. 4.
+Using Personal Information
+We use personal information in the following instances:
+
+To perform and provide the JooyCar Services to Fleet Operator and its Authorized Users pursuant to the Agreement;
+Deliver direct marketing communications to Fleet Operator and/or its Authorized Users regarding current or future products and services that we may think are of interest to Fleet Operator (for example, insurance products or offerings);
+Respond to queries and requests from Fleet Operator and/or Authorized Users, or otherwise communicate directly with Fleet Operator and/or Authorized;
+Detect any fraudulent or illegal activity against Fleet Operator and/or JooyCar or its other customers;
+Perform system maintenance and upgrades, and enable new features;
+To comply with a legal or regulatory obligation (for example, keeping records of our sales for tax compliance).
+and
+Provide information to regulatory bodies when legally required, and only as outlined below in Legal Obligations and Security.
+ 5.
+Sharing Personal Information
+Aside from disclosing personal information to those of our personnel who are authorized to process the information in order to provide the JooyCar Services and who are committed to confidentiality, we disclose personal information only to the third parties as described below.
+a.
+Fleet Operators
+We will share and disclose personal information of Authorized Users and Drivers with the Fleet Operator and other Authorized Users.
+For example, information automatically collected by the Hardware units as described in the section titled âFleet Vehicle Informationâ above, is transmitted to the Fleet Operator and Authorized Users, which enables the Fleet Operator and Authorized Users to track, manage and gain insights on the performance and operation of the Fleet Vehicle, including, without limitation, a Driverâs location, length of trip, miles driven, speed, and routes taken.
+In addition, we will share and disclose personal information of Authorized Users and Drivers in accordance with the Fleet Operatorâs instructions, including any applicable terms in the Agreement, and in compliance with applicable law and legal process.
+If you are an Authorized User and/or Driver, please consult with the Fleet Operator to learn more about how your information may be used, shared and/or disclosed by us and the Fleet Operator.
+b.
+Third-Party Service Providers
+We share personal information with third parties that provide services to help us provide the JooyCar Services, and to otherwise operate our business.
+The following categories of third parties collect data on our behalf or receive personal information:
+
+Hosting services providers;
+Analytics providers;
+Payment service providers;
+Providers of business operations and communication tools;
+Other third-party service providers that help us provide features and functions for the JooyCar Services (e.g., customer support providers).
+and
+Professional service providers, such as auditors, lawyers, consultants, accountants and insurers.
+
+For a list of all third-party service providers we use, please contact us through Support.
+We require all third parties to respect the security of personal information and to treat it in accordance with the law.
+We do not allow our third-party service providers to use personal information for their own purposes and only permit them to process personal information for specified purposes and in accordance with our instructions, unless the data is rendered fully anonymous.
+c.
+Business Transfers
+We may also share data with third parties to whom we choose to sell, transfer, or merge parts of our business or our assets.
+Alternatively, we may seek to acquire other businesses or merge with them.
+If a change happens to our business, then the new owners may use personal information in the same way as set out in this Privacy Notice.
+d.
+Affiliates and Subsidiaries
+Personal information that we collected through the JooyCar Services may be shared with the employees, contractors, and agents of JooyCar and our affiliated and subsidiary entities (âAffiliatesâ) who are involved in providing or improving the JooyCar Services.
+We obligate the employees, contractors and agents of JooyCar and our Affiliates to ensure the security and confidentiality of personal information and to act on that personal information only in a manner consistent with this Privacy Notice.
+e.
+Legal Obligations and Security
+If we are required to disclose personal information by law, such as pursuant to a subpoena, warrant or other judicial or administrative order, our policy is to respond to requests that are properly issued by law enforcement within the United States.
+Under such circumstances, unless prohibited by applicable law, we will attempt to provide the Fleet Operator with prior notice that a request for personal information has been made.
+We will attempt to provide this notice by email, if Fleet Operator has given us an email address.
+However, government requests may include a court-granted non-disclosure order, which prohibits us from giving notice to the affected individual.
+In cases where we receive a non-disclosure order, we will notify the Fleet Operator when it has expired or once we are authorized to do so.
+Note that if we receive information that provides us with a good faith belief that there is an exigent emergency involving the danger of death or serious physical injury to a person, we may provide information to law enforcement trying to prevent or mitigate the danger (if we have it), to be determined on a case-by-case basis.
+If you are an Authorized User and/or Driver, please consult with the Fleet Operator to learn more about how Fleet Operator responds to requests for information pursuant to legal orders. 6.
+Marketing Communications
+If you are a Fleet Operator and/or Authorized User, and have not otherwise opted out, or if you have opted in to receive direct marketing emails from us, we may use your personal information to send you marketing information about the JooyCar Services, including, new feature releases, other JooyCar products and services, and new product released in the future (for example, insurance products or offerings) that we think may interest you.
+We carry out direct marketing by email.
+For the avoidance of doubt, we do not send marketing communications to Drivers, unless such Driver has signed up directly with us to receive marketing communications.
+If you no longer wish to receive marketing communications, you have the right at any time to opt out as further explained in Your Choices. 7.
+Your Choices
+
+Updating and Correcting Personal information
+
+If you are a Fleet Operator (or its authorized representative) and would like to correct or update certain personal information (such as your or an Authorized Usersâ contact information) please contact us at support@fleetr.com and we will use reasonably efforts to correct and/or update such information.
+If you are an Authorized User and/or Driver, you must contact the Fleet Operator to request corrections or updates to personal information of yours we may process on behalf of the Fleet Operator.
+Direct Marketing
+
+You may manage your receipt of marketing and non-transactional communications (if applicable) by clicking on the âunsubscribeâ link located on the bottom of any of our marketing e-mails.
+We will use commercially reasonable efforts to process such requests in a timely manner.
+As a Fleet Operator and/or Authorized User, you cannot opt out of receiving transactional e-mails related to the JooyCar Services (e.g., requests for support).
+Cookies
+
+With respect to your choices regarding cookie and other tracking technologies, most web and mobile device browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set.
+You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browsers or mobile devices.
+Please note, however, that by blocking or deleting cookies used on the JooyCar Services, you may not be able to take full advantage of the JooyCar Services.
+JooyCar does not process or respond to web browsersâ âdo not trackâ signals or other similar transmissions that indicate a request to disable online tracking of users who use our Service. 8.
+Sensitive Data
+JooyCar does not collect, or require any user to provide, any sensitive data about race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about health and genetic, and biometric data to use the JooyCar Services. 9.
+Childrenâs Privacy
+JooyCar does not target the JooyCar Services to persons under the age of 16 and does not knowingly collect personal information from minors.
+Therefore, we ask you not to provide us with personal information of persons under the age of 16.
+If we learn that personal information of persons under 16 years of age has been collected on or through the JooyCar Services, then we may deactivate the account or otherwise terminate access to the JooyCar Services and/or make the user content inaccessible. 10.
+Payment Processing
+We do not directly collect or store any payment information.
+We use third-party, PCI-compliant, payment processors, which collect payment information on our behalf in order to complete transactions.
+Our administrators are only able to view limited transaction information via our payment processorsâ portals. 11.
+App Stores and External Websites
+If you have downloaded the App, your app store (e.g., the Apple App Store or Google Play) may collect certain information in connection with your use of the App, including, without limitation, personal information, geolocational information, and other usage-based data.
+We have no control over the collection of such information by a third-party app store, and any such collection or use will be subject to that third partyâs applicable privacy policies.
+On or through the JooyCar Services, we may provide or make available, for informational purposes only, links to other websites or resources with which we do not have a contractual relationship and over which we do not have control (âExternal Websitesâ).
+Such links are not paid advertisements, nor do they constitute an endorsement by JooyCar of those External Websites, and are provided only as a convenience.
+By clicking on links to External Websites, the operators of the External Websites may collect personal information.
+We are not responsible for the content or data collection practices of those External Websites, and the use of External Websites is subject to their respective terms of use and privacy policies. 12.
+Data Retention
+Personal information is processed for the period necessary to fulfill the purposes for which it is collected (for example, in connection with the JooyCar Services provided to Fleet Operator pursuant to the Agreement), to comply with legal and regulatory obligations and for the duration of any period necessary to establish, exercise or defend any legal rights.
+In order to determine the most appropriate retention periods for your personal information, we consider the amount, nature and sensitivity of your information, the reasons for which we collect and process your personal information, and applicable legal requirements.
+In some instances, we may choose to anonymize personal information instead of deleting it, for statistical use, for instance.
+When we choose to anonymize, we make sure that there is no way that the personal information can be linked back to any specific individual.
+If you are an Authorized User and/or Driver, contact the Fleet Operator if you wish to request the removal of personal information under their control. 13.
+Data Security and Protection
+We have put in place reasonable and appropriate security measures designed to prevent personal information from being accidentally lost, used or accessed in an unauthorized way, altered or disclosed.
+For example, we use encryption, secure socket layer, firewalls, and password protection.
+In addition, we limit access to personal information to those employees, agents, contractors and the third parties who have a business need-to-know.
+We also have procedures in place to deal with any suspected data security breach.
+however, no method of transmission over the Internet, or method of electronic storage, is 100% secure.
+While we take reasonable steps to provide secure services, by using the JooyCar Services, you understand and assume the risks associated with your activities on the internet.
+In addition, you have responsibility and control over protecting your personal information.
+For example, you, and not JooyCar is responsible for safeguarding your password, and other authentication information you use to access the JooyCar Services.
+You should not disclose your authentication information to any third party and should immediately notify JooyCar of any unauthorized use of your password.
+In addition, as described in this Privacy Notice, JooyCar cannot secure, and has no responsibility for, any personal information that you share or release on your own or that you request us to share or release. 14.
+Notice to Users Outside the United States
+The JooyCar Services and servers are operated in the United States.
+If you are located outside of the United States, please be aware that your information, including your personal data, may be transferred to, processed, maintained, and used on computers, servers, and systems located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.
+If you are located outside the United States and choose to use the JooyCar Services, you hereby irrevocably and unconditionally consent to such transfer, processing, and use in the United States and elsewhere. 15.
+Contact Us
+If you have any questions about this Privacy Notice, have additional questions, please contact us by email at: support@fleetr.com.
+Â© 2020 Jooycar US Services, Inc.
+All rights reserved.
+

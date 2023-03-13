@@ -1,0 +1,152 @@
+
+         Automotive navigation from HERE Effective date: 25/05/2018 
+Your privacy in Automotive navigation from HERE
+
+HEREâs privacy policy explains how we process your personal data when you use our products and services.
+In addition, the following information applies to your use of the Automotive navigation system and its features (the âServiceâ).
+The Service includes experiences designed for use by a driver as well as passengers in the vehicle.
+The purpose of this document is to give background information on data processing for different features available in the Service.
+The features of the Service enable you for example to navigate from one place to another, find places and addresses on a map, interact with them and access relevant content, as well as synchronize information related to your drives to access from other screens and devices.
+You can share places, routes and arrival times with your friends.
+The Service also helps you to optimize your daily commute by learning your habits.
+Your agreement with these terms implies your responsibility for ensuring that this information is passed on to other users of the vehicle, such as co-drivers or passengers, and ensure that these users also accept these terms.
+
+What information do we collect?
+
+We collect the following categories of information:
+
+Registration and contact details
+
+Some features may require the use of an InControl Navigation Account, for example when you want to share your location with other users or sync your favourites.
+You may continue to use other available features of the Service without signing in.
+
+Location data and place information
+
+Our Service makes use of information about your actual location (âLocation Dataâ) and expressed interests in points of interest (âPlaces Dataâ).
+Location Data reveals where you currently are or where you have been.
+Location Data is based on available positioning methods, such as GPS.
+Places Data is general information pertaining to particular geographical locations (e.g.
+a city or a location of a restaurant) that you may have provided to us, for example your favourite places.
+Unless otherwise stated, we use random identifiers in connection with your Location Data that do not identify you personally.
+When you start to use the Service, the application acquires your current location using underlying positioning technologies in the vehicle.
+The Service may send your Location Data to HERE when you use location enabled features of the Service online, such as ask information about nearby content, services or offerings or share your location.
+As further defined below, Location Data may be collected when you use the navigation feature for service improvement purposes without identifying you personally.
+Places Data may be sent to HERE for example when you synchronise your favourites.
+
+Traffic improvement
+
+Whenever you use the Service while having traffic features enabled, the Service sends, on regular intervals, your current location, speed, direction and timestamp to us to provide you and other users of the Service with better traffic service such as detect traffic jams, traffic patterns, changed road conditions and other such conditions as well as to identify new routes on the map.
+This information is analysed to distinguish independent routes and traffic patterns and contains a changing identifier, which is persistent only for the duration of the route.
+This information is sent to us when you use the Service online.
+In case you are using the Service offline, we may collect this information locally and it may be sent to us on your next connection.
+
+My Commute
+
+You may activate My Commute feature in the Service to let the Service learn your daily commutes and help you optimize your travel.
+While learning your daily commutes, the Service can start recommending optimal times for travel based on foreseen traffic situation.
+All the information collected by the My Commute feature, which includes information about the routes youâve driven and places related to your commute remains only in the vehicle and is never sent outside the vehicle.
+Information is stored protected against unauthorized use.      
+You may manage your learned routes and preferences and you may turn the My Commute feature on and off via settings of the Service.
+
+Technical information and your transactions
+
+When you use the Service online, certain technical information such as the details of the application version, service permissions, vehicle identification number, internet protocol address, time zone, technical details of your connection as well as your transactions with HERE may be automatically collected by HERE.
+
+How do we use that information?
+
+
+Non-personal use of Location Data and Places Data
+
+We do not associate your Location Data or Places Data with your other personally identifiable information, such as an InControl Navigation Account, unless you have asked us to do so.
+For example, if you point to a position in a map to favourite it we do not combine this information with your Location Data unless you have asked us to do so.
+We implement appropriate technical and organisational measures to prevent associating your Location Data with other personally identifiable information without your permission.
+
+Provision of the Services
+
+As explained in more detail in the privacy policy, the information collected by the Service is utilised to provide you with the Service, to develop our products and services as well as to communicate with you.
+We may also use the information to provide you with more improved search and recommendations to better assist you to find a place you may like.
+As explained above, the traffic information collected from your drives is used in an anonymous manner to provide you and other users of the Service with better service and to detect new routes on the map.
+
+What is our legal basis for processing your Personal Data?
+
+We process your personal data in context of the Service for the following legal bases:
+
+Performance of a contract with you
+
+We process your personal data to perform our obligations under the Service Terms.
+
+Your consent
+
+This Service enables you to activate additional optional features, with great additional functionalities and help us improve the Service, including Traffic and MyCommute.
+Once you activate an optional feature or functionality, we process your personal data based on your consent.
+You may revoke your consent by changing your settings at any time in Settings or About.
+Doing so will bar us from further processing of your personal data based on your consent, but will not impact the lawfulness of processing based on your consent before it was withdrawn.
+Some of the features in the Service might be only available based on consent.
+
+How long do we retain Personal Data?
+
+We endeavor to only collect personal data that are necessary for the purposes for which they are collected, and to retain such data for no longer than is necessary for such purposes.
+The length of time personal data is retained, and criteria for determining that time, are dependent on the nature of the personal data and the purpose for which it was provided.
+For example, for your personal data related to managing your account (such as name, email address, and account content and preferences) are maintained for as long as they are retained by you within your account.
+Other data, such as records of your activity within the application, are typically maintained only for a short period before being anonymized.
+You may contact the HERE Privacy Office at privacy@HERE.com to obtain additional information about retention of your personal data.
+
+Your choices
+
+The Service offers a variety of choices to allow you to control how your Location Data and other information are collected.
+You may configure individual features or feature sets of the Service to be used in offline or online mode.
+No Location Data or other information is sent to HERE if you only use the Service in offline mode.
+Note, that your vehicle may nevertheless have stored information which may be sent to HERE once you establish an online connection, as defined earlier in this document.
+You may choose the level at which you participate in the development of HEREâs products and services.
+You may disable the collection of Location Data for traffic improvement purposes by turning off the traffic service.
+Note that then youâre also not able to benefit from the traffic service.
+You may choose to create a profile either locally in the vehicle or an InControl Navigation Account with features which help you store and synchronize your information outside the vehicle context, such as with your mobile and other devices.
+You may choose to enable and disable the synchronization or your favourites as well as your most recent location of your car.
+If you have enabled the synchronization of the location of your parked car, the Service will automatically, or upon request, send the parked car location in association with each and every active InControl Navigation Account on the vehicle.
+This allows you to easily share the location of your car for example with other family members.
+If you donât want to share the location of your car with other account holders, please make sure the other users are in a logged out state while you drive.
+You may delete a local profile, which will delete all locally stored information associated to your profile, such as recent destinations and recent searches.
+Deleting a local profile from the vehicle will not delete any InControl Navigation Account you may have created.
+You may also remove or terminate your InControl Navigation Account.
+If you remove your InControl Navigation Account from the vehicle, it remains active for your future use.
+
+Do we share your information?
+
+Your Location Data will not be shared with other service providers or advertisers without your permission.
+In case you have an InControl Navigation Account, the Service may allow you to share your Location Data or Places Data.
+For example, if you choose to share your estimated time of arrival with selected individuals, you can do so either via SMS or email.
+We will facilitate the sharing interaction by collecting the list of recipients you have specified and by sending notification messages to the recipients of your choice.
+The Service may also include content from and links to third party sites and services.
+As explained in more detail in our privacy policy, we may share your personal data:
+
+with your consent;
+with HERE companies and authorised third parties, who process personal data on our behalf;
+where there is a legal requirement to do so. 
+
+
+What are your rights?
+
+As explained in more detail in our privacy policy, you have the right to know what personal data we hold about you, and to access it.
+You have a right to have incomplete, incorrect, unnecessary or outdated personal data deleted or updated.
+You have the right to request that your personal data be erased, and to obtain a copy of your data in a machine-readable format.
+You have the right to object to or restrict processing in certain circumstances, such as where you believe the data is inaccurate or the processing activity is unlawful.
+
+Who is the controller of your Personal Data?
+
+HERE Global B.V.
+of Kennedyplein 222 -226, 5611 ZT Eindhoven, Netherlands is the controller of your personal data.
+
+Other information
+
+We advise you to use appropriate consideration when you name your favourite places.
+For example, if you do not want all the users of the Service to know the location of your home, do not name the location of your home âhomeâ and share it with all users.
+Please let us know if you encounter any content that you find inappropriate in nature by reporting through the provided channels.
+For more information about our privacy practices, check our privacy policy.
+For information concerning the service, check our support pages.
+You may contact us through our customer care or our Data Protection Officer, Henri Kujala, through following contact details:
+HERE Global B.V 
+c/o Privacy
+Kennedyplein 222-226
+5611 ZT Eindhoven
+Netherlands
+Email: privacy@here.com

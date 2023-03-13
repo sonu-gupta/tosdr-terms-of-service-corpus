@@ -1,0 +1,261 @@
+
+        We use cookies to ensure you get the best experience on our website.
+If you agree to our use of cookies, please continue to use our site.
+For more information, see our privacy policy.Continue 
+Sign In
+
+
+A Cloud Guru
+Blog
+Resources
+Forum
+Careers
+ Close 
+Browse Learning
+For Business
+For Individuals
+Learn by Doing
+Pricing
+ Close 
+Get Started
+
+
+ BackBrowse Learning CoursesBuild your modern tech skills with our comprehensive course library
+
+ Hands-on LabsGet your hands cloudy and build skills on demand with 1,500+ guided labs
+
+ Learning PathsGo from novice to guru in your chosen specialty
+
+Browse All Learning >
+
+
+
+
+ BackBrowse Platforms AWSLearn from an AWS Advanced Consulting Partner
+
+ AzureLearn Azure from our Microsoft MVP-led team
+
+ GCPPrep for in-demand certs or go deep into advanced topics
+
+ LinuxLevel up with 1,400+ hours of Linux learning
+
+Browse AllSAVE 20%!
+
+Hands-on Labs Top Hands-on LabsFind our most popular Hands-on Labs
+
+ By PlatformFind labs filtered by your preferred platform
+
+ By SpecialtyFind labs focused on security, data, and other specialties
+
+Browse AllSAVE 20%!
+
+
+ AWS DeveloperTake your dev skills from novice to guru
+
+ AWS ArchitectGo from novice to guru as a cloud architect
+
+ AWS DataBecome a guru in all things data
+
+ AWS DevOpsLearn the time warping skills a DevOps guru needs
+
+ AWS SecurityBecome a master of defense and secure your cloud
+
+ AWS ExecutiveBuild your cloud foundation to better define strategies and priorities
+
+Browse AllSAVE 20%!
+
+
+Sign In
+ Close 
+Get Started
+ ACG PoliciesA Cloud Guru Hands-On Feature Terms Policies 
+ Privacy Policy
+ Code of Conduct
+ Terms of Use
+ Platform Sub-processors
+ Platform and Operational Security
+ Technical and Organisational Measures (TOM)
+ A Cloud Guru Hands-On Feature Terms
+ Master Services Agreement
+ Data Processing Addendum
+A Cloud Guru Hands-On Feature TermsThese Hands-on Feature Terms of Use (these âFeature 
+Termsâ) govern the access to and use of A Cloud Guruâs interactive Cloud Playground and Hands-on Lab features (the âFeaturesâ), which Features may be included as part of the overall services (the âServicesâ) offered by the A Cloud Guru entity providing you with the Services (âACGâ).
+These Feature Terms supplement and are incorporated into the agreement (whether Terms of Sale, Terms of Use, Master Services Agreement, or other agreement) governing use of ACGâs Services (collectively, with these Feature Terms, the âAgreementâ) between ACG and the person or business subscribing to the Services (âSubscriberâ).
+Capitalized terms not defined in these Feature Terms will have the same definition as within the Agreement.
+
+BY USING THE FEATURES, SUBSCRIBER UNCONDITIONALLY AGREES TO THESE FEATURE TERMS.&nbsp.
+IF SUBSCRIBER DOES NOT AGREE TO THESE FEATURE TERMS, SUBSCRIBER AND ITS USERS MAY NOT USE THE FEATURES.
+
+
+1.&nbsp.
+GENERAL APPLICATION
+
+
+1.1.&nbsp.
+For all Subscribers.&nbsp.
+All terms of Subscriberâs Agreement will also apply to the Features and, except as supplemented by these Feature Terms if Subscriber elects to use the Features, all terms of Subscriberâs Agreement remain in full force and effect.
+If there is any conflict between these Feature Terms and the terms of the Agreement, the Agreement will control unless expressly stated otherwise in these Feature Terms.
+
+1.2.&nbsp.
+Business Subscriber Users.&nbsp.
+For business Subscribers, the term âUsersâ has the meaning set forth in the applicable Agreement or, if not defined in that Agreement, it means any person that a business Subscriber has authorized to use the Services or Features or who uses the Services or Features by or through a business Subscriber, as permitted by the Agreement.
+Any action taken by Subscriberâs Users with respect to the Features will be deemed an action taken by Subscriber.
+as such, a breach of these Feature Terms by a User will be deemed a breach by Subscriber.
+The term âUsersâ herein does not apply to individual (non-business) Subscribers of the Services.
+
+1.3.&nbsp.
+Compliance With Terms and Agreement. Subscriber and its Users (if applicable) agree to use the Features solely in compliance with these Feature Terms, the Agreement, and any other terms and policies identified herein (including the Cloud Provider Terms described below) and in compliance with all applicable laws and regulations.
+
+2.&nbsp.
+CLOUD PLATFORMS AND PROVIDERS
+
+
+2.1.&nbsp.
+Cloud Platforms. The Features allow Subscriber and its Users to access certain third-party cloud platform services, including, as available, Microsoft Azure, Google Cloud Platform, and Amazon Web Services (âCloud Platformsâ).
+Each Cloud Platform is provided by its respective provider (each a âCloud Providerâ) and is governed by and subject to its own agreement or terms and conditions (and all âacceptable useâ or similar policies or terms linked to or referenced therein) (âCloud Provider Termsâ).
+Each of the Cloud Provider Terms are listed and linked-to below and are hereby incorporated into these Terms by reference:
+
+
+
+Microsoft Azure Online Subscription Agreement and Online Services Terms
+Google Cloud Provider Terms of Service, Service Specific Terms and Acceptable Use Policy
+Amazon Web Services Customer Agreement and Service Terms
+
+
+
+
+2.2.&nbsp.
+Cloud Provider Terms.&nbsp.
+When using the Features, Subscriber and its Users are deemed to be end-users (or any similar term of the Cloud Provider Terms referencing the party making end-use of the Cloud Platform) of the Cloud Platforms.
+Use of the Features is subject to all Cloud Provider Terms applicable to end-users of the respective Cloud Platform.
+Subscriber agrees to, at all times, comply with and ensure its Users comply with, all Cloud Provider Terms applicable to end-users.
+The Cloud Provider Terms may be subject to change at the Cloud Providersâ discretion as provided for by the Cloud Provider Terms, and any such changes will be automatically incorporated into these Feature Terms by reference.
+Subscriber understands that ACG does not control any changes to Cloud Provider Terms made by a Cloud Provider.
+
+2.3.&nbsp.
+Third-Party Materials.&nbsp.
+All materials, works, content, inventions, trademarks, information, data, and other intellectual property (including all copyright, trademark, patent, trade secret, or other intellectual property or proprietary rights therein) that are not owned by ACG and are incorporated into or made available in connection with the Features (âThird-Party Materialsâ) are the exclusive property of their respective owners.
+Nothing herein should be construed as granting any license or right to use any Third-Party Materials except as permitted by these Feature Terms.
+
+2.4.&nbsp.
+Disclaimer.&nbsp.
+SUBSCRIBER AGREES THAT: (A) ACG DISCLAIMS ALL WARRANTIES (EXPRESS OR IMPLIED) AND WILL NOT HAVE ANY LIABILITY TO SUBSCRIBER, WITH RESPECT TO ANY CLOUD PLATFORM.
+AND (B) THE CLOUD PROVIDERS HAVE NO LIABILITY ARISING OUT OF OR RELATING TO THE AGREEMENT.
+
+3.&nbsp.
+ ACCESS AND USE OF FEATURES
+
+
+3.1.&nbsp.
+Subscriber Responsibility.&nbsp.
+Subscriber acknowledges and agrees that: (a) Subscriber is solely responsible for ensuring Subscriber and its Users comply with these Feature Terms and for all information, data, communications, programs, applications, protocols, media, formulae, code, works, content, configurations, or other materials input, uploaded, transmitted, submitted, posted, or published by Subscriber or its Users in connection with use of the Features (collectively, âInteractive Contentâ) and/or into or on the server instances that provide interactive environments as a part of the Features and the API and materials related thereto (âInteractive Sessionsâ).
+(b) neither ACG or its affiliates or licensors (including Cloud Providers) will have any responsibility for Subscriberâs or its Usersâ Interactive Content or Interactive Sessions.
+and (c) ACG will have the right, but not the obligation, to monitor the use of the Features (including Interactive Content and Interactive Sessions) by Subscriber and its Users for compliance with these Feature Terms, and any such monitoring will not relieve Subscriber of its obligations under these Feature Terms or the Agreement.
+
+3.2.&nbsp.
+Restrictions on Use.&nbsp.
+To the extent Subscriber has not so agreed under the Agreement, in addition to any restrictions set forth in the Cloud Provider Terms, Subscriber and its Users will not (or allow any third party to) do any of the following:
+
+
+
+copy, download, modify, distribute, rent, lease, or provide access to any portion of the Features or any Interactive Sessions or the source code thereof or any other userâs accounts;
+gain or attempt to gain unauthorized access to Features or Interactive Sessions or the systems or networks connected thereto;
+provide web, database, or forum access on or through the Features;
+reverse engineer, decompile, or disassemble any part of the Features or create derivative works thereof;
+exceed the usage limitations (including but not limited to, any time, Interactive Session number, or User number limitations) applicable to Subscriberâs use of the Features under the Agreement;
+transfer or resell Subscriberâs access to the Features or share access information to allow non-Users to access Subscriberâs or its Usersâ registered Interactive Session account(s);
+use the Features to transmit any bulk unsolicited commercial communications or as a mail sender or use any automated process or service to access or use the Features such as a BOT, a spider, or periodic caching of information stored by ACG or its licensors;
+distribute any downloadable material from the Features;
+use or access an Interactive Session in any commercial production environment;
+use any code and/or software that allows automated control of the Features and/or any component or feature thereof or use any device, software, or routine to interfere or attempt to interfere with the proper working of the Features or any activity being conducted on the Features;
+materially disrupt or assist in the disruption of any computer, system, or network used to support the Features, the Cloud Platforms, any other userâs Interactive Sessions, or the Site (the âSiteâ being any website or app through which ACG makes its Services or the Features accessible for use);
+use computer programming routines intended to damage, detrimentally interfere with, or surreptitiously intercept or expropriate any systems, data, personal data or information, confidential information, or any other property of ACG, its affiliates or licensors (including Cloud Providers), or any third party;
+circumvent or attempt to circumvent or render ineffective any security measures of the Features or the Cloud Platforms;
+use any data or information other than simulated, anonymous, non-live data when using the Interactive Sessions, and will not use real customer data or information or real transactions;
+use the Features to engage in or encourage activity that is illegal or would give rise to civil liability;
+use the Features to engage in cryptocurrency mining;
+use the Features or Cloud Platforms to violate, tamper with or circumvent the security of any computer network, software, passwords, encryption codes or technological protection measures or to otherwise enable others to do so.
+or
+use the Features or Cloud Platforms, or upload, publish, submit or transmit any Interactive Content that, in any way: (a) infringes, misappropriates, or violates a third partyâs intellectual property rights (including but not limited to, patent, copyright, trademark, or trade secret rights), or rights of publicity, or privacy.
+(b) contains information that is fraudulent, false, misleading, deceptive, or intentionally inaccurate.
+(c) is defamatory, obscene, indecent, pornographic, harassing, threatening, vulgar, or offensive.
+(d) promotes discrimination, bigotry, racism, hatred, harassment, or harm against any individual or group.
+(e) promotes or discusses illegal or harmful activities or substances.
+(f) contains personal information, personally identifiable, information, or personal data (each as defined by applicable law) that Subscriber or its Users are not authorized by the subject thereof to publish or process within the Features.
+(g) contains confidential or proprietary information that is not authorized by the owner thereof for publication or processing within the Features.
+(h) contains advertising or any form of commercial solicitation.
+(i) is related to partisan political activities.
+or (j) contains âMalware,â (âMalwareâ being any viruses, Trojan horses, worms, time bombs, corrupted files, spyware or any other similar software that may damage the operation of anotherâs computer or property.
+
+
+
+
+4.&nbsp.
+REPRESENTATIONS AND WARRANTIES
+
+Subscriber represents and warrants to ACG and ACGâs licensors that: (a) Subscriber has read and understood these Feature Terms.
+(b) Subscriber has, and any individual accepting on behalf of Subscriber has, full right and authority to accept these Feature Terms on behalf of Subscriber and to bind Subscriber to these Feature Terms.
+and (c) Subscriber and its Users have secured any and all rights, permissions, and consents required to make use of all Interactive Content in the manner used in connection with the Features.
+
+5.&nbsp.
+FEATURE SUSPENSION.
+TERMINATION
+
+ACG reserves the right to, in ACGâs sole discretion, take any action to: (a) investigate, prevent, mitigate, or remediate any violations or suspected violations of these Feature Terms.
+(b) maintain or restore the security of the Features or the Services.
+and/or (c) comply with ACGâs obligations under the Cloud Provider Terms.
+These actions may include but are not limited to: (i) editing or removing the applicable Interactive Content or portion thereof.
+(ii) disabling or denying access to Interactive Sessions and/or associated User accounts.
+and/or (iii) suspending or terminating Subscriberâs and/or a violating Userâs access to the Features.
+
+6.&nbsp.
+FEATURE CHANGES
+
+The Features are currently provided as an add-on feature in connection with Subscriberâs subscription to the Services.
+A subscription to the Services may allow Subscriber to access and use the Features, but a subscription does not guarantee access to or use of the Features in any particular form or at all.
+and ACG may change, modify, suspend, or terminate all or part of the Features at any time.
+For example, and without limiting ACGâs general rights, each Cloud Provider may have the right to change, modify, suspend, terminate, or take other action with respect to its Cloud Platform or ACGâs use of its Cloud Platform, in accordance with the Cloud Provider Terms (a âCloud Platform Changeâ).
+and in the event of such a Cloud Platform Change, ACG will have the right to take action with respect to the Features commensurate with the Cloud Platform Change.
+The Section will control over anything to the contrary in Subscriberâs Agreement.
+
+7.&nbsp.
+MISCELLANEOUS
+
+
+7.1.&nbsp.
+Third-Party Licensors.&nbsp.
+Subscriber acknowledges and agrees that: (a) certain elements of the Features (including Cloud Platforms) are owned by ACGâs third-party licensors (including Cloud Providers).
+(b) the acknowledgments, obligations, restrictions, and undertakings given or accepted by Subscriber in these Feature Terms are for the benefit of ACG and its third-party licensors, with such licensors being third-party beneficiaries with the right to enforce these Feature Terms directly against Subscriber or through ACG.
+and (c) Subscriber is prohibited from bringing any claims related to ACGâs Services against ACGâs third-party licensors.
+
+7.2.&nbsp.
+Electronic Consent.&nbsp.
+IF SUBSCRIBER AGREES TO THESE FEATURE TERMS ELECTRONICALLY (SUCH AS THROUGH A CLICKTHROUGH),&nbsp.
+SUBSCRIBER AGREES THAT SUBSCRIBERâS ASSENT TO THESE FEATURE TERMS, GIVEN ELECTRONICALLY, WILL HAVE THE SAME LEGAL EFFECT AS IF THESE FEATURE TERMS HAD BEEN PERSONALLY SIGNED BY SUBSCRIBER.
+TO THE EXTENT PERMITTED BY LAW, THESE FEATURE TERMS ARE INTENDED TO SUPERSEDE ANY PROVISIONS OF APPLICABLE LAW, WHICH MIGHT OTHERWISE LIMIT THEIR ENFORCEABILITY OR EFFECT ON THE BASIS THAT THEY WERE ENTERED INTO ELECTRONICALLY.&nbsp.
+PLEASE PRINT A COPY OF THESE FEATURE TERMS FOR FUTURE REFERENCE.
+
+Learning
+For Business
+For Individuals
+Hands-on Labs
+
+
+Resources
+Blog
+Webinars
+Case Studies
+eBooks
+Forum
+
+
+About Us
+Contact Us
+Careers
+ACG News
+Support
+ facebook twitter linkedin instagram youtube RSS Â© 2021 Serverless Heroes, Inc.
+Code of Conduct
+Privacy Policy
+Terms of Use
+

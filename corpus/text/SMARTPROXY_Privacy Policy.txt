@@ -1,0 +1,226 @@
+
+         Personal data processing when you register for our services
+Upon registration to the Smartproxy dashboard, you will be asked to provide your username and email address which are necessary to create your account.
+We also require you to specify how do you use proxies to provide you with services that may be of interest to you and to further improve our services.
+Without providing the above-mentioned information, you cannot create a Smartproxy account.
+Our payment service provider might ask you for additional information when administering your payments for our services from your account (for example, location information for VAT purposes, etc.).
+To learn more about the way our payment service provider processes your data, please refer to its privacy policy (the link is provided upon request for your information).
+Personal data processing when you contact us
+We can be contacted by various means:
+â you can send us an email.
+â you can fill in an online contact form.
+â you can send us a request using our live chat platform.
+or
+â you can contact us through social media.
+In all these cases, we process your personal data for the purposes of responding to your inquiry and administering it.
+By contacting us you consent to your personal data processing, therefore the legal basis for your data processing in this case is a consent.
+Personal data processing for marketing purposes
+Smartproxy may use your personal data to contact you with marketing related offers.
+You will receive information about our services if you provide your contact details in the contact form on our website.
+We consider that by providing your information in the online form you give us a consent to contact you for purposes mentioned in this section.
+In cases where applicable law permits us to contact you without a separate consent, we will contact you under the legal basis of our legitimate interests to make you an offer of our services.
+You can opt-out from any marketing related communication that we send you at any time by clicking an unsubscribe button in our emails or by contacting us at privacy@smartproxy.com.
+How long do we store your data?
+Smartproxy stores your personal data up to 2 years from our last contact with you or from your last log-in.
+Your data may be stored for a longer period, if it is necessary to defend ourselves against claims, demands or actions and exercise our rights or if law demands it.
+Data sharing
+Smartproxy will use certain service providers (data processors) to process your personal data.
+Such data processors are: CRM software providers, email and email tracking service providers, online live chat service providers, business development service providers, customer support specialists, data analysis service providers, payment services firms, web hosting companies and other service providers.
+In all cases, your personal data is disclosed only to the extent necessary for the provision of their services.
+We do not share your data with any third parties that are not our service providers.
+Our data processors are usually based in European Economic Area (EEA) and US.
+When choosing our service providers in US, we try to make sure that they are members of EU â US Privacy Shield Framework and are publicly committed to complying with mandatory EU privacy standards.
+In other cases where necessary, we make sure that our US-based data processors would comply with EU privacy standards by entering into agreements with standard data protection clauses adopted by the European Commission.
+Your privacy-related rights
+You have the following rights with respect to your personal data:
+â to get access to your personal data and related information about processing.
+â to demand to correct inaccurate data.
+â to demand to erase your personal data or restricting the processing of your personal data when there is a legal basis for that.
+â to demand to transfer your personal data to another data controller or provide it directly to you in a convenient format (on conditions set in the applicable law).
+â in cases where your personal data is processed on a consent basis, you have the right to withdraw your consent at any time.
+â to object to the processing of your personal data, if the processing is based on a legitimate interest (on conditions set in the applicable law).
+â to contact a relevant data protection authority of your habitual residence, place of work or of an alleged infringement and file a complaint, if you believe that your data is processed unlawfully.
+If you like to exercise any of the above-mentioned privacy-related rights, please contact us at privacy@smartproxy.com.
+Data processing when you visit our website
+When you visit our website, we ask you for a consent to collect certain personal data with the help of cookies and other similar technologies.
+Cookies, pixels and other similar technologies are usually small text or image files that are placed on your device when visiting our website.
+We mostly use cookies on our website and they usually fall within one of the following categories:
+â Essential cookies.
+Without these cookies we cannot provide many services that you need on the website.
+For example, essential cookies help remember your preferences as you move around the website.
+â Functionality cookies.
+These cookies are used to remember information you have entered or choices you make (such as your username or language) on the website, so the next time you visit the website you will not have to set them again.
+â Analytics cookies.
+These cookies track information about visits to the website so that we can make improvements and report our performance.
+For example, analyze visitor and user behavior to provide more relevant content.
+â Advertising cookies.
+These third-party cookies are placed by third-party advertising platforms or networks to deliver ads and track ad performance.
+In some cases, these cookies enable advertising networks to deliver ads that may be relevant to you based upon your activities on our website and other websites (in such cases, ad serving might be based on automated decision-making).
+Cookies on our website can be classified to session or persistent cookies.
+Session cookies are temporary and are erased when you close your browser at the end of your surfing session.
+Persistent cookies remain on your hard drive until you erase them or they expire.
+Please find cookies and other technologies used on our website in the table below: COOKIE NAME
+PURPOSE / DESCRIPTION
+COOKIE DURATION Essential cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website.
+The website cannot function properly without these cookies. __cfduid
+Used by the content network, Cloudflare, to identify trusted web traffic.
+1 year catAccCookies
+Determines whether the visitor has accepted the cookie consent box.
+This ensures that the cookie consent box will not be presented again upon re-entry.
+29 days laravel_session
+This cookie is used internally by the websiteâs owners, when uploading or renewing website content.
+Initiator: Script tag, page source line number 1.
+1 day m-b
+Ensures visitor browsing-security by preventing cross-site request forgery.
+This cookie is essential for the security of the website and visitor.
+6080 days pa_enabled
+Determines the device used to access the website.
+This allows the website to be formatted accordingly.
+Persistent XSRF-TOKEN
+Ensures visitor browsing-security by preventing cross-site request forgery.
+This cookie is essential for the security of the website and visitor.
+1 day Functionality cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in. dc
+Necessary for the functionality of the website's chat-box function.
+Session driftt_aid
+Necessary for the functionality of the website's chat-box function.
+2 years driftt_sid
+Identifies the visitor across devices and visits, in order to optimize the chat-box function on the website.
+1 day Analytics cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously. _dc_gtm_UA
+Used by Google Tag Manager to control the loading of a Google Analytics script tag.
+1 day _ga
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+2 years _gat
+Used by Google Analytics to throttle request rate.
+1 day _gid
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+1 day collect
+Used to send data to Google Analytics about the visitor's device and behavior.
+Tracks the visitor across de vices and marketing channels.
+Session Drift.Targeting.currentReferrer
+Allows the website to recoqnise the visitor, in order to optimize the chat-box functionality.
+Persistent Drift.Targeting.referrerDomain
+Allows the website to recoqnise the visitor, in order to optimize the chat-box functionality.
+Persistent pa
+Registers the website's speed and performance.
+This function can be used in context with statistics and load-balancing.
+Persistent personalization_id
+This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+2 years Advertising cookies are used to track visitors across websites.
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers. _fbp
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+3 months _gcl_au
+Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+3 months _hjIncludedInSample
+Determines if the user's navigation should be registered in a certain statistical place holder.
+Session _hjRecordingEnabled
+This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites â this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.
+Session ads/ga-audiences
+Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor 's online behaviour across websites.
+Session Drift.Targeting.currentPageViewStarted
+Necessary for the functionality of the website's chat-box function.
+Persistent Drift.Targeting.currentSessionStartedAt
+Identifies the visitor across devices and visits, in order to optimize the chat-box function on the website.
+Persistent Drift.Targeting.firstVisit
+Necessary for the functionality of the website's chat-box function.
+Persistent Drift.Targeting.lastVisit
+Necessary for the functionality of the website's chat-box function.
+Persistent Drift.Targeting.numberOfSessions
+Determines the number of visits of the specific visitor.
+This is used in order to make the chat-box function more relevant.
+Persistent Drift.Targeting.numberOfVisits
+Determines the number of visits of the specific visitor.
+This is used in order to make the chat-box function more relevant.
+Persistent Drift.Targeting.previousPage
+Identifies the last page visited by the visitor.
+This is used in order to make the chat-box function more relevant.
+Persistent fr
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+3 months GPS
+Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+1 day i/adsct
+The cookie is used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content.
+Session IDE
+Used by Google DoubleClick to register and report the website user's actions after viewing or clicking on e of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+1 year MUID
+Used widely by Microsoft as a unique user ID.
+The cookie enables user tracking by synchronising the ID across many Microsoft domains.
+1 year MUIDB
+Registers data on visitors from multiple visits and on multiple websites.
+This information is used to measur e the efficiency of advertisement on websites.
+1 year NID
+Registers a unique ID that identifies a returning user's device.
+The ID is used for targeted ads.
+6 months pagead/1p-user-list/
+Generated by Google pagead dynamic marketing to track events such as conversions or other meaningful user interactions.
+Session PREF
+Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+8 months r/collect
+This cookie is used to send data to Google Analytics about the visitor's device and behavior.
+It tracks the v isitor across devices and marketing channels.
+Session rc::a
+Used in context with video-advertisement.
+The cookie limits the number of times a visitor is shown the same advertisement-content.
+The cookie is also used to ensure relevance of the video-advertisement to the specific visitor.
+Persistent rc::b
+Used in context with video-advertisement.
+The cookie limits the number of times a visitor is shown the sa me advertisement-content.
+The cookie is also used to ensure relevance of the video-advertisement to the specific visitor.
+Session rc::c
+Used in context with video-advertisement.
+The cookie limits the number of times a visitor is shown the same advertisement-content.
+The cookie is also used to ensure relevance of the video-advertisement to the specific visitor.
+Session test_cookie
+Used to check if the user's browser supports cookies.
+1 day tr
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+Session VISITOR_INFO1_LIVE
+Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+179 days YSC
+Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+Session yt-remote-cast-installed
+Stores the user's video player preferences using embedded YouTube video.
+Session yt-remote-connected-devices
+Stores the user's video player preferences using embedded YouTube video.
+Persistent yt-remote-device-id
+Stores the user's video player preferences using embedded YouTube video.
+Persistent yt-remote-fast-check-period
+Stores the user's video player preferences using embedded YouTube video.
+Session yt-remote-session-app
+Stores the user's video player preferences using embedded YouTube video.
+Session yt-remote-session-name
+Stores the user's video player preferences using embedded YouTube video.
+Session DFTT_END_USER_PREV_BOOTSTRAPPED
+A True/False indication that the site visitor previously interacted with the chat or playbooks.
+This helps us fetch any existing conversations.
+2 years hjViewportId
+Hotjar Session Recorder.
+No personal data recorded.
+2 years paddlejs_campaign_referrer
+Track campaigns refererrers for visitors.
+30 days paddlejs_checkout_variant
+Used when initiation a subscription request.
+3 months poptin_client_id
+ID of the poptin, to know which poptin will be activated.
+Session poptin_every_visit_session
+For display rules.
+Session poptin_new_user
+Identifying new user.
+Session poptin_old_user
+Identifying old user.
+1 day poptin_origin_landing_page
+For display rules.
+Session poptin_referrer
+Original referrer.
+1 day poptin_session
+Poptin session for poptin display settings.
+1 day poptin_user_id
+Unique visitor id.
+1 year Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies. rc::d-15
+Unclassified.
+Persistent You can control and/or delete cookies as you wish.
+You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed.
+If you want to learn more about cookies, or how to control, disable or delete them, please visit http://www.aboutcookies.org for detailed guidance.
+The content of the table above is for your general information and use only.
+Cookies are subject to change without notice.
+You acknowledge that this information may contain inaccuracies or errors and is subject to change and we expressly exclude liability for any such inaccuracies or errors fully permitted by law.
+This Policy was updated on: March 21, 2019

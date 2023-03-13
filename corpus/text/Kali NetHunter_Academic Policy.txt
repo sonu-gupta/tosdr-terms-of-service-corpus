@@ -1,0 +1,59 @@
+
+OFFENSIVE Securityâs ACADEMIC POLICY â TRY HARDER
+At Offensive Security we train our students by developing their mindset.
+We believe the âTry Harderâ mindset is essential to be a successful security professional.&nbsp.
+We develop this mindset through hands-on labs and exams.
+We believe that working independently through the exercises and training materials is part of the journey necessary to gain this mindset.&nbsp.
+To achieve our training goals, we do not provide our students with hints or answers.
+Instead we expect them to ask targeted and researched questions and work independently through repeated trial and error to find solutions to the various challenges in our training and exams.&nbsp.
+With these goals and spirit in mind, our Academic Policy describes the actions and behaviors expected of our students.
+In this Academic Policy the phrase âCourse Materialsâ means Offensive Securityâs (a) course books and videos (b) course and exam lab machines and associated content (c) exam and lab report templates (d) any other non-public material Offensive Security supplies to its students.
+
+While in our labs,&nbsp.
+preparing for or taking our exams and at all times after:
+
+
+You must:
+
+Put in place appropriate physical and technical security measures to prevent unauthorized access to or disclosure of our Course Materials consistent with standards reasonably expected of an information security professional.
+Promptly cure and tell us about any unauthorized access or disclosure as soon as you become aware.
+
+
+Course Materials are for your personal use only.
+You must not sell or make available Course Materials to anyone else.
+You must only use Course Materials that are provided to you by Offensive Security.
+You must not have someone else take an exam for you and you must not take an exam for someone else.
+You must not ask for assistance from anyone during an exam.&nbsp.
+You also must not provide assistance to anyone who is taking an exam.
+You must not (a) use cell or mobile phones or other electronic devices (b) interact with any third party in each case while seated at your exam workstation.
+If you need to do so, you must request a break and step away from your workstation.
+You must not video record your screen while it is interacting with any of our Course Materials.&nbsp.
+However, you may take screenshots and copy data to the extent needed for your exam or lab report.
+Any information related to our course or exam machines is considered strictly confidential.&nbsp.
+This includes:
+
+Your exam report.
+Your lab report.
+Any walk through for any course or exam machine.
+Vulnerabilities and exploits in the context of any course or exam machine.
+Any other information that may help a student pass the exam.
+
+If such information has been shared by somebody else in breach of this Academic Policy, you must not use it to help you pass your exam.
+
+You are strictly prohibited from downloading any applications, files or source code from the exam environment to your local machine.
+You must not misrepresent your identity or provide false statements to gain accommodations during the course or exam.
+You must not participate in any other conduct that might compromise the integrity or confidentiality of our exams.
+You must not use any knowledge or skills gained from any of Offensive Securityâs courses in an illegal, unethical manner, or to harm any person or entity.
+
+
+Academic Policy Violations: 
+
+To ensure the confidentiality and integrity of our exams and training materials, we have a very strict posture regarding any breach of our Academic Policy.
+In our sole discretion, we will take the following actions against violators of our Academic Policy:
+
+We will revoke all existing Offensive Security certification(s) you have obtained.
+We will disqualify you for life from any Offensive Security courses and exams.
+We will disqualify you for life from making future Offensive Security purchases.
+
+Your certification status may be disclosed to enquiring parties.
+When taking our exams, we encourage all our students to read our Exam Guides at OSCP exam guide, OSCE exam guide, OSWE exam guide, OSEE exam Guide, OSWP exam guide, OSEP exam guide, and our Proctoring FAQs.

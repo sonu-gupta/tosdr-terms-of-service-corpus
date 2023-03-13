@@ -1,0 +1,63 @@
+
+
+ DNS
+ Firewall
+ Downloads
+ Docs
+ Blog
+Privacy PolicyRethinkDNS + Firewall are anti-surveillance tools first and foremost: It is absolutely against our ethos, then, to track users of our apps and services, or sell any information whatsoever to any third-party in any form, pseudo-anonymized, de-anonymized, anonymized, aggregated, or otherwise.App Privacy PolicyWe do not collect, sell, license, share any data (personally identifiable or otherwise) from the RethinkDNS Android app.Revision: 21 Oct 2020
+The app is free of any trackers, spyware, ads, or loggers whatsoever.
+This can be, to an extent, ascertained from our code which is open-source on GitHub.
+The app does not use or depend on or embed any third-party services in its default setting.
+The only exception is Google PlayStore (see their privacy policy) which is used as an app distribution channel.
+The app does not collect any debug or diagnostic data unless you explicitly choose to share it with us, for example, over email.
+DNS Privacy PolicyWe do not collect, sell, license, share any personally identifiable data from our DNS resolvers: https://free.bravedns.com/dns-query and https://basic.bravedns.com/<config-id>Revision: 21 Oct 2020
+The resolver does not collect personally identifiable information nor does it seek to profile a user or a group of users.
+The resolver collects non-personally identifiable information and aggregates it to only to fight abuse and spam.
+The resolver collects crash logs for debugging purposes, but they do not have any personally identifiable information in them.
+The DNS-over-HTTPS resolver runs on Cloudflare's network whose privacy policy you may find here.
+Crash logs, debug logs, and other non-personally identifiable information is stored encrypted with custom keys on Amazon S3 which no one outside RethinkDNS' engineering team has access to.
++----------------------+---------------+---------------+-----------+---------------+
+| Data | Sold / Shared | Collected | Retained | Usage |
++----------------------+---------------+---------------+-----------+---------------+
+| Domain Name | No | Rarely | 1h | Debugging |
+| Client IP | No | Rarely | 1h | Anti-abuse |
+| User Agent | No | No | -- | -- |
+| Device ID | No | No | -- | -- |
+| Anything else | No | No | -- | -- |
++----------------------+---------------+---------------+-----------+---------------+ Website Privacy PolicyWe do not collect, sell, license, share any data (including cookies) from our any of our web pages at rethinkdns.com.Revision: 20 Mar 2021
+The website does not set any cookies or attempt to track a user in way or form.
+The website does not embed any third-party analytics or services that may track users.
+The website does not log any interactions a visiting user has with the website.
+The website and app download link are hosted and served by Cloudflare, respectively, whose privacy policy you may find here.
+ExplanationIf you spot any ambiguity with privacy policies outlined on this page then please write to us and we would update it right away..Revision: 21 Oct 2020
+Personally identifiable information: Any data that can be traced back to the user including (but not limited to) a combination of IP addresses, name, device-id, advertisement-id, and location.
+Non personally identifiable information: Aggregrated (summarized) data and anonymized data scrubbed off any personally identifiable information.
+Collect: Data stored by RethinkDNS.
+Sell: Data sold to third parties.
+License: Restricted access to data collected by RethinkDNS to third parties.
+Share: Permanent access to data collected by RethinkDNS to third parties.
+Get notified as we announce more tools SubscribeNo spam.
+Only love.
+Part of Mozilla Builders MVP program hello@celzero.com
+PRODUCT
+DNS Resolver
+Firewall App
+Downloads
+Documentation
+
+
+ABOUT
+FAQs
+GitHub
+Roadmap
+Privacy
+
+
+COMMUNITY
+Blog
+Twitter
+Telegram
+
+Google Play and the Google Play logo are trademarks of Google LLC.
+BraveDNS is now RethinkDNS.

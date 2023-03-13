@@ -1,0 +1,17 @@
+
+The Mapillary API, Mapillary vector tiles, and the MapillaryJS library are available to software developers building map platforms, geospatial tools, and location-based services.
+To use Mapillaryâs developer resources, pleaseregister your application here to obtain a client_id.
+Each application should have a unique client_id.
+You may integrate street-level images in your application either as individual images retrieved using the Mapillary API or vector tiles, or within an embedded viewer using the MapillaryJS library.
+
+If you are downloading individual images and serving them from your own servers, you must attribute the image(s) by visibly displaying the Mapillary logo (which you can find here) and linking back to the Mapillary homepage or corresponding Mapillary image page.
+Our recommended attribution wording is:
+Images from Mapillary, CC BY-SA, by @username
+
+
+You may integrate data that Mapillary extracts from the street-level images using the Mapillary API or vector tiles.
+
+In your application, you must attribute the source of the data by visibly displaying the Mapillary logo (which you can find here) and linking back to the Mapillary homepage.
+
+Mapillary reserves the right to throttle usage or revoke client_ids if we suspect any abuse or misuse of the developer resources.
+Please contact us with questions or concerns.

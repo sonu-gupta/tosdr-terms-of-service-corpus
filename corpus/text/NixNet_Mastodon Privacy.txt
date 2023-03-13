@@ -1,0 +1,27 @@
+
+         Mastodon/PrivacyFrom NixNetNamespaces
+Page
+Discussion
+More
+More
+Page actions
+Read
+View source
+History
+&lt.
+MastodonUntil I have time to dive deeper into Mastodon and limit its log collection, assume IP addresses are collected and stored indefinitely (though it's unlikely).
+Whatever information you provide at registration is obviously collected and will only be used for communication directly related to the service, such as notifications.
+
+Another thing to keep in mind are the privacy controls on this instance.
+At the bottom of the compose pane is a globe.
+Clicking this will reveal a dialogue allowing you to select the audience that will see your posts.
+In addition, clicking the three dots to the right of that will give you the option to post content that is "Local-only".
+toots made with this option enabled will not federate to any other server and will remain local.
+
+By default, users are hidden from the profile directory but this can be enabled from the `User preferences` page.
+
+Note: temporary email accounts, fake names, made up usernames, etc.
+all work just as well as legitimate ones.
+If you don't want to provide any personal information, don't :) Retrieved from âhttps://docs.nixnet.services/index.php?title=Mastodon/Privacy&oldid=1715â
+
+      

@@ -1,0 +1,268 @@
+
+         Netlify logotype  Learn how to Visually Build at Scale with Builder.io and Netlify Register now!  Home Skip to content Search Log in Menu 
+Platform The Netlify Platform 
+Instantly build and deploy your sites to our global network from Git.
+Custom domains, https, deploy previews, rollbacks and much more.
+
+
+Explore the Platform 
+Enterprise Overview 
+Plans &amp.
+Pricing 
+ Key Features 
+ Edge Functions 
+ Deploy Previews 
+ Forms 
+ Identity 
+ Security 
+ Analytics 
+ Split Testing 
+ Build Plugins 
+ Integrations 
+ Ecosystem 
+ Tech Partners 
+ Agency Partners 
+
+
+Solutions Why Netlify? 
+Customers
+Case Studies
+ROI Calculator
+Security at Netlify
+Whitepaper
+ Use Cases 
+E-commerce
+Web Apps
+Large Sites
+
+
+Donât see your solution? We can help. Chat with a Netlify expert
+
+ Integrations 
+Start Building Where to start 
+ Docs 
+ Templates 
+ Tutorials &amp.
+Demos 
+ Work with a Partner Agency 
+ Project kickstarts 
+ Next.js 
+ Jamstack 
+ React 
+ Vue 
+ Svelte 
+ Gatsby 
+ WordPress 
+ Nuxt 
+ Sitecore 
+ + More 
+
+
+ Docs 
+ Pricing 
+
+
+ Search
+ Contact 
+Log in
+ Sign up
+ Self-Serve Subscription AgreementLast Updated September 8th, 2020
+This Self-Serve Subscription Agreement (âAgreementâ), together with the Terms of Use Agreement found at https://www.netlify.com/legal/terms-of-use/, govern use of Netlifyâs software, solutions and services (âServicesâ) to build, deploy and manage modern web projects.
+By clicking on the âCreate Accountâ button (or any similar button) that is presented to you (âCustomerâ) at the time of sign-up or by using or accessing the Services, you indicate that you agree to the terms and conditions of this Agreement and the Terms of Use Agreement.
+You will be referred to in this Agreement as either âyouâ or âCustomer.â If you are entering into this Agreement on behalf of a company, organization or another legal entity, you are agreeing to this Agreement for that entity and representing that you have the authority to bind such entity to this Agreement, in which case the terms âCustomerâ or âyouâ will refer to such entity.
+If you do not have such authority, or if you do not agree with this Agreement, you must not accept this Agreement and must not use the Service.
+Some software available through the Services may contain open source or third party software, which may have additional terms and restrictions regarding such softwareâs use.
+In appropriate cases, Netlify will enter into a written Enterprise Subscription Agreement with the Customer which will govern instead of this Agreement.1.
+Email AccountA valid Netlify account may only be created and maintained by a Customer who provides valid information about the Customer in the signup process.
+To maintain a valid account, the Customer must regularly update such information to assure its accuracy.
+Netlify reserves the right to terminate any account that does not include a valid email address on file.
+Please be aware, however, that if the domain of the email address associated with your account is owned or controlled by an entity and Netlify has now or in the future a direct subscription agreement with such entity, your account may be rolled into and consolidated with that organizationâs account after notification to you.
+Following notice to you, if you choose not to change the email address associated with your account, your account will be controlled by the entity.2.
+Access to ServicesCustomer is hereby granted a limited, non-exclusive, non-transferable and non-sublicensable right to access and use the Services, subject to the terms and conditions of this Agreement.
+If Customer is an entity, Customerâs Affiliates may also access and use the Services provided that such Affiliates complies with the terms of this Agreement, and Customer remains responsible for such Affiliatesâ acts and omissions in connection with this Agreement as if Customer had performed such acts and omissions itself.
+âAffiliateâ means an entity which, directly or indirectly, controls, is controlled by, or is under common control with a party, where âcontrolâ means the power to direct the management or affairs of an entity, for example through the beneficial ownership of more than 50% or more of the voting equity securities or other equivalent voting interests of the entity.
+Netlify shall own and retain all right, title and interest in and to the Services and related software, all improvements, enhancements or modifications thereto, and all intellectual property rights associated with the foregoing.
+Except for the limited access rights expressly granted in this Section 2, Customer obtains no rights to Netlify Services or intellectual property rights by implication, estoppel or otherwise.3.
+Usage RestrictionsPlease refer to the Terms of Use Agreement at https://www.netlify.com/legal/terms-of-use/ for use restrictions that apply to all activity through the Netlify website, including use of the Services.
+Customer shall be responsible for maintaining the confidentiality of all of its usernames and passwords.
+Customer is responsible for all activities that occur under Customerâs account.
+The Services may only be used or accessed by persons at least 13 years of age and through an electronic device under the direct control of Customer at all times.
+Netlify Managed DNS or Netlify functions are strictly for use with sites deployed to Netlify.
+It is expressly allowed to have DNS records within Customerâs zone pointing to non-Netlify resources, but we expect that all zones Customer hosts with Netlify also have at least one hostname hosted by Netlify, and all functions hosted by Netlify are called primarily by a website hosted on our Services.
+In some cases, this paragraph may not apply to a Customer who has entered into a separate Enterprise Subscription Agreement with Netlify.4.
+Subscription Term and TerminationPlease refer to the subscription term stated in your account admin panel.
+Your subscription term will automatically renew for successive periods of the same duration, unless terminated as permitted below.
+For Free Usage Tier Customers, the Services may be terminated by either Netlify or Customer, without cause, immediately upon notice.
+For Paid Plan Customers, Customer may terminate the Services at any time via Customerâs admin panel or via notice sent to Netlifyâs support addresses.
+As discussed below, fees paid for the subscription term are not refundable in case of early termination.
+Please note that any termination via the Customerâs admin panel must be done at least one (1) day prior to the end of the then-current subscription term to avoid charges for the renewal term, and any termination not completed via the Customerâs admin panel must be done by written notice at least ten (10) days prior to the end of the then-current subscription term to avoid charges for the renewal term.
+For Paid Plan Customers, Netlify may terminate the subscription term immediately upon notice if the Customer fails to comply with any of the terms of this Agreement or the Terms of Use Agreement.
+Netlify will not terminate a Paid Plan Customer for convenience during the subscription term.5.
+Fees.
+No RefundsCustomer shall pay the fees applicable to the Paid Plan that Customer selected at the time of initial sign-up.
+Customer may opt to upgrade or downgrade to any other Paid Plan that Netlify is currently offering at any time during Customerâs subscription term.
+provided that a downgrade will be not be effective until the renewal of subscription term.
+If a Customerâs use exceeds the Services capacity applicable to the Customerâs selected Paid Plan, Customer will incur and agrees to pay additional fees that reflect actual usage, as such fees are described in the terms of the selected Paid Plan.
+For Free Usage Tier Customers, if use exceeds the Services capacity applicable to the Free Usage Tier, Customer will incur and agrees to pay additional fees that reflect actual usage, as such fees are described in the terms of the Free Usage Tier description.
+All fees are non-cancelable and non-refundable, including in case of Customerâs termination of the subscription term.
+Customer pays in advance total fees for the subscription term, and in advance at renewal for any renewal term.
+No refunds will be provided for the unused portion of the subscription term or renewal term in case of termination.
+Following any termination, however, Customer will continue to have access to the Paid Plan Services through the end of Customerâs then-current subscription term.
+Netlify reserves the right to change the fees or to institute new charges or to otherwise change the terms and conditions applicable to the Paid Plans.
+provided, however, that any such changes will apply only (a) to new Services procured after the changes.
+and (b) to continuing Services for any renewal term(s) starting after notice of such changes was provided or such earlier time as Customer affirmatively accepts the modified terms.
+Customer is responsible for all sales, use, value added and similar taxes of any nature associated with Services other than U.S.
+taxes based on Netlifyâs income.6.
+Free Usage TierNetlifyâs Free Usage Tier is made available by Netlify to allow users to experience Netlifyâs Services, but the Free Usage Tier is offered at Netlifyâs sole discretion.
+Netlify reserves the right to change the terms and conditions applicable to the Free Usage Tier, or to discontinue it.
+While we always make an effort to communicate clearly and well in advance if we decide a particular website project is not a good fit for our Free Usage Tier, we reserve the right to disable or remove any website project on Netlifyâs Free Usage Tier without notice at our sole discretion.
+Free Usage Tier website projects will reside in a common build environment shared by all Free Usage Tier users with no service level commitments.
+Netlify may shut down Free Usage Tier website projects without notice for any reason or no reason.
+In case of any delays or performance problems including those caused by a malicious attack on a website project, for the Free Usage Tier Netlify will resolve the issue by shutting down the affected website projects.7.
+Customer DataCustomer shall own all right, title and interest in and to all information provided by Customer in connection with Services (âCustomer Dataâ).
+Netlify may use, distribute and disclose Customer Data in order to provide the Services to Customer and to maintain the associated Customer website projects.
+Netlify shall have the right to use and analyze Customer Data to administer, improve, customize, enhance and develop its products and services, including the Services.
+Upon termination, Netlify will make all Customer Data available to Customer for electronic retrieval for a period of thirty (30) days, but thereafter Netlify may, but is not obligated to, delete stored Customer Data.
+Customer acknowledges that Netlify may share Customer Data if the disclosure is necessary to comply with a valid court order or subpoena.
+Netlify shall have the right to collect and analyze data and other information relating to the provision, use and performance of various aspects of the Services and related systems.
+Netlify will use such data to administer, improve and develop its products and services, including the Services.
+and Netlify may share aggregated information and non-identifying information with third parties.
+All personal information provided by Customer will be subject to the Netlify Privacy Policy found at https://www.netlify.com/privacy/.8.
+Warranty DisclaimerTHE SERVICES ARE MADE AVAILABLE TO CUSTOMER ON AN âAS ISâ AND âAS AVAILABLEâ BASIS, AND NETLIFY EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+NETLIFY DOES NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR FREE.
+NOR DOES NETLIFY MAKE ANY WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM USE OF THE SERVICES.
+NETLIFY HAS NO OBLIGATION TO MONITOR, CONTROL, OR VET USER CONTENT OR DATA, AND NETLIFY MAKES NO CLAIMS OR WARRANTIES ABOUT THE QUALITY, ACCURACY, OR RELIABILITY OF THE SERVICES, ITS SAFETY OR SECURITY, OR THE CONTENT, OR THE SERVICEâS INTEROPERABILITY, UNAVAILABILITY OR SECURITY VULNERABILITIES.
+SOME JURISDICTIONS MAY PROHIBIT A DISCLAIMER OF WARRANTIES AND CUSTOMER MAY HAVE OTHER RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION.9.
+IndemnityCustomer shall indemnify, defend and hold harmless Netlify and its officers, directors and employees, from and against all third party claims, losses, damages, costs and liabilities, including reasonable attorneysâ fees, arising out of or relating to Customerâs use of the Services or use of the Website, Customerâs Content, Customerâs Data or any products or services offered by Customer to a third party, or obtained by Customer from a third party, via the Website.10.
+Limited LiabilityNETLIFYâS AGGREGATE LIABILITY FOR ALL CLAIMS, LOSSES, LIABILITIES OR DAMAGES IN CONNECTION WITH THIS AGREEMENT, CUSTOMERâS ACCESS TO OR USE OF, OR CUSTOMERâS INABILITY TO ACCESS OR USE, THE SERVICES OR ANY MATERIALS OR CONTENT, WHETHER AS A RESULT OF BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, REGARDLESS OF THE THEORY OF LIABILITY, IS LIMITED TO NO MORE THAN THE LESSER OF (A) THE TOTAL FEES PAID BY CUSTOMER IN THE THEN-CURRENT MONTH OR (B) ONE HUNDRED DOLLARS (US $100).
+IN ADDITION, NETLIFY WILL NOT UNDER ANY CIRCUMSTANCES BE LIABLE FOR LOST PROFITS, CONSEQUENTIAL, INDIRECT, PUNITIVE, EXEMPLARY OR SPECIAL DAMAGES.11.
+Trade Sanctions and Export ControlCustomer may not use the Services if Customer or any party that owns or controls Customer is subject to sanctions or otherwise designated on any list of prohibited or restricted parties, including but not limited to the lists maintained by the U.S.
+Government (e.g., the Specially Designated Nationals List and Foreign Sanctions Evaders List of the U.S.
+Department of Treasury, and the Entity List of the U.S.
+Department of Commerce), the European Union or its Member States, or other applicable government authority.
+Customer may not use the Services to export or re-export any information or technology to any country, individual, or entity to which such export or re-export is restricted or prohibited.12.
+Governing LawThis Agreement shall be governed and construed in accordance with the laws of the State of California without giving effect to conflict of law principles.
+Customer and Netlify agree to submit to the personal and exclusive jurisdiction of the state and federal courts located within San Francisco County, California for the purpose of litigating all disputes.13.
+PoliciesCustomer shall use the Services only in compliance with the Terms of Use Agreement and Netlifyâs published policies then in effect including Netlifyâs Privacy Policy and all applicable laws and regulations.
+Although Netlify has no obligation to monitor Customerâs use of the Services, Netlify may do so and may prohibit any use of the Services it reasonably believes may be in violation of the foregoing.14.
+GeneralThis Self-Service Subscription Agreement and the Terms of Use Agreement constitute the entire and exclusive agreement between Customer and Netlify regarding use of and access to the Services.
+Customer may not assign this Agreement, in whole or in part, by operation of law or otherwise, without Netlifyâs prior written consent.
+Netlify may assign this Agreement at any time without notice.
+The failure to require performance of any provision of this Agreement will not affect Netlifyâs right to require performance at any time thereafter, nor will a waiver of any breach or default of this Agreement or any provision of this Agreement constitute a waiver of any subsequent breach or default or a waiver of the provision itself.
+In the event that any part of this Self-Serve Subscription Agreement is held to be invalid or unenforceable, the unenforceable part will be given effect to the greatest extent possible and the remaining parts will remain in full force and effect.
+Neither Netlify nor Customer will be in violation of the Agreement if a failure to perform any obligation (other than failure to pay) is due to an event beyond such partyâs control, such as significant failure of a part of the power grid, significant failure of the Internet, natural disaster, war, riot, insurrection, epidemic, strikes or other organized labor action, terrorism, or other similar events.
+Upon termination or expiration of this Agreement, any provision that by its nature or express terms should survive will survive such termination or expiration.
+Netlify may use Customerâs name and logo in a sample list of customers presented on Netlifyâs website, unless Customer provides written notice instructing Netlify otherwise.15.
+Consent to Electronic CommunicationsBy using the Services, Customer consents to receiving certain electronic communications from Netlify including via the Serviceâs admin panel and agrees that any notices, agreements, disclosures, or other communications that Netlify sends to Customer electronically will satisfy any legal communication requirements, including that such communications be in writing.16.
+Use of MarksCustomer grants Netlify the right to use Customerâs company name and logo as a reference for marketing or promotional purposes on Netlifyâs website and in other public materials, subject to Customerâs standard trademark usage guidelines.17.
+Contract RevisionsNetlify may make modifications to this Agreement by providing written or electronic notice to Customer or via the Services and such modifications to this Agreement will be considered agreed to by the Customer and shall apply (a) to new Services procured after the modifications.
+and (b) to continuing Services for any renewal term(s) starting after notice of such modifications was provided, or such earlier time as Customer affirmatively accepts the modified terms.18.
+Contact InformationThe Services are offered by Netlify, Inc., located at 44 Montgomery Street, Suite 300, San Francisco, CA 94104.
+You may contact us by sending correspondence to the foregoing address or by emailing us at support@netlify.com.
+If you are a California resident, you may have this Agreement mailed to you electronically by sending a letter to the foregoing address with your electronic mail address and a request for this Agreement. Home Stay up to date with all Jamstack &amp.
+Netlify news Email address Subscribe Why Netlify 
+Customers
+Enterprise
+Resources
+ Agency Partner  Program 
+ Technology Partner  Program 
+ Products 
+Platform
+Netlify Build
+Netlify Edge
+Netlify CLI
+Pricing
+Add-ons 
+Analytics
+Functions
+Identity
+Forms
+Large Media
+
+
+ Learn 
+Docs
+Jamstack book
+Community
+Security
+Site Speed Test
+Remotely Interesting
+Technologies 
+Jamstack
+React
+Next.js
+Vue.js
+Svelte
+Gatsby
+Nuxt
+Sitecore
+Drupal
+WordPress
+
+
+ Contact us 
+Sales
+Support
+Status
+Forums
+Hire an expert
+ Company 
+Blog
+About
+Careers
+Press
+Jamstack Fund
+Netlify Store
+Sustainability
+ Trust 
+Trust Center
+Privacy
+Security
+GDPR/CCPA
+Abuse
+
+Â© 2022 Netlify Twitter GitHub Community YouTube Jamstack 
+What is Jamstack?
+Who is using Jamstack?
+Jamstack for ecommerce
+Jamstack book
+Jamstack radio
+Jamstack conference
+Jamstack community
+ Deployment 
+How to deploy Vue.js applications to the web
+How to prerender content for the web
+Deploying a single page application
+What is a CDN?
+Structured Redirects and Headers
+What is an edge service provider?
+A/B testing on Static Sites
+Split testing for private features
+Deploy websites from Git
+Continuous Deployment
+Deploy tools: deployed branches
+Deploy tools: locked deploys
+Deploy tools: drag n drop/manual deploys
+Custom domains
+Wordpress Migration
+ Serverless 
+What is a serverless website?
+What are serverless functions?
+Serverless Functions and Lambda
+Netlify Functions
+What are microservices?
+Identity APIs
+Ecommerce APIs
+Express.js with Serverless Functions
+Guide: How to Create an API with AWS
+ Development 
+Versioning and Rollbacks
+Continuous integration and deployment
+Build tools
+ Performance 
+Post processing
+Minification
+Caching
+Images and performance
+ Search Back to top Search for: 
+      

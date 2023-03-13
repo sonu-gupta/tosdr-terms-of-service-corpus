@@ -1,0 +1,54 @@
+
+        We use cookies on Kaggle to deliver our services, analyze web traffic, and improve your experience on the site.
+By using Kaggle, you agree to our use of cookies.Got itLearn more Cookies
+How Kaggle Uses Cookies
+A cookie is a small piece of text sent to your browser by a website you visit.
+It helps the website to remember information about your visit, like your preferred language and other settings.
+That can make your next visit easier and the site more useful to you.
+Cookies play an important role.
+Without them, using the web would be a much more frustrating experience.
+We use cookies for many purposes.
+For example, we use cookies to ensure proper navigation between pages on kaggle.com.
+Our Privacy Policy explains how we protect your privacy in our use of cookies and other information.
+Types of Cookies Used by Kaggle
+We use different types of cookies to run kaggle.com.
+Some or all of the cookies identified below may be stored in your browser.
+As described below, you can view and manage cookies in your browser (though browsers for mobile devices may not offer this visibility).
+Category of Use
+Example
+Security
+We use security cookies to authenticate users, prevent fraudulent use of login credentials, and protect user data from unauthorized parties.
+For example, we use cookies called â.ASPXAUTHâ, which contains encrypted records of a user's Kaggle account ID, and âCSRF-TOKENâ, which contains an identifier.
+We use these cookies to authenticate users and prevent forgery.
+Processes
+Process cookies help make the website work and deliver services that the website visitor expects, like navigating around web pages or accessing secure areas of the website.
+Without these cookies, the website cannot function properly.
+For example, we use a cookie called âGCLBâ which makes it possible for us to improve your experience when navigating the Kaggle website.
+Blocking this cookie would prevent kaggle.com from operating correctly.
+Session State
+Websites often collect information about how users interact with a website.
+This may include the pages users visit most often and whether users get error messages from certain pages.
+We use these so-called âsession state cookiesâ to help us improve our services, in order to improve our usersâ browsing experience.
+Blocking or deleting these cookies will not render the website unusable.
+Most Kaggle users will have a Session State cookie called âTempDataâ in their browsers.
+A browser sends this cookie with requests to kaggle.com.
+The TempData cookie holds information about messages to display to the user, whether javascript is enabled in the browser and if the user has the most up to date cookies from our site.
+Analytics
+Kaggle uses Google Analytics, an analytics tool that helps website and app owners to understand how their visitors engage with their properties.
+The main cookie used by Google Analytics is the â__gaâ cookie.
+Learn more about Google Analytics cookies and privacy information here.
+We use various domains to set cookies used by Kaggle, including the following domains:
+
+google-analytics.com
+
+Managing Cookies in Your Browser
+Some people prefer not to allow cookies, which is why most browsers give you the ability to manage cookies to suit you.
+Some browsers limit or delete cookies, so you may want to review your cookie settings and ads settings.
+In some browsers you can set up rules to manage cookies on a site-by-site basis, giving you more fine-grained control over your privacy.
+What this means is that you can disallow cookies from all sites except those that you trust.
+In the Google Chrome browser, the Tools menu contains an option to Clear Browsing Data.
+You can use this option to delete cookies and other site and plug-in data, including data stored on your device by the Adobe Flash Player (commonly known as Flash cookies).
+See Googleâs instructions for managing cookies in Chrome.
+Another feature of Google Chrome is its incognito mode.
+You can browse in incognito mode when you donât want your website visits or downloads to be recorded in your browsing and download histories.
+Any cookies created while in incognito mode are deleted after you close all incognito windows.

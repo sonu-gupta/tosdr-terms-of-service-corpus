@@ -1,0 +1,386 @@
+
+        Synapse X â Licensing and Copyright InformationAutomatisch alle 5 Minuten aktualisiert
+
+
+
+Â© 2016 - 2021 Synapse Softworks LLC â Last Revision: June 17, 2021
+
+
+Licensing & CopyrightPREFACEThe sole objective of this document is to provide the terms and conditions of the usage of our Product and its Associated Services (hereafter named as solely the Product), detail policies concerning the obtention and the regulation of access to the Product, and specify our privacy policy.
+This document was specifically written to create a fair balance of responsibility, freedom of use and peace of mind for both Synapse Softworks LLC, its staff, and the Client.
+
+
+If you have purchased the Product before March 11, 2020, it is in your best interest to reread this document in its entirety.
+Major changes were implemented and many clauses were either added or removed.
+To guarantee your compliance with our updated terms and conditions, we highly suggest you go over this document again.DEFINITIONS
+Product â The commercial software and scripting utility titled Synapse X.
+Computer, Device â A physical machine capable of running the Product and its associated utilities.
+Virtual machines and cloud computers are excluded.
+The Staff â Individuals at the helm of the Synapse X communities, and responsible for managing Whitelists and Blacklists as the Licensing managers.
+While sanctioned by Synapse Softworks LLC for their management of their respective communities, they are officially distinct from Synapse Softworks LLC and constitute their own independent self-organized entity collectively defined as the staff team.
+License, Contract, Whitelist â The formal authorization to use Synapse X and participate in its related communities bought when purchasing a key to the Product.
+
+Blacklist â The dismissal of a Whitelist, or the action of dismissing a Whitelist.
+Licensing manager â An individual capable of managing Whitelists and Blacklists, frequently as part of Synapse Softworks LLC or the staff team.
+
+
+
+
+
+
+
+
+
+
+1.
+LICENSING AND PRODUCT INFORMATION
+The Product in and of itself is an extensible Lua 5.1 programming engine crafted to be interoperable with third party software that similarly runs Lua or Lua-inspired scripting languages.
+More specifically, the Product is software that aims to make use of third party application programming interfaces (APIs) to achieve full interoperability between the Productâs Lua scripting language and third party applicationsâ Lua scripting languages (or subsets thereof).
+In accordance with the philosophy of the GNU Project, we believe that software should be free, free as in Freedom and not price, allowing its users to make use of software as they see fit, and this Product aims to increase the relative liberty and accessibility of Lua scripting engines commonly found in software as a way to practice the philosophy of the GNU Project.
+Interoperability and compatibility is however not guaranteed, as our Product is not necessarily compatible with all third party software.
+This interoperability, and therefore the nature of this software, is legally protected in the United States by Section 103(f) of the Digital Millennium Copyright Act (DMCA) (17 USC Â§ 1201 (f)).
+This license serves as an unlimited contract between you, the Client, and Synapse Softworks LLC.
+By purchasing a copy of the Product, you implicitly agree to all the conditions, clauses and other information offered by this document,  vow to respect it, and uphold the personal responsibility of regularly consulting this document for any changes that may impact your usage of the Product and your behavior towards it.
+You also affirm that you are aged 13 years or older, as this product is not recommended to individuals under the age of 13.
+
+Regulation of licensing, such as the granting or dismissing of licenses, is the responsibility of both Synapse Softworks LLC and its community managers (the staff).
+Compliance with either groupâs orders is highly recommended if you happen to breach the terms of conditions of this contract, as it may save your license.
+These two groups will hereafter be named the Licensing managers.
+Breaching the terms and conditions of this license will inevitably result in the immediate termination of the contract and therefore the ceasing of your personal usage of the Product, unless the Licensing managers grants you leniency.
+Licensing managers have the right to revoke your contract at will and without warning.
+Licensing managers are expected to issue dismissals with justification found in the terms and conditions, unless in extraordinary circumstances.
+However, in case you judge your contract dismissal to be unfair, you may appeal your dismissal to Licensing managers and seek a possible reversal.
+
+
+Unless specifically forbidden by Licensing managers, it is in your right to repurchase a license if it has been previously terminated in most cases.
+However, it is a Licensing managerâs right to decide to revoke a newly purchased license for offenses committed under a previous license if they have been severe enough or are repeated under the new license.
+
+
+Licenses are not individually transferable, and any attempt to force an illegal transfer whether of its commerciality is forbidden.
+
+
+Licenses may be shared between individuals of the same household and/or between individual devices connected on the same network.
+For example, family members living in the same domicile may share a copy of the Product insofar they are not sharing it to anyone not connected to their home network.
+The household-share rule does not apply to non-residential networks.
+For example, you cannot share a single copy of the product to individuals connected to a business/commercial network.
+If the Licensing managers doubt the legitimacy of your sharing, they have the right to investigate your sharing of the Product and revoke your license if it is deemed unauthorized under the Terms of Service.
+
+
+Licenses are not resellable, and any attempt to illegitimately resell a license will be considered an illegal transfer as defined by section 1.6.
+
+
+The only exception are Licenses transferred through authorized giveaways by Synapse Softworks LLC and its affiliates.
+they are allowed to be sold.
+Proof that the key originates from an authorized giveaway must be provided if administrators question the sale.
+
+
+Licenses are to be considered irrevocably paid unless Synapse Softworks LLC decides that your condition warrants a partial refund.
+There are no conditions for guaranteed refunds.
+All claims and disputes arising under or relating to this License are to be settled by binding arbitration in a location mutually agreeable to the parties.
+The arbitration shall be conducted on a confidential basis pursuant to the arbitration rules and guidelines of the Chartered Institute of Arbitrators.
+Any decision or award as a result of any such arbitration proceeding shall be in writing and shall provide an explanation for all conclusions of law and fact and shall include the assessment of costs, expenses, and reasonable attorneys' fees.
+Any such arbitration shall be conducted by an arbitrator experienced in computer science and software distribution and shall include a written record of the arbitration hearing.
+The parties reserve the right to object to any individual who shall be employed by or affiliated with a competing organization or entity.
+An award of arbitration may be confirmed in a court of competent jurisdiction.
+Please bear in mind that as expressed by Amendment VII of the United States Constitution, if you were to bypass our arbitration clause as an American citizen, you do not have legal grounds to file a lawsuit for a civil trial as the total value of our products never exceed the amount of $20 American Dollars (USD).
+THE  PRODUCT  PROVIDER  AND  OUR  AFFILIATES  MAKE  NO  WARRANTIES,  EXPRESS  OR  IMPLIED,  GUARANTEES OR CONDITIONS WITH RESPECT TO YOUR USE OF THE PRODUCT.
+YOU UNDERSTAND THAT USE OF THE Product IS AT YOUR OWN RISK AND THAT WE PROVIDE THE PRODUCT ON AN "AS IS" BASIS "WITH ALL FAULTS" AND "AS AVAILABLE." SYNAPSE SOFTWORKS LLC  DOESN'T GUARANTEE THE ACCURACY OR  TIMELINESS OF THE PRODUCT  AND  ITS  ASSOCIATED  SERVICES.
+ YOU  MAY  HAVE  CERTAIN  RIGHTS  UNDER  YOUR  LOCAL  LAW.
+NOTHING  IN  THESE  TERMS  IS  INTENDED  TO  AFFECT  THOSE  RIGHTS,  IF  THEY  ARE  APPLICABLE.
+ YOU ACKNOWLEDGE THAT COMPUTER AND TELECOMMUNICATIONS SYSTEMS ARE NOT FAULT-FREE AND OCCASIONAL PERIODS OF DOWNTIME OCCUR.
+WE DO NOT GUARANTEE THE PRODUCT ARE ITS ASSOCIATED SERVICES  WILL  BE  UNINTERRUPTED,  TIMELY,  SECURE,  OR  ERROR-FREE  OR  THAT  CONTENT  LOSS  WON'T OCCUR, NOR DO WE GUARANTEE ANY CONNECTION TO OR TRANSMISSION FROM COMPUTER NETWORKS.
+TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAW, WE EXCLUDE ANY IMPLIED WARRANTIES, INCLUDING FOR MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, WORKMANLIKE EFFORT, AND NON-INFRINGEMENT.
+
+
+2.
+OWNERSHIP TERMS AND CONDITIONS
+As the Client, it is explicitly forbidden to:
+
+
+Resell your License or any of the Productâs files and resources to third parties considered unauthorized by Licensing managers.
+Your License, in this context, includes the intangible serial key used to grant Product access to a Product account, and the Product account itself.
+Attempt the reverse engineering of the Productâs files and resources under any circumstances, and for any purposes, to the extent of local law.
+Encourage antagonist entities to analyze the Productâs files and resources, its functionality, its associated communities, or scripts written by individuals from the Productâs associated communities.
+Such encouragement can include the sharing of the Productâs files and resources.
+Use the Product to engineer or endorse detection mechanisms that can directly or indirectly detect the Product, its functionality or its exclusive programmable scripts on a Clientâs machine.
+Phish or otherwise harm the users of the Product using tangible things, such as (but not limited to) distributing malicious programmable scripts with the intent to harm.
+State another Clientâs ownership of the Product publicly in third party communication channels with the intent to harm.
+Use the Product in conjunction with another product or brand for commercial purposes, or use the Productâs functionality as a service for profitable purposes.
+The only exceptions are the sale of scripts, themes, and custom user-interfaces exclusively programmed for the Product.
+they are allowed to be sold.
+Use the Product for purposes other than it is prescribed for (see section 3).
+Share your license in such a way that violates Article 1.6.
+Your license, in this context, includes the intangible serial key used to grant Product access to a Product account, and the Product account itself.
+Commit fraud or any criminal activity targeting Synapse Softworks LLC, its staff or the Licensing managers.
+Chargeback your License, attempt to chargeback your License, threaten to chargeback your License, or encourage other Clients to chargeback their license.
+Your license, in this context, includes the intangible serial key used to grant Product access to a Product account, and the Product account itself.
+3.
+USAGE OF THE PRODUCT
+The usage of the Product is strictly for legal, reasonable use.
+We acknowledge that the Product can be used for malicious or otherwise dishonest purposes no matter their legality, and we strictly condemn such use.
+When used in combination with third party software, it is strictly forbidden to use the Product in a manner that intently breaches the Terms and Conditions, End User License Agreements or otherwise any licensing of third party software.
+The Client takes full responsibility for any consequences stemming from the unauthorized use of the Product, and relieves Synapse Softworks LLC of any responsibility or consequences if the Clientâs usage of the Product results in legal, social or technological trouble.
+The Client is responsible for their log-in credentials to the Product, as well as maintaining their confidentiality.
+The Client is fully responsible for all activities and actions resulting from the use of their log-in credentials or other activity on their account ("Account").
+The Client agrees to notify the Licensing managers immediately if they believe the confidentiality of their log-in credentials has been compromised or if they suspect unauthorized use of their Account.
+The Client agrees that Synapse Softworks LLC will not be liable for any loss or damage arising from unauthorized use of their credentials.
+4.
+PRIVACY POLICYIt is Synapse Softworks LLC's policy to respect your privacy regarding any information we may collect while operating our website.
+This Privacy Policy applies to x.synapse.to and the Product (hereinafter, "us", "we", or "x.synapse.to").
+We respect your privacy and are committed to protecting personally identifiable information you may provide us through the Website and the Product.
+We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected on our Website and Product, how we use this information, and under what circumstances we may disclose the information to third parties.
+This Privacy Policy applies only to information we collect through the Website and Product and does not apply to our collection of information from other sources.
+This Privacy Policy, together with the Terms and conditions posted on our Website and Product, set forth the general rules and policies governing your use of our Website and Product.
+Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.What we storeThe only data we store on our servers is your Email address, a password hash, your IP address, your Discord account ID, hardware specifications (such as your processor model, your GPU model, your operating version system, et cetera), a signature containing computer information and the name of your computer device for diagnostics, troubleshooting and authentication.Website VisitorsLike most website operators, Synapse Softworks LLC collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request.
+Synapse Softworks LLC's purpose in collecting non-personally identifying information is to better understand how Synapse Softworks LLC's visitors use its website.
+From time to time, Synapse Softworks LLC may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Synapse Softworks LLC also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on x.synapse.to blog posts.
+Synapse Softworks LLC only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.SecurityThe security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure.
+While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.Protection of Certain Personally-Identifying InformationSynapse Softworks LLC discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Synapse Softworks LLC's behalf or to provide services available at Synapse Softworks LLC's website, and (ii) that have agreed not to disclose it to others.
+Some of those employees, contractors and affiliated organizations may be located outside of your home country.
+by using Synapse Softworks LLC's website, you consent to the transfer of such information to them.
+Synapse Softworks LLC will not rent or sell potentially personally-identifying and personally-identifying information to anyone.
+Other than to its employees, contractors and affiliated organizations, as described above, Synapse Softworks LLC discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Synapse Softworks LLC believes in good faith that disclosure is reasonably necessary to protect the property or rights of Synapse Softworks LLC, third parties or the public at large.
+
+
+If you are a registered user of x.synapse.to and have supplied your email address, Synapse Softworks LLC may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Synapse Softworks LLC and our products.
+We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum.
+If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users.
+Synapse Softworks LLC takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.Aggregated StatisticsSynapse Softworks LLC may collect statistics about the behavior of visitors to its website.
+Synapse Softworks LLC may display this information publicly or provide it to others.
+However, Synapse Softworks LLC does not disclose your personally-identifying information.CookiesTo enrich and perfect your online experience, Synapse Softworks LLC uses "Cookies", similar technologies and services provided by others to display personalized content, appropriate advertising and store your preferences on your computer.
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns.
+Synapse Softworks LLC uses cookies to help Synapse Softworks LLC identify and track visitors, their usage of https://x.synapse.to, and their website access preferences.
+Synapse Softworks LLC visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Synapse Softworks LLC's websites, with the drawback that certain features of Synapse Softworks LLC's websites may not function properly without the aid of cookies.
+By continuing to navigate our website without changing your cookie settings, you hereby acknowledge and agree to Synapse Softworks LLC's use of cookies.E-CommerceThose who engage in transactions with Synapse Softworks LLC â by purchasing Synapse Softworks LLC's services or products, are asked to provide additional information, including as necessary the personal and financial information required to process those transactions.
+In each case, Synapse Softworks LLC collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Synapse Softworks LLC.
+Synapse Softworks LLC does not disclose personally-identifying information other than as described below.
+And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.Privacy Policy ChangesAlthough most changes are likely to be minor, Synapse Softworks LLC may change its Privacy Policy from time to time, and in Synapse Softworks LLC's sole discretion.
+Synapse Softworks LLC encourages visitors to frequently check this page for any changes to its Privacy Policy.
+Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.5.
+MISCELLANEOUS
+This section, and all previous sections whose terms apply after these Terms end will survive any termination or  cancellation  of  these  Terms.
+ To  the  extent  permitted  by  applicable  law,  we  may  assign  these  Terms, subcontract our obligations under these Terms, or sublicense our rights under these Terms, in whole or in part, at any time without notice to you.
+You may not assign these Terms or transfer any rights to use the Product.
+This is the entire agreement between you and Synapse Softworks LLC for your use of the Product.
+It supersedes any prior agreements between you and Synapse Softworks LLC regarding your use of the Product.
+In entering these Terms, you have not relied on any statement, representation, warranty, understanding, undertaking, promise or assurance other than as expressly set out in these Terms.
+All parts of these Terms apply to the maximum extent permitted by relevant law.
+If a court or arbitrator holds that we can't enforce a part of these Terms as  written, we  may  replace  those  terms  with  similar  terms to  the  extent  enforceable  under  the  relevant law, but the rest of these Terms won't change.
+These Terms are solely for your and our benefit.
+These Terms are not for the benefit of any other person, except for Synapse Softworks LLCâs successors and assigns.
+Section headings are for reference only and have no legal effect.
+Claims must be filed within a month.
+Any claim related to these Terms or the Services must be filed in arbitration within one month of the date you could first file the claim, unless your local  law requires a  longer time to file claims.
+If not filed within that time, then it's permanently barred.
+Except as expressly provided under these Terms, Synapse Softworks LLC does not grant you a license or any other rights of any type under any patents, know-how, copyrights, trade secrets, trademarks or other intellectual  property  owned  or  controlled  by  the  Product  Provider  or  any  related  entity,  including  but not limited to any name, trade dress, logo or equivalents.
+If you give to Synapse Softworks LLC any idea, proposal, suggestion  or  feedback,  including  without  limitation  ideas  for  new  products,  technologies, promotions, product names, product feedback and product improvements ("Feedback"), you give to Synapse Softworks LLC, without charge, royalties or other obligation to you, the right to make, have made, create derivative works, use, share and commercialize your Feedback in any way and for any purpose.
+You will not give Feedback that is subject to a license that requires Synapse Softworks LLC to license its software, technologies or documentation to any third party because Synapse Softworks LLC includes your Feedback in them.
+Any appeal attempting to reverse punishment(s) that have resulted in license revocation must be filed within one month of the date of such punishment being issued at https://synapsesupport.io.
+Any attempts to file an appeal seeking to reverse the punishment after one month has passed since the punishment(s) issue date will be permanently voided and denied (regardless of its validity), unless otherwise stated by Licensing managers.
+
+
+Any appeal attempting to reverse punishment(s) received for infringing the rules and guidelines detailed under Article 6 and Article 7 (but has NOT resulted in license revocation) must be filed within six months of the date of such punishment being issued at https://synapsesupport.io.
+Any attempts to file an appeal seeking to reverse the punishment after six months has passed since the punishment(s) issue date will be permanently voided and denied (regardless of its validity), unless otherwise stated by Licensing managers.
+6.
+COMMUNICATIONS â META
+All the following rules and guidelines in Article 6 and Article 7 (âCommunicationsâ) apply to our official communication channels, such as our Discord server, e-mail system and any other platforms used for community discussions.
+Infringing the rules and guidelines detailed within the two aforementioned sections will result in restrictions of your permissions to participate in or otherwise access official communication channels.
+Infringements deemed severe enough may result in further penalties, such as preventing your access to these channels altogether or revoking your license.
+The punishment necessary is up to the discretion of the Licensing managers.
+You may appeal any punishment received for infringing the rules and guidelines detailed under Article 6 and Article 7 (âCommunicationsâ), but relief from moderation isnât guaranteed no matter the circumstance or severity of the infringement.
+Such appeal must be in accordance with Â§5.4 and/or Â§5.4a in order to be considered valid.
+Any references to the âserverâ or the âDiscordâ in Article 7 are to be interpreted as referring to official communication channels in general.
+Any reference to the phrases âblacklistâ or âlicense revocationâ in Article 7 are to be interpreted as referring to the immediate termination of the contract and therefore the ceasing of your personal usage of the Product.
+Any Communications section or individual rule that contains a marked superscript is considered to have a preordained punishment for infringing such section rule(s) or individual rule(s).
+Sub-section rules that have extra superscripts in addition to the main section superscript(s) are considered to have said superscripts as possible additional punishment.
+However, in accordance with Article Â§6.2, Licensing managers reserve the right to bestow any additional punishment at their discretion.
+The superscript legend is as follows (in order of lowest to highest severity): 1-server mute, 2-server kick, 3-voice channels ban, 4-developer channels ban, 5-server ban, and 6-Product license revocation.
+
+
+7.
+COMMUNICATIONS
+Freedom to voice your opinions and speak your mind is considered the golden rule of the Synapse X community and is what sets it apart from many other communities.
+This means that you will not be punished for having an opinion that is âunpopularâ, âcontroversialâ or âpolitically incorrectâ.
+However, like any freedom, it comes with its own limits.
+Your freedom of speech ends when it could potentially harm someone else physically, their computer, or if it impedes another personâs right to speak as well.
+Use common sense when applying this rule.
+Do not spam, flood or otherwise prevent normal communications from occurring.
+This includes unnecessarily tagging individuals, posting ASCII art that does not contribute to ongoing conversations, or posting fake Nitro codes.
+Additionally, in order to promote fluidity in communications, avoid speaking piecemeal.1
+We don't allow any kind of advertising on the server.
+This includes Discord invites, YouTube and Twitch links, etc.
+All forms of advertising will result in an instant ban.5
+
+
+Posting vanity Discord invites (without intent to advertise) such as discord.gg / minecraft or similar will get you muted for one day.1
+
+
+Further violations of Â§7.3.1 may result in you being muted for longer periods of time, or a ban from the server.1, 5
+
+
+Attempting to raid streams, Zoom meetings, Roblox games, or similar will get you muted for two days.1
+
+
+If the content posted is in violation of Â§7.3, then the punishment of violating Â§7.3 will supersede any punishment for violating Â§7.3.2.5
+Further violations of Â§7.3.2 will result in you being banned from the server.5
+
+
+The usage of bots, including self-bots or plugins that simulate the usage of self-bots (e.g.
+automation of Discord features), is not permitted.
+This may get you banned from the server and possibly from the platform altogether.5
+Do not attempt (using various methods) to identify or post personal information of any user here.
+This includes IP addresses, real names, or other personal information that could harm another user.
+
+
+Attempting or threatening to obtain another Clientâs personal information will result in a server ban.5
+
+
+Scripts that are posted in the scripts-channel part of the server are not subject to Â§7.5 and Â§7.5.1, but must be in accordance with Â§7.22.1.5.
+Multiple violations of Â§7.5.1 deemed severe enough may result in your Product license being irrevocably revoked.6
+
+
+Releasing, harming, or threatening to do either to another Clientâs personal information will result in your Product license being irrevocably revoked.6
+
+
+Posting any executable file, IP address, phone number (depends on intention &amp.
+how âpublicâ the number is [which will be handled on a case-by-case basis]), address, etc.
+will get you banned, or muted for 1 day if they aren't real.
+This does not count if they're obviously fake, like 127.0.0.1 or 8.8.8.8.1, 5
+Do not post content that could trigger epileptic seizures or render someone with a mental illness (such as, but not limited to, schizophrenia and bipolar disorder) uncomfortable.
+Doing so will result in a ban from the server.5
+
+
+Discord account custom statuses and profile pictures are subject to Â§7.7.
+
+
+All NSFW content must be posted in NSFW marked channels.
+Posting NSFW content outside of NSFW marked channels will get you banned.5
+
+
+Any content that contains visible genitalia, breasts, or buttocks are classified as NSFW content.
+
+
+NSFL content (such as gore) is not tolerated in any channel and will get you banned.5
+
+
+Media that contains animal abuse or animal cruelty will also get you banned.5
+
+
+Tricking other members into posting something that could get them punished is not allowed, and will get you muted/banned depending on the situation.1, 5
+Posting discord crashers / fake crash scripts will get you banned.5
+Nitro Boosters with the capacity to speak in general should not post unfunny memes.
+If this rule is repeatedly infringed you will be muted.1, 2
+Don't be a mini-mod that reports every minor rule break to the whole staff team.
+Reporting major rule breaking like gore or advertising does not fall under this rule, but annoying Mods for stuff like minor spam that isn't even mutable will get you punished.1
+Barely breaking the rules multiple times just to annoy staff will get you punished regardless.1, 2
+Avoid inputting unusual and attention-grabbing characters in your custom status.2
+Use common sense.
+If you post something stupid, expect to be flamed back.
+Posting media that contains underage pornography will result in your license being irrevocably revoked.6 
+
+
+Discussions about underage pornography or sexualization of minors is a punishable offence.5, 6 
+
+
+Depending on what precisely was discussed, the punishment for this can range from a server ban, to your license being irrevocably revoked (which will be handled on a case-by-case basis).
+
+
+
+This also applies to so-called âCondoâ places or other sexual-in-nature places.
+Violators of Â§7.17 and/or Â§7.17.1 are subject to being reported to the proper authorities, along with the punishment stipulated in those Articles or their subsequents.
+
+
+Attempting or claiming to evade/bypass a server ban and/or encouraging other Clients to evade a server ban is a blacklistable offense.6
+
+
+Attempting or claiming to evade any server punishment is also a blacklistable offense.6
+
+
+People with âspecialâ roles (such as âEx-Staffâ, âChat Accessâ, and similar) are not exempt from the rules stated in Â§7.
+Do not attempt (using various methods) to âlagâ or slow down the Synapse server bot, and/or jeopardize its functionality.1, 5, 6
+During times of emergency, Licensing managers may promulgate a series of communication rules for a limited period of time.
+Such a period of time cannot exceed 24 hours.
+The implemented rule(s) will be announced publicly in a server communications channel, along with the punishment of breaking them (such punishment cannot exceed a server ban unless authorized by another article in the Terms of Service).
+CHANNEL-SPECIFIC-RULES
+
+
+#scripts-channel1
+
+
+Only post .lua/.txt files or .zip/.rar files.
+Posting other file formats will result in punishment.
+If you want to post multiple (5+) scripts within a short time period, use a .zip file.
+Failing to do so may result in a mute.
+Don't post a script just to talk to someone or to request scripts.
+Doing so will get you muted for 2 days.
+Don't post fake scripts / troll scripts.
+Doing this will get you muted for 3 days.
+If you post a script that collects or logs personally-identifying information such as (but not limited to) a userâs Email address, IP address, Discord account ID, signature containing computer information, name of their computer device, and/or any ID of an account they have used to authenticate into any third party software, then you (the user that posted the script) are required to state the information that is being collected, and the purpose of collecting such information.
+If the collection justification is determined to be unsatisfactory by Licensing managers and/or if the user fails to state the specific information that is being collected, the script uploader is subject to moderation (punishment depending on the severity of the offence).1, 5, 6
+
+
+#themes1
+
+
+Only post themes in this channel.
+Talking or posting unrelated images will get you muted for a day.
+Do not request themes in this channel OR #themes-discussion (doing so will get you muted for up to 1 day), you can do that in #themes-request.
+
+
+#custom-uis1
+
+
+Don't talk on this channel, you will be muted for one day if you do.
+You must include a VirusTotal link with your custom UI.
+Do not request custom UIs in this channel, you can do that in #custom-uis-request.
+The custom-ui must be unobfuscated, and include a fully viewable source link.
+
+
+NSFW Channels
+
+
+Do not post underage animated pornography (also known as âloliconâ) in any NSFW channel.
+Doing so will result in a server ban.5
+Post content related to weird fetishes (such as scatophilia).
+#nsfw-shitposting.
+Nsfw content posted in the wrong channels will get you muted.1
+
+
+Voice Channels3
+
+
+You will get VC banned for earraping, mic spamming, using a voice changer, playing music through your mic, or spam joining/leaving the voice chat.
+Do not stream Omegle, nsfw content, advertisements, or gore.5 
+
+
+Developer Channels4
+
+
+Toxicity in the dev-channels is fine as long as it does not exceed a certain degree.
+This is about scripting, not being racist.
+Begging for scripts is not tolerated.
+If you need to request a script, use #scripts-request.
+Anything that is not related to development should be kept in #general.
+#dev-questions-sxlib is only for the sxlib.
+It only exists for the Synapse UI Library questions, other questions shall go to #dev-questions-1 and #dev-questions-2.
+Streaming non dev related content in the dev vc is not allowed.
+This means no Omegle.
+Don't ask how/for something to be cracked and don't post cracks.
+
+
+#support-issues1
+
+
+Only technical issues, bugs, or other software problems should be discussed here.
+no discussion of offtopic material.
+Discussion of such offtopic material will result in a mute and more severe punishment if there are repeated offenses.
+Do not advertise yourself as being able to help.
+simply respond to someoneâs question/problem if they need assistance.
+Advertising yourself in such a way will result in a mute and more severe punishment if repeatedly offended
+
+
+
+
+Von Google Drive verÃ¶ffentlichtâMissbrauch melden
+      

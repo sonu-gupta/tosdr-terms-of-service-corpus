@@ -1,0 +1,608 @@
+
+         Terms of Service Looking for our GDPR &amp.
+CCPA DPA? Sign it here.
+
+SECTION 1 - OVERVIEW
+SECTION 2 - ONLINE SERVICE TERMS
+SECTION 3 - GENERAL CONDITIONS
+SECTION 4 - ACCURACY AND COMPLETENESS OF INFORMATION
+SECTION 5 - SERVICES
+SECTION 6 - FEES AND TERM
+SECTION 7 - CENSORSHIP
+SECTION 8 - INTERACTION WITH THIRD PARTIES
+SECTION 9 - PERSONAL INFORMATION
+SECTION 10 - DISCLOSURES AND NOTICES
+SECTION 11 - INTELLECTUAL PROPERTY, DMCA TAKE DOWN POLICY AND OTHER LIMITATIONS
+SECTION 12 - SECURITY RESPONSIBILITIES.
+DISCLAIMER OF WARRANTIES.
+LIMITATION OF LIABILITY.
+LIMITED UPTIME GUARANTEE
+SECTION 13 - INDEMNIFICATION
+SECTION 14 - SEVERABILITY
+SECTION 15 - TERMINATION
+SECTION 16 - ENTIRE AGREEMENT
+SECTION 17 - GOVERNING LAW AND DISPUTE RESOLUTION
+SECTION 18 - CHANGES TO TERMS
+SECTION 19 - CONTACT US AND THANK YOU
+SECTION 20 - CHANGELOG
+ SECTION 1 - OVERVIEW
+(Please, please read the whole thing, this is a contract after all.)
+Platform.sh is your hosting solution.
+Our PaaS (Platform as a Service) will let you host your products and services on a dedicated real-time basis, configured and optimized by us, Platform.sh.
+Our end to end complete infrastructure allows you to simply deploy your applications to the cloud without any headaches.
+We automatically configure and run not only your application server but all the services on which it depends (databases, search engines, cache backends, etc.).
+On top of an easy to navigate web interface, we offer you APIs to control all your third-party integrations and tools.
+âPlatform.shâ is operated by Platform.sh SAS, a French company located at 131, Boulevard de SÃ©bastopol, Paris, 75002 France, and Platform.sh, Inc.
+a Delaware registered corporation, addressed at PO Box 536 Brooklyn, MI 49230 and may include its affiliates, subsidiaries, directors, officers, employees, agents, partners, contractors, and/or licensors (together, referred to throughout these Terms of Service as âPlatform.shâ or âusâ or âweâ).
+By visiting our site and/ or purchasing something from us, you agree to be bound by the following terms and conditions (âTerms of Serviceâ, âTermsâ), including those additional terms and conditions and policies referenced herein and/or available by hyperlink, including our Privacy Policy.
+These Terms of Service apply to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/or contributors of content.
+We offer many services, tools, products, software, and offerings on related Platform.sh websites (the âServicesâ), including but not limited to, all information, tools and Services available from this website (or âsiteâ) to you (the âuserâ, âcustomer,â âcompanyâ conditioned upon your acceptance of such terms, conditions, policies and notices in or referenced in the Terms of Service.
+Please read these Terms carefully before accessing or using our website.
+By accessing or using any part of the site, you agree to be bound by these Terms.
+If you do not agree to all the terms and conditions of this agreement, then you may not access the website or use any services.
+If these Terms of Service are considered an offer, acceptance is expressly limited to these Terms of Service.
+METERED AND USAGE BASED: Our Services are bundled in monthly plans, but the actual billing is based on the actual usage you make of our services.
+To learn more about our self-service plans, please visit our pricing page.
+UPTIME: We try to keep our Services up all the time, but the self-service plans only come with a very limited uptime guarantee of 99.5% (our track record is much higher, but we will not commit to it because not all services run with redundancy).
+Most other providers wonât even commit to this.
+If you need guaranteed uptime because you depend on your website for your companyâs income you should check out our ENTERPRISE offering.
+SUPPORT: The self-service Professional plans do not include personalized support.
+We do give support, on a best effort basis, through an online service desk, and on public forums.
+We are sorry but our engineers will simply not take phone calls (if you are using this service you are probably a developer, and do not like taking phone calls either).
+If your organization needs people they can contact 24/7, again you will need to purchase an optional ENTERPRISE offering (which redefines white gloving, our support staff will be more than happy to talk to you!).
+Please contact your salesperson for our terms.
+ENTERPRISE SUPPORT: Selected self-service Professional plans do offer an optional enterprise SLA, which provides the following ticket response times through an online service desk: Priority 1 â Less than 1 hour, Priority 2 &amp.
+3 â Less than 1 working day.
+This SLA is offered on an annual term basis, paid for in advance, and is non-refundable.
+Further details can be found in the specific terms referenced in the Order/Quote form you will need to sign to buy this.
+SECTION 2 - ONLINE SERVICE TERMS
+You may not use our Services for any illegal or unauthorized purpose nor may you, in the use of the Services, violate any applicable laws in your jurisdiction (including but not limited to copyright laws).
+You must not transmit any worms or viruses or any code of a destructive nature.
+A breach or violation of the Terms will result in an immediate termination of your Services.
+SECTION 3 - GENERAL CONDITIONS
+You understand that some content (excluding credit card information) may be transferred unencrypted and involve (a) transmissions over various networks.
+and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
+Your credit card information is always encrypted through our payment processor (e.g.
+Stripe), during transfers over networks.
+Your access to our Services are granted and provided to you as a licensee, on a limited fully paid, and non-exclusive basis.
+You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Services, use of the Services, or access to the Services or any contact on the websites through which the Services are provided, without express written permission by us.
+The headings used in these Terms of Service are included for convenience only and will not limit or otherwise affect these Terms.
+SECTION 4 - ACCURACY AND COMPLETENESS OF INFORMATION
+We are not responsible for information made available by you that is not accurate, complete or current.
+Your personal contact information we collect may be deleted, updated and/or completed in your account settings at any time.
+Most changes will be reflected in your account immediately.
+You may also contact us for assistance in making sure your contact information is accurate and up-to-date.
+Your request for account change or deleted information may be verified or retained if we have legal basis for doing so in accordance with our Privacy Policy.
+SECTION 5 - SERVICES
+We reserve the right to limit the sales of our Services to any person, geographic region or jurisdiction.
+We may exercise this right on a case-by-case basis, in accordance with applicable law.
+We reserve the right to limit the quantities of any Services that we offer.
+All descriptions of our Services, such as product pricing, are subject to change at any time without notice, at our sole discretion.
+We reserve the right to discontinue any Services at any time.
+Any offers for your products or services made on our site is void where prohibited (for example, on our public forums).
+You commit yourself to choosing one of our Service offerings that meet your needs, or those of your organization or users.
+We may, in the future, offer new or Platform.sh services and/or features through this website (including, the release of new tools and resources).
+Such new features or third party tools and/or services shall also be subject to these Terms of Service.
+You commit to abide by and to assure adherence to the technical specifications and limitations of such Services, to assure that the use of our Services is done within the limits of the law and in accordance with these Terms.
+Specifically, we call your attention to the fact that, in accordance with applicable law, specifically French law, you must clearly be identifiable to third parties in your function as a web host, if you use our services to host public communication services online (notably websites or blogs), regardless of whether you are only an editor to such services.
+Platform.sh Services provides you with a fully autonomous management interface including:
+
+
+to subscribe, modify, and/or to cancel Platform.sh Services and options to a more or less powerful plan, throughout the duration of the contract;
+
+
+to manage your hosting in real time (and notably publish online, delete, or modify all or some of the content on a real time dedicated basis);
+
+
+to modify and update your contact information associated with Platform.sh hosting service.
+
+
+Some changes may incur additional fees, for which you will be informed and will be subject to your express prior consent.
+You understand that some changes cannot be performed, most notably you may not reduce the amount of storage dedicated to any specific environment or project.
+In order to reduce storage, you may need to subscribe to a new Platform.sh Service offering and transition the content from the larger one to the smaller one.
+As a reminder, in accordance with these Terms, your access codes, which are private, are under your full and complete responsibility.
+Platform.sh will not be accountable for misuse by third parties of your account, it is your responsibility to keep such credentials private and safe.
+For the purpose of ensuring the proper operation of its Services, and the safety and stability of the system, Platform.sh may intervene under certain circumstances, including:
+
+
+to stop a technical malfunction inherent to our system;
+
+
+to carry out a maintenance operation;
+
+
+in case of trouble affecting the safety and/or the stability of the system: abusive use and/or illegal use, or continued misuse following a warning from our service (e.g.: spamming, fraud, hacking, unauthorized access attemptsâ¦).
+obvious damage to, or attempt to damage our infrastructure caused by your instance of your software (e.g.
+DDoS, botnet, spamming).
+
+
+In any event, Platform.sh reserves the right to interrupt some or all of the Services in order to perform a technical intervention, particularly in the case of defective operation, or to improve the operation, or to perform maintenance.
+In accordance with our 99.5% self-service uptime, we will do everything necessary to limit the time of such interruption as much as possible and, if possible, we will give you reasonable prior notice, indicating the date, type, and duration of the intervention, so that you can make all the necessary arrangements.
+However, you acknowledge that we will not be able to give you prior notice in the case where the Service interruption is due to an external reason, for example emergency security patching (and in particular, one that would be inherent to the internet itself, acts of God, war, terrorism, riot, embargoes, acts of civil or military authorities, fire, floods, earthquakes, labor strikes, industrial disputes, or fuel crises) or if it is explicitly requested by a competent authority or in application of current French law.
+Platform.sh Professional is intended to be used to host websites, web-applications, and web-APIs with unmetered bandwidth based on fair-use assumptions.
+It is not intended to be used as a download service or as a Content Delivery Network (CDN).
+As such, the Services self-service offering currently does not limit the bandwidth you may use, as long as it falls inside the realm of what Platform.sh deems as ordinary usage.
+The Professional Enterprise offering includes CDN with a 1Tb per month included amount, beyond which overages are chargeable.
+Our development environments share resources between themselves and as such are not intended to be used for production type workloads such as intensive calculations and regular long running jobs.
+Should Platform.sh deem a customerâs account as exceeding fair use bandwidth consumption, or development environment usage, Platform.sh will notify the customer and allow the customer to remedy the problem.
+However, should a customerâsâ bandwidth or Central Processing Unit (CPU) usage be significantly greater than what Plaform.sh deems as fair use of the Services, Platform.sh reserves the right to suspend or throttle the customerâs account where appropriate.
+In such event, Platform.sh will notify you and discuss other available options and Services that could better suited for your use and needs.
+
+SSL Certificates
+
+Platform.sh provisions automatically for every site and environment SSL certificates using the âLetâs Encryptâ service (with some limitations).
+You may provision your own SSL certificates for production environments, but development environments will always carry a âLetâs Encryptâ provisioned certificate.
+By using the Platform.sh service, you recognize Platform.sh as a duly authorized agent for the provisioning of such certificates.
+
+Free Trial
+
+If you sign up for our 30-day free trial period (the âFree Trialâ), you may be required to provide a valid credit card or other valid payment method.
+Your provided payment method will be charged on the first day following the Free Trial unless you cancel and uninstall your ongoing projects utilizing our Services, as required for cancellation, before the end of the Free Trial period.
+The Free Trial is only available to first-time users of the service.
+Platform.sh reserves the right, in its absolute discretion, to determine your eligibility for a Free Trial, and, subject to applicable laws, to withdraw or to modify a Free Trial at any time without prior notice and with no liability, to the greatest extent permitted under the law.
+Currently, the Free Trial is limited to development plans and you may not host production sites using the Free Trial.
+The Free Trial offers development plans which have different resource allocations than our production plans, and as such, a project that successfully deploys as a Free Trial development plan may not be able to deploy at any of the other plans.
+You may not sign up for multiple accounts in order to receive additional Free Trial benefits.
+We may terminate or suspend a Free Trial at any time without notice or liability, and in our sole discretion, and we reserve the right to adjust pricing relative to any Services offered through a Free Trial.
+
+Sponsored Sites
+
+From time to time, at its sole discretion, Platform.sh may sponsor the hosting of selected sites.
+Such hosted sites must comply with the current Terms regardless of whether they pay for the Services or not.
+Platform.sh reviews all sponsored hosted sites from time to time and may decide to terminate, without prejudice, the Services at its sole discretion.
+Sponsored sites are expected to display a widget âPowered by Platform.sh.â Platform.sh may update such widgetâs contents from time to time and the sponsored site will update the contents in a timely fashion.
+A sponsored site may request, and Platform.sh will accept, variations of the widget as long as such variations have written pre-approval from Platform.sh, or fall within branding guidelines provided by Platform.sh .In accordance with such sponsorship, Platform.sh may announce on its own media presence, both online and offline, regarding such sponsored project hosting, and kindly ask the sponsored site communicate the same (at least once) over its social media presence (Twitter, mailing list, etc) the sponsored hosting.
+If such eligible customer project is a registered non-profit organization in the US or Germany, it is also expected to provide paperwork to register an in-kind donation to the organization of the equivalent price of the service ($50 USD/month or the EUR equivalent), for the non-profit organizationâs tax purposes.
+SECTION 6 - FEES AND TERM
+Our monthly plans for Services usually include a certain amount of resources (for example three included development environments or 5GB storage).
+In the future, we may change those plans, but we will not change the conditions of your subscription without prior notice.
+Such changes and our notification will never apply within the same billing period.
+You may, at any time, choose the compute capacity of your instance, augment its storage capacity, add more tools, services, users, or create new environments (see Section 5 -SERVICES for important details).
+Such additional services may incur additional costs.
+Currently, you can change: the number of users, storage capacity, the number of development environments and the size of your production plan.
+But know that this will change in the future and you will be allowed to change other elements.
+As such, these other elements (for example specifying larger development environments) will have their pricing detailed on our pricing pageand may either be billed at a prorated hourly rate, on a one-time basis or per billing period.
+Such prices, applicable incorporated terms, and packages are available on our pricing page.
+The total bill for each month is calculated on a prorated per hourly usage basis with the default billing period being one month.
+Prices for our Services are subject to change without notice.
+We shall not be liable to you or to any third party for any modification, price change, suspension or discontinuance of the Service.
+We reserve the right to refuse any order you place with us.
+We may, in our sole discretion, limit or cancel quantities purchased per person, per affiliate, per household, or per order.
+These restrictions may include orders placed by or under the same customer account, the same credit card, and/or orders that use the same billing and/or shipping address.
+In the event that we make a change to or cancel an order, we will notify you by contacting the e-mail and/or billing address/phone number provided at the time the order was made.
+We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers or distributors.
+Depending on the total estimated amount for the Services, we may require prepayment of part of, or the total amount of, the estimated current billing period.
+We may suspend or terminate any Services if it was not prepaid to the estimated billing period total.
+We may also modify your billing period as general policy or on a per-customer basis, as notified to you.
+At any time, you may access the estimation of your current billing period through your account.
+Your Services term are determined by your selected package and any applicable cancellation terms will apply.
+In accordance with our Services, Platform.sh will allow you to downgrade, upgrade, or terminate your Services within your account settings at any time, and such changes will be applied immediately, with the exception of termination, which pre-payment for the month will not be returned or paid back to you prorated.
+Upon your termination, you will not be charged for the next subsequent month, unless your package deems otherwise (e.g.
+quarterly or yearly package).
+In the event you cannot pay Platform.sh any portion of the fees when due, you must pay interest on all amounts not paid at the rate of one and one half percent (1.5%) per month or the highest rate permitted by law, whichever is lower.
+The applicable currency will be stated on the selected package of the pricing pageâs order confirmation.
+otherwise it is US dollars.
+Fees are not refundable.
+Unless explicitly identified as taxes on the order confirmation, all amounts due are exclusive of taxes, withholding, duties, levies, tariffs, and other governmental charges (including without limitation VAT), excluding taxes on Platform.shâs net income (collectively, âtaxesâ), and you are responsible for payment of all such taxes.
+Both you and Platform.sh will reasonably cooperate to lawfully minimize taxes.
+SECTION 7 - CENSORSHIP
+Platform.sh exercises no control whatsoever over the content of the information passing through the network, email or website.
+The customer is solely responsible for the services it proposes to its end users through the usage of resources provided by Platform.sh.
+SECTION 8 - INTERACTION WITH THIRD PARTIES
+We may provide you with access to third-party tools and links over which we neither monitor nor have any control nor input.Third-party links on this site may direct you to third-party websites that are not affiliated with us.
+We are not responsible for examining or evaluating the content or accuracy and we do not warrant, and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, products, or services of third-parties.
+You acknowledge and agree that we provide access to such third party links or tools âas isâ and âas availableâ without any warranties, representations or conditions of any kind and without any endorsement.
+We are not liable and shall have no liability whatsoever for any harm or damages related to the purchase or use of goods, services, resources, content, or any other transactions made in connection with any third-party websites relating to your use of optional third-party tools.
+Any use by you of such third party optional tools offered through the site is entirely at your own risk and discretion and you should ensure that you are familiar with and approve of the terms on which tools are provided by the relevant third-party provider(s).
+Certain content, products and services available via our Services may include materials from third-parties.
+Please carefully review such third-partyâs policies and practices and make sure you understand them before you engage in any transaction.
+Complaints, claims, concerns, or questions regarding third-party tools products should be directed to the third-party.
+You agree that we shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such third party dealings.
+If there is a dispute between participants on such third party website (or your own), or between users and any third party, you understand and agree that we are under no obligation to become involved.
+In the event that you have a dispute with one or more other users or third parties, you hereby release us, our officers, employees, agents, and successors in rights from claims, demands, and damages (actual and consequential) of every kind or nature, known or unknown, suspected or unsuspected, disclosed or undisclosed, arising out of or in any way related to such disputes.
+If you are a California resident, you shall and hereby do waive California Civil Code Section 1542, which says: âA general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which, if known by him must have materially affected his settlement with the debtor.â
+In the case where any user authorized by you consents to a third party integration, you shall be deemed as agreeing to the passage of data to the third party integration partner for the purposes agreed upon between you and us.
+SECTION 9 - PERSONAL INFORMATION
+All information we collect on and through our site and our Services is subject to our Privacy Policy.
+By using the Services, you consent to all actions taken by us with respect to your information in compliance with the Privacy Policy.
+SECTION 10 - DISCLOSURES AND NOTICES
+Occasionally we may, in our sole discretion, make changes to the Terms of Service and such incorporated agreements (e.g.
+the Privacy Policy, pricing page).
+When we make a material change to the legal terms relating to the Services, we will provide you with prominent notice as appropriate under the circumstances, (e.g., by displaying a prominent notice within the Services or by sending you an email).
+In some cases, we will notify you in advance, and your continued use of the Services after the changes have been made will constitute your acceptance of the changes.
+Please therefore make sure you read any such notice carefully.
+You agree that Platform.sh may provide disclosures and notices regarding the Services to you by posting such disclosures and notices on our website, emailing them to the email address listed in your Platform.sh account, or mailing them to the address listed in your Platform.sh account.
+You also agree that electronic disclosures and notices have the same meaning and effect as if we had provided you with a paper copy.
+Such disclosures and notices shall be considered to be received by you within 24 hours of the time it is posted to our website or emailed to you unless we receive notice that the email was not delivered.
+As a user, you must promptly report any known security deficiencies in, or intrusions to, our Services as soon as you have knowledge.
+You agree to comply with our responsible disclosure practices and provide us with an initial notice and 90 days by filing a support ticket to address any security vulnerabilities before publicly disclosing those.
+You agree that failure to do so would breach these Terms.
+You agree that, from the time you activate a paying account with Platform.sh until you terminate, we may identify you as a customer of Platform.sh.
+Neither you nor we will imply any untrue sponsorship, endorsement or affiliation between you and Platform.sh, but you are more than welcome to post a âHosted on Platform.shâ message anywhere regarding your service.
+SECTION 11 - INTELLECTUAL PROPERTY, DMCA TAKE DOWN POLICY AND OTHER LIMITATIONS
+You will not attempt (and will not allow others) to:
+
+
+Reverse engineer, decompile, disassemble or translate the Platform.sh service, or otherwise attempt to derive source code, trade secrets or know-how in or underlying any Platform.sh service or any portion thereof.
+unless specifically authorized in writing by an officer of Platform.sh.
+In the case specific components of Platform.sh are published as open source software, the customer agrees to respect the license terms of each component and agrees that the non-respect of such a license can lead to the immediate termination of the present service or contract with Platform.sh, without prejudice.
+
+
+Interfere with, modify, disrupt or disable features or functionality of Platform.sh, including without limitation any such mechanism used to restrict or control the functionality, or defeat, avoid, bypass, remove, deactivate or otherwise circumvent any software protection or monitoring mechanisms of our Services.
+
+
+The Services (including but not limited to all information, software, text, displays, images, video and audio, and the design, selection and arrangement thereof, but excluding any information or materials uploaded or otherwise provided by you), are owned by Platformsh, its licensors or other providers of such material and are protected by France and international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws.
+These Terms of Service permit you to use our site solely as a means of procuring our Services, and you must not reproduce or attempt to reproduce or duplicate, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store or transmit any of the material available on accessible through our Services, website, or mobile applications, except in the context of customary caching to increase performance and otherwise as required for the functioning of the Services.
+If you print, copy, modify, download or otherwise use or provide any other person with access to any part of our site or Services in breach of these Terms, your right to use the site and Services will cease immediately and you must, at our option, return or destroy any copies of the materials you have made.
+No right, title or interest in or to our Services, site, or any content on our site is transferred to you, and all rights not expressly granted are reserved by Platform.sh.
+Any use of the site not expressly permitted by these Terms of Service is a breach of these Terms of Service and may violate copyright, trademark and other laws.
+
+Trademarks
+
+The Company name, the terms Platform.sh, Platform.sh sas, Platform.sh Gmbh, Platform.sh, Inc, âDeploy On Friday,â the company logo and all related names, logos, product and service names, designs and slogans are trademarks of Platform.sh or its affiliates or licensors.
+You must not use such marks without the prior written consent of the company.
+All other names, logos, product and service names, designs and slogans on the website are the trademarks of their respective owners.
+If you upload any designs, logos or names subject to trademark or servicemark for use on the site, you represent and warrant that you have the right and authority to do so.
+
+Prohibited Uses
+
+You may use our Services only for lawful purposes and in accordance with these Terms of Service.
+We reserve the right to terminate your use of the Service or any related site for violating any of the following prohibited uses.
+You agree not to use the Services:
+
+
+In any way that knowingly violates any applicable federal, state, local or international law or regulation (including, without limitation, GDPR, any laws regarding the export of data or software to and from the US or other countries).
+For more information on GDPR, please visit our Privacy Policy.
+
+
+For the purpose of exploiting, harming or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information or otherwise.
+
+
+To transmit, or procure the sending of, any advertising or promotional material, including any âjunk mailâ, âchain letterâ or âspamâ or any other similar solicitation.
+
+
+To knowingly infringe or violate the intellectual property rights or proprietary rights, rights of publicity or privacy, or other rights of any third party.
+
+
+To advertise or sell firearms as defined by âCategory A - Prohibited Firearmsâ under the European Directive (91/477/EEC).
+Platform.sh may accord, at its discretion, specific explicit waivers for sites falling under this category, but that exclusively target business to business or government buyers.
+
+
+To advertise or sell accessories or parts that convert firearms into âProhibited Firearmsâ as defined by âCategory A - Prohibited Firearmsâ under the European Directive (91/477/EEC).
+
+
+In any way that is harmful, fraudulent, deceptive, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, or unlawful.
+
+
+To impersonate or attempt to impersonate Platform.sh, a Platform.sh employee, another user or any other person or entity (including, without limitation, by using e-mail addresses or screen names associated with any of the foregoing).
+
+
+To knowingly engage in any other conduct that restricts or inhibits anyoneâs use of the site or our Services, or which, as determined by us, may harm the Platform.sh or users of the site or our Services or expose them to liability.
+
+
+Additionally, you agree not to:
+
+
+Use the site or our mobile applications or any technological device or process in any manner that you know could disable, overburden, damage, or impair the site or interfere with any other partyâs use of the site, our mobile applications or Services, including their ability to engage in real time activities through the same.
+
+
+Use any robot, spider or other automatic device, process or means to access the Website or any of its content or any Services for any purpose, including monitoring or copying any of the material on the site or providing any competing services.
+
+
+Use any manual process to monitor or copy any of the material on the site or any other content of ours or for any other unauthorized purpose without our prior written consent.
+
+
+Use any device, software or routine that knowingly interferes with the proper working of the site or the provision of our Services.
+
+
+Introduce any viruses, trojan horses, worms, logic bombs or other material which is malicious or technologically harmful.
+
+
+Attempt to gain unauthorized access to, or knowingly interfere with, damage or disrupt any parts of the site, the infrastructure on which the site is stored, or any server, computer or database connected to the site or our Services.
+
+
+Attack the site or our Services via a denial-of-service attack or a distributed denial-of-service attack.
+
+
+Otherwise knowingly interfere with the proper working of the site or the proper provision of our Services.
+
+
+
+In conformity with the EU Sanctions, the US State Sponsors of Terrorism List, the UK Sanctions Regimes, the AU Department of Foreign Affairs and Trade Sanctions Measures, and the United Nations Security Council, customers or users residing in Cuba, Iran, North Korea, South Sudan, and Syria may not use the Platform.sh Services.
+
+
+Content Reliance on Information Posted
+
+We reserve the right to remove any content from any site hosted using our Services at any time upon receipt and investigation of claims or allegations from third parties or authorities relating to such content, or if we have cause to believe that you have breached these Terms of Service.
+You, not us, remain solely responsible for all content that you upload, post, email, transmit, or otherwise disseminate using, or in connection with, the Services, and you warrant that you possess all rights necessary to provide such content to us and to grant us the rights to use such information in connection with the Services and as otherwise provided herein.
+If we receive frequent unfounded claims or allegations from an individual or entity regarding the existence of illegal content, we will suspend, for a reasonable time and after having issued prior warning to the individual or entity, the processing of such claims and allegations.
+In deciding to remove content, suspend Services, or suspend the processing of unfounded claims or allegations, Platform.sh will consider the following:
+
+the absolute number of items of illegal content or unfounded claims or allegations, submitted in the past year;
+the relative proportion thereof in relation to the total number of items of content provided or claims submitted in the past year;
+the gravity of the misuses and its consequences;
+the intention of the customer, individual, entity, or complainant
+
+We do not warrant the accuracy, completeness or usefulness of the content on the Website.
+Any reliance you place on such information is strictly at your own risk.
+
+DMCA Copyright Policy and Copyright Agent
+
+Platform.sh respects the intellectual property rights of others.
+If you believe something on our site or our Services has infringed your intellectual property rights, please notify our local office, locations for which can be found on in our âAbout usâ page on our Privacy Policy.
+To assist you as soon as possible, please go to our âContact Usâ page, or file a support ticket through your account and provide the following information:
+
+
+A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+
+Identification of the copyrighted work claimed to have been infringed.
+
+
+Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled.
+
+
+Address, telephone number, and, if available, an electronic mail address where we may contact you.
+
+
+A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+
+
+A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+
+
+Use of third party software
+Platform.sh allows you to automatically deploy code and services which may have their own terms of services, copyright and licenses.
+It is your exclusive responsibility to ensure that you have proper licenses to any third party software and libraries and that you comply with their terms of service.
+This includes, but is not limited to you:
+Your own project code and any included libraries
+Libraries pulled during build time into your project through dependency management tools
+Third party services such as databases, search engines or caches.
+Most services automatically provisioned by platform.sh are open-source projects with a permissive OSI approved open-source license.
+Some (such as Elastic Search) have premium versions where you may supply your own license keys.
+Others (such as MongoDB or the Oracle Java Runtime) may require a specific license.
+SECTION 12 - SECURITY RESPONSIBILITIES.
+DISCLAIMER OF WARRANTIES.
+LIMITATION OF LIABILITY.
+LIMITED UPTIME GUARANTEE
+
+Security Responsibilities
+
+Platform.sh is responsible for the overall security of the underlying Platform.sh infrastructure and applying industry best practices, If Platform.sh is made aware of potential security issues with the Customerâs account, Platform.sh will inform the customer of such issue.
+
+PLATFORM.SH IS NOT RESPONSIBLE FOR FIXING ANY SECURITY ISSUES WITH CUSTOMERâS ACCOUNT THAT DO NOT INVOLVE PLATFORM.SH PRODUCTS OR SERVICES.
+PLEASE NOTE THE FOLLOWING:
+
+
+
+The customer is solely responsible for the security of their usersâ accounts, including but not limited to, ensuring the confidentiality of credentials, usernames, and API tokens.
+Platform.sh has no obligation to correct or identify any security vulnerabilities, including but not limited to the customersâ code or configuration.
+
+
+The customer is solely responsible for the security of any application they deploy on Platform.sh, both on production and development environments.
+
+
+Platform.sh may notify customer of security vulnerabilities.
+Not patching notified vulnerabilities may lead to account suspension, at the discretion of Platform.sh.
+Any notified vulnerabilities must be patched as soon as possible.
+For the avoidance of any doubt, Platform.sh will not be responsible for any such vulnerabilities and the customer remains solely responsible for applying security patches.
+
+
+At its sole discretion, Platform.sh may employ mitigation techniques to reduce the effects of any attack or security vulnerability, without taking on any such liability for such mitigation.
+
+
+Platform.sh may provide templates and code examples in its documentation, public repositories, and support interactions.
+It will make reasonable efforts to make sure these examples respect secure coding standards but the client recognizes that example code may not be ready for production settings, and it is the clients responsibility to make sure and application code they run, even when originally provided by Platform.sh is up-to-date and secure.
+
+
+The Service is provided as-is, we do not guarantee, represent or warrant that your use of our Services will be uninterrupted, timely, secure or error-free.
+We do offer a limited 99.5% uptime guarantee for production environments as detailed in these Terms for all contracts starting after the 1st of January 2018.
+We do not warrant that the results that may be obtained from the use of these Services will be accurate or reliable.
+You agree that from time to time we may remove the Services for indefinite periods of time and reserve the right to cancel the Services at any time, without notice to you.
+Errors in the information contained in our Services sometimes occur.
+In addition, we may make changes and improvements to the Services provided herein at any time.
+THE SERVICE AND THE INFORMATION, SOFTWARE, PRODUCTS AND SERVICES ASSOCIATED WITH IT ARE PROVIDED âAS IS.â WE AND/OR OUR PARTNERS SUPPLIERS AND AFFILIATES DISCLAIM ANY WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED, AS TO ANY MATTER WHATSOEVER RELATING TO THE SERVICE AND ANY INFORMATION, SOFTWARE, PRODUCTS AND SERVICES PROVIDED HEREIN, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+USE OF OUR SERVICE IS AT YOUR OWN RISK.
+WE AND/OR OUR AFFILIATES, ARE NOT LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES OR OTHER INJURY ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF THE SERVICE OR WITH THE DELAY OR INABILITY TO USE THE SERVICES, OR FOR ANY INFORMATION, SOFTWARE, PRODUCTS AND SERVICES OBTAINED THROUGH US, OR OTHERWISE ARISING OUT OF THE USE OF THE SERVICE, WHETHER RESULTING IN WHOLE OR IN PART, FROM BREACH OF CONTRACT, TORTIOUS BEHAVIOR, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, EVEN IF WE AND/OR OUR AFFILIATES HAD BEEN ADVISED OF THE POSSIBILITY OF DAMAGES.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.
+IN NO EVENT SHALL EITHER PARTY OR ITS SUPPLIERS BE LIABLE FOR LOST PROFITS OR ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES (HOWEVER ARISING, INCLUDING NEGLIGENCE) ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT.
+EXCEPT FOR THE INDEMNIFICATION OBLIGATIONS IN this SECTION OF THIS AGREEMENT, EACH PARTYâS LIABILITY, AND THE LIABILITY OF EACH PARTYâS AFFILIATES, TO THE OTHER PARTY OR ANY THIRD PARTIES IN ANY CIRCUMSTANCE, SHALL BE LIMITED TO THE LESSER OF (I) ACTUAL DAMAGES INCURRED, OR (II) PAYMENTS MADE BY YOU FOR THE SERVICE DURING THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+IN ADDITION, PLATFORM.SH WILL NOT BE LIABLE FOR (A) THE COST OR PROCUREMENT OF ANY SUBSTITUTE TECHNOLOGY OR SERVICES, (B) ANY MATTERS CONTEMPLATED BY FORCE MAJEURE, (C) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE CONTAINED IN OR DELIVERED VIA THE SERVICES (REGARDLESS OF THE SOURCE OF ORIGINATION), (D) THE LOSS OF ANY DATA OR OTHER TECHNICAL ISSUES, OR DAMAGES TO YOUR MOBILE DEVICE OR OTHER HARDWARE OR SOFTWARE THAT IS CAUSED BY THE SERVICE (FOR CLARITY, INCLUDING ANY SYSTEMS, APPLICATIONS, CODE, PROCESSES OR METHODS USED TO PROVIDE THE SERVICE), OR (E) DAMAGES FOR ANY EMAILS OR OTHER CONTENT THAT YOU OR YOUR END USERS SEND OR POST VIA THE SERVICE.
+THE FOREGOING LIMITATIONS ON LIABILITY WILL NOT APPLY TO THE EXTENT PROHIBITED BY APPLICABLE LAW.
+THE PARTIES ACKNOWLEDGE AND AGREE THAT THE ESSENTIAL PURPOSE OF THIS SECTION IS TO ALLOCATE THE RISKS UNDER THESE TERMS BETWEEN THE PARTIES AND LIMIT THEIR POTENTIAL LIABILITY GIVEN THE FEES CHARGED UNDER THIS AGREEMENT, WHICH WOULD HAVE BEEN SUBSTANTIALLY HIGHER IF PLATFORM.SH WERE TO ASSUME ANY FURTHER LIABILITY OTHER THAN AS SET FORTH HEREIN.
+THE PARTIES HAVE RELIED ON THESE LIMITATIONS IN DETERMINING WHETHER TO ENTER INTO THESE TERMS.
+THE LIMITATIONS OF LIABILITY SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE CONTRACT BETWEEN US AND YOU.
+Some states do not allow the limitation of liability, so the foregoing limitation may not always apply.
+
+LIMITED 99.5% AND 99.9% UPTIME GUARANTEE
+
+
+
+The 99.5 % uptime guarantee (the âguaranteeâ) is limited to the production (master) environments of paying Professional plans and Professional Enterprise plans that have been configured with a domain name.
+
+
+It explicitly does not cover development plans and development environments
+
+
+It explicitly covers only customers that have a direct business relationship with Platform.sh with a separately executed agreement.
+
+
+The guarantee covers projects that were created after the 1st of January 2018, it does not apply retroactively.
+
+
+It does not cover Platform.sh Enterprise customers that benefit from a higher 99.99% guarantee (please refer to our Platform.sh Enterprise Terms)
+
+
+Professional plans do not come with a specific support SLA included, although there is an Enterprise support SLA included when purchasing Professional Enterprise plans (refer to our specific terms as referenced in the order quote form).
+For customers that do not purchase the Enterprise offering, we try to respond quickly to your tickets but the service is best-effort based, and we give no warranties regarding response-times or resolution time, when downtime is concerned.
+Only the Enterprise offering includes a guaranteed response SLA.
+
+
+The guarantee entitles the customer to a maximum usage credit of 30% of the actual monthly spend for the project concerned.
+Prorated to the hours of unavailability per production environment below the guaranteed 99.5% (5% credit) and below 99% (30% credit).
+
+
+The guarantee only covers the infrastructure.
+It explicitly does not cover incidents caused by customer action or inaction (such as for example: letting disk space fill up, introducing programming errors, not applying updates)
+
+
+The guarantee explicitly does not cover SSL certificates (both those provided automatically through Letâs Encrypt and through other third-party providers) and their validity.
+The customer should make sure SSL certificates are valid.
+
+
+It is the customerâs responsibility to ask for a voucher to be issued covering any downtime.
+The customer must ask for the service credit within 30 days after the incident.
+Platform.sh, upon confirming it is responsible for the downtime incident shall calculate the amount due and issue a voucher (limited to 30% of the actual monthly payment for the project concerned) that will automatically be applied towards the payment of the next billing period.
+
+
+
+Force Majeure
+
+In the event Platform.sh fails to perform any obligation pursuant to these Terms due to an external reason, in particular, one that would be inherent to the internet itself, acts of God, war, terrorism, riot, embargoes, acts of civil or military authorities, fire, floods, earthquakes, labor strikes, industrial disputes, fuel crises, or any other cause of any nature beyond Platorm.shâs control, such failure shall not be deemed to be a breach of this Agreement.
+SECTION 13 - INDEMNIFICATION
+You agree to indemnify, defend and hold harmless Platform.sh, its subsidiaries, affiliates partners, officers, directors, employees, agents, and contractors, licensors, and suppliers from and against any and all claims, costs, demands, damages, liabilities, or expenses, including, without limitation, reasonable attorneysâ fees, arising from or related to: (a) anything you provide or approve for using the Services, (b) your use of the Services, (c) your breach of these Terms of Service (including your failure to comply), or (d) any actual, prospective, completed or terminated service between you and a third party.
+SECTION 14 - SEVERABILITY
+In the event that any provision of these Terms of Service is determined to be unlawful, void or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms of Service, such determination shall not affect the validity and enforceability of any other remaining provisions.
+SECTION 15 - TERMINATION
+The obligations and liabilities of the parties incurred prior to the termination date shall survive the termination of the Terms of Service for all purposes.
+These Terms of Service are effective unless and until terminated by either you or us.
+You may terminate these Terms of Service at any time by notifying us that you no longer wish to use our Services, or when you cease using our site.
+If in our sole judgment you fail, or we suspect that you have failed, to comply with any term or provision of these Terms of Service, we also may terminate this agreement at any time without notice and you will remain liable for all amounts due up to and including the date of termination.
+and/or accordingly may deny you access to our Services (or any part thereof).
+SECTION 16 - ENTIRE AGREEMENT
+The failure of us to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision.
+Except as otherwise agreed to in separately signed writing, these Terms of Service and any incorporated policies or operating rules posted by us on this site or in respect to the Services constitute the entire agreement and understanding between you and us and govern your use of the Services, superseding any prior or contemporaneous agreements, communications and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of the Terms of Service).
+SECTION 17 - GOVERNING LAW AND DISPUTE RESOLUTION
+
+Letâs Try To Sort Things Out First.
+
+Platform.sh wants to address your concerns without needing a formal legal case.
+Before filing a claim, you agree to try to resolve the dispute informally by contacting us which can be found on our âContact Usâ page: https://platform.sh/contact.
+Platform.sh will try to resolve the dispute informally by contacting you via email.
+If a dispute is not resolved within 30 days of submission, you or Platform.sh may bring a formal proceeding.
+
+Governing Law.
+Judicial forum for disputes.
+
+These Terms are governed by French law and in accordance with the laws the Commerce Tribunal of Paris, France, without regard to any such conflicts of law principles.
+You and Platform.sh agree that any judicial proceeding to resolve claims relating to these Terms will be subject to the mandatory international arbitration provisions below.
+Both you and Platform.sh consent to such mandatory arbitration.
+If you reside in a country (for example, European Union member states) with laws that give consumers the right to bring disputes in their local courts, this paragraph doesnât affect those requirements or rights.
+
+IF YOUâRE A U.S.
+RESIDENT, YOU ALSO AGREE TO THE FOLLOWING MANDATORY ARBITRATION PROVISIONS:
+
+Both Parties Agree To Arbitrate. You and Platform.sh agree to resolve any claims relating to these Terms through final and binding arbitration before one arbitrator, except as set forth under Exceptions to Agreement to Arbitrate below.
+This includes disputes arising out of or relating to interpretation or application of this âMandatory Arbitration Provisionsâ section, including its enforceability, revocability, or validity.
+
+Arbitration Procedures. Any dispute, claim or controversy arising out of or relating to this Terms of Service and incorporated agreements or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability to arbitrate, shall be determined by arbitration in London, United Kingdom before one arbitrator(s) with substantial experience arbitrating claims relating to commercial contracts relating to software.
+The arbitration shall be administered by JAMS pursuant to its International Arbitration Rules and Procedures and in accordance with the Expedited Procedures in those Rules or pursuant to JAMSâ International Arbitration Rules and Procedures.
+This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction.
+The language to be used in the arbitral proceedings will be English.
+Judgment upon the award rendered by the arbitrator(s) may be entered by any court having jurisdiction thereof.
+
+Exceptions to Agreement to Arbitrate.
+Either you or Platform.sh may assert claims, if they qualify, in small claims court in France.
+Either party may bring a lawsuit solely for injunctive relief to stop unauthorized use or abuse of the Services, or intellectual property infringement (for example, trademark, trade secret, copyright, or patent rights) without first engaging in arbitration or the informal dispute-resolution process described above.
+If the agreement to arbitrate is found not to apply to you or your claim, you agree to the exclusive jurisdiction of the Commerce Tribunal of Paris, France to resolve your claim.
+
+NO CLASS ACTIONS. You may only resolve disputes with Platform.sh on an individual basis, and may not bring a claim as a plaintiff or a class member in a class, consolidated, or representative action.
+Class arbitrations, class actions, private attorney general actions, and consolidation with other arbitrations arenât allowed.
+If this specific paragraph is held unenforceable, then the entirety of this âMandatory Arbitration Provisionsâ section will be deemed void.
+Notwithstanding the above, if you reside in a country with laws that give consumers the right to bring disputes in their local courts (for example, European Union member states), the Terms of Service shall be governed by the laws of the Commerce Tribunal of Paris, France (or construed in accordance with your local laws if the laws of France are not enforceable).
+If you reside in a country (for example, European Union member states) with laws that give consumers the right to bring disputes in their local courts, this paragraph doesnât affect those requirements or rights.
+SECTION 18 - CHANGES TO TERMS
+You can review the most current version of the Terms of Service at any time on this page.
+We reserve the right, in our sole discretion, to make any changes to the Terms of Service and such incorporated agreements (e.g.
+the Privacy Policy, pricing page).
+When we make a material legal change, we will provide you with prominent notice as appropriate under the circumstances, (e.g., by displaying a prominent notice within the Services or by sending you an email).
+In some cases, we will notify you in advance, and your continued use of the Services after the changes have been made will constitute your acceptance of the changes.
+Please therefore make sure you read any such notice carefully.
+If you do not wish to continue using the Services under the new version of the such legal material changes, you may contact us to see what accommodations may be made.
+SECTION 19 - CONTACT US AND THANK YOU
+If you have any questions, requests, feedback, data rectification, or concerns regarding this Terms of Service (including our pricing and Privacy Policy), please contact us.
+For existing customers, please create a support ticket through your account.
+Or send a request by mail to: Attention Legal Platform.sh, 131, Boulevard de SÃ©bastopol, Paris, 75002 France.
+If you read our terms this far, we thank you from the bottom of our heart.
+If any of this is not clear, please send us a note and we will strive to make it better.
+SECTION 20 - CHANGELOG
+This is the Platform.sh Terms Of Service Version 2.5 June 2, 2021.
+
+The following is a list of changes from inception until present.
+
+Changes from Version 1.0 to 1.1 February 27th, 2016
+
+Company name change from Commerce Guys to Platform.sh
+
+Changes from Version 1.1 to 1.2 March 7th, 2016
+
+Formatting updates and postal address update
+
+Changes from Version 1.2 to 1.3 June 6th, 2017
+
+Added subsections 4.a âSSL certificatesâ, 4.b âFree Trialâ and 4.c âSponsored Sitesâ
+
+Changes from Version 1.3 to 1.4 June 8th, 2017
+
+
+Added information on GDPR compliance
+
+
+Changed age limit to 16 or age of majority whichever is greater
+
+
+Spelling and grammar fixes
+
+
+Changes from Version 1.4 to 1.5 January 1st, 2018
+
+
+Add limited 99.5% Uptime Guarantee
+
+
+Spelling and grammar fixes
+
+
+Changes from Version 1.5 to 1.6 February 1st, 2018
+
+Add the availability of a Business SLA
+
+Changes from 1.6 to 2.0 July 28th, 2018
+
+GDPR compliance updates, DMCA take down policy, material legal change notifications, personal information management, limitations of liability, dispute resolution and geographic considerations, age limitations moved to Privacy Policy, intellectual property protections expanded, prices, taxes, further defined terms, spelling and grammar fixes, and Services clarified.
+
+Changes from 2.0 to 2.1 October 9th, 2018
+
+Corrected the order of the numbered Sections
+
+Changes from Version 2.1 to 2.2 February 14th, 2019
+
+
+Include Professional Enterprise offering product description
+
+
+Add Professional Enterprise support SLA
+
+
+Add &amp.
+amend credit penalty tables and uptime clauses
+
+
+Remove Business SLA
+
+
+Changes from 2.2 to 2.3 April 17, 2019
+
+Clarification of security responsibilities for customer accounts that do not involve Platform.sh products and services.
+Clarification of responsibilities for use of third-party software
+
+Changes from 2.3 to 2.4 March 30, 2021
+
+Add limitation on the use of the service for the sale of forbidden firearms under European law
+Add factors considered when handling allegations of illegal content under European law
+
+Changes from 2.4 to 2.5 June 2, 2021
+
+Corrected language regarding sanctions and restricted countries list
+

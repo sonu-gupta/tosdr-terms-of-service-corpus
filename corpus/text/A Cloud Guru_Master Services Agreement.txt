@@ -1,0 +1,570 @@
+
+        We use cookies to ensure you get the best experience on our website.
+If you agree to our use of cookies, please continue to use our site.
+For more information, see our privacy policy.Continue 
+Sign In
+
+
+A Cloud Guru
+Blog
+Resources
+Forum
+Careers
+ Close 
+Browse Learning
+For Business
+For Individuals
+Learn by Doing
+Pricing
+ Close 
+Get Started
+
+
+ BackBrowse Learning CoursesBuild your modern tech skills with our comprehensive course library
+
+ Hands-on LabsGet your hands cloudy and build skills on demand with 1,500+ guided labs
+
+ Learning PathsGo from novice to guru in your chosen specialty
+
+Browse All Learning >
+
+
+
+
+ BackBrowse Platforms AWSLearn from an AWS Advanced Consulting Partner
+
+ AzureLearn Azure from our Microsoft MVP-led team
+
+ GCPPrep for in-demand certs or go deep into advanced topics
+
+ LinuxLevel up with 1,400+ hours of Linux learning
+
+Browse AllSAVE 20%!
+
+Hands-on Labs Top Hands-on LabsFind our most popular Hands-on Labs
+
+ By PlatformFind labs filtered by your preferred platform
+
+ By SpecialtyFind labs focused on security, data, and other specialties
+
+Browse AllSAVE 20%!
+
+
+ AWS DeveloperTake your dev skills from novice to guru
+
+ AWS ArchitectGo from novice to guru as a cloud architect
+
+ AWS DataBecome a guru in all things data
+
+ AWS DevOpsLearn the time warping skills a DevOps guru needs
+
+ AWS SecurityBecome a master of defense and secure your cloud
+
+ AWS ExecutiveBuild your cloud foundation to better define strategies and priorities
+
+Browse AllSAVE 20%!
+
+
+Sign In
+ Close 
+Get Started
+ ACG PoliciesMaster Services Agreement Policies 
+ Privacy Policy
+ Code of Conduct
+ Terms of Use
+ Platform Sub-processors
+ Platform and Operational Security
+ Technical and Organisational Measures (TOM)
+ A Cloud Guru Hands-On Feature Terms
+ Master Services Agreement
+ Data Processing Addendum
+Master Services AgreementEffective as of:&nbsp.
+February 1, 2021
+This Master Services Agreement (âMSAâ) is incorporated into the Order Form executed between the subscribing entity (âSubscriberâ) and the A Cloud Guru entity executing the Order Form (Serverless Heroes, Inc., A Cloud Guru, Ltd., or Linux Academy, Inc.) (each and collectively, âACGâ).&nbsp.
+The MSA sets forth the terms and conditions that govern the provision, access, and use of all services, products, and platforms offered by ACG (collectively, the âServicesâ) and, along with Subscriberâs Order Form, forms this Agreement (the âAgreementâ) between Subscriber and ACG.
+THIS MSA APPLIES TO BUSINESS SUBSCRIBERS ONLY.&nbsp.
+For any individual subscribing to the Services for personal use, ACGâs Terms of Use apply instead.
+
+1.&nbsp.
+ORDER DETAILS
+
+
+1.1.&nbsp.
+Order Forms.&nbsp.
+Subscriber orders a subscription to the Services by entering into an Order Form (as may be amended or modified from time to time) between Subscriber and ACG (an âOrder Formâ).&nbsp.
+ An Order Form will be one of the following: (a) a written order form or other agreement (including any exhibits thereto) entered into by Subscriber and ACG.
+(b) if eligible, ACGâs acceptance of Subscriberâs completion of the online ordering process made available on the ACG platform, website, or app (the âACG Siteâ) â for these purchases, Serverless Heroes, Inc.
+is the ACG party to the Agreement.
+or (c) if subscribing through an authorized reseller of the Services the agreement(s) for the Services entered into by Subscriber and the reseller and approved by ACG, together with any additional agreements ACG may require.
+
+1.2.&nbsp.
+Order Form Terms.&nbsp.
+Certain terms of this Agreement will be detailed in Subscriberâs Order Form.&nbsp.
+The Order Form will also designate the length of the subscription term (âSubscription Termâ).&nbsp.
+If the Order Form contains terms that conflict with or are in addition to the terms of this MSA the terms of the Order Form will control.&nbsp.
+Capitalized terms used in this MSA and/or the Order Form will have the same meaning within each.
+
+1.3.&nbsp.
+Fees.&nbsp.
+Subscriberâs Order Form or a corresponding invoice issued by ACG will set forth the payment terms and fees due to ACG in connection with the Services for the applicable Subscription Term (âFeesâ).&nbsp.
+If any Fees are not received when due, ACG may apply a monthly late fee of the lower of 1.5% of the outstanding balance or the maximum rate permitted by applicable law, unless and until all Fees and other sums due are paid in full.
+
+1.4.&nbsp.
+Authorized Users.&nbsp.
+
+
+a.&nbsp.
+Subscriber Group.&nbsp.
+Subscriberâs Order Form will designate the number of Subscriberâs authorized users of the Services (âUsersâ).&nbsp.
+Subscriber may designate only the following individuals as Users: employees or independent contractors of Subscriber or its affiliates who will access and use the Services by or through Subscriber and solely for the benefit of Subscriber or its affiliates.&nbsp.
+Only Users permitted under this Agreement may use the Services.&nbsp.
+Subscriber and its Users are collectively referred to as the âSubscriber Group.â
+b.&nbsp.
+User Licenses.&nbsp.
+Each User corresponds to a single User license.&nbsp.
+Subscriber will ensure that only one person accesses the Services per each User license.&nbsp.
+If Subscriber exceeds the usage authorized by the Order Form (for example, by exceeding the number of authorized Users or exceeding the Subscription Term), then ACG reserves the right to charge and invoice Subscriber the pro-rata Fees corresponding to such overage.
+c.&nbsp.
+Adding Users.&nbsp.
+Subscriber may add additional users to Subscriberâs subscription during any Subscription Term (âAdditional Usersâ).&nbsp.
+ACG will notify Subscriber in advance of any pro-rata additional Fees associated with the Additional Users.&nbsp.
+Subscriber may be required to modify its existing Order Form or enter into a new Order Form to add Additional Users.&nbsp.
+If there is a delay in executing an Order Form for Additional Users, then ACG reserves the right to, rather than extend the Subscription Term, reduce the Fees for those Additional Users on a pro-rata basis commensurate with the reduction in length of the Additional Usersâ Subscription Term â this is to ensure that the expiration dates of Subscriberâs original Order Form and its Additional User Order Form are coterminous.
+d.&nbsp.
+One-Time Transfer.&nbsp.
+If Subscriber purchases 10 or more licenses, Subscriber may effectuate a one-time transfer of up to 10% of its purchased licenses from their original User to a new User (for example, if Subscriber purchases 100 licenses, Subscriber may transfer up to 10 of those licenses to a new user one time each).&nbsp.
+None of the licenses eligible for transfer may be transferred more than once.&nbsp.
+Once a license is transferred, the User from whom the license was transferred may no longer use the Services during the Subscription Term.
+e.&nbsp.
+Account Admin.&nbsp.
+Subscriberâs ACG account will be administered by an employee of Subscriber (or an affiliate) designated by Subscriber (âAdmin.â).&nbsp.
+The Admin.
+will have the right to manage Subscriberâs account and its Users in accordance with this Agreement and will act as an authorized representative of Subscriber in dealings with ACG related to Subscriberâs account and use of the Services.
+
+2.&nbsp.
+
+THE SERVICES
+
+
+2.1.&nbsp.
+Access and Use.&nbsp.
+Subject to the Subscriber Groupâs compliance with the terms of this Agreement, during the Subscription Term, ACG will provide and maintain the Services ordered by Subscriber, together with all content, works, and materials incorporated into the Services (the âSubscription Contentâ), for access and use by the Subscriber Group in accordance with the terms of this Agreement.&nbsp.
+Certain portions or features of the Services may be provided or maintained by an affiliate of ACG with ACG remaining responsible for the performance of its obligations under this Agreement.
+
+2.2.&nbsp.
+Plans.&nbsp.
+ACG may offer different plan options (currently a âBasicâ and a âPlusâ Plan), each with different prices and features, for Subscriber to choose from when ordering the Services (each a âPlanâ).&nbsp.
+The features included in each Plan are described on a designated page of ACGâs website (currently at https://acloudguru.com/pricing) or at or in connection with the point of purchase of the Services.&nbsp.
+Subscriber may âupgradeâ to a higher-tiered Plan (e.g.
+from Basic to Plus) at any time during the Subscription Term by executing an Order Form for the upgrade.&nbsp.
+Upgrades will become effective, and any additional Fees associated with an upgrade will be due, as provided for in the upgrade Order Form.&nbsp.
+Subscriber may not âdowngradeâ to a lower-tiered Plan during its then-current Subscription Term.&nbsp.
+If Subscriber downgrades at the end of its Subscription Term, Subscriber will no longer have access to any features or Subscription Content that is only available through the higher-tiered Plan.
+
+2.3.&nbsp.
+Feature Terms.&nbsp.
+Certain features of the Services may be governed by terms applicable to that specific feature (âFeature Termsâ), which Feature Terms will supplement the terms of this MSA.&nbsp.
+You agree to ACGâs Hands-on Features Terms in connection with your use of any interactive Hands-on Features such as Cloud Playground and Hands-on Labs.&nbsp.
+The Hand-on Feature Terms are available at https://acloudguru.com/policies/tou-cloud-playground and are incorporated into this MSA by reference.
+
+2.4.&nbsp.
+Trials and Pilots.&nbsp.
+ACG may, at its sole discretion, offer Subscriber free or discounted trials or pilots (a âTrialâ).&nbsp.
+All Trials and Order Forms applicable thereto will be subject to this MSA and/or any other terms as ACG determines.&nbsp.
+ACG may cancel or modify the terms of a free Trial at any time, without prior notice and without liability.&nbsp.
+At the end of the designated Trial period Subscriber will be required to subscribe to the Services at ACGâs then-current prices in order to continue using the Services.&nbsp.
+NOTWITHSTANDING THAT REDUCED OR NO FEES MAY BE PAYABLE DURING A TRIAL, THE FULL PRICE OF THE FEES THAT WOULD OTHERWISE BE DUE FOR THE APPLICABLE NUMBER OF TRIAL LICENSES WILL BE DEEMED âFEES PAYABLEâ FOR THE PURPOSE OF THE LIMITATIONS OF LIABILITY PROVISIONS OF THIS AGREEMENT.
+
+2.5.&nbsp.
+Modifying the Services.&nbsp.
+ACG reserves the right to modify (including changing, adding to, removing, or replacing) the Services or components thereof and/or the ACG Site, as well as their features and functionality, at any time with or without notice, provided that no such modification will materially diminish the features or functionality of the Services provided to Subscriber as of the effective date of Subscriberâs then-current Order Form.&nbsp.
+Nothing in this Agreement will prevent ACG from updating or removing from time-to-time Subscription Content that ACG, at its sole discretion, deems out-dated.
+
+2.6.&nbsp.
+Third-Party Services.&nbsp.
+The Services may contain products, services, platforms, and/or Subscription Content owned by third parties and integrated into the Services (âThird-Party Servicesâ).&nbsp.
+Use of any Third-Party Services is subject to any terms or conditions provided to Subscriber that govern the respective Third-Party Services.
+
+2.7.&nbsp.
+Hosting and Technical Support.&nbsp.
+ACG will use commercially reasonable efforts to make the Services available on a consistent basis, excluding any planned downtime (including for updates and maintenance).&nbsp.
+While ACG expects planned downtime to be minimal, during any planned downtime, the ACG Site or Services may not be accessible.&nbsp.
+ACG or its contractors will provide the Subscriber Group with reasonable technical support services as may be necessary to assist the Subscriber Group in accessing and using the Services.
+
+3.&nbsp.
+SUBSCRIBER RIGHTS AND OBLIGATIONS
+
+
+3.1.&nbsp.
+Permitted Use.&nbsp.
+The Subscriber Group will use the Services only for Subscriberâs internal business purposes and in accordance with all laws, regulations, and ACG usage instructions Services applicable to the Services.&nbsp.
+Subscriber will ensure that its Users comply with the terms of the Agreement.&nbsp.
+Any action taken by a User with respect to the Services will be deemed an action taken by Subscriber.
+as such, a breach of this Agreement by a User will be deemed a breach by Subscriber.&nbsp.
+ACG has the right, but not the obligation, to monitor the Subscriber Groupâs use of the Services to ensure compliance with this Agreement.&nbsp.
+Any monitoring by ACG is not an assumption of liability by ACG, nor will it discharge Subscriber of its obligations under this Agreement.
+
+3.2.&nbsp.
+Usage Restrictions.&nbsp.
+The Subscriber Group will not (nor allow any third party) to do any of the following (the âUsage Restrictionsâ):
+(a)&nbsp.
+access or use the Services:&nbsp.
+(i)&nbsp.
+in any manner that infringes upon or violates third-party Intellectual Property Rights or rights of privacy or publicity,&nbsp.
+(ii)&nbsp.
+in a way intended to avoid incurring fees or exceed usage limits (including allowing multiple persons to use a single User license),&nbsp.
+(iii)&nbsp.
+to access or use the personal or confidential information of any third party without their permission,&nbsp.
+(iv)&nbsp.
+or purposes of competitive analysis or the development or provision of a competing service or product,&nbsp.
+(v)&nbsp.
+in violation of any law, rule, or regulation applicable to the Services, including any data protection laws (âData Lawsâ), including GDPR and the California Consumer Privacy Act, as applicable, (vi) to engage in any unauthorized or unlawful receipt, processing, transmission or storage of any Personal Data (defined below) of the ACG Group or any third parties, or (vii)&nbsp.
+any manner that is reasonably likely to damage, disable, overload, or impair the Services, interfere with any third partyâs use and enjoyment of the Services, or in any manner that ACG deems excessive or abusive;
+(b) circumvent, or attempt to circumvent, any security feature or access restriction of the Services or any part thereof; 
+(c) modify, decompile, reverse engineer, recreate, disassemble, or otherwise make any changes to the Services or the Subscription Content;
+(d) falsify or delete any attribution, authorship or ownership, legal, or proprietary notices, labels, or designations of the Subscription Content or other components of the Services;
+(e) (i)&nbsp.
+copy, disclose, reproduce, broadcast, sell or re-sell, lease, redistribute, publish, distribute, prepare derivative works of, perform, publicly display, modify, combine with other products or services, or otherwise exploit the Services or Subscription Content,&nbsp.
+(ii)&nbsp.
+download Subscription Content that is not made available for download by ACG,&nbsp.
+(iii)&nbsp.
+permit any non-User third party to view, access, or use the Services or Subscription Content; 
+(f) input, upload, transmit, access, or otherwise provide to or through the Services, any information or materials that are unlawful or injurious, or contain, transmit or activate any material that is technically harmful (including computer viruses, logic bombs, Trojan horses, worms, harmful components, or other malicious software) (collectively, âMalwareâ);
+(g) impersonate any person or entity, including ACG or any ACG employee, or falsely state or otherwise misrepresent an affiliation with any person or entity.
+or
+(h) if using a feature that permits Users to post user-generated content, materials, or works to the Services or to interact with other users (collectively, âUser Contentâ), publish any User Content that contains any material that:&nbsp.
+(i)&nbsp.
+is threatening, defamatory, obscene, indecent, seditious, offensive, harassing, annoying, pornographic, abusive, intended to incite hatred of any person or group, discriminatory, in breach of any of the Subscriber Groupâs confidentiality obligations,&nbsp.
+(ii)&nbsp.
+is known to be false, misleading, or inaccurate,&nbsp.
+(iii)&nbsp.
+constitutes or encourages conduct that would be considered a criminal offense, give rise to civil liability, or otherwise be in violation of the law,&nbsp.
+(iv)&nbsp.
+infringes on or violates the Intellectual Property Rights (defined below) or right of privacy or publicity (for example, by using the name or likeness of an identifiable person without their consent) of any third party,&nbsp.
+(v)&nbsp.
+contains any unsolicited or unauthorized advertising or promotional materials with respect to products or services, âjunk mailâ, âspamâ, âchain lettersâ, âpyramid schemesâ, or any other form of solicitation,&nbsp.
+(vi)&nbsp.
+ACG, in its reasonable discretion, believe restricts or inhibits anyone else from using or enjoying the Services.
+
+3.3.&nbsp.
+Export Controls.&nbsp.
+Some or all of the Services may be subject to United States export controls.&nbsp.
+As a result, Subscriber will not permit the Services to be accessed, transferred to, used by, or exported to a country, territory, or individual that is or may, from time to time be, as applicable: (a) on any of the relevant U.S.
+Government lists of prohibited persons, including the Treasury Departmentâs List of Specially Designated Nationals, the State Departmentâs Nonproliferation Sanctions List, or the Commerce Departmentâs list of Denied Persons.
+or (b) subject to a comprehensive trade embargo or other sanction by the United States (presently, Cuba, Iran, North Korea, Republic of the Sudan, Syria, or the Crimea region of Ukraine).
+
+3.4.&nbsp.
+Account Information.&nbsp.
+The Subscriber Group will maintain the confidentiality and security of their passwords and account information and will not provide that to any other person or entity.&nbsp.
+The Subscriber Group is responsible for restricting access to their computers and mobile devices as necessary to ensure the confidentiality and security of such information.&nbsp.
+Subscriber will promptly notify ACG if Subscriber suspects a User account information or password has been compromised.
+
+4.&nbsp.
+PROCESSING OF PERSONAL DATA 
+
+ACG will process data or information related to an identified or identifiable natural person of the Subscriber Group (âPersonal Dataâ) in accordance with: (a) the Data Processing Addendum, available at https://acloudguru.com/policies/data-processing or as otherwise agreed to by the parties (âDPAâ), and ACGâs Privacy Policy, available at https://acloudguru.com/policies/privacy (âPrivacy Policyâ).
+and (b) applicable Data Laws.&nbsp.
+The DPA and Privacy Policy are incorporated herein by reference.&nbsp.
+ACG will provide Subscriber with notice of any updates to its Privacy Policy in accordance with the terms of the Privacy Policy.&nbsp.
+ACG may use otherwise Personal Data in an aggregated and de-identified or anonymized form (i.e.
+a form in which specific individuals are not identifiable) for ACGâs internal business purposes.
+
+5.&nbsp.
+CONFIDENTIALITY
+
+
+5.1.&nbsp.
+Confidential Information.&nbsp.
+âConfidential Informationâ means all non-public information disclosed or provided by Subscriber or ACG (the âDisclosing Party,â respectively) to the other party (the âReceiving Partyâ) in connection with this Agreement or the Services or which is otherwise labeled as, or by its nature or under the circumstances should reasonably be understood to be, confidential or proprietary of the Disclosing Party.
+
+5.2.&nbsp.
+Exclusions.&nbsp.
+Confidential Information does not include any data or information that: (a) was previously known to the Receiving Party without breach of any obligation to maintain its confidentiality.
+(b) is independently developed by or for the Receiving Party without the use of or access to the Disclosing Partyâs Confidential Information.
+(c) is acquired by the Receiving Party from a third party that was not under any obligation of confidence with respect to such information at the time of disclosure.
+or (d) is or becomes publicly available through no fault of the Receiving Party.
+
+5.3.&nbsp.
+Mutual Obligations.&nbsp.
+The Receiving Party will use Confidential Information solely in the course of performing its rights and/or obligations under this Agreement and will not use or disclose (or cause the use or disclosure of) Confidential Information except (a) to its employees, representatives, advisors, and providers of Third-Party Services (including sub-processors) who have a need to know such Confidential Information in connection with the Services or the Receiving Partyâs obligations under this Agreement and who are bound by confidentiality obligations at least as protective as those governing Confidential Information hereunder, or (b) as may be required by law, subpoena, or court or administrative order, in which case the Receiving Party will provide the Disclosing Party with prompt notice of such subpoena or order prior to such disclosure, will disclose only the minimum necessary to comply therewith, and will reasonably cooperate in any efforts by the Disclosing Party (at the Disclosing Partyâs sole expense) to obtain a protective order or otherwise ensure confidential treatment of Confidential Information.&nbsp.
+The Receiving Party will be liable for any unauthorized disclosure or use of Confidential Information made by its Users or providers of Third Party Services, respectively. 
+
+5.4.&nbsp.
+Ownership and Treatment of Confidential Information.&nbsp.
+The Disclosing Party owns and will continue to own all of its Confidential Information.&nbsp.
+The Receiving Party will promptly advise the Disclosing Party if the Receiving Party learns of any unauthorized use or disclosure of any Confidential Information.&nbsp.
+At the Disclosing Partyâs written request, the Receiving Party will, to the extent technically possible, return, delete, or destroy (as requested) the Disclosing Partyâs Confidential Information in its possession, except if and to the extent the Receiving Party is required by applicable law to retain any specific Confidential Information.
+
+5.5.&nbsp.
+Injunctive Remedies.
+ Subscriber and ACG acknowledge that a partyâs breach or threatened breach of its confidentiality obligations under the Agreement may cause irreparable harm and/or injury to the non-breaching party for which money damages would not be an adequate remedy.&nbsp.
+Therefore, in the event of such a breach or threatened breach of the confidentiality obligations of this Agreement, in addition to all other available remedies, the non-breaching party will be entitled to seek injunctive relief, without the requirement of posting a bond or any other security (to the extent permitted by applicable law).
+
+6.&nbsp.
+INTELLECTUAL PROPERTY
+
+
+6.1.&nbsp.
+Ownership of Services.&nbsp.
+ACG and its licensors own their respective rights in the Services, Subscription Content, and Third-Party Services, including all related Intellectual Property Rights therein.&nbsp.
+All rights in the Services, Subscription Content, and Third-Party Services that are not expressly granted to Subscriber by this Agreement are reserved by their respective owners.&nbsp.
+âIntellectual Property Rightsâ means all intellectual property and proprietary rights, whether registered or unregistered (and all renewals and extensions thereof), in and to all forms of intellectual property and/or proprietary materials, in any and all media now known or hereafter devised, including all works of authorship, content, audio-visual works, photographs, materials, inventions, marks, software, music compositions and sound recordings, mask works, data, business names, logos, processes, domain names, URLs, designs, âlook and feelâ of the ACG Site, trade secrets, source code, and moral rights (where applicable), together with all copyright, trademark, patent, and other rights therein.
+
+6.2.&nbsp.
+User Content.&nbsp.
+If Users submit any User Content to a publicly-available (by other users of the Services) sections of the Website, then: (a) such User Content will be deemed non-confidential and non-proprietary.
+(b) ACG will have the non-exclusive, royalty-free, sublicensable right to use, publish, reproduce, modify, perform, display, distribute, and otherwise exploit the User Content (in whole or in part), throughout the world and in any media now known or hereafter devised.
+and (c) ACG reserves the right to, at its sole discretion, remove, block, refuse to post, or take other action with respect to User Content as ACG deems appropriate, including where ACG believes that User Content in violation of this Agreement.
+
+6.3.&nbsp.
+Feedback.&nbsp.
+If the Subscriber Group provides ACG with any suggestions, comments, and/or feedback regarding the Services (collectively, âFeedbackâ), Subscriber, on behalf of the Subscriber Group, grants ACG a perpetual, irrevocable, royalty-free, and fully paid-up license to use and exploit all Feedback in connection with ACGâs business purposes, including the testing, development, maintenance, and improvement of the Services.
+
+7.&nbsp.
+INSURANCE
+
+At all times during the Subscription Term, ACG will carry such types and amounts of insurance as are customarily carried by providers of services similar to the Services.&nbsp.
+ACG will provide Subscriber with proof of such insurance coverage upon Subscriberâs request and will require ACGâs insurance providers to give Subscriber at least thirty (30) days notice of cancellation or termination of such insurance.
+
+8.&nbsp.
+REPRESENTATIONS, WARRANTIES, DISCLAIMERS
+
+
+8.1.&nbsp.
+By Both Parties.&nbsp.
+ACG and Subscriber each represent that: (a) it has full legal and corporate right and authority to enter into this Agreement and to perform all its obligation and grant all rights granted by it under this Agreement.
+(b) the individual entering into this Agreement on behalf of that party has full right and authority to do so and to bind the respective party to the terms of this Agreement.
+(c) it will comply with all laws and regulations applicable to that party in connection with the Services or the Agreement.
+and (d) its entry into and performance under this Agreement will not violate any third-party agreements or obligations to which it is bound.
+
+8.2.&nbsp.
+By ACG.&nbsp.
+ACG further represents and warrants that the Services will: (a) substantially conform to the specifications set forth in the Order Form and this Agreement.
+and (b) be performed diligently, with all reasonable skill and care by appropriately trained and experienced personnel, in a professional manner at least to industry standards.&nbsp.
+For any uncured breach by ACG of the foregoing warranties, Subscriberâs exclusive remedy will be to terminate this Agreement for cause, as provided for herein.
+
+8.3.&nbsp.
+By Subscriber.&nbsp.
+Subscriber further represents and warrants that Subscriber has full right and authority to determine the purpose and means of processing Personal Data of the Subscriber Group and to authorize ACG to process Personal Data of the Subscriber Group in accordance with this Agreement.  
+
+8.4.&nbsp.
+External Site Disclaimer.&nbsp.
+The ACG Site and certain features of the Services may provide links to external Internet sites.&nbsp.
+ACG will not be liable for the use, content, operation, Personal Data or other data or information processing of internet sites that link to the ACG site or which are linked-to from it.&nbsp.
+ACG does not represent that it endorses any external sites or the content thereon or that it believes the operation of any external site will be accurate, useful, or non-harmful.&nbsp.
+ACGâs DPA and Privacy Policy do not apply to any collection and processing of the Subscriber Groupâs Personal Data on or through such external sites.&nbsp.
+The Subscriber Group is responsible for taking precautions to protect themselves and their computer systems in connection with the use of external sites.
+
+8.5.&nbsp.
+Warranty Disclaimer.&nbsp.
+EXCEPT AS MAY BE EXPRESSLY PROVIDED FOR IN THIS AGREEMENT: (A) THE SERVICES AND SUBSCRIPTION CONTENT ARE PROVIDED ON AN âAS-ISâ AND âAS-AVAILABLEâ BASIS WITHOUT ANY WARRANTIES OF ANY KIND, AND ACG EXPRESSLY DISCLAIMS ANY ADDITIONAL EXPRESS WARRANTIES AND ALL IMPLIED WARRANTIES, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+AND (B) SUBSCRIBER ACKNOWLEDGES THAT ACG DOES NOT WARRANT THAT THE SERVICES WILL MEET SUBSCRIBERâS NEEDS, RESULT IN ANY SPECIFIC OUTCOME FOR SUBSCRIBER OR USERS, OR BE UNINTERRUPTED, UP-TO-DATE, TIMELY, SECURE, FREE FROM MALWARE, OR ERROR-FREE.&nbsp.
+CERTAIN JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES IN CERTAIN CIRCUMSTANCES, SO THE EXCLUSIONS SET FORTH ABOVE MAY NOT APPLY TO SUBSCRIBER.
+
+9.&nbsp.
+INDEMNIFICATION
+
+
+9.1.&nbsp.
+Indemnification by ACG.&nbsp.
+ACG will indemnify, defend, and hold harmless Subscriber and its parents, subsidiaries, and affiliates, and their respective officers, directors, shareholders, employees, and agents from and against any third-party claims, actions, suits, together with all liabilities, losses, damages, costs, and expenses (including reasonable attorneyâs fees) arising therefrom (collectively, âClaimsâ), arising from or related to: (a) allegations that use of the Services as permitted under this Agreement infringes on or violates a third partyâs Intellectual Property Rights or rights of privacy or publicity (the âIP Indemnificationâ).
+or (b) ACGâS violation of Data Laws or of its obligations hereunder with respect to Personal Data of the Subscriber Group.
+provided however, that ACGâS indemnity obligations will not apply if and to the extent a Claim is subject to Subscriberâs indemnification obligations hereunder. 
+
+9.2.&nbsp.
+Indemnification by Subscriber.&nbsp.
+Subscriber will indemnify, defend, and hold harmless ACG and its parents, subsidiaries, and affiliates and their respective officers, directors, shareholders, employees, and agents (collectively, the âACG Groupâ), from and against any third-party Claims arising from or related to Subscriberâs: (a) breach of any of the Usage Restrictions or Feature Terms.
+or (b) use of the Services in a manner not authorized by this Agreement.
+
+9.3.&nbsp.
+Indemnification Procedures.&nbsp.
+The party seeking indemnity or defense&nbsp.
+(âIndemnified Partyâ) will provide written notice to the party from which indemnity is sought (âIndemnifying
+Partyâ) of the existence of any Claim as soon as practicable after becoming aware of the Claim.
+provided, however, that the Indemnified Partyâs failure to give timely notice of such Claim will not relieve the Indemnifying Party of its indemnification obligations unless such failure actually prejudiced the Indemnifying Party.&nbsp.
+At the Indemnifying Partyâs sole expense, the Indemnifying Party will be entitled to assume and control the defense of the Claim and the Indemnified Party will reasonably cooperate with the Indemnifying Party in the defense of the Claim.&nbsp.
+The Indemnifying Party will have the right to settle such Claim at its sole discretion, provided that, without the Indemnified Partyâs prior written consent (not to be unreasonably withheld or delayed), the settlement is purely monetary, does not require the Indemnified Party to make a monetary payment, and provides an unconditional release of the Indemnified Party with respect to such Claim.
+
+9.4.&nbsp.
+Avoiding Infringement.&nbsp.
+If, due to a Claim of infringement, the Services (or any portion thereof) are held by a court or adjudicator of competent jurisdiction to be, or are believed by ACG to be, infringing on the Intellectual Property Rights of a third party, ACG may, at its option and expense: (a) replace or modify the Services to be non-infringing, provided that such modification or replacement contains substantially similar features and functionality.
+(b) obtain for Subscriber a license to continue using the Services.
+or (c) if neither of the foregoing is commercially practicable, terminate or suspend all or the affected portion of the Services and issue Subscriber a pro-rata refund of any Fees commensurate with the unused Services.
+
+10.&nbsp.
+LIMITATION OF LIABILITY
+
+
+10.1.&nbsp.
+Limitation of Liability Type.&nbsp.
+NEITHER SUBSCRIBER OR THE ACG GROUP&nbsp.
+WILL BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, LOST TIME, LOST DATA, LOST USE, OR DAMAGES TO GOODWILL, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, REGARDLESS OF WHETHER SUCH PARTY WAS&nbsp.
+ADVISED OF THE POSSIBILITY OF SUCH LOSSES OR DAMAGES OR SUCH LOSSES OR DAMAGES WERE OTHERWISE FORESEEABLE.
+
+10.2.&nbsp.
+Limitation of Liability Amount.&nbsp.
+THE MAXIMUM AGGREGATE LIABILITY OF SUBSCRIBER OR ACG GROUP, AS APPLICABLE, UNDER THIS AGREEMENT OR IN CONNECTION WITH THE SERVICES, REGARDLESS OF THE FORM OF ACTION, WILL NOT EXCEED THE AMOUNT PAID OR PAYABLE TO ACG, AS APPLICABLE, FOR THE SPECIFIC SERVICES GIVING RISE TO SUCH CLAIM DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE CLAIM.
+
+10.3.&nbsp.
+Acknowledgment and Exclusions.&nbsp.
+THE LIMITATIONS SET FORTH IN THIS SECTION WILL NOT APPLY TO CLAIMS OF FRAUD, WILLFUL MISCONDUCT, OR GROSS NEGLIGENCE OR TO SUBSCRIBERâS INDEMNIFICATION OBLIGATIONS, OR ACGâS IP INDEMNIFICATION OBLIGATIONS.&nbsp.
+IN ALL OTHER CASES, THE LIMITATIONS SET FORTH IN THIS SECTION WILL APPLY TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW AND REGARDLESS OF WHETHER ANY REMEDY FAILS ITS ESSENTIAL PURPOSE.&nbsp.
+CERTAIN JURISDICTIONS DO NOT PERMIT THE LIMITATION OF CERTAIN LIABILITIES, SO SOME OR ALL OF THE LIMITATIONS SET FORTH IN THIS SECTION MAY NOT APPLY TO SUBSCRIBER.
+
+11.&nbsp.
+SUSPENSION OF SERVICES
+
+
+11.1.&nbsp.
+Risks and Updates.&nbsp.
+ACG reserves the right to suspend the Services, without notice, for a reasonable period of time as may be necessary for ACG to resolve any actual or threatened risks that, at ACGâs sole discretion, pose a credible risk of harm to the Services or the security or integrity thereof.&nbsp.
+ACG will use commercially reasonable efforts to limit the suspension to address the risk at issue.
+
+11.2.&nbsp.
+User Accounts.&nbsp.
+ACG may immediately suspend, disable, or deny access to the Services by any individual User who violates any of the Usage Restrictions.  
+
+11.3.&nbsp.
+Non-Payment.&nbsp.
+If any Fees are not paid when due, ACG may suspend its provision of the Services unless and until all Fees and other sums due are paid in full.
+
+12.&nbsp.
+TERMINATION
+
+
+12.1.&nbsp.
+Termination for Cause.&nbsp.
+Either party may terminate this Agreement for cause upon written notice to the other party if: (a) the other party materially breaches any provision of this Agreement and that breach is not cured within thirty (30) days of the breaching partyâs receipt of written notice thereof, provided that the non-breaching party may terminate this Agreement immediately and without a cure period if the breach is not reasonably capable of cure.
+or (b) the other party ceases its business operations or becomes subject to bankruptcy, insolvency, or similar proceeding under applicable law that is not dismissed within 90 days.
+
+12.2.&nbsp.
+Termination for Convenience.&nbsp.
+Subscriber or ACG may terminate this Agreement for convenience and without cause, upon sixty (60) days prior written notice to the other party.
+
+12.3.&nbsp.
+Effect of Termination.&nbsp.
+As of the effective date of expiration or termination of this Agreement:
+(a)&nbsp.
+The Subscriber Groupâs right to use the Services will terminate and its access to the Services will be disabled;
+(b)&nbsp.
+If ACG terminates this Agreement for cause or Subscriber terminates for convenience, then Subscriber (i) will not be entitled to a refund of Fees paid and (ii) will owe and will not be relieved of any current or future payment obligations for unpaid Fees applicable to the Subscription Term (including any Fees owed for the current or upcoming year of a multi-year Subscription Term), all of which Fees will be due and payable immediately.
+and
+(c)&nbsp.
+If Subscriber terminates for cause or ACG terminates for convenience, then, within 30 days of the effective date of termination, ACG will refund Subscriber the pro-rata amount of any prepaid Fees applicable to the remainder of the current Subscription Term.
+
+13.
+SUBSCRIPTION RENEWALS
+
+
+13.1.&nbsp.
+Online Ordering.
+Automatic Renewals.&nbsp.
+For subscriptions purchased online through the ACG Site checkout, once the Subscription Term expires, it will automatically renew for successive terms equal in length to the immediately-preceding Subscription Term, unless Subscriber disables the âauto-renewâ setting within Subscriberâs Billing Profile on the ACG Site at least 60 days prior to the end of the then-current Subscription Term (the âRenewal Notice Dateâ).&nbsp.
+In the event the price of the Services provided to an automatically-renewing Subscriber will increase at renewal, ACG will provide Subscriber with written notice of the price increase at least 30 days prior to the Renewal Notice Date.&nbsp.
+Any price increase will not take effect until Subscriberâs upcoming renewal Subscription Term.
+
+13.2.&nbsp.
+Renewal MSA.&nbsp.
+If Subscriber renews its subscription to the Services, the renewed subscription will be governed by the MSA in effect as of the Renewal Notice Date (for automatically renewed Subscriptions) or the date Subscriber executes a new Order Form for the renewal Subscription Term (for non-automatically renewed subscriptions), as applicable, unless otherwise agreed upon by the parties.
+
+14.&nbsp.
+GOVERNING LAW AND JURISDICTION
+
+This Agreement will be governed by the laws of the state of Texas, without regard to conflict of law principles.&nbsp.
+Any dispute arising from or related to this Agreement will be adjudicated exclusively in the federal or state courts located in Travis County, Texas, and each party waives any objections to the jurisdiction or venue of such courts.&nbsp.
+The United Nations Convention for the International Sale of Goods does not apply to this Agreement.
+
+15.&nbsp.
+MISCELLANEOUS
+
+
+15.1.&nbsp.
+Modifications During Subscription Term.&nbsp.
+As between ACG and Subscriber, any modification to this MSA that takes effect during Subscriberâs then-current Subscription Term requires the mutual consent of the parties. 
+
+15.2.&nbsp.
+Cumulative Remedies and Waiver.&nbsp.
+Except as expressly stated in this Agreement, all rights and remedies available under this Agreement are cumulative and no single right or remedy will be exclusive of any others.&nbsp.
+The waiver or failure by a party to exercise any right or remedy provided for under this Agreement will not be deemed a waiver by that party of any further right or remedy under this Agreement.
+
+15.2.&nbsp.
+Survival and Severability.&nbsp.
+All terms of this Agreement that expressly or by their nature are to continue in effect after the expiration or termination of this Agreement will survive expiration or termination and will continue in accordance with their terms.&nbsp.
+If any term of this Agreement is determined by an adjudicator or court having jurisdiction to be invalid or unenforceable, that term will be severed from this Agreement without affecting the validity or enforceability of the remaining terms. 
+
+15.4.&nbsp.
+Force Majeure.&nbsp.
+Neither party will be in breach of this Agreement by reason of its failure to perform its obligations as a result of, whether directly or indirectly, a cause beyond that partyâs reasonable control, including local law or regulation, acts of God, Internet failures or delays, war or terrorism, civil disturbance or labor disputes, act of government, or other force majeure.
+
+15.5.&nbsp.
+Assignment.&nbsp.
+ACG may assign its rights or obligations under this Agreement at its discretion.&nbsp.
+Subscriber may not assign this Agreement or any of its rights or obligations hereunder, without ACGâs prior written consent, except (a) in connection with a merger, acquisition, or sale of all or substantially all of Subscriberâs assets or (b) to an affiliate of Subscriber.&nbsp.
+Any assignment in violation of this Section will be null and void.&nbsp.
+Subject to the foregoing, this Agreement will be binding upon and inure to the benefit of the partiesâ respective successors and permitted assigns.
+
+15.6.&nbsp.
+Independent Contractors.&nbsp.
+ACG and Subscriber are acting solely as independent contractors of one another with respect to this Agreement and the Services.&nbsp.
+Nothing in this Agreement constitutes or will be construed as creating a partnership, joint venture, agency, or employer-employee relationship between the parties.
+
+15.7.&nbsp.
+Taxes.&nbsp.
+Taxes may vary based on Subscriberâs jurisdiction and on the Services provided.&nbsp.
+All Fees payable by Subscriber are exclusive of applicable taxes and duties of any kind.&nbsp.
+If ACG is legally obligated or authorized to collect from Subscriber any taxes or make any deduction or withholding from amounts paid to ACG in connection with the Services, ACG may charge and Subscriber will pay the amount of the applicable taxes, deduction, or withholding at rates in accordance with applicable law.&nbsp.
+All payments made by Subscriber under this Agreement will be made without setoff or counterclaim and will be free and clear of any deduction or withholding, except as may be required by law. 
+
+15.8.&nbsp.
+Notices.&nbsp.
+Any notices required to be given in writing under this Agreement will be sent by Email, standard mail, internationally recognized courier, or other commercially reasonable manner.&nbsp.
+Notices will be sent (a) if to Subscriber, to the applicable contact listed on Subscriberâs most recent Order Form or to Subscriberâs Admin, and (b) if to ACG, to support@acloud.guru or to ACGâs physical address listed on in Subscriberâs most recent Order Form or on the ACG Site.&nbsp.
+Email notice will be deemed received on the date sent, if sent before 5pm recipientâs time, and on the next business day, if sent after 5pm recipientâs time.&nbsp.
+A party may change its address for receipt of notices by giving prior notice to the other party of such change in the manner provided for by this Section.
+
+15.9.&nbsp.
+References to âIncluding.â&nbsp.
+Unless this MSA expressly provides otherwise, use of the term âincludingâ within this MSA is deemed to mean âincluding, but not limited to.â
+
+15.10.&nbsp.
+No Third-Party Beneficiaries.  The Agreement is solely for the benefit of the parties to the Agreement and their permitted successors and assigns.&nbsp.
+Nothing in the Agreement, express or implied, confers any third-party beneficiary rights or remedies to any person or entity by reason of the Agreement.
+
+15.11.&nbsp.
+Entire Agreement.&nbsp.
+This Agreement (including all amendments, Order Forms, other agreements, and/or terms incorporated therein) contains the entire agreement and understanding between the parties relating to the subject matter of this Agreement and supersedes all prior agreements and understandings between the parties relating to the subject matter of this Agreement.
+ 
+
+
+ 
+
+
+
+
+
+
+
+Learning
+For Business
+For Individuals
+Hands-on Labs
+
+
+Resources
+Blog
+Webinars
+Case Studies
+eBooks
+Forum
+
+
+About Us
+Contact Us
+Careers
+ACG News
+Support
+ facebook twitter linkedin instagram youtube RSS Â© 2021 Serverless Heroes, Inc.
+Code of Conduct
+Privacy Policy
+Terms of Use
+

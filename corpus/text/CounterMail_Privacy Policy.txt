@@ -1,0 +1,192 @@
+
+         Home About us Services Privacy Register Support Tools Contact Login Privacy Policy 
+Here are the most important things we do to keep your privacy and security:
+
+
+No cookies, to minimize traces in web browser
+No hard drives on our web servers, to protect against hard drive leakage and to protect against persistant backdoor/trojans
+Anonymous email header, no personal IP-addresses inside the header
+No IP-logging, our server does not log IP-addresses
+We only use strong open source algorithms
+Personal data or individual account data is never shared or sold
+Email data (body &amp.
+attachments) are always stored in encrypted form
+We do not collect any data from our users, the only time we store some data is the first 14 days of your payment date, after 14 days, we remove most sensitive information and only store the data that is needed for the accounting, such as the product you bought, the amount, the payment method, the date and the country.
+So after 14 days:no Name, no Address, no State, no Phone, no Card numbers and no Secondary email
+
+
+
+
+Please read our Terms of Use here: https://countermail.com/?p=terms
+You must read and agree to our Terms of Use later anyway, when you register the email account.
+
+
+Trusted applications
+We only use certified protocols and applications.
+OpenPGP is one of the most secure encryption protocols in the world.
+
+
+
+
+
+
+
+ Last update Mar 15, 2021 (ChangeLog)
+News
+2021-03-04
+Improved the Secure Forms,Read more
+2021-02-14
+Increased security for fake domain/links and some other things.
+2021-02-08
+Updated our Secure Forms feature.
+Read more
+2020-12-02
+Updated our XMPP chat server, and some other things.
+2020-11-23
+Added a domain spell check
+2020-11-01
+Registration is open, with invite code requirement
+2020-10-29
+Corrected some links in our own Changelog
+2020-10-28
+Changed our Terms of Use
+2020-10-06
+The registration will be changed, to invitation only
+2020-08-07
+Blocked a long attack
+2020-02-28
+Information about another provider
+2020-02-15
+New info about session problems.
+2020-01-07
+Updated card payments.
+2019-11-03
+Updated our Terms of Use.
+2019-04-26
+Changed Trial accounts restrictions, read more.
+2019-01-23
+New certificate.
+2018-09-25
+Better prices!
+2017-09-05
+New payment URL
+2017-08-30
+New registration page
+2017-05-22
+Updated FireFoxPortable for Windows
+2017-04-14
+Windows users, be aware.
+2017-02-19
+Added new credit card payment (Stripe)
+2017-02-10
+Changed login page to detect Java problems
+2015-08-06
+Security upgrade on servers.
+15 minutes downtime.
+2015-03-02
+Added VCARD-Export and VCARD-Import for Contacts
+2015-02-08
+Added PGP-packet analyzer on our Tools-page
+2015-01-08
+New SSL/TLS certificate, fingerprints.
+2014-12-01
+More storage space for members with 12 or 24 months subscriptions.Read more
+2014-11-28
+Updated our Tools-page.Read more
+2014-11-24
+We are working to open up the webmail for our Two Factor Auth-mobile app.
+We will send an email to our users when it's ready
+2014-09-17
+Improved spam blocking
+2014-02-17
+Added FAQ: How do I create good passwords?
+2014-01-30
+Changed spam flag to minimize false Spam classifications.
+Read more
+2014-01-27
+Updated CounterMailPortable.
+Read more
+2013-12-27
+Bugfixes and Updated Offline Login and more.
+Read more
+2013-12-19
+Updated our Tools page.
+Read more
+2013-12-02
+Added Quota warnings.
+Read more
+2013-10-22
+Changed new public keysize to 4096 bits.
+2013-07-23
+New USB routine.
+Read more
+2013-05-01
+Changed Trial account period to 7 days
+2013-03-24
+Opened up our XMPP chat server.
+2013-03-17
+Added new Support-system and a new FAQ
+2013-02-01
+Updated Java info page
+2013-01-12
+Added MacOS support for our USB-key
+2012-12-20
+Added Countermail Portable for Windows
+2012-12-09
+Added Safebox feature
+2012-08-28
+Scheduled Maintenance - August 30, 13:00 GMT.
+Servers will be down for approx.
+2-3 hours.
+2012-05-31
+Added subfolder creation.
+2012-03-22
+Applet and Certificate update
+2012-03-10
+Added Wire transfer payment
+2012-01-01
+Third party IMAP-clients need to clean their cache.
+Read here.
+2011-10-25
+Added Domain Panel for all domain administrators
+2011-08-24
+Added quick search
+2011-08-02
+Added default Compose-alias
+2011-07-17
+Added new session option for TOR/VPN/Proxy-surfing.
+Settings/Personal info - Lock IP-address
+2011-06-08
+Added iPhone information
+2011-05-10
+Added message filters
+2011-04-30
+Updated alias function
+2011-02-15
+Added new white theme
+2011-01-07
+Added email notification
+2010-12-06
+Added more server-side SPAM protection
+2010-12-01
+New Compose window
+2010-11-20
+Added instructions for Android phones
+2010-10-17
+Added new feature:Secure Forms
+2010-05-24
+Opened up for all !
+2009-11-21
+Open website for Beta-testers
+2009-05-19
+Installed our primary login and database servers
+2009-05-16
+Comodo Usertrust certified our company for Java applet code signing
+2008-05-11
+Domain name registration.
+Official start of the project.
+
+ Login About us Services Privacy Policy Terms Support Contact us    Copyright Â© 2017 CounterMail.com.
+All rights reserved.
+
+      

@@ -1,0 +1,272 @@
+
+         Terms of Service Services.
+Subject to the terms of this Agreement, "Evolucix, LLC" agrees to provide services outlined in the order page, and any other services that may be ordered throughout the lifetime of the account.
+1.
+SLA (Service Level Agreement). The below stated will be functioning all of the time except in maintenance windows, If the below stated are not functioning all of the time then you are subject to claim your SLA credits.
+1a.
+SLA Credits: Service level agreement credits can be redeemed by e-mailing or opening an ticket with our billing department billing[at]evolucix.com , If your service is not functioning at all times (except in maintenance windows), Then you are subject to redeem these credits, The credit payout are as follows: You will receive an 10% discount on your next months bill for every 1 hour your service is offline all the way up to 100% (ones credits may not exceed 100% in any given month).
+In order to receive SLA credits you must provide Evolucix with an occurrence date of the alleged outage and must be submitted properly within five days of the occurrence to the correct department.
+If your service is down due to an outage that is isolated solely to your service and is not company wide (EG: Client caused outage) then you are ineligible to receive SLA credits.
+1b.
+Network Uptime: The network (internet connection) that runs your service will be online All of the time (except in maintenance windows) if your network is not functioning all of the time you are subject to SLA credits which can be redeemed at our billing department.
+1c.
+Hardware: Your hardware will be functioning all of the time (except in maintenance windows), If your hardware is not functioning as stated you are subject to hardware credits which can be redeemed at our billing department.
+(Hardware failures are ineligible to receive Hardware credits).
+1d.
+Hardware Replacement: In the event that any of your hardware fails it will be replaced free of charge as per this agreement.
+1e.
+Power: The power that runs your service will be functioning all of the time (except in maintenance windows), If your power is not functioning as stated you are subject to power credits which can be redeemed at our billing department.
+1f.
+Money Back Guarantee. Evolucix offers a (7) day money back guarantee.
+No questions asked.
+If you order a service you have up to (7) days to request a refund, Anything past (7) days will be a prorated refund from the date the service was initially signed up for.
+Dedicated Servers do not apply, and are not applicable for a refund.
+Fees collected for third party control panels such as cPanel and DirectAdmin are non-refundable, and therefore will be deducted from the total refund.
+2.
+Term.
+The initial service term of the Agreement shall begin on the date that services ordered by the customer are setup.
+Evolucix will generate an e-mail message to the Customer announcing the activation of the Customer's account (the Service Commencement Date).
+Every month, fifteen (15) days before the renewal date for each service, the Customer will receive a new invoice automatically for renewal of the service in question.
+To cancel service, the customer must place a cancellation request.
+This request MUST be received before the invoice is generated for the service to be canceled.
+Upon receipt of this message, the service will be canceled, and all data specific for that service removed on the service renewal date.
+The Initial Term and any Renewal date may be referred to collectively in this Agreement as the Term.
+3.
+Payments.
+[NEW AS OF 09/12/2012] - The Customer is responsible for cancelling Paypal Subscriptions if they wish to cancel the service or not pay the invoice.
+Evolucix is not responsible if the Customer makes excess payments.
+The Customer must make payments for Dedicated Servers 2 days prior to the end of the billing cycle.
+(a) Fees.
+Fees are payable in advance on the first day of each billing cycle.
+The Customer's billing cycle shall be monthly, quarterly, semi-annually or annually as indicated on the Order, beginning on the Service Commencement Date.
+Evolucix requires payment for the first billing cycle before beginning service.
+If the Order provides for credit/debit card billing, the Customer authorizes Evolucix to bill the displayed amount, in United States dollars to the credit/debit card on, or after the first day of each successive billing cycle during the Term of this Agreement.
+otherwise Evolucix will invoice the Customer via electronic mail to the Primary Customer Contact listed on the Order.
+(b) Early Termination.
+The customer acknowledges that the invoice for services is based on the Customer's order.
+In the event that Evolucix terminates the Agreement for the Customer's breach of the Agreement in accordance with Section 9 (Termination), the unpaid fees for each billing cycle remaining in the Initial Term or then current Renewal Term, as applicable, are due on the business day following termination of the Agreement.
+No refunds for unused service will be returned on accounts terminated for breach of agreement.
+All Payments must be made in United States dollars.
+The Customer is responsible for providing Evolucix with changes to billing information (such as credit card expiration, change in billing address) at its option, Evolucix may accrue charges to be made to a credit/debit card until such charges exceed $10.00.
+The customer will be sent an electronic mail to the Primary, and Secondary Customer Contacts if the payment is late.
+Evolucix may suspend the service without notice if payment for the service is overdue.
+Late accounts are sent two notices.
+A notice will be dispatched to the customer one day after the invoice is due to remind the customer of the invoice.
+A second notice will be dispatched two days after the invoice is due and the service will be suspended, and a five dollar ($5.00) late fee will be invoiced, and will have to be paid before account reinstatement.
+After three days the account will be terminated.
+Disputes, or charge-backs will result in immediate suspension, with a Two hundred and Fifty dollar Research fee ($250.00) billed to the client, and immediately due.
+All billing disputes should be handled in the client system, under the business office queue.
+Billing errors will be promptly corrected with a possible compensation offered to the client.
+If the account is not paid in full after seven (7) days, the invoice may be forwarded to collections with a reasonable fee to cover collection agency fees, attorney fees, and court costs.
+Threats of disputes or charge-backs will result in immediate suspension.
+Please contact the business office for any billing related issues.
+Evolucix reserves the right to take full possession and ownership of domains of charge-backed accounts, and sell these domains to attempt to recover losses.
+Bandwidth overages will be billed at Twenty Five Cents ($0.25) per gigabyte.
+4.
+Law/AUP.
+The Customer agrees to use the service in compliance with applicable law and Evolucix's Acceptable Use Policy which is hereby incorporated by reference in this Agreement.
+The Customer agrees that Evolucix may, in its reasonable commercial judgment consistent with industry standards, amend the AUP from time to time to further detail or describe reasonable restrictions and conditions on the Customer's use of the Services.
+Amendments to the AUP are effective immediately.
+Evolucix may, or may not notify the Customer of an AUP amendment.
+The Customer agrees to cooperate with Evolucix's reasonable investigation of any suspected violation of the AUP.
+In the event of a dispute between Evolucix and the Customer regarding the interpretation of the AUP, Evolucix's commercially reasonable interpretation of the AUP shall govern.
+5.
+Customer Information. The Customer represents and warrants to Evolucix that the information he, she, or it has provided, and will provide to Evolucix for purposes of establishing and maintaining the service is accurate.
+Evolucix may rely on the instructions of the person listed as the Primary Customer Contact on the Order with regard to the Customer's account until the Customer has provided a written notice changing the Primary Customer Contract.
+6.
+Indemnification. The Customer agrees to indemnify and hold harmless Evolucix, Evolucix's affiliates, and each of their respective officers, directors, agents, and employees from and against any and all claims, demands, liabilities, obligations, losses, damages, penalties, fines, punitive damages, amounts in interest, expenses and disbursements of any kind and nature whatsoever (including reasonable attorneys fees) brought by a third party under any theory of legal liability arising out of or related to the actual or alleged use of the Customer's services in violation of applicable law or the AUP by the Customer or any person using the Customer's log on information, regardless of whether such person has been authorized to use the services by the Customer.
+7.
+Disclaimer of Warranties.
+Evolucix DOES NOT WARRANT OR REPRESENT THAT THE SERVICES WILL BE UNINTERRUPTED, ERROR-FREE, OR COMPLETELY SECURE.
+TO THE EXTENT PERMITTED BY APPLICABLE LAW Evolucix DISCLAIMS ANY AND ALL WARRANTIES INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON INFRINGEMENT.
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, ALL SERVICES ARE PROVIDED ON AN AS IS BASIS.
+8.
+Limitation of Damages. NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY LOST PROFITS, OR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE LOSS OR DAMAGE OF ANY KIND, OR FOR DAMAGES THAT COULD HAVE BEEN AVOIDED BY THE USE OF REASONABLE DILIGENCE, ARISING IN CONNECTION WITH THE AGREEMENT, EVEN IF THE PARTY HAS BEEN ADVISED OR SHOULD BE AWARE OF THE POSSIBILITY OF SUCH DAMAGES.
+NOTWITHSTANDING ANYTHING ELSE IN THE AGREEMENT TO THE CONTRARY, THE MAXIMUM AGGREGATE LIABILITY OF Evolucix AND ANY OF ITS EMPLOYEES, AGENTS OR AFFILIATES, UNDER ANY THEORY OF LAW (INCLUDING BREACH OF CONTRACT, TORT, STRICT LIABILITY, AND INFRINGEMENT) SHALL BE A PAYMENT OF MONEY NOT TO EXCEED THE AMOUNT PAYABLE BY THE CUSTOMER FOR THREE MONTHS OF SERVICE.
+9.
+Suspension/Termination. (a) Suspension of Service.
+The Customer agrees that Evolucix may suspend services to Customer without notice and without liability if: (i) Evolucix reasonably believes that the services are being used in violation of the AUP.
+(ii) the Customer fails to cooperate with any reasonable investigation of any suspected violation of the AUP.
+(iii) Evolucix reasonably believes that the suspension of service is necessary to protect its network or its other customers, or (iv) as requested by a law enforcement or regulatory agency or (v) for the protection of its employees or agents if customer threatens or otherwise makes an attempt to force Evolucix or its agents to perform some action notwithstanding upon this agreement.
+Customer shall pay Evolucix's reasonable reinstatement fee if service is re-instituted following a suspension of service under this subsection.
+If Article five is enacted the customer may also be reported to law enforcement personnel as deemed necessary by Evolucix.
+(b) Termination.
+The Agreement may be terminated by Evolucix prior to the expiration of the Initial Term or any Renewal Term without further notice and without liability as follows: (i) upon three (3) days notice if the Customer is overdue on the payment of any amount due under the Agreement.
+(ii) the Customer materially violates any other provision of the Agreement, including the AUP, and fails to cure the violation within the set time frame on the policy enforcement notice from Evolucix describing the violation in reasonable detail.
+(iii) upon one (1) days notice if the Customer violates Section 5 (Customer Information) of this Agreement.
+Evolucix also reserves the right to terminate the customer with no reason.
+This is only used in extreme cases.
+10.
+Requests for Customer Information. The Customer agrees that Evolucix may, without notice to The Customer, (i) report to the appropriate authorities any conduct by the Customer or any of the Customer's customers or end users that Evolucix believes violates applicable law, and (ii) provide any information that it has about the Customer or any of its customers or end users in response to a formal or informal request from a law enforcement or regulatory agency or in response to a formal request in a civil action that on its face meets the requirements for such a request.
+11.
+Back Up Copy. The Customer agrees to maintain a current copy of all content hosted by Evolucix notwithstanding any agreement by Evolucix to provide back up services.
+Evolucix will charge a flat fee of $10.00 for each account backup retrieved off the Network Attached Storage drive.
+This will be free upon server failures.
+There is no charge for backups off the second hard drive if applicable.
+Virtual servers and Webhosting/Reseller accounts are backed up nightly by default.
+There is no guarantee that the backups given will be in-tact and usable.
+12.
+Changes to Evolucix's Network.
+Upgrades and other changes in Evolucix's network, including, but not limited to changes in its software, hardware, and service providers, may affect the display or operation of the Customer's hosted content and/or applications.
+Evolucix reserves the right to change its network in its commercially reasonable discretion, and Evolucix shall not be liable for any resulting harm to the Customer.
+13.
+Notices. Notices to Evolucix under the Agreement shall be given via support ticket.
+Notices to the Customer shall be given via electronic mail to the individual listed as the Primary Customer Contact on file.
+Notices are deemed received on the day transmitted, or if that day is not a business day, on the first business day following the day delivered.
+The Customer may change his, her or its notice address by a notice given in accordance with this Section.
+14.
+Force Majeure. Evolucix shall not be in default of any obligation under the Agreement if the failure to perform the obligation is due to any event beyond Evolucix's control, including, without limitation, significant failure of a portion of the power grid, significant failure of the Internet, natural disaster, war, riot, insurrection, epidemic, strikes or other organized labor action, acts of god, terrorist activity, or other events of a magnitude or type for which precautions are not generally taken in the industry.
+15.
+Governing Law/Disputes.
+The Agreement shall be governed by the laws of the Province of Ontario, exclusive of its choice of law principles, and the laws of Canada, as applicable.
+Financial issues are governed by the laws of the United States and the State of Oregon or wherever else company financial standing exists.
+The Agreement shall not be governed by the United Nations Convention on the International Sale of Goods.
+EXCLUSIVE VENUE FOR ALL DISPUTES ARISING OUT OF OR RELATING TO THE AGREEMENT SHALL BE SELECTED BY EVOLUCIX, AND EACH PARTY AGREES NOT TO DISPUTE SUCH PERSONAL JURISDICTION AND WAIVES ALL OBJECTIONS THERETO.
+16.
+Miscellaneous.
+Each party acknowledges and agrees that the other party retains exclusive ownership and rights in its trademarks, service marks, trade secrets, inventions, copyrights, and other intellectual property.
+Neither party may use the other party's name or trade mark without the other party's prior written consent.
+The parties intend for their relationship to be that of independent contractors and not a partnership, joint venture, or employer/employee.
+Neither party will represent itself to be agent of the other.
+Each party acknowledges that it has no power or authority to bind the other on any agreement and that it will not represent to any person that it has such power or authority.
+This Agreement may be amended only by a formal written agreement signed by both parties.
+The terms on the Customer's purchase order or other business forms are not binding on Evolucix unless they are expressly incorporated into a formal written agreement signed by both parties.
+A party's failure or delay in enforcing any provision of the Agreement will not be deemed a waiver of that party's rights with respect to that provision or any other provision of the Agreement.
+A party's waiver of any of its right under the Agreement is not a waiver of any of its other rights with respect to a prior, contemporaneous or future occurrence, whether similar in nature or not.
+The captions in the Agreement are not part of the Agreement, but are for the convenience of the parties.
+The following provisions will survive expiration or termination of the Agreement: Fees, indemnity obligations, provisions limiting liability and disclaiming warranties, provisions regarding ownership of intellectual property, these miscellaneous provisions, and other provisions that by their nature are intended to survive termination of the Agreement.
+There are no third party beneficiaries to the Agreement.
+Neither insurers nor the customers of resellers are third party beneficiaries to the Agreement.
+The Customer may not transfer the Agreement without Evolucix's prior written consent.
+Evolucix may assign the Agreement in whole or in part.
+17.
+Privacy Policy. When you sign up for our service, we will ask you to provide contact information such as your name, address, telephone numbers, e-mail addresses, and payment information such as credit card number and expiration date.
+This information will be stored in a protected database.
+If you contact us for customer support, we may ask you certain questions about your computer setup to better assist you.
+When you visit our Web site we will capture your IP Address, time of and duration of visit, and time and duration of the pages on our Web site that you view.
+We may tie this information to the personally identifiable information we have about you.
+Information we have on file will be used primarily for our services.
+We will never transfer or sell your information for inclusion on third party e-mail or other marketing lists.
+18.
+Service for Minors. Users under the age of 18 are not allowed to sign up for our service.
+By agreeing to the Terms of Service, you agree that you are over the age of 18.
+Users under 18 may get a parent or guardian to sign up for them.
+By agreeing to the Terms of Service, you agree that you are over 18, and are able to legally enter a contract.
+Users under the age of 18 may be allowed to be the primary contact on an account providing that a parent or guardian is on the account and is the responsible party for said account.
+19.
+Sever ability. A portion of this agreement deemed to be unenforceable, or illegal, will be reformed to the minimum extent necessary in order for this Agreement to remain in effect in accordance with its terms as modified by such reformation.
+20.
+Domain Names. Clients who register domain names through Evolucix agree to the domain terms of service.
+These rules follow ICANN regulations and these terms.
+For clients who are registering or transferring a domain name, you must also agree to the Domain Name Registration Agreement below.
+Domains shall be renewed at the same price as new registrations.
+The current pricing is displayed on our website.
+Domain renewal reminders will be sent in advance of expiration via email to the address stored in your client area.
+Should an expired domain enter the redemption period, the cost of restoring the domain shall be no more than $30.
+Please note the following ICANN documents and policies - Registrant Education Materials and Registrants' Benefits and Responsibilities.
+There are several reasons for these prohibitions on free services.
+The reasons include, but are not necessarily limited to, the following: a.
+First, free services generally do not require any reliable means of identifying the person who registers for them.
+As such, it can be practically impossible to track down persons who abuse the free services. b.
+Our customers, including (resellers) are all paying for prompt, reliable service and we have built a solid reputation for delivering excellent service to them.
+We cannot risk having unidentified persons damage our reputation. c.
+Users of free services are notorious for registering for free accounts and immediately spamming or otherwise consuming very large amounts of system resources and bandwidth before their accounts are shut down.
+Such abusers often register for successive or multiple accounts and cause many problems for the servers and network. d.
+Spammers, operators of phishing and pharming scams, distributors of spy ware, viruses, Trojan horses, worms, and other malware, operators of illegal Warez sites, operators of illegal or unauthorized file-swapping or archive sites, and hackers frequently abuse free online services.
+Allowing free services would expose our servers to severe abuse and could harm US/ all of our customers, and all the customers of our resellers. e.
+Free services lead to various forms of abuses that may violate criminal laws or even foster terrorist activities.
+Because such abuses violate applicable laws as well as our policies, we must prohibit them. If the Customer violates this prohibition on free services, we may suspend their account immediately, with or without notice, as we in our sole discretion deem necessary to address the situation. Additional Information.
+Evolucix reserves the right to request additional identification on any order.
+The request for additional identification will be sent to the customer before services are established This Agreement supersedes and replaces any prior understanding or communication, written or oral.
+This Agreement may be modified at any time with or without notice of Evolucix.
+22.
+Acceptable Use Policy.
+The acceptable use policy is contained beyond this point.
+1.
+Offensive Content. You may not publish or transmit via any service provided by Evolucix any content that we reasonably believe: constitutes child pornography; constitutes pornography of any nature; is excessively violent, incites violence, threatens violence, or contains harassing content or hate speech; is unfair or deceptive under the consumer protection laws of any jurisdiction, including chain letters and pyramid schemes; is defamatory or violates a persons privacy; creates a risk to a person's safety or health, creates a risk to public safety or health, compromises national security, or interferes with a investigation by law enforcement; improperly exposes trade secrets or other confidential or proprietary information of another person; is intended to assist others in defeating technical copyright protections; clearly infringes on another person's trade or service mark, patent, or other property right; promotes illegal drugs, violates export control laws, relates to illegal gambling, or illegal arms trafficking; is otherwise illegal or solicits conduct that is illegal under laws applicable to you, to us or our data provider or is otherwise malicious, fraudulent, or may result in retaliation against us or our data provider by offended viewers.
+2.
+Security. (a).
+You must take reasonable security precautions.
+You must protect the confidentiality of your password, and you should change your password periodically.
+(b).
+Hosting any type of phishing website is prohibited.
+Phishing website is defined as any website that collects personal information without the knowledge of other persons.
+Any account hosting a Phishing website will be terminated without any notice, and referred to the FBI with all logs for investigation.
+(c).
+Support Abuse.
+Any abuse of our support resources will result in a One Hundred ($100) dollar fee, and will result in account suspension.
+Please treat our staff in a respectful manner.
+This includes using foul language towards our staff members, bumping tickets, submitting more than one ticket for the same problem, or anything that may be deemed abusive by staff members.
+(d).
+Shared/Reseller services are provided off shared servers.
+The server may not be excessively used by one user.
+Any account using excessive resources may be temporarily suspended with(out) notification.
+You may NOT use our service to run resource intensive scripts.
+Accounts constantly using excessive amounts of resources will be asked to upgrade to a dedicated server.
+(e).
+It is prohibited to host any form of Virus, Trojan, Key logger or worm on our service, even if it is to be used for educational or experimental services.
+Any account found with Virus, Trojans or Key loggers will be terminated immediately.
+(f).
+Any websites providing Warez / Serials are not welcome on our service due to the fact that these are often used for illegal purposes, Sites hosting Warez or Serials will be suspended upon discovery, and forced to remove content in question.
+(g).
+Any attempts to undermine or cause harm to a server owned by Evolucix, or subscriber of our service providers is strictly prohibited.
+This includes, but is not limited to: Logging into a server or account that you don't have authorization to access.
+Taking services, or trying to access data that is not intended for your use.
+Attempting to probe, scan or test any vulnerability of any system, subsystem or network without authorization.
+Hacking, tampering, modifying, or corrupting, breaching security or authentication measures without proper authorization.
+Interfering, intercepting or modifying any system, data or information.
+Interfering with service supplied to any user, host or network.
+This includes without limitation, by overloading, flooding, or crashing any system.
+3.
+Bulk Commercial E-Mail. You must obtain our business offices advance approval for any bulk commercial e-mail, which will not be given unless you are able to demonstrate all of the following to our reasonable satisfaction: Your intended recipients have given their consent to receive e-mail via some affirmative means, such as an opt-in procedure.
+Your procedures for soliciting consent include reasonable means to ensure that the person giving consent is the owner of the e-mail address for which the consent is given.
+You retain evidence of the recipient's consent in a form that may be promptly produced on request, and you honor recipient's and Evolucix's requests to produce consent evidence within 72 hours of receipt of the request.
+The body of the e-mail must describe how the e-mail address was obtained.
+You have procedures in place that allow a recipient to easily revoke their consent, such as a link in the body of the e-mail, or instructions to reply with the word Remove in the subject line.
+Revocations of consent are honored within 72 hours, and you notify recipients that their revocation of their consent will be honored in 72 hours.
+You must post an abuse[at]yourdomain.com e-mail address on the first page of any Web site associated with the e-mail, and you must promptly respond to messages sent to that address.
+You must have a Privacy Policy posted for each domain associated with the mailing.
+You have the means to track anonymous complaints.
+You may not obscure the source of your e-mail in any manner.
+Your e-mail must include the recipients e-mail address in the body of the message or in the TO line of the e-mail.
+and you must comply with the CAN SPAM Act and other applicable laws.
+These policies apply to messages sent using your service, or to messages sent from any network by you or any person on your behalf that directly or indirectly refer the recipient to a site hosted via your service.
+In addition, you may not use a third party e-mail service that does not practice similar procedures for all its customers.
+Evolucix may test and otherwise monitor your compliance with its requirements, including requesting opt-in information from a random sample of your list at any time.
+4.
+Unsolicited E-Mail. You may not send any unsolicited e-mail, either in bulk or individually, to any person who has indicated that they do not wish to receive it.
+You must comply with the rules of any other network you access or participate in using your our services.
+All spam complaints must be responded to within 24 hours of the notice in any given day, A 35.00$ spam complaint fee will be issued if you fail to respond with 24 hours of the notice.
+Repeat offenders face the following actions: a.) You will be charged double the amount for each spam complaint that is filed against you.
+(EG: 1 offense 35.00$, 2nd offense 60.00$) b.) Your service will be terminated if Evolucix feels they do not want to do business with you any longer.
+5.
+Material Protected by Copyright. You may not publish, distribute, or otherwise copy in any manner any music, software, art, or other work protected by copyright law unless: You have been expressly authorized by the owner of the copyright for the work to copy the work in that manner.
+You are otherwise permitted by established United States copyright law to copy the work in that manner.
+Evolucix will terminate the service of repeat copyright infringes.
+At our discretion, a $25.00 DMCA processing fee will apply to account holders who receive DMCA notices.
+All torrents, including legal torrents are prohibited on our service.
+Torrents are used to distribute often illegal content.
+This includes torrent trackers.
+Any site hosting torrents, or torrent trackers will be suspended upon discovery.
+URL downloader(s), website/file copying utilities are also prohibited.
+Evolucix will issue a $50.00-$250.00 research/clean up fee for any client that is found hosting torrents.
+5.
+Copyright Infringement Notice (Digital Millennium Copyright Act). Pursuant to Title II of the Digital Millennium Copyright Act, all claims of copyright infringement for material that is believed to be residing on our network or servers should be promptly sent in the form of written notice to the Designated Agent for DMCA Notices listed below: Evolucix, LLC ATTN: Legal Operations 7505 Breakers Lane Plano, TX 75025 United States abuse[at]evolucix.com Your notice must include the following: A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+ Identification of the copyrighted work claimed to have been infringed, or if multiple copyrighted words at a single site are covered by a single notification, a representative list of such works at that site; Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material; Information reasonably sufficient to permit us to contact you, such as an address, telephone number, and, an e-mail address; A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, the copyright owner.s agent, or the law.
+ A statement that the information in the notification is accurate, and under penalty of perjury that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+6.
+Other. You must have valid and current information on file with your domain name registrar for any domain hosted on our network.
+We offer domain service to all clients.
+Clients are bound to the domain agreement located within our Terms of Service.
+If the account attached to the domain is suspended for non-payment, or the payment for the domain has been charged back.
+We reserve the right to lock the domain, and require payment before the domain is unlocked.
+Anonymous FTP is enabled on certain servers.
+This is enabled PER ACCOUNT! Be warned that any illegal activities that occur due to anonymous FTP being activated on your account will result in action against the account holder.
+HYIP and related sites are NOT allowed on our servers due to the risk of denial of service attacks that are commonly placed against these types of sites.
+7.
+Disclaimer. Evolucix is under no duty, and does not by this AUP undertake a duty, to monitor or police our customers.
+Activities and disclaims any responsibility for any misuse of the network.
+Inquiries regarding this policy should be directed to our business office at business[at]evolucix.com 8.
+Downtime and Service Complaints Evolucix reserves the right to deny requests for credit due to downtime or service issues if they are not submitted properly or within five days of occurrence of the incident.
+
+      

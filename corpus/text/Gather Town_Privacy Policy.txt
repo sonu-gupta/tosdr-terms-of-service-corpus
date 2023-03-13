@@ -1,0 +1,223 @@
+
+Desktop App (beta)PricingJobsUpdatesHelp CenterLaunch Gather
+Privacy PolicyEffective date: 1/27/2021Overview
+
+Opening Statement
+
+
+Product-specific Policies
+
+Gather App
+Mapmaker
+
+
+
+General Policies
+
+Types of Data Collected
+Personal Data
+Usage Data
+Cookies
+
+
+Uses of Data
+Retention of Data
+Transfer of Data
+Disclosure of Data
+Security of Data
+Analytics
+Your Rights under the General Data Privacy Regulation (GDPR)
+Your Rights under the California Online Privacy Protection Act (CalOPPA)
+Your Rights under the California Consumer Privacy Act (CCPA)
+Childrenâs Privacy
+Changes to our Privacy Policy
+Limitation of Liability
+Disclaimer
+
+
+
+
+Opening StatementGather does its best to make sure your data is safe and that your privacy is respected.
+This starts with us internally acknowledging and understanding any incentives that we might have that might be misaligned with the health and interests of our users.
+We then try to minimize or counteract those incentives so that we can systematically be trusted to make the right choices as often as possible.
+This approach applies not just to our incentives as an organization or as a company, but also as a team and as individuals.
+This attention to our alignment with our users shows up both in our choice of what ideas to pursue and also in the implementation of those ideas.
+We design our services to use the minimum amount of data needed for us to provide those services and to minimize how much of that data has to pass through our own servers or stay in storage.
+We also strive to use and design technologies and user interfaces that make it really clear to our users how our systems work.
+Implementing all of this is a never-ending process and we have a lot of work left to do just to reach our current targets for user safety and privacy.
+In the meantime, this page will describe or provide links to the data practices for this website and any of the services that we offer.
+
+Product-specific PoliciesThe following sections describe policies and practices specific to each of Gatherâs services.
+We have two services: the "Mapmaker" (at https://gather.town/mapmaker) and the "Gather App" (all other parts of our website).Gather AppHere are some of our data practices that we use for the Gather App:
+
+We do NOT store or view any user video/audio.
+They are encrypted in transit, not end-to-end, which is the same encryption policy taken by services like Google Meet
+By default, we store chat messages on our servers.
+There is a space-wide option available to the host that allows them to turn this off and store all chats locally, though chat messages will no longer persist between sessions.
+We store any images or documents that you upload to Gather in build mode.
+They are encrypted at rest in cloud storage.
+If you log into our site, we store your email address, when you created your account, and the last time you logged in.
+We keep store metadata about our spaces, including:
+Which map that space was created with
+The unique URL for that space
+A salted hash of the space password, if there exists one
+Who created the space, and who are the moderators
+The list of emails and names in the guestlist, if any is set
+
+
+We store anonymized metrics, like how many users visit our site in total, or how many seconds are spent on video everyday.
+This helps us understand the usage of the Gather App, which helps us what to prioritize.
+We store small bits of information that let us run our service, like the name you set in a room, whether or not youâve indicated that youâre over 13, or what spaces you have access to.
+If you use our feedback form, we store your message, along with your name and email if you provide them.
+This lets us read and respond to your feedback
+We use Google Analytics on all of our webpages.
+You can learn more about how Google Analytics collects and processes your data on the following page: âHow Google uses data when you use our partners' sites or apps.â
+We use Google Analytics to count and log the number of unique visitors on each page of our websites and to understand where that traffic is coming from.
+Both of these help inform our writing and decision-making so we can provide this service to you..
+We only chose to use Google Analytics after reading through their privacy policy and deciding that it met our standards.
+If this choice doesnât meet your standards, you can disable this feature on our websites below.
+If you'd like to disable this feature across your web browser, Google provides an add-on that prevents your data from being used by Google Analytics on other websites.
+As always, we also welcome you to tell us about your concerns.
+
+
+If you'd like to disable Google Analytics on "gather.town" and all its subdomains, just click here:DisableMapmakerHere are some of our data practices that we use for the Mapmaker, specifically:
+
+We store everything you upload to mapmaker.
+This includes background images and assets.
+Everything uploaded is encrypted at rest in cloud storage.
+We store metadata about the map, like what squares are impassable, where the spawn points are, and who owns what maps.
+We do not share maps with other users unless you explicitly share it yourself, invite them to a space with your map, or give us explicit consent.
+
+
+We made these lists of practices in an effort to be informative beyond the typical legal requirements, so that you get a better picture of how your data is being used.
+It might not be completely exhaustive.
+Refer to later sections in this document for a more general policy.
+
+General PoliciesThe following sections apply to all of Gather's services.Types of Data CollectedPersonal DataWhile using our services, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (âPersonal Dataâ).
+Personally identifiable information may include:
+
+your email address
+the nickname or affiliation you set
+Usage DataWe may also collect information that your browser sends whenever you visit our services or when you access our services by or through a mobile device (âUsage Dataâ).
+This Usage Data may include information such as your computerâs Internet Protocol address (e.g.
+IP address), browser type, browser version, the pages of our services that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+When you access our services with a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.CookiesWe use cookies and similar technologies to track the activity on our services and hold certain information.
+Cookies are files with a small amount of data which may include an anonymous unique identifier.
+Cookies are sent to your browser from a website and stored on your device.
+Other tracking technologies may also be used to collect and track information and to improve and analyze our services.
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.
+However, if you do not accept cookies, you may not be able to use some portions of our services.
+Examples of Cookies we use:
+
+Session Cookies: We may use Session Cookies to operate our services.
+Preference Cookies: We may use Preference Cookies to remember your preferences and various settings.
+Functionality Cookies: We may use Functionality Cookies to implement necessary functionality for our services.
+Security Cookies: We may use Security Cookies for security purposes.
+
+We do not use advertising cookies.Uses of DataWe use the data we collect for various purposes:
+
+to provide and maintain our services;
+to notify you about changes to our services;
+to allow you to participate in interactive features of our services when you choose to do so;
+to provide customer support;
+to gather analysis or valuable information so that we can improve our services;
+to monitor the usage of our service;
+to detect, prevent and address technical issues;
+to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
+to provide you with notices about your account and/or subscription, including expiration and renewal notices, email-instructions, etc..
+
+to fulfill any other purpose for which you provide it;
+in any other way we may describe when you provide the information;
+for any other purpose with your consent.
+Retention of DataWe will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy.
+We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+We will also retain Usage Data for internal analysis purposes.
+Usage Data is generally retained for a shorter period, except when this data is used to strengthen the security or to improve the functionality of our service, or we are legally obligated to retain this data for longer time periods.Transfer of DataYour information, including Personal Data, may be transferred to â and maintained on â computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction.
+If you are located outside the United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to the United States and process it there.
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+We will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.Disclosure of DataWe will not sell your personal information.
+In the case of a merger, acquisition or asset sale, your Personal Data will not be transferred.
+We only disclose your information to other affiliates:
+
+(i) to fulfill the purpose for which you provide it;
+(ii) for any other purpose disclosed by us when you provide the information;
+(iii) if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers, or others;
+(iv) with your consent in any other cases
+Security of DataThe security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure.
+While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.AnalyticsWe may use a third-party service to monitor and analyze the use of our services.Your Rights under the General Data Privacy Regulation (GDPR)If you are a resident of the European Union (EU) and European Economic Area (EEA), GDPR affords you certain rights.
+These include:
+
+The right to access, delete, or update the information we have on you;
+The right to have your information rectified if that information is incomplete or incorrect;
+The right to object to our processing of your data;
+The right to request that we restrict the processing of your data;
+The right to request a copy of your personal data in machine-readable and commonly-used format;
+The right to withdraw your consent at any time where we rely on your consent to process your personal information.
+
+To exercise any of the above rights, please send a request to hello@gather.town.
+Please note that we may ask you to verify your identity before responding to such requests.
+Additionally, you have the right to complain to a Data Protection Authority about our collection and use of your Personal Data.
+For more information, please contact your local data protection authority in the European Economic Area (EEA).Your Rights under the California Online Privacy Protection Act (CalOPPA)In accordance with CalOPPA, we agree to the following:
+
+users can visit our site anonymously;
+users will be notified of any privacy policy changes on our Privacy Policy Page;
+users are able to change their personal information by emailing us at hello@gather.town.
+
+We do not honor Do Not Track signals.
+Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.Your Rights under the California Consumer Privacy Act (CCPA)If you are a California resident, you are entitled to learn what data we collect about you, ask to delete your data and ask us not to sell it.
+You can make the following requests to us:
+
+What personal information we have about you.
+If you make this request, we will return to you:
+(i) The categories of personal information we have collected about you.
+(ii) The categories of sources from which we collect your personal information.
+(iii) The business or commercial purpose for collecting or selling your Personal Information.
+(iv) The categories of third parties with whom we share personal information.
+(v) The specific pieces of personal information we have collected about you.
+(vi) A list of categories of personal information that we have sold, along with the category of any other company we sold it to.
+If we have not sold your personal information, we will inform you of that fact.
+(vii) A list of categories of personal information that we have disclosed for a business purpose, along with the category of any other company we shared it with.
+Please note, you are entitled to ask us to provide you with this information up to two times in a rolling twelve-month period.
+When you make this request, the information provided may be limited to the personal information we collected about you in the previous 12 months.
+
+
+To delete your personal information.
+If you make this request, we will delete the personal information we hold about you as of the date of your request from our records and direct any service providers to do the same.
+In some cases, deletion may be accomplished through de-identification of the information.
+If you choose to delete your personal information, you may not be able to use certain functions that require your personal information to operate.
+To stop selling your personal information.
+We, however, donât sell or rent your personal information to any third parties for any purpose.
+You are the only owner of your Personal Data and can request disclosure or deletion at any time.
+
+Please note, if you ask us to delete your data, it may impact your experience with us, and you may not be able to participate in certain programs or membership services which require the usage of your personal information to function.
+We will not, however, in any circumstance discriminate against you for exercising your rights.
+To exercise your California data protection rights described above, please send a request to hello@gather.town.Childrenâs PrivacyOur services do not address anyone under the age of 13.
+If you are a parent or guardian, and you are aware that your child under the age of 13 has provided us with Personal Data, please email us immediately at hello@gather.town.
+If we become aware that we have collected Personal Data from children without verification of parental consent, we will take steps to remove that information from our systems.Changes to our Privacy PolicyWe may update our Privacy Policy from time to time.
+We will notify you of any changes by posting the new Privacy Policy on this page.
+You are advised to review this Privacy Policy periodically for any changes.
+Changes to this Privacy Policy are effective when they are posted on this page.Limitation Of LiabilityIn no event shall Gather, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (a) your access to or use of or inability to access or use the service.
+(b) any conduct or content of any third party on the service.
+(c) any content obtained from the service.
+and (d) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.DisclaimerYour use of the service is at your sole risk.
+The service is provided on an "as is" and "as available" basis.
+The service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
+Gather its subsidiaries, its affiliates, and its licensors do not warrant that (a) the service will function uninterrupted, secure or available at any particular time or location.
+(b) any errors or defects will be corrected.
+(c) the service is free of viruses or other harmful components.
+or (d) the results of using the service will meet your requirements.Help Center&nbsp.
+ | &nbsp.
+ About Us &nbsp.
+ | &nbsp.
+ Contact Us &nbsp.
+ | &nbsp.
+ Privacy Policy &nbsp.
+ | &nbsp.
+ Terms of Service &nbsp.
+ | &nbsp.
+ Status&nbsp.
+ | &nbsp.
+ Â© 2020-2021 Gather Presence Inc.
+
+      

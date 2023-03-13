@@ -1,0 +1,294 @@
+
+
+
+
+ Purchasing
+ Sales Support
+ Technical Support
+ Contact Us
+ Blogs, Twitter &amp.
+RSS
+ Privacy Policy
+ Steve's Projects Page
+ Steve's Old Resume
+
+
+
+
+
+
+ General information
+ What SpinRite Does
+ User testimonials
+ S.M.A.R.T.
+Monitor
+ Purchase SpinRite
+ FAQ
+ Demo Videos
+ Knowledgebase: SATA
+ Knowledgebase: BIOS
+ SpinRite v5.0 pages
+
+
+
+
+
+
+ ShieldsUP!
+ Certificate Revocation
+ Password Haystacks
+ HTTPS Fingerprints
+ Security Now!
+ DNS Spoofability Test
+ Perfect Passwords
+ PPP Passwords
+ Tech TV video clips
+ Newsgroup Discussions
+
+
+
+
+
+
+
+SQRL
+
+SecurityÂ» 
+ InSpectre
+ Securable
+ Leaktest
+ Shoot the messenger
+ Unplug n' Pray
+ DCOMbobulator
+ MouseTrap
+ MouseTrapCmd
+
+
+UtilitiesÂ» 
+ ReadSpeed
+ DNS Benchmark
+ InitDisk
+ Never 10  (no upgrade)
+ Wizmo
+ ID Serve
+ ClicKey
+ Free &amp.
+Clear
+ IDentity (ASPI)
+
+
+ObsoleteÂ» 
+ FIX-CIH
+ TIP (trouble in paradise)
+ OptOut
+ XPdite
+ NoShare
+ LetShare
+ Patchwork
+
+
+
+
+
+
+
+
+GeneralÂ» 
+ Malware Repository
+ SQRL Login Technology
+ EV SSL/TLS Certificates
+ Ultra-high entropy PRNG
+ Pure CSS web menus
+ NAT router security
+ PDA max battery life
+
+
+PendingÂ» 
+ GRC NetFilter
+ TrustPuppy
+
+
+HistoricalÂ» 
+ Worm wars of 2001
+ File downloader spying
+ Sub-pixel font rendering
+ Earthlink browser tag
+ ZIP &amp.
+JAZ click of death
+
+
+DormantÂ» 
+ OpenVPN
+ The Assimilator
+ ASPI ME
+
+
+HealthÂ» 
+ Health Homepage
+ The Low Carb Choice
+ Vitamin D
+ Healthy Sleep Formula
+ Zeo Sleep Manager Pro
+
+
+
+
+
+
+
+
+
+SQRL
+
+ PDP-8 Computers
+ TrueCrypt Repository
+ Big Number Calculator
+ The Quiet Canine
+
+
+
+
+Absolutely Protecting the Rights of Our Visitors 
+
+
+
+Privacy FIRST
+ Privacy FIRST? â Yes, FIRST .
+.
+.
+
+ I feel so strongly about privacy rights that EVERYTHING about the design and technology of this site, from the time its first pixel was displayed, has been designed around respecting the rights of our visitors â your rights.
+
+
+But, frankly, just speaking those words doesn't mean very much, since that's pretty much what every sleeze-bag company on the Internet will tell you â even those that are currently under Federal indictment for deliberate and repeated privacy violation and abuse.
+
+
+So I have broken it down, detailing our specific conduct, so you can see EXACTLY what WE mean when WE say that we care more about your privacy and security than anything else: 
+
+
+eCommerce
+ It's Our Own System â I wrote our eCommerce facility from scratch in assembly language rather than subcontracting with a third party eCommerce provider, or using an off-the-shelf "shopping cart" package.
+That means it's fast and efficient, and that we do NOT rely upon the conduct and behavior of the employees and technology of any third-party for which we can not authoritatively vouch.
+It also means that there is no chance that the system has any hidden third-party backdoors or exploitable weaknesses, and that it doesn't need to be updated hourly as the next carelessly coded Microsoft security weakness is discovered.
+
+ Script-free &amp.
+Cookie-free â Web-based eCommerce systems typically require their users to lower their web browser's security or privacy settings for the commerce system to function.
+But I wrote our eCommerce system as an entirely server-side system using no browser scripting and no browser cookies.
+So you are welcome to keep your web browser buttoned up tightly while using any and all of our site's services â including our eCommerce system.
+
+
+ Always Encrypted â At no time is any purchasing information stored anywhere in non-encrypted form.
+Strongly encrypted purchase records (which must be retained for state tax reporting) are stored on an isolated backup machine that is not connected to the Internet.
+There is no way for a malicious hacker to access or acquire these records.
+And even if a malicious party could gain physical access to this offline backup machine, ever-present strong encryption renders the data completely useless.
+
+
+ Secure Encryption Guaranteed â During eCommerce transactions, the security-sensitive transfers required when personal credit information is submitted to our server is securely wrapped by an SSL 3.0 (Secure Sockets Layer) 128-bit public-key encryption wrapper.
+Unlike other sites, WE DO NOT ALLOW the non-encrypted transmission of sensitive customer data.
+The current estimate on cracking a 128-bit encrypted message is a bit more than twelve thousand years.
+
+
+
+Personal Information
+ Our Own eMail System â As with our eCommerce facility, I wrote the entire eMail system from scratch in assembly language.
+We do not subcontract or "farm out" our list management, so there is NO CHANCE that your personal and private eMail address will be disclosed to any third party.
+Moreover, we feel quite strongly about the privacy of eMail addresses and NOTHING could induce us to divulge our customer's eMail address to any third party.
+Some things are NOT for sale â your trust in us is one of them.
+
+
+Cookies 
+
+NOTE: The information below regarding GRC's planneduse of cookies for detecting visitor's browser cookieprivacy settings is not yet in effect â but it will be shortly.We wanted to get our privacy policy statement in place,and make our intentions very clear, well beforehand.
+  GRC uses cookies to check and report YOUR privacy â The recent forms of active malware â viruses, spyware, Trojan bots, etc.
+â have diverted attention from the continuing privacy threat represented by simple third-party web browser cookies.
+Recall all that concern about "advertising cookies" and "web bugs" years ago? The problem didn't go away.
+Although many people have been distracted, third-party cookies continue to represent the #1 threat to most users' privacy today by enabling their activities on the Internet to be monitored, tracked and profiled.
+Because this threat is so easily eliminated with a few simple changes to any browser's default configuration (which our cookie pages explain in detail), GRC's server continually offers "session" and "persistent" first- and third-party cookies for the sole and singular purpose of detecting and reporting on the cookie privacy policy of its visitors' browsers.
+
+Information gained from the use of GRC cookies is 
+only
+ usedto alert visitors whose web browsers are accepting third-party"tracking" cookies, and 
+for no other purpose whatsoever
+.
+
+
+Advertisements
+ GRC.COM is a "100% Ad Free" Zone â Perhaps you can imagine how many solicitations we receive from companies wishing to pay us for the placement of their advertisement on this high-traffic site.
+We're not even tempted.
+We do not understand why ANY commercial web site would choose to horribly clutter its pages with garish and annoying advertisements jumping around all over the place, trying to distract its visitors and get their attention.
+It's not as if being on the web is particularly expensive.
+It isn't.
+So we just can't understand why advertising has "happened" anywhere on the web except on those "fully sponsored" free web sites for individuals.
+It appears that many corporations have no taste or sense of style whatsoever.
+
+
+But, independent of that, no force on Earth could make me place a reference to an off-site advertising server on this site.
+The fact is, advertisements are a HUGE security and privacy risk.
+You will never find one here.
+No way.
+
+
+Web Bugs
+ Do you even need to ask? â Of course we don't do anything like that.
+We can't imagine that we would ever want to know anything about you that we didn't have the courage to ask.
+So there's NO SORT OF TRACKING OF ANY KIND ever happening on this site.
+Period.
+
+
+Server Logs
+ Nope, we don't do that either. â Other web sites' privacy statements say that they log all server accesses in order to spot abuse and identify and solve problems.
+But I have written 100% of our web server enhancements (in assembly language of course), without relying upon any unknowable bits and pieces of code from anyone else.
+And since we don't have any problems with abuse and don't have any operational mysteries to solve, we have no need to log our web server's accesses â so we don't.
+There is no record that anyone who visits our web site has done so, nor what they did or where they went while they were here.
+
+ Unforeseen Emergencies â If, for some unforseen reason, we do find it necessary to log accesses to any of our servers to resolve a problem, such logging will persist only as long as required to resolve the issue and all logs will be deleted immediately afterward.
+
+
+Your IP Address
+ Never Recorded â (see the exception to this under the "Public Newsgroups" topic below)Our Internet security testing ShieldsUP! facility does an excellent job of determining your machine's current IP address, but it is NEVER stored or recorded in any fashion.
+(Not even logged by our web server, see above.)
+
+
+In order to keep the count of this site's visitors as fair and accurate as possible, a visitor's IP address is placed into a "most recently used" (MRU) list so that if the same IP requests another test soon after the last one (such as pressing the browser's refresh button) the Shields Tested counter will not be redundantly incremented.
+Once an IP "ages", it falls off the end of the MRU list and is never considered again.
+
+ Public Newsgroups â The IP address of everyone posting to our unmoderated, public-access, discussion newsgroup server is encrypted using blowfish with a 448-bit secret key.
+A 32-bit counter is mixed in with the IP so that the same posting IP never generates the same encryption.
+This prevents the encrypted IP from being used for any sort of tracking.
+However, since there are occasions where someone might want to see and/or reveal their IP in a provable way, articles posted to our special grc.test newsgroup whose Subject begins with the special string "ShowMyIP" will not have their IPs encrypted.
+Since all grc.test articles are automatically deleted after 5 days, and since everyone has the ability to cancel their own postings, these measures provide ample safeguards.
+
+
+
+Forensic Packet Capture
+
+In extraordinary times, such as when we are under direct malicious Internet attack, we may record the data packet traffic entering our network for the purpose of defending against and curtailing attacks of various sorts.
+But even then, we protect your privacy as our first priority.
+No valid traffic will be logged or retained, and permanent records of malicious and deliberately damaging activity will only be retained as specifically required.
+
+We take your privacy and safety seriouslyand we will NEVER fail to put it first.
+
+
+
+
+ So perhaps you see what we mean by
+Privacy FIRST.We mean first and forever.
+ If you have any questions or concerns about anything you have seen here, or about anything relating to your privacy conduct, PLEASE DON'T HESITATE to let us know.
+You may address any eMail to us for our immediate attention to: 
+support2021@grc.com
+.
+
+
+Thank you for your interest in these tricky but important issues.
+Perhaps we can work together to raise the standard of privacy on the Internet.
+It is certainly worth a try!
+
+
+
+
+To return to the previous page, press your browser's BACK button.
+Gibson Research Corporation is owned and operated by Steve Gibson.  The contentsof this page are Copyright (c) 2020 Gibson Research Corporation.
+SpinRite, ShieldsUP,NanoProbe, and any other indicated trademarks are registered trademarks of GibsonResearch Corporation, Laguna Hills, CA, USA.
+GRC's web and customer privacy policy. Last Edit: Mar 28, 2008 at 05:46 (5,016.52 days ago)Viewed 42 times per day
+
+      

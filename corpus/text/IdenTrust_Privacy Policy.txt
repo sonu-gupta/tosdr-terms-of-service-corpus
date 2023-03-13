@@ -1,0 +1,415 @@
+
+         Skip to main content Topbar 
+
+
+ Application Status 
+
+
+ My Account 
+
+
+ About Us 
+ About Identrust 
+ Careers 
+ Events 
+ Partners 
+ Press 
+
+
+
+
+ Announcements 
+
+
+ Contact Us 
+ Main navigation 
+ My Buying Community 
+ Banking &amp.
+Finance 
+ Enterprise &amp.
+Corporate 
+ Government 
+ Healthcare 
+ Life Sciences 
+ Manufacturing 
+ Personal &amp.
+Professional 
+
+
+ Certificates 
+ Secure Email (S/MIME) 
+ TLS/SSL Website Security 
+ Digital Signing &amp.
+Sealing 
+ DoD ECA Programs 
+ eNotary Programs 
+ Document Signing 
+ EPCS Prescribing 
+ EV Code Signing 
+ Federal, State &amp.
+Local Agencies 
+ Publicly Trusted 
+ IoTT Device Security 
+
+
+ Manage My Certificate 
+ Certificate Management Center 
+ Trust Network Participant Login 
+ Install Your Certificate 
+
+
+ Support 
+ Change Control Schedules 
+ Document Library 
+ Downloads &amp.
+Drivers 
+ Education Center 
+ Frequently Asked Questions 
+ How Do I ? 
+ Important Announcements 
+ Our Helpful Support Team 
+ Purchase Vouchers 
+
+
+
+
+ Search 
+
+By using our site, you acknowledge that you have read and understand our Privacy and Legal Policies. IdenTrust Privacy Policy Breadcrumb 
+ Home - 
+ IdenTrust Privacy Policy 
+
+
+
+
+
+
+This Privacy Policy was last updated: November, 24, 2020
+ INTRODUCTION AND PURPOSE OF INFORMATION COLLECTION IdenTrust is a Certification Authority (a CA) that is recognized and relied upon by the major browser manufacturers to issue Digital Certificates (also known as PKI certificates and X.509 certificates).
+These certificates are used by individuals to authenticate their identity to others, and/or to encrypt sensitive data including financial transactions so they can be transferred over the Internet.
+Digital Certificates are also used by computers to encrypt data exchanged between web hosts and Internet users.
+As a CA, when IdenTrust issues a Digital Certificate, others are assured that the certificate holder is who he or she claims to be, and that information encrypted by the certificate is safe from outside viewing or intrusion.
+Whenever an individual provides information about himself or herself to apply for a Digital Certificate, this information is called âPersonal Informationâ and the person is called a âData Subject.â
+This Privacy Policy applies to Personal Information that IdenTrust processes from Digital Certificate applicants and holders and describes how IdenTrust collects and uses Personal Data.
+It also describes how IdenTrust gathers, processes, and protects it.
+It also describes your rights to obtain a copy of the Personal Information we have about you, and other rights that will be described later.
+
+Please note: In addition to issuing Digital Certificates directly to individuals under certain US government programs, IdenTrust processes certificate data for other institutions such as banks.
+If you obtain a Digital Certificate through a bank or other organization, that organizationâs policies for handling Personal Information are in force, and you should contact that organization with any questions.
+If you apply for a Digital Certificate directly through the IdenTrust website, then the following IdenTrust Privacy Policy provisions apply.
+
+1.
+DEFINITIONS
+
+Terms defined here are capitalized in the rest of this document.
+âIdenTrustâ means IdenTrust, Inc., and its wholly owned and controlled subsidiary, IdenTrust Services, LLC.
+In this document, âweâ means IdenTrust.
+âDigital Certificateâ means a piece of code that resides on your computer or in a piece of hardware (called a token), that uniquely identifies you in emails and on websites, and may also handle encrypted messages between you and others.
+It is sometimes called an identity certificate, or an âX.509â or âPKIâ certificate.
+âGDPRâ means the European Union General Data Protection Regulation (EU 2016/679) in force as of 25 May 2018.
+GDPR rights, provisions, and regulations apply only to those natural persons who reside within the EU, although they align in many cases with Privacy Shield Principles, US federal privacy laws and regulations, and the privacy laws and regulations of many US states.
+âEUâ means the European Union, including its member states.
+âNatural Personâ means a human being.
+An identifiable Natural Person is one who can be identified, directly or indirectly, using a name, an identification number, location data, an online identifier such as a user name, or other information.
+âPersonal Information,â âPersonal Data,â âSubject Data,â âPersonally Identifiable Information,â or âPIIâ all mean any information relating to an identified or identifiable Natural Person.
+The terms are used in various agreements and regulations that IdenTrust is subject to.
+âData Subjectâ is a Natural Person who is identified by Personal Information.
+In this document, âyouâ means yourself as a Data Subject.
+âData Controllerâ or âControllerâ means an entity that collects Personal Information from a Natural Person and determines the purposes and means of Processing Personal Information.
+A Controller may also be a Data Processor.
+âData Processorâ or âProcessorâ means an entity that Processes Personal Information on behalf, and under the instructions, of a Data Controller.
+In many cases, IdenTrust acts as a Processor for other organizations.
+âProcessingâ means any operation or set of operations which is performed on Personal Information, such as recording, organizing, structuring, storing, retrieving, using, transmitting, combining, restricting, erasing, destroying, or making it available to others.
+âRegistration Authorityâ means an organization or individual (a Registration Agent) who collects Personal Information, and who is obligated by policy and agreement to provide sufficient privacy protections for that information.
+A Registration Authority will have its own privacy policy.
+âRelying Partyâ means an individual or organization that makes a request to IdenTrust to confirm the existence and validity of a Digital Certificate, for purposes such as completing financial transactions.
+âPrivacy Shieldâ means the EU-U.S.
+Privacy Shield Framework or the Swiss-U.S.
+Privacy Shield Framework as set forth by the U.S.
+Department of Commerce.
+The Privacy Shield Framework governs the security and protection of personal data transferred from the EU or Switzerland to the United States and serves to satisfy GDPR information security requirements such as those in Articles 45 and 46.
+âPrivacy Shield Principlesâ means both the âPrivacy Shield Principlesâ and the âSupplemental Principles,â issued by the Department of Commerce of the United States of America, to which Privacy Shield participants must subscribe.
+âGoverning Documentsâ means a Certificate Policy, Certification Practice Statement, or other documentation that describes what a product and/or service can and cannot provide.
+Certificate Policies and Certification Practice Statements are the basic documents that all Certificate Authorities such as IdenTrust must have in order to operate.  GENERAL PROVISIONS 
+2.
+COMPLIANCE WITH LAWS AND REGULATIONS
+
+We comply with the following laws, regulations, frameworks, and best practices regarding the collection, processing, and use of Personal Information and the rights of Data Subjects.
+We are audited on the data privacy and protection criteria contained within them.
+
+US Privacy Act of 1974
+US Gramm-Leach-Bliley Act
+US National Institute of Standards and Technology Special Publications 800-53 and 800-63 regarding Personal Information protections and data processing security
+European Union General Data Processing Regulation (âGDPRâ) for European Union citizens and residents
+EU-U.S.
+and Swiss-U.S.
+Privacy Shield Frameworks and associated Privacy Shield Principles
+
+
+2A.
+PRIVACY SHIELD 
+
+IdenTrust has certified to the Department of Commerce of the United States of America that it adheres to the Privacy Shield Principles.
+If there is any conflict between the terms in this IdenTrust Privacy Shield Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+The list maintained by the Department of Commerce of the United States of America and which identifies participants in the Privacy Shield program can be found at the following Internet address:
+https://www.privacyshield.gov/list
+IdenTrust receives information exported by customers of IdenTrust from European Union member countries and from Switzerland.
+Some of the information so exported is Personal Data of employees and end-users of the services of customers of IdenTrust.
+At its facilities in the United States of America, IdenTrust receives Personal Data exported from European Union member countries and from Switzerland by financial institutions that are customers of IdenTrust, but such receipt occurs only as part of the following services of IdenTrust:
+
+Infrastructure services of IdenTrust provided to certain financial institutions that are customers of IdenTrust and that issue IdenTrust Trust Network-compliant Digital Certificates to end-users that assert affiliation of the given end user with a business entity named in the Digital Certificate and which Digital Certificate is for use in connection with the business of such business entity.
+and
+Electronic bank account management infrastructure operations of IdenTrust provided to certain financial institutions that are customers of IdenTrust, which customers utilize such infrastructure operations to support their business banking services.
+
+IdenTrust uses Subject Data only for purposes of processing Subject Data for the institution that exported the Subject Data to IdenTrust.
+With respect to such use by IdenTrust, specifications for the use are determined in advance by contract with the institution exporting the Subject Data to IdenTrust.
+As between IdenTrust and institutions that export Subject Data to IdenTrust for processing as described above in this IdenTrust Privacy Shield Policy, the institution is the owner of the information and IdenTrust disclaims all ownership of such data.
+
+2B.
+NOTICE- TYPES OF INFORMATION WE COLLECT
+
+
+Where your Personal Information comes from
+
+We collect and process Personal Information as necessary for performance of a contract and for our legitimate interests.
+If you apply for a Digital Certificate directly on the IdenTrust website, we collect Personal Information directly from you.
+We then confirm the accuracy of the information you provide with trusted third-party validators.
+We do not collect additional information about you from these validators.
+we simply confirm that the information you provide is correct.
+Please note that if you apply for a Digital Certificate on our website and do not complete the application for any reason, your Personal Information will not be saved by us.
+We also Process Personal Information we receive from third-party organizations who have collected it from individual applicants.
+A third party may be your employer or an organization that uses your services.
+These third parties are known as Registration Authorities.
+Registration Authorities are required to have obtained your consent to Process your Personal Information to apply for a Digital Certificate.
+We rely upon Registration Authorities and Registration Agents to confirm that your consent has been given and that your information is correct.
+
+What Personal Information we collect
+
+The type of Personal Information collected depends on the type of certificate product or service that you select, and is governed under the applicable Certificate Policy, Certification Practices Statement, or other Governing Documents.
+These documents are available on our website, and you should consult them for the specific information required for the type of Digital Certificate you need.
+For example, if you apply for a Digital Certificate directly on the IdenTrust website, you may be asked to provide items such as these:
+
+Full name
+Address
+Name of employer
+Business or personal email-address
+Business or personal telephone number
+Social security or other national identity number
+Credit card number
+
+Your social security or national identity number, if required, may be used to confirm identification, and your credit card number may be used to obtain payment, but neither will be otherwise disclosed or used for any purpose not consistent with obtaining and using a Digital Certificate.
+If you apply for a Digital Certificate through a Registration Authority, you may be asked to provide similar items of information.
+The Registration Authority will inform you of the exact items required.
+We do not collect additional information about you other than the information collected by the Registration Authority and provided to us.
+Whether you subscribe to our products and/or services directly via our websites or through a Registration Authority, we will protect your Personal Information in accordance with this Privacy Policy and in accordance with applicable laws and regulations, including the Privacy Shield Framework and GDPR where such laws and regulations apply.
+
+Additional provisions
+
+If you use our products and/or services through the IdenTrust Trust Network, the collection and use of your Personal Information may be subject to additional privacy policies or statements of one of the participating financial institutions who may serve as your Registration Authority.
+If you use products or services provided directly by IdenTrust, the collection and use of your Personal Information may be subject to additional provisions set forth in the applicable Governing Documents, including your subscriber agreement.
+These documents are available on our websites.
+You should refer to such documents, if any, for further details.
+Whenever you send us  correspondence such as email and letters or sign up to receive newsletters or announcements, or when other users or third parties send us correspondence about your activities or postings on our websites, we may also collect and store such information for communication and help desk assistance purposes.
+
+2C.
+HOW WE USE YOUR PERSONAL INFORMATION
+
+IdenTrust will use your Personal Information only for the purpose that such information is collected, as otherwise specifically authorized by you, and/or as described below.
+
+Personal Information purposes
+
+IdenTrust uses Personal Information for purposes related to Digital Certificates, including activities such as:
+
+Issuing or processing Digital Certificates, including authenticating your identity, confirming your employment, responding to your inquiries, completing Digital Certificate-related transactions, and processing payments.
+Revoking or suspending Digital Certificates, and publishing Certificate Revocation Lists to Relying Parties.
+Validating to Relying Parties that a Digital Certificate is current and accurate.
+
+We also use your contact information to email you from time to time with information about our products and events, and announcements about changes to our websites or our policies.
+You may elect not to receive such correspondence by contacting us at support@IdenTrust.com.
+This will not affect the validity or status of your Digital Certificate.
+
+2D.
+ONWARD TRANSFER- HOW YOUR PERSONAL INFORMATION IS DISCLOSED
+
+In addition to these uses, we may be required to disclose your personal information by law, by order of a court with suitable jurisdiction, by subpoena, or as requested by other government or law enforcement authorities.
+We may also disclose it if, in our judgment, we have a good faith belief that such disclosure is necessary or advisable.
+This includes, for example, the protection of your rights and property and the rights and property of others with whom we do business or if there is a dispute related to your Personal Information.
+If you are providing your Personal Information to a third-party Registration Authority, you should look to such Registration Authorityâs privacy policy for policies relating to the collection, use, and distribution of your Personal Information.
+We may disclose your Personal Information in accordance with the instructions of the institution that exported the applicable Subject Data to IdenTrust and which institution, with respect to given Subject Data, is the âcontrollerâ of the data and responsible for providing any notices, obtaining any authorizations, and affording any choices to individuals identified in Subject Data transferred according to such instructions.
+Some Personal Information that we maintain may be shared on occasion with service providers, such as validators, credit card processors, outside auditors, attorneys, consultants, and others we hire to assist in performing functions necessary to operate our business.
+If we make a disclosure of this type, the information recipient must agree to:
+
+View the Personal Information only on our premises and not remove it, except as necessary to provide the services to us;
+Use it only for the purposes that we have specified.
+and
+Return it to our designated employees, or destroy it as soon as the need for the Personal Information expires.
+
+Where IdenTrust transfers Subject Data subject to the Privacy Shield to a subprocessor, IdenTrust contracts with the subprocessor so that the Subject Data receives adequate protection and so that use is limited to the necessary subprocessing function.
+We remain potentially liable if an agent that we engage to assist us does so in a manner inconsistent with the Privacy Shield Principles.
+If we are merged with, or acquired by, another entity who becomes the successor to our obligations concerning the Personal Information you have provided to IdenTrust, then you consent to the continued retention and use of your personal information for such purpose by such an entity under the terms of this Privacy Policy.
+
+2E.
+WHERE YOUR PERSONAL INFORMATION IS PROCESSED AND STORED
+
+Your Personal Information is processed and stored in the United States, in secure processing sites and repositories in Utah and Colorado.
+The IdenTrust processing facilities are available only to previously authorized IdenTrust employees, at least two of whom must be present when the processing area is entered.
+Sensitive information is encrypted in our databases.
+Backup and archived information is encrypted and kept in a highly secure storage site, in locked containers that do not reveal their specific contents or the IdenTrust name.
+
+2F.
+HOW LONG YOUR PERSONAL INFORMATION IS KEPT
+
+Your Personal Information is kept as necessary for fulfillment of our contracts, for adherence to government regulations, and for the establishment, exercise or defense of legal claims, only for as long as necessary, as determined in the applicable Governing Documents, to perform the services on behalf of IdenTrust's clients and complete the purposes for which the Information has been acquired.
+It is available for processing only for the length of time your Digital Certificate is valid.
+After that, it is encrypted again and then archived and stored in the secure storage site where it cannot be accessed except to fulfill the purposes listed in this policy, and only by previously authorized IdenTrust employees.
+
+2G.
+USING YOUR DIGITAL CERTIFICATE
+
+The purpose of issuing Digital Certificates requires disclosing certain information about the Digital Certificate holder to any person or organization that relies upon the Digital Certificate (the Relying Party).
+This disclosure is made at the Relying Partyâs request using special online protocols that are part of email and browser applications.
+IdenTrust maintains lists, or repositories, of valid certificates, and only the information contained in a Digital Certificate is available in a repository for disclosure, as described in the following paragraphs.
+Accordingly, all information contained in a Digital Certificate, or in a revocation or suspension instruction, validation request, validation response, or certificate revocation list (collectively, "Credential Documents") is not considered confidential and can be viewed by others.
+A third party may access, review, and rely on such Credential Documents.
+this is essential to the purpose and function of a Digital Certificate.
+The information that may be included in the Credential Documents is defined by the applicable Governing Documents and may include such items as your name, public key, and email address.
+your organization's name.
+the Digital Certificate serial number.
+and/or the Digital Certificate expiration date.
+No information is provided to Relying Parties other than what is permitted to be in the Digital Certificate, and no other Personal Information can be obtained by them through the Digital Certificate.
+
+2H.
+HOW TO OBTAIN, CORRECT, OR UPDATE YOUR PERSONAL INFORMATION
+
+We endeavor to ensure that your Personal Information is accurate and reliable for its intended or authorized use.
+and that it is complete and current.
+If the Personal Information you supplied should change, or if you should discover an error in that information, you can correct and update it.
+If you obtained your Digital Certificate directly from IdenTrust through our websites, contact support@identrust.com.
+If you obtained your Digital Certificate through a Registration Authority or Registration Agent such as your bank or employer, you must contact them to have the changes made.
+IdenTrust cannot change Personal Information supplied to us by these entities.
+If you are unsure who collected your Personal Information, you can email a copy of your Digital Certificate to support@identrust.com and we will direct you to the proper entity.
+Subject to the applicable requirements of the Privacy Shield and the GDPR relating to fees, IdenTrust reserves the right to charge a fee to the inquirer in connection with the inquiry, regardless of the results of the inquiry.
+Regardless of who you contact, because of the nature of Digital Certificates, in some cases updating or correcting information will require the revocation and replacement of your Digital Certificate.
+
+Your rights under GDPR:
+
+If the GDPR applies with respect to your Personal Information, and if you obtained a Digital Certificate directly through the IdenTrust websites, we are happy to provide you with a copy of your Personal Information in our possession.
+Your request for this information should be emailed to privacy@identrust.com and will be acted upon within 30 days of receipt.
+The following information is necessary for us to process your request:
+
+Your full name
+The email address you used for your Digital Certificate
+The physical address you used for your Digital Certificate
+The year in which you obtained your Digital Certificate (this is critical if your Digital Certificate has expired and we are retaining your Personal Information in our archives)
+
+In addition, any of the following information may serve to speed up our response:
+
+Application ID number
+Account number
+Digital Certificate serial number
+Digital Certificate âfingerprintâ or âthumbprintâ
+
+If you obtained your Digital Certificate through a Registration Authority or Registration Agent, you must contact them to obtain a copy of your Personal Information.
+We can correct inaccurate data using the processes described above.
+We can also restrict further processing of your Personal Information, in some cases by suspending your Digital Certificate.
+However, because of the nature of Digital Certificates, we are unable to erase Digital Certificate-related data, and we cannot transmit it to another Certificate Authority, since it is not technically feasible to do so and still enable the receiving organization to validate the integrity of the information.
+
+2I.
+HOW TO CONTACT US:
+
+For general Digital Certificate questions, please email us at support@identrust.com, or telephone us at the numbers listed on our websites.
+
+For privacy-related questions, please email us at privacy@IdenTrust.com, and we will respond as soon as reasonably possible and within 30 days.
+Use this address if: 
+You believe your information is being processed or stored in violation of this policy or applicable laws and regulations.
+or
+You desire to obtain a copy of the Personal Information we possess, and you are covered by the appropriate GDPR protections (for example, you are a resident of the European Union) 
+
+
+For questions related specifically to the Privacy Shield Frameworks, please contact us at privacy.shield@IdenTrust.com.
+
+
+2J.
+DISPUTE RESOLUTION.
+BINDING ARBITRATION
+
+In the event an individual has a complaint related to IdenTrust, the Privacy Shield, and Subject Data where such complaint is not resolved through contact made with IdenTrust above, IdenTrust designates JAMS as the independent recourse mechanism of IdenTrust under the Privacy Shield.
+JAMS can be contacted through the instructions provided at the following web address:
+https://www.jamsadr.com/eu-us-privacy-shield
+In accordance with the Privacy Shield and subject to any applicable statutes and case law, it may be possible, under certain conditions, for an individual who is identified within Subject Data to invoke binding arbitration with respect to what the Privacy Shield identifies as âresidualâ claims.
+provided, however, IdenTrust only agrees to such arbitration where (a) such arbitration is required under the Privacy Shield, (b) such arbitration subject to all conditions set forth in the Privacy Shield relating to such arbitration, and (c) the individual initiating such arbitration notices IdenTrust of the arbitration and follows the procedures specified in the Privacy Shield.
+For purposes of communications relating to this Section, IdenTrust can be contacted at the following address:
+privacy.shield@IdenTrust.com
+With respect to IdenTrustâs Privacy Shield certification, IdenTrust reserves the right to assert all legal rights, privileges, defenses, and the like available to it under applicable law or regulation.
+IdenTrust is subject to the investigatory and enforcement powers of the Federal Trade Commission of the United States of America, as well as any other agency of the federal government of the United States of America having such powers where such powers are applicable to IdenTrust under the federal laws of the United States of America.
+
+3.
+CHANGES
+
+From time to time IdenTrust may revise this Privacy Policy, which revisions will become effective at the time of posting of a revised version of this policy at the following web address:
+https://www.identrust.com/privacy.html
+
+
+
+ Â© 2021 IdenTrust, Inc.
+All Rights Reserved.
+Home | Privacy and Legal Policies | System Notifications 
+ Main Menu 
+ My Buying Community 
+ Banking &amp.
+Finance 
+ Enterprise &amp.
+Corporate 
+ Government 
+ Healthcare 
+ Life Sciences 
+ Manufacturing 
+ Personal &amp.
+Professional 
+
+
+ Certificates 
+ Digital Signing &amp.
+Sealing 
+ DoD ECA Programs 
+ Secure Email (S/MIME) 
+ EV Code Signing 
+ Federal Bridge Certified 
+ Federal, State &amp.
+Local Agencies 
+ Healthcare Compliance 
+ IoTT Device Security 
+ Paperless Document Signing 
+ Publicly Trusted 
+ SAFE-BioPharma Compliance 
+ TLS/SSL Website Security 
+
+
+ Manage My Certificate 
+ Support 
+ Change Control Schedules 
+ Document Library 
+ Downloads &amp.
+Drivers 
+ Education Center 
+ Frequently Asked Questions 
+ How Do I ? 
+ Important Announcements 
+ Our Helpful Support Team 
+
+
+ About Us 
+ About Identrust 
+ Careers 
+ Events 
+ Partners 
+ Press 
+
+
+ Contact Us 
+ Topbar Mobile 
+ Application Status 
+
+
+ My Account 
+

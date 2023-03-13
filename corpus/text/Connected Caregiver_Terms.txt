@@ -1,0 +1,341 @@
+
+         Connected Caregiverâ¢ Standard Terms 
+Updated April 13, 2022
+
+These Connected Caregiver Standard Terms constitute a legally binding agreement (the âAgreementâ) between you (as defined below) and Verustat, Inc., doing business as Connected Caregiver (âConnected Caregiver,â âweâ, âusâ, âthe companyâ) and specifically govern (i) any hardware we ship or sell to you (any such hardware is referred to herein as a âDeviceâ), (ii) the use of the Connected Caregiver applications (the âAppâ) and www.myConnectedCaregiver.com, our website (the âWebsiteâ), and (iii) any related services we provide to you.
+The Device(s), App, Website and related services, including, but not limited to, software, data, subscription services, the use of de-identified and aggregated data for improving any of the foregoing, and other services provided by Connected Caregiver shall be collectively referred to herein as the âServices.â
+References to âyouâ in this Agreement refer to each of the following, collectively or individually, as the context may require, and as applicable for each registered Connected Caregiver account: (i) the person who has purchased the Services for the purpose of monitoring the health information of a loved one (referred to herein individually as the âPrimary Caregiverâ) and (ii) the person whose health information is monitored by the Services (your âLoved Oneâ).
+In the case where the Primary Caregiver has purchased the Services to monitor his or her own health information, references to Primary Caregiver and to Loved One herein will be understood to be to the same person.
+
+The Primary Caregiver is responsible for ensuring that your Loved One has received and reviewed a copy of this Agreement, consents to be bound hereby, and specifically consented to being monitored by the Services as set forth in Section 2.9 below.
+Notwithstanding the foregoing, Connected Caregiver may rely on your Loved Oneâs use of any Device as evidence that such consent has been properly given.
+
+
+The Devices and Services are not intended and not authorized for use to diagnose any medical condition or identify or, with the exception of Safety Devices (as defined in Section 2.17 below), alert anyone when medical care (urgent or otherwise) or other urgent assistance is required.
+If you are experiencing a medical emergency, you should immediately contact emergency services (e.g., by dialing 9-1-1 in the United States).
+The Connected Caregiver Services are not designed to identify when a medical emergency has arisen and, with the exception of Safety Services, are not able to contact emergency services (9-1-1) on your behalf. 
+
+
+Each Device (other than the STAT-Phone and Safety Devices) is a medical device regulated by the U.S.
+Food and Drug Administration.
+Please read all information that accompanies each Device.
+By using a Device, you assume the risks associated with using it. 
+
+
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THE SERVICES.
+
+
+
+ Acceptance.
+
+
+1.1.
+BY USING THE SERVICES OR A DEVICE, CREATING AN ACCOUNT, DOWNLOADING SOFTWARE, THE APP OR A SOFTWARE UPDATE, AS APPLICABLE, YOU INDICATE YOUR ACCEPTANCE OF ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT.
+1.2.
+You agree that the terms of this Agreement will apply to any Connected Caregiver-branded app that may be pre-installed on your Device(s), unless such app is accompanied by a separate license, in which case you agree that the terms of that license will govern your use of that app.
+
+
+ License.
+
+
+2.1.
+We grant you a limited, nonexclusive, nontransferable license to access and use the Services, including, but not limited to, software (including Boot ROM code, embedded software and third-party software), documentation, interfaces, content, fonts, and any data that came with the Device(s) (âOriginal Device Softwareâ), as may be updated or replaced by feature enhancements, software updates or system restore software provided by Connected Caregiver (âDevice Software Updatesâ), whether in read only memory, on any other media or in any other form (the Original Device Software together with any Device Software Updates are collectively referred to as the âDevice Softwareâ) pursuant to the terms of this Agreement.
+You may only use the Services for your own personal use (which for the avoidance of doubt includes the Primary Caregiver, your Loved One and any End Users as outlined in Section 2.13 below).
+2.2.
+The Services are proprietary to Connected Caregiver.
+You acquire no right to the Services, the Device Software, or any information or data contained in or produced by the Services or the Device Software, except for the right to use such information and data solely for your own personal purposes, in accordance with this Agreement.
+This license does not grant you any rights to use Connected Caregiver proprietary interfaces and other intellectual property in the design, development, manufacture, licensing or distribution of third party devices and accessories, or third-party software applications, for use with a Device, Services, or otherwise.
+You may not sublicense, assign, or transfer your license to the Service, the Device Software, or the data and output produced by the Services or the Device Software to any third party, but you may designate and authorize End Users to access the Services for the benefit of your Loved One subject to the terms of this Agreement and specifically Section 2.13 below.
+2.3.
+This license shall terminate immediately upon termination of your subscription to the Services and all right and licenses granted under this Agreement shall revert to Connected Caregiver, provided you may retain any Device(s) you have purchased provided they are paid for in full.
+2.4.
+Connected Caregiver, at its discretion, may make available future Device Software Updates for a Device.
+The Device Software Updates, if any, may not necessarily include all existing software features or new features that Connected Caregiver releases for newer or other models of a Device.
+The terms of this License will govern any Device Software Updates provided by Connected Caregiver that replace and/or supplement the Original Device Software product, unless such Device Software Update is accompanied by a separate license in which case the terms of that license will govern.
+2.5.
+All waveform data and all information surrounding the alert data is confidential, a trade secret, and/or otherwise proprietary to Connected Caregiver.
+No license is provided to you to use or disclose this information to others except as is necessary for monitoring your Loved Oneâs health or facilitating medical treatment for your Loved One, and it is provided with similar restrictions.
+2.6.
+Subject to the terms and conditions of this License, you are granted a limited, non-exclusive license to download Device Software Updates that may be made available by Connected Caregiver for your Device(s) to update or restore the software on your Device(s).
+2.7.
+You may not, and you agree not to or enable others to, copy (except as expressly permitted by this License), decompile, reverse engineer, disassemble, attempt to derive the source code of, decrypt, modify, or create derivative works of the Device Software or the Services or any part thereof (except as and only to the extent any foregoing restriction is prohibited by applicable law or by licensing terms governing use of open-source components that may be included with the Device Software).
+2.8.
+The Device Software may be used to reproduce materials so long as such use is limited to reproduction of non-copyrighted materials or materials in which you own the copyright.
+Any content displayed by, stored on or accessed through your Device(s) or Services may be protected by copyright or other intellectual property laws and treaties, and may be subject to terms of use of the third party providing such content.
+Except as otherwise provided herein, this License does not grant you any rights to use such content nor does it guarantee that such content will continue to be available to you.
+2.9.
+If you are the Primary Caregiver who has ordered Devices and Services to be used by your Loved One, you warrant that you have provided a copy of this Agreement to your Loved One and obtained their consent to be monitored and have their health information collected by the Devices and the Services and shared with you and any End Users you designate, as well as with Connected Caregiver to be used in accordance with the terms of this Agreement and in particular Section 6 below.
+2.10.
+You agree to use the Device Software and the Services in compliance with all applicable laws, including local laws of the country or region in which you reside or in which you download or use the Device Software.
+Features of the Device Software and the Services may not be available in regions, some features may vary by region, and some may be restricted or unavailable from your service provider.
+A Bluetooth connection to a supported device (âPaired Deviceâ) with Wi-Fi or cellular data connection is required for some features of the Device Software and Services.
+2.11.
+You acknowledge that many features and Services of the Device Software and Device transmit data and could impact charges to your data plan, and that you are responsible for any such charges.
+You can control which applications are permitted to use cellular data and view an estimate of how much data such applications have consumed under Cellular Data Settings.
+For more information, please consult your User Guide for your cellular or internet Device.
+2.12.
+You agree that you may not rely on the Device or Services for any medical decisions, and that if you have any concerns about your Loved Oneâs health, you should consult a physician regardless of information provided or not provided by the Device and Services.
+For example, Connected Caregiverâs Alerts provided by the Services, or the lack of a Connected Caregiver Alert, should not be relied on by you and you must seek medical attention for your Loved One as you would in the absence of the Device and Service.
+If your Loved One has any medical condition that you believe could be affected by a Device, consult with a physician prior to using the Device.
+2.13.
+End Users.
+Additional persons who are granted access to the Services by the Primary Caregiver or your Loved One to be able to monitor or review the health information of your Loved One are referred to herein as âEnd Users.â You will be deemed to have taken any action that you permit, assist or facilitate any End User to take.
+You are responsible for End Usersâ use of the Services and any use or disclosure of information about your Loved One accessed by an End User through the Services.
+You will ensure that all End Users comply with your obligations under this Agreement.
+If you become aware of any violation of your obligations under this Agreement caused by an End User, you will immediately suspend the End Userâs access.
+End Users may access customer support in order to assist them in setting up and using the Services.
+2.14.
+You agree not to misuse the Device or Services or help anyone else to do so.
+Any violation of this section may result in immediate suspension or termination of your Connected Caregiver account.
+Any attempt to do any of the following things, successful or otherwise, is a violation of this section: (a) probe, scan, test the vulnerability of, interfere with, or disrupt any system or network.
+(b) breach or otherwise circumvent any security or authentication measures.
+(c) access, tamper with, or gain unauthorized access to non-public areas or parts of the Services.
+(d) send unsolicited communications, promotions or advertisements, or spam.
+(e) send altered, deceptive, or false source-identifying information, including spoofing of phishing.
+(f) promote or advertise any products or services.
+(g) resell the Services unless specifically authorized to do so by Connected Caregiver.
+(h) harass any person, violate the privacy of any person, infringe upon the rights of any person (including intellectual property rights), or use the Services in any way that is unethical or immoral.
+or (i) use the Services in any way that constitutes a violation of law or that would give rise to civil liability.
+2.15.
+You may not rent, lease, lend, sell, redistribute, or sublicense the Device Software.
+Devices may not be compatible with other similar services (i.e., you may not be able to use a Device received from us with similar services provided by third parties).
+If you cease to subscribe to the Services, the Devices may no longer be usable.
+The STAT-phone may not be used as a typical mobile phone device (e.g., it cannot be used to make phone calls).
+2.16.
+You may share the information collected through the Services with a physician, but we do not warrant the informationâs accuracy or completeness and any use of such information is at the physicianâs discretion and your sole risk.
+Any medical advice provided (or not provided) by your physician, and any decision made (or not made) by or care or treatment provided (or not provided) to you (collectively, âCare Decisionsâ), whether or not in reliance on any information from the Services, is solely at your own risk.
+Connected Caregiver specifically disclaims any responsibility for any Care Decisions.
+2.17.
+Safety Monitoring Services and Devices.
+This section 2.17 applies solely to the Connected Caregiver Safety Monitoring service, a personal emergency response service provided by Connected Caregiver to subscribers (âSafety Servicesâ) and the Devices supplied to you by Connected Caregiver to provide such Safety Services (âSafety Devicesâ).
+Except to the extent in conflict with any terms of this Section 2.17, all provisions in this Agreement applicable to Services and Devices apply equally to Safety Services and Safety Devices, respectively.
+To the extent of any such conflict, the terms of this Section 2.17 will control, but solely with respect to Safety Services and Safety Devices.
+The Safety Services include the location tracking services and receipt, analysis and response to alarm signals initiated by you or others via the Safety Devices (or when the Safety Device detects a fall) for so long as you subscribe for such Safety Services.
+Upon receipt of an alarm (whether user initiated or due a fall being detected), Connected Caregiver will make reasonable efforts to contact you via your Safety Device, and if deemed necessary in Connected Caregiverâs reasonable judgment, other persons (e.g., loved ones or medical professionals) and entities (e.g., local police, fire, ambulance or other emergency services) you have specified (and in the order you have specified) at the time you subscribed for the Safety Services (collectively, âRespondersâ) may be contacted.
+You are solely responsible for ensuring that all Responder information (including name and contact details) is accurate and kept up-to-date.
+Note, if we receive an alarm and receive no response when we attempt to contact you via your Safety Device, and are unable to reach you or the Responders you have designated in your account profile, we may dispatch emergency services to your location (as reported by your Safety Device).
+Connected Caregiver is expressly authorized to rely on any statements made by you or anyone sending an alert or communicating with us (or our monitoring service provider) via the Safety Device or via other means (e.g., via phone at your home or other location where your Safety Device is registered) as to your condition or location and specifically in connection with making a decision on which Responders to contact, if any, and without verifying such personâs identity or authority to speak on your behalf.
+Connected Caregiver may also disregard any alarm if you or any of the foregoing direct Connected Caregiver to do so (and may also in such case advise Responders to disregard any such alarm).
+You agree that attempting to contact the designated Responders as set forth above (when determined necessary in Connected Caregiverâs reasonable judgment) is Connected Caregiverâs exclusive duty as far as responding to any alarm received from your Safety Device.
+Without limiting the foregoing, (a) Connected Caregiver is not responsible for the promptness, sufficiency or adequacy of the action of any Responder or any third party acting for a Responder.
+(b) Connected Caregiver in no way represents or guarantees that Responders can be contacted, can or will respond, or that any response will be safe, timely, or effective.
+(c) the Responders designated by you, and the emergency services available in your area, are not agents or other representatives of Connected Caregiver.
+(d) Connected Caregiver will not send any of its personnel to your premises in response to any emergency signal.
+(e) you will be responsible for any fines imposed for any false alarms (including any such fines imposed on Connected Caregiver or its suppliers or licensors providing any part of the Safety Services).
+and (f) Connected Caregiver will not be responsible for any medical bills or other charges or liability for which you are billed by any Responder in connection with their response to an alarm (even if you conclude that we should not have contacted a Responder or that the Responderâs response was not needed or ineffective or not covered by insurance).
+The Safety Services are not insurance.
+Connected Caregiver does not provide insurance and does not guaranty that no loss or injury will occur by having a Safety Device or using the Safety Services.
+The Safety Device relies on mobile data networks to be able to deliver tracking information and alarms to Connected Caregiver.
+Connected Caregiver is not responsible if the Safety Device is unable to deliver tracking information or an alarm or if Connected Caregiver is unable to provide the Safety Services as a result of any disruption or fault in such networks from any cause or if the Safety Device is used outside the geographic area where such networks operate.
+You are responsible for maintaining your Safety Device in good operating condition.
+Connected Caregiver is not responsible if your Safety Device is unable to detect a fall or send an alarm due to negligent care on your part.
+You expressly authorize us to direct any Responder to force entry into your home or premises in response to an alarm.
+You acknowledge that this may result in damage to your home or such premises (and/or damage to property, or injury, up to and including death, to persons or pets, located therein).
+You agree that neither Connected Caregiver nor any such Responder will be responsible for any such damage or injury.
+You acknowledge that as part of the Safety Services, Connected Caregiver may collect location tracking information via the Safety Devices and such tracking information may be shared with third parties with which Connected Caregiver has contracted to provide any part of the Safety Services.
+Such tracking information may be used by Connected Caregiver and such third parties for any lawful purpose, subject to Connected Caregiverâs Privacy Policy, which can be viewed at https://MyConnectedCaregiver.com/terms.
+You acknowledge that the networks over which such tracking information is communicated are not secure and may be intercepted.
+As a consequence of the foregoing, you acknowledge that tracking information should not be considered confidential.
+For more details on how this tracking information may be collected, shared and used by us and the third parties with which we do business, refer to our Privacy Policy.
+You may be required by your local governmental authority or agency to obtain a permit before you can lawfully receive the Safety Services.
+You will be responsible for obtaining any such permits and paying any associated fees as well as for any fines imposed as a result of any failure to obtain or maintain such permits.
+If we receive an excessive number of false alarms from your Safety Device, we may impose additional fees and/or cancel your subscription to the Safety Services.
+The Federal Communications Commission and Federal Aviation Administration prohibit the use of the Safety Devices on commercial aircraft, including in checked baggage.
+If your subscription for the Safety Services expires or is terminated, Connected Caregiver may disregard any alarm from your Safety Device (and may take steps to prevent the receipt of any further communications from your Safety Device).
+
+
+ Devices.
+
+
+3.1.
+This Section 3 applies specifically to the Devices and any other tangible goods sold or shipped by Connected Caregiver to you when you subscribe for Services.
+3.2.
+Devices will be shipped promptly after your order is received.
+Any delivery date we communicate to you at the time of order is an estimate only and not a guaranty.
+Title and risk of loss with respect to the Devices passes to you upon delivery to the delivery address you provided at the time of order.
+This means that if a Device is lost or damaged after you have received it, Connected Caregiver may charge your authorized form of payment a Lost/Non-Returned Device fee based on the type and number of Devices affected (in the case of loaned Devices).
+This fee is waived if your subscription has been active and fully paid for at least 6-months from the date the affected Devices were shipped to you, and this fee does not apply in the case of Devices you purchase separately.
+3.3.
+You must inspect the Device(s) promptly upon receipt to ensure no damage has occurred during shipping and that you have received the Device(s) you ordered.
+You should also immediately activate and test the Device(s) to ensure they are functioning correctly.
+You may contact Connected Caregiver customer support if you have any difficulties activating your Device(s).
+You should immediately notify us if there is any damage or discrepancy in your shipment or if any Device(s) are not functioning properly.
+You will be deemed to have accepted the Device(s) if we have not received a report of damage or other issue within twenty (20) days of the date of delivery.
+3.4.
+If a Device stops working properly, and assuming we are not able to address the issue remotely (e.g., over the phone or via email or web support), we will promptly ship a replacement Device to you at no cost.
+Along with the replacement Device, you will be provided a return shipping label to ship the defective Device back to us at our cost once the replacement Device has been received.
+You must promptly return the defective Device to us using the return shipping label and the packaging your replacement Device arrives in (care should be taken when opening the replacement Device package upon delivery to ensure the packaging can be reused).
+If we do not receive the defective Device back within thirty (30) days of delivery of the replacement Device, you may be charged a Lost/No Return Fee on your authorized form of payment.
+This Section 3.4 will apply only for so long as you are continuously subscribed to receive the Services.
+3.5.
+Devices are manufactured by third parties.
+Except with respect to the Device Software, Connected Caregiver has no input in the design or manufacture of the Devices.
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, CONNECTED CAREGIVER SPECIFICALLY DISCLAIMS ANY RESPONSIBILITY FOR ANY DEFECT IN THE MANUFACTURE OR DESIGN OF ANY DEVICE.
+3.6.
+EXCEPT FOR ANY WARRANTY PROVIDED BY THE ORIGINAL MANUFACTURER, DEVICES ARE SOLD AS-IS WITHOUT ANY WARRANTY OF ANY KIND.
+THE DISCLAIMERS SET FORTH IN SECTION 10 BELOW ALSO APPLY.
+
+
+ User Accounts and Subscription and Payment Terms.
+
+
+4.1.
+Any person accessing the Services must register for a Connected Caregiver user account.
+Each user account must be associated with a valid email address and a primary account established by the applicable Primary Caregiver.
+Each account group (including the Primary Caregiverâs account and all related accounts) will have access to the data of only your Loved One.
+4.2.
+Subscriptions operate on a month-to-month base, meaning your subscription will continue in force, and the Primary Caregiverâs designated form of payment will be automatically charged, in accordance with the payment terms disclosed to the Primary Caregiver at the time he or she registered the primary account, until the Primary Caregiver cancels the subscription.
+The Primary Caregiver must keep a valid form of payment on file with us for the duration of the subscription and agrees to pay all subscription fees in a timely manner in accordance with such payment terms.
+Failure to pay any amount when due may result in the immediate suspension of the Services.
+4.3.
+A subscription may be cancelled by the Primary Caregiver at any time by contacting Connected Caregiver customer support.
+Cancellation will be effective upon the expiration of the period through which you have paid for the Services.
+4.4.
+Subscription fees, once paid, are not refundable.
+If your subscription has been active less than six (6) months since the date your Devices were shipped, you must return the Devices within two (2) weeks of cancelling your subscription or your approved form of payment will be charged a Lost/No Return Fee based on the type and number of Devices.
+4.5.
+You may not use as a username the name of another person or entity or that is not lawfully available for use, a name or trademark that is subject to any rights of another person or entity other than you without appropriate authorization, or a name that is otherwise offensive, vulgar or obscene.
+4.6.
+You agree to take all reasonable efforts to prevent the unauthorized use or disclosure of your user ID and password to protect the Services from improper access.
+Your user ID and password are personal to you only.
+You are responsible for anyone to whom you provide access to your user ID and password.
+If you believe your user ID or password have been compromised, notify us as soon as possible.
+If you fail to do so, we are not responsible for any damages you sustain as a result of any unauthorized access to the Services.
+Further you may be responsible for damages we sustain as a result of unauthorized access to the Services.
+
+
+User Support &amp.
+Communication.By registering for a user account, you agree that Connected Caregiverâs staff may contact you to assist you with the Services and the Device(s) and to obtain updates on your Loved Oneâs health status and your feedback on the Services.
+You agree that Connected Caregiver may contact you (using the information you provided at registration) via email, push notification in the app, telephone, cell phone, and SMS/text messages.
+
+Consent to Use of Data.Device Software features require information from the Device(s) to provide their respective functions.
+When you turn on or use these features, data potentially including, but not limited to, heart rate, respiratory rate, blood pressure, oxygen saturation, temperature, motion, posture, skin temperature, and/or mobility, and changes to the foregoing will be transmitted by the Device Software to Connected Caregiver.
+By using the Device and Services, you agree and consent to Connected Caregiverâs and its agentsâ transmission, collection, maintenance, processing, and use of this information, to provide and improve the Devices and Services and other Connected Caregiver products and services.
+At all times your information will be treated in accordance with Connected Caregiverâs Privacy Policy, which can be viewed at https://MyConnectedCaregiver.com/terms.
+
+Assignment of Rights to Feedback.All data or comments submitted or otherwise given by you regarding the evaluation of, critique of, or suggestions for improvement of the Connected Caregiver Devices and Services (collectively âFeedbackâ) shall be owned by Connected Caregiver and you hereby assign to Connected Caregiver all of your right, title and interest in and to such data and all Feedback.
+Additionally, you acknowledge and agree that Connected Caregiver may prepare, use, sell and distribute aggregated de-identified information collected and stored in or as part of the Services.
+
+ Third Party Materials.
+
+
+8.1.
+The Device Software may enable access to third-party services and web sites.
+Use of third-party services requires Internet access.
+Use of certain third-party services may require an account and may require you to accept additional terms and may be subject to additional fees.
+By using such third-party services, you agree to the applicable terms of service for such services.
+8.2.
+Connected Caregiver does not guarantee the availability, accuracy, completeness, reliability, or timeliness of data transmitted or displayed by any Services or third-party services.
+8.3.
+To the extent that you upload any content through the use of the Services or third-party services, you represent that you own all rights in, or have authorization or are otherwise legally permitted to upload, such content and that such content does not violate any terms of service.
+You agree that the Services or third-party services contain proprietary content, information and material that is owned by Connected Caregiver, the site owner and/or their licensors, and is protected by applicable intellectual property and other laws, including but not limited to copyright.
+You agree that you will not use such proprietary content, information or materials other than for permitted use of the Services or third-party services or in any manner that is inconsistent with the terms of this License or that infringes any intellectual property rights of a third party or Connected Caregiver.
+No portion of the Services or third-party services may be reproduced in any form or by any means.
+You agree not to modify, rent, lease, loan, sell, distribute, or create derivative works based on the Services or third-party services, in any manner, and you shall not exploit the Services or third-party services in any unauthorized way whatsoever, including but not limited to, using the Services or third-party services to transmit any computer viruses, worms, trojan horses or other malware, or by trespass or burdening network capacity.
+You further agree not to use the Service or third-party services in any manner to harass, abuse, stalk, threaten, defame or otherwise infringe or violate the rights of any other party, and that Connected Caregiver is not in any way responsible for any such use by you, nor for any harassing, threatening, defamatory, offensive, infringing or illegal messages or transmissions that you may receive as a result of using any of the Services or third-party services.
+
+
+Termination.This Agreement is effective until terminated.
+Your rights under this Agreement will terminate automatically or otherwise cease to be effective without notice from Connected Caregiver if you fail to comply with any term(s) of this Agreement.
+Upon the termination of this Agreement, you shall cease all use of the Device Software.
+You also acknowledge that any Devices you may have received or purchased may cease to function or have limited functionality without an active subscription to the Services and that notwithstanding any such limitations you will not be entitled to a refund for the Devices.
+Accrued payment obligations, together with the terms and conditions of sections 6 through 21 of this Agreement shall survive any such termination.
+
+ Disclaimer of Warranties.
+
+
+10.1.
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT, TO THE EXTENT PERMITTED BY APPLICABLE LAW, USE OF THE DEVICE(S), DEVICE SOFTWARE, AND ANY SERVICES PERFORMED BY OR ACCESSED THROUGH THE DEVICE SOFTWARE OR SERVICES IS AT YOUR SOLE RISK AND THAT THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH YOU.
+10.2.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE DEVICE, DEVICE SOFTWARE AND SERVICES ARE PROVIDED âAS ISâ AND âAS AVAILABLEâ, WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND.
+CONNECTED CAREGIVER AND CONNECTED CAREGIVERâS LICENSORS (COLLECTIVELY REFERRED TO AS âCONNECTED CAREGIVERâ FOR THE PURPOSES OF SECTIONS 10 AND 11) HEREBY DISCLAIM ANY AND ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE DEVICE(S), DEVICE SOFTWARE, AND SERVICES, EITHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, QUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS.
+10.3.
+CONNECTED CAREGIVER DOES NOT WARRANT AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF THE DEVICE(S), DEVICE SOFTWARE AND SERVICES, THAT THE FUNCTIONS CONTAINED IN, OR SERVICES PERFORMED OR PROVIDED BY, THE DEVICE(S), DEVICE SOFTWARE OR CONNECTED CAREGIVER IN GENERAL WILL MEET YOUR REQUIREMENTS, THAT THE OPERATION OF THE DEVICE(S), DEVICE SOFTWARE OR SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, THAT ANY SERVICE WILL CONTINUE TO BE MADE AVAILABLE, THAT DEFECTS IN THE DEVICE(S), DEVICE SOFTWARE OR SERVICES WILL BE CORRECTED, OR THAT THE DEVICE(S), DEVICE SOFTWARE OR SERVICES WILL BE COMPATIBLE OR WORK WITH ANY THIRD PARTY SOFTWARE OR APPLICATIONS.
+THIRD PARTY INSTALLATION OF THIS DEVICE SOFTWARE MAY AFFECT THE AVAILABILITY AND USABILITY OF THIRD-PARTY SOFTWARE, APPLICATIONS, OR THIRD-PARTY SERVICES, AS WELL AS CONNECTED CAREGIVERâS SERVICES.
+10.4.
+YOU FURTHER ACKNOWLEDGE THAT THE DEVICE(S), DEVICE SOFTWARE AND SERVICES ARE NOT INTENDED OR SUITABLE FOR USE IN SITUATIONS OR ENVIRONMENTS WHERE THE FAILURE OR TIME DELAYS OF, OR ERRORS OR INACCURACIES IN, THE CONTENT, DATA OR INFORMATION PROVIDED BY ANY OF THE FOREGOING COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE, INCLUDING WITHOUT LIMITATION THE OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, LIFE SUPPORT OR WEAPONS.
+10.5.
+NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY CONNECTED CAREGIVER OR A CONNECTED CAREGIVER AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY.
+SHOULD A DEVICE, THE DEVICE SOFTWARE OR SERVICES PROVE DEFECTIVE, YOU ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR OR REPLACEMENT.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES OR LIMITATIONS ON APPLICABLE STATUTORY RIGHTS OF A CONSUMER, SO THE ABOVE EXCLUSION AND LIMITATIONS MAY NOT APPLY TO YOU.
+10.6.
+THIS DISCLAIMER OF WARRANTIES MAY NOT BE ALLOWED IN CERTAIN JURISDICTIONS, SO THE PROVISIONS OF THIS SECTION MAY NOT APPLY TO YOU.
+
+
+Limitation of Liability.TO THE EXTENT NOT PROHIBITED BY APPLICABLE LAW, IN NO EVENT SHALL CONNECTED CAREGIVER, ITS AFFILIATES, AGENTS OR PRINCIPALS BE LIABLE FOR PERSONAL INJURY, OR ANY INCIDENTAL, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, CORRUPTION OR LOSS OF DATA, FAILURE TO TRANSMIT OR RECEIVE ANY DATA, BUSINESS INTERRUPTION OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OR INABILITY TO USE A DEVICE, THE DEVICE SOFTWARE OR SERVICES OR ANY THIRD PARTY SOFTWARE OR APPLICATIONS IN CONJUNCTION WITH THE FOREGOING, HOWEVER CAUSED, REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT, TORT OR OTHERWISE).
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR PERSONAL INJURY, OR OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS LIMITATION MAY NOT APPLY TO YOU.
+In no event shall Connected Caregiverâs total liability to you for all damages (other than as may be required by applicable law in cases involving personal injury) exceed the amount of two hundred and fifty dollars (US$250.00).
+The foregoing limitations will apply even if the above-stated remedy fails of its essential purpose.
+
+Indemnification.You hereby agree to defend, indemnify and hold harmless Connected Caregiver and its directors, employees, owners, suppliers, licensors, successors and assigns (collectively the âIndemnified Partiesâ) from and against any and all losses, damages or expenses of whatever form or nature, including actual attorneysâ fees and other costs of legal defense, whether direct or indirect, which they, or any Indemnified Party may sustain or incur as a result of your act or omission including, but not limited to, (i) your or any End Userâs use and access of the Services, by you or any person using your account and password.
+(ii) a breach of this Agreement or violation of applicable law by you or any End User, (iii) any content or data posted on the Service, (iii) any claim by your Loved One that they have not consented to be monitored as set forth in this Agreement.
+(iv) a dispute between or among any combination of the following: the Primary Caregiver, your Loved One, and/or any End User(s).
+or (v) any claim asserting that Connected Caregiver and/or any other Indemnified Party should be legally responsible for any loss or damage to property or for any injury (up to and including death) suffered by any person or animal in each case where Connected Caregiver has disclaimed responsibility hereunder for any such loss, damage or injury (a âCovered Claimâ).
+On behalf of yourself and any other person claiming through you or suing in your name, including without limitation any relative, heir, successor or assign and any insurer of you or your property, you hereby release Connected Caregiver and each Indemnified Party from any responsibility for any Covered Claim.
+
+Controlling Law.
+This Agreement will be governed by and construed in accordance with the laws of the State of Tennessee, without regard to its conflict of law principles.
+
+Severability.
+If for any reason a court of competent jurisdiction finds any provision, or portion of this Agreement to be unenforceable, such provision shall be enforceable to the maximum extent permitted under applicable law, and the remainder of this Agreement shall continue in full force and effect notwithstanding such unenforceable provision.
+
+Complete Agreement.
+Governing Language.This Agreement constitutes the entire agreement between you and Connected Caregiver and supersedes all prior or contemporaneous understandings.
+No amendment to or modification of this Agreement will be binding unless in writing and signed by Connected Caregiver.
+Any translation of this Agreement is done for local requirements and in the event of a dispute between the English and any non-English versions, the English version of this Agreement shall govern, to the extent not prohibited by local law in your jurisdiction.
+
+Force Majeure.In no event shall Connected Caregiver be responsible or liable for any failure or delay in the performance of its obligations hereunder arising out of or caused, directly or indirectly, by circumstances beyond its reasonable control, including, without limitation, acts of God.
+earthquakes.
+fires.
+floods.
+wars.
+civil or military disturbances.
+acts of terrorism.
+sabotage.
+strikes.
+epidemics.
+riots.
+power failures.
+computer failure and any such circumstances beyond its reasonable control as may cause interruption, loss, or malfunction of utility, transportation, computer (hardware or software) or telephone communication service.
+accidents.
+labor disputes.
+acts of civil or military authority.
+governmental actions.
+or inability to obtain labor, material, equipment or transportation.
+
+Independent Contractors.
+Non-Exclusive Rights.This Agreement will not be construed to create a partnership, joint venture, agency, or employment relationship between Connected Caregiver and any person.
+Neither party, nor any of their respective affiliates, is an agent of the other for any purpose or has the authority to bind the other.
+
+Disputes.Any disputes, controversy, or claim arising out of or relating to this Agreement or a partyâs performance or breach thereof, including regarding the scope of this Section, shall be submitted to binding arbitration before the American Arbitration Association pursuant to its Commercial Arbitration Rules then in effect, with the final hearing to be held in Nashville, Tennessee, except that you may assert claims in small claims court in Nashville, Tennessee if your claims qualify.
+Each party shall bear its own cost and expenses in connection with any such dispute or assertion of any such claim.
+The costs of the arbitrator will be shared equally.
+We and you agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action.
+IF FOR ANY REASON A CLAIM PROCEEDS IN COURT RATHER THAN IN ARBITRATION WE AND YOU WAIVE ANY RIGHT TO A JURY TRIAL AND WE BOTH AGREE THAT THE EXCLUSIVE JURISDICTION FOR ANY SUCH COURT PROCEEDING WILL BE THE STATE OR FEDERAL COURTS LOCATED IN DAVIDSON COUNTY (NASHVILLE), TENNESSEE.
+Notwithstanding the foregoing we and you both agree that you or we may bring suit in any court of competent jurisdiction to enjoin infringement or other misuse of intellectual property rights.
+No claim may be brought against Connected Caregiver more than one (1) year after the incident giving rise to such claim occurred.
+
+No Third-Party Beneficiaries.Except as set forth in Section 12 and as specified below, this Agreement does not create any third-party beneficiary rights in any individual or entity that is not a party to this Agreement.
+Connected Caregiver may contract with third parties to provide some or all of the Services.
+You may be contacted by agents of such third party in connection with the Services.
+The conditions, disclaimers, limitations, and other provisions of this Agreement apply for the benefit of such third party to the same extent as if Connected Caregiver was providing the Services directly.
+Further, nothing in this Agreement will be deemed to create any contract between you or your Loved One or any End User and any supplier or licensor of Connected Caregiver, or give rise to any contractual or other obligation owing from any such supplier or licensor directly to you, your Loved One, or any End User.
+
+No Waivers.The failure by us to enforce any provision of this Agreement will not constitute a present or future waiver of such provision nor limit our right to enforce such provision at a later time.
+All waivers by us must be in writing to be effective.
+
+ Notice.
+
+
+21.1.
+To You.
+We may provide any notice to you under this Agreement by: (i) posting a notice on the Website.
+or (ii) sending a message to the email address then associated with your account.
+Notices we provide by posting on the Website will be effective upon posting and notices we provide by email will be effective when we send the email.
+It is your responsibility to keep your email address current.
+You will be deemed to have received any email sent to the email address then associated with your account when we send the email, whether or not you actually receive the email.
+21.2.
+To Us.
+To give us notice under this Agreement, you must contact Connected Caregiver by facsimile transmission to facsimile number 615-807-3779 or personal delivery, overnight courier or registered or certified mail to 1569 Mallory Lane, Building 200, Brentwood, TN 37027.
+Notices provided by facsimile transmission or overnight courier will be effective one business day after they are sent.
+Notices provided registered or certified mail will be effective three business days after they are sent.

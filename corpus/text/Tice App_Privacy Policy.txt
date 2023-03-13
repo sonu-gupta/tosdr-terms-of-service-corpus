@@ -1,0 +1,153 @@
+
+         Skip to the content TICE App TICE AppLocate &amp.
+Meet Friends Menu 
+TICE App â Secure Location Sharing for iOS, Android and Web
+News
+Contact
+
+
+ Close Menu 
+TICE App â Secure Location Sharing for iOS, Android and Web
+News
+Contact
+
+
+
+
+Facebook
+Twitter
+Instagram
+ Privacy Policy 
+We have made it our business to protect the privacy of our users to the highest degree.
+TICE Software UG (haftungsbeschrÃ¤nkt)
+
+The protection of your personal data is very important to us.
+So we try to avoid data wherever possible and encrypt the necessary information with modern encryption methods that offer a high level of protection.
+We donât use advertising, donât sell your data, donât use data hungry services and are always looking for improvements how we can protect your privacy.
+We treat your personal data confidentially and according to the legal data protection regulations as well as this privacy policy.
+With this data protection declaration we inform you about the purposes for which personal data is collected, processed and used.
+The legal basis for data protection is to be found in the German Federal Data Protection Act (BDSG), the German Telemedia Act (TMG) and the EU Basic Data Protection Regulation (EU-DSGVO).
+We would like to point out that data transmission on the Internet can have security gaps.
+A complete protection of data against access by third parties is not possible. 1.
+Contact person and responsible body The app âTICE â Secure Site Sharingâ for iOS and on the Web at www.tice.app (hereinafter referred to as (TICE-)App) and the website ticeapp.com (hereinafter referred to as Website) are offered by
+TICE Software UG (haftungsbeschrÃ¤nkt)Wegedornstrasse 3212524 Berlin
+hereinafter referred to as âoperatorâ or âweâ. 2.
+TICE App When using the app, personal data is collected by the app and sent to other people via the internet.
+TICE takes care to protect this data in the best possible way.
+If you have any concerns regarding data protection, please contact the postal address or e-mail address mentioned in the imprint.
+The servers used by the TICE App are provided by Amazon Web Services (hereinafter referred to as Hoster) and are located in Frankfurt, Germany.
+All data of the TICE App listed below, which are processed by the operator, can also be processed by the hoster.
+The hoster has committed itself to process the personal data in accordance with DSGVO (see AWS Service Terms). 2.1.
+Personal data The app processes personal data of the users on their respective devices to fulfill its purpose.
+Certain data, which are named below, will be transferred to other persons or the operator to fulfill the service.
+We process and store personal data only for the period of time required to achieve the service or if required by law.
+The processing purpose is usually achieved by deleting the user profile (âAccountâ or â(user) profileâ). 2.1.1.
+Data sent to the operator: 
+IP address
+Random and unique identifier of the user (user ID)
+User name
+Public key information
+
+The first time users start the TICE App, they create a user profile.
+This profile consists of a random but unique identifier that can be used to identify the user pseudonymously, public key material for the asymmetric encryption of data, and an optional user name, which is defined by the user.
+This profile is stored on the server and can be viewed by the operator.
+This data can be deleted by the user at any time (see section Delete data). 2.1.2.
+Data sent to other users: 
+Random and unique identifier of the user (user ID)
+User name
+Public key information
+Location information
+
+User location information is transmitted to other users during an active meeting.
+For this purpose, the information is transmitted end-to-end encrypted 1 via the Internet and via the operatorâs servers.
+This encrypted data is only stored temporarily on our servers and is deleted as soon as the message has been delivered to the recipients or 30 days have passed. 2.2.
+Further data 2.2.1.
+Groups and meetings Groups and meetings are used synonymously in the following Information about groups is stored on the servers operated by TICE exclusively in encrypted form1 and is deleted when the group is deleted or the meeting is terminated.
+Invitations to groups can be shared with any person via links.
+Invitation links to groups contain the key used for encryption, thus enabling a user to view the group name, group settings, list of group members, meeting place, and join the group.
+Users are responsible for protecting group links from unauthorized third parties and for obtaining the consent of all members of the group whose link they are sharing. 2.2.2.
+Feedback and bug reporting Sending feedback within the app uses log files and a screenshot of the application as an attachment to an email.
+This data may contain personal information.
+This information is sent to us via the e-mail account selected by the user.
+This information is sent to us according to the e-mail service used.
+The user agrees that feedback information can be viewed and stored by us, just like any other e-mail addressed to us. 2.2.3.
+Analytics To improve our services and to better understand the use of our app, we collect anonymous statistics about our app.
+For this purpose, anonymized user interactions are transmitted to our servers.
+We explicitly do not use pseudonyms, no personal information is included and the individual interactions in the app can not be traced or linked. 2.3.
+Cookies in web app In our web app we use so called âCookiesâ.
+Those cookies are small text files, which will be stored permanently on your device.
+Theyâll be stored until you or your browser delete them.
+In our web app you can delete all account data, which will also delete all cookies originated by our web app.
+The usage of cookies takes only place after clicking the respective button to join a group.
+By clicking you give consent to save cookies, according to Art.
+6 Abs.
+1 lit.
+a GDPR.
+Furthermore the operator has a legitimate interest in providing a technically optimized experience with the web app, so using the web app without cookies isnât possible.
+Therefore storing those cookies follows Art.
+6 Abs.
+1 lit.
+f GDPR.
+Those functional cookies are only used for the functionality of our web app.
+Tracking or any other usage of those cookies doesnât happen, neither by us nor by any third party.
+You can deny the usage of cookies in your browser.
+Keep in mind, that your experience and the functionality of our web app then might be limited. 3.
+Website The website is made available by servers of Strato AG (hereinafter referred to as web hosters).
+The webhoster undertakes to treat data which it has available for processing exclusively in accordance with DSGVO.. 3.1.
+Web tracking On this website, data (browser used, operating system, resolution, navigation behaviour on our site, time) are collected and stored using the web analysis service software âMatomoâ (www.matomo.org), a service of the provider InnoCraft Ltd.
+for optimisation and marketing purposes.
+Personal data such as the IP address are only stored in anonymous form. 3.2.
+Newsletter If you would like to receive the newsletter offered on the website, we need an e-mail address from you as well as information that allows us to verify that you are the owner of the e-mail address provided and that you agree to receive the newsletter.
+In order to ensure that the newsletter is sent by mutual agreement, we use the so-called double opt-in procedure.
+In the course of this procedure the potential recipient can be added to a distribution list.
+Subsequently, the user receives a confirmation e-mail to confirm the registration in a legally secure manner.
+Only if the confirmation is sent, the address is actively added to the distribution list.
+We use this data exclusively for the dispatch of the requested information and offers.
+The newsletter software used is Newsletter2Go.
+Your data will be transmitted to Newsletter2Go GmbH.
+Newsletter2Go is not allowed to sell your data or use it for other purposes than for sending newsletters.
+Newsletter2Go is a German, certified provider, which was selected according to the requirements of the Data Protection Basic Regulation and the Federal Data Protection Act.
+You can find further information here: www.newsletter2go.de/informationen-newsletter-empfaenger
+You can revoke your consent to the storage of your data, your e-mail address and its use for sending the newsletter at any time, for example by clicking on the Unsubscribe link in the newsletter. 3.3.
+Google Web Fonts This page uses so-called web fonts, which are provided by Google, for the uniform display of fonts.
+When you call up a page, your browser loads the required web fonts into its browser cache in order to display texts and fonts correctly.
+For this purpose, the browser you are using must connect to the servers of Google.
+Through this, Google gets knowledge that this website has been accessed via your IP address.
+The use of Google WebFonts is based on Art.
+6 para.
+1 lit.
+f DSGVO.
+The website operator has a legitimate interest in the uniform presentation of the font on his website.
+If a corresponding consent has been requested (e.g.
+consent to the storage of cookies), the processing is carried out exclusively on the basis of Art.
+6 para.
+1 lit.
+a DSGVO.
+the consent can be revoked at any time.
+The privacy policy for Google Web Fonts can be found at policies.google.com/privacy. 4.
+User rights You have the right to receive information about the origin, recipient and purpose of your stored personal data free of charge at any time.
+You also have the right to demand the correction or deletion of this data.
+For this purpose, as well as for further questions regarding data protection, you can contact us at any time at the address given in the imprint.
+Furthermore, you have the right to complain to the responsible supervisory authority. 4.1.
+Delete data The user profile in the TICE App can be deleted in the appâs settings by using the action âDelete accountâ.
+If the user loses access to his profile (e.g.
+by deleting the app) without having deleted the profile data beforehand, they cannot be deleted on request, as the operator cannot establish a link between a person and a profile (user ID).
+Such orphaned profiles are automatically deleted by us after one year of inactivity (no use of the app).
+A user can request the deletion of feedback information sent to us by e-mail, or e-mails from a user can be deleted without giving reasons by sending an e-mail from the same account to the e-mail address mentioned in the imprint with the request for data deletion.
+We will comply with this request as soon as possible. 5.
+Data and third parties The data processed and stored by the operator and the hoster are processed exclusively by the aforementioned parties and are not passed on or sold to third parties.
+In order to guarantee data protection compliant processing, we have concluded a contract for order processing with our host and web host. 6.
+Update of the privacy policy For this reason we ask you to inform yourself about our data protection measures at regular intervals by consulting our data protection declaration.
+Last change: 2020-01-171256-bit symmetrical encryption via XChaCha20
+
+Facebook
+Twitter
+Instagram
+
+ Â© 2021 TICE Software 
+
+Impressum
+Privacy Policy
+Press
+ To the top â Up â 
+      

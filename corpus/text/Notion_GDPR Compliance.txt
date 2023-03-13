@@ -1,0 +1,56 @@
+
+At Notion, we're committed to complying with GDPR.
+To this end, we offer several data portability and management tools, and we ask for consent for data collection.
+Data Processing Addendum
+The terms of the data processing addendum ("Notion DPA") available below are hereby incorporated by reference and shall apply to the extent Notion processes any Personal Data (as defined in the Notion DPA) that is subject to the GDPR on Customerâs behalf.
+Notion DPA.pdf
+Data Portability &amp.
+Management Tools
+
+
+
+Import
+
+We currently provide tools to import from text &amp.
+markdown files, CSV, Microsoft Word, HTML, Trello, Asana, Google Docs, Dropbox Paper, Quip, Evernote, and Workflowy.
+We plan to add more import options in the future, based on user feedback.
+
+
+
+Export
+
+Notion supports exporting in two ways.
+It is possible to export an entire workspace from the workspace settings menu.
+This will create a folder containing all documents in markdown format.
+Additionally, pages can be exported individually by navigating to them and selecting the export option from the page menu.
+
+
+
+Workspace deletion
+
+A workspace can be deleted at any time from the workspace settings menu.
+Upon requesting to delete a workspace, all content will immediately become inaccessible.
+After 30 days, the content will be deleted from our servers and can no longer be recovered.
+
+
+
+Workspace settings
+
+We provide tools to manage other workspace settings, such as name, members, and allowed email domains from our workspace settings menu.
+
+
+Consent
+For European customers, we show a consent dialog during signup that explains our data collection practices.
+Therefore, our lawful basis for collecting personal data is consent.
+We use cookies to securely identify your account and keep you signed in.
+We use analytics services to improve the product and troubleshoot customer issues.
+These include Intercom, Amplitude, Segment, Crashlytics, Google Cloud, Snowflake, and Loggly.
+A customer may withdraw their consent and delete their account at any time by deleting their workspaces via our workspace settings menu.
+Data transfers
+In light of the recent Schrems II ruling, we rely on standard contractual clauses (SCCs) to ensure appropriate safeguards for personal data transfers from the EU to countries outside of the EU.
+Sub-Processors
+
+Amazon Web Services (USA)
+Amplitude (USA)
+Segment (USA)
+

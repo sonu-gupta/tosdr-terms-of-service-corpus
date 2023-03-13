@@ -1,0 +1,180 @@
+
+         Are you looking for Olarkâs Data Processing Agreement (DPA)?
+Please email gdpr@olark.com with the name and email address of the member of your organization authorized to sign, and we will send you our standard agreement. Jump to a section:
+
+Olark and the GDPR
+
+What is GDPR?
+Does Olark support GDPR compliance?
+What does the GDPR mean for Olark customers?
+
+
+What is Olark doing about GDPR?
+
+
+Does Olark have a Data Processing Agreement (DPA)?
+
+
+Can I use Olark and still be GDPR compliant?
+
+
+Will Olark handle notice requirements for me?
+
+
+How will Olark help me respond to individual rights requests?
+
+
+Do I need customer consent to use personal data obtained through Olark?
+
+
+Can I get customer consent in the chat box?
+
+
+Do I have to delete all my transcripts from Olark to be compliant?
+
+
+Do you have an updated privacy policy?
+
+
+Privacy Shield was invalidated in the EU - what next?
+
+
+What tools do you offer to help us control data retention?
+
+
+Does Olark have a signed DPA with each sub-processor?
+
+
+
+ Olark and the GDPR
+Here at Olark, we believe that strong privacy practices are good for both your customers and your business.
+We are committed to supporting your compliance with applicable data and privacy regulations, and to providing you with relevant, accurate information about Olarkâs data and privacy practices.
+To that end, we have provided responses to several common data and privacy questions below.
+
+Please note that this information is not legal advice.
+We strongly encourage you to discuss compliance questions with a lawyer who is familiar with your business.
+
+On May 25, 2018, the new General Data Protection Legislation (GDPR) will be coming into force in the European Union.
+This legislation affects all companies based in the European Union, as well as any company that does business with customers (including both individuals and corporations) based in the European Union.
+We know that those of you who are affected by the GDPR may have questions.
+While we are not able to answer legal questions regarding how your own organization achieves compliance, we can and will support your compliance efforts by providing information about the data that Olark collects, transmits and stores for your organization.
+To that end, we have prepared a detailed list of FAQs (below) relating to the GDPR and our compliance efforts.
+You can also refer to our help center.
+we will be keeping this page up to date as we progress with the compliance process.
+As always, if you have any additional questions or would like to chat this through, please donât hesitate to reach out via email or chat.
+What is the GDPR?
+The (GDPR) is the new European Union (EU) data privacy law that greatly strengthens data privacy protections for individuals located in the EU (âEU residentsâ).
+It basically gives EU residents more control over how organizations collect, process, store, and share their personal data online.
+The GDPR also imposes new obligations on all organizations that process EU personal data regardless where the organization is located.
+The GDPR is territorial - meaning the GDPR applies to any organization that processes EU personal data, regardless of where the organization may be located.
+âPersonal dataâ is a term that the GDPR broadly defines, but in general it can be thought of as any data that can personally identify an individual or make them identifiable.
+Does Olark support GDPR compliance?
+Yes.
+Olark is committed to helping you be GDPR compliant.
+We have worked hard with our legal and engineering teams to ensure to the extent Olark directly collects EU personal data it is in compliance with the GDPR.
+We are fully compliant with the EU-US Privacy Shield Framework and the Swiss â U.S.
+Privacy Shield Framework as set forth by the U.S.
+Department of Commerce regarding the collection, use, and retention of personal information from the European Union and Switzerland to the United States.
+What does the GDPR mean for Olark customers?
+If you are using Olarkâs products or services to collect information (such as names, email addresses, phone numbers, IP addresses, etc.) from individuals who reside in the European Union, then the GDPR will place additional constraints on the way you handle and use that information.
+Olark offers built-in features to help you with your GDPR compliance efforts, and we will continue to support you in achieving compliance with this and similar privacy legislation.
+To best understand your role and Olarkâs role under the GDPR, itâs critical to understand three key terms as they relate to our services: data subjects, data controllers, and data processors.
+The data subjects are your customers or end users residing in the EU.
+You are the data controller because you decide the purposes for which you need to collect personal data from data subjects and the means by which you want to collect it.
+Olark is a data processor because we process data from your data subjects on your behalf and on your instructions.
+Some other key obligations under the GDPR include:
+
+Notice: Organizations are required to provide notice to data subjects whenever they collect personal data from the data subject.
+In the notice, organizations must identify the lawful basis for processing the personal data (see Article 6 of the GDPR), among other things.
+Data controllers must determine which lawful basis applies to their processing.
+
+Individual Rights: The GDPR expands data subjectsâ rights to their personal data.
+Except as limited by applicable law, EU data subjects have the right to access the personal data a company is processing on them.
+to restrict the processing.
+to correct incomplete or inaccurate personal data.
+to have their personal data deleted.
+and to object to their data being used for certain purposes.
+
+Retention: One of the core principles of the GDPR is âdata minimization.â The GDPR requires that EU personal data should not be kept any âno longer than is necessary for the purposes for which the personal data are processed.â It is the responsibility of the data controller to determine the appropriate time period for which to retain EU personal data and, as applicable, convey those periods to their data processors and/or data subjects.
+What is Olark doing about GDPR?
+Does Olark have a Data Processing Agreement (DPA)?
+Yes.
+Please email gdpr@olark.com with the name and email address of the member of your organization authorized to sign our DPA, and we will send you our standard agreement.
+If you would like to modify the standard DPA, or if your business requires a custom DPA, you will need to move to an enterprise plan.
+You can email gdpr@olark.com for more information.
+Can I use Olark and still be GDPR-compliant?
+Yes! Olark is committed to supporting your GDPR compliance efforts.
+Weâve provided responses to common compliance questions below.
+Will Olark handle notice requirements for me?
+Olark cannot handle notice requirements on our customersâ behalf.
+however, we have provided tools to communicate notice to your website visitors via the Olark chatbox.
+
+Additional context: As the data controller, you are required to provide notice to individuals located in the European Union whenever you collect data from them.
+The notice that you provide needs to identify the legal basis (or âlawful basisâ, i.e., legitimate reason) applicable to your processing of personal data, including any data processed via Olark.
+Article 6 of the GDPR lists six such legal bases: consent, contract, legal obligation, vital interests, public tasks, and legitimate interest.
+As a data processor, Olark does not and cannot determine the legal basis for processing visitor personal data on behalf of its customers;
+
+
+How will Olark help me respond to individual rights requests (e.g., right to access, correction, erasure, etc.)?
+Olark has tools in place to help you export, modify and delete files.
+We will continue to build out tools to help you respond to individual rights requests as our products and services expand and evolve.
+
+Additional context: One of the changes under the GDPR is the expansion of privacy rights for individuals located in the EU.
+As a data controller, you will need to be ready and able to comply with applicable individual rights requests, such as deleting a customerâs personal data from your records or providing them with a copy of the data you hold.
+The GDPR grants some exceptions to compliance with individual requests.
+consult with a legal expert to determine whether you are covered under an exception.
+
+
+Do I need customer consent to use personal data obtained through Olark?
+If none of the other legal bases apply to your data usage, you will need to obtain specific, informed, freely given, and unambiguous consent to use your customersâ data in the way you intend.
+Note that an âopt-outâ, where the customer is opted in to data usage by default, may no longer be sufficient.
+Consent is most often required for marketing uses (e.g., using an email address to send a customer promotional emails), but may be required for other uses, too.
+Be sure to ask your legal counsel to check the e-Privacy Directive (and once finalized, the e-Privacy Regulation) for additional e-marketing requirements.
+Can I get customer consent in the chat box?
+Yes.
+We have tools to add a consent option to your chat box.
+It remains your responsibility to verify that your use of customer data is consistent with the consent given.
+Do I have to delete all my transcripts from Olark to be compliant?
+Not necessarily! If you received an individual rights request for erasure, you should consult with your legal counsel to determine how to respond.
+However, outside of an individual rights request, your obligation depends on how you use or process transcript data and which legal basis applies to such processing.
+You may be able to continue using transcripts if your legal basis for processing transcript data still applies.
+For example, you may continue to use transcript data because you have a legal obligation to retain the data, if processing the data is in your website visitorsâ legitimate interest, or if your use of transcript data is directly related to performance of a contract or to steps a customer has requested you take prior to entering into a contract.
+Finally, you may be able to fulfill your GDPR obligations by refraining from certain uses of transcript data.
+Olark also provides privacy tools that allow you to redact certain visitor information from transcripts after a certain amount of time, or at a particular customerâs request.
+These privacy tools will destroy all form submissions (e.g., responses to pre-chat name, email, and phone fields).
+all text that is formatted as an email address, phone number, or IP address.
+and the visitorâs internal ID.
+This information is replaced with <redacted> in the transcript .
+Redaction also destroys all visitor files uploaded through the chatbox.
+
+
+Again, you should consult with your legal counsel to identify the best option for your company.
+Transcript data cannot be restored once deleted, so if transcript data is valuable to your business, we encourage you to explore the possibility of modifying or limiting your use of transcripts rather than deleting the data entirely.
+Do you have an updated privacy policy?
+Yes! We have updated our privacy policy to help you better understand how we handle customer data and protect your privacy.
+You can find our updated policy here.
+Privacy Shield was invalidated in the EU - what next?
+We have updated our DPA to reflect these changes and would be happy to send you a new DPA for signing.
+Please reach out to us directly with that request.
+What tools do you offer to help us control data retention?
+We offer a number of tools in our data management dashboard.
+
+
+You can choose to automatically redact certain visitor information from all transcripts after a specified time period.
+
+
+
+You can redact certain information for a single visitor, based on the visitorâs email address, if that visitor submits a request for erasure.
+
+
+You can export all transcripts associated with a visitorâs email address, along with other information about that visitor, to a CSV file.
+
+
+
+You can add a custom consent request and agreement checkbox to the chat box.
+When a visitor grants or withdraws consent via the checkbox, their action will be noted in the chat transcript.
+
+
+
+Does Olark have a signed DPA with each sub-processor?
+Yes, we have a signed DPA with all of the vendors we use to process personal data.

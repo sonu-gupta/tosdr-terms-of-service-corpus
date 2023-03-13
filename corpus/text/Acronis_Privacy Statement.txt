@@ -1,0 +1,467 @@
+
+        Acronis Privacy StatementEffective Date: August 7, 2020
+This Acronis Privacy Statement ("Privacy Statement") describes how Acronis International GmbH and its affiliates (together, "Acronis" or "we") collect and process information about you.
+We appreciate that you trust us when you provide us with your information.
+Protection of information is our top priority because we want to keep your trust.
+We design all of our products and services with data protection in mind.
+We work hard to keep your information secure.
+We regularly monitor and update our security practices to help better protect your privacy.
+In this Privacy Statement, (i) to "
+process
+" personal data means to perform any operation on the information, whether or not by automated means, such as collection, recording, organizing, storing, adapting, use, disclosure, combining, erasing or destroying and (ii) "
+personal data
+" means data that identifies, directly or indirectly, an individual natural person.
+Please read this Privacy Statement carefully.
+IF YOU DO NOT AGREE WITH ANY PART OF THIS PRIVACY STATEMENT, THEN PLEASE DO NOT PROVIDE YOUR PERSONAL DATA TO US OR USE THE SERVICES.1.
+WHERE THIS PRIVACY STATEMENT APPLIESThis Privacy Statement applies to our "Services", which means public portions of Acronisâs websites, including, but not limited to acronis.com (https://www.acronis.com), developer.acronis.com (https://developer.acronis.com), acronis.events (https://acronis.events) , acronis.sport (https://acronis.sport), Motorsport.tech (https://motorsport.tech) and registered users of these websites and our Core Products (https://www.acronis.com/personal/, https://www.acronis.com/business/ and our Acronis Cyber Cloud (https://www.acronis.com/cloud/).
+If a particular product, website or service posts its own privacy policy, then that policy -- not this Privacy Statement -- applies when they are inconsistent.
+Our right to process personal data also is described in our agreements ("Customer Agreements") with our business customers ("Customers").
+In our Customer Agreements, Acronis is typically contractually prohibited from accessing the personal data that Customers store and otherwise process through Acronisâs Services.
+If a provision of a Customer Agreement conflicts or otherwise is inconsistent with a provision of this Privacy Statement, then the term of the Customer Agreement will prevail to the extent of the conflict or inconsistency.
+This Privacy Statement does not apply to information that is collected by any third-party website or service that you access through the Services.2.
+DATA CONTROLLERThe data controller (i.e., the person who or entity that determines the purpose and means of processing) for the personal data collected pursuant to this Privacy Statement is Acronis International GmbH, Rheinweg 9, 8200 Schaffhausen, Switzerland.
+Please note that when we collect personal data pursuant to a Customer Agreement, we typically act as a data processor on behalf of our Customer.3.
+CROSS-BORDER DATA TRANSFERSUse of the Services sometimes involves cross-border transfers of personal data.
+For cross-border transfers of personal data, Acronis uses appropriate safeguards to require that your personal data be protected in accordance with this Privacy Statement and applicable data protection laws.
+These safeguards include implementing the European Commissionâs Standard Contractual Clauses (Art.
+46 GDPR) and other valid mechanisms for transfers of personal data among our affiliates and data processors.
+Acronis complies with the EU-U.S.
+Privacy Shield Framework and the Swiss-U.S.
+Privacy Shield Framework administered by the US Department of Commerce (together, "Privacy Shield").
+Please see our Privacy Shield Policy (https://www.acronis.com/company/privacy-shield/) for more information.4.
+CHANGES TO THIS PRIVACY STATEMENTThe Effective Date of this Privacy Statement is set forth at the top of this webpage.
+As we add new features to the Services, differ our operations or are required by applicable laws, we may amend this Privacy Statement.
+If we make a material change to the Privacy Statement that reduces your privacy rights, we will notify you in advance through the Services.
+Your continued use of the Services after the Effective Date constitutes your acceptance of the amended Privacy Statement.
+The amended Privacy Statement supersedes all previous versions.5.
+INFORMATION WE COLLECT
+Personal data you choose to give us
+
+When you use the Services, we collect the personal data that you give us when using the Services.
+This includes:
+
+When you create an account, you provide us with a user name and password, business or personal information, such as name, address, email address, phone number and other information that you choose to provide us.
+When you make a purchase, you provide us with your order information and, if applicable, financial account information.
+(We do not collect payment card information - it is collected and processed by a third-party payment card processor.)
+When you participate in surveys or focus groups, you give us your insights into our products, services or other initiatives, as well as other information which you may decide to give us.
+
+When you fill out an on-line form to register to use our products and services, attend one of our webinars, marketing, training, sports and other events or request information from us, we collect the information in the form and other information you may give us.
+This may include information such as first name, last name, place of work, job title, country, email, phone number, size of t-shirt, etc.
+
+If you contact our customer service team, we collect the information you give us during the interactions.
+Sometimes, we monitor or record these interactions for training purposes and for quality assurance.
+If we are recording your interaction, we will provide a notice as required by applicable law.
+
+
+Personal data Acronis does not seek to collect
+
+Acronis does not need special categories of personal information (also known as "sensitive personal information or data"), as defined by the General Data Protection Regulation (GDPR), to provide the Services.
+Acronis avoids collecting sensitive personal data from you through the Services or otherwise.
+Unless Acronis specifically requests it, please do not provide sensitive personal data to Acronis.
+If you choose to provide Acronis with unsolicited sensitive personal data, Acronis will process it only as necessary to establish, exercise or defend legal claims.
+In the rare circumstances in which Acronis does seek to collect sensitive personal data, Acronis will do so in accordance with data protection laws and/or ask for your consent.
+
+Information we receive from others
+
+We receive information about you from others, including our vendors, service providers, resellers and other business partners.
+We also receive information about you from the third parties that help us operate the Services, such as for fraud detection, digital forensics, marketing services (such as when we acquire information on potential leads) and similar functions.
+
+Information collected when you use the Services
+
+When you use the Services, we collect information about which features you use and how you use them and information about the computer, tablet or mobile telephone ("Device") that you use to access the Services (collectively, "Usage Data").
+Usage Data is personal data under certain privacy laws.
+Acronis collects the following Usage Data:
+
+
+Services usage information: We collect information about which features you use and how you use them, including: date/time stamps associated with purchase, installation, updates and your usage.
+integrations.
+how often you use the Services and in which circumstances.
+Services performance metrics.
+features you use and the results of their operations.
+information about disabled features.
+and information about errors and crashes and activities which led to them.
+
+Service operation information: Depending on the Services you use, we collect information that is necessary to provide such Services and that forms an integral part of such Services.
+For example, we collect the list of software installed on your machine, together with version and manufacturer information as part of providing you vulnerability assessment and patch management functionality of certain Services.
+As another example, we collect information about names of potentially malicious files together with their hashes and full paths to such files or blocked website URLs as part of providing you antivirus and URL filtering functionality of certain Services.
+
+Device information: We collect information from and about the Device that you use to access the Services, including: hardware and software information Device or component ID, type and architecture, Device-specific and operating system settings, characteristics and configuration, device location, identifiers associated with cookies or other technologies that may uniquely identify your Device or browser.
+and information about your wireless or mobile network connection, like your internet vendor and signal strength.
+
+Activity and audit logs: An activity log is a list of user activities.
+Acronisâs servers automatically collect and store in logs your search queries, Internet Protocol (IP) address, browser type and language, time zones, date and time of your request and referral URLs and certain cookies that identify your browser or Acronis account.
+Some logs include metadata which may contain your personal data like names of files and folders if you give them such names.
+
+We may link personal data and Usage Data or different types of Usage Data.
+We also may link personal data that we collect with publicly-available personal data, such as personal data available in public databases.
+If the linked information directly or indirectly identifies an individual natural person, we will treat it as personal data.
+
+Voice data
+
+We do not keep and process your voice data.
+However, some of our products have voice control options available.
+If you decide to use them, with your permission, we activate the built-in extension of your Google Chrome browser, which captures your voice via your microphone and transfers it to Google for recognition.
+As a result, we receive only a text version of your voice commands, which we do not keep and use only for current command execution.
+Since your voice data is processed by Google, the purposes and the ways that Google processes your data may vary depending on your Google account settings (if any) and preferences.
+To understand how Google processes your data, including voice data, please carefully read the Google privacy policy (https://policies.google.com/privacy).
+
+Acronis Customer Experience Program
+
+Acronis collects certain information through the Acronis Customer Experience Program ("CEP").
+Unless you consent to Acronis processing your personal data as part of CEP, Acronis will only collect pseudonymized Usage Data as part of CEP.
+Acronis gathers such pseudonymized Usage Data to improve Acronis products and services.
+Acronis achieves the pseudonymization by associating such data with a randomly generated number (pseudonym) instead of the personal ID associated with your Acronis account.
+Acronis cannot identify you by the pseudonym without you providing additional information to Acronis for identification purposes.
+If you consent to Acronis processing your personal data as part of CEP, Acronis will connect your personal data to your CEP Usage Data.
+The personal data Acronis connects to your CEP Usage Data is limited to your Acronis account ID and account information.
+As in this case Acronis links personal data and Usage Data, Acronis treats the CEP Usage Data linked to your personal data as personal data.
+Your consent to Acronis processing your personal data as part of CEP allows Acronis to provide you more specific feedback and guidance about Acronis products, services, and features operation.
+You can consent to Acronis processing your personal data as part of CEP by checking the corresponding box in the product settings.
+
+Information collected through Data Collection Technology
+
+We use cookies, pixel tags (also known as web beacons, flash cookies, and clear GIFs) and similar technology ("Data Collection Technology") to automatically collect information about you when you use the Services.
+Please read Section 6 below to learn more about how Acronis uses Data Collection Technology.
+
+Other information with your consent
+
+We collect other information when you give us permission at the time of collection for the purposes disclosed to you at that time.6.
+COOKIES AND OTHER DATA COLLECTION TECHNOLOGYCookies are small text files that are sent to or accessed from your web browser or your computer's hard drive.
+A cookie typically contains the name of the domain (internet location) from which the cookie originated, the "lifetime" of the cookie (i.e., when it expires) and a randomly generated unique number or similar identifier.
+A cookie also may contain information about your computer, such as user settings, browsing history and activities conducted while using the Services.
+Cookies set by Acronis are called "first party cookies".
+Cookies set by other parties are called "third-party cookies".
+Third-party cookies enable Acronis to provide third-party features or functionality on or through the website (such as interactive content and analytics).
+Third-party cookies recognize your browser when it visits the Services and also when it visits certain other websites and services.
+Cookies also are typically categorized as "session" cookies or "persistent" cookies.
+Session cookies are erased when your web browser is closed.
+For example, a session cookie tracks how you navigate through the Services so that you do not need to re-enter the same information during the same visit to the Services.
+Persistent cookies store your preferences and other information for your current and future visits â they are still stored in your browser when you reopen your browser.
+For example, we may use persistent cookies to record your choice of language and country location.
+Acronis also uses other types of data collection technology, such as web beacons (also called a pixel tag or clear GIF).
+A web beacon is a piece of computer code that enables us to monitor user activity and website traffic.
+To learn more about cookies, web beacons and other data collection technology, visit www.allaboutcookies.org.
+
+How We Use Data Collection Technology
+
+Data collection technology helps us improve your experience of the Services by, for example, storing your website language preferences, so you do not have to select it each time you use the Services, compiling statistics about use of the Services, helping us analyze technical and navigational information about the Services, and detecting and preventing fraud.
+The Services use the following cookies:
+
+
+Strictly necessary cookies, which are required for the operation of the Services, such as to enable you to register or log in to the Services.
+
+Functionality cookies, which are used to recognize you when you return to the Services.
+
+Analytical/performance cookies, which allow us to recognize and count the number of visitors to our website, to learn how users navigate the Services and to help us to improve how the Services function.
+We also use Google Analytics, which is a Google service that aggregates information about use of the Services and reports website trends.
+Google Analytics does not directly identify individual users.
+
+Advertising and targeting cookies, which are used to deliver tailored information about our products and services that may be of interest or value to you and marketing and promotional emails (with your consent where required by applicable law).
+
+We use Google Analytics to better understand how our visitors and customers use our Services.
+Please see https://policies.google.com/technologies/partner-sites for more information about how Google uses the information it collects through our websites.
+For Google Analyticsâ currently available opt-outs, please see https://tools.google.com/dlpage/gaoptout/.
+Please see also Section 13 below.
+Detailed description of the specific cookies used, including their purpose and expiration period can be found in Acronisâs Cookie notice.
+
+Cookie Management
+
+You can control and manage cookies using the Privacy Preference center, if Acronis makes it available in your region, or directly in your browser.
+Most browsers allow viewing, managing, deleting or blocking cookies.
+Please be aware that if you delete or block cookies directly in your browser then some of your preferences can be lost, as well as some functionality may no longer be available, including the ability to opt-out and mange cookies via the Privacy Preference center as this function itself uses cookie for keeping your preferences.
+You may find the guidelines on how to control cookies for common browsers at the links below:
+
+Google Chrome
+Mozilla Firefox
+MacOS Safari
+Microsoft Internet Explorer
+
+
+Our Statement On Do Not Track Signals
+
+Some web browsers (including Safari, Internet Explorer, Firefox, and Chrome) incorporate a "Do Not Track" ("DNT") or similar feature that signals to websites that a user does not want to have his or her online activity and behavior tracked.
+If a website that responds to a particular DNT signal receives the DNT signal, the browser can block that website from collecting certain personal data about the browserâs user.
+Not all browsers offer a DNT option, and DNT signals are not yet uniform.
+For this reason, many website operators, including Acronis, do not respond to DNT signals.7.
+HOW WE PROCESS PERSONAL DATAAcronis processes personal data:
+
+To set up and maintain your account;
+To provide the products and services that you purchase;
+To notify you about updates and new versions;
+To communicate with you and respond to your inquiries;
+To prevent and investigate fraud and other misuses of the Services;
+To protect our rights and property;
+To operate, manage and secure the Services;
+To promote our products and services, including through targeted advertising;
+To conduct training on our products and services;
+To deliver online or offline events;
+
+To respond to your questions and resolve issues with our products and services;
+To provide the ability for blog, forum and other postings, including by participating in discussions and feedback exchange;
+To complete transactions requested by you;
+To improve the performance and reliability of our products and services through the CEP and other quality assurance and improvement programs.
+and
+To help us offer and improve our customer service.
+
+Acronis processes Usage Data:
+
+To ensure the technical functionality and security of our products and services;
+To analyze trends and statistically monitor how a specific product or service is used and which features are most popular, such as through the CEP;
+To improve our products and services and develop new ones;
+For auditing and similar compliance purposes;
+To review compliance with applicable legal terms and policies.
+and
+For Customer preferences analysis and research.
+8.
+HOW WE SHARE INFORMATIONAcronis may share personal data collected through the Services as follows:
+
+With our affiliates: We provide personal data to our affiliates that process personal data for purposes consistent with those described in this Privacy Statement or notified to you when your personal data are collected.
+For example, we may share your contact information as part of an attendee lists with our affiliates.
+
+With our vendors and services providers: We share information with our vendors, including customer service, marketing and security testing service providers.
+Acronis will ensure that any vendor with which we share personal data agrees to safeguard it.
+Please also see Section 13 below for more information about how Acronis uses Googleâs services.
+
+With resellers: We share personal data with our resellers and other third parties that promote, resell and/or white-label the Services and receive personal data from them.
+
+As part of a corporate transaction: We may share and transfer personal data if we are involved in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change of ownership or control by Acronis or any affiliated company (in each case, whether in whole or in part).
+
+When required by law: Acronis or Acronisâs affiliates may use servers and other equipment to provide the Services that are located in countries where litigants, law enforcement, courts, and other agencies of the government may have the right to access personal data stored within their jurisdictions upon terms and conditions provided by local law.
+Acronis also may provide access to your personal data to government authorities if Acronis suspects or believes that your data contains child pornography or other prohibited content or data or that the data is used for illegal purposes.
+Acronis reserves the right to disclose personal data to any competent law enforcement body, regulatory, government agency, court or other third party when we believe disclosure is necessary.
+When reasonably possible, Acronis will provide notice of any required or requested disclosure and reasonably cooperate to limit such disclosure to the extent allowed by law.
+
+For other lawful disclosures: We also share information (i) if disclosure would mitigate Acronisâs liability in an actual or threatened lawsuit.
+(ii) as necessary to protect legal rights of Acronis, users, Customers, vendors, business partners or other interested parties.
+(iii) to pursue available remedies or limit the damages.
+(iv) to enforce our agreements.
+and (v) to respond to an emergency.
+Acronis may aggregate information collected through the Services and remove identifiers so that the information no longer identifies or can be used to directly identify an individual, household or device ("Aggregated Information").
+Acronis may share Aggregated Information with third parties and does not limit third parties' use of the Aggregated Information.9.
+YOUR CHOICES ABOUT YOUR PERSONAL DATAThis section contains specific privacy notices for individuals located in the European Union and for California residents.
+IF YOU ARE LOCATED IN A JURISDICTION WITH DATA PROTECTION LAWS THAT OFFER YOU PRIVACY RIGHTS NOT DESCRIBED IN THIS PRIVACY POLICY, PLEASE CONTACT US AT data-protection-office@acronis.com.
+We respect your privacy rights and will do our best to accommodate your requests.
+
+
+If you are located in the EU:
+
+
+
+Data controller: The data controller (i.e., who determines the purpose and means of processing your personal data) for the personal data collected pursuant to this Privacy Statement is Acronis International GmbH, Rheinweg 9, 8200 Schaffhausen, Switzerland.
+
+Lawful bases for processing: We need to inform users about the legal bases for our processing of their personal data.
+Our legal bases depend on the context in which the personal data are processed.
+
+Most of the time, the reason we process your information is to perform the contract that you have with us to use our products and services.
+We also process your personal data when the processing is in our legitimate business interests and not overridden by privacy or other fundamental rights and freedoms.
+For example, we may process personal data to respond to queries, to improve our offerings continuously, for marketing our new products and features, for fraud detection and legal compliance purposes.
+We may have other legitimate interests and if appropriate, we will make them clear at the relevant time.
+From time to time, we may ask for your consent to use your personal data for certain specific and explicit reasons â for example to participate in CEP.
+We will provide you with relevant information for the processing and you may withdraw your consent at any time by contacting us at data-protection-office@acronis.com or by navigating through the particular Settings menu.
+In some cases, we may also have a legal obligation to collect personal data.
+If we ask you to provide personal data to comply with a legal requirement, we will make this clear at the relevant time.
+We will advise you whether providing your personal data is mandatory.
+We will also inform you on the possible consequences, if you do not provide your personal data.
+
+If you have questions about or need further information concerning the legal basis on which we process your personal data, please contact our Data Protection Officer at data-protection-office@acronis.com.
+
+Your data protection rights: For personal data for which we are the data controller and for which applicable law grants you data protection rights, please contact our Data Protection Officer at data-protection-office@acronis.com.
+If you would like to submit a request to review your personal data, to correct, update, suppress, restrict or delete personal data about you which you have previously provided to us or if you would like to receive an electronic copy of your personal data, including for purposes of transmitting it to another company (i.e., right to portability), to object to processing based on legitimate interest, including the absolute right that we stop using your data for direct marketing, to withdraw previously given consent or object to automated decision making and profiling, please reach to us in each case, when these rights are provided to you by law.
+Specifically:
+
+You have the right to access the personal data that we hold about you, including the description of the processing purposes: If you would like to access the personal data that Acronis maintains about you, please contact Acronis at data-protection-office@acronis.com.
+If you are a registered user, you can review certain personal data that you provided to Acronis by logging in to your account.
+If you are not a registered user, Acronis may take reasonable steps to verify your identity before providing access to personal data.
+We may not allow you to review certain data for legal, security or other reasons.
+You have the right to receive a copy of your personal data: If you would like to receive an electronic copy of your personal data for purposes of transmitting it to another company, please contact us at data-protection-office@acronis.com.
+If you are a registered user, you can download certain personal data that you provided to Acronis by logging in to your account.
+If you are not a registered user, Acronis may take reasonable steps to verify your identity before providing your personal data to you.
+We may not allow you to review certain data for legal, security or other reasons.
+You have the right to correct or delete personal data, to restrict or object to some of our processing of your personal data, including your absolute right that we stop processing your data for direct marketing.
+The easiest way to correct or delete certain personal data that you have provided to the Services is to log in to your account and enter the necessary changes in your profile settings.
+Otherwise, please contact Acronis at data-protection-office@acronis.com.
+You have the right to withdraw previously given consent for processing of your personal data for that specific purpose.
+You may withdraw your consent at any time by contacting us at data-protection-office@acronis.com or by navigating through the particular Settings menu.
+
+Note that Acronis does not carry out automated decision-making and profiling creating legal effects or significantly affecting data subjects.
+In your request, please make clear what personal data you would like to have changed or to what processing you object, whether you would like to have your personal data deleted or what other limitations you would like to put on our use of your personal data.
+We will respond your request as soon as reasonably practicable and in accordance with data protection regulations.
+We may reject some requests, including if the request is unlawful, duplicative or if it may infringe on privacy rights of a third party.
+Please note that we often need to retain certain data for recordkeeping purposes and/or to complete any transaction that you began prior to requesting a change or deletion (e.g., when you make a purchase, you may not be able to change or delete the personal data provided until after the completion of such purchase).
+Our databases and other records may have residual data which will not be removed.
+If you have additional questions regarding the correction or deletion of the personal data we hold about you, please contact us at data-protection-office@acronis.com.
+If our products and services are made available to you by a Customer pursuant to a Customer Agreement, your eligibility to receive incentives and rewards, if any are offered, may be adversely affected by your election to remove personal data about you.
+Please contact the Customer for further information.
+
+Marketing Emails: If you do not wish to receive marketing-related emails from us, please click the unsubscribe link in one of our marketing emails or:
+
+for corporate users: https://promo.acronis.com/UnsubscribePage.html
+for home users: https://www.acronis.com/en-us/my/subscriptions/
+
+
+Accountability: you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal data.
+Please see https://edpb.europa.eu/about-edpb/board/members_en.
+If you are a resident of the United Kingdom, please note that Acronis is registered at the Information Commissionerâs Office (ICO) (https://ico.org.uk/ESDWebPages/Search).
+You have the right to lodge a complaint to ICO.
+For more details, please see https://ico.org.uk/make-a-complaint/.
+
+
+For California residents
+
+
+This California Privacy Rights Notice ("California Privacy Notice") explains privacy rights available to residents of the State of California as required by the California Consumer Privacy Act of 2018 ("CCPA").
+If this California Privacy Notice and any provision in the rest of our Privacy Statement conflict, then this California Privacy Notice controls for the processing of Personal Information of residents of the State of California.
+In CCPA, California residents are referred as "consumers" and we refer to them in this California Privacy Notice as "California Consumers" and "Personal Information" means information that identifies, relates to, describes, is capable of being associated with or could reasonably be linked, directly or indirectly, with a particular California Consumer or household.
+
+Your California Consumer Privacy Rights
+
+CCPA offers California Consumers the following key privacy rights:
+
+You have the right to request information about categories and specific pieces of Personal Information that we have collected about you (see table below), as well as the categories of sources from which the Personal Information is collected, the purpose for collecting Personal Information and the categories of third parties with whom we share Personal Information.
+You have the right to request information about our disclosure for business purposes of your Personal Information to third parties.
+You have the right to request that we delete certain Personal Information that we have collected from you.
+If we offer a financial incentive or price or service difference in exchange for your Personal Information, we will notify you in advance before collecting your Personal Information for this purpose and explain how you can opt in to the financial incentive or price or service difference.
+You have the right to opt out of our sale of your Personal Information if and when we determine the purpose and means of processing of your Personal Information.
+(In CCPA, "sale" means transferring or making available Personal Information to third parties for monetary or other valuable consideration.) Sharing your Personal Information with our service providers is not a sale of your Personal Information because we make sure that our service providers are contractually obligated to use the Personal Information only to provide services to us and not to sell it.
+
+Note that 
+
+
+Acronis does not sell (within the meaning of CCPA) your Personal Information to third parties and accordingly, we do not provide you with information about how to opt-out of sale of your Personal Information.
+If this policy changes, we will notify you and provide you with information about how to opt out of sale of your personal data by us.
+
+
+You have the right to not receive discriminatory treatment from us for exercising any of your privacy rights.
+That is, we cannot treat you differently for exercising any of these rights unless we demonstrate that the value of the Personal Information that you provide to us is reasonably relate to the difference in price or service that we offer.
+
+More information on CCPA and how you can exercise your consumer privacy rights can be found here: https://kb.acronis.com/ccpa
+The following table lists categories of Personal Information that generally match the categories in the definition of Personal Information in CCPA.
+We indicate for each listed category the specific types of Personal Information in the category that we have collected within the past 12 months and why we collect it.
+We provide information about how we use and disclose Personal Information above in our Privacy Statement.
+Category of Personal Information listed in CCPA
+Examples of Personal Information in CCPA Category that Acronis Collects
+Why Acronis Collects this Personal InformationA.
+IdentifiersName, postal address, email address, unique identifier, Internet Protocol address, account name, and similar identifiers.
+Unless you choose to apply for employment with Acronis, we do not collect your social security number, driverâs license number or passport number.We collect your name, telephone number, email address and contact address when you buy products and services or create an account.
+If you choose to create an account, you also must create a username and we will assign one or more unique identifiers to your account.
+We also collect this Personal Information
+
+To troubleshoot problems
+To learn how users interact with and the Services
+To improve the Services and develop new features
+To customize your experience
+To promote our products and services and to conduct trainings on them
+To communicate with you
+To deliver online and offline events
+To complete transactions requested by you
+
+We automatically collect your IP address, your computer and/or mobile device ID, domain server, type of device(s), browser type and language, operating systems time zones, the date and time of your use of our products and services and referral URL.
+We use this information (some of which we refer to as "Usage Data" in our Privacy Statement) to troubleshoot problems, learn how users interact with the Services and to improve the Services and develop new features.B.
+Personal information categories listed in the California Customer Records statute (Cal.
+Civ.
+Code Â§ 1798.80(e))Name, signature, address, telephone number and current employer and work address.
+Unless you choose to apply for employment with Acronis, we do not collect employment history, medical information or your health insurance information unless you choose to specifically provide it to us.N/AC.
+Protected classification characteristics under California or federal lawExcept as required by law, we do not collect information about legally-protected classifications, including race, national origin, citizenship, marital status, gender, sexual orientation/identity, medical condition, AIDS/HIV status, genetic information, military or veteran status, religion, disability, political affiliations or activities or status as a victim of domestic violence, assault or stalking.N/AD.
+Commercial informationRecords products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.We create records of the Services purchased or considered, as well as your purchasing history in order to provide you with the Services that you have purchased and to offer other products that may be useful to you.
+You provide payment and billing information when you purchase our products and services process your credit/debit card number â this information is collected by a third-party payment card processor and not shared with us.E.
+Biometric informationWe do not collect information about your physiological, biological or behavioral characteristics.N/AF.
+Internet or other similar network activityBrowsing history, search history, information on a California Consumerâs interaction with online services and digital advertisements.We collect information about your browsing history, search history, information on your wireless and mobile network connection (e.g., service provider and signal strength), identifiers associated with cookies or other technologies that may uniquely identify your device or browser.
+and information associated with your interactions with our products and services.
+We use this information (some of which is "Usage Data" as described in our Privacy Statement) to help us learn how our Customers and users access and use our products and services and to improve the consumer experience.
+We also automatically collect information about interactions with our digital advertisements in order to understand which of our Services are most popular and to improve our marketing efforts.G.
+Geolocation dataPhysical location or movements from GPS, WiFi and/or Bluetooth (when a deviceâs operating system settings allow collection).We collect your IP address automatically.
+We may be able to determine your general location based on the IP address.
+Our mobile applications do not collect your precise location (e.g., your GPS coordinates).H.
+Audio, electronic, visual, thermal, olfactory or similar information.Recorded telephone calls.If you contact us via telephone, we may record the telephone call.
+As required by law, we will notify you if a call is recorded at the beginning of the telephone call.
+We do not collect any thermal, olfactory or similar information.
+We do not keep and process your voice data.
+However, some of our products have voice control options available.
+If you decide to use them, with your permission, we activate the built-in extension of your Google Chrome browser, which captures your voice via your microphone and transfers it to Google for recognition.
+As a result, we receive only a text version of your voice commands, which we do not keep and use only for current command execution.
+Since your voice data is processed by Google, the purposes and the ways that Google processes your data may vary depending on your Google account settings (if any) and preferences.
+To understand how Google processes your data, including voice data, please carefully read the Google privacy policy (https://policies.google.com/privacy).I.
+Professional or employment-related informationDepending on how and why you use the Services, we may collect information about your current employer who or that is the Customer or a prospective customer.We may use information about your position and your current employer, so that we can associate you with a particular Customer or account, to understand more about you in order to provide you with relevant information to promote our products and services, to deliver advertising and to communicate with you.J.
+Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C.
+Â§ 1232g, 34 C.F.R.
+Part 99))N/A
+N/AK.
+Inferences drawn from other categories (A.
+â J above) to create a profile about a California ConsumerProfile reflecting your preferences and characteristics.We may analyze your actual or likely preferences through the Personal Information we collect and process as described in our Privacy Statement.
+On some occasions, we may add our observations to your internal profile.
+We analyze Customer and user behavior through our CEP and other quality assurance and improvement programs.
+Acronis does not sell (within the meaning of CCPA) your Personal Information to third parties and accordingly, we do not provide you with information about how to opt-out of sale of your Personal Information.
+If this policy changes, we will notify you and provide you with information about how to opt out of sale of your personal data by us.
+Sharing your personal data with our service providers is not a sale of your personal data because we make sure that our service providers are contractually obligated to use the personal data only to provide services to us and not sell it.
+Acronis will ensure that any service provider with which we share personal data contractually agrees to safeguard it and not sell it or otherwise exchange it for value.
+
+
+HOW TO SUBMIT A REQUEST TO EXERCISE YOUR CALIFORNIA PRIVACY RIGHTS
+
+To submit a request to exercise your privacy rights:
+
+Send an email to data-protection-office@acronis.com with the subject line "California Privacy Rights Request."
+Call us at TOLL-FREE NUMBER: +18885687931.
+Submit a privacy support ticket to our Acronis Customer Central in Privacy section or use this direct link https://support.acronis.com/submit-ticket
+.
+
+Please put subject "CCPA" and the specific right you want to exercise (e.g.
+"Right to delete/delete my data").
+
+
+
+Please note
+
+:
+
+
+We may (and in some cases are required to) verify your identity before we can act on your request to exercise your privacy rights.
+We may not honor part or all your request â for example, certain information we collect may be exempt from this California Privacy Notice, such as public information made available by a government entity or information covered by another privacy law.
+Please also note that Personal Information collected in many types of B2B transactions is exempt from most of CCPAâs requirements until January 1, 2021.
+We will explain why we do not honor your request when we respond to you.
+
+A different California law permits California residents to request a notice disclosing the categories of Personal Information about you that we have shared with third parties for their direct marketing purposes during the preceding calendar year.
+At this time, Acronis does not share Personal Information with third parties for their direct marketing purposes
+
+If at any time you believe that Acronis
+ has
+ not adhered to this Privacy Statement, please contact us at privacy@acronis.com.
+We will use good faith efforts to determine and correct the problem.
+10.
+LINKS TO OTHER WEBSITES AND SERVICESThe Services may include links to third-party websites and services that are not operated by us.
+When you click these links, you will be directed away from the Services.
+A link to a third-party website or service does not mean that we endorse it or the quality or accuracy of information presented on it.
+If you decide to visit a third-party website or service, you are subject to its privacy practices and policies, not ours.
+This Privacy Statement does not apply to any personal data that you provide to these other websites and services.11.
+PROTECTION &amp.
+RETENTION OF PERSONAL DATAWe take precautions intended to help protect personal data that we collect and store for ourselves and our Customers.
+We also expect that you will use appropriate security measures to protect your information.
+For more information on what security measures Acronis applies, please check: https://www.acronis.com/en-us/security/cloud/data-processing-terms/.
+We may suspend your use of all or part of the Services without notice if we suspect or detect any breach of security.
+If you believe that information you provided to us is no longer secure, please notify us immediately at data-protection-office@acronis.com.
+We keep your personal data only as long as we need it for legitimate business purposes and as permitted by applicable law.
+In practice, this means that we delete or anonymize personal data in your account to which we have access not later than after three (3) years of continuous inactivity unless we must keep it to comply with applicable law or because an issue, claim or dispute is not yet resolved.12.
+CHILDRENâS PRIVACYOur products and services are not directed to or intended for use by minors.
+If we learn that we have received any information directly from a child under age 16 without his or her parentâs verified consent, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the child that he or she cannot use the Services.13.
+G SUITE1 TERMS AND CONDITIONSAcronis utilizes certain Google APIs to provide backup and recovery services for your data in the following G Suite products: Gmail, Google Contacts, Google Calendar, Google Drive, Google Team Drives (collectively, "Google User Data").
+In order to provide such backup and recovery Services to you, Acronis requires read-only access to the lists of users and Team Drives in your G Suite organizational structure as well as reading and writing access to all other Google User Data.
+Acronis stores the Google User Data in data centers operated by Acronis or Acronisâs data center providers.
+Acronis does not share the Google User Data with third parties without appropriate consent except as follows:
+
+
+For Corporate Transactions: We may share and transfer Google User Data if we are involved in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change of ownership or control by Acronis or any affiliated company (in each case, whether in whole or in part);
+
+When Required by Law: Acronis or Acronisâs affiliates may use servers and other equipment to provide the Services that are located in countries where litigants, law enforcement, courts, and other agencies of the government may have the right to access Google User Data stored within their jurisdictions upon terms and conditions provided by local law.
+Acronis may also provide access to your Google User Data to government authorities if Acronis suspects or believes that the Google User Data contains child pornography or other prohibited content or data or that the Google User Data is being used for illegal purposes.
+Acronis reserves the right, consistent with data privacy and other user data protection requirements applicable to the jurisdiction where Google User Data is stored, and if mandated by applicable law, regulation, legal process, or governmental order, to disclose Google User Data, but only to the extent required to satisfy those laws, regulations or orders.
+Unless prohibited by law or other order, Acronis will provide you with reasonable notice of any such required or requested disclosure and reasonably cooperate to limit such disclosure to the extent allowed by law.
+
+For other Lawful Disclosures: We also share Google User Data (i) if disclosure would mitigate Acronisâ liability in an actual or threatened lawsuit.
+(ii) as necessary to protect legal rights of Acronis, users, Customers, vendors, business partners or other interested parties.
+(iii) to pursue available remedies or limit the damages.
+(iv) to enforce our agreements.
+and (v) to respond to an emergency.
+14.
+HOW TO CONTACT USPlease contact our Data Protection Officer at privacy@acronis.com or data-protection-office@acronis.com.
+Other versions:Effective 20.05.2016Effective 24.05.2018Effective 02.04.2019
+1 G Suiteâ¢, Gmailâ¢, Google Contactsâ¢, Google Calendarâ¢, Google Driveâ¢, and Google Team Drivesâ¢ are trademarks of Google Inc.

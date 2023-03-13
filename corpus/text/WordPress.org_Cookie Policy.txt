@@ -1,0 +1,139 @@
+
+
+About WordPress
+About WordPress
+
+
+WordPress.org
+Documentation
+Support
+Feedback
+
+
+
+
+Search
+Log In
+Register
+
+
+ WordPress.org Search WordPress.org for: Submit Toggle Menu 
+Showcase
+Learn
+Themes
+Plugins
+Mobile
+Support
+Documentation
+Forums
+
+
+Get Involved
+Five for the Future
+
+
+About
+Blog
+Hosting
+Get WordPress
+ Skip to content Privacy Policy
+
+Privacy Policy
+Cookie Policy
+Data Export Request
+Data Erasure Request
+ Cookie Policy Cookies Our Privacy Policy explains our principles when it comes to the collection, processing, and storage of your information.
+The Cookie Policy specifically explains how we, our partners, and users of our services deploy cookies, as well as the options you have to control them. What are cookies? Cookies are small pieces of data, stored in text files, that are stored on your computer or other device when websites are loaded in a browser.
+They are widely used to ârememberâ you and your preferences, either for a single visit (through a âsession cookieâ) or for multiple repeat visits (using a âpersistent cookieâ).
+They ensure a consistent and efficient experience for visitors, and perform essential functions such as allowing users to register and remain logged in.
+Cookies may be set by the site that you are visiting (known as âfirst party cookiesâ), or by third parties, such as those who serve content or provide advertising or analytics services on the website (âthird party cookiesâ). Cookies set by WordPress.org We use cookies for a number of different purposes.
+Some cookies are necessary for technical reasons.
+some enable a personalized experience for both visitors and registered users.
+and some allow the display of advertising from selected third party networks.
+Some of these cookies may be set when a page is loaded, or when a visitor takes a particular action (clicking the âlikeâ or âfollowâ button on a post, for example).
+Below the different categories of cookies set by WordPress.org are outlined, with specific examples detailed in the tables that follow.
+This includes their name and purpose.
+Certain cookies are only set for logged-in visitors, whereas others are set for any visitors, and these are marked below accordingly.
+Where a cookie only applies to specific subdomains, they are included under the relevant header.
+
+Strictly Necessary: These are the cookies that are essential for WordPress.org to perform basic functions.
+These include those required to allow registered users to authenticate and perform account related functions.
+
+Functionality: These cookies are used to store preferences set by users such as account name, language, and location.
+
+Performance: Performance cookies collect information on how users interact with websites hosted on WordPress.org, including what pages are visited most, as well as other analytical data.
+These details are only used to improve how the website functions.
+
+Tracking: These are set by trusted third party networks (e.g.
+Google Analytics) to track details such as the number of unique visitors, and pageviews to help improve the user experience.
+
+Third Party/Embedded Content: WordPress.org makes use of different third party applications and services to enhance the experience of website visitors.
+These include social media platforms such as Facebook and Twitter (through the use of sharing buttons), or embedded content from YouTube and Vimeo.
+As a result, cookies may be set by these third parties, and used by them to track your online activity.
+We have no direct control over the information that is collected by these cookies. wordpress.org Cookie Duration Purpose Logged-in Users Only? devicePixelRatio Browser default (1 year) Used to make the site responsive to the visitorâs screen size.
+No wordpress_test_cookie Session Tests that the browser accepts cookies.
+No _ga 2 years Google Analytics - Used to distinguish users.
+No _gat_<property-id&gt.
+1 minute Google Analytics - Used to throttle request rate.
+No _gid 24 hours Google Analytics - Used to distinguish users.
+No tk_ai 24 hours Jetpack - Stores the unique identifier for the publisher to enable Jetpack to collect data.
+No tk_lr 1 year Jetpack - Stores the unique identifier for the publisher to enable Jetpack to collect data.
+No tk_or 5 years Jetpack - Stores the unique identifier for the publisher to enable Jetpack to collect data.
+No wp-settings-{user_id} 1 year Used to persist a userâs wp-admin configuration.
+Yes wporg_logged_inwporg_sec 14 days if you select âRemember Meâ when logging in.
+Otherwise, Session.
+Used to check whether the current visitor is a logged-in WordPress.org user.
+Yes wporg_locale 1 year Used to persist a userâs locale configuration.
+Yes make.wordpress.org Cookie Duration Purpose Logged-in Users Only? welcome-{blog_id} Permanent Used to record if youâve chosen to hide the âWelcomeâ message at the top of the corresponding blog.
+No showComments 10 years Used to determine if you prefer comments to be shown or hidden when reading the site.
+No *.trac.wordpress.org Cookie Duration Purpose Logged-in Users Only? trac_form_token Session Used as a security token for cross-site request forgery protection.
+No trac_session 90 days Used to keep anonymous session information.
+No codex.wordpress.org Cookie Duration Purpose Logged-in Users Only? codexToken 6 months Used to check whether the current visitor is a logged-in WordPress.org user.
+Only set if you select âKeep me logged inâ when logging in.
+Yes codexUserIdcodexUserName 6 months Used to check whether the current visitor is a logged-in WordPress.org user.
+Yes codex_session Session Used to check whether the current visitor is a logged-in WordPress.org user.
+Yes *.wordcamp.org Cookie Duration Purpose Logged-in Users Only? camptix_client_stats 1 year Used to track unique visitors to tickets page on a WordCamp site No wp-saving-post 1 day Used to track if there is saved post exists for a post currently being edited.
+If exists then let user restore the data Yes comment_author_{hash} 347 days Used to tracked comment author name, if âSave my name, email, and website in this browser for the next time I comment.â is checked No comment_author_email_{hash} 347 days Used to tracked comment author email, if âSave my name, email, and website in this browser for the next time I comment.â is checked No comment_author_url_{hash} 347 days Used to track comment author url, if âSave my name, email, and website in this browser for the next time I comment.â checkbox is checked No wp-postpass_{hash} 10 days Used to maintain session if a post is password protected No wp-settings-{user} 1 year Used to preserve userâs wp-admin settings Yes wp-settings-time-{user} 1 year Time at which wp-settings-{user} was set Yes tix_view_token 2 days Used for session managing private CampTix content No tk_ai Browser default Used for tracking No jetpackState Session Used for maintaining Jetpack State Yes jpp_math_pass Session Verifies that a user answered the math problem correctly while logging in.
+No stnojs 2 days Remember if user do not want JavaScript executed No wordpress_logged_in_{hash} Session Remember User session Yes wordpress_test_cookie Session Test if cookie can be set No Controlling Cookies Visitors may wish to restrict the use of cookies, or completely prevent them from being set.
+Most browsers provide for ways to control cookie behavior such as the length of time they are stored â either through built-in functionality or by utilizing third party plugins.
+ To find out more on how to manage and delete cookies, visit aboutcookies.org.
+For more details on advertising cookies, and how to manage them, visit youronlinechoices.eu (EU based), or aboutads.info (US based).
+
+Some specific opt-out programs are available here:
+Google Analytics - https://tools.google.com/dlpage/gaoptout
+Itâs important to note that restricting or disabling the use of cookies can limit the functionality of sites, or prevent them from working correctly at all. WordPress.org 
+
+
+About
+Blog
+Hosting
+Donate
+
+
+Support
+Developers
+Get Involved
+Learn
+
+
+Showcase
+Plugins
+Themes
+
+
+WordCamp
+WordPress.TV
+BuddyPress
+bbPress
+
+
+WordPress.com
+Matt
+Privacy
+Public Code
+
+
+@WordPress
+WordPress
+
+Code is Poetry.

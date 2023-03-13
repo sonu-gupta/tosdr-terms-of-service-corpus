@@ -1,0 +1,212 @@
+
+         ';-- 
+Home
+Notify me
+Domain search
+Who's been pwned
+Passwords
+
+API
+
+Overview
+API key
+Who's using it
+
+
+
+About
+
+Who, what &amp.
+why
+Privacy
+FAQs
+Pastes
+Opt-out
+Twitter
+Suggest a feature
+
+
+ Breaches
+
+
+Donate 
+
+
+
+
+ Privacy How Have I Been Pwned (HIBP) handles privacy Introduction
+
+HIBP only exists in the first place because of violations of privacy.
+Our data is leaked,
+sold, redistributed and abused to our detriment and beyond our control.
+HIBP was established
+as a free service in 2013 to help give us visibility as to how our personal data spreads.
+Whilst we may no longer be able to control it once breached, we can at least understand
+what's been leaked, where it's been leaked from and what precautionary measures we can now
+take as a result.
+
+
+This page details how the privacy of personal data is handled within HIBP and what
+information is collected when you use the service.
+ Breach data stored in HIBP
+
+When a data breach is loaded into HIBP, the email addresses are stored in the online system.
+In some cases, phone numbers may be loaded in separately
+where they exist in an isolated data store not attached to any other personally identifiable
+information (i.e.
+not next to corresponding email addresses).
+No other data of any kind
+(names, phone numbers, etc) are stored on data load.
+HIBP also stores a list of data classes
+that were impacted in each breach.
+For example, it will state that email addresses and
+passwords appeared in a breach, but no information about which email addresses had
+corresponding passwords nor what those passwords are is stored.
+
+
+When data is loaded into the Pwned Passwords service, only SHA-1
+hashes of the password are stored.
+No identifying data about who the password belonged to
+is stored.
+Read more about why passwords are hashed in this fashion.
+ When you search for an email address or phone number
+
+Searching for an email address or phone number only ever retrieves the data from storage
+then returns it in the response, the searched data is never explicitly stored anywhere.
+See
+the Logging section below for situations in which it may be implicitly
+stored.
+
+
+Data breaches flagged as sensitive
+are not returned in public searches, they can only be viewed by using the notification
+service and verifying ownership of the email address first.
+Sensitive breaches are also
+searchable by domain owners who prove they control the domain using the domain search feature.
+Read about why non-sensitive breaches are publicly searchable.
+ When you search for a domain
+
+Domain searches allow the exposure of all email addresses on that domain to be returned in a
+single search.
+Only someone who controls the domain or the website it's bound to can perform
+a search via one of the verification processes:
+
+
+Via email address on the WHOIS record
+Via a common security or administrative email address (security@, hostmaster@, postmaster@, webmaster@)
+Via a meta tag with a unique code placed on the website
+Via a file with a unique code uploaded to the website
+Via a txt entry on the DNS record with a unique code
+
+
+A domain search logs the domain name and requestor's IP address as part of anti-abuse
+measures.
+If you ask HIBP to notify you of future appearance of email addresses on that
+domain and you provide your email address so it can be notified, that email address is also
+stored.
+Anti-automation measures are in place to limit attempts to automate searches.
+ When you search Pwned Passwords
+
+The Pwned Passwords feature searches previous data breaches for the
+presence of a user-provided password.
+The password is hashed client-side with the SHA-1
+algorithm then only the first 5 characters of the hash are sent to HIBP per the Cloudflare k-anonymity implementation.
+HIBP never receives the original password nor enough information to discover what the
+original password was.
+ When you subscribe for notifications
+
+Your email address is stored in HIBP.
+It's then referred to when new data is loaded in order
+to establish if the address appears in a new breach.
+Anti-automation measures are in place to
+limit attempts to subscribe email addresses in bulk.
+ How HIBP handles user-provided data
+
+The only data HIBP ever explicitly requests from users is email addresses and domain names.
+When someone subscribes to notifications or searches a domain, that information is never
+passed to any third parties under any circumstances other than to send email using the
+SendGrid service.
+ Unsubscribing from breach notifications
+
+Every breach notification email contains an unsubscribe link in the footer.
+If you'd like to
+unsubscribe without already having a breach notification email with the link, use the notification service
+to send another email to yourself and that will contain the unsubscribe link.
+ How the opt-out feature works
+
+HIBP provides an opt-out feature that removes the email address from
+public visibility.
+It does this by flagging the record as being opted-out rather than
+permanently deleting it to ensure that if the email address appears in subsequent data
+breaches, it doesn't become publicly searchable again.
+ When HIBP will contact you
+
+Emails are only ever sent to individuals who double opt-in to receive notifications.
+The
+double opt-in involves entering an email address on the notification page or domain search
+page then successfully proving control of the email address by receiving an email to it.
+The
+email contains a unique link which must be followed to confirm opt-in.
+ Logging
+
+Only the bare minimum logs required to keep the service operational and combat malicious
+activity are stored.
+This includes transient web server logs, logging of unhandled exceptions
+using Raygun, Google Analytics to assess
+usage patterns and Application Insights
+for performance metrics.
+These logs may include information entered into a form by the user,
+browser headers such as the user agent string and in some cases, the user's IP address.
+ How HIBP protects data
+
+Security on HIBP is handled by a "defence in depth" approach, that is the service
+employs many different layers of security including (but not limited to):
+
+
+All data transmitted over the internet is done over HTTPS
+Cloudflare is used extensively to block potentially malicious requests
+Rate limits on APIs are implemented at both the code level and via Cloudflare
+Regular security scans are performed to identify code or configuration vulnerabilies
+Firewalls are employed to limit access to services running on Microsoft Azure
+Disclosure of any security vulnerabilities are encouraged via the security.txt file
+Third party components are kept well-maintained (see OWASP's Using Components with Known Vulnerabilities)
+External client side dependencies are embedded using subresource integrity hashes
+ Controlling entity and hosting
+
+HIBP is owned and operated by Superlative Enterprises Pty Ltd, an Australian proprietary
+limited company (ABN 62 085 442 020) based in the state of Queensland.
+All services are
+hosted in the West US Microsoft Azure data centre.
+ Ã
+Notify me 
+Get notified when future pwnage occurs and your account is compromised.
+
+
+
+
+
+
+
+
+You've just been sent a verification email, all you need to do now is confirm your
+address by clicking on the link when it hits your mailbox and you'll be automatically
+notified of future pwnage.
+In case it doesn't show up, check your junk mail and if
+you still can't find it, you can always repeat this process.
+
+
+add another address
+
+
+
+
+
+A troyhunt.com project
+
+
+
+
+
+
+
+

@@ -1,0 +1,198 @@
+
+
+Stallion
+Wiki
+Community Discord
+Client Area
+
+
+
+
+ Products PRODUCTS
+
+Dedicated KVM Slices
+Block Storage Slabs
+Storage VPS
+Anycast VPS
+
+
+OpenVZ VS.
+KVM
+
+
+
+WE'RE AWESOME
+
+Why We're Awesome
+Stallion Control Panel
+Block Storage Slabs
+Free DirectAdmin
+Tons of Operating Systems
+3500Gbps+ DDoS Protection
+Managed Database Servers
+
+OTHER PRODUCTS
+
+Website Hosting
+Reseller Hosting
+
+
+
+
+
+
+
+
+ DDOS Protection DDOS PROTECTION
+
+3500Gbps+ DDoS Protection
+DDoS Protected GRE Tunnels
+
+
+ Free Software FREE LICENSES
+
+DirectAdmin Web Control Panel
+Softaculous Auto Installer
+Blesta Billing Panel
+
+
+ Features FEATURES
+
+Stallion Control Panel
+Block Storage Slabs
+Free DirectAdmin
+Operating Systems
+Private Internal Network
+Diverse Locations
+
+
+
+OPERATING SYSTEMS
+
+Debian Linux
+Redhat / CentOS / Fedora Linux
+TurnKeyLinux Applications
+Ubuntu Linux
+Free / Open / Net BSD
+Microsoft Windows
+
+PAID ADDONS
+
+3500Gbps+ DDoS Protection
+Managed Database Servers
+
+
+ About Us ABOUT US
+
+About Us
+Contact Us
+Twitter
+Facebook
+Community Discord
+Customer Reviews
+
+LOCATIONS
+
+Las Vegas
+New York
+Luxembourg
+
+
+
+
+
+
+
+LEGAL
+
+Privacy Policy
+Terms of Service
+Acceptable Use Policy
+
+
+
+
+
+
+ Overwhelmed? We're here to help.
+Acceptable Use Policy  BuyVM allows customers to use all the resources they subscribe to in their hosting plans.
+If you think your resource use could be too intense for your service plan or for a service plan you are considering, please open a support ticket to discuss your options with BuyVM.
+ We do our best to follow a Law of the Land stance when it comes to content hosted within our services.
+ CONTACT SUPPORT 
+Abuse Definitions. Resource Abuse  1,1,1 - Resource Abuse consists of any activity, intentional or otherwise, that consumes sufficient system resources to negatively affect other clients or equipment.
+
+ Unsolicited Communication  1,2,1 - Any email-based communications sent without the consent of the recepient.
+
+ 1,2,2 - Knowingly permitting or initiating Unsolicited Communications is grounds for immediate termination, and a permanent ban from any future service.
+
+ Malicious Content  1,3,1 - Any type of script, code, or other file that performs harmful action, either to the user affected or as a bulk action triggered by the user.
+
+ 1,3,2 - Any content that violates the laws of the country it resides in.
+
+ 1,3,3 - Knowingly permitting or hosting Malicious Content is grounds for immediate termination, and a permanent ban from any future service.
+ Remedial Action.
+Intentional / Malicious Abuse  2,1,1 - Intentional / Malicious usage is defined as any action knowingly performed by the user, or persons user has authorized to access the service, that is categorized in the above Abuse Definitions.
+
+ 2,1,2 - All services on the user's account will immediately be terminated without compensation, save for situations where a court order demands evidence be turned over to law enforcement.
+
+ 2,1,3 - The user will be permanently banned from holding any further service with Frantech Solutions, BuyVM, BuyShared, and related companies.
+
+ Order of Execution During Abuse Offenses  2,2,1 - The offending service will be brought offline, and left in a suspended state.
+
+ 2,2,2 - A support ticket will be opened to the service owner detailing the offense and the necessary steps required to resolve the situation.
+
+ 2,2,3 - Once the service owner replies to the ticket acknowledging that they understand the issue and how to correct the problem, the service will be reactivated and the service owner will have 24 hours to prevent any further abuse.
+
+ Failure to address abuse cases will result in your services being suspended, and in extreme cases, terminated.
+Tor (Anonymity Network).
+ Frantech is a strong believer and supporter of Freedom of Speech and has taken a strong, and in some cases very public, stance against censorship.
+You're welcome to run Exit, Relay, and Bridge nodes, just follow the rules when doing so.
+
+ Tor Guidelines  3,1,1 - Please open a support ticket informing us you're running an Exit Node.
+This is to allow us to keep track of abuse complaints that come in and handle them accordingly.
+
+ 3,1,2 - Frantech is extremely fair when it comes to abuse complaints for Tor users.
+This is not an invitation to start being malicious.
+
+ 3,1,3 - Please apply Reverse DNS to your IP address through the control panel if you're operating an Exit Node as this can help curb many abuse complaints.
+Something as simple as tor.your-domain.tld is likely sufficient.
+
+ 3,1,4 - If you're operating an Exit Node, please make sure your exit policy blocks the following ports: 
+
+TCP 25 (SMTP)
+TCP 465 (SMTP over SSL)
+TCP 587 (SMTP over TLS)
+TCP 6660-6667 (IRC - Optional but you may save yourself from DDOS attacks)
+TCP 6697 (IRC over SSL - Optional but you may save yourself from DDOS attacks)
+
+Have questions? We'll help answer all of them.
+CONTACT SUPPORT 
+
+
+Â© 2010-2022 BuyVM.
+All rights reserved.
+A division of frantech Solutions.
+ Terms of Service&nbsp.
+-  Acceptable Use 
+
+
+ Services 
+Dedicated KVM Slices
+Block Storage Slabs
+Storage VPS
+Anycast VPS
+DDOS Protection
+ Company 
+About Us
+Data Centers
+Awesome Features
+Community Chat
+ Support 
+Wiki
+Sign Up
+Client Area
+Contact Us
+
+
+ CHAT WITH SALES 
+      

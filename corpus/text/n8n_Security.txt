@@ -1,0 +1,21 @@
+
+        Security Data and system access controls 
+Personal data is accessible and manageable only by properly authorized staff.
+Direct database query access is restricted.
+Access rights to our applications used to process personal data are established and enforced.
+access is via secure passwords and two-factor authentication, where possible.
+Personal data is never stored locally, or in physical form.
+ Data encryption and transmission controls 
+n8n will always encrypt sensitive data (e.g.
+passwords, credentials you create in the app to communicate with different services) when transitioning data to/from different services to ensure it cannot be read, copied, modified or removed without authorization during electronic transmission or transport.
+n8n has the decryption key at hand to decrypt that data for use.
+Account passwords are hashed.
+Our own staff can't even view them.
+If you lose your password, it can't be retrieved â it must be reset.
+ Data backups and deletion 
+We generate daily backups of execution data, stored workflows, webhooks and encrypted credentials, and store them using a secure sub-processor.
+These backups enable us to restore your data in case of accidental deletion or subscription cancellation.
+By default, raw execution logs are purged on a rolling basis, and are deleted no more than 30 days after executions have taken place, unless longer log retention time is requested by the user.
+ Data segregation 
+Data from different n8n subscribers is logically segregated on systems managed by n8n.
+

@@ -1,0 +1,117 @@
+
+         AnkiWeb 
+
+
+Log in 
+Sign up 
+ Terms and Conditions This is a legal agreement between users of this service ("you" or "your") and
+Ankitects Pty Ltd, a company started by the Anki author.
+This agreement
+governs your usage of AnkiWeb ("the service").
+In this document,
+"we" and "our" refers to Ankitects Pty Ltd, its staff, and trusted third-party contractors. Legal Age If you are not old enough to legally agree to this document, please have a parent or guardian agree on your behalf. Privacy Please see our privacy policy to understand the
+information we store when you use the service, why we store it, and the limited
+ways in which we share it. Account Expiry As AnkiWeb is a free service, we need to periodically delete unused account
+data to keep costs down.
+Decks stored in your account will expire if
+your account is not accessed in 6 months or longer. Acceptable Content By uploading or entering any material into our website, you assert that it does not contain:
+
+Content that you do not have the intellectual property rights to use, due to copyright, trademark, patent or other protection.
+Your local jurisdiction may allow you to use protected content under fair use provisions, provided you do not share it with others.
+
+Content designed to subvert the correct functioning of software or hardware, such as viruses and code exploits.
+
+Content that is illegal in Australia, Germany, the United States, or your country of residence.
+
+
+If you are an intellectual property holder and believe your rights have been violated, please see the "Intellectual Property Violations" section below.
+If you share your material publicly, you must also ensure:
+
+It does not contain content that might offend others, such as pornography, hate speech or libel.
+
+It does not attempt to modify or replace the function, content or branding of our website.
+ Sharing Decks Sharing 
+You may optionally share a deck you have uploaded, making it available for others to download from AnkiWeb.
+When you share a deck, you grant us a worldwide, royalty-free, non-exclusive license to make the deck available to users under the Shared Deck License below.
+You further grant us the right to modify the deck you shared, including but not limited to creating excerpts, and converting to new file formats.
+You may elect to remove the shared deck from our servers at any time.
+This will stop us from providing the deck for download.
+We do not store records of who has downloaded a certain deck, so we can not retroactively remove a deck from users who have already downloaded it.
+Due to caching, there may be a small delay between when you remove a deck and when it becomes unavailable to others.
+In addition to the license you grant us above, you may optionally grant users extra rights by specifying so in your deck's description, such as allowing them to redistribute modified versions of your deck.
+You may not impose any extra restrictions.
+When you share a deck, you will be required to assert that it is entirely your own work, or that you have obtained a license from the intellectual property holder to share the material here.
+If we suspect that material has been uploaded in violation of intellectual property rights, we will remove it from the shared deck list, and may remove your ability to share decks in the future.
+
+The system will automatically remove shared decks that receive very few downloads after 3 months.
+While we do not have the resources to manually check decks that are uploaded to our website, we reserve the right to remove any we come across that we deem inappropriate, including but not limited to ones with poor quality descriptions or content, and ones that are only useful to a small group of people (such as lecture notes for a specific class).
+ Shared Deck License 
+When you download a deck that someone has shared, the deck author grants you a permanent, non-revocable, worldwide, royalty free, non-exclusive license to use the material in your personal studies.
+This license is for personal use only, and the deck may not be redistributed, re-uploaded, published, or used for any other purposes without explicit permission from the copyright holder.
+Shared decks have been provided by third parties and are not reviewed by us, so we can offer no warranty or support for them.
+ Intellectual Property Violations Each time users share a deck, they're required to confirm that the content is
+entirely their own work, or that they have obtained a license from the
+intellectual property holder.
+If you believe someone has violated your
+intellectual property rights, please post a private message on our support site to let us know.
+Please provide
+us with a link to the offending content, and a link to your site, book or other
+original content that the material has been taken from.
+If you are writing on
+behalf of another, you must have the authority to act on their behalf.
+Please be
+advised that if you make a false report, you may place yourself open to legal
+action. Sharing Add-ons 
+You may optionally share an add-on you have created by uploading it to AnkiWeb, and you may download add-ons that others have shared.
+As add-ons extend the computer version, they must be licensed under the AGPL3 or a compatible license.
+If you do not explicitly state a license, it will be assumed to be AGPL3.
+Add-ons do not run in a protected environment, so they potentially have full access to your computer.
+Please understand that add-ons are provided by third parties, and not verified by us, so we can provide absolutely no warranty.
+You should only use add-ons that you trust.
+ Access to the Service 
+You may access AnkiWeb directly through your browser, and through the
+synchronisation functionality incorporated into the approved clients (Anki,
+AnkiMobile, AnkiDroid, and AnkiUniversal).
+
+Because other clients can cause problems, AnkiWeb does not currently
+allow access from browser extensions or other third-party clients.
+Instead,
+please use AnkiConnect,
+which lets you modify your local connection over a web socket without any
+negative impact on AnkiWeb.
+
+As the service is provided to you at no charge, we reserve the right to suspend or remove your access to the service at our sole discretion.
+
+ Violations &amp.
+Law Enforcement If you fail to comply with these terms of service, we may suspend or remove
+your account at our sole discretion.
+If your actions were illegal, we may also
+report you to the authorities.
+We will provide your information to third
+parties when required to do so by law. Money Use of the service is currently free, and the hosting costs are supported by
+sales of the iPhone
+app.
+As the hosting
+costs continue to grow, we may need to introduce a "freemium" model in the
+future, where basic accounts are free, and people can pay for accounts that
+support larger decks or extra features. Changes If we make significant changes to these terms, we will notify you via a
+message on the website, a message when you sync, or via an email.
+ Transfer In the event of a company acquisition, restructure, or bankruptcy, we may transfer these rights and obligations to the new legal entity. Disclaimer of Warranties Use of the service is at your own risk.
+While we endeavor to ensure the
+integrity of your data, ultimately the responsibility is in your hands.
+Please keep a local backup of your data for safety's sake.
+ THE SERVICE IS PROVIDED "AS IS".
+WHEN ALLOWED BY LOCAL LAW, WE HEREBY DISCLAIM ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+WE MAKE NO WARRANTY THAT THE SERVICE WILL BE ERROR FREE OR THAT ACCESS WILL BE CONTINUOUS OR UNINTERRUPTED.
+YOU UNDERSTAND THAT USE OF THE SERVICE IS ENTIRELY AT YOUR DISCRETION AND RISK. Limitation of Liability  TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL WE BE LIABLE FOR ANY GENERAL, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR OTHER DAMAGES, INCLUDING, WITHOUT LIMITATION, LOSS OF DATA, INCORRECT DATA, BUSINESS INTERRUPTION, OR ANY OTHER DAMAGES OR LOSSES INCURRED BY YOUR USE OF, OR INABILITY TO USE THIS SERVICE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND REGARDLESS OF THE THEORY OF LIABILITY.
+
+
+Last updated 2018-10-17.
+
+
+Apps
+About 
+Support
+Terms 
+Privacy 
+

@@ -1,0 +1,887 @@
+
+         Opens in a new window Opens an external website Opens an external website in a new window Close this dialog This website stores data such as cookies to enable essential site functionality, as well as marketing, personalization, and analytics.
+By remaining on this website you indicate your consent.
+Cookie Policy 
+ Close Cookie Preferences 
+ Log In 
+ Try Osano for Free 
+
+
+
+
+ Products 
+
+
+Consent Management
+Subject Rights
+Data Discovery
+Vendor Management
+Regulatory Guidance
+Assessments
+Legal Templates
+Consult Privacy Team
+GDPR Representative
+
+
+ Plans 
+ Integrations 
+ Resources 
+
+
+Articles
+Topics
+Free Privacy Audit
+Newsletter
+Our Pledge
+Product Updates
+Schedule a Demo
+System Status
+Webinars
+
+
+ What's New 
+ Search 
+ Everything Documentation News &amp.
+Blogs Website Data Processing Addendum Last Updated: November 30, 2022 A Brief Summary of Our DPA This Data Processing Addendum (âDPAâ) sets out the terms that apply when Personal Data is Processed by Osano, Inc., a Delaware Public Benefit Corporation, with offices at 3800 North Lamar Blvd, Suite 200, Austin, TX 78756 (âOsanoâ), under the Osano Terms of Service (the âAgreementâ).
+The purpose of the DPA is to ensure that Processing is conducted in accordance with applicable data protection laws and respects the rights of individuals whose Personal Data is Processed under the Agreement.
+ Any terms not defined in this DPA shall have the meaning assigned to them in the Agreement. Data Processing Addendum 
+Table of Contents:
+
+
+Processing Personal Data
+Subprocessing
+Security
+Rights of Data Subjects
+Retention and Deletion of Customer Personal Data
+Data Protection Impact Assessment
+Audit Rights
+Records
+Data Transfers
+U.S.
+Privacy Laws
+ Processing Personal Data 
+Relationship of the Parties.
+With respect to the Personal Data Processed under the Agreement, Customer is the âControllerâ and Osano is the âProcessorâ, as such terms are defined under the General Data Protection Regulation((EU) 2016/679)(âGDPRâ) and the UK Data Protection Act 2018 (âUK GDPRâ), and any replacements, additions, successors, implementing requirements or legislation or amendments thereto.
+In some circumstances, Customer may be a Processor, in which case Customer appoints Osano as Customerâs Subprocessor, which shall not change the obligations of either party under this DPA.
+Customerâs Processing of Personal Data.
+âPersonal Dataâ and âProcessingâ will have the same meaning as set forth in the GDPR.
+Customer shall, in the use of the Services (which are defined in the Agreement), Process Personal Data in accordance with the requirements of all applicable data protection laws.
+To the extent Customer acquires Personal Data, Customer shall have sole responsibility for the legality of Personal Data and the means by which Customer acquired Personal Data.
+Osanoâs Processing of Personal Data.
+As Customerâs Processor, Osano shall Process any Personal Data in accordance with applicable data protection laws for the following purposes:
+
+Processing in accordance with the Agreement;
+Processing initiated by Authorized Users in their use of the Services according to the Agreement; 
+Processing to comply with other reasonable instructions provided by Customer;
+
+Osano will promptly notify the Customer in writing if, in its opinion, the Customer's instructions do not comply with all applicable data protection laws.
+Osano will ensure that all of its employees:
+
+are informed of the confidential nature of the Personal Data and are bound by confidentiality obligations and use restrictions in respect of the Personal Data;
+have undertaken training on applicable data protection laws relating to handling Personal Data and how it applies to their particular duties.
+and
+are aware both of Osanoâs duties and their personal duties and obligations under applicable data protection laws and this DPA.
+
+ Subprocessing 
+Customer acknowledges and agrees that Osano may retain certain Subprocessors to Process Personal Data on Osanoâs behalf in order to provide Services under the Agreement.&nbsp.
+Osanoâs Subprocessors are identified in Osano's GDPR statement.
+Prior to a Subprocessorâs Processing of Personal Data, Osano will require contractual obligations of the Subprocessor that are substantially the same as those imposed on Osano under this DPA, including in relation to appropriate technical and organizational data security measures. 
+Osano remains liable for its Subprocessorsâ performance under this DPA to the same extent Osano is liable for its own performance. 
+Other than those Subprocessors listed above, Osano may only authorize any additional Subprocessors to Process Personal Data on its behalf after notifying Customer in advance in writing of its intention to utilize such Subprocessor.
+Customer may object to Osanoâs use of a new Subprocessor by notifying Osano promptly in writing within 14 days of receipt of written notice.
+After receiving an objection to the use of a new Subprocessor, Osano will work with Customer to determine the appropriate course of action.
+Should Osano not be able to provide a viable solution to alleviate Customerâs concerns within 14 days, Customer may terminate the Agreement without further liability and will be refunded any pre-paid unused fees.
+ Security 
+Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of Processing, as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, Osano shall in relation to Personal Data implement appropriate technical and organizational measures to ensure a level of security appropriate to the risk, including, as appropriate, the measures referred to in Article 32(1) of the GDPR, including as appropriate:
+
+the pseudonymisation and encryption of Personal Data;
+the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services;
+the ability to restore the availability and access to Personal Data in a timely manner in the event of a physical or technical incident.
+and
+a process for regularly testing, assessing and evaluating the effectiveness of the security measures.
+
+In assessing the appropriate level of security, Osano shall consider the risks that are presented by Processing, in particular from a Personal Data Breach.
+âPersonal Data Breachâ will have the same meaning as set forth in the GDPR.
+Osano shall notify Customer without undue delay, but in no event longer than 72 hours, upon becoming aware of:
+
+the loss, unintended destruction or damage, corruption, or unusability of part or all of the Personal Data.
+any accidental, unauthorised or unlawful processing of the Personal Data.
+or
+a Personal Data Breach or suspected Personal Data Breach affecting Customer Personal Data.
+
+Where Osano becomes aware of Clause 3 (a), Clause 3 (b) and/or Clause 3 (c) above, it shall, without undue delay, also provide the Customer with the following information:
+
+description of the nature of Clause 3 (a), Clause 3 (b) and/or Clause 3 (c), including the categories of in-scope Personal Data and approximate number of both Data Subjects and the Personal Data records concerned;
+the likely consequences.
+and
+a description of the measures taken or proposed to be taken to address Clause 3 (a), Clause 3 (b) and/or Clause 3 (c), including measures to mitigate its possible adverse effects.
+
+Immediately following any accidental, unauthorised or unlawful Personal Data processing or Personal Data Breach, Osano will investigate the matter.
+Further, Osano will reasonably co-operate with the Customer including but not limited to:
+
+assisting with any investigation;
+making available all relevant records, logs, files, data reporting and other materials required to comply with all data protection legislation or as otherwise reasonably requested by the Customer;
+restoring such Personal Data at its own expense as soon as possible.
+and
+taking reasonable and prompt steps to mitigate the effects and to minimize any damage resulting from the Personal Data Breach or accidental, unauthorised or unlawful Personal Data processing.
+
+Osano will not inform any third party of any accidental, unauthorised or unlawful processing of all or part of the Personal Data and/or a Personal Data Breach without first obtaining the Customer's prior written consent, except when required to do so by law.
+Osano agrees that the Customer has the sole right to determine whether to provide notice of the accidental, unauthorised or unlawful processing and/or the Personal Data Breach to any Data Subjects, the relevant Supervisory Authority, other in-scope regulators, law enforcement agencies or others, as required by law or regulation or in the Customer's discretion, including the contents and delivery method of the notice.
+âSupervisory Authorityâ will have the same meaning as set forth in the GDPR.
+ Rights of Data Subjects 
+âData Subjectâ will have the same meaning as set forth in the GDPR.
+Taking into account the nature of the Processing, Osano shall assist Customer by implementing appropriate technical and organizational measures, insofar as possible, for the fulfillment of Customerâs obligations, to enable Customer to respond to requests to exercise Data Subject rights under applicable data protection laws, including subject access rights, the rights to rectify, port and erase personal data, object to the processing and automated processing of personal data, and restrict the processing of personal data and to comply with information or assessment notices served on the Customer by the relevant Supervisory Authority under data protection legislation. 
+Osano shall:
+
+Promptly notify Customer if it receives a request from a Data Subject under any applicable data protection laws in respect of Customer Personal Data and/or any complaint, notice or communication that relates directly or indirectly to the processing of the Personal Data or to either party's compliance with data protection legislation.
+and
+Ensure that it does not respond to any request from a Data Subject except on documented instructions of Customer or as required by applicable data protection laws to which Osano is subject, in which case, Osano shall, to the extent permitted by applicable data protection laws, inform Customer of that legal requirement before responding to the request.
+
+
+ Retention and Deletion of Customer Personal Data 
+Osano retains the minimum amount of Personal Data in order to provide its Services.  
+Personal Data collected through Customerâs use of Osanoâs Consent Management feature is de-identified encrypted and stored in order to allow the Customer to have a record of the consent choices made by individuals.&nbsp.
+Personal Data collected through the Data Subject Access Request feature is also encrypted and assigned a unique identifier to record the processing of the request.  
+The retention period of Personal Data depends on which Osano feature was used in the processing activity.&nbsp.
+For Osanoâs Consent Management and Data Subject Access Request features, the information is stored for the length of the Agreement as compliance records and for Osanoâs Data Discovery feature, the information is retained for seven (7) calendar days and then automatically deleted (the Customer may also manually delete the data within the Service at any time).  
+Upon termination of the Services for which Osano is Processing Personal Data, Osano shall, upon Customerâs written request and subject to the limitations in the Agreement and unless prevented by applicable data protection laws, securely destroy any Customer Personal Data that has not already been deleted.
+If any law, regulation, or government or regulatory body requires Osano to retain any documents or materials or Personal Data that Osano would otherwise be required to return or destroy, it will notify the Customer in writing of that retention requirement, giving details of the documents, materials or Personal Data that it must retain, the legal basis for retention, and establishing a specific timeline for deletion or destruction once the retention requirement ends. 
+ Data Protection Impact Assessment 
+Upon Customerâs reasonable request, Osano shall provide Customer with commercially reasonable cooperation and assistance needed to fulfil Customerâs obligation under the GDPR to carry out a data protection impact assessment related to Customerâs use of the Services, to the extent Customer does not otherwise have access to the relevant information, and to the extent such information is available to Osano. 
+Osano shall provide commercially reasonable assistance to Customer in the cooperation or prior consultation with the Supervisory Authority to the extent required under the GDPR or other applicable data protection laws.
+ Audit Rights 
+Osano will permit the Customer or a representative to audit Osanoâs compliance with this DPA, on at least seven days' prior written notice.
+Osano will give the Customer all necessary assistance to conduct such audits.
+If such an audit occurs, Customer shall bare all of its own costs of conducting the audit or those of its representative.
+The assistance may include, but is not limited to:
+
+remote electronic access to, and copies of the records and any other information held on systems storing the Personal Data; 
+access to and meetings with any of Osanoâs personnel reasonably necessary to provide all explanations and perform the audit effectively.
+and
+inspection of all records and the infrastructure, electronic data or systems, facilities, equipment or application software used to store, process the Personal Data.
+
+
+The notice requirements in Section 1 above will not apply if (i) the Customer reasonably believes that a Personal Data Breach occurred, (ii) Osano is in breach of any of its obligations under this DPA or any applicable data protection laws or (iii) if such audit is mandated by the relevant Supervisory Authority.
+If a Personal Data Breach occurs or is occurring or Osano becomes aware of a breach of any of its obligations under this DPA or any applicable data protection laws, Osano will:
+
+Notify Customer promptly as detailed above;
+promptly conduct its own audit to determine the cause;
+remedy any deficiencies identified by the audit within thirty days.
+
+
+ Records 
+Osano will keep detailed, accurate and up-to-date written records regarding any processing of the Personal Data, including but not limited to, the access, control and security of the Personal Data, approved Subprocessors, the processing purposes, categories of processing, any transfers of personal data to a third country and related safeguards, and a general description of the technical and organisational security measures referred to in Clause 3.1 (âRecordsâ).
+Osano will ensure that the Records are sufficient to enable the Customer to verify Osanoâs compliance with its obligations under this DPA and Osano will provide the Customer with copies of the Records upon request.
+Osano must review the information listed in the Exhibits to this DPA at least once a year to confirm its current accuracy and suggest updates to it when required to reflect current practices.
+ Data Transfers 
+Osano (and any Subprocessor) will only transfer or otherwise process the Personal Data outside the European Economic Area (âEEAâ) or the United Kingdom subject to the Standard Contractual Clauses attached to this DPA.
+
+Osano is processing the Personal Data in a territory that is subject to adequacy regulations under applicable data protection laws whereby the territory provides adequate protection for the privacy rights of individuals.
+Osano must identify in Exhibit 1 the territory that is subject to such adequacy regulations.
+or
+Osano participates in a valid cross-border transfer mechanism under applicable data protection laws, so that Osano (and, where appropriate, the Customer) can ensure that appropriate safeguards are in place to ensure an adequate level of protection with respect to the privacy rights of individuals as required by Article 46 of the GDPR.
+Osano must identify in Exhibit 1 the transfer mechanism that enables the parties to comply with these cross-border data transfer provisions and Osano must immediately inform the Customer of any change to that status or Osano may only process, or permit the processing, of the Personal Data outside the EEA if the transfer otherwise complies with applicable data protection laws for the reasons set out in Exhibit 1.
+
+
+If any Personal Data transfer between the Customer and Osano requires the execution of Standard Contractual Clauses (âSCCâ) in order to comply with applicable data protection laws (where the Customer is the entity exporting Personal Data to Osano outside the EEA or the United Kingdom), the parties will complete all relevant details in and execute, the SCC contained in Exhibit 2, and take all other actions required to legitimize the transfer including, but not limited to, entering into any required transfer agreement required by the United Kingdomâs ICO.
+
+
+If the Customer consents to the appointment by Osano of a Subprocessor located outside the EEA or the United Kingdom in compliance with the provisions of Clause 2, then the Customer authorizes Osano to enter into the SCC referenced in Exhibit 2 with the Subprocessor in Osanoâs name and on its behalf.
+Osano will make the executed Subprocessor agreement with SCC available to the Customer upon request.
+If and to the extent that any processing of Personal Data subject to the UK GDPR by Osano takes place in any country outside the UK whose laws do not provide an adequate level of data protection (and an independently valid transfer mechanism does not exist), or either party relies on a statutory mechanism to normalize international data transfers that is subsequently modified, revoked, or held in a court of competent jurisdiction to be invalid, then:&nbsp.
+
+the parties will (i) utilize any duly approved successor mechanism.
+or (ii) cooperate in good faith to terminate the transfer or pursue a suitable alternate mechanism that can lawfully support the transfer.
+and
+the terms of the International Data Transfer Addendum to the EU SCCs issued by the UK Information Commissionerâs Office pursuant to S119A(1) of the UK Data Protection Act 2018 (âIDTAâ) (available at: https://ico.org.uk/media/for-organisations/documents/4019483/international-data-transfer-addendum.pdf) will apply in respect of that processing:
+
+for purposes of Part I of the IDTA, the terms of this DPA, including the roles of the parties set forth in Annex I and the technical and organizational measures set out in Annex II, shall apply;
+both parties shall be allowed to end subscription to the IDTA as set out in Section 19 of the IDTA.
+and  
+for purposes of Part 2 of the IDTA, the EU SCCs shall apply. 
+
+
+
+
+ U.S.
+Privacy Laws The provisions of Exhibit 3 apply to the processing of Personal Data (as defined in Exhibit 3) that is subject to the State Privacy Laws (as defined in Exhibit 3). Exhibit 1 - Description of Processing This Exhibit 1 forms part of the DPA and describes the processing that Osano will perform on behalf of the Customer.
+Nature and Purpose of Processing The processing relates to the following activities:
+
+Osano is a data privacy platform based in Austin, Texas, USA.
+Osano processes Personal Data in connection with offering its Services through its SaaS platform.
+Osano also processes Personal Data as part of its Data Subject Rights Management, and Data Discovery features.
+Osano collects information under the direction of its Customers and has no direct relationship with the individuals whose personal data it processes.
+Osano processes personal information to provide its Data Subject Rights Management feature.
+Osano collects the IP address of visitors to Customerâs website(s) and/or applications for purposes of Osanoâs Consent Management feature.
+These IP addresses are de-identified and hashed using one-way encryption.
+Osanoâs Data Discovery feature processes Personal Data to help Customers classify the Personal Data to assist with regulatory and privacy program compliance requirements.
+ Categories of Data Subjects The personal data to be processed concern the following categories of data subjects:
+
+Authorized Users of the Customer (see more below under Categories of Data)
+Clients/consumers of the Customer (for Customers using the Data Subject Rights Management feature).
+Visitors to Customerâs website(s) (for Customers using Osanoâs Consent Management feature services).
+Individuals about whom the Customer has collected data (for Customers using the Data Discovery feature).
+ Categories of Data The personal data to be processed concern the following categories of data:
+
+Personal details (including IP address) of Customerâs Authorized Users of the Services including, but not limited to, first and last name, email address, and phone numbers.
+Information provided by client or customer of Customer for purposes of fulfilling Data Subject Access Requests.
+This information includes IP address, first and last name, email address, country of residence, and proof of identity.
+Osano collects the IP addresses of visitors to Customerâs website(s) and assigns each of them a unique identifier (this data is not transferred to the US unless it has been hashed and deidentified) for purposes of fulfilling Osanoâs Consent Management feature services.
+ Duration of the Processing Personal Data will be processed for the duration of the Agreement and solely as reasonably necessary for Osano to deliver the Services. Processing Operations 
+Customer provided Personal Data will be stored in Amazon Web Services (AWS).
+Personal Data will be entered into Osanoâs web-based SaaS tools for the purpose of creating user login accounts, so that Customer's users can access such SaaS tools in connection with receiving Osanoâs Services.
+IP addresses collected via Osanoâs Consent Management feature are de-identified in Osanoâs Consent Management feature.
+Data from pending Data Subject Access Requests is stored in Amazonâs QLDB in an encrypted form.
+The only Personal Data that Osano keeps is the requestorâs email address, which is deleted upon completion of the request.
+Personal Data is categorized in the Data Discovery feature to assist Customers in fulfilling Data Subject Access Requests and data mapping Personal Data held by Customers.
+Personal Data processed by the Data Discovery feature is encrypted and stored in AWS (Ireland) and deleted after seven days or upon manual deletion request by Customer.
+ Exhibit 2 - Standard Contractual Clauses Controller to Processor Section I Clause 1 - Purpose and Scope
+
+The purpose of these standard contractual clauses is to ensure compliance with the requirements of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation) () for the transfer of data to a third country.
+The Parties:
+
+the natural or legal person(s), public authority/ies, agency/ies or other body/ies (hereinafter âentity/iesâ) transferring the personal data, as listed in Annex I.A (hereinafter each âdata exporterâ), and
+the entity/ies in a third country receiving the personal data from the data exporter, directly or indirectly via another entity also Party to these Clauses, as listed in Annex I.A (hereinafter each âdata importerâ)have agreed to these standard contractual clauses (hereinafter: âClausesâ).
+These Clauses apply with respect to the transfer of personal data as specified in Annex I.B.
+The Appendix to these Clauses containing the Annexes referred to therein forms an integral part of these Clauses.
+
+
+
+Clause 2 - Effect and invariability of the Clauses
+
+These Clauses set out appropriate safeguards, including enforceable data subject rights and effective legal remedies, pursuant to Article 46(1) and Article 46(2)(c) of Regulation (EU) 2016/679 and, with respect to data transfers from controllers to processors and/or processors to processors, standard contractual clauses pursuant to Article 28(7) of Regulation (EU) 2016/679, provided they are not modified, except to select the appropriate Module(s) or to add or update information in the Appendix.
+This does not prevent the Parties from including the standard contractual clauses laid down in these Clauses in a wider contract and/or to add other clauses or additional safeguards, provided that they do not contradict, directly or indirectly, these Clauses or prejudice the fundamental rights or freedoms of data subjects.
+These Clauses are without prejudice to obligations to which the data exporter is subject by virtue of Regulation (EU) 2016/679.
+
+Clause 3 - Third-party beneficiaries
+
+Data subjects may invoke and enforce these Clauses, as third-party beneficiaries, against the data exporter and/or data importer, with the following exceptions:
+
+Clause 1, Clause 2, Clause 3, Clause 6, Clause 7;
+Clause 8 â Module One: Clause 8.5 (e) and Clause 8.9(b).
+Module Two: Clause 8.1(b), 8.9(a), (c), (d) and (e).
+Module Three: Clause 8.1(a), (c) and (d) and Clause 8.9(a), (c), (d), (e), (f) and (g).
+Module Four: Clause 8.1 (b) and Clause 8.3(b);
+Clause 9 â Module Two: Clause 9(a), (c), (d) and (e).
+Module Three: Clause 9(a), (c), (d) and (e);
+Clause 12 â Module One: Clause 12(a) and (d).
+Modules Two and Three: Clause 12(a), (d) and (f);
+Clause 13;
+Clause 15.1(c), (d) and (e);
+Clause 16(e);
+Clause 18 â Modules One, Two and Three: Clause 18(a) and (b).
+Module Four: Clause 18.
+
+
+Paragraph (a) is without prejudice to rights of data subjects under Regulation (EU) 2016/679.
+
+Clause 4 - Interpretation
+
+Where these Clauses use terms that are defined in Regulation (EU) 2016/679, those terms shall have the same meaning as in that Regulation.
+These Clauses shall be read and interpreted in the light of the provisions of Regulation (EU) 2016/679.
+These Clauses shall not be interpreted in a way that conflicts with rights and obligations provided for in Regulation (EU) 2016/679.
+
+Clause 5 - Hierarchy
+In the event of a contradiction between these Clauses and the provisions of related agreements between the Parties, existing at the time these Clauses are agreed or entered into thereafter, these Clauses shall prevail.
+Clause 6 - Description of the transfer(s)
+The details of the transfer(s), and in particular the categories of personal data that are transferred and the purpose(s) for which they are transferred, are specified in Annex I.B.
+Clause 7 - Docking clause
+
+An entity that is not a Party to these Clauses may, with the agreement of the Parties, accede to these Clauses at any time, either as a data exporter or as a data importer, by completing the Appendix and signing Annex I.A.
+Once it has completed the Appendix and signed Annex I.A, the acceding entity shall become a Party to these Clauses and have the rights and obligations of a data exporter or data importer in accordance with its designation in Annex I.A.
+The acceding entity shall have no rights or obligations arising under these Clauses from the period prior to becoming a Party.
+ Section II - Obligations of the Parties Clause 8 - Data Protection Safeguards
+The data exporter warrants that it has used reasonable efforts to determine that the data importer is able, through the implementation of appropriate technical and organisational measures, to satisfy its obligations under these Clauses.
+8.1 Instructions
+
+The data importer shall process the personal data only on documented instructions from the data exporter.
+The data exporter may give such instructions throughout the duration of the contract.
+The data importer shall immediately inform the data exporter if it is unable to follow those instructions.
+
+8.2 Purpose Limitation
+The data importer shall process the personal data only for the specific purpose(s) of the transfer, as set out in Annex I.B, unless on further instructions from the data exporter.
+8.3 Transparency
+On request, the data exporter shall make a copy of these Clauses, including the Appendix as completed by the Parties, available to the data subject free of charge.
+To the extent necessary to protect business secrets or other confidential information, including the measures described in Annex II and personal data, the data exporter may redact part of the text of the Appendix to these Clauses prior to sharing a copy, but shall provide a meaningful summary where the data subject would otherwise not be able to understand the its content or exercise his/her rights.
+On request, the Parties shall provide the data subject with the reasons for the redactions, to the extent possible without revealing the redacted information.
+This Clause is without prejudice to the obligations of the data exporter under Articles 13 and 14 of Regulation (EU) 2016/679.
+8.4 Accuracy
+If the data importer becomes aware that the personal data it has received is inaccurate, or has become outdated, it shall inform the data exporter without undue delay.
+In this case, the data importer shall cooperate with the data exporter to erase or rectify the data.
+8.5 Duration of processing and erasure or return of data
+Processing by the data importer shall only take place for the duration specified in Annex I.B.
+After the end of the provision of the processing services, the data importer shall, at the choice of the data exporter, delete all personal data processed on behalf of the data exporter and certify to the data exporter that it has done so, or return to the data exporter all personal data processed on its behalf and delete existing copies.
+Until the data is deleted or returned, the data importer shall continue to ensure compliance with these Clauses.
+In case of local laws applicable to the data importer that prohibit return or deletion of the personal data, the data importer warrants that it will continue to ensure compliance with these Clauses and will only process it to the extent and for as long as required under that local law.
+This is without prejudice to Clause 14, in particular the requirement for the data importer under Clause 14(e) to notify the data exporter throughout the duration of the contract if it has reason to believe that it is or has become subject to laws or practices not in line with the requirements under Clause 14(a).
+8.6 Security of processing
+
+The data importer and, during transmission, also the data exporter shall implement appropriate technical and organisational measures to ensure the security of the data, including protection against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access to that data (hereinafter âpersonal data breachâ).
+In assessing the appropriate level of security, the Parties shall take due account of the state of the art, the costs of implementation, the nature, scope, context and purpose(s) of processing and the risks involved in the processing for the data subjects.
+The Parties shall in particular consider having recourse to encryption or pseudonymisation, including during transmission, where the purpose of processing can be fulfilled in that manner.
+In case of pseudonymisation, the additional information for attributing the personal data to a specific data subject shall, where possible, remain under the exclusive control of the data exporter.
+In complying with its obligations under this paragraph, the data importer shall at least implement the technical and organisational measures specified in Annex II.
+The data importer shall carry out regular checks to ensure that these measures continue to provide an appropriate level of security.
+The data importer shall grant access to the personal data to members of its personnel only to the extent strictly necessary for the implementation, management and monitoring of the contract.
+It shall ensure that persons authorised to process the personal data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
+In the event of a personal data breach concerning personal data processed by the data importer under these Clauses, the data importer shall take appropriate measures to address the breach, including measures to mitigate its adverse effects.
+The data importer shall also notify the data exporter without undue delay after having become aware of the breach.
+Such notification shall contain the details of a contact point where more information can be obtained, a description of the nature of the breach (including, where possible, categories and approximate number of data subjects and personal data records concerned), its likely consequences and the measures taken or proposed to address the breach including, where appropriate, measures to mitigate its possible adverse effects.
+Where, and in so far as, it is not possible to provide all information at the same time, the initial notification shall contain the information then available and further information shall, as it becomes available, subsequently be provided without undue delay.
+The data importer shall cooperate with and assist the data exporter to enable the data exporter to comply with its obligations under Regulation (EU) 2016/679, in particular to notify the competent supervisory authority and the affected data subjects, taking into account the nature of processing and the information available to the data importer.
+
+8.7 Sensitive Data
+Where the transfer involves personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data, or biometric data for the purpose of uniquely identifying a natural person, data concerning health or a personâs sex life or sexual orientation, or data relating to criminal convictions and offences (hereinafter âsensitive dataâ), the data importer shall apply the specific restrictions and/or additional safeguards described in Annex I.B.
+8.8 Onward Transfers
+The data importer shall only disclose the personal data to a third party on documented instructions from the data exporter.
+In addition, the data may only be disclosed to a third party located outside the European Union () (in the same country as the data importer or in another third country, hereinafter âonward transferâ) if the third party is or agrees to be bound by these Clauses, under the appropriate Module, or if:
+
+the onward transfer is to a country benefitting from an adequacy decision pursuant to Article 45 of Regulation (EU) 2016/679 that covers the onward transfer;
+the third party otherwise ensures appropriate safeguards pursuant to Articles 46 or 47 Regulation of (EU) 2016/679 with respect to the processing in question;
+the onward transfer is necessary for the establishment, exercise or defence of legal claims in the context of specific administrative, regulatory or judicial proceedings.
+or
+the onward transfer is necessary in order to protect the vital interests of the data subject or of another natural person.
+
+Any onward transfer is subject to compliance by the data importer with all the other safeguards under these Clauses, in particular purpose limitation.
+8.9 Documentation and Compliance
+
+The data importer shall promptly and adequately deal with enquiries from the data exporter that relate to the processing under these Clauses.
+The Parties shall be able to demonstrate compliance with these Clauses.
+In particular, the data importer shall keep appropriate documentation on the processing activities carried out on behalf of the data exporter.
+The data importer shall make available to the data exporter all information necessary to demonstrate compliance with the obligations set out in these Clauses and at the data exporterâs request, allow for and contribute to audits of the processing activities covered by these Clauses, at reasonable intervals or if there are indications of non-compliance.
+In deciding on a review or audit, the data exporter may take into account relevant certifications held by the data importer.
+The data exporter may choose to conduct the audit by itself or mandate an independent auditor.
+Audits may include inspections at the premises or physical facilities of the data importer and shall, where appropriate, be carried out with reasonable notice.
+The Parties shall make the information referred to in paragraphs (b) and (c), including the results of any audits, available to the competent supervisory authority on request.
+
+Clause 9 - Use of Sub-processors
+
+GENERAL WRITTEN AUTHORISATION The data importer has the data exporterâs general authorisation for the engagement of sub-processor(s) from an agreed list.
+The data importer shall specifically inform the data exporter in writing of any intended changes to that list through the addition or replacement of sub-processors at least 14 days in advance, thereby giving the data exporter sufficient time to be able to object to such changes prior to the engagement of the sub-processor(s).
+The data importer shall provide the data exporter with the information necessary to enable the data exporter to exercise its right to object.
+Where the data importer engages a sub-processor to carry out specific processing activities (on behalf of the data exporter), it shall do so by way of a written contract that provides for, in substance, the same data protection obligations as those binding the data importer under these Clauses, including in terms of third-party beneficiary rights for data subjects.
+() The Parties agree that, by complying with this Clause, the data importer fulfils its obligations under Clause 8.8.
+The data importer shall ensure that the sub-processor complies with the obligations to which the data importer is subject pursuant to these Clauses.
+The data importer shall provide, at the data exporterâs request, a copy of such a sub-processor agreement and any subsequent amendments to the data exporter.
+To the extent necessary to protect business secrets or other confidential information, including personal data, the data importer may redact the text of the agreement prior to sharing a copy.
+The data importer shall remain fully responsible to the data exporter for the performance of the sub-processorâs obligations under its contract with the data importer.
+The data importer shall notify the data exporter of any failure by the sub-processor to fulfil its obligations under that contract.
+The data importer shall agree a third-party beneficiary clause with the sub-processor whereby â in the event the data importer has factually disappeared, ceased to exist in law or has become insolvent â the data exporter shall have the right to terminate the sub-processor contract and to instruct the sub-processor to erase or return the personal data.
+
+Clause 10 - Data Subject Rights
+
+The data importer shall promptly notify the data exporter of any request it has received from a data subject.
+It shall not respond to that request itself unless it has been authorised to do so by the data exporter.
+The data importer shall assist the data exporter in fulfilling its obligations to respond to data subjectsâ requests for the exercise of their rights under Regulation (EU) 2016/679.
+In this regard, the Parties shall set out in Annex II the appropriate technical and organisational measures, taking into account the nature of the processing, by which the assistance shall be provided, as well as the scope and the extent of the assistance required.
+In fulfilling its obligations under paragraphs (a) and (b), the data importer shall comply with the instructions from the data exporter.
+
+Clause 11 - Redress
+
+The data importer shall inform data subjects in a transparent and easily accessible format, through individual notice or on its website, of a contact point authorised to handle complaints.
+It shall deal promptly with any complaints it receives from a data subject.
+In case of a dispute between a data subject and one of the Parties as regards compliance with these Clauses, that Party shall use its best efforts to resolve the issue amicably in a timely fashion.
+The Parties shall keep each other informed about such disputes and, where appropriate, cooperate in resolving them.
+Where the data subject invokes a third-party beneficiary right pursuant to Clause 3, the data importer shall accept the decision of the data subject to:
+
+lodge a complaint with the supervisory authority in the Member State of his/her habitual residence or place of work, or the competent supervisory authority pursuant to Clause 13;
+refer the dispute to the competent courts within the meaning of Clause 18.
+
+
+The Parties accept that the data subject may be represented by a not-for-profit body, organisation or association under the conditions set out in Article 80(1) of Regulation (EU) 2016/679.
+The data importer shall abide by a decision that is binding under the applicable EU or Member State law.
+The data importer agrees that the choice made by the data subject will not prejudice his/her substantive and procedural rights to seek remedies in accordance with applicable laws.
+
+Clause 12 - Liability
+
+Each Party shall be liable to the other Party/ies for any damages it causes the other Party/ies by any breach of these Clauses.
+The data importer shall be liable to the data subject, and the data subject shall be entitled to receive compensation, for any material or non-material damages the data importer or its sub-processor causes the data subject by breaching the third-party beneficiary rights under these Clauses.
+Notwithstanding paragraph (b), the data exporter shall be liable to the data subject, and the data subject shall be entitled to receive compensation, for any material or non-material damages the data exporter or the data importer (or its sub-processor) causes the data subject by breaching the third-party beneficiary rights under these Clauses.
+This is without prejudice to the liability of the data exporter and, where the data exporter is a processor acting on behalf of a controller, to the liability of the controller under Regulation (EU) 2016/679 or Regulation (EU) 2018/1725, as applicable.
+The Parties agree that if the data exporter is held liable under paragraph (c) for damages caused by the data importer (or its sub-processor), it shall be entitled to claim back from the data importer that part of the compensation corresponding to the data importerâs responsibility for the damage.
+Where more than one Party is responsible for any damage caused to the data subject as a result of a breach of these Clauses, all responsible Parties shall be jointly and severally liable and the data subject is entitled to bring an action in court against any of these Parties.
+The Parties agree that if one Party is held liable under paragraph (e), it shall be entitled to claim back from the other Party/ies that part of the compensation corresponding to its/their responsibility for the damage.
+The data importer may not invoke the conduct of a sub-processor to avoid its own liability.
+
+Clause 13 - Supervision
+
+The supervisory authority of the Member State in which the representative within the meaning of Article 27(1) of Regulation (EU) 2016/679 is established, as indicated in Annex I.C, shall act as competent supervisory authority.
+The data importer agrees to submit itself to the jurisdiction of and cooperate with the competent supervisory authority in any procedures aimed at ensuring compliance with these Clauses.
+In particular, the data importer agrees to respond to enquiries, submit to audits and comply with the measures adopted by the supervisory authority, including remedial and compensatory measures.
+It shall provide the supervisory authority with written confirmation that the necessary actions have been taken.
+ Section III - Local Laws and Obligations In Case of Access by Public Authorities Clause 14 - Local laws and practices affecting compliance with the Clauses
+
+The Parties warrant that they have no reason to believe that the laws and practices in the third country of destination applicable to the processing of the personal data by the data importer, including any requirements to disclose personal data or measures authorising access by public authorities, prevent the data importer from fulfilling its obligations under these Clauses.
+This is based on the understanding that laws and practices that respect the essence of the fundamental rights and freedoms and do not exceed what is necessary and proportionate in a democratic society to safeguard one of the objectives listed in Article 23(1) of Regulation (EU) 2016/679, are not in contradiction with these Clauses.
+The Parties declare that in providing the warranty in paragraph (a), they have taken due account in particular of the following elements:
+
+the specific circumstances of the transfer, including the length of the processing chain, the number of actors involved and the transmission channels used.
+intended onward transfers.
+the type of recipient.
+the purpose of processing.
+the categories and format of the transferred personal data.
+the economic sector in which the transfer occurs.
+the storage location of the data transferred;
+the laws and practices of the third country of destinationâ including those requiring the disclosure of data to public authorities or authorising access by such authorities â relevant in light of the specific circumstances of the transfer, and the applicable limitations and safeguards ();
+any relevant contractual, technical or organisational safeguards put in place to supplement the safeguards under these Clauses, including measures applied during transmission and to the processing of the personal data in the country of destination.
+
+
+The data importer warrants that, in carrying out the assessment under paragraph (b), it has made its best efforts to provide the data exporter with relevant information and agrees that it will continue to cooperate with the data exporter in ensuring compliance with these Clauses.
+The Parties agree to document the assessment under paragraph (b) and make it available to the competent supervisory authority on request.
+The data importer agrees to notify the data exporter promptly if, after having agreed to these Clauses and for the duration of the contract, it has reason to believe that it is or has become subject to laws or practices not in line with the requirements under paragraph (a), including following a change in the laws of the third country or a measure (such as a disclosure request) indicating an application of such laws in practice that is not in line with the requirements in paragraph (a).
+Following a notification pursuant to paragraph (e), or if the data exporter otherwise has reason to believe that the data importer can no longer fulfil its obligations under these Clauses, the data exporter shall promptly identify appropriate measures (e.g.
+technical or organisational measures to ensure security and confidentiality) to be adopted by the data exporter and/or data importer to address the situation.
+The data exporter shall suspend the data transfer if it considers that no appropriate safeguards for such transfer can be ensured, or if instructed by the competent supervisory authority to do so.
+In this case, the data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses.
+If the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise.
+Where the contract is terminated pursuant to this Clause, Clause 16(d) and (e) shall apply.
+
+Clause 15 - Obligations of the data importer in case of access by public authorities
+15.1 Notification
+
+The data importer agrees to notify the data exporter and, where possible, the data subject promptly (if necessary with the help of the data exporter) if it:
+
+receives a legally binding request from a public authority, including judicial authorities, under the laws of the country of destination for the disclosure of personal data transferred pursuant to these Clauses.
+such notification shall include information about the personal data requested, the requesting authority, the legal basis for the request and the response provided.
+or
+becomes aware of any direct access by public authorities to personal data transferred pursuant to these Clauses in accordance with the laws of the country of destination.
+such notification shall include all information available to the importer.
+
+
+If the data importer is prohibited from notifying the data exporter and/or the data subject under the laws of the country of destination, the data importer agrees to use its best efforts to obtain a waiver of the prohibition, with a view to communicating as much information as possible, as soon as possible.
+The data importer agrees to document its best efforts in order to be able to demonstrate them on request of the data exporter.
+Where permissible under the laws of the country of destination, the data importer agrees to provide the data exporter, at regular intervals for the duration of the contract, with as much relevant information as possible on the requests received (in particular, number of requests, type of data requested, requesting authority/ies, whether requests have been challenged and the outcome of such challenges, etc.).
+The data importer agrees to preserve the information pursuant to paragraphs (a) to (c) for the duration of the contract and make it available to the competent supervisory authority on request.
+Paragraphs (a) to (c) are without prejudice to the obligation of the data importer pursuant to Clause 14(e) and Clause 16 to inform the data exporter promptly where it is unable to comply with these Clauses.
+
+15.2 Review of legality and data minimisation
+
+The data importer agrees to review the legality of the request for disclosure, in particular whether it remains within the powers granted to the requesting public authority, and to challenge the request if, after careful assessment, it concludes that there are reasonable grounds to consider that the request is unlawful under the laws of the country of destination, applicable obligations under international law and principles of international comity.
+The data importer shall, under the same conditions, pursue possibilities of appeal.
+When challenging a request, the data importer shall seek interim measures with a view to suspending the effects of the request until the competent judicial authority has decided on its merits.
+It shall not disclose the personal data requested until required to do so under the applicable procedural rules.
+These requirements are without prejudice to the obligations of the data importer under Clause 14(e).
+The data importer agrees to document its legal assessment and any challenge to the request for disclosure and, to the extent permissible under the laws of the country of destination, make the documentation available to the data exporter.
+It shall also make it available to the competent supervisory authority on request.
+The data importer agrees to provide the minimum amount of information permissible when responding to a request for disclosure, based on a reasonable interpretation of the request.
+ Section IV - Final Provisions Clause 16 - Non-compliance with the Clauses and termination
+
+The data importer shall promptly inform the data exporter if it is unable to comply with these Clauses, for whatever reason.
+In the event that the data importer is in breach of these Clauses or unable to comply with these Clauses, the data exporter shall suspend the transfer of personal data to the data importer until compliance is again ensured or the contract is terminated.
+This is without prejudice to Clause 14(f).
+The data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses, where:
+
+the data exporter has suspended the transfer of personal data to the data importer pursuant to paragraph (b) and compliance with these Clauses is not restored within a reasonable time and in any event within one month of suspension;
+the data importer is in substantial or persistent breach of these Clauses.
+or
+the data importer fails to comply with a binding decision of a competent court or supervisory authority regarding its obligations under these Clauses.
+
+In these cases, it shall inform the competent supervisory authority of such non-compliance.
+Where the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise.
+Personal data that has been transferred prior to the termination of the contract pursuant to paragraph (c) shall at the choice of the data exporter immediately be returned to the data exporter or deleted in its entirety.
+The same shall apply to any copies of the data.
+The data importer shall certify the deletion of the data to the data exporter.
+Until the data is deleted or returned, the data importer shall continue to ensure compliance with these Clauses.
+In case of local laws applicable to the data importer that prohibit the return or deletion of the transferred personal data, the data importer warrants that it will continue to ensure compliance with these Clauses and will only process the data to the extent and for as long as required under that local law.
+Either Party may revoke its agreement to be bound by these Clauses where (i) the European Commission adopts a decision pursuant to Article 45(3) of Regulation (EU) 2016/679 that covers the transfer of personal data to which these Clauses apply.
+or (ii) Regulation (EU) 2016/679 becomes part of the legal framework of the country to which the personal data is transferred.
+This is without prejudice to other obligations applying to the processing in question under Regulation (EU) 2016/679.
+
+Clause 17 - Governing law
+These Clauses shall be governed by the law of one of the EU Member States, provided such law allows for third-party beneficiary rights.
+The Parties agree that this shall be the law of Ireland.
+Clause 18 - Choice of forum and jurisdiction
+
+Any dispute arising from these Clauses shall be resolved by the courts of an EU Member State.
+The Parties agree that those shall be the courts of  Ireland.
+A data subject may also bring legal proceedings against the data exporter and/or data importer before the courts of the Member State in which he/she has his/her habitual residence.
+The Parties agree to submit themselves to the jurisdiction of such courts
+ Annex I A.
+List of Parties Data exporter(s)
+Data importer(s) Name:Customer as identified on Order Form
+Name:Osano, Inc., a Public Benefit Corp Address:Customer address as identified on Order Form
+Address:3800 N Lamar Blvd, Ste 200, Austin, TX 78756 Contact personâs name, position, and contact details:Signatory as identified on Order Form
+Contact person's name, position, and contact details:Chief Privacy Officer3800 N Lamar BlvdSte 200Austin, TX 78756, USA Activities relevant to the data transferred under these Clauses:Recording website visitorsâ cookie preferences, processing data subject access requests, and data discovery for privacy regulation compliance.
+Activities relevant to the data transferred under these Clauses:Processing personal data to assist in privacy regulatory compliance.
+cookie consent management.
+data subject access request workflow and management.
+data discovery.
+record keeping.
+Signature and date: Incorporated by Reference
+Signature and date: Incorporated by Reference Role: Controller
+Role: Processor  
+B.
+Description of Transfer
+
+Categories of data subjects whose personal data is transferred.
+Website visitors, individuals submitting a DSAR to data exporter, individuals that data exporter authorizes as users of the Osano platform, and if Customer utilizes Data Discovery, individuals whose information has already been collected by data exporter.
+
+Categories of personal data transferred.
+The Osano Cookie Management Consent tool collects, and may transfer, IP addresses and device unique identifier numbers.
+The DSAR tool may transfer the request validation information determined by the data exporter (deleted after 7 days).
+ The categories of personal data transferred by Data Discovery are dependent upon the categories of personal data stored by data exporter.
+
+Sensitive data transferred (if applicable) and applied restrictions or safeguards that fully take into consideration the nature of the data and the risks involved, such as for instance strict purpose limitation, access restrictions (including access only for staff having followed specialised training), keeping a record of access to the data, restrictions for onward transfers or additional security measures.
+If controller has sensitive data and utilizes the Data Discovery product, Osano may transfer such sensitive data for the purposes of complying with a DSAR or other compliance practices.â¦
+
+The frequency of the transfer (e.g.
+whether the data is transferred on a one-off or continuous basis).
+Ongoing transfers are anticipated.
+
+Nature of the processing
+Compliance and record keeping.
+
+Purpose(s) of the data transfer and further processing
+Compliance and record keeping.
+
+The period for which the personal data will be retained, or, if that is not possible, the criteria used to determine that period
+Personal Data used to demonstrate a record for compliance purposes is retained for the life of the agreement with data exporter and if not necessary for such purposes it is deleted after 7 calendar days.
+
+For transfers to (sub-) processors, also specify subject matter, nature and duration of the processing
+Sub processors are used solely to deliver services and to facilitate billing.
+C.
+Competent Supervisory Authority
+
+Identify the competent supervisory authority/ies in accordance with Clause 13
+Data Protection Commission (Ireland) Annex II Technical And Organisational Measures Including Technical And Organisational Measures To Ensure The Security Of The Data
+A.
+Technical and organizational measures to ensure the security of the data
+1.
+&nbsp.
+ Measures to ensure confidentiality
+To ensure that personal data is only processed by authorized persons.
+
+1.1.
+&nbsp.
+ Admission control
+
+To prevent unauthorized persons from gaining access to data processing systems with which personal data are processed or used.
+ Please note:  all of our data processing systems are within AWS and we do not have any physical locations with data processing systems.
+For details on AWS security controls please see:https://aws.amazon.com/compliance/data-center/controls/
+
+1.2.
+&nbsp.
+&nbsp.
+Entry control
+
+To prevent data processing systems from being used without authorization.
+â &nbsp.
+ Personal and individual user log-in for registration in the systems or company networkâ &nbsp.
+ Authorization process for access authorizationsâ &nbsp.
+ Limitation of authorized usersâ &nbsp.
+ Single sign-onâ &nbsp.
+ Two factor authenticationâ &nbsp.
+ BIOS passwordsâ &nbsp.
+ Password procedures (indication of password parameters with regard to complexity and length)â &nbsp.
+ Automated blocking of access for a certain time period in case of repeated incorrect entry of access dataâ &nbsp.
+ Electronic documentation of passwords and protection of this documentation against unauthorized accessâ &nbsp.
+ Logging of accessâ &nbsp.
+ Additional system log-in for certain applicationsâ &nbsp.
+ Automatic blocking of clients after a certain period of user inactivity (also password-protected screensaver or automatic stand-by)â &nbsp.
+ Firewallâ &nbsp.
+ System-specific protection against attacks / intrusion detection / intrusion preventionâ &nbsp.
+ Other measures / details on aforementioned measures: available by request in the Osano, Inc.
+Technology Review documentation
+
+1.3 Access control
+
+To ensure that persons entitled to use a data processing system have access only to the data to which they have a right of access, and that personal data cannot be read, copied, modified or removed without authorization in the course of processing or use and after storage.
+â &nbsp.
+ Administration and documentation of differentiated permissionsâ &nbsp.
+ Evaluations / logging of data processing operationsâ &nbsp.
+ Authorization process for permissionsâ &nbsp.
+ Authorization routinesâ &nbsp.
+ Profiles / rolesâ &nbsp.
+ Regular checks on the authorization of permissions in accordance with the "need to know" principleâ &nbsp.
+ Encryption of CD / DVD-ROM, external hard disks and / or laptops (e.g.
+per operating system)â &nbsp.
+ Measures to prevent unauthorized overwriting of data on externally used data carriers (e.g, copy protection, blocking of USB ports, âData Loss Prevention (DLP) systemâ)â &nbsp.
+ Mobile Device Management Systemâ &nbsp.
+ Four-eye principle (for certain activities)â &nbsp.
+ Segregation of dutiesâ &nbsp.
+ Irreversible deletion of data carriersâ &nbsp.
+ Logging / documentation of deletionsâ &nbsp.
+ Other measures / details on aforementioned measures: Available by request in the Osano, Inc.
+Technology Review documentation
+
+1.4.
+&nbsp.
+ Separation control
+
+To ensure that data collected for different purposes can be processed separately.
+â &nbsp.
+ Storage of data records in physically separated databasesâ &nbsp.
+ Separate systemsâ &nbsp.
+ Access authorization according to functional responsibilityâ &nbsp.
+ Separate data processing through differentiating access regulationsâ &nbsp.
+ Multi-client capability of IT systemsâ &nbsp.
+ Use of test dataâ &nbsp.
+ Separation of development and production environmentâ &nbsp.
+ Other measures / details on aforementioned measures: Please see Osano, Inc.
+Technology Review
+
+1.4.
+&nbsp.
+ Separation control
+
+To ensure that data collected for different purposes can be processed separately.
+â &nbsp.
+ Storage of data records in physically separated databasesâ &nbsp.
+ Separate systemsâ &nbsp.
+ Access authorization according to functional responsibilityâ &nbsp.
+ Separate data processing through differentiating access regulationsâ &nbsp.
+ Multi-client capability of IT systemsâ &nbsp.
+ Use of test dataâ &nbsp.
+ Separation of development and production environmentâ &nbsp.
+ Other measures / details on aforementioned measures: Please see Osano, Inc.
+Technology Review
+3.
+&nbsp.
+ Pseudonymisation
+Personal data of the controller can be processed in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organizational measures to ensure that the personal data is not attributed to an identified or identifiable natural person.
+Pseudonymisation is a technical and organizational measure and can be implemented by the processor as follows:
+â &nbsp.
+ Separate storage of additional information for identificationâ &nbsp.
+ Use of (personnel, customer or patient) numbers instead of namesâ &nbsp.
+ Encryption of additional information for identificationâ &nbsp.
+ Administration and documentation of differentiated authorisations to the additional information for identificationâ &nbsp.
+ Authorization processes or approval routines for permission to process additional information for identification purposesâ &nbsp.
+ Copy protection with regard to additional information for identification
+4.
+&nbsp.
+ Measures in order to ensure integrity
+To ensure that personal data is processed correctly and without any manipulations.
+â &nbsp.
+ Access rightsâ &nbsp.
+ System-side loggingâ &nbsp.
+ Document management system (DMS) with history of editingâ &nbsp.
+ Security / logging softwareâ &nbsp.
+ Functional responsibilities, organizationally specified responsibilitiesâ &nbsp.
+ âMultiple control principleââ &nbsp.
+ Tunnelled remote data connections (VPN = virtual private network)â &nbsp.
+ âData Loss Prevention Systemâ (DLP)â &nbsp.
+ Electronic signatureâ &nbsp.
+ Logging of data transfer or sharingâ &nbsp.
+ Logging of read accessesâ &nbsp.
+ Logging the copying, editing or removal of data
+5.
+&nbsp.
+ Measures in order to ensure and restore availability
+To ensure that personal data is protected against accidental destruction or loss.
+â &nbsp.
+ Data security concept for software and IT applicationsâ &nbsp.
+ Back-up processesâ &nbsp.
+ Storage process for back-ups (fire-proof safe, separate fire sections, etc.)â &nbsp.
+ Ensuring data storage in secured networkâ &nbsp.
+ Need-based installation of security updatesâ &nbsp.
+ hard disk mirroringâ &nbsp.
+ Installation of an uninterruptible power supplyâ &nbsp.
+ Suitable archiving facilities for paper documentsâ &nbsp.
+ Fire and / or extinguishing water protection of the server roomâ &nbsp.
+ Fire and / or extinguishing water protection of the archiving premisesâ &nbsp.
+ Air conditioned server roomâ &nbsp.
+ Virus protectionâ &nbsp.
+ Firewallâ &nbsp.
+ Emergency planâ &nbsp.
+ Successful emergency exercisesâ &nbsp.
+ Redundant, locally separated data storage (offsite storage)
+6.
+&nbsp.
+ Measures in order to ensure resilience
+To ensure that the data processing systems are sufficiently robust and resilient in order to sustain the most important expectable distrubance effects without their functionality being impaired.
+â &nbsp.
+ Emergency plan for machine failureâ &nbsp.
+ Redundant power supplyâ &nbsp.
+ Sufficient capacity of IT systems and assetsâ &nbsp.
+ Logistically controlled processes to avoid power peaksâ &nbsp.
+ Redundant systems / assets &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+ â &nbsp.
+ Resilience and error management
+7.
+&nbsp.
+ Effectiveness control
+To ensure that there are processes in place for regular testing, assessment and evaluation of the effectiveness of the technical and organizational measures.
+â &nbsp.
+ Procedures for regular controls / auditsâ &nbsp.
+ Concept for regular review, assessment and evaluationâ &nbsp.
+ Reporting systemâ &nbsp.
+ Penetration testsâ &nbsp.
+ Emergency testsâ &nbsp.
+ Certification.
+SOC2 Certified
+8.
+&nbsp.
+ Instruction control
+To ensure that personal data is only processed in accordance with the instructions of the controller (also in the case of a processor).
+â &nbsp.
+ Agreement in accordance with Clause 9 of these Standard Contractual Clausesâ &nbsp.
+ Guidelines / instructions for defining responsibilities under data protection lawâ &nbsp.
+ Process of issuing and / or following instructionsâ &nbsp.
+ Designation of contact persons and / or responsible employeesâ &nbsp.
+ Control / verification of order execution bound by instructionsâ &nbsp.
+ Training / instruction of all employees of the processor with access authorizationsâ &nbsp.
+ Independent auditing of adherence to instructionsâ &nbsp.
+ Commitment of employees to confidentialityâ &nbsp.
+ Agreement on contractual penalties for infringement of instructionsâ &nbsp.
+ Data protection manager / Data protection coordinatorâ &nbsp.
+ Maintaining a record of processing activities in accordance with Article 30 (2) GDPRâ &nbsp.
+ Documentation and escalation process for personal data breachesâ &nbsp.
+ Guidelines / instructions to ensure technical-organizational measures for the security of processing
+9.
+&nbsp.
+ Assistance to the controller
+The processor shall provide the necessary assistance to the controller in its obligations to respond to requests for exercising the data subjectâs rights laid down in Chapter III of the GDPR,notify the competent supervisory authority and the data subject in the case of a personal data breach, carry out a data protection impact assessment, including any required consultation with the competent supervisory authority, ensure the required data quality (factually correct and up-to-date).
+â &nbsp.
+ Guidelines / instructions for defining responsibilities under data protection lawâ &nbsp.
+ Guidelines / instructions for ensuring technical-organizational measures for the security of processing â &nbsp.
+ Process for forwarding requests of data subjectsâ &nbsp.
+ Informing the controller in case of inaccurate or outdated personal data 
+B.
+Transparency and supplementary technical and organizational measures pursuant to Clause 14
+In addition to Annex II A., in consequence of the judgment C-311/18 (Schrems II) of the Court of Justice of the European Union (CJEU) and the âRecommendation 01/2020 on measures that supplement transfer tools to ensure compliance with the EU level of protection of personal dataâ of the European Data Protection Board (EDPB), adopted on 18 June 2021, the parties commit themselves to implement supplementary measures to mitigate the risk of gaps in the law or practice of the third country to which personal data of the data exporter are transferred to and where they are processed by the data importer, impinging on the effectiveness of these standard contractual clauses as appropriate safeguards according to Article 46 General Data Protection Regulation (GDPR). Exhibit 3 - U.S.
+Privacy Law Data Processing The following provisions will apply to Personal Data (defined below) that is subject to the State Privacy Laws (as defined below).
+
+Definitions.
+For the purposes of this Exhibit 3:
+
+âState Privacy Lawsâ means, collectively, all U.S.
+state privacy laws and their implementing regulations, as amended or superseded from time to time, that apply generally to the processing of individualsâ Personal Data and that do not apply solely to specific industry sectors (e.g., financial institutions), specific demographics (e.g., children), or specific classes of information (e.g., health or biometric information).
+State Privacy Laws include the following:
+
+California Consumer Privacy Act of 2018 as amended by the California Privacy Rights Act of 2020 (California Civil Code Â§Â§ 1798.100 to 1798.199) (âCPRAâ);
+Colorado Privacy Act (Colorado Rev.
+Stat.
+Â§Â§ 6-1-1301 to 6-1-1313) (âColoPAâ);
+Connecticut Personal Data Privacy and Online Monitoring Act (Public Act No.
+22-15) (âCPOMAâ);
+Utah Consumer Privacy Act (Utah Code Ann.
+Â§Â§ 13-61-101 to 13-61-404) (âUCPAâ).
+and
+Virginia Consumer Data Protection Act (Virginia Code Ann.
+Â§Â§ 59.1-575 to 59.1-585) (âVCDPAâ).
+
+
+âPersonal Dataâ
+means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with an identified or identifiable natural person.
+Where applicable, Personal Data shall be interpreted consistent with the same or similar term under State Privacy Laws.
+âShare,â âShared,â and âSharingâ have the meaning defined in the CPRA.
+âSaleâ and âSellingâ have the meaning defined in the State Privacy Laws.
+âControllerâ means âControllerâ or âBusinessâ as those terms are defined in the State Privacy Laws.
+âProcessorâ means âProcessor,â âService Provider,â or âContractorâ as those terms are defined in the State Privacy Laws.
+âConsumerâ has the meaning defined in the State Privacy Laws.
+âProcessing,â âProcess,â and âProcessedâ have the meaning defined in the State Privacy Laws.
+âCustomer Personal Dataâ means Personal Data provided by Customer to, or which is collected on behalf of Customer by, Osano to provide services to Customer pursuant to the Agreement.
+In the event of a conflict in the meanings of defined terms in the State Privacy Laws, the meaning from the law applicable to the state of residence of the relevant Consumer applies.
+
+
+Scope, Roles, and Termination.
+
+Applicability - This Exhibit 3 applies only to Osanoâs Processing of Customer Personal Data for the nature, purposes, and duration set forth in Exhibit 1
+Roles of the Parties - For the purposes of the Agreement and this Exhibit 3, Customer is the Party responsible for determining the purposes and means of Processing Customer Personal Data as the Controller and appoints Osano as a Processor to Process Customer Personal Data on behalf of Customer for the limited and specific purposes set forth in Exhibit 1.
+Obligations at Termination - Upon termination of the Agreement, except as set forth therein or herein, Osano will discontinue Processing and destroy or return Customer Personal Data in its or its subcontractors and sub-processors possession without undue delay.
+Osano may retain Customer Personal Data to the extent required by law but only to the extent and for such period as required by such law and always provided that Osano shall ensure the confidentiality of all such Customer Personal Data.
+
+
+Compliance.
+
+Compliance Assurance - Customer has the right to take reasonable and appropriate steps to ensure that Osano uses Customer Personal Data consistent with Customerâs obligations under applicable State Privacy Laws.
+Compliance Monitoring - Customer has the right to monitor Osanoâs compliance with this Exhibit 3 through measures, including, but not limited to, ongoing manual reviews, automated scans, regular assessments, audits, or other annual technical and operational testing at least once every 12 months.
+Compliance Remediation â Osano shall notify Customer no later than five business days after determining that it can no longer meet its obligations under applicable State Privacy Laws.
+Upon receiving notice from Osano in accordance with this subsection, Customer may direct Osano to take reasonable and appropriate steps to stop and remediate unauthorized use of Customer Personal Data.
+
+
+Restrictions on Processing.
+
+Limitations on Processing - Osano will Process Customer Personal Data solely as instructed in the Agreement and this Exhibit 3.
+Except as expressly permitted by the State Privacy Laws, Osano is prohibited from (i) Selling or Sharing Customer Personal Data, (ii) retaining, using, or disclosing Customer Personal Data for any purpose other than for the specific purpose of performing the Services specified in Exhibit 1, (iii) retaining, using, or disclosing Customer Personal Data outside of the direct business relationship between the Parties, and (iv) combining Customer Personal Data with Personal Data obtained from, or on behalf of, sources other than Customer, except as expressly permitted under applicable State Privacy Laws.
+Confidentiality - Osano shall ensure that its employees, agents, subcontractors, and sub-processors are subject to a duty of confidentiality with respect to Customer Personal Data.
+Subcontractors.
+Sub-processors â Osanoâs current subcontractors and sub-processors are https://www.osano.com/legal/gdpr.
+Osano shall notify Customer of any intended changes concerning the addition or replacement of subcontractors or sub-processors.
+Right to Object â Customer may object in writing to Osanoâs appointment of a new subcontractor or sub-processor on reasonable grounds by notifying Osano in writing within 30 calendar days of receipt of notice in accordance with Section 4.3.In the event Customer objects, the Parties shall discuss Customerâs concerns in good faith with a view to achieving a commercially reasonable resolution. 
+
+
+Consumer Rights.
+
+Osano shall provide commercially reasonable assistance to Customer for the fulfillment of Customerâs obligations to respond to State Privacy Law-related Consumer rights requests regarding Customer Personal Data.
+Customer shall inform Osano of any Consumer request made pursuant to the State Privacy Laws that they must comply with.
+Customer shall provide Osano with the information necessary for Osano to comply with the request.
+
+
+Security.
+
+Osano and Customer shall implement and maintain no less than commercially reasonable security procedures and practices appropriate to the nature of the information to protect Customer Personal Data from unauthorized access, destruction, use, modification, or disclosure.
+
+
+Sale of Data
+
+The Parties acknowledge and agree that the exchange of Personal Data between the Parties does not form part of any monetary or other valuable consideration exchanged between the Parties with respect to the Agreement or this Exhibit 3.
+
+
+Changes to Applicable Privacy Laws
+
+The Parties agree to cooperate in good faith to enter into additional terms to address any modifications, amendments, or updates to applicable statutes, regulations, or other laws pertaining to privacy and information security, including, where applicable, the State Privacy Laws.
+
+
+ 3800 N Lamar Blvd Ste 200 Austin, TX 78756  +1 (512) 842-6730 
+ Log In Products 
+ Consent Management 
+ Subject Rights 
+ Data Discovery 
+ Vendor Management 
+ Regulatory Guidance 
+ Assessments 
+ Legal Templates 
+ Consult Privacy Team 
+ GDPR Representative 
+ Company 
+ About Us 
+ Careers 
+ Contact 
+ Data Licensing 
+ How We Work 
+ Our Pledge 
+ Press &amp.
+Media 
+ Partners &amp.
+Resellers 
+ Swag Store 
+ Resources 
+ Articles 
+ Documentation 
+ FAQs 
+ Free Privacy Audit 
+ Newsletter 
+ Open Source 
+ Plans &amp.
+Pricing 
+ Product Updates 
+ Schedule a Demo 
+ Site Search 
+ System Status 
+ Webinars 
+ Legal 
+ Cookies 
+ Do Not Sell 
+ DPA 
+ GDPR 
+ Privacy 
+ Terms 
+ Copyright Â© 2018 - 2022 Â· Osano, Inc., a Public Benefit Corporation Â· Osano is a registered trademark of Osano, Inc.
+a Public Benefit Corporation Â· Nothing on the Osano website, platform, or services, nor any portion thereof constitutes actual legal or regulatory advice, opinion, or recommendation by Osano, Inc.
+a Public Benefit Corporation, Osano International Compliance Services LTD, or Osano UK Compliance LTD.
+If legal assistance is required, users should seek the services of an attorney. What's New at Osano Close October 24, 2022 Introducing Osano Privacy Legal Templates Now, with Osano Privacy Legal Templates you can get started faster by leveraging templates generated by our global team of privacy experts. Learn more September 1, 2022 Introducing DSAR email intake Capture data subject rights requests with the convenience of email and the efficiency of a dedicated intake form. Learn more July 19, 2022 New reworked DSAR and discovery We've reworked and redesigned Osano Subject Rights Management and Data Discovery, unifying them into a single, seamless experience and creating automation to save you time. Learn more June 22, 2022 Stay GDPR compliant under new French ruling Privacy regulators at the CNIL in France recently declared that Google Analytics violates GDPR.
+Osanoâs new block list feature can disable Google Analytics in France to keep you compliant while allowing you to use Google Analytics in regions where it is still legal. LEARN MORE June 8, 2022 New in May 2022: DSAR conditional fields, 28 new integrations, and more! Customize DSAR forms with conditional fields, serve consent banners in additional languages, use 28 new integrations for Data Discovery, and more! Check out our latest product announcement blog for demos, links, and more information. LEARN WHATâS NEW IN MAY View more product updates Osano product &amp.
+engineering teams have been hard at work.
+View the full list of all product updates. View Product Updates 
+      

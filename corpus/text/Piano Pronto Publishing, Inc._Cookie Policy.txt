@@ -1,0 +1,54 @@
+
+        
+Piano Pronto Cookie Policy
+This Cookie Notice explains how we use cookies and similar technologies as well as the options you have to control them.
+What are cookies and how does Piano Pronto use them?
+A cookie is a small text file that a site stores on your computer or mobile device when you visit the site.
+Browsers support cookies so that a site like Piano Pronto can remember information about your visit.
+In this Notice, we use the term âcookieâ to refer both to cookies and similar technologies.
+Cookies may be set by the site you are visiting (called âfirst-party cookiesâ) or by a third party, such as those who provide analytics or interactive content on the site (âthird-party cookiesâ).
+First-Party Cookies
+
+Strictly Necessary: These cookies are necessary for our services to function properly and securely and cannot be switched off in our systems.
+You can set your browser to block or alert you about these cookies, but then some parts of the site will not work.
+These include: Cookie
+Purpose
+Expires
+Options x-jwt-token
+Stores a security token needed to make API requests and log in as a user.
+2 years
+HTTP only, Secure, Same Site only 
+Functional: These cookies enable Piano Pronto to provide enhanced functionality and personalization.
+If you do not allow these cookies then some or all of these features may not function properly. Cookie
+Purpose
+Expires
+Options sortmode
+Stores your preference when viewing category listings
+2 years
+Secure, Same Site only viewmode
+Stores your preference when viewing category listings
+2 years
+Secure, Same Site only dark
+Stores your light or dark theme preference
+2 years
+Secure, Same Site only Third-Party Cookies
+Piano Pronto also includes cookies from the following services:
+
+Google services such as ReCAPTCHA, Google Analytics, Google Maps, and YouTube.
+Google may collect information about your device independently.
+Refer to Googleâs Cookie Policy for more information.
+Braintree services for processing credit card information.
+Refer to Braintreeâs Cookie Policy for more information.
+PayPal services for processing PayPal transactions.
+Refer to PayPalâs Cookie Policy for more information.
+
+Your browser settings
+Your browser includes controls that allow you to manage the use of cookies by the sites that you visit.
+Most browsers have features that enable you to see and delete cookies stored on your device and to block cookies from all or selected sites.
+For more information, here are links to external help materials from some of the popular browsers:
+
+Mozilla Firefox
+Apple Safari
+Google Chrome
+Microsoft Edge
+

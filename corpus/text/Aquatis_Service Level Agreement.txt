@@ -1,0 +1,64 @@
+
+         Service Level Agreement  This Service-Level Agreement (this âAgreementâ or this âService-Level Agreementâ) is a policy agreement governing the use of Aquatis LLCâs services and applies separately to each Customer. This Service-Level Agreement (this âAgreementâ or this âService-Level Agreementâ) has been published &amp.
+effective as of 9/24/2020, (âEffective Dateâ).
+The Parties have entered into an agreement effective on the date of service creation (the âContractâ).  In consideration of the foregoing, and of the terms and conditions and the Service Levels, the Parties hereby agree as follows below.
+
+
+Service Availability Commitment
+Aquatis will use reasonable efforts to ensure that each class of Aquatis Services identified below is âAvailableâ during any given calendar month equal to the âMonthly Availability Commitmentâ for such services set further in the table below.
+In the event any of the Services do not meet the Monthly Availability Commitment, You will be eligible to receive service credit as described below.
+Aquatis Services
+Monthly Availability Commitment Minecraft â Multicraft
+97% Website Hosting â cPanel
+99% KVM Hosting â Virtulizor
+97%  
+Calculation of Availability
+âMonthly Availability Percentageâ is calculated by subtracting from 100% the percentage of minutes during the month in which any class of Aquatis Service was Unavailable.
+Monthly Availability Percentage measurements exclude Unavailability resulting directly or indirectly from any Unavailability Exclusion listed below.
+
+
+SLA Limitations
+In an event of any of the SLA being applied.
+Any situations listed below do not apply under our SLA for credit compensation.
+
+
+Exceeding Resource Usage: Interruption from exceeding your allocated resources which causes your service to be unavailable.
+
+Interruptions by Client: Interruption from downloading and installing 3rd party software which purposely causes interruptions .
+
+Uncontrollable Outages: Interruption due to weather or nation-wide outages are not controllable.
+
+Scheduled Maintenance: Interruption for planned maintenance emailed prior to 1 week does not apply for compensation.
+
+Software Errors: Interruption from 3rd party errors and unsupported software uploads are not supported.
+
+
+
+Service Credits
+Service credits are calculated as the amount of downtime for the individual service for the calendar month in which the Unavailability occurred in accordance with the schedule below.
+Each hour of downtime is rounded up to 1 Day of a service extension.
+If the downtime exceeds a 1-day threshold the credit is rounded up to another day as listed below.
+The max service extension will be 4-days (â72 Hoursâ).
+
+
+Downtime Duration
+Service Credit/Extension 1 HR â 24 HR
+2 Days 24 HR â 48 HR
+3 Days 48 HR â 72 HR
+4 Days  
+How to Request a Service Credit
+
+To request a Service Credit, You must file a support request within seven (7) calendar days of the incident via our Billing Area.
+The service credit can only be claimed by the direct owner of that service.
+All SLA claimed will be looked into to ensure the claim is valid and the customer was affected during that time.
+SLA claims for scheduled downtime will be rejected.
+SLA claims deemed fraudulent will be rejected.
+SLA claims caused by purposeful disruption will be rejected.
+
+
+
+How to Request a Service Credit
+Any questions, comments, or concerns can be redirected to our support team via our billing area.
+ 
+Last Update: 9/24/2020
+ 

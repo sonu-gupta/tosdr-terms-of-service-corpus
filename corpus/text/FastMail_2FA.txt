@@ -1,0 +1,176 @@
+
+         Fastmail Email on your side Why Fastmail? Powerful features Privacy and security Our values Great for business Our company Pricing News Get Support Log in Sign up Using two-step verification (2FA) Two-step verification increases the security of your account by requiring two steps - your password plus an additional security step - in order to log in to your account.
+We support two-step verification with either an app on your phone, a dedicated security device that plugs into your computer, or a code sent by SMS.
+You might have heard of two-step verification being called "two-factor authentication" or "2FA".
+It is not required to be set up on your account, but it is recommended if you want additional security. Why should I use two-step verification? In an ideal world, all passwords would be a secret.
+But the more a password is used, the more exposed it becomes to malicious attackers.
+They might try to steal it (through phishing or malware/spyware), or guess it (through brute force repeated dictionary attacks).
+With two-step verification, if someone does manage to steal your password, they still can't use it to log in to your account without your verification device. How to set up two-step verification General Setup Instructions 
+Open the Settings â Password &amp.
+Security screen.
+If this is your first time enabling two-step verification for this account, you must add a recovery phone to your account (see "Account Recovery Credentials" below).
+If you have a recovery phone on your account, go to the Two-Step Verification section and click Add.
+Click Set Up Two-Step Verification.
+Select which kind of verification device you're adding to your account.
+Skip to the "Authenticator App" or "U2F or YubiKey OTP" instructions below for instructions on adding your verification device.
+ Account Recovery Credentials To help make sure that you are not locked out of your own account, before you can enable two-step verification, you must add a recovery phone to your account.
+If you ever lose access to your primary form of two-step verification, your recovery phone can be used to prevent you from being locked out of your account.
+You get a code sent to your phone instead to complete your second step when you log in.
+
+From the Settings â Password &amp.
+Security screen, go to the Account Recovery section and click Add.
+Enter your password in the yellow box and click Unlock to allow changes on this page.
+Click Add Recovery Phone to add a recovery phone number to your account.
+Enter your phone number and click Send Verification Code.
+Clicking this button will send a verification code to your recovery phone.
+Once you've received your verification code, enter the code and click Verify.
+This will add your recovery phone to your account.
+A confirmation screen will appear.
+Click Done to return to the Password &amp.
+Security screen.
+
+On the Account Recovery screen, you can also see your recovery code, which is randomly generated for your account.
+If you forget your password or lose your security device, you can use the recovery code as part of the recovery process to reset your password and restore access to your account.
+We strongly recommend writing down or printing out your recovery code and keeping it somewhere safe. Authenticator app 
+Once you've installed the authenticator app on your phone or tablet, select to add a new account.
+Use your device's camera to scan the QR code on the screen.
+(Or manually type in the key on the screen into the authenticator app.).
+If you're setting up an OTP device, select "Set a custom key" and enter the key that came with your device.
+
+Enter the 6-digit code the app gives you into the Fastmail web interface.
+
+Name this device so you can keep track of your verification devices and remove them if needed in the future.
+ U2F or YubiKey OTP 
+
+Insert the device into the USB port on your computer.
+
+Touch the button on the device once it lights up.
+
+Name this device so you can keep track of your verification devices and remove them if needed in the future.
+ How to log in with two-step verification Start by navigating to our login page, then:
+
+Enter your username and your password.
+Click Log In.
+Enter the current verification code from your authenticator app or OTP device, or plug in your security key and touch the button if it has one.
+If you have more than one two-step method on your account, you can switch method using the links under the login box.
+You can also declare this computer as trusted which means you don't need to use two-step verification again when logging in on that computer.
+
+If you're using an authenticator app on a phone or through the website, and you use 1Password to manage your passwords, we have detailed instructions on using them together.
+(Fastmail iOS/Android apps, Fastmail web client).
+If you'd like to revoke a computer's trusted status, you can also do that on the Password &amp.
+Security screen: the next time you log in on that device, you will need to re-authenticate using your 2FA. How to set up a client when using two-step verification Mail and calendaring computer programs and phone/tablet apps don't support two-step verification, other than the Fastmail apps.
+You'll need to set up app passwords for each device instead.
+
+ Why do I have to add a recovery phone number to set up two-step verification? Keeping your account safe from attackers is very important, but so is making sure you don't get locked out of your own account.
+Requiring a phone as a backup option balances security (no one else can read your data) and availability (you can read your data).
+For most users, the risk of losing their two-step verification device is far greater than the risk of someone hacking their SMS.
+If you lose your phone, the TOTP key is lost, but normally you can get a new SIM card with the same number from your carrier.
+Please note, if two-step verification is enabled, access to the phone number itself is not sufficient to gain access to an account: you still need two factors (your password AND the SMS).
+Users who accept the risk of being locked out of their account may remove the recovery phone number from their account after two-step verification has been enabled.
+Once the phone number is removed from the account, SMS is no longer an option as the second factor for verification. If you choose to do this, we strongly recommend you write down or print your recovery code and store it in a safe location, and that you set up at least two security keys or authenticator devices.
+Should you lose access to all two-step verification devices and not have your recovery code, you may be permanently locked out of your own account.
+ Which one is right for me? 
+
+Authenticator app
+
+An app is installed on your phone and randomly generates codes for you.
+The code needs to be typed when logging in.
+Free to download.
+
+Good if you're new to two-step verification.
+
+
+
+Security key (Webauthn/U2F)
+
+The most secure option: protects you against phishing.
+Requires a hardware device.
+No code typing required.
+Domain-specific: can be used to log in at www.fastmail.com, but not beta.fastmail.com.
+
+
+Good if you want the best security and ease of use.
+
+
+
+YubiKey OTP
+
+Requires a hardware device.
+No code typing required.
+
+This is a legacy security key format.
+There is no reason to use this unless you have an old key that does not support U2F authentication..
+
+
+
+Security device: OTP
+
+Requires a hardware device.
+The code needs to be typed when logging in.
+Does not require a mobile device or USB port.
+
+Good if you can't use an authenticator app and can't plug a device into a computer.
+
+
+
+SMS code
+
+A code is sent to your phone via text message.
+Free.
+The code needs to be typed when logging in.
+
+SMS can be used as a backup mechanism in case you lose your security device.
+This can only be used if you already have two-step verification enabled through an authenticator app or security device.
+
+
+
+
+You can have more than one two-step verification device on your account. Authenticator apps Not sure which authenticator app to use? We recommend:
+
+iPhone: Google Authenticator, Authy or Duo Mobile
+Android: Google Authenticator, Authy or Duo Mobile
+
+If you have a different phone, you may still be able to use TOTP.
+Any app supporting Time-based One-Time Password (TOTP) from the Initiative for Open Authentication (OATH) as specified in RFC 6238 should work.
+
+Note: Neither the Google Authenticator app nor our server implementation is specific to Google in any way, nor does it ever communicate with Google systems as part of its operation (or with any other system).
+"Google Authenticator" is the name of Google's TOTP app, which has become synonymous with the authentication method itself. U2F and YubiKey OTP security keys We have tested with a variety of different security keys, and any key that supports U2F should work.
+We do recommend YubiKey, as in our experience these have the best build quality, a slim profile, and are reliable.
+You can buy one from the Yubico store or via Amazon. OTP devices Many manufacturers are now selling standalone OTP devices, often in a credit card or key fob form-factor.
+We've tested with Feitian c200 devices, but any device implementing the TOTP standard should work.
+We support devices with HEX or BASE32-encoded keys with a 30- or 60-second time step.
+If your particular device doesn't work, please let us know the make and model of the device and we'll look into adding support for it.
+When adding these devices to your account, use the "Authenticator App" option.
+This is because OTP devices use the same mechanism (TOTP) as authenticator apps described above. How do authenticator apps and security keys work? Interested in what's happening under the hood to keep you safe? Learn more about how TOTP works, how U2F works, or how YubiKey OTP works. Fastmail security principles We take security seriously at Fastmail and design our systems to improve the confidentiality, availability, and integrity of our customers' data.
+The user login process and account recovery process are a particularly important part of our security.
+
+When you turn on two-step verification, we understand that you value the confidentiality of your account more highly and take extra steps to ensure that.
+If you lose access to your account when you have two-step verification enabled, the recovery process still requires two independent factors.
+If a recovery attempt is successful, we delay the final recovery step for 24 hours.
+In this time, we notify the account owner via email and give them the opportunity to cancel the recovery if they weren't the person who requested it.
+
+For more information on how we designed our security system, see our blog post about the design and thought process. Help &amp.
+Support Security Two-step verification Fastmail Why Fastmail 
+Powerful features
+Privacy and security
+Our values
+Great for business
+Pricing
+ Company 
+About us
+Media
+News
+Jobs
+ Get Support 
+Help center
+Contact us
+System status
+Download the app
+Referral program
+Report a security issue
+
+
+Download the app on the App Store 
+Download the app on Google Play 
+ Privacy policy Terms of service Facebook Twitter Linkedin 
+      

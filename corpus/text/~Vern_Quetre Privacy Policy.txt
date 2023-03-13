@@ -1,0 +1,13 @@
+
+        Skip to main content Quetre Privacy PolicyThe short versionQuetre doesn't collect any personally identifiable data.The long versionData actively collected by QuetreNone.Data passively collected by QuetreWhenever you hit some error page, an error object is logged to the console on the server.
+That error object contains the resource url you were trying to access, and the usual stack trace.
+That's it.Data stored locally in your browserA key called 'theme' is stored in local storage provided by your browser to store your theme preference should you override the default theme.
+To prevent this behaviour, either disable JavaScript or local storage for Quetre.
+
+About
+Search
+Source Code 
+Privacy
+Back to top 
+
+Licensed under GNU AGPLv3.

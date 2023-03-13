@@ -1,0 +1,148 @@
+
+         General information TomTom navigation products and services need location data and other information to work correctly.
+This section explains what kind of information TomTom collects and how we use it.
+
+
+Devices and mobile phones may run operating system software or other apps, or use communication networks which also obtain and transmit personal and location information.
+When switched on, your device uses a mobile network that inherently tracks location details about your device.
+Your network operator may be legally required to retain this location data for law enforcement purposes.
+TomTom has no control over this.
+You can consult your mobile operator for more information.
+
+
+To read who has access to your information, get information about your rights and where we store your data, jump to more information. Location and journey data TomTom products and services come with features that need location information from your device to work correctly.
+Your location can be established using satellite, mobile, Wi-Fi, Bluetooth or other network-based positioning methods.
+We collect your location data and additional personal information for different purposes as described hereunder.
+
+
+
+
+
+Real-time location services and crowdsourced product improvement
+
+While using a TomTom-branded product such as our navigation device or app or service subscription for the first time, you will see a notification asking for permission to send your location information to TomTom.
+If you decide to share your location data with TomTom, we can send you real-time information relevant to where you are in return, such as live traffic data so you can choose an alternative route around a traffic jam further down the road.
+
+
+Without your permission, we canât offer you features that work with live content such as our real-time maps and traffic services.
+TomTom products could also send us your account details, device information and details that you enter such as your name and email address or choose to send about yourself or your location.
+Some features will also allow you to share personal (location) details with others such as friends, family, contact lists or on social media.
+Information will usually be transferred via a device connection, the connection provided by your smartphone or via your computer when you attach a device to it.
+When an internet connection isnât available, the information is stored securely on your device and will be uploaded later.
+
+
+You can change your permission status at any time via the software privacy settings.
+Please note that you may need to change the system settings of a mobile device as well to stop background access to your location data.
+When information is stored on your device, it will be deleted when you choose to stop sending information to TomTom.
+
+
+We also use location data to improve the quality of our products and services after weâve made sure the information cannot be directly linked back to you.
+We use different techniques to protect your identity such as encryption and temporary random identifiers to prevent location details from being easily linked back to you or your device.
+Within 24 hours of shutting down your device or app, TomTom automatically and irreversibly erases data that we hold which could re-identify you or your device.
+We donât know where you have been and canât tell anyone else, even if we were forced to.
+We never link location data to your TomTom account or any other information that identifies you directly.
+We also donât sell your location data.
+Our products are 100% ad-free.
+
+
+Through location feedback from our customer community, weâre able to use de-identified (location) information to continuously improve our products and services, such as our maps, real-time traffic connected services, including services related to (live) traffic events, speed cameras, weather, EV stations, fuel prices, road hazards and parking.
+
+
+Your de-identified data is further processed in such a way as TomTom products can include aggregated, anonymized content based on traffic patterns, aggregated driver profiles, average speeds driven, and non-personally identifiable driver input such as search queries and reported road closures.
+Our traffic index about congestion density in major cities for example is built with elements derived from your journey data and our live traffic calculation combines aggregated, de-identified, real-time traffic data with historical data and external data sources.
+These products and services are also used by government agencies and businesses.
+
+
+
+
+Journey information to improve your experience
+
+In some TomTom products you can allow TomTom to use certain information about you to help us analyze driving patterns and behavior over longer periods.
+This journey information includes time, location, direction and other behavioral data and is continuously collected after you have given your permission.
+Your device will randomly generate an identifier which is associated with your journey information sent to TomTom at regular intervals.
+The journey information will not link to personal details that directly tell TomTom who you are and we do not try to identify you.
+We apply different techniques and security measures to protect your journey information against unauthorized access.
+We will use your journey information to create aggregated, contextual driver and behavior profiles without identifying you.
+By âcontextualâ we mean that we look for user experiences within a certain context, for example âusers in driver profile X may also like app feature Zâ.
+
+
+You can change your permission status at any time in the product settings or via your device.
+If you stop sending your journey information, the randomly generated identifier on your device will automatically be erased and your journey information will no longer be sent to TomTom.
+
+
+
+
+Active feedback
+
+You can tell TomTom what happens on the road by actively reporting traffic incidents, hazards, roadworks, speed cameras, danger zones, speed limits, map errors and more.
+Your reports include location details such as the GPS position of a map error or traffic incident and could be kept together with information associated with your device or linked to your TomTom account.
+We use this feedback to improve our products.
+TomTom only shows non-personally identifiable information in road-related updates distributed to other users.
+Sometimes this feature runs via third-party software.
+Be aware that by using this feature you may share your data with third parties.
+TomTom has no influence on how these parties will use your data.
+Check their privacy statements for more information.
+
+
+TomTom uses push notifications to share feedback with you, for example sending updates about road and traffic conditions.
+You can disable this in the settings or via your device.
+When you write an online review about your experience, we may use this data to give additional feedback.
+
+
+
+
+Online search
+
+TomTom products could contain embedded software from TomTom Maps APIs or SDKs.
+We work with random session identifiers to improve the quality of our Maps APIs by analyzing search queries and results linked to a unique interaction.
+These insights help us for example show relevant POIs within a certain area and improve your search process.
+However, we donât recognize you when you start a new session, protect your data and canât link data such as your search queries, location details or destinations directly back to you based on the information that we hold.
+
+
+
+
+Onboard features
+
+Some product features save onboard information on the device, such as home and work addresses, favorite and recent destinations or voice data to make new searches easier.
+TomTom has no access to this data and you can delete onboard data by using the product settings.
+
+
+ MyDrive MyDrive is a TomTom product that saves your settings, preferences, favorite locations and destinations of your planned routes.
+When you enable MyDrive, this data becomes automatically available to all devices and apps that you have authorized.
+You could also grant access to others.
+You can set up and change this authorization via your TomTom account or with an account from a supported provider.
+MyDrive will retain references to all your devices or apps associated with your account and doesnât have access to your passwords.
+
+
+When you disable MyDrive on a specific device, any adjustment of your data such as a planned route via another device will no longer be synchronized to that specific device.
+Your data in MyDrive will remain available via MyDrive until you actively delete it via Mydrive.tomtom.com or by using devices and apps that support deletion.
+MyDrive data is securely stored in the EU and apart from service providers that processes this data subject to contractual safeguards, TomTom will not give anyone else access to MyDrive data or use it for any other purpose than communicated to you unless we have been lawfully ordered to do so.
+
+
+With your permission and after we have made sure that data is no longer linked to you, TomTom could use MyDrive data to improve its products and services, more details can be found in âHelp us learnâ section.
+You can change your approval status at any time via the privacy settings.
+TomTom keeps records of MyDrive access by authorized devices and apps for a limited period to use this information for technical diagnostic purposes and aggregated statistics and reports.
+
+
+In case third parties such as car manufacturers select TomTom as service provider to deliver MyDrive as part of the product portfolio offered to their clients, these parties make MyDrive available under their own brand through their devices and apps.
+The collection and usage of data occurs under the full responsibility of these third parties providing services, devices or apps in accordance with their privacy policies.
+TomTom is only allowed to use this data within the limits as instructed by these parties while adhering to contractual privacy arrangements at the same time. Maps and mobile mapping vehicles Reporting map corrections Using Map Share you are able to make map corrections and report map errors.
+Your corrections, which include location information, are sent to TomTom and associated with your device or MyTomTom account, as long as this account exists.
+TomTom uses these reports to improve TomTom maps. Mobile Mapping VANs 
+
+Roads change every day.
+To keep TomTom maps fresh, we collect information about these changes from various sources.
+One of these sources is the TomTom Mobile Mapping VANs.
+These vehicles are equipped with 360-degree cameras, highly accurate GPS-receivers, and other sensor technologies to gather information.
+TomTom only uses the imagery and the other information we capture (such as data related to shapes of roads and buildings) for our legitimate interest to improve TomTom maps.
+In the case imagery is being transferred to countries outside the European Union, TomTom protects the imagery in the best possible way via official safeguards such as EU model contracts.
+TomTom deletes the imagery when it is no longer needed for TomTom map productions and improvements.
+We do not publish any of the imagery and other information online or make it available elsewhere.
+Some of the imagery is made available to third parties under a license contract similarly restricting use and prohibiting publishing.
+TomTom or its service partner blur elements in the imagery that could lead to recognition of individuals (such as faces and license plates) or apply other measures when permitted by local regulations to protect personal data before making it available to these third parties.
+TomTom uses secured data transfer methods to make the imagery available to contracted third parties upon their specific request.
+These third parties typically use the imagery for their own internal business purposes such as road construction or road maintenance.
+Please contact your local TomTom customer support for any questions you might have in this respect.
+Click here for Collection planning.
+
+

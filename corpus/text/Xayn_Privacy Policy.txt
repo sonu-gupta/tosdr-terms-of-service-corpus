@@ -1,0 +1,227 @@
+
+
+Get
+ProductFeaturesFAQ
+CompanyWho we areCareerPressBlogContact
+GetProductFeaturesFAQCompanyWho we areCareerPressBlogContactPrivacy PolicyThe Xayn Search App: We do not track.
+We do not retarget.
+We do not store your personal data at all.
+If you want to know more and how exactly we achieve a personalised search experience without collecting data, we outline in the following the details:  1.
+Privacy Preserving Search App: Xayna.
+Processing activitiesâ
+âSearch appOur understanding of a privacy-friendly search app is that, as a rule, we do not process any of the personal data you input in the App.
+Anything you do within the App shall stay within the App and it is impossible for us to access it.
+The data within the App is deleted once you delete the App from your device.
+
+â
+There is only one exception: When you search the web with our App, the App sends your search request to various third parties around the world (hereinafter "Crawlers") to retrieve your search results.
+In order to hide your personal data from this Crawler, we implemented two privacy-preserving steps: First, the data sent to the Crawlers is limited to the search request (e.g., âchocolate cake recipeâ) and your country code (e.g., âDEâ).
+This means that the Crawlers do not get, for example, any meta data.
+Second, in order to hide your device from the Crawlers, we use our servers as proxies, which means that your search requests are routed through our servers.
+The effect is that the Crawlers only see our server, but not your device.
+Our servers receive your meta data including your IP address because your device establishes a connection with them, but they delete this data immediately thereafter and do not log, store or even analyse any of your personal data and act as a stateless service.
+Your personal data is not fetched at all once forwarded between your App and the Crawlers, and vice versa.
+Forwarding your search requests between your App and the Crawlers and vice versa is necessary for us to provide you with the respective search results.
+The legal basis for this processing is Art.
+6 (1) lit.
+b) GDPR.Website When accessing our Website, your web browser transfers a couple of data, like your IP address, the site you access and your browser version number.
+This data is temporarily processed by us to provide you with the contents of the Website and deleted thereafter.
+The legal basis for the temporary storage of data is Art.â6 (1) lit.âf) GDPR.
+
+There are no further processing activities.
+We do not log any of your data in an identifiable form.
+We do not use cookies to track you or analyse your behaviour.
+b.
+Service providers  â
+We work with the following service providers who assist us in providing our services: 
+
+Operating our routing servers: 1&1 Ionos SE, Germany  
+Cloud-Service:  1&1 Ionos SE, Germany  
+Content Delivery Network (CDN): KeyCDN / proinity LLC, Switzerland (according to an EU Commission decision, Switzerland, although outside the EU, offers an adequate level of data protection) â A CDN is a geographically distributed network of proxy servers which we use to provide high availability and performance by distributing the service spatially relative to our users.
+For example, if you are located in Brazil, your end device might want to connect to a server in Brazil instead of Germany for performance reasons.
+Your device will establish an internet connection with the CDN proxy servers when you use the App, and solely for this purpose KeyCDN for a few moments processes your IP address and other meta data.
+However, KeyCDN does not store your IP address or any personal data of you.
+
+Hosting of our Website: Webflow, Inc., USA â Your device will establish an internet connection with the Webflow servers when you access our website, and solely for this purpose Webflow for a few moments processes your IP address and other meta data.
+However, Webflow does not store your IP address or any personal data of you.
+We concluded so-called EU Standard Contractual Clauses with Webflow.
+ 
+
+These service providers process data solely on behalf of and under the control of us and only for the purposes described in this privacy policy.c.
+Your Rightsâ
+â
+Although we do not store any of your personal data, we must inform you that you may exercise your right to information, rectification, erasure and, if applicable, restriction of processing and data portability at the address mentioned below.
+If you as a data subject believe any of your rights have been infringed, you may file an appeal with the competent data protection authority.
+â
+
+2.
+How Our Privacy Preserving Search Engine Works in Detailâ
+â
+Since we cannot access the personal data you insert in the App, we do not process any data through the App.
+Nevertheless, we want to give you an impression of how the App works.
+ 
+A great feature of our App is to apply artificial intelligence (AI), or, more specific, machine learning (ML), in order to provide you with better search results.
+The knowledge which our machine learning algorithms need in order to being capable of enhancing the search results is based on a training with your search behaviour.
+
+â
+â
+Such training is done with your search request (e.g., âchocolate cake recipeâ), the results per request provided by the Crawler, the country code (e.g., âDEâ), how many times you clicked on pages with similar content (whereby the similarity of words is measured by a multilingual word embedding AI model), the number of results per category and additional features (together hereinafter the âSearch Dataâ).
+The Search Data from previous searches is stored on your device (hereinafter the âSearch Historyâ).
+We will not access the Search Data and Search History from the App or enable third parties to access it.
+Rather, the App uses such data to train so-called models, which contain knowledge from your Search Data and Search History (hereinafter the âAI Modelsâ, legal basis: Art.
+6 (1) lit.
+b) GDPR).
+Based on such AI Models â and provided you turn those features on in the settings of the App â the App enhances the search results which we receive from the Crawlers before the App displays them to you.
+This is done via a privacy-preserving re-rank AI Model: Your App filters and re-ranks those search results that do not fit the search request in general.
+
+Let us explain how we enhance the search results in more detail: 
+For this, the App uses the Search Data to find out on what search results you click, since we assume that you only click on those search results that give a satisfactory answer to your search query.
+To give an example: If you search for âopening hours philharmonic berlinâ and the App notes that you click on the third search result, then we assume that there is a certain likelihood that this search result is the correct and best one.
+Our AI models will store this knowledge and the next time you search for the opening hours of the philharmonic Berlin, there is a high chance that the App will directly display the formerly third results as the first result.
+We call this feature âPersonalisationâ and the knowledge based on the training with the Search Data the âXayn AIâ.
+Xayn AI itself consists technically of a composition of multiple AI models, including contextual natural language understanding, image classification, context clustering, re-ranking and contextual multi-armed bandit.
+As such, the Xayn AI performs a personalisation of your search behaviour.
+The Xayn AI thus obtains knowledge which helps our search algorithms to display search results to you which are even more accurate - not necessarily to others, but to you.
+
+To give an example: If most search results you search and click on concern topics based in Berlin, such as âopening hours philharmonic berlinâ, âbest tree climbing in Berlinâ and âopening hours for Berlin Pergamon Museumâ, then our AI algorithms will assume that you have a special interest in Berlin, likely because you live there.
+It will also link this information based on the similarity of the content.
+For instance, based on the above given example it is likely that you are more interested in arts and music than in football.
+The underlying data, knowledge about your behaviour and your search history is of course never shared with others or us and stays only on your device.
+
+The Xayn AI models, which the App trains based on the Search Data, is aggregated with Re-Rank AI Models from Apps running on end devices of other users (legal basis: Art.
+6 (1) lit.
+b) GDPR).
+This aggregation takes place using the so-called privacy preserving federated learning technology, a core technology which we have been developing for years.
+It ensures that the Xayn AI model from a user can neither be read by us nor a third party.
+The reason is that the Xayn AI models are masked before being transferred to us.
+We aggregate the masked AI models and then subtract the mask from the aggregated data.
+The result is an aggregation of different Xayn AI models.
+We pass this aggregation back to all Apps and it will be used as a basis for the further training.
+The advantage of this procedure is that all Apps can benefit from the knowledge contained in any Xayn AI model from other App installations.
+ 
+â
+â
+This is the reason why we call this type of machine learning âfederated learning": We bring the AI algorithms to your data, not your data to the AI algorithms (as it is done by ordinary web crawlers) - the usersâ data stays private, but everyone can use the knowledge included in it.
+This achieves that, in the example above, the App installed on the end devices of other users will likely also display the third search result first when being asked for the opening hours of the philharmonic berlin.
+To learn more about federated learning see our documentation space.
+
+
+The Xayn AI models of devices are anonymized to support privacy by design, as encouraged in Recital 29 of the EU GDPR.
+The reason that this preserves privacy is twofold: because of the masking, they cannot be accessed in plain form by anyone before the aggregation with other Xayn AI models from other users.
+ 
+
+
+And the unmasking keys of individual models are never available to the aggregation service, unmasking happens through homomorphic properties of the masking itself.
+
+
+Once the Xayn AI models are aggregated, but no longer masked, they are anonymous data, because due to the aggregation, they do not allow for inferences about users with reasonable means.
+
+â3.
+Social Mediaâ
+â
+Like most other companies, we are dependent on social media profiles in order to distribute and promote our products.
+We are aware of the critique social media platforms face with regard to data privacy.
+Therefore, we decided not to access any of the analytics data the platform operators provide to us.
+For example, we are not interested in knowing any demographic information of the users clicking on twitter links.
+We know that this might not be clever from a marketing perspective, but our decision has to be seen in the light of our goal to provide privacy preserving technologies.
+
+This being said, we operate the following social media websites: 
+
+âtwitter.com/xaynhq â
+https://www.youtube.com/xaynhq â
+linkedin.com/company/xaynhq 
+https://www.reddit.com/r/xayn/
+
+The operators of the social media platforms (e.g.
+Twitter) are involved in the operation of the websites just listed.
+They are also responsible (controllers) within the meaning of data protection law.
+We cannot influence the data processing carried out by the platform operators and are dependent on the information the respective providers give us.
+To the extent we can exert influence and have a part in determining data processing, we aim to ensure that the operators of the social media platforms treat the data in a manner appropriate to data protection.
+ 
+
+Data processed by us
+
+The data you disclose using our social media pages, such as comments, videos, pictures, likes, public news, and so forth are published by the social media platform.
+We may comment on or delete content if this is necessary (e.g., in case it violates laws).
+In some cases, we share your content on our site (e.g., when you compliment us publicly) and communicate with you through the social media platforms (e.g., when you contact us on such platforms).
+We use the social media platforms for marketing purposes.
+The legal basis for all those processing activities is our legitimate interest in operating a social media profile and to market our App (Art.
+6 (1) lit.
+f) GDPR).
+ If we process your personal data on the basis of our legitimate interests (Art.
+6 (1) lit.
+f) GDPR), you may object to the processing and use of your data.
+In this case, we will no longer use your data unless our interests prevail.
+
+
+Data processed by the operators of social media platforms
+
+Social media platform operators use web tracking methods.
+Web tracking can be performed regardless of whether you are logged in or registered with the social media platform.
+We cannot influence the web tracking methods of the social media platform and, for example, cannot switch such tracking off.
+We cannot rule out that the provider of the social media platform may use data, for example to evaluate habits, personal relationships, preferences, etc.
+In this area of tracking, we have no influence on the processing of data by the platform operator.
+
+Further information on data processing by the provider of the social media platform and further possibilities for objection can be found in the privacy policy of the operators:  
+
+Twitter: https://twitter.com/de/privacy 
+YouTube: https://policies.google.com/privacy 
+LinkedIn: https://www.linkedin.com/legal/privacy-policy 
+Reddit: https://www.redditinc.com/policies/privacy-policy
+
+We have entered into an agreement with LinkedIn Ireland Unlimited Company regarding joint responsibility for the processing of data (a Controller Addendum).
+This agreement determines which data processing activities we are responsible for when you visit our LinkedIn website and which are the responsibility of LinkedIn.
+You can view the agreement under: https://legal.linkedin.com/pages-joint-controller-addendum 
+With regard to personal data processed by us through the social media platforms, you have the same rights as mentioned in our main privacy policy in section 1 above.
+
+â
+This privacy policy is provided by us, Xayn AG, Unter den Linden 42, 10117 Berlin (Germany), privacy@xayn.com (imprint).
+ â
+
+â4.
+Change Logâ
+
+This privacy policy was updated on
+Jul 22, 2021.
+To clarify, we added to 1.b: We specified how we use third-party crawlers.
+
+This privacy policy was updated on
+April 12, 2021.
+To clarify, we added to 1.b: our CDN provider and Matomo.
+
+This privacy policy was updated on Dec 11, 2020.
+To clarify, we added to 1.a.i: Our servers receive your meta data including your IP address because your device establishes a connection with them, but they delete this data immediately thereafter and do not log, store or even analyse any of this data and thus act as a stateless service.Content
+1.
+Data processing through Xayn
+1.a.
+Processing activities
+1.b.
+Service providers
+1.c.
+Your Rights
+2.
+How Our Privacy Preserving Search Engine Works in Detail
+3.
+Social Media
+4.
+Change Log
+Looking for our FAQ?Check out the most asked questions and maybe already â¨find what you were looking for.Contact FormXaynGetDownload On TheApp StoreGET IT ONGoogle PlayProduct
+Features
+FAQ
+Company
+Who we are
+Career
+Press
+Blog
+Contact
+XaynProduct
+Features
+FAQ
+Company
+Who we are
+Career
+Press
+Blog
+Contact
+Â©Copyright 2021TermsPrivacy PolicyImprint 
+      

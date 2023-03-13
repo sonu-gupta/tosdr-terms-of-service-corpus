@@ -1,0 +1,191 @@
+
+        Cookies on gov.je
+
+We use cookies to collect information about how you use gov.je
+We use this information to make the website work as well as possible and improve government services.
+
+
+Accept all cookiesCookie settingsNecessaryPreferencesStatisticsMarketingAllow selected cookiesCloseCookie declarationAboutNecessary cookies (58)Necessary cookies help to make a website usable by enabling basic functions like page navigation and access to secure areas of the website.
+The website cannot function properly without these cookies.NameProviderPurposeExpiryTypeAI_bufferMicrosoftUsed in context with the "AI_sentBuffer" in order to limit the number of data-server-updates (Azure).
+This synergy also allows the website to detect any duplicate data-server-updates.
+SessionHTMLAI_sentBufferMicrosoftUsed in context with the "AI_buffer" in order to limit the number of data-server-updates (Azure).
+This synergy also allows the website to detect any duplicate data-server-updates.
+SessionHTMLai_sessionMicrosoftPreserves users states across page requests.1 dayHTTPARRAffinity [x5]Microsoftone.gov.jeregister.jerseyme.gov.jeUsed to distribute traffic to the website on several servers in order to optimise response times.SessionHTTPARRAffinitySameSite [x8]MicrosoftAzureone.gov.jeregister.jerseyme.gov.jeUsed to distribute traffic to the website on several servers in order to optimise response times.SessionHTTPAWSALBCORS [x6]CornerStoneforms.gov.jeGovMetricone.gov.jeServMetricRegisters which server-cluster is serving the visitor.
+This is used in context with load balancing, in order to optimize user experience.
+6 daysHTTPAWSALB [x5]forms.gov.jeGovMetricone.gov.jeServMetricRegisters which server-cluster is serving the visitor.
+This is used in context with load balancing, in order to optimize user experience.
+6 daysHTTPCookieConsent [x7]CookiebotStores the user's cookie consent state for the current domain1 yearHTTPPHPSESSID [x2]forms.gov.jeone.gov.jePreserves user session state across page requests.SessionHTTPSESS# [x2]forms.gov.jeone.gov.jePreserves users states across page requests.1 dayHTTPCONSENT [x2]GoogleYouTubeUsed to detect if the visitor has accepted the marketing category in the cookie banner.
+This cookie is necessary for GDPR-compliance of the website.
+2 yearsHTTPASP.NET_SessionId [x2]www.gov.jeone.gov.jePreserves the visitor's session state across page requests.SessionHTTPcookiesession1www.gov.jeSets a ID for the visitor.
+This serves to count the number of specific visitors on the website.SessionHTTPFedAuthwww.gov.jeUsed by the Book your Driving Test online section to track the user's session4 daysHTTPSPAnimationEnabledwww.gov.jeDetects whether website animated content should be enabled.PersistentHTMLWSS_FullScreenModewww.gov.jeThis cookie is used internally by the websiteâs owners, when uploading or renewing website content.SessionHTTPx-ms-cpim-cache|#_0govjeid.b2clogin.comEnsures visitor browsing-security by preventing cross-site request forgery.
+This cookie is essential for the security of the website and visitor.
+SessionHTTPx-ms-cpim-transgovjeid.b2clogin.comNecessary for the connection authentication on the website â This ensures the website's integrity through a process called Secure Socket Layers (SSL).SessionHTTP_ga [x3]GoogleRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.399 daysHTTP_gat [x2]GoogleUsed by Google Analytics to throttle request rate1 dayHTTP_gid [x3]GoogleRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.1 dayHTTP.AspNetCore.Antiforgery.#register.jerseyme.gov.jeHelps prevent Cross-Site Request Forgery (CSRF) attacks.SessionHTTP__cf_bmVimeoThis cookie is used to distinguish between humans and bots.
+This is beneficial for the website, in order to make valid reports on the use of their website.1 dayHTTPPreference cookies (3)Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.NameProviderPurposeExpiryType_EDGE_VMicrosoftThis cookie is used in context with the Bing-Map integration on the website.
+The cookie is necessary for some map-features.
+1 yearHTTPCookieConsentBulkSetting-#CookiebotEnables cookie consent across multiple websitesPersistentHTML@@scroll#www.gov.jePendingSessionHTMLStatistics cookies (21)Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.NameProviderPurposeExpiryTypeai_userMicrosoftUsed by Microsoft Application Insights software to collect statistical usage and telemetry information.
+The cookie stores a unique identifier to recognize users on returning visits over time.1 yearHTTPWFESessionIdMicrosoftStores data on the time spent on the website and its sub-pages, during the current session.
+SessionHTTPSRCHDMicrosoftThis cookie is used in context with the Bing-Map integration on the website.
+The cookie is necessary for some map-features.
+1 yearHTTPSRCHUIDMicrosoftThis cookie is used in context with the Bing-Map integration on the website.
+The cookie is necessary for some map-features.
+1 yearHTTPSRCHUSRMicrosoftThis cookie is used in context with the Bing-Map integration on the website.
+The cookie is necessary for some map-features.
+1 yearHTTPc.gifMicrosoftCollects data on the userâs navigation and behavior on the website.
+This is used to compile statistical reports and heatmaps for the website owner.SessionPixelCLIDMicrosoftCollects data on the userâs navigation and behavior on the website.
+This is used to compile statistical reports and heatmaps for the website owner.1 yearHTTPcollectGoogleUsed to send data to Google Analytics about the visitor's device and behavior.
+Tracks the visitor across devices and marketing channels.SessionPixel__utmawww.gov.jeCollects data on the number of times a user has visited the website as well as dates for the first and most recent visit.
+Used by Google Analytics.399 daysHTTP__utmbwww.gov.jeRegisters a timestamp with the exact time of when the user accessed the website.
+Used by Google Analytics to calculate the duration of a website visit.1 dayHTTP__utmcwww.gov.jeRegisters a timestamp with the exact time of when the user leaves the website.
+Used by Google Analytics to calculate the duration of a website visit.SessionHTTP__utmtwww.gov.jeUsed to throttle the speed of requests to the server.1 dayHTTP__utmzwww.gov.jeCollects data on where the user came from, what search engine was used, what link was clicked and what search term was used.
+Used by Google Analytics.6 monthsHTTP_clckMicrosoftCollects data on the userâs navigation and behavior on the website.
+This is used to compile statistical reports and heatmaps for the website owner.1 yearHTTP_clskMicrosoftRegisters statistical data on users' behaviour on the website.
+Used for internal analytics by the website operator.
+1 dayHTTP_cltk [x2]MicrosoftRegisters statistical data on users' behaviour on the website.
+Used for internal analytics by the website operator.
+SessionHTML_ga_#GoogleUsed by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.
+399 daysHTTPpagevisitr1.trackedweb.netRegisters statistical data on users' behaviour on the website.
+Used for internal analytics by the website operator.
+SessionPixelp.gifAdobe Inc.Keeps track of special fonts used on the website for internal analysis.
+The cookie does not register any visitor data.
+SessionPixelvuidVimeoCollects data on the user's visits to the website, such as which pages have been read.399 daysHTTPMarketing cookies (29)Marketing cookies are used to track visitors across websites.
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.NameProviderPurposeExpiryType_EDGE_SMicrosoftCollects information on user behaviour on multiple websites.
+This information is used in order to optimize the relevance of advertisement on the website.SessionHTTP_SSMicrosoftCollects information on visitor behaviour on multiple websites - This information is used on the website in order to optimize the relevance of advertisement.
+The cookie also allows the website to determine how the visitor accessed the website.
+SessionHTTPMUID [x2]MicrosoftUsed widely by Microsoft as a unique user ID.
+The cookie enables user tracking by synchronising the ID across many Microsoft domains.1 yearHTTPMUIDBMicrosoftRegisters data on visitors from multiple visits and on multiple websites.
+This information is used to measure the efficiency of advertisement on websites.
+1 yearHTTPSRCHHPGUSRMicrosoftCollects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+1 yearHTTPSRM_BMicrosoftTracks the userâs interaction with the websiteâs search-bar-function.
+This data can be used to present the user with relevant products or services.
+1 yearHTTPSUIDMicrosoftCollects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.1 dayHTTPANONCHKMicrosoftRegisters data on visitors from multiple visits and on multiple websites.
+This information is used to measure the efficiency of advertisement on websites.
+1 dayHTTPSMMicrosoftRegisters a unique ID that identifies the user's device during return visits across websites that use the same ad network.
+The ID is used to allow targeted ads.SessionHTTPads/ga-audiencesGoogleUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.SessionPixelNIDGoogleRegisters a unique ID that identifies a returning user's device.
+The ID is used for targeted ads.6 monthsHTTP_fbp Meta Platforms, Inc.Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.3 monthsHTTPdmSessionID [x3]static.trackedweb.netGoogleCollects information on what products the visitor has viewed and the content of the shopping-cart.
+This is used to increase the website's conversion rate through targeted advertisement and product promotions through emails.
+1 dayHTTPrecordID [x3]static.trackedweb.netGoogleCollects information on what products the visitor has viewed and the content of the shopping-cart.
+This is used to increase the website's conversion rate through targeted advertisement and product promotions through emails.
+1 yearHTTPVISITOR_INFO1_LIVEYouTubeTries to estimate the users' bandwidth on pages with integrated YouTube videos.179 daysHTTPYSCYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.SessionHTTPytidb::LAST_RESULT_ENTRY_KEYYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-cast-availableYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-cast-installedYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-connected-devicesYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-device-idYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-fast-check-periodYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-appYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-nameYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLUnclassified (26)Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.NameProviderPurposeExpiryType``MicrosoftPendingPersistentHTMLmanifests.artifactsMicrosoftPendingPersistentHTMLmanifests.extensionsMicrosoftPendingPersistentHTMLmanifests.productsMicrosoftPendingPersistentHTMLmanifests.tabsMicrosoftPendingPersistentHTMLJSESSIONID_FOSameSiteCornerStonePendingSessionHTTPAPP_LANG [x2]forms.gov.jeone.gov.jePending1 dayHTTPauthKeyforms.gov.jePendingSessionHTMLcouncilforms.gov.jePendingSessionHTMLlocaltimeforms.gov.jePendingSessionHTTPproduct [x2]forms.gov.jeone.gov.jePending1 dayHTTPsessionStorageTestforms.gov.jePendingSessionHTMLSimpleSAMLSessionID [x2]forms.gov.jeone.gov.jePendingSessionHTTPSiteSettingsCacheforms.gov.jePendingSessionHTMLSiteSettings-CustomCssInlineforms.gov.jePendingSessionHTMLSiteSettings-CustomIFrameCssforms.gov.jePendingSessionHTML_layouts/15/images/blank.gifwww.gov.jePendingSessionPixelRibbon.ListForm.Displaywww.gov.jePendingSessionHTTPsoj.health.register.dentalMicrosoftPendingSessionHTMLsoj.health.register.healthMicrosoftPendingSessionHTMLsoj.health.register.medicalMicrosoftPendingSessionHTMLtestHousingChecklistData202107141145www.gov.jePendingPersistentHTMLx-ms-cpim-rc:f3fc3e68-3b75-4842-9d04-a04f3bd57c9bgovjeid.b2clogin.comPendingSessionHTTP Information about the cookies we use and how we use them.
+We've also included information about third-party cookies set by other websites.Your consent to cookiesMost browsers support cookies but you can set your browser to decline them and delete them whenever you like.
+However, some functions of our website may not work as they should if cookies are not enabled.
+
+We can store cookies on your device if they are strictly necessary for the operation of our website.
+For all other types of cookies we need your permission.
+
+Your consent applies to the following domains: register.jerseyme.gov.je, forms.gov.je, learningathome.gov.je, www.gov.je, one.gov.je, id.gov.je, opendata.gov.je
+ Skip to main content Skip to accessibility This website is not compatible with your web browser.
+You should install a newer browser.
+If you live in Jersey and need help upgrading call the States of Jersey web team on 440099.
+gov.je Information and public services for the Island of Jersey
+L'Ã®nformÃ¢tion et les sÃ¨rvices publyis pouor I'Ãle dÃ© JÃ¨rri
+
+ Contacts 
+Translate
+ Login
+
+
+ Login
+
+
+
+Choose the service you want to log in to:
+
+ gov.je Update your notification preferences
+
+ one.gov.je Access government services
+
+ CAESAR Clear goods through customs or claim relief
+
+ Talentlink View or update your States of Jersey job application
+
+ Search gov.je Search Search gov.je Search 
+Home
+ Terms and conditions On this page:
+Using our website
+Copyright
+Images, photographs and logos
+Hyperlinking to the States of Jersey website
+Hyperlinking from the States of Jersey website
+Virus protection
+Disclaimer
+ Body ContentUsing our website
+The States of Jersey website is maintained for your personal use and viewing.&nbsp.
+Access and use by you of this site constitutes your acceptance of these terms and conditions and this takes effect from the date on which you first use this website.
+Copyright
+The material on this site is subject to copyright protection in respect of the States of Jersey unless otherwise indicated.
+Copyright protected material may be reproduced free of charge in any format or medium for research, private study or for internal circulation within an organisation. This is subject to the material being reproduced accurately and not being used in a misleading context.
+Where any of the copyright items on this site are being republished or copied to others, the source of the material must be identified and the copyright status acknowledged.
+The permission to reproduce protected material does not extend to any material on this site for which the copyright is identified as being held by a third party. For authorisation to reproduce such material, you must contact the copyright holder.
+Images, photographs and logos
+All photographs, images, and our logos or any other third party logos on this website are copyright. All rights are reserved and no photograph, image or logo may be copied, reproduced or directly linked to without approval from the relevant copyright owner.
+Hyperlinking to the States of Jersey website
+We do not object to you linking directly to pages on this site and you do not need to ask for permission to do so.&nbsp.
+However, we do not permit our pages to be loaded into frames on your site. The www.gov.je pages must be displayed in the user's entire browser window.
+Hyperlinking from the States of Jersey website
+We are not responsible for the content or reliability of the websites we link to and do not necessarily endorse the views expressed within them.
+We aim to replace broken links to other sites but cannot guarantee that these links will always work as we have no control over the availability of other sites.
+Virus protection
+We make every effort to check and test material at all stages of production.&nbsp.
+It is always wise for you to run an anti-virus program on all material downloaded from the internet. We cannot accept any responsibility for any loss, disruption or damage to your data or your computer system which may occur while using material derived from this website.
+Disclaimer
+This website and material relating to government information, products and services (or to third party information, products and services), is provided 'as is', without any representation or endorsement made and without warranty of any kind whether express or implied, including but not limited to the implied warranties of satisfactory quality, fitness for a particular purpose, non-infringement, compatibility, security and accuracy.
+We do not warrant that the functions contained in the material contained on this site will be uninterrupted or error free, that defects will be corrected, or that this site or the server that makes it available are free of viruses or represent the full functionality, accuracy, reliability of the materials. In no event will we be liable for any loss or damage including, without limitation, indirect or consequential loss or damage, or any loss or damages whatsoever arising from use or loss of use of, data or profits arising out of or in connection with use of this website. ContactWeb Services
+
+E   digital@gov.je
+
+Modernisation and DigitalJubilee Wharf24 The EsplanadeSt HelierJerseyJE2 3QAConnect to SignVideo In this section
+Benefits and financial support
+Business, industry and finance
+Caring and support
+Crime and justice
+Education
+Employment, careers and skills
+Environment
+Freedom of Information
+Government and administration
+Health and wellbeing
+Home and community
+Leisure, culture and entertainment
+Life events
+News
+Planning and building
+Report a problem with Love Jersey
+Staying safe
+Taxes and your money
+Travel and transport
+Ukraine
+Update your contact details with Government departments
+Using the SignVideo service
+ Our sites
+Blog
+Digital Jersey
+Jersey Business
+Jersey Finance
+Jersey Law
+Jersey Sport
+Locate Jersey
+m.gov.je
+Open Data
+Parishes
+Petitions
+States Assembly
+Visit Jersey
+
+
+Find us on social media
+ Twitter opens in new window 
+ Facebook opens in new window 
+ LinkedIn opens in new window 
+ Instagram opens in new window 
+ YouTube opens in new window 
+
+
+Accessibility
+Contact us
+Privacy
+Terms and conditions
+Sitemap
+Translate
+Â© States of Jersey 2010 - 2022
+ Back to top 
+      

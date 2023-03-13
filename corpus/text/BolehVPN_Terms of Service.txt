@@ -1,0 +1,91 @@
+
+         The following terms and conditions governs your use of BolehVPNâs services.
+By using our services, you agree to be bound by the terms and conditions of this agreement.
+
+Last Update: 3 February 2017
+
+
+Changelog:
+
+Only change from the last Terms of Service dated 29 December 2016 is the increase of the number of allowed simultaneous connections from 2 connections to 3 connections per VPN account.
+
+1.
+Usage Policy
+
+You agree not to use BolehVPNâs services to perform criminal or illegal activities especially when it relates to crimes such as terrorist activities, child pornography, blackmail, online harassment/bullying or any other activities that threaten peopleâs personal safety or ruin peopleâs lives.
+Please do not use our service if you intend to do any of the above.
+You accept not to violate any law of any jurisdiction that you are originating from.
+It is your responsibility to know and comprehend any and all relevant laws related to any jurisdiction or venue that concerns you and your actions.
+You also agree not to perform any hacking, port scanning, scanning of open relays or open proxies, denial of service attacks, spamming, mass-mailing activities and sending unsolicited e-mail.
+BolehVPN will not be liable for any actions done by you using our services including criminal liability and civil liability and you shall fully indemnify BolehVPN for any loss, damages or liability that is incurred by BolehVPN as a result of your actions.
+
+2.
+Bandwidth Usage and Number of Connections
+
+
+We do not impose strict bandwidth or speed limits on our servers, this is subject to fair use and shall be within reasonable bandwidth limits of normal residential/light commercial use.
+We do not log individual usage or bandwidth though we do monitor general traffic throughput and speeds of our servers to ascertain loading and view traffic patterns.
+In the event we notice any unusual loading or abnormal traffic pattern of the server, we may investigate on a more detailed basis to ascertain whether abuse is happening or excessive use.
+We reserve the right to terminate users in the event we discover excessive bandwidth usage of our service.
+We reserve the right to determine what is excessive use but is typified by consistent, sustained, high bandwidth use of our service for a period of more than 12 hours.
+We allow a maximum of 3 simultaneous connections per VPN account.
+
+3.
+Security of your Login Details and Certificates/Keys
+
+
+Access to our VPN services are controlled by a username and password to login to retrieve your certificates and keys.
+These certificates and keys then gain you access to our VPN servers.
+You agree to keep your username and password and your certificates and keys securely and prevent third parties from using them.
+
+4.
+Logging Policy
+
+BolehVPN does not keep logs of user activity or access.
+We do keep logs of general traffic throughput of our servers to ascertain loading and usage of our servers but not at an individual level.
+However if we do notice any unusual activity on our servers (high bandwidth loading, high number of connections or cpu usage) we may turn on logs temporarily to identify abuse of our services (such as DoS or spamming through our servers).
+Once the user is identified, we will terminate the offending user, issue him an e-mail for the reason of termination and wipe the logs from our system.
+Turning on logs for troubleshooting is a very last resort and is necessary to ensure the integrity of our services.
+It has happened very rarely (only a handful of times in our 9 years of operation) and such information was not disclosed to third parties but merely used to terminate the offending user.
+In any case logs were usually enabled for not more than few hours and only for the particular server that was experiencing abuse.
+This does not mean we condone criminal or illegal activities especially when it relates to crimes such as terrorist activities, child pornography, blackmail, online harassment/bullying or any other activities that threaten peopleâs personal safety or ruin peopleâs lives.
+Please do not use our service if you intend to do any of the above.
+
+5.
+Refund Policy
+
+
+You may request a refund within fourteen (14) days from the activation of your VPN account for full packages or within 2 days for trial subscriptions if you are not satisfied with the quality of service or the service does not work for you.
+No refunds will be given for any period outside the refund windows.
+Renewals will not be entitled for refunds.
+A Renewal is defined as an order that is renewed before the expiry of an active account and also any subsequent VPN order with the same account that is within 30 days of the last order.
+Further, no refunds will be given for services paid via cryptocurrencies such as Bitcoin or Dash though we may consider this on a case by case basis.
+If any refunds of the cryptocurrency are made, it will be made in accordance with the fiat value of the purchased service and subject to a 2% administration charge.
+A refund will be processed only if any problems with the service has been notified to us and we have been given an opportunity to troubleshoot and rectify your issues.
+If there any fees involved in making the refund to you for instance telegraphic transfer charges, or non-refundable payment gateway fees (such as with MolPay) or transfer fees, such fees will be deducted from the refund amount.
+No refunds will be given if your account is terminated due to abuse or breach of the terms of conditions of our services.
+Refunds will be processed within 7 days.
+
+6.
+Free Trials
+
+
+We reserve the right to decline to give free trials without assigning any reason in our absolute discretion.
+
+7.
+Privacy Policy
+
+
+Your use of our services is also subject to our privacy policy.
+
+8.
+Amendment of Terms of Service
+
+
+We reserve the right to amend our terms of service from time to time which will come into force from the date of change.
+Such changes will be notified via announcement.
+
+9.
+Jurisdiction
+
+You hereby agree that the use of our services will be governed by the law of Seychelles.

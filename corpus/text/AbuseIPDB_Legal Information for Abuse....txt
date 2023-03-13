@@ -1,0 +1,164 @@
+
+
+AbuseIPDB
+Legal Information
+ Legal Information for AbuseIPDB Contents:
+
+Terms of Use
+Fees &amp.
+Taxes
+Service Level Agreement
+Cancellation Terms
+Notice
+Privacy Policy
+ Terms of Use
+
+Thank you for using AbuseIPDB.
+This Terms of Use Agreement ("Agreement") sets forth the legally binding terms for your use of the AbuseIPDB Services on AbuseIPDB.com, api.AbuseIPDB.com, and all affiliated subdomains, as well as any data sourced from AbuseIPDB ("the Services").
+By using the AbuseIPDB Services, you agree to be bound by this Agreement, whether you are a "Visitor" (which means that you simply browse the AbuseIPDB Website) or you are a "Member" (which means that you have registered with AbuseIPDB).
+The term "User" refers to a Visitor or a Member.
+
+
+You are only authorized to use AbuseIPDB (regardless of whether your access or use is intended) if you agree to abide by all applicable laws and to this Agreement.
+Please read this Agreement carefully and save it.
+If you do not agree with it, you should leave the AbuseIPDB Website and discontinue use of the AbuseIPDB Services immediately.
+By using the AbuseIPDB Services, you acknowledge your acceptance of this Agreement in its entirety.
+
+Indemnification of Responsibility
+
+While we make every effort to maintain true and up-to-date information on the AbuseIPDB Services, we cannot be held responsible for incorrect information or the results of using any information from the AbuseIPDB Services.
+
+
+You agree to indemnify and hold us harmless, our subsidiaries, affiliates, employees, and related parties from any claim or demand, including reasonable attorney's fees, that may be made by any third party, that is due to or arising out of your conduct or connection with this web site or service, your provision of Content including Abuse Reports, your violation of this Terms of Use or any other violation of the rights of another person or party.
+
+Disclaimer of Warranties
+
+You understand and agree that the information provided by the AbuseIPDB Services (including Abuse Reports, Abuse Confidence Scores and IP information) is provided "AS-IS", with no actual or implied warranty, and is provided to you for use at your own risk.
+We expressly disclaim all warranties of any kind, implied or express, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+
+The information provided by AbuseIPDB is not intended as professional advice nor as advice to take any specific action towards an IP address or computer network, and you understand and acknowledge that your use of any information provided by the AbuseIPDB Services is solely at your own risk and without liability or warranty of any kind.
+
+Limitation of Liability
+
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT WE SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSS (EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM OR ARISING OUT OF:
+
+
+THE USE OF OR THE INABILITY TO USE THE SERVICE
+THE COST TO OBTAIN SUBSTITUTE GOODS AND/OR SERVICES RESULTING FROM ANY TRANSACTION ENTERED INTO ON THROUGH THE SERVICE
+UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR DATA TRANSMISSIONS
+STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICE
+ANY OTHER MATTER RELATING TO THE SERVICE
+
+External Websites
+
+We may provide organic or advertiser's links to content on external web sites that are not controlled or influenced by AbuseIPDB.
+We cannot be held responsible for any of the content or information contained on these external sites, and we do not necessarily endorse these sites or the views they present.
+
+Copyrighted Material
+
+All original material on the website is copyrighted by AbuseIPDB unless explicitly stated otherwise.
+You agree that you will not copy, retransmit, or modify any of the content provided by the website without obtaining explicit permission from AbuseIPDB.
+Permissions can be obtained by contacting us directly.
+
+
+If you believe information on AbuseIPDB is in violation of a copyright you hold, please contact us directly.
+Any confirmed infringing material will be removed as soon as possible.
+
+Multiple Accounts
+The use of multiple user accounts to increase the total API quota or increase reporting influence is prohibited.
+Only one account may be used per person.
+AbuseIPDB reserves the right to terminate any and all accounts for this reason without notice. Fees and Taxes
+
+You agree to pay for all services ordered as set forth in the Plans section of your Account page.
+All fees due under the agreement are non-cancelable and the sums paid nonrefundable.
+You agree to pay any sales, value-added or other similar taxes imposed by applicable law that AbuseIPDB must pay based on the services you ordered, except for taxes based on AbuseIPDB's income.
+Fees for services are exclusive of taxes and expenses.
+All amounts invoiced hereunder are due and payable within 30 days of the date of the invoice.
+
+
+You agree that you have not relied on the future availability of any services, programs or updates in entering into the payment obligations set in the Plans section of your Account page.
+however, the preceding does not relieve AbuseIPDB of its obligation to deliver services that you have ordered per the terms of the agreement.
+ Service Level Agreement
+This AbuseIPDB Service Level Agreement ("SLA") governs the use of the AbuseIPDB API pursuant to the terms of the Agreement between AbuseIPDB and the User.
+To the extent you have more than one AbuseIPDB account, this SLA applies to each AbuseIPDB account individually.
+Except as otherwise set forth in this SLA, this SLA is subject to the terms of the Agreement and capitalized terms will have the meaning specified in the Agreement.
+AbuseIPDB reserves the right to change the terms of this SLA in accordance with the Agreement.
+1.
+Definitions
+
+"Monthly Uptime Percentage" means the difference between 100% and the percentage of Unavailable Time for the applicable month.
+"Cash Refund" means a dollar value refund, equal to 100% of your usage fees in the month in which the Unavailable Time (as defined below) occurred, prorated to the length of the Unavailable Time.
+"Unavailable Time" means the AbuseIPDB API is not available for use, as measured in continuous 5-minute increments.
+Unavailable Time does not include any unavailability resulting from any Exclusion (as defined below).
+
+2.
+Service Commitment
+AbuseIPDB will make the AbuseIPDB API available 99% of the time each month.
+If AbuseIPDBâs Monthly Uptime Percentage is below 99% in a given calendar month, then you will be eligible to receive a Cash Refund as described in Section 3 below.
+3.
+Refund Request and Payment Procedures:
+To receive a Cash Refund, you must submit a request to AbuseIPDB as described in this Section 3.
+You must make the submission to AbuseIPDB Customer Support within thirty (30) days from the time you become eligible to receive the applicable Cash Refund.
+Such submission must include: (a) "SLA Claim" as the subject of the ticket.
+(b) the dates and times of Unavailable Time for which a credit is being claimed.
+(c) any documentation of the applicable outage.
+Each Cash Refund will be applied to future amounts payable by you in connection with the applicable AbuseIPDB product.
+4.
+Exclusions
+Notwithstanding anything to the contrary, no Unavailable Time shall be deemed to have occurred with respect to any unavailability of the AbuseIPB API or any other AbuseIPB API performance issues, that (a) are caused by factors outside of AbuseIPBâs reasonable control, including, without limitation, any force majeure event, telecommunications provider-related problems or issues, or Internet access or related problems occurring beyond the point in the network where AbuseIPB maintains access and control over the AbuseIPB Services.
+(b) result from any actions or inactions of you or any third party (other than AbuseIPBâs agents and subcontractors).
+(c) result from software or other technology and/or third party equipment, software or other technology (except for equipment within AbuseIPBâs direct control).
+or (d) occurs during AbuseIPBâs scheduled maintenance for which AbuseIPB will provide at least twenty-four (24) hours prior notice.
+or (e) problems or issues related to alpha, beta or not otherwise generally available AbuseIPB features or products (collectively, the "Exclusions").
+5.
+Entire SLA Liability
+This SLA states AbuseIPDBâs sole and entire liability to you and your sole remedy with respect AbuseIPDBâs failure to meet the Monthly Uptime Percentage.
+Cancellation Terms
+You can cancel your Service anytime via the Plans section in your Account page or by contacting Customer Support.
+Your Service will continue until the end of that billing period.
+Cancellation will not refund the payment for that billing period. Notice
+We reserve the right to change this Agreement at any time.
+Any non-material change (such as clarifications) to this Agreement will become effective on the date the change is posted.
+Any material changes will become effective 30 days from their posting here and we will provide appropriate notice via email to all Members.
+Your continued use of the Services signifies your acceptance of any changes.
+The date on which the latest update was made is indicated at the bottom of this document.
+Last updated Thu 28 Oct 2021 Privacy Policy
+
+In this policy, we'll spell out what information AbuseIPDB collects, and how it is used.
+Please note that this policy may change at any time without notice.
+
+
+Web Analytics and TrackingAbuseIPDB uses web analytics to track anonymous use data including (but not limited to) IP address, browser information, usage history, etc.
+No personally identifiable information is collected.
+We may share this aggregate, anonymized data with third party partners, or when required by law.
+Registration for ServicesWe may collect personally identifiable information from you during the process of registering for services provided by AbuseIPDB.
+This information will be used for processing your request for services, and may be shared with trusted third parties in order to best provide you with the information or services requested.
+CookiesAbuseIPDB may use cookies directly to improve your experience by remembering key settings or preferences.
+You may disable this at any time through your browser privacy settings.
+Third-party partners may also use cookies, as described below.
+Third-Party AnalyticsCertain third-party plugins used across the website may include additional analytics or tracking codes or cookies.
+Advertisers like Carbon Ads, social sharing plugins, and other third-party plugins have their own privacy policies and opt-out mechanisms that will enable you to manage your preferences.
+
+
+
+Disclosure and Use of Your Information
+
+AbuseIPDB may use the information collected from you as described above for a variety of purposes, including improving our website and contacting you in reference to the products or services you explicitly registered for.
+
+
+Any information submitted to AbuseIPDB through the website or API as part of an Abuse Report, including any information in the comment field, becomes the property of AbuseIPDB and will be publicly accessible via the AbuseIPDB Services.
+
+
+Users are solely responsible for ensuring that their submitted Abuse Reports do not disclose confidential, personal, or infringing information and otherwise comply with the AbuseIPDB Reporting Policy.
+Registered users have the ability to view and remove their own Reports through their User Account control panel.
+
+
+If you elect for your AbuseIPDB User Profile or Domain to be publicly visible, this information will be published on the AbuseIPDB Website and other Services.
+Users can modify their profile visibility settings through their User Account control panel.
+
+
+AbuseIPDB may disclose aggregate, anonymous summaries of personal data to third parties.
+Personally identifiable information may also be released as required by applicable law to qualified law enforcement.
+In the event that the ownership or structure of AbuseIPDB changes in the future, any personal information collected may be exchanged with the rest of the AbuseIPDB Data.
+

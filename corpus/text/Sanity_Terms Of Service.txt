@@ -1,0 +1,326 @@
+
+        Last updated September 22, 2021Terms of ServiceThank you for your interest in Sanity, the fully customizable headless content management system.
+These General Terms and Conditions will, along with the appendices and other documents incorporated herein by reference, constitute the agreement ("Agreement") between the applicable Sanity Contracting Party specified in section 1.10 below ("Sanity"), and you as a user of our services ("Customer"), whether you sign up as a company or as an individual, and whether you use our services for free or have signed up for any of our paid services plans.
+Please read these terms carefully.
+If you do not agree to be bound by these terms, you must not use the service.
+Your continued use of the service implies acceptance of these terms.
+If you are registering for a Sanity account or are using Sanity Services on behalf of an entity or other organization, you are agreeing to these terms for that entity or organization, and are representing to Sanity that you have the authority to bind that entity or organization to these General Terms and Conditions (and, in which case, the terms âyouâ, âyourâ and âCustomerâ will refer to that entity or organization).
+The exception to this is if said entity or organization has a separate contract with Sanity covering one or more accounts and use of the Sanity Services, in which case that contract will govern the Sanity Services with respect to those accounts only.
+
+1.
+Definitions
+
+1.1 "Agreement" means these General Terms and Conditions together with appendices and other documents incorporated herein by reference.
+1.2 "Customer" means you as a user of our Sanity Services, and if applicable, the entity or entities you have signed up on behalf of.
+1.3 "Customer Applications" means software (internal or third-party software) used by the Customer that interfaces with the Sanity Services.
+1.4 "Customer Data" means content and other material supplied or made available to Sanity by you as a Customer or your designated Users through the use of or access to the Sanity Services.
+1.5 âData controllerâ means the person who determines the purpose and the means of the processing of personal data as defined in applicable data protection law.
+1.6 âData processorsâ: means persons or entities which processes data on behalf of a Data Controller.
+1.7 "Documentation" means the printed and digital instructions, user manuals, technical documentation, help files, support material, specifications or forms provided by Sanity that describe the features, functionality or operation of the Sanity Services.
+1.8 "Fees" means the fees paid by Customer prior to accessing the Sanity Service.
+1.9 "Sanity Services" means the Platform as a Service (PaaS)-based content management and publication services, programs, functions, frameworks and platform provided by Sanity to you (including the Sanity APIs, Documentation and technical support that is made available by Sanity to you as applicable pursuant to your order in connection with such services)) and any content that belongs to Sanity and/or its partners or suppliers that is not Customer Data, as well as any subsequent updates or upgrades of any of the foregoing made available by Sanity.
+1.10 âSanity Contracting Partyâ means Sanity AS if the country associated with your account is outside the United States or Sanity US Inc.
+if the country associated with your account is the United States.
+1.11"Term" means the subscription period which commences on the date this Agreement is accepted by you and continues until your account is terminated, as set forth below in Section 6.
+1.12 "Users" means private individuals, Customer's employees or representatives, partners, distributors, customers, consultants, contractors or other associates who are authorized by the Customer to access and use the Sanity Service.
+1.13 âIntellectual Property Rightsâ means any patents, copyrights, moral rights, trademarks or any other form of intellectual property rights.
+
+2.
+General Obligations, License Grant &amp.
+Restrictions
+
+
+2.1 Subscription and license to the Sanity Services.
+
+Subject to the terms of this Agreement, Sanity hereby grants to Customer a non-transferable, non-exclusive subscription and license to access and use the Sanity Services for its intended purpose.
+If Customer is an entity, such rights may, as set individually by Sanity and agreed between the parties, be restricted to access and use only for a certain amount of Users or other clients as the case may be.
+
+2.2 Restrictions.
+
+The Sanity Service is formed by two key components: an editing front-end (referred to the Sanity Editing Studio) that developers can customise using modern technologies they love, combined with an advanced cloud based Platform as a Service (PaaS) using proprietary enterprise technologies (referred to as Sanity Proprietary Backend).
+The Sanity Editing Studio, which enables the Customer to write and execute software that may interface with the Sanity Services (Customer Applications) is itself provided under the MIT license and makes use of open source software which is governed by its associated licenses, and the Customer shall comply with all such licenses as presented on our website or in our Sanity Services.
+Our Sanity Editing Studio is supported and made available by our Sanity Backend Proprietary Software Platform (PaaS).
+Customer shall not (i) license, sublicense, sell, resell, assign, distribute or otherwise commercially exploit or make available to any third party the source code underlying the Sanity Backend Proprietary Software Platform.
+(ii) modify or make derivative works based upon the source code underlying the Sanity Backend Proprietary Software Platform.
+or (iii) reverse engineer or access the Sanity Backend Proprietary Software Platform.
+Under no circumstances may the information gathered from the Sanity Services be used in order to (i) build a competitive product or service, (ii) build a product using similar ideas, features, functions or graphics of the Sanity Service, or (iii) copy any ideas, features, functions or graphics of the Sanity Service.
+Customer shall not transfer, distribute, resell, lease, license, or assign the Sanity Services or otherwise offer the Sanity Services on a standalone basis, unless explicitly agreed otherwise in writing with Sanity.
+
+2.3 Eligibility, Account management and liability
+
+The Services are not intended for use by anyone under the age of 18.
+By using the Services, you represent and warrant that you are at least 18 years of age.
+If you are under the age of 18, you may not use the Services.
+We may, in our sole discretion, refuse the right to use the Services to any person or entity and/or change its eligibility criteria at any time.
+Each User must sign up with an account, either via a third-party identity service or by registering a username/e-mail and password directly with Sanity.
+You must provide accurate, truthful and complete information and keep your account information updated.
+The Customer, and each User, is responsible to maintain the confidentiality of the login information and not share it with others, including other/several Users.
+Customer shall use commercially reasonable efforts to prevent unauthorized access to the Sanity Services, and shall notify Sanity promptly if Customer becomes aware of unauthorized access to a User account or otherwise in violation of this Agreement.
+If Customer is an entity or organization, it may designate Users subject to the terms and conditions of this Agreement and as laid out by Sanity in the subscription process.
+Customer has full liability for and shall be identified with any of its designated Users.
+If Customer becomes aware that any of its own designated Users use the Sanity Services in violation of this Agreement, Customer will immediately suspend access to the Sanity Services for that User and report the misconduct to Sanity.
+
+2.4 Customer software and services
+
+Customer is responsible for obtaining and maintaining any software and ancillary services needed to connect to, access or otherwise use the Sanity Services, and separately and regularly backing up any data and information used in conjunction with the Sanity Services, at intervals that are reasonable in view of the nature and criticality of the information.
+Customer will be solely responsible for your failure to maintain such software and services, or to use the current version of the APIs made available by Sanity or, if Customer choose to use any of the software development kits made separately available by Sanity, the current version of such development kits.
+Sanity shall have no liability for such failure.
+With the permission of Customer or the User, which may be by email or other reasonable means, Sanity may log into User accounts in order to debug the Sanity Services.
+
+2.5 Support and Service Levels
+
+If Sanity Services are provided free of charge, they are provided "as is" and "as available", without representations or warranties of any kind.
+If Sanity Services are provided for a fee, Sanity may commit to specific support levels and services for its Customers.
+These support levels and service commitments will be subject to the terms and conditions for the specific Service Plan the Customer signs up for, and which are incorporated herein by reference.
+
+2.6 Changes to the Sanity Services
+
+The Customer acknowledges that Sanity may change, deprecate or republish Sanity APIs for any Sanity Services or feature(s) of the Sanity Services from time to time, and that it is the Customerâs responsibility to ensure that calls or requests the Customer makes to the Sanity Services are compatible with then-current Sanity APIs for the Sanity Services.
+Although Sanity endeavors to avoid changes to the Sanity APIs or Sanity Services that are not backwards compatible, if any such changes become necessary Sanity will notify you at least ten (10) days prior to Sanityâs implementation of any such incompatible changes to the Sanity Services of which it becomes aware.
+Exceptions to this rule will be managed on a case by case basis directly with the client.
+
+3.
+Account information and data
+
+
+3.1 Account information and other personal data for which Sanity is the Data Controller.
+
+To create a user account or otherwise use the Sanity Services, Sanity collects and processes certain personal data in connection with providing the Sanity Services.
+Customer shall ensure provision of its full legal name, a valid email address, and any other information requested in order to complete the signup process for the Sanity Service.
+The login information shall be treated as confidential and may only be used by one person.
+a single login shared by multiple people is not permitted.
+For the processing of this data, Sanity is the Data Controller.
+You may read more about this in our Privacy Policy available here: https://www.sanity.io/legal/privacy/, which is incorporated herein by reference.
+
+3.2 Customer Data.
+
+Sanity does not own any Customer Data.
+The Customer, not Sanity, has sole responsibility for the accuracy, quality, integrity, legality, reliability, appropriateness, and intellectual property ownership or right to use of all Customer Data.
+The Customer grants to Sanity a worldwide, royalty-free, and non-exclusive license to access and use the Customer Data, as well as any other material and software you may upload through the Sanity Service, for the sole purpose of providing the Sanity Services to you as a Customer.
+This license is valid only as long as this Agreement is in force.
+Upon termination of the Agreement the license is revoked.
+For avoidance of doubt, there is no transfer of ownership of Customer Data or any other data or Intellectual Property Rights from Customer to Sanity under this Agreement.
+
+3.3 Personal Data.
+
+In the event Customer Data includes EU personal data, Sanity processes such personal data as a Data Processor on behalf of the Customer as the Data Controller in accordance with the GDPR.
+If applicable, please contact us to request a GDPR Data Processing Addendum.
+
+3.4 Content
+
+By publishing or uploading data, images or other content, or otherwise making material available by means of the Services (collectively, âContentâ), you agree that you are fully responsible for such Content, and for any damages, harm or liability resulting from or arising out of that Content.
+These responsibilities apply regardless of the format of the Content, whether it is text, graphics, data, audio files, video files, computer software, or any other type of content, and regardless of if you are the original creator or owner of the Content.
+You agree that you will be responsible for all Content on your account, even if placed there by third parties.
+By publishing or uploading Content to the Site or the Services, you acknowledge and agree that:
+a) The Content does not and will not infringe, violate or misappropriate the Intellectual Property Rights of any third party.
+Such rights are for this point (3.4) considered valid if recognized in any jurisdiction in the world and include any applications and registrations for any of such Intellectual Property Rights.
+b) Sanityâs use of the Content for the purpose of providing the Services, including, but not limited to, processing, downloading, copying, or creating aggregates of the Content, does not violate any applicable rules, laws, regulations or Intellectual Property Rights of any third party.
+c) The Content does not contain or create any viruses, trojan horses, worms or any other malicious, harmful, or deleterious programs or code
+d) The Content is not libelous or defamatory or otherwise malicious or harmful to any person or entity, or discriminatory based on race, sex, religion, nationality, disability, sexual orientation or age.
+e) The Content is not meant for use for any unethical or unlawful purposes including, but not limited to, phishing, scamming, spoofing, spamming, search site rank manipulation, threats and incitements to violence.
+f) The Content does not and will not violate the privacy rights of any third party.
+g) The Content is not being advertised via unwanted electronic messages (such as, by way of example, spam links on newsgroups, email lists, other blogs and web sites, and similar unsolicited promotional methods).
+
+4.
+Fees, payment and suspension of service
+
+
+4.1 Fees.
+
+Customer agree to pay subscription fees, additional usage fees and any other Fee set forth in Sanityâs Service Plan in effect upon conclusion of the Agreement, or any other order forms for the Sanity Services ordered by you in writing and accepted in writing by Sanity.
+
+4.2 Payment.
+
+Except as otherwise mutually agreed upon in writing or expressly set forth herein, (i) fees are quoted and payable in American Dollars (USD), (ii) payments are due monthly in advance, iii) fees are proratable for partial months, iv) fees are excluding any and all applicable direct or indirect taxes and government charges, which will be payable by Customer, and v) payment obligations are non-cancellable and vi) fees for unused Sanity Service is either, proratable and refundable the day following the termination, once additional usage fees or other service fees have been deducted, if all customer projects are closed or is proratable and credited on remaining active customer project, at the end of the month, once additional usage fees or other service fees have deducted.
+Nothing in this Agreement, beyond exception listed in this paragraph, obligates Sanity to extend credit to any party.
+
+4.3 Overdue payments.
+
+Overdue amounts shall accrue interest at the rate of 1.5% per month, or at the highest legal interest rate, should it be lower than this figure.
+Sanity reserves the right (in addition to any other rights or remedies Sanity may have) to discontinue the Sanity Service and suspend all access to the Sanity Service if any Fees set forth in the Service Plan are more than thirty (30) days overdue, until such amounts are paid in full.
+
+4.4 Customer's responsibility.
+
+Customer shall ensure that it maintains complete, accurate and up-to-date Customer billing and contact information via the online account section of the Sanity Service at all times.
+Customer shall only use subscriptions as intended and is liable for compensation if manipulating subscriptions beyond Fair Use.
+
+5.
+Intellectual property
+
+
+5.1 Sanity's intellectual property
+
+Sanity owns all titles, interests and rights (including all related intellectual property rights) in and to the Sanity Services and to use any suggestions, ideas, enhancement requests, feedback, recommendations or other information provided by Customer or any other party relating to the Sanity Service.
+Except for the express license rights granted in Section 2 above, Sanity reserves all rights, title and interests in and to the Sanity Services.
+
+5.2 No sale or transfer
+
+This Agreement is not a sale and does not convey to Customer any rights of ownership in or related to the Sanity Service or the intellectual property rights owned by Sanity.
+
+5.3 Sanity name and Logo
+
+Sanity hereby grants Customer a non-exclusive, non-transferable, non-sublicensable license, for the duration of the term of this Agreement, to display the trade names, trademarks, service marks, logos, and/or domain names of Sanity (each, a âSanity Markâ) for the purpose of promoting or advertising Customerâs use of Sanity.
+While using Sanity, Customer may not, at any time: (a) display a Sanity Mark in a way that could imply a sponsorship or endorsement by, or an affiliation or relationship with, Sanity.
+(b) use a Sanity Mark to disparage Sanity or Sanityâs products or services.
+or (c) display a Sanity Mark on any site that violates any regulation or law.
+Furthermore, Sanity can modify any Sanity Marks at any time and, upon notice of such modifications, Customer will only use the updated Sanity Marks.
+Customer may not use any Sanity Marks outside those usages described in this Section, without prior written consent.
+Any and all use of the Sanity Marks is subject to any trademark usage guidelines that will occasionally be provided to Customer by Sanity.
+Finally, Customer will, at all times, conduct its business in a professional manner that does not reflect unfavorably on Sanityâs reputation and integrity.
+
+5.4 Aggregated data
+
+Sanity shall have the right to aggregate, collect and analyse data and other information relating to the provision, use and performance of the Sanity Services in ways that do not permit identification of any individual and shall be free (during and after the Term hereof) to (i) use such data and other information to develop and improve the Sanity Services and other Sanity offerings, and (ii) disclose such data and other information solely in an aggregated and anonymized format that does not permit identification of any individual.
+
+5.5 Customer's name and logo
+
+You agree that Sanity is allowed to refer to your name and/or trademarks on Sanityâs website and in any of Sanityâs marketing materials.
+Sanity will only use your name and/or trademarks in all other forms of publication or publicity (such as press releases, case studies, and customer references) when written consent (including consent sent via email) is obtained from you prior to such usages.
+
+6.
+Term and termination
+
+
+6.1 Term
+
+This Agreement comes into effect on the date this Agreement is accepted by Customer and continues until Customer's account is terminated as set forth below.
+
+6.2 Early termination for convenience
+
+Customer may terminate its account at any time through the account management tools available through the Sanity Service.
+Sanity may terminate Customer's account at any time with six (6) weeksâ notice.
+To the extent Customer has pre-paid any fees for a specific time period, such termination for convenience will be effective on date set in termination notice.
+For further information regarding the reimbursement please refer to clause 4.2 above.
+
+6.3 Early termination for cause
+
+Sanity may terminate or suspend Customerâs account in the event Customer commits any material breach of any provision of this Agreement and fails to remedy that breach within five (5) days after written notice of that breach.
+Sanity may also terminate or suspend Customerâs account immediately for cause if: (i) there is reason to believe the traffic created from Customerâs use of the Sanity Services or Customerâs use of the Sanity Services is fraudulent or negatively impacting the operating capability of Sanity Services.
+(ii) Sanity determines, in its sole discretion, that providing the Sanity Services is prohibited by law, or it has become impractical or unfeasible for any legal or regulatory reason to provide the Sanity Services.
+(iii) Customer is knowingly uploading content in violation of this Agreement, or knowingly allows user generated content in violation of this Agreement.
+See âContentâ under Chapter 3.
+(iv) subject to applicable law, upon Customerâs liquidation, commencement of dissolution proceedings, disposal of Customerâs assets or change of control, a failure to continue business, assignment for the benefit of creditors, or if Customer becomes the subject of bankruptcy or similar proceedings.
+If Sanity suspends Customerâs account, Sanity will notify Customer accordingly.
+Note that no refund will be provided in the event of any suspension or termination of Customerâs account because of Customerâs breach of these terms and conditions.
+
+6.4 Effects of Termination
+
+Upon the termination of this Agreement for any reason: (i) any amounts owed to Sanity under this Agreement before such termination will become immediately due and payable.
+and (ii) each party will return to the other party all property of the other party in its possession or control.
+Customer Data will be deleted or transferred to Customer.
+
+7.
+Warranty and disclaimer
+
+
+7.1 Sanity services provided "as is"
+
+To the extent any Sanity Services are provided free of charge, Sanity makes no warranty concerning the Sanity Service.
+Accordingly, the Sanity Service and all other data, materials and Documentation provided in connection with this Agreement by Sanity and its partners are provided "as is" and "as available", without representations or warranties of any kind.
+
+7.2 Service Plan for paid Sanity Services
+
+To the extent a Customer has signed up for Sanity Services against a Fee and Sanity has committed to a Service Plan, Sanity warrants that it will use commercially reasonable efforts to meet the requirements as agreed between the parties in such Service Plan.
+In the event of any breach of Sanityâs warranty above, Sanity will correct the relevant defect of a non-conforming Sanity Service in accordance with the agreed specifications at no additional charge to the Customer.
+In the event that Sanity is unable to correct a non-conforming Sanity Service within a reasonable time period (time period to be set by Customer and must allow for at least three (3) attempts at rectification), Customer may claim a reduction in fees proportionate to the defect and claim a refund of any pre-paid fees exceeding the accordingly adjusted total or terminate the Sanity Services in question by written notice having effect from the day such notice was received by Sanity, and shall be entitled to receive a refund of any pre-paid Fees for unused Sanity Service access remaining during the term of the Sanity Service(s) in question.
+The foregoing remedy is Customerâs sole remedy in the event of a breach of any service level and/or support commitment agreed between the parties (if applicable), unless otherwise explicitly agreed between the parties in writing.
+Sanityâs obligations for breach of warranty as set forth above are conditional upon Customer promptly notifying Sanity of such breach in writing, and providing Sanity with sufficient evidence of such non-conformity as to enable Sanity to reproduce and/or verify the same.
+
+7.3 Customer warranties
+
+You as a Customer warrant that you have the necessary rights, licenses, consents, permissions, waivers and releases to use, make available and distribute the Customer Applications and Customer Data in connection with the Sanity Services as contemplated herein, and that you and any of your designated Users (if applicable) will abide by the obligations and restrictions for use of the Sanity Services as set forth herein.
+
+7.4 Disclaimer
+
+Without prejudice and with exception for what may apply from Section 7.2 above, Sanity and its partners and suppliers make no other warranties, express or implied, by operation of law or otherwise, including, without limitation, any implied warranties of no infringement, merchantability or fitness for a particular purpose or any implied warranties arising out of course of performance, course of dealing or usage of trade.
+The use of Sanity Services is at Customer's own risk, and Customer is fully responsible for any claim, expense, liability, or losses arising from any infringement of the Agreement.
+
+7.5 Beta services
+
+Sanity may offer programs where Customer may use alpha or beta services, products, features or documentation (collectively, âbeta servicesâ) free of charge for testing purposes.
+Any use of the beta services in conjunction with actual data and/or in a productive setting, is at your sole risk.
+These beta services are not generally available and may contain bugs, errors, defects or harmful components.
+Both Sanity and Customer may terminate your access to the beta services at any time.
+
+8.
+Indemnity
+
+
+8.1 Indemnification
+
+If any action is instituted by a third party against Sanity: (i) arising out of or relating to the use of the Sanity Service (including claims by any Customer or business partner of Customer) by Customer or any third party with Customer's user identification.
+or (ii) alleging that the Customer Data, Customer Applications or any use of Customer Data or Customer Applications infringes the intellectual property or other right of a third party or otherwise causes harm to a third party, Customer will defend such action at its own expense on behalf of Sanity and shall pay all damages attributable to such claim that are awarded against Sanity or paid in settlement of such claim.
+Customer shall have no obligation under this Section for any claim or action that solely arises out of a breach of this Agreement by Sanity.
+
+8.2 Obligations
+
+The indemnified party will: (i) inform the indemnifying party of a claim as soon as reasonably practicable after the indemnified party receives notice of the claim.
+(ii) permit the indemnifying party to assume direction and control of the defense of the indemnifying party (at its own expense) in the defense of the claim.
+The indemnified party shall have the right to participate, at its own expense, in the defense of any claim that is subject to indemnification as set forth in this Section 8.
+
+9.
+Limitation of liability
+
+
+9.1 General disclaimer
+
+Without prejudice for the warranties and disclaimers that may apply under Section 7.2 above, each party is only liable for damages caused intentionally or with gross negligence, in accordance with statutory mandatory law.
+
+9.2 Indirect loss
+
+Without prejudice to the above Section 9.1, in no event will a party be liable for special, incidental, direct or consequential damages arising out of or in connection with this Agreement (under any legal theory including claims in contract or tort), including, but not limited to, interrupted communications, lost data or lost profits, and damages that result from inconvenience, delay or loss of use of any information or data or of the Sanity Services, even if Sanity has been advised of the possibility of such damages, and notwithstanding the failure of essential purpose of any limited remedy provided herein.
+
+9.3 Maximum liability
+
+Without prejudice to the above Section 9.1, a party's total cumulative liability to the other party for any and all claims arising from or in connection with this Agreement (under any legal theory including claims in contract or tort), the Sanity Services shall not exceed the amounts actually paid by Customer to Sanity in the twelve (12) month period immediately preceding the party's formal written notice of the claim for liability hereunder.
+All claims a party may have against the other party will be aggregated to satisfy this limit and multiple claims will not enlarge this limit.
+
+10.
+Confidentiality
+
+
+10.1 Duty
+
+During the term of this Agreement, and for five years subsequent to its termination, the parties shall treat as trade secrets and not disclose confidential information and material which by its nature must be regarded as trade secrets and which they gain awareness of or access to at the other party through this Agreement.
+Sanity understands and agrees that the Customer Data is considered confidential information and shall be treated as such.
+The same shall apply to all material that is marked confidential or information on a person's personal details, information which may harm one of the parties or which may be exploited by third parties in the business sector.
+The parties will endeavor to take all necessary precautions.
+
+10.2 Employees and personnel
+
+The duty of confidentiality shall apply to the parties' employees and others who act on behalf of the parties in connection with the performance of the Agreement in order to ensure that the material and information is not made known to others contrary to this provision.
+
+11.
+General provisions
+
+
+11.1 Assignment
+
+The Parties may only assign this Agreement without the other party's consent in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets.
+Further, Sanity may subcontract certain aspects of the Sanity Service to qualified third parties, provided that any such subcontracting arrangement will not relieve Sanity of any of its obligations hereunder.
+
+11.2 Governing Law and Venue.
+
+If the Sanity Contracting Party is Sanity AS, this Agreement is to be interpreted in accordance with the laws of Norway, without regard to conflict of law principles.
+In the event of a dispute arising out of or relating to this Agreement, the parties shall first seek settlement of that dispute by negotiation between senior executives of the parties.
+If they are unable to settle the dispute within thirty (30) days, or such other period as the parties shall agree in writing, the dispute shall be settled by the courts of Norway with Oslo District Court.
+If the Sanity Contracting Party is Sanity US, Inc., this Agreement is to be interpreted in accordance with the laws of the State of California, without regard to conflict of law principles.
+In the event of a dispute arising out of or relating to this Agreement, the parties shall first seek settlement of that dispute by negotiation between senior executives of the parties.
+If they are unable to settle the dispute within thirty (30) days, or such other period as the parties shall agree in writing, the dispute shall be settled by the courts of Santa Clara County, California or the United States District Court for Northern District of California.
+
+11.3 Notices.
+
+Any notice or other communication required or permitted under this Agreement and intended to have legal effect must be given in writing (including electronic communication) to the other party at the address below:
+If to Customer, all notices will be delivered to the email address or physical postal address provided upon subscription of the Sanity Services, or as otherwise updated under the Sanity Services under the procedures laid out therein.
+If to Sanity:
+Sanity AS, Thorvald Meyers gate 49, 0555 Oslo, Norway
+Sanity US, Inc.
+2345 Yale Street, Palo Alto, CA 94306
+or by email to legal@sanity.io.
+
+11.4 Severability and Waiver.
+
+In the event that any provision of this Agreement is held to be invalid or unenforceable, the valid or enforceable portion thereof and the remaining provisions of this Agreement will remain in full force and effect.
+Any waiver or failure to enforce any provision of this Agreement on one occasion will not be deemed a waiver of any other provision or of such provision on any other occasion.
+All waivers must be in writing.
+Other than as expressly stated herein, the remedies provided herein are in addition to, and not exclusive of, any other remedies of a party at law or in equity.

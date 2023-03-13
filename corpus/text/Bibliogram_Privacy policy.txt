@@ -1,0 +1,28 @@
+
+        Privacy policy for Bibliogram visitorsData collected by BibliogramBibliogram logs all incoming request URLs and the time of the request
+to the console, but does not log headers, IP addresses, or other
+information.
+These logs are not stored on disk.
+Data collected by nginxThis server uses nginx as a reverse proxy to Bibliogram.
+nginx is
+configured to use the default logging settings, which means that this
+data is logged:
+
+Request timestamp
+Request URL
+IP address
+Reported user agent
+Reported referrer
+
+These logs are saved to disk and deleted after 10 days.
+Exporting or deleting your dataSince Bibliogram does not associate any stored data with a user
+identifier, we cannot export or delete "your" data since we have
+no concept of "you".
+How Instagram data is collected and storedOnly public data from Instagram is collected, never private data.
+This data is only used for the purpose of responding to incoming web requests.
+Data about Instagram posts is never saved to disk.
+Basic information about Instagram user profiles, like the user's username,
+display name and bio, is saved to disk.
+It is deleted when the Instagram user deletes their account.
+ââBack to homepage
+      

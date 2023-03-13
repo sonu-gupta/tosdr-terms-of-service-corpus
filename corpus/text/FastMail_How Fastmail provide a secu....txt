@@ -1,0 +1,181 @@
+
+         Fastmail Email on your side Why Fastmail? Powerful features Privacy and security Our values Great for business Our company Pricing News Get Support Log in Sign up How Fastmail provides a secure service We have a great responsibility at Fastmail to keep your email secure.
+We continually review our code and processes for potential vulnerabilities and we take new measures wherever possible to further secure your data.
+On this page we list some of the core things we do to maintain security.
+
+Customer data
+Secure access to mail
+Encrypted sending/receiving
+Content security policy
+Necessary communications
+Software updates
+Software system security
+Image loading privacy
+Bug bounty
+Physical location security
+On-disk encryption
+Staff access to your data
+Password encryption
+Transfer of data with third parties
+Destruction of data
+Limitations
+
+
+ Customer data We know that email is free-form, and could contain all kinds of information about our customers and other people they correspond with, including data of the most confidential sort.
+Due to the nature of our business (hosting and forwarding free-form emails), our systems process large amounts of potentially highly confidential data.
+For this reason, we treat all personal data belonging to our customers as Customer Confidential (âyour dataâ), which is the highest level of protection within our data modeling.
+To provide the services we offer, it is necessary for our computer systems to process unencrypted and unobfuscated data (for example: to build the search indexes which allow fast message retrieval, or to push alarm notifications for calendar events).
+
+ Secure access to mail We mandate all connections to our servers use Transport Layer Security (TLS) and Secure Sockets Layer (SSL) encryption, for all connections including webmail, the Fastmail official app, and IMAP/POP/SMTP email client access.
+This prevents eavesdropping, tampering, and message forgery on any communication between your computer or phone and our servers.
+We have full support for Perfect Forward Secrecy (PFS) with our encrypted connections, which ensures that even if we were somehow compromised in the future, no previous communication could be decrypted.
+All connections in supporting browsers have been protected by PFS since July 2012.
+A Strict Transport Security header is sent with all of our webpages.
+This tells all modern browsers to only connect to us over an encrypted connection, even if you have a bookmark, click a link or type a URL to an insecure page at our site.
+
+ Encrypted sending/receiving Whenever you send a message to someone outside of Fastmail we have to send it across the open internet.
+Since January 2010 we have fully encrypted all connections between us and the receiving server whenever the other server supports it, preventing passive eavesdropping, tampering or forgery.
+Similarly, we have accepted encrypted connections for mail delivery 
+to
+ our servers since April 2009, and we encourage all servers connecting to us to use it.
+
+ Content security policy Within our web interface we set a Content Security Policy header, which ensures that only scripts we've written can be run.
+This means that a potentially-malicious email that somehow managed to slip through our filters would still not be able to do anything dangerous.
+We use isolated domains to separate out untrusted content from the pages we generate.
+For example, when you open an attachment, it opens at fastmailusercontent.com rather than fastmail.com.
+Thanks to browser cross-origin security restrictions, this means that a rogue attachment can never access any of your data.
+Similarly, user websites are hosted on subdomains of user.fm, keeping them isolated from our site as well.
+
+ We only allow necessary communications Many unexpected forms of attack come from failing to close potential vulnerabilities, including database port access, SSH port access, and so forth.
+We use kernel-level firewalling to only allow connections to the services provided by each machine.
+
+ We keep track of software updates Software contains bugs.
+We track the software we use and any security vulnerabilities, and upgrade as soon as an issue is reported.
+
+ We use software systems that take security seriously We use Debian and Joyent SmartOS as our operating systems, because they both take their security responsibilities and updates seriously.
+In most cases, an update for a security problem will be available within hours of the original report.
+
+ Privacy: Image loading When accessing your email through our web interface, we protect your privacy by fetching all referenced images through our servers.
+This prevents the owner of the image from being sent additional information about you such as your internet address (which reveals your rough location), browser information and sometimes even tracking cookies.
+
+ Bug bounty We run a tight ship, but we're only human and humans can make mistakes.
+That's why we run a bug bounty program to encourage responsible disclosure of security issues and to reward security researchers who take the time to help us keep Fastmail safe.
+
+ Physical location security Our main servers are located at New York Internet (NYI) in Bridgewater, New Jersey, USA.
+Their facility is a high security, video monitored location.
+with backup power, air conditioning, fire systems, 24x7x365 monitoring, and onsite technical support.
+As their website notes:
+
+Data Center security is a top priority for NYI.
+We have taken extreme care to install the utmost security so that our customers know that their data is safe.
+Our Data Centers are located at heavily protected buildings where the security personnel are on guard 24x7.
+Other security features include biometric fingerprint readers on door locks, strategically placed cameras and motion detection, [and] doors equipped with alarm systems.
+
+NYI does a whole lot more to ensure security, including their hardware, best-practices, and routines.
+You can read all about them on their homepage.
+Our secondary sites at NYI's Seattle location has equivalent physical security.
+We use âremote handsâ staff from the datacentres to perform routine maintenance on our servers (e.g.
+replacing hard disks or installing new machines), however they do not have logins or the ability to access your data.
+Our datacentre vendors provide us with power, cooling and network links (public internet) but do not manage or have permitted access to our internal network between servers.
+All public internet facing machines have a firewall.
+All data transfer between our datacentres is over an encrypted VPN (virtual private network) managed by us.
+
+ On-disk encryption All your data is stored on encrypted disk volumes, including backups.
+We believe this level of protection strikes the correct balance between confidentiality and availability.
+At this stage, some system log data (which could contain personal information) is temporarily stored on un-encrypted disks on individual servers, however we have an ongoing project to bring encryption to all system logging as well.
+
+ Staff access to your data We limit staff access to customer data as stringently as their roles allow.
+Due to the nature of their jobs, it is necessary for our operations staff to have access to the systems where customer data is processed.
+The staff who do require access to production servers for their jobs are aware of their responsibility to protect the confidentiality of your data, and only access that data where itâs required either to provide customer support or for operational necessity.
+Where possible, our systems are designed to allow our support and operational staff to perform their duties without being exposed to your data.
+Where possible, obfuscated data is presented (like to debug display problems).
+Where possible, your explicit consent is sought if viewing unobfuscated data is necessary.
+Due to the nature of their jobs, it may be necessary for our security and fraud staff to have access to deobfuscated customer data or other personal information.
+Sometimes we anonymize your information, for example creating a testcase that reproduces a bug found with your data, by making a case which will trigger the same bug without containing any confidential or personally identifying information.
+
+ Password encryption Where you are using a password to access our systems, we store that password in a non-reversible encryption scheme using current best practices.
+Where we are storing a password used to access other systems on your behalf (for example, POP links and calendar links) the password is stored with reversible encryption using a key which is stored separately from the encrypted data.
+
+ Transfer of confidential data with third parties Fastmailâs value proposition is âservice in exchange for moneyâ.
+We donât ever sell or monetize confidential data or even âaggregate customer dataâ.
+As part of our commitment to open source, we do sometimes share statistical data (for example the average size of emails, or the percentage of email traffic which is encrypted or in written particular languages) which is useful in the broader email community to help drive software design.
+We also share spam reports and spam intelligence with our partner organisations who provide us with spam feeds.
+We use third party hosted services for bug tracking, support, exception alerting and communications.
+While we donât send bulk data through any of these services, small pieces of your data may wind up in core dumps, in support ticket updates, inside bug descriptions (we obfuscate where possible, but sometimes the raw data is needed) or in chat messages where colleagues share snapshots of what theyâre looking at.
+
+ Destruction of data Some of the features of our products are designed specifically around not losing data, so while you want us to retain your data, it is replicated to multiple systems and backed up.
+When you request destruction of your data by deleting specific items, or closing your account, the data is removed in a time-delayed manner.
+This both allows you to change your mind (undo, or restore from backup), and allows for the possibility that if your account is compromised and the attacker tries to delete everything, we can recover the data.
+We also collect some data which is personally identifiable as a side effect of the system monitoring and logging which we require for our operational stability.
+
+Destruction of system logs
+
+System logs are retained for 180 days before being deleted.
+We have a legitimate interest in having those logs available both to ensure the reliable operation of our systems, and to provide evidence of activity when users report unexpected states in their account.
+
+Destruction of deleted emails, contacts, and calendars
+
+Emails, contacts, calendars, and other personal data including notes that have been deleted in Fastmail or Pobox Mailstore are kept in backups for between 7 and 14 days after deletion.
+(They are wiped on Sunday the week after deletion.)
+
+Destruction of backup and search index data
+
+The backup copies of email and search indexes are pruned on an âas-neededâ basis based on the ratio of space that would saved by re-compacting them.
+At the moment there is no guarantee that a particular message will be purged on a timeline, however our support can perform an immediate prune for a particular account on request.
+
+Destruction of data after account closure
+
+After an account is terminated, data and backups are purged within a timeframe of between 37 days to 1 year after closure depending on how long the account was active for, and whether the account was explicitly closed or lapsed due to lack of payment.
+
+ Limitations While communication between your computer and our servers is encrypted, any email that you send to another server may have to pass over the internet in an unencrypted form (although we encrypt it wherever possible).
+The only way to ensure end-to-end security with email is to use email encryption software such as Pretty Good Privacy (PGP) or Secure/Multipurpose Internet mail Extensions (S/MIME).
+Both of these systems require the creation of certificates, run on your computer, and are attached to your email client to encrypt/decrypt messages.
+Providing secure end-to-end encryption via webmail is impossible.
+There are basically two options, both flawed:
+
+
+Keep a private key on the server and encrypt email on the server
+Although all traffic between the server and client may be encrypted via TLS, and then the email itself is encrypted on the server before being sent to the world, the unencrypted email is still available on the server between the TLS and encryption stages.
+
+
+Use Java or JavaScript to encrypt email in the browser
+Because the script has to run on the user's browser, you could look at the code to see it's secure.
+In reality, no one would ever do that.
+In addition, this method can't prevent someone using malicious scripts to send encrypted messages back to the server, as well as the encryption key, for the server to decrypt.
+
+
+Famously, Hushmail, which allows you to use both of these options, admitted that the U.S.
+government compelled them to turn over the unencrypted emails of a number of users.
+Their contention on how secure they are then relates to what it requires to get a court order.
+In a Wired article, Hushmail stated:
+
+All Hushmail users agree to our terms of service, which state that Hushmail is not to be used for illegal activity.
+However, when using Hushmail, users can be assured that no access to data, including server logs, etc., will be granted without a specific court order.
+
+A similar requirement applies to Fastmail, as our Privacy Policy states.
+We won't release any data without the required legal authorisation from an Australian court.
+As an Australian company, we do not respond to US court orders. Help &amp.
+Support The Fastmail Service Security Fastmail Why Fastmail 
+Powerful features
+Privacy and security
+Our values
+Great for business
+Pricing
+ Company 
+About us
+Media
+News
+Jobs
+ Get Support 
+Help center
+Contact us
+System status
+Download the app
+Referral program
+Report a security issue
+
+
+Download the app on the App Store 
+Download the app on Google Play 
+ Privacy policy Terms of service Facebook Twitter Linkedin 
+      

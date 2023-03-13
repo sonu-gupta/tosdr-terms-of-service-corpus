@@ -1,0 +1,23 @@
+
+         Terms of Service Updated July 7, 2020: Added more info to Allowed Usage/Sharing This is a one-man operation run by me, Tambe Barsbay.
+These terms are written by me, and not a team of lawyers.
+I've tried to keep it as simple and easy to understand as possible but if you have any questions please email support@blockerdns.com.
+ Allowed Usage/SharingSubscriptionsFraudulent/Fake AccountsPrivacy Policy 
+ Allowed Usage/Sharing We keep basic track of how often requests are made, and the protocol that was used.
+Depending on the protocol, incoming requests are associated to a specific user in one of two ways.
+For DoT and DoH, requests arrive through unique private URLs that are assigned to users when they sign up.
+For Do53, since requests don't arrive through unique private URLs, they are associated to a user by the source IP address, a registered list of which is customizable by the user on their account page.
+As for why we keep track of how often requests are made, it's solely for the purpose of preventing abuse, with abuse being defined as the user freely disseminating their unique URL or registering IP addresses to their account from the entire internet so that others may use the service without signing up legitimately.
+Abuse of our service will be assumed if the frequency of communication with our servers is very significantly higher than one would expect for a typical account.
+But having said that, usage of blockerDNS's service isn't tied to any particular device, and non-business users are encouraged to share their subscription with family and maybe even a friend or two.
+
+Subscriptions Monthly subscriptions can be canceled at any time and for any reasonâby the user or by blockerDNS.
+The service will remain active and usable for the remainder of the billing period, if there is one.
+There are no prorated refunds.
+
+Fraudulent/Fake Accounts Accountsâboth free and premiumâthat have never had activity or usage after their initial sign up will be closed and deleted after an appropriate period of time, as determined by blockerDNS.
+Additionally, any account exhibiting fraudulent behavior may be canceled at any time.
+
+Privacy Policy You can view our privacy policy here.
+
+

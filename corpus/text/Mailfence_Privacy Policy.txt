@@ -1,0 +1,63 @@
+
+
+ Mailfence 
+ Privacy policy 
+ We want to make our approach clear and transparent.So we have tried to write this text in a language that is easy to understand, without using technical or legalistic lingo.
+Surveillance and law enforcement 
+We do not participate nor co-operate with any kind of private or government surveillance or monitoring service.
+Note that Belgium does not have any equivalent to the US NSL (National Security Letter) and gag order, so we cannot be forced to do something without being allowed to disclose it.
+We do not co-operate with the NSA, we do not offer any authority shadow access to our Service.
+We also do not directly disclose any information about our users to law enforcement agencies from outside Belgium and it would be illegal for us to do so.
+Check our transparency report along with an up-to-date warrant canary.
+
+
+What information do we collect ? 
+We collect IP addresses, message-ID's, sender and recipient addresses, subjects, browser versions, countries and timestamps.
+When registering, you will be asked to enter an external email address.
+We send your activation code to this address and use it to communicate with you in case you are unable to access your account.
+Incoming and outgoing messages are automatically analysed by our anti-spam, anti-virus and anti-abuse checking routines.
+We implement a local instance of Matomo, an open source analytics tool, on the commercial website only (home, registration and subscription pages included) and not within the application itself.
+When you pay by credit card we store some of its details.
+Team members have signed a confidentiality agreement to protect collected data.
+
+
+What do we use your information for ? The information we collect from you may be used in any of the following ways :
+To perform technical checks;
+To fulfill legal requests;
+To deliver customer service
+To process payment transactions.
+
+
+Do we use cookies ? Yes.
+Our cookies are "authentication cookies" and not "tracking cookies": we do not track you after your session on our servers.
+More info about cookie types can be found here.
+Do we disclose any information to outside parties ? No.
+We do not sell, trade or otherwise transfer to outside parties your personally identifiable information except when forced by Belgian law (see paragraph about Surveillance and law enforcement).
+Data mining and profiling  We do not use Google Analytics trackers.
+&nbsp.
+We do not sell or give information about our users to any third parties.
+To make searching fast, we build an index of your messages, calendar, contacts and documents (this is a table, similar to those you might find at the end of a reference book).
+No information from this or any other activity is used to compile any kind of profile of our users.
+Data retention We retain backups of deleted messages and documents for 45 days.
+This is for the purpose of restoring data in case of accidental deletion by users.
+After 45 days, data will be permanently deleted from all our systems.
+Account deletion Should you close your account, all data will be permanently deleted 30 days after the legal expiration date (i.e.
+the Belgian law imposes 365 days after account closing).
+This means that your data will be PERMANENTLY deleted, as opposed to the practice of some major cloud companies which are unable to delete data.
+We do not delete your account before the legal expiration date because users often ask to reopen their account after having closed it themselves.
+Your consent By using our site, you consent to this privacy policy and our Terms of Use.
+Changes to our privacy policy If we decide to change our privacy policy, we will notify you of the changes.
+Jurisdiction Mailfence is a service provided by the Belgian company ContactOffice Group SA and as such it is subject to Belgian law.
+Belgium has strong privacy laws.
+
+Last updated on June 21, 2017. Home English FranÃ§ais EspaÃ±ol PortuguÃªs Italiano Deutsch Nederlands Sverige Ð ÑÑÑÐºÐ¸Ð¹ Turkce Privacy Private email Privacy policy Threat model Security Secure email Encryption Two-factor authentication About Terms of use Transparency Report Company Press More Support Documentation FAQ Pricing Mailfence for Business Contact Blog 
+
+
+
+
+
+
+
+
+ Mailfenceâ¢ Â©2020 - Rue Middelbourg 64B - B-1170 Brussels - Belgium - Europe 
+      

@@ -1,0 +1,81 @@
+
+         Cookies and customer tracking This page was printed on Apr 05, 2021.
+For the current version, visit https://help.shopify.com/en/manual/your-account/privacy/cookies.
+Countries and regions around the world have introduced regulations that dictate how businesses collect, handle, and share their customerâs data.
+Collecting customer data, especially cookie data and other data related to browsing activity, is essential to merchants looking for insights on their customerâs behaviour.
+This data also helps merchants advertise to customers on third-party marketing platforms.
+To help merchants comply with these regulations and build trust with their customers, Shopify provides a variety of apps, features, and developers tools.
+You can install the Customer Privacy Banner app created by Shopify, or browse the Shopify App Store for third-party privacy banners.
+When making a decision about what your business needs to do to comply with various privacy regulations itâs important to consult with your lawyer. On this page 
+Data sharing with ad networks
+Tracking European customers and GDPR compliance
+Third-party sale of California customer data and CCPA compliance
+Opting out of targeted ads
+ Data sharing with ad networks
+To improve your marketing campaigns, your customer data is used to optimize and personalize the ads targeting existing and prospective customers.
+Ad networks require personal information about your customers to match those same customers in their network.
+This personal information might include email addresses, phone numbers, IP addresses, names, mailing addresses, and third-party tracking cookies.
+If any of this personal information matches users in the ad network's database, then ads can be targeted towards those users, or that information can be used for marketing attribution to determine when a campaign should take credit for a sale.
+When you share your customer's personal information, make sure that you do so with a marketing partner that you trust.
+It's important to tell your customers how you share data, and to decide what type of data, or how much data, you want to track and share.
+Make sure that your privacy policy is up to date to provide this information to your customers.
+Some partners or channels, such as Facebook, let you to customize the type and amount of data you track and share.
+Tracking European customers and GDPR compliance
+Under the European Unionâs General Data Protection Regulation (GDPR), European customers visiting your online store must give consent before they can be tracked.
+The most common way of tracking customers to your online store is using browser cookies.
+These browser cookies are referred to as non-essential cookies and must be limited in use until consent is given by the customer.
+Limit tracking for visitors from Europe
+To limit the tracking of European customers visiting your online store, as determined by their IP address, you can enable Limit tracking for customers in Europe in your Shopify store settings.
+When enabled, this feature limits Shopifyâs tracking of online store customers and notifies any third-party apps that you have installed in your store to limit their own tracking.
+Steps: 
+
+In your Shopify admin, click Online Store.
+
+
+Click Preferences &gt.
+Customer privacy.
+
+
+Click Limit tracking for customers in Europe.
+
+ Caution 
+Limiting non-essential cookie tracking impacts the accuracy of your online store analytics, marketing attribution, and your ability to do retargeting. How Shopify limits tracking
+Shopify limits customer tracking by downgrading its own non-essential cookies, outlined in our Cookie Policy, to session cookies.
+Session cookies are generally deleted when the customer closes their browser.
+If a customer consents to tracking, then the non-essential cookies are upgraded to persistent cookies, which are not deleted when the customer closes their browser.
+How Shopify limits third-party tracking
+Because Shopify canât control if a third-party app or script tracks a customer, we provide third parties with a consent tracking API for them to integrate with.
+The consent tracking API tells the third party if a customer has provided consent to be tracked.
+If Limit tracking for customers in Europe is not enabled, then third parties using the consent tracking API are told that a European customer can be tracked unless consent is explicitly revoked.
+Review the terms of service and privacy policies of third-party apps and scripts that youâre working with to determine how they are respecting customer consent.
+Getting customer tracking consent
+Gathering customer consent lets you track customers in countries and regions that require consent before tracking.
+The most common way of gathering this consent is through privacy banners or cookie banners.
+These banners often appear at the bottom of websites and prompt the user with the option to accept non-essential cookies for analytics and marketing.
+If you're looking to implement your own privacy banner, or use a third-party cookie banner, then verify that the banner uses Shopifyâs consent tracking API for reading and collecting the customerâs consent.
+Without the consent tracking API, Shopify non-essential cookies will continue to be limited, which affects your online store's analytics and marketing performance.
+Third-party sale of California customer data and CCPA compliance
+Under the California Consumer Privacy Act (CCPA), customers in California should be able to opt-out of the sale of their data.
+If you don't provide these customers with an option to opt-out, then they should be automatically exempt from the sale of their data.
+Before deciding if this is something you should be doing, you should review the CCPA thresholds and talk to your lawyer to determine if your business is affected by this regulation.
+Limit the third-party sale of your California customersâ data
+To limit the third-party sale of California customersâ data, you can enable Limit the third-party sale of your California customersâ data in your Shopify store settings.
+When enabled, this feature informs third parties that use the consent tracking API to not sell your California customersâ data if they are doing so.
+Steps: 
+
+In your Shopify admin, click Online Store.
+
+
+Click Preferences &gt.
+Customer privacy.
+
+
+Click Limit the third-party sale of your California customersâ data.
+
+
+When deciding to share your customerâs data with third parties note that Shopify can't control how the data is used by third parties, and can only inform them how data should be handled.
+You should review the privacy policies of third-party apps and scripts that youâre working with and consult your lawyer.
+Shopify never sells your data as the term is defined by the CCPA.
+For more information, refer to Shopify's position on sale of personal information. Caution 
+Limiting the third-party sale of customer data can impact your ability to retarget your customers using third-party marketing platforms. Opting out of targeted ads
+Anyone can opt-out of targeted ads served by specific third-party vendors by visiting the Digital Advertising Allianceâs Opt-Out page or the Network Advertising Initiativeâs Opt-Out page.

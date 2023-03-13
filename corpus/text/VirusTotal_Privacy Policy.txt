@@ -1,0 +1,268 @@
+
+         Back Home 
+ How it works 
+ Terms of Service 
+ Privacy Policy 
+ Join Us 
+
+
+ VirusTotal 
+ About us 
+Privacy Policy
+ Contact us Articles in this section 
+ How it works 
+ Terms of Service 
+ Privacy Policy 
+ Join Us 
+ Privacy Policy 
+Last Updated December 23rd, 2019
+
+Skip and go directly to Your Rights
+VirusTotal is keenly aware of the trust users place in us and our responsibility to protect peopleâs privacy.
+As part of this responsibility, we publish this Privacy Policy to explain the information we may collect when you use our products and services (collectively the âServiceâ), why we collect the information we do, when and how we may share it, and how we use it to improve your experience, protect members of the public, partners, and security-minded organizations that contribute to the Service (collectively, the âCommunityâ) in support of stronger global cybersecurity.
+This Privacy Policy also details the rights you may have in relation to any information that may be considered personal information.
+Any reference to âyouâ or âyourâ means you as a user of the Service.
+Any reference to âweâ, âusâ, âourâ or âVirusTotalâ is to Chronicle Security Ireland Limited (âCISLâ), an Irish Limited Company with registered number 507502, the company that owns VirusTotal, including virustotal.com (the âSiteâ).
+CISL is owned by Chronicle LLC, a limited liability company incorporated in the United States (âChronicleâ)
+PLEASE READ THIS PRIVACY POLICY CAREFULLY.
+BY ACCESSING OR USING THE SERVICE, YOUR PERSONAL INFORMATION MAY BE USED IN THE WAYS DESCRIBED BELOW.
+IF YOU DO NOT WISH FOR YOUR INFORMATION TO BE USED IN THESE WAYS, PLEASE DO NOT ACCESS THE SITE OR USE THE SERVICE.
+ 
+
+Information we collect and when we collect it:
+
+We collect information, including personal information, from visitors to the Site, as well as our registered users, customers and partners.
+We also collect certain information when anyone uses the Site.
+We collect information about the use of the Site and interaction with the Service, and information extracted from any information, text, graphics, URLs, files, audio, video, photos or other materials uploaded, downloaded or appearing on the Service ("Samples") or submitted through the Service.
+
+Specifically we may collect information:
+
+If you contact us: To the extent that you contact us with a question, request information from us, submit information to us via email or provide information through webforms offered on the Site, we will receive any personal information you elect to submit through these portals.
+If you pay us: To the extent you purchase any premium services offered by VirusTotal, we may collect or receive credit card data and other payment information from you and or our payment processor.
+If you register an account and participate in the community: If you elect to register with the Service in order to post comments, vote and otherwise engage with Samples and members of the Community, you must submit a name, an email address and create a unique username and password.
+We will use this registration information and information about your public participation in the Service (such as profile information, comments, mentions, and votes) to monitor and maintain the safety of the Community.
+If you submit Samples to the  Service: If you submit Samples to the Service, we will collect all of the information in the Sample itself and information about the act of submitting it.
+We will also generate a non-personal identifier that we associate with the Sample.
+We share this non-personal identifier with the Community in a ciphered form.
+Submitter ciphers enable the Community to better detect patterns in how malware is submitted and distributed through the Service and make it more difficult for threat actors to use our Service to improve or hide their malware from detection.
+To the extent you elect to contribute Samples to the Community, our Terms of Service  require you to be the original owner of the Sample or to have all necessary rights and permissions to information in the Sample, including any personal information contained in a Word document or PDF, for example.
+Other Samples, such as executables and other packaged software, may contain metadata that includes personal information that could relate to someone other than you.
+About your devices: We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information) through the use of Google Analytics.
+Similarly, for every Sample submitted to, and requested from, the Service we will log the User-Agent (Browser and Browser version used as well as Operating System) and IP address of the submitter.
+These data points are used to provide analytics that allow us to optimize the Service based on actual use patterns and help us detect abuse (such as DDoS and other attacks).
+User-Agent data are only analysed and used at an aggregate level for statistical purposes and are not tied to unique users or individuals.
+Automatically: When you use the Service and otherwise ingest information provided by VirusTotal, we may automatically collect and store certain information about your interaction with the Service in server logs.
+This may include: details of how you used our Service.
+Internet protocol address.
+device event information such as crashes, system activity, hardware settings, browser type, standard HTTP request headers, including but not limited to User-Agent, referral URL, language preference, date and time, and cookies that may uniquely identify your browser or your VirusTotal account.
+Using cookies and local storage: We and our partners use various technologies to collect and store information when you visit the website, and this may include sending one or more cookies or randomly generated identifiers to your device.
+A cookie is a small file containing a string of characters that is stored on your computer when you visit a website.
+Cookies may store user preferences and other information.
+We use cookies to remember user preferences, such as language, provide users with customized experiences based on account type, and to prevent abuse.
+We also use third-party analytics tools (including Google Analytics) to assist us with analysing and improving our services.
+The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies.
+However, some of the features of our Site or aspects of the Service may not function properly without cookies.
+We may also collect and store information using other mechanisms such as browser web storage (including HTML5) and application data caches.
+If you use our browser extension: If you access the Services through a VirusTotal browser extension, we will collect information about how domain names you visit are resolved.
+Passive Domain Name System Information (âpDNSâ) data consists of domain names that your browser requests, along with the IP address resolutions for such domain names.
+We will make this pDNS data available through the Service to enable members of the Community to better detect malicious domains that might be hosted on a server (contacted on a given IP address) controlled by an attacker.
+Collected pDNS data is distinct from browsing history and is never tied to a user or used to identify an individual.
+Existing users of a VirusTotal extension will need to opt-in to share pDNS data with the Community.
+Users downloading the VT extension for the first time may opt-out of this collection in the  extensionâs settings.
+
+
+How we use information we collect
+
+We use the information we collect to administer registered user, customer and partner accounts, respond to requests for support or information about our Service or affiliates, to allow participation in the Community, and to perform contracts applicable to customers and partners.
+ We also use information we collect to provide, maintain, protect and improve the Service, to develop new features of the Service, and to protect the Community and our malware-fighting mission.
+This includes using Samples and other collected information for any of the following activities:
+
+Sharing Samples with antivirus, scanning, sandbox and other security partners in order to generate requested malware verdicts for the user who uploaded the same.
+Making Samples available to verified security professionals, companies and security researchers many of whom are VirusTotal customers or partners, for threat detection and research.
+Further analyzing and scanning Samples submitted by the Community to generate useful information and corresponding security reports and further publishing and updating the reports to the Community and making such material available through the Service - including Comments, mentions and trusted ratings.
+Adding Samples to our database of known or potential malware (the VirusTotal âCorpusâ), to continue to advance the security industryâs understanding of online threats.
+Developing new features to improve or refine the Service.
+Developing and providing information to the Community.
+Communicating with our users and third party contacts.
+Creating and administering your user, trial, customer or partner account.
+Understanding and improving how our users use and interact with the Service, including carrying out analytics.
+Protecting and securing the Site, including the networks and systems through which we provide the Service.
+Processing payments for premium services offered by VirusTotal.
+Complying with applicable laws and regulations and other business-related purposes, including negotiating, concluding and performing contracts, managing accounts and records, supporting our corporate social responsibility activities, and conducting legal, regulatory and internal investigations.
+
+When you contact VirusTotal or Chronicle about the Service or premium services, we may keep a record of your communication to help us resolve issues and to safeguard you, the Community and the Service against fraud and abuse.
+We may use your email address to inform you about the Service if you have inquired about aspects of the Service, have otherwise requested to be contacted, or otherwise agreed to hear from us.
+
+With your permission and otherwise at your request, Chronicle may also contact you with marketing, promotional materials and other personalized information that may be of interest to you.
+Further information about how Chronicle uses your personal information for this purpose can be found in the Chronicle Privacy Policy.
+
+If you consent to commercial e-mail messages from us or Chronicle , you can unsubscribe through the email directly or by contacting us at any time.
+We may also send you administrative messages related to your account or use of the Services.
+You cannot opt-out of administrative messages.
+
+The legal basis we rely on to process personal information
+
+In order to comply with applicable data protection and privacy laws, we are required to set out the legal basis for the processing of your personal information.
+For the purposes set out above, the legal basis for processing of your personal information will typically be one of the following:
+
+With your consent, for example if you contact us and ask for more information about the Service, request a trial or indicate that you wish to receive marketing updates about the Service,  Chronicle or other Chronicle affiliates.
+To perform or take steps to enter into a contract, for example to evalute a potential customer for premium services.
+To comply with legal obligations applicable to us, Chronicle or other Chronicle affiliates, or based on our legitimate interests, or the legitimate interests of our third parties, as outlined below.
+
+
+Our legitimate interests: As a provider of threat detection services and the operator of a platform designed to share knowledge about malware and other security vulnerabilities to better protect the internet and our collective data assets from exploitation and compromise, we canât evaluate or monitor what sorts of information are contained in the Samples uploaded by the Community.
+By establishing rules for uploads to prevent the upload of Samples that could contain personal information, either in the resulting analysis metadata or in the upload itself (e.g.
+a PDF document), we would fail to detect, analyse and prevent threats, and the Service would cease to operate effectively.
+ Further, while we do not encourage the contribution of Samples that may contain personal information, we are aware that malware can take any form, and personal information could be included in certain Samples submitted to the Service.
+Accordingly, we must process all information, including any personal information which could be received in the Samples submitted to the Corpus.
+We must also share Samples with our security partners in order to receive verdicts about the maliciousness of contributed Samples and with customers to allow them to understand malware in their particular threat environments.
+The processing and sharing of certain unmoderated information, which may contain incidental personal information, is essential for the Service to function.
+By unequivocally accepting and distributing all Samples, we take steps to ensure that malware will be more broadly and quickly detected across the globe through the efforts of those participating in the Community.
+The larger our collection of unmoderated Samples and the more security partners and contributing members of the Community, the greater the collective threat-detection ability of the Service and the more potential it has to continue to make the internet and the connected tools that work across it (such as your bank, your email and the social platforms you participate in) safer.
+
+Measures to offset any potential harm to private individuals that could be adversely affected by our incidental processing of personal information:  We have implemented the following measures and built various tools and internal processes to protect individuals in conjunction with the way that the Service may process personal information:
+
+Our Terms of Service require our users to attest that they are the original owner of, or have all necessary rights and permissions to information (including any personal information) contained in, any Sample uploaded to the Service and clarify that the purpose of the userâs submission is to share the Sample with the Community.
+We prompt users to verify a Sample before it is submitted to ensure it is intended and suitable for upload as outlined above.
+We adhere to policies to investigate any Samples which have been identified to us as containing personal information and take steps to remediate in cases where Samples have been confirmed to contain personal or other information where the risk to the Community is not outweighed by the potential harm to an individual or an entity.
+We technically and operationally secure our Corpus using appropriate techniques and tools.
+We take steps to anonymize or partially anonymize any personal information contained in publicly available metadata.
+We do not allow the public to search for personal information, or to download or otherwise access Samples within, the Corpus (users can only search by a hash that corresponds to a specific Sample).
+
+
+Our partners and customers may have access to the raw data contained in Samples uploaded to the Service.
+ This access is necessary to allow them, in the case of our partners who are antivirus companies, to provide malware verdicts corresponding to uploaded Samples requested by the user, and for all of them, to advance the legitimate interest of performing advanced security analytics on all Samples, including those which may contain personal information, to advance the security threat industry and protect the Community as a whole.
+Please see Your Rights below for the rights you have if you believe we hold personal information about you.
+
+Information we share
+
+We share the raw data underlying Samples uploaded to the Service as well as information relating to the submitter (ciphered ID, city and country) of the Sample, as follows:
+
+With our security partners: When you upload a Sample to VirusTotal in order to receive a report about the potential maliciousness of its contents, we store it in the Corpus and share it with our partners in the anti-malware and security industry.
+Partners that participate in VirusTotal are bound by contract to only use the Samples for internal security purposes in compliance with our Terms of Service to detect malicious code and to improve their antivirus engines.
+All partners receive Samples that their antivirus engines did not detect as potentially harmful if the same Sample  was detected as malicious by at least one other partnerâs antivirus engine.
+This information sharing helps correct potential vulnerabilities across the security industry.
+With our customers: Our customers may be security researchers, academic institutions engaged in threat intelligence, governmental bodies, or corporate entities with advanced security functions.
+Samples submitted to or shared within the Service may also be included in premium services offered to a select group of security actors all of whom we have verified are engaged in active threat-detection and prevention activities and who are collectively committed to contributing to an overall safer online environment and improved protection of all end-users and their data.
+ Participants may include a broad range of cybersecurity professionals focused on product, service, and system security and security products and services, all of whom are contractually bound to use the Service and any of its contents only for internal security purposes in compliance with our Terms of Service.
+
+We may also share your information in the following circumstances:
+
+With the Community.
+If you register for an account and participate in the Community, your user profile, including name, nickname and any information you choose to add to your profile, such as profile picture, will be publicly available to the Community.
+ Your activity within the Community, including comments on Samples uploaded to VirusTotal, users who mention you in posts and users you have âtrustedâ or who have âtrustedâ you, will also be included as part of your public profile.
+
+With our affiliates.
+If you have requested information about our Services or the services and products offered by Chronicle or other affiliates or agreed to receive promotional material from Chronicle or its affiliates, we will share your personal information with those companies for that purpose.
+
+
+With third party processors.
+We may provide personal information to Chronicle and other affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security terms.
+
+For legal reasons.
+We will share personal information with affiliates and companies, organizations or individuals outside of VirusTotal if we believe that access, use, preservation or disclosure of the information is reasonably necessary to:
+
+Meet any applicable law, regulation, legal process or enforceable governmental request.
+Enforce applicable Terms of Service, including investigation of potential violations.
+Detect, prevent, or otherwise address fraud, security or technical issues, or protect against harm to the rights, property or safety of VirusTotal, our affiliates, users or the public as required or permitted by law.
+
+
+In the event of a merger, acquisition or asset sale.
+We may disclose your personal information to the prospective seller or buyer of such business or assets.
+
+We may share aggregated, anonymized information publicly and with our customers and partners described above.
+For example, we may share aggregated information publicly to show statistical trends about the general use of our services.
+
+Data Transfers
+
+VirusTotal processes personal information on servers in many countries around the world.
+We may process, transfer and/or store your personal information on a server located outside the country where you live.
+For example, we may transfer your personal information to our affiliates in the United States and to other jurisdictions where the servers we use are based.
+Please note that the privacy protections in the United States and other jurisdictions may not be equivalent to those under your local law and the rights of governmental and law enforcement authorities to access your personal information may also differ.
+When we transfer your information abroad, VirusTotal will take all steps as required by applicable law to ensure that your personal information is adequately protected by appropriate safeguards such as standard contractual clauses.
+If you are located in the EU, you may contact us for further information about these safeguards.
+If you do not wish for your personal information to be transferred in the ways described in this Privacy Policy, please do not use our Service.
+
+Information security &amp.
+retention
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website, you are responsible for keeping this password confidential.
+We ask you not to share a password with anyone.
+ We take steps to ensure that the personal information that you provide is retained by VirusTotal for only as long as it is necessary for the purpose for which it was collected.
+For users of the Community, please note that if you delete your account, comments you make about Samples or other materials in the Service may be retained to protect the security and integrity of the Community as a whole.
+Your comments, however, will not be attributed to you.
+We use appropriate technical and organisational measures to protect the personal information that we collect and process about you.
+The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information.
+Your Rights
+We will let you know if we plan to process your personal information for marketing purposes when we collect it.
+You can change your mind at any time by contacting us, by opting out in the body of any marketing email you may have subscribed to, or by specifying your preferences in your account profile.
+You may have certain rights regarding your personal information, including the right to access, correct, update, restrict processing, and object to processing your personal information.
+You may also have a right to portability of your information and to have your information erased.
+These rights will vary depending on your locality, and we will handle any request in accordance with applicable law.
+To exercise any of these rights concerning your information, please contact us.
+In some cases we will need you to provide further details so that we can identify you.
+If you have a VirusTotal account, you may be able to make changes to correct your personal information by logging into your account.
+Please note that we may not act on a request to erase your personal information in certain situations.
+For example, where your personal information is contained in a Sample which is currently helping the Community combat security threats, we may reject your request when we have an overriding legitimate interest in preserving the Sample (specifically, the malware it embodies) in our Corpus.
+ We may also reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for example, requests concerning information residing on backup systems).
+For users in the EU, you may also have the right to complain to a Data Protection Authority if you think we have processed your personal information in a manner which is unlawful or violates your rights.
+ If you have such concerns, we request that you first contact us so that we can investigate, and hopefully resolve, your concerns directly.
+If the California Consumer Privacy Act (CCPA) applies to your information, we provide these disclosures and the contact information described in this Privacy Policy so you can exercise your rights to receive information about our data practices, as well as to request access to and deletion of your information.
+You can also read more about VirusTotalâs data retention in the âInformation security &amp.
+retentionâ section of this Privacy Policy.
+VirusTotal does not sell your personal information.
+We only share your information as described in the âInformation we shareâ section of this Privacy Policy.
+VirusTotal processes your information for the purposes described in this Privacy Policy, which include âbusiness purposesâ under the CCPA.
+These purposes include:
+
+Protecting against security threats, abuse, and illegal activity.
+VirusTotal uses and may disclose information to detect, prevent and respond to security incidents, and to protect against other malicious, deceptive, fraudulent, or illegal activity.
+For example, to protect our services, VirusTotal may receive or disclose information about IP addresses that malicious actors have compromised.
+Auditing and measurement.
+VirusTotal uses information for analytics and measurement to understand how our services are used, and may use information to fulfill obligations to our partners.
+
+Maintaining our services.
+VirusTotal uses information to ensure our services are working as intended, such as tracking outages or troubleshooting bugs and other issues that you report to us.
+
+Research and development.
+VirusTotal uses information to improve our services and to develop new products, features and technologies that benefit our users and the public.
+Use of service providers.
+VirusTotal shares information with service providers to perform services on our behalf, in compliance with our Privacy Policy and other appropriate confidentiality and security measures.
+For example, we may rely on service providers to help provide customer support.
+
+If you have additional questions or requests related to your rights under the CCPA, you can contact us.
+
+
+VirusTotal Extensions
+
+We make extensions of the Service available to add-on to browsers of several major platforms.
+Any extensions developed and provided by VirusTotal are designed to communicate with the Service and are subject to this Privacy Policy.
+Before installing any VirusTotal extension, please verify that the extension is published by VirusTotal, read its description, and ensure that you are comfortable with the extensionâs requested permissions.
+
+
+Links to third party websites
+
+Our Site may, from time to time, contain links to and from the websites of our affiliates, partners and members of the Community.
+If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.
+Please check these policies before you submit any personal information to these websites.
+
+Enforcement
+
+We will regularly review our compliance with this Privacy Policy.
+When we receive formal written complaints, we will contact the person who made the complaint to follow up.
+We work with the appropriate regulatory authorities, including local Data Protection Authorities, to resolve any complaints regarding the transfer of personal information that we cannot resolve with our users directly.
+
+Changes
+
+Any changes we may make to our Privacy Policy in the future will be posted on our Site.
+Where we make material changes to our Privacy Policy, we will take steps to notify the Community.
+See prior versions of our Privacy Policy.
+
+Contact Us
+
+If you have any questions, or need further information about our privacy practices, please get in touch using our contact us page.
+Using this page allows us to respond to your query as quickly and efficiently as possible.
+ If you reside in the EEA, Switzerland or the UK, if you have a concern about our processing of your personal information that we are unable to resolve, you have the right to lodge a complaint with your local Data Protection Authority.
+
+ Powered by Zendesk 
+      

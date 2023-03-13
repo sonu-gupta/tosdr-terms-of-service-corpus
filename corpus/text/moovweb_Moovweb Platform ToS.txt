@@ -1,0 +1,450 @@
+
+        
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M7KJT8W"
+height="0" width="0" style="display:none;visibility:hidden"></iframe&gt.
+PlatformXDNCDN-as-JavaScriptEdge ExperimentsBranch PreviewPerformance MonitorServerless JavaScriptTerms and ConditionsPricingResourcesCustomersResource LibraryBlogGuides &amp.
+TutorialsCompanyAboutJobsContact UsDocsContact SalesSignupContact Sales     LoginSign UpMoovweb Platform Terms of ServiceVersion Effective Date: August 2020This Moovweb Platform Terms of Service (âAgreementâ) is entered into by and between Moov Corporation (âMoovwebâ) and the entity or person (âCustomerâ or âyouâ) placing an order for or accessing the Service, Support, Professional Services or other related Moovweb services (âProductsâ).
+This Agreement consists of the terms and conditions set forth below and any Orders.
+If you are accessing or using the Products on behalf of your company, you represent that you are authorized to accept this Agreement on behalf of your company, and all references to âyouâ reference your company.
+The âEffective Dateâ of this Agreement is the date which is the earlier of (a) Customerâs initial access to the Products through any online provisioning, registration or order process or (b) the effective date of the first Order.
+This Agreement will govern Customerâs initial purchase on the Effective Date as well as any future purchases made by Customer that reference this Agreement.
+Moovweb may modify this Agreement from time to time as permitted in Section 20 (Modifications to Agreement).â
+
+
+By indicating your acceptance of this Agreement or accessing or using the Service, you are agreeing to be bound by the terms and conditions of this Agreement.
+Each party expressly agrees that this Agreement is legally binding upon it.
+
+
+1.    &nbsp.
+Overview. The Moovweb Service is designed to enable Customer to deploy, manage and optimize its websites as Projects through a single platform that integrates with Customerâs back-end systems and Third-Party Platforms.
+Customer may use the Developer Tools to implement and maintain a Project itself and/or may purchase Professional Services from Moovweb to implement and maintain a Project.
+
+2.    &nbsp.
+The Service.
+
+
+2.1.&nbsp.
+Permitted Use.
+During the Subscription Term, Customer may access and use the Service solely for its own benefit in accordance with the Documentation and this Agreement, including any scope of use restrictions in an Order.
+This includes the right to copy and use the Developer Tools to implement and maintain Projects as part of Customerâs authorized use of the Service.
+
+2.2.&nbsp.
+
+Users. Only Users may access or use the Service.
+Each User must keep its login credentials confidential and not share them with anyone else.
+Customer is responsible for its Usersâ compliance with this Agreement and actions taken through their accounts (excluding misuse of accounts caused by Moovwebâs breach of this Agreement).
+Customer will promptly notify Moovweb if it becomes aware of any compromise of its User login credentials.
+Moovweb uses User account information as described in its Privacy Policy.
+
+
+2.3.&nbsp.
+Restrictions.
+Customer will not (and will not permit anyone else to) do any of the following: (a) provide access to, distribute, sell or sublicense the Service to a third party, (b) use the Service on behalf of, or to provide any product or service to, third parties, (c) use the Service to develop a similar or competing product or service, (d) reverse engineer, decompile, disassemble, or seek to access the source code or non-public APIs to the Service, except to the extent expressly permitted by Law (and then only with prior notice to Moovweb), (e) modify or create derivative works of the Service or copy any element of the Service (other than authorized copies of the Developer Tools), (f) remove or obscure any proprietary notices in the Service, (g) publish benchmarks or performance information about the Service, (h) transmit any viruses or other harmful materials to the Service or (i) use the Service in violation of the AUP.
+
+
+3.     SLA and Support.
+During the Subscription Term, the Service will be subject to the SLA and Moovweb will provide Support in accordance with the Support Policy.
+
+4.    &nbsp.
+Customer Data.
+
+
+4.1.&nbsp.
+Service Data Use.
+Customer grants Moovweb the non-exclusive, worldwide right to use, copy, store, transmit, modify and create derivative works of Service Data to provide the Products to Customer under this Agreement.
+Customer acknowledges and agrees that, in connection with providing the Products, Moovweb may use Service Data internally for security, product improvement and support purposes.
+
+4.2.&nbsp.
+
+Collected Data Use.
+Customer grants Moovweb the non-exclusive worldwide right to copy and transmit Collected Data but only as necessary to provide the Products to Customer under this Agreement.
+Customer acknowledges and agrees that Moovweb is acting solely as a passive conduit to transmit Collected Data to Customer and that the Service is not designed (and Moovweb has no responsibility) for any caching or storage of Collected Data.
+
+
+4.3.&nbsp.
+Security.
+Moovweb uses reasonable technical and organizational measures designed to protect the Service and Customer Data as described in the Security Policy.
+
+4.4.&nbsp.
+Personal Data.
+Each party agrees to comply with the DPA.
+
+4.5. 
+Data Export.
+During the Subscription Term and for 30 days afterwards, Customer may export its Customer Data stored within the Service using the export features described in the Documentation.
+After this export period, Moovweb may delete any Customer Data stored within the Service in accordance with its standard schedule and procedures.
+
+5.    &nbsp.
+Customer Assets.
+Customer grants Moovweb the non-exclusive, worldwide right to use, copy, store, transmit, distribute, adapt, modify, translate, publicly perform and display, and create derivative works of any Customer Assets provided to Moovweb solely for purposes of providing the Products to Customer under this Agreement.
+As between the parties, Customer will be solely responsible for compliance with any third-party license or other terms and conditions of use for Customer Assets (including for Third-Party Platforms as further described in Section 9 (Third-Party Platforms).
+
+6.    &nbsp.
+Customer Obligations.
+
+
+
+6.1.&nbsp.
+
+Compliance.
+Customer is responsible for its Customer Data and Customer Assets, including their content and accuracy, and agrees to comply with Laws and the AUP in using the Service.
+Customer represents and warrants that (a) it has made all disclosures and has all rights, consents and permissions necessary to use its Customer Data and Customer Assets with the Service and grant Moovweb the rights in Sections 4.1 (Service Data Use), 4.2 (Collected Data Use) and 5 (Customer Assets), (b) the Customer Data and Customer Assets (and their use contemplated in this Agreement, including Customerâs collection and use of Collected Data) will not violate or infringe Laws, third-party rights (including intellectual property, publicity or privacy rights) or any terms or privacy policies that apply to the Customer Data or the Customer Assets, and (c) there are no pending or threatened claims pertaining to Customer Data or Customer Assets that could impact Customer or Moovweb under this Agreement (and Customer will promptly notify Moovweb in event of such a claim).
+
+6.2.&nbsp.
+
+Prohibited Uses.
+Customer must not use the Service with Prohibited Data or for High Risk Activities.
+Customer acknowledges that the Service is not intended to meet any legal obligations for these uses, including HIPAA requirements, and that Moovweb is not a Business Associate as defined under HIPAA. Notwithstanding anything else in this Agreement, Moovweb has no liability for Prohibited Data or use of the Service for High Risk Activities.
+Further, the Service is not designed to store or cache Collected Data, and Moovweb will have no responsibility for any Collected Data stored or cached as a result of modifications to or configuration of the Service by Customer.
+
+6.3.&nbsp.
+
+Configuration Requirements.
+Customer acknowledges and agrees that successful implementation and display of Projects is dependent upon the availability of Customer Assets and proper configuration of any Projects in accordance with the Documentation and any other configuration requirements provided to Customer by Moovweb.
+Notwithstanding anything to the contrary in this Agreement, Moovweb will have no responsibility or liability: (a) with respect to the availability or uptime of Customer Assets, (b) for any inability to implement or display a Project if the Customer Assets become unavailable to the Service or (c) for maintaining backup copies of Customer Assets.
+
+6.4.&nbsp.
+
+Customer Assets and Third-Party Rights.
+Customer must promptly address any notices of alleged infringement or violation of third-party rights by Customer Assets, including Digital Millennium Copyright Act (âDMCAâ) takedown requests, and must promptly notify Moovweb of any such notices applicable to its use of the Service.
+Notwithstanding the foregoing, without limiting Moovwebâs other rights and remedies in this Agreement, Moovweb reserves the right to respond to any DMCA notices it receives by taking any actions necessary to comply with applicable Laws.
+
+6.5.&nbsp.
+
+End Users.
+Customer is solely responsible for all interaction with the Project by its End Users, including obtaining all End User clearances, consents and approvals required by Laws and implementing terms that govern End User interaction with the Project.
+
+7.    &nbsp.
+Suspension of Service. Moovweb may suspend Customerâs access to the Service and related services (a) if Customer breaches Section 2.3 (Restrictions) or Section 6 (Customer Obligations), (b) if Customerâs account is 30 days or more overdue, (c) if Customerâs actions risk harm to other customers or the security, availability or integrity of the Service, (d) for suspected or actual violation of the AUP or (e) as required by Laws, court order or other governmental request.
+Moovweb may also suspend access to the Service or take down Customer Assets in response to notices of alleged infringement.
+Where practicable, Moovweb will use reasonable efforts to provide Customer with prior notice of the suspension.
+Once Customer resolves the issue requiring suspension, Moovweb will promptly restore Customerâs access to the Service in accordance with this Agreement.
+
+8.     Third-Party Platforms.
+Customer may choose to use the Service with Third-Party Platforms.
+Use of Third-Party Platforms is subject to Customerâs agreement with the relevant provider and not this Agreement.
+Moovweb does not control and has no liability for Third-Party Platforms, including their security, functionality, operation, availability or interoperability or how the Third-Party Platforms or their providers use Customer Data or Customer Assets.
+If Customer enables a Third-Party Platform with the Service, Moovweb may access and exchange Customer Data or Customer Assets with the Third-Party Platform on Customerâs behalf.
+
+9.     Professional Services.
+
+9.1.&nbsp.
+
+Scope.
+Any purchased Professional Services are as described in the relevant Order or SOW.
+Customer will give Moovweb timely access to Customer Assets reasonably needed for the Professional Services, and if Customer fails to do so, Moovwebâs obligation to provide Professional Services will be excused until access is provided.
+If Moovweb provides Customer with deliverables as part of Professional Services, Customer may use the deliverables only as part of its authorized use of the Service, subject to the same terms as for the Service in Section 2 (The Service) and Section 6 (Customer Obligations).
+
+
+9.2.&nbsp.
+
+Implementation Code.
+As a limited exception to the use rights for Professional Services deliverables in Section 9.1 above and subject to the terms and conditions of this Agreement, Moovweb grants to Customer a non-exclusive, royalty-free, non-transferable, non-sublicensable, perpetual license to use, reproduce, modify and create derivative works of any Implementation Code solely for its internal business purposes.
+Customer will not use Implementation Code for any competitive purpose, including to build or provide a competitive product or service to the Service.
+Moovweb will have no obligations with respect to Implementation Code following expiration or termination of this Agreement.
+
+10. Commercial Terms.
+
+10.1.    
+Subscription Term.
+Each Subscription Term will renew for successive 12-month periods unless either party gives the other party notice of non-renewal at least 90 days before the current Subscription Term ends.
+
+10.2.    
+Fees and Taxes.
+Fees are as described in each Order or SOW.
+Moovweb will charge Customer for Professional Services at the rates set forth in the applicable Order or SOW (or, if not specified, Moovwebâs then-standard rates).
+Customer will reimburse Moovweb for reasonable travel and lodging expenses it incurs in providing Professional Services.
+Fees are invoiced on the schedule in the Order or SOW and reimbursable expenses are invoiced in arrears.
+Unless the Order or SOW provides otherwise, all fees and expenses are due within 30 days of the invoice date.
+Fees for renewal Subscription Terms are at Moovwebâs then-current rates, regardless of any discounted pricing in a prior Order.
+Late payments are subject to a service charge of 1.5% per month or the maximum amount allowed by Law, whichever is less.
+All fees and expenses are non-refundable except as set out in Section 11.2 (Warranty Remedy), Section 15.4 (Mitigation and Exceptions) and the SLA.
+Customer is responsible for any sales, use, GST, value-added, withholding or similar taxes or levies that apply to its Orders, whether domestic or foreign (âTaxesâ), other than Moovwebâs income tax.
+Fees and expenses are exclusive of Taxes.
+
+10.3.    
+Affiliate Orders.
+An Affiliate of Customer may enter its own Order(s) as mutually agreed with Moovweb.
+This creates a separate agreement between the Affiliate and Moovweb incorporating this Agreement with the Affiliate treated as âCustomerâ.
+Neither Customer nor any Customer Affiliate has any rights under each otherâs agreement with Moovweb, and breach or termination of any such agreement is not breach or termination under any other.
+
+11.     Warranties and Disclaimers.
+
+
+11.1.     
+Limited Warranty.
+Moovweb warrants to Customer that:
+(a)   the Service will perform materially as described in the Documentation (the âPerformance Warrantyâ) and
+(b)   Moovweb will perform any Professional Services in a professional and workmanlike manner and in substantial conformity with the specifications set forth in the applicable SOW (the âProfessional Services Warrantyâ).
+
+11.2.
+
+Warranty Remedy.
+If Moovweb breaches Section 11.1 (Limited Warranty) and Customer makes a reasonably detailed warranty claim within 30 days of discovering the issue, then Moovweb will use reasonable efforts to correct the non-conformity.
+If Moovweb determines such remedy to be impracticable, either party may terminate the affected Order as relates to the non-conforming Service or Professional Services.
+Moovweb will then refund to Customer any pre-paid, unused fees for the terminated portion of the Subscription Term (for the Performance Warranty) or for the non-conforming Professional Services (for the Professional Services Warranty).
+These procedures are Customerâs exclusive remedy and Moovwebâs entire liability for breach of the warranties in Section 11.1.These warranties do not apply to (a) issues caused by misuse or unauthorized modifications, (b) issues in or caused by Third-Party Platforms or other third-party systems or (c) Trials and Betas or other free or evaluation use.
+
+11.3.    
+Disclaimers.
+Except as expressly provided in Section 11.1 (Limited Warranty), the Products are provided âAS ISâ. Moovweb and its suppliers make no other warranties, whether express, implied, statutory or otherwise, including warranties of merchantability, fitness for a particular purpose, title or non-infringement.
+Without limiting its express obligations in Section 3 (SLA and Support), Moovweb does not warrant that Customerâs use of the Service or display of Projects will be uninterrupted or error-free, that Moovweb will review Customer Data for accuracy or that it will maintain Customer Data without loss, and Moovweb expressly disclaims all obligations with respect to storage or caching of Collected Data.
+Moovweb is not liable for delays, failures or problems inherent in use of the Internet and electronic communications or other systems outside Moovwebâs control.
+Customer may have other statutory rights, but any statutorily required warranties will be limited to the shortest legally permitted period.
+
+12.  Term and Termination.
+
+12.1.    
+Term.
+This Agreement starts on the Effective Date and continues until expiration or termination of all Subscription Terms and SOWs.
+
+12.2.    
+Termination.
+Either party may terminate this Agreement (including all Orders and SOWs) if the other party (a) fails to cure a material breach of this Agreement (including a failure to pay fees) within 30 days after notice, (b) ceases operation without a successor or (c) seeks protection under a bankruptcy, receivership, trust deed, creditorsâ arrangement, composition or comparable proceeding, or if such a proceeding is instituted against that party and not dismissed within 60 days.
+Moovweb may terminate this Agreement without notice to Customer if the Service has been suspended under Section 7 (Suspension of Service) and Customer fails to cure the precipitating event to Moovwebâs satisfaction within 15 days after notice.
+
+12.3.    
+Effect of Termination.
+Upon expiration or termination of this Agreement or an Order or SOW, Customerâs access to the Service and Professional Services will cease, other than limited use of the Service to export Customer Data as described in Section 4.5 (Data Export), and Customer must pay any outstanding amounts due for the Service and any Professional Services provided through the termination date or otherwise contractually committed, as applicable.
+Upon expiration or termination of this Agreement, all Orders and SOWs will terminate, and at the disclosing partyâs request the receiving party will delete all of the disclosing partyâs Confidential Information (excluding Customer Data, which is addressed in Section 4.5).
+Customer Data and other Confidential Information may be retained in the receiving partyâs standard backups after deletion but will remain subject to this Agreementâs confidentiality restrictions.
+
+12.4.    
+Survival.
+These Sections survive expiration or termination of this Agreement: 2.3 (Restrictions), 4.5 (Data Export), 6 (Customer Obligations), 10.2 (Fees and Taxes), 11.3 (Disclaimers), 12.3 (Effect of Termination), 12.4 (Survival), 13 (Ownership), 14 (Limitations of Liability), 15 (Indemnification), 16 (Confidentiality), 17 (Required Disclosures), 20 (General Terms) and 22 (Definitions).
+Except where an exclusive remedy is provided, exercising a remedy under this Agreement, including termination, does not limit other remedies a party may have.
+
+13. &nbsp.
+Ownership.
+Neither party grants the other any rights or licenses not expressly set out in this Agreement.
+Except for Moovwebâs use rights in this Agreement, between the parties Customer retains all intellectual property and other rights in Customer Data and Customer Assets provided to Moovweb.
+Except for Customerâs use rights in this Agreement, Moovweb and its licensors retain all intellectual property and other rights in the Products, Professional Services deliverables (including any Implementation Code) and related Moovweb technology, templates, formats and dashboards, including any modifications or improvements to these items made by Moovweb.
+If Customer provides Moovweb with feedback or suggestions regarding the Products, Moovweb may use the feedback or suggestions without restriction or obligation.
+
+14.  Limitations of Liability.
+
+14.1.   &nbsp.
+Consequential Damages Waiver. Except for Excluded Claims, neither party (nor its suppliers) will have any liability arising out of or related to this Agreement for any loss of use, lost data, lost profits, failure of security mechanisms, interruption of business or any indirect, special, incidental, reliance or consequential damages of any kind, even if informed of their possibility in advance.
+
+
+14.2.   &nbsp.
+Liability Cap. Except for Excluded Claims, each partyâs (and its suppliersâ) entire liability arising out of or related to this Agreement will not exceed in aggregate the amounts paid or payable by Customer to Moovweb during the prior 12 months under this Agreement.
+
+14.3.   &nbsp.
+Excluded Claims.
+âExcluded Claimsâ means: (a) Customerâs breach of Sections 2.3 (Restrictions) or 6 (Customer Obligations), (b) either partyâs breach of Section 16 (Confidentiality) (but excluding claims relating to Customer Data) or (c) amounts payable to third parties under the indemnifying partyâs obligations in Section 15 (Indemnification).
+
+14.4.   &nbsp.
+Nature of Claims and Failure of Essential Purpose.
+The waivers and limitations in this Section 14 apply regardless of the form of action, whether in contract, tort (including negligence), strict liability or otherwise and will survive and apply even if any limited remedy in this Agreement fails of its essential purpose.
+
+15.       Indemnification.
+
+15.1.   &nbsp.
+
+Indemnification by Moovweb.
+Moovweb will defend Customer from and against any third-party claim to the extent alleging that the Service, when used by Customer as authorized in this Agreement, infringes a third partyâs U.S.
+patent, copyright, trademark or trade secret, and will indemnify and hold harmless Customer against any damages or costs awarded against Customer (including reasonable attorneysâ fees) or agreed in settlement by Moovweb resulting from the claim.
+
+15.2.    
+Indemnification by Customer.
+Customer will defend Moovweb from and against any third-party claim to the extent resulting from (a) Customer Data, Customer Assets, or End User access to and use of Projects (including collection of Collected Data in accordance with this Agreement) or (b) Customerâs breach or alleged breach of Section 6 (Customer Obligations), and will indemnify and hold harmless Moovweb against any damages or costs awarded against Moovweb (including reasonable attorneysâ fees) or agreed in settlement by Customer resulting from the claim.
+
+15.3.    Procedures.
+The indemnifying partyâs obligations in this Section 15 are subject to receiving (a) prompt notice of the claim, (b) the exclusive right to control and direct the investigation, defense and settlement of the claim and (c) all reasonably necessary cooperation of the indemnified party, at the indemnifying partyâs expense for reasonable out-of-pocket costs.
+The indemnifying party may not settle any claim without the indemnified party's prior consent if settlement would require the indemnified party to admit fault or take or refrain from taking any action (other than relating to use of any materials licensed by one party to the other in this Agreement).
+The indemnified party may participate in a claim with its own counsel at its own expense.
+
+15.4.    Mitigation and Exceptions.
+In response to an actual or potential infringement claim, if required by settlement or injunction or as Moovweb determines necessary to avoid material liability, Moovweb may at its option: (a) procure rights for Customerâs continued use of the Service, (b) replace or modify the allegedly infringing portion of the Service to avoid infringement without reducing the Serviceâs overall functionality or (c) terminate the affected Order and refund to Customer any pre-paid, unused fees for the terminated portion of the Subscription Term.
+Moovwebâs obligations in this Section 15 do not apply (1) to infringement resulting from Customerâs modification of the Service or use of the Service in combination with items not provided by Moovweb (including Third-Party Platforms), (2) to infringement resulting from Developer Tools other than the most recent release, (3) to unauthorized use of the Service, (4) to any action arising as a result of Customer Data or Customer Assets, (5) to any action arising as a result of customizations or modifications to the Service or any Project by Moovweb or any third party that are based on Customerâs specifications, (6) if Customer settles or makes any admissions about a claim without Moovwebâs prior consent or (7) to Trials and Betas or other free or evaluation use.
+This Section 15 sets out Customerâs exclusive remedy and Moovwebâs entire liability regarding infringement of third-party intellectual property rights.
+
+16. &nbsp.
+Confidentiality.
+
+
+
+16.1.   &nbsp.
+Definition. âConfidential Informationâ means information disclosed to the receiving party under this Agreement that is designated by the disclosing party as proprietary or confidential or that should be reasonably understood to be proprietary or confidential due to its nature and the circumstances of its disclosure.
+Moovwebâs Confidential Information includes the Products and any technical or performance information about the Service.
+Customerâs Confidential Information includes Customer Data.
+The terms and conditions of this Agreement constitute Confidential Information of both parties.
+
+16.2.   &nbsp.
+Obligations.
+As receiving party, each party will (a) hold Confidential Information in confidence and not disclose it to third parties except as permitted in this Agreement, including Section 4.1 (Service Data Use), 4.2 (Collected Data Use) and 21.11 (Open Source) and (b) only use Confidential Information to fulfill its obligations and exercise its rights in this Agreement.
+The receiving party may disclose Confidential Information to its employees, agents, contractors and other representatives having a legitimate need to know (including, for Moovweb, the subcontractors referenced in Section 21.8), provided it remains responsible for their compliance with this Section 16 and they are bound to confidentiality obligations no less protective than this Section 16.
+
+16.3.   &nbsp.
+Exclusions.
+These confidentiality obligations do not apply to information that the receiving party can document (a) is or becomes public knowledge through no fault of the receiving party, (b) it rightfully knew or possessed prior to receipt under this Agreement, (c) it rightfully received from a third party without breach of confidentiality obligations or (d) it independently developed without using the disclosing partyâs Confidential Information.
+
+
+16.4.   &nbsp.
+Remedies.
+Unauthorized use or disclosure of Confidential Information may cause substantial harm for which damages alone are an insufficient remedy.
+Each party may seek appropriate equitable relief, in addition to other available remedies, for breach or threatened breach of this Section 16.
+
+17.  Required Disclosures.
+Nothing in this Agreement prohibits either party from making disclosures, including of Customer Data and other Confidential Information, if required by Law, subpoena or court order, provided (if permitted by Law) it notifies the other party in advance and cooperates in any effort to obtain confidential treatment.
+18. Trials and Betas.
+If Customer receives access to the Service or Service features on a free or trial basis or as an alpha, beta or early access offering (âTrials and Betasâ), use is permitted only for Customerâs internal evaluation during the period designated by Moovweb (or if not designated, 30 days).
+Trials and Betas are optional and either party may terminate Trials and Betas at any time for any reason.
+Trials and Betas may be inoperable, incomplete or include features that Moovweb may never release, and their features and performance information are Moovwebâs Confidential Information.
+Notwithstanding anything else in this Agreement, Moovweb provides no warranty, indemnity, SLA or support for Trials and Betas and its liability for Trials and Betas will not exceed US$500.
+
+19.&nbsp.
+Publicity.
+Neither party may publicly announce this Agreement except with the other partyâs prior consent or as required by Laws.
+However, Moovweb may include Customer and its trademarks in Moovwebâs customer lists and promotional materials but will cease this use at Customerâs written request.
+
+20.  Modifications to Agreement.
+Moovweb may modify this Agreement (which may include changes to Service pricing and plans) from time to time by giving notice to Customer by email or through the Service.
+Unless a shorter period is specified by Moovweb (e.g., due to changes in the law or exigent circumstances), modifications become effective upon renewal of Customerâs current Subscription Term or entry into a new Order.
+If Moovweb specifies that the modifications to this Agreement will take effect prior to Customerâs next renewal or Order and Customer notifies Moovweb of its objection to the modifications within 30 days after the date of such notice, Moovweb (at its option and as Customerâs exclusive remedy) will either: (a) permit Customer to continue under the existing version of this Agreement until expiration of the then-current Subscription Term (after which time the modified Agreement will go into effect) or (b) allow Customer to terminate this Agreement and receive a refund of any pre-paid fees allocable to the terminated portion of the applicable Subscription Term.
+Customer may be required to click to accept or otherwise agree to the modified Agreement in order to continue using the Service, and, in any event, continued use of the Service after the updated version of this Agreement goes into effect will constitute Customerâs acceptance of such updated version.
+
+21. &nbsp.
+General Terms.
+
+
+21.1.   &nbsp.
+Assignment.
+Neither party may assign this Agreement without the prior consent of the other party, except that either party may assign this Agreement in connection with a merger, reorganization, acquisition or other transfer of all or substantially all its assets or voting securities.
+No assignment will be valid unless the permitted assignee agrees in writing to be bound by the terms of this Agreement, and any non-permitted assignment is void.
+This Agreement will bind and inure to the benefit of each partyâs permitted successors and assigns.
+
+21.2.   &nbsp.
+Governing Law, Jurisdiction and Venue.
+This Agreement is governed by the laws of the State of California and the United States without regard to conflicts of laws provisions and without regard to the United Nations Convention on the International Sale of Goods.
+The jurisdiction and venue for actions related to this Agreement will be the state and United States federal courts located in San Francisco, California and both parties submit to the personal jurisdiction of those courts.
+
+21.3.    
+Notices.
+Except as set out in this Agreement, any notice or consent under this Agreement must be in writing and will be deemed given (a) upon receipt if by personal delivery, (b) upon receipt if by certified or registered U.S.
+mail (return receipt requested) or (c) one day after dispatch if by a commercial overnight delivery service.
+If to Moovweb, notice must be provided to 340 Pine Street, Suite 400, San Francisco, CA 94104.
+Either party may update its address with notice to the other party.
+Moovweb may also send operational notices to Customer by email or through the Service.
+
+21.4.   &nbsp.
+Entire Agreement.
+This Agreement (which includes all Orders, the Policies and the DPA) is the partiesâ entire agreement regarding its subject matter and supersedes any prior or contemporaneous agreements regarding its subject matter.
+In this Agreement, headings are for convenience only and âincludingâ and similar terms are to be construed without limitation.
+This Agreement may be executed in counterparts (including electronic copies and PDFs), each of which is deemed an original and which together form one and the same agreement.
+
+21.5.   &nbsp.
+Amendments.
+Except as otherwise provided herein, any amendments, modifications or supplements to this Agreement must be in writing and signed by each partyâs authorized representatives or, as appropriate, agreed through electronic means provided by Moovweb.
+Nonetheless, with notice to Customer, Moovweb may modify the Policies to reflect new features or changing practices, but the modifications will not materially decrease Moovwebâs overall obligations during a Subscription Term.
+The terms in any Customer purchase order or business form will not amend or modify this Agreement and are expressly rejected by Moovweb.
+any of these Customer documents are for administrative purposes only and have no legal effect.
+
+21.6.   &nbsp.
+Waivers and Severability.
+Waivers must be signed by the waiving partyâs authorized representative and cannot be implied from conduct.
+If any provision of this Agreement is held invalid, illegal or unenforceable, it will be limited to the minimum extent necessary so the rest of this Agreement remains in effect.
+
+21.7.   &nbsp.
+Force Majeure.
+Neither party is liable for any delay or failure to perform any obligation under this Agreement (except for a failure to pay fees) due to events beyond its reasonable control, such as a strike, blockade, war, act of terrorism, riot, Internet or utility failures, refusal of government license or natural disaster.
+
+21.8.   &nbsp.
+Subcontractors.
+Moovweb may use subcontractors and permit them to exercise Moovwebâs rights, but Moovweb remains responsible for their compliance with this Agreement and for its overall performance under this Agreement.
+
+21.9.   &nbsp.
+Independent Contractors.
+The parties are independent contractors, not agents, partners or joint venturers.
+21.10.&nbsp.
+Export.
+Customer agrees to comply with all relevant U.S.
+and foreign export and import Laws in using the Service.
+Customer (a) represents and warrants that it is not listed on any U.S.
+government list of prohibited or restricted parties or located in (or a national of) a country that is subject to a U.S.
+government embargo or that has been designated by the U.S.
+government as a âterrorist supportingâ country, (b) agrees not to access or use the Service in violation of any U.S.
+export embargo, prohibition or restriction and (c) will not submit to the Service any information controlled under the U.S.
+International Traffic inArms Regulations.
+
+21.11.&nbsp.
+Open Source.
+
+
+(a)   Proprietary Developer Tools.
+The Developer Tools may incorporate third-party open source software (âOSSâ), as listed in the Documentation or by Moovweb upon request.
+To the extent required by the OSS license, that license will apply to the OSS on a stand-alone basis instead of this Agreement.
+
+(b)   OpenSource Developer Tools.
+To the extent a particular Developer Tool is made available under through Moovwebâs download center under an OSS license, Customerâs use of the Developer Tool is subject to that OSS license and not this Agreement.
+
+
+21.12. Government End-Users.
+Elements of the Service are commercial computer software.
+If the user or licensee of the Service is an agency, department, or other entity of the United States Government, the use, duplication, reproduction ,release, modification, disclosure, or transfer of the Service or any related documentation of any kind, including technical data and manuals, is restricted by the terms of thisAgreement in accordance with Federal Acquisition Regulation 12.212 for civilian purposes and Defense Federal Acquisition Regulation Supplement 227.7202 for military purposes.
+The Service was developed fully at private expense.
+All other use is prohibited.
+21.13. Insurance.
+During the term of this agreement, Moovweb will maintain full force and effect the insurance policies listed here at its own cost and expense.
+21.14.&nbsp.
+No Third-Party Beneficiaries.
+No third party will be deemed to be an intended or unintended third party beneficiary of this Agreement.
+
+22.       Definitions.
+âAffiliateâ means an entity directly or indirectly owned or controlled by a party, where âownershipâ means the beneficial ownership of fifty percent (50%) or more of an entityâs voting equity securities or other equivalent voting interests and âcontrolâ means the power to direct the management or affairs of an entity.
+âAUPâ means the Moovweb Acceptable Use Policy.
+
+âCollected Dataâ means any information or other data of any type which is input by or on behalf of End Users into a Project (e.g., using web input forms or similar functionality used to submit information to Customer from a Customer website).
+âCompetitorâ means an entity other than Moovweb that provides website hosting, content delivery, server-side rendering, Progressive Web Application creation or similar services.
+âCustomer Assetsâ means any materials provided by Customer to Moovweb in connection with implementing, deploying or maintaining a Project, including (a) the Customer websites specified in an Order, (b) any systems, APIs, code, scripts or applications (including for Third-Party Platforms) and(c) any images, graphics, photos, digital media, brand features, logos, trademarks, service marks, written text, copy or similar materials.
+âCustomer Dataâ means Service Data and Collected Data.
+âDeveloper Toolsâ means any tools, files, libraries or other developer tools provided to Customer by Moovweb for use with the Service.
+âDocumentationâ means Moovwebâs usage guidelines and standard technical documentation for the Service, the current version of which is at https://developer.moovweb.com/docs/.
+âDPAâ means Moovwebâs data processing addendum.
+
+âEnd Userâ means an end user who visits and interacts with a Project.
+âEnd User Logsâ means standard web access information logged when an End User interacts with a Project.
+âHigh Risk Activitiesâ means activities where use or failure of the Service could lead to death, personal injury or environmental damage, including life support systems, emergency services, nuclear facilities, autonomous vehicles or air traffic control.
+âImplementation Codeâ means any code or scripts delivered to Customer by Moovweb in connection with any Professional Services.
+âLawsâ means all relevant local, state, federal and international laws, regulations and conventions, including those related to data privacy and data transfer, international communications and export of technical or personal data.
+âOrderâ means an order for access to the Products referencing this Agreement that is executed by the parties or that Customer completes through a Moovweb-provided online order form.
+âPrivacy Policyâ means the Moovweb Privacy Policy.
+
+âPoliciesâ means the AUP, Security Policy, Support Policy and SLA.
+âProfessional Servicesâ means professional consulting services related to implementing and maintaining Projects on behalf of Customer, as identified in an Order or SOW.
+
+âProhibited Dataâ means any (a) special categories of data enumerated in European Union Regulation2016/679, Article 9(1) or any successor legislation, (b) patient, medical or other protected health information regulated by the Health InsurancePortability and Accountability Act (as amended and supplemented) (âHIPAAâ), (c) other information subject to regulation or protection under specific Laws such as the Childrenâs Online Privacy Protection Act or Gramm-Leach-Bliley Act (or related rules or regulations), (d) social security numbers, driverâs license numbers or other government ID numbers or (e) any data similar to the above protected under foreign or domestic Laws.
+âProjectâ means the version of aCustomer website deployed using the Service, as identified in an Order.
+âSecurity Policyâ means the Moovweb Security and Disaster Recovery Policy.
+âServiceâ means Moovwebâs proprietary cloud service, as identified in the relevant Order and as modified from time to time.The Service includes the Documentation and the Developer Tools, to the extent made available by Moovweb to Customer under this Agreement, but does not include Professional Services deliverables or Third-Party Platforms.
+
+âService Dataâ means (a) any account settings or similar business information or data which is input by or on behalf of Customer into the Service and (b) End User Logs.
+âSLAâ means the Moovweb Service Level Agreement.
+âSOWâ means a Statement of Work referencing this Agreement and executed by both parties describing the ProfessionalServices to be performed, fees and any applicable milestones, dependencies and other technical specifications or related information.
+âSubscription Termâ means the term forCustomerâs use of the Service as identified in an Order.
+âSupportâ means support for the Service as described in the Support Policy.
+Customerâs Support level will be identified in its Order.
+
+âSupport Policyâ means the Moovweb Support Policy.
+âThird-Party Platformâ means any platform, data source or other service not provided by Moovweb that Customer elects to integrate or enable for use with the Service.
+âUserâ means any employee or contractor of Customer or its Affiliates that Customer allows to use the Service on its behalf.
+Competitors may not be Users.
+
+Please refer to the following pages for additional information: 
+
+1.
+Service Level Agreement
+
+2.
+Customer Support Policy
+3. Security and Disaster Recovery Policy
+4. Insurance NoticeDon't wait another second.
+Go instant.Get started in secondsProductMoovweb XDNCDN-as-JavaScriptEdge ExperimentsPerformance MonitorBranch PreviewServerless JavaScriptXDN StarterPricingResourcesDocsSupportCustomersInstant Site ShowcaseCovid-19 ResourcesFoundations of Site SpeedResources LibraryLoginDeveloper GuidesForumCompanyAbout JobsNewsroomPartnersBlogContact UsAgency Partner ProgramLegalMoovweb XDN TermsMoovCheckout TermsMoovweb.com TermsPrivacy PolicyCookie NoticeReporting Copyright Infringement Policy
+ââData Processing AddendumSub-ProcessorsCopyright Â© 2020 Moovweb.
+All rights reserved.
+All systems operationalsupport@moovweb.com     877-666-8932
+You haven't declared your privacy consent.
+View privacy settings <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=588876458453332&amp;ev=PageView&amp;noscript=1"&gt.
+
+      

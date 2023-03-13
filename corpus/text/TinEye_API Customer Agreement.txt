@@ -1,0 +1,74 @@
+
+         TinEye API Customer Agreement Last updated: October 2020
+THIS CUSTOMER AGREEMENT IS A BINDING AGREEMENT BETWEEN IDÃE INC.
+(âIdÃ©eâ) AND YOU, AND IF APPLICABLE, THE COMPANY OR OTHER LEGAL ENTITY YOU REPRESENT (COLLECTIVELY, âYOUâ). 1.
+Licensed Uses and Restrictions The TinEye API is owned by IdÃ©e and is licensed to you on a non-exclusive, non-sublicensable basis on the terms and conditions set forth herein.
+These terms define legal use of the TinEye API and all updates or revisions.
+We reserve the right to update and change these terms from time to time without notice.
+TinEye search result images are owned by their copyright holders and not by IdÃ©e.
+All rights not expressly granted to you are reserved by IdÃ©e.
+
+You shall comply with the TinEye terms of service displayed at https://tineye.com/terms
+You shall not: 
+Use the TinEye API for any application that constitutes, promotes or is used in connection with spyware, adware, or other malicious programs or code.
+Use the TinEye API in any manner or for any purpose that violates any law or regulation, or any rights of any person.
+including but not limited to intellectual property rights, rights of privacy, or rights of personality.
+Use the TinEye API in a manner that adversely impacts the stability of TinEye servers or adversely impacts the behaviour of other applications using the TinEye API.
+Sell, lease, or sublicense the TinEye API.
+
+
+ 2.
+Description of Service The TinEye API is a service that allows you to programmatically search for images through the TinEye index.
+The TinEye API is delivered over HTTP and is hosted on equipment operated by IdÃ©e.
+The current developer documentation for the TinEye API can be viewed at https://services.tineye.com/developers/tineyeapi/ 3.
+Term, Termination and Suspension This agreement will commence once you agree to the TinEye API terms upon signup.
+It will remain in effect until terminated by you or IdÃ©e in accordance with the terms outlined below.
+
+You may terminate this agreement for any reason or no reason at all, at your convenience, by providing us thirty (30) days advance written notice of termination.
+We may suspend your right and license to use the TinEye API, or terminate this agreement in its entirety (and, accordingly, cease providing all services to you), for any reason or for no reason, at our discretion at any time.
+We may immediately and without prior notice to you, suspend your access to the TinEye API, or terminate this agreement in its entirety (and, accordingly, your right to use all services), for any of the causes below: 
+You fail to obey the licensed uses and restrictions clause above.
+You use the TinEye API in a way that disrupts or threatens the service.
+You are in default of your payment obligations.
+IdÃ©e receives notice or otherwise determines, at our sole discretion, that you may be using the TinEye API for any illegal purpose or in a way that violates the law or violates, infringes, or misappropriates the rights of any third party.
+IdÃ©e determines, at our sole discretion, that our provision to you of the TinEye API is prohibited by applicable law, or has become impractical or unfeasible for any legal or regulatory reason.
+
+
+
+Upon termination of this agreement for any reason: (i) you remain liable for all fees, charges and any other obligations you have incurred through the date of termination.
+(ii) all of your rights under this agreement shall immediately terminate. 4.
+Ownership and Relationship of Parties IdÃ©e owns all rights, title, and interest in and to the TinEye API.
+These terms grant you no right, title, or interest in any intellectual property owned or licensed by IdÃ©e, including (but not limited to) the TinEye API and IdÃ©e trademarks.
+You agree to abide by all applicable proprietary rights laws and other laws, as well as any additional copyright notices or restrictions contained in these terms. 5.
+Support IdÃ©e provides support for the TinEye API only.
+Any integration with your systems remains your responsibility.
+IdÃ©e will endeavour to address service interruptions in a timely manner.
+IdÃ©e shall use commercially reasonable efforts to provide email support to API users.
+Email support means the ability to make requests for technical support assistance by email at any time concerning the use of the API services. 6.
+Fees and Payments Fees for use of the TinEye API are payable in advance.
+Each call you make to the TinEye API 'search' method counts as one (1) search, regardless of the number of search results returned by the call.
+In order to ensure uninterrupted service, renewal payments must be made prior to the end of your expiration period.
+If your search limit is not reached by the end of its expiration period, unused search credit is not carried forward to another period. 7.
+Disclaimer of Any Warranty IDÃE DOES NOT REPRESENT OR WARRANT THAT THE TINEYE API IS FREE OF INACCURACIES, ERRORS, BUGS, OR INTERRUPTIONS, OR IS RELIABLE, ACCURATE, COMPLETE, OR OTHERWISE VALID.
+THE TINEYE API IS PROVIDED "AS IS" WITH NO WARRANTY, EXPRESS OR IMPLIED, OF ANY KIND AND IDÃE EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AVAILABILITY, SECURITY, TITLE AND/OR NON-INFRINGEMENT.
+YOUR USE OF THE TINEYE API IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE THAT RESULTS FROM THE USE OF THE TINEYE API INCLUDING, BUT NOT LIMITED TO, ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA. 8.
+Limitation of Liability IDÃE SHALL NOT, UNDER ANY CIRCUMSTANCES, BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH USE OF THE TINEYE API, WHETHER BASED ON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE, PRODUCT LIABILITY OR OTHERWISE), OR ANY OTHER PECUNIARY LOSS, WHETHER OR NOT IDÃE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+UNDER NO CIRCUMSTANCES SHALL IDÃE'S AGGREGATE LIABILITY EXCEED THE AMOUNTS PAID BY YOU IN THE 12 MONTHS PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES.
+ACCORDINGLY, SOME OR ALL OF THE ABOVE EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS. 9.
+Release and Waiver To the maximum extent permitted by applicable law, you hereby release and waive all claims against IdÃ©e, and its subsidiaries, affiliates, officers, agents, licensers, co-branders or other partners, and employees from any and all liability for claims, damages (actual and/or consequential), costs and expenses (including litigation costs and attorneys' fees) of every kind and nature, arising from or in any way related to your use of the TinEye API.
+In addition, you expressly waive and relinquish any and all rights and benefits which you may have under any law principle of similar effect, to the fullest extent permitted by law. 10.
+Hold Harmless and Indemnity To the maximum extent permitted by applicable law, you agree to hold harmless and indemnify IdÃ©e and its subsidiaries, affiliates, officers, agents, licensers, co-branders or other partners, and employees from and against any third party claim arising from or in any way related to your use of the TinEye API, including any liability or expense arising from all claims, losses, damages (actual and/or consequential), suits, judgements, litigation costs and attorneys' fees, of every kind and nature.
+IdÃ©e shall use good faith efforts to provide you with written notice of such claim, suit or action. 11.
+General Terms 
+
+Relationship of the Parties. Notwithstanding any provision hereof, for all purposes of the Terms of Use, you and IdÃ©e shall be and act independently and not as partner, joint venturer, agent, employee or employer of the other.
+You shall not have any authority to assume or create any obligation for or on behalf of IdÃ©e, express or implied, and you shall not attempt to bind IdÃ©e to any contract.
+
+Invalidity of Specific Terms. If any provision of the Terms of Use is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavour to give effect to the parties' intentions as reflected in the provision and the other provisions of such documents remain in full force and effect.
+
+Location of Lawsuit and Choice of Law. The Terms of Use and the relationship between you and IdÃ©e shall be governed by the laws of the Province of Ontario without regard to its conflict of law provisions.
+You and IdÃ©e agree to submit to the jurisdiction of the courts of the Province of Ontario.
+
+No Waiver of Rights by IdÃ©e. IdÃ©e's failure to exercise or enforce any right or provision of the Terms of Use shall not constitute a waiver of such right or provision.
+

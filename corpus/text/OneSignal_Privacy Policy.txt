@@ -1,0 +1,351 @@
+
+Our Commitment to Privacy 
+Your privacy is important to us and maintaining your trust is one of our highest priorities.
+This Privacy Policy includes a description of our information practices, how we use tracking technologies, as well as the decision you may make regarding how your information is collected and used.
+
+Introduction and Background 
+OneSignal, a U.S.
+company located at 2850 S Delaware St Suite 201, San Mateo, CA 94403 (âOneSignalâ âwe,â âus,â and âourâ), provides this privacy policy because we believe that customers should have clear and comprehensive ways to understand how information about them and their end-users is collected and used to provide our service.
+
+OneSignal is a customer engagement platform for companies around the world to enable relationships for them and their customers.
+This is primarily done by leveraging first party data to personalize and automate messaging through first party channels, such as email, mobile push notifications, web push notifications, and in-app messaging.
+
+OneSignal collects this first party data through a software development kit (âSDKsâ) that companies use in their mobile applications and websites.
+These web and mobile SDKs permit app developers and websites to send, manage, optimize and customize messages to their users.
+All of these services (further described in this privacy policy) are referred to collectively as our âServices ,â and all of these developers, website operators, partners and advertisers are referred to collectively as our âClients .â 
+This privacy policy (the âPrivacy Policy â) explains how we may collect, use, store, and disclose information about the end users (âEnd Users â) of third-party mobile applications and websites that use our Services.
+We also collect information on our corporate website(s), including any website on which this Privacy Policy is posted.
+We separately describe how we collect, use and share that website information (âOneSignal Website Informationâ) in Section 4, below.
+
+1.
+Our SDKs: Information We Collect and Services We Provide 
+
+We refer to the information we collect from our SDKs as the âSDK Information .â The SDK Information includes (or may include) the following: 
+
+
+Information Collected About End Users by Our Web SDKs 
+
+
+
+Web pages visited that have implemented the SDK, and information about those visits (e.g., session duration, time-stamp, referring URLs)
+What push notifications an End User has been sent
+Information about End Userâs transactions and interactions with apps and websites
+IP address, from which geographic location may be inferred, as well as system configuration information
+Email address, if provided to us.
+Information about an End Userâs browser, such as browser language type and version of operating system (e.g., Android, iOS).
+network provider.
+language setting.
+time zone 
+A unique cookie identifier, which may uniquely identify an End User (such as in de-identified or anonymous form).
+
+
+
+
+Information Collected About End Users by Our Mobile SDKs 
+
+
+
+How a user has used the App (e.g., session duration, time-stamp) 
+Purchases made within an app.
+
+Information about End Userâs transactions and interactions with the app
+Mobile advertising identifiers, such as iOS IDFAs and Android Advertising IDs (âMobile IDsâ).
+These Mobile IDs may be associated with other Information, including with Data Segments.
+Precise Location information, generally an End Userâs lat/long data (i.e., GPS-level data) or WiFi information, which we may associate with Mobile IDs, and which may be collected whether or not an app is in use.
+(Location information is only collected the user has granted permission to the App to collect this, and the app chooses to send this data to OneSignal)
+Email address, if provided to us.
+IP address as well as system configuration information
+Information associated with or related to devices, such as device type (e.g., mobile, tablet).
+type and version of operating system (e.g., Android, iOS).
+network provider.
+mobile browser (e.g.
+Safari, Chrome, etc.).
+language setting.
+time zone.
+and network status type (such as WiFi).
+
+
+As noted above, we refer to all of the above collectively as the âSDK Information .â 
+
+2.
+How We Use the SDK Information 
+
+
+We use the SDK Information to provide a variety of Services to our Clients.
+This includes:
+
+To Provide Our App and Website Services.
+We use the SDK Information to offer and support app and website features provided through the SDKs, including those related to push notifications.
+This includes, for instance, providing customer, technical and operational support for these features, detecting and protecting against errors, fraud, or other criminal activity.
+resolving disputes and enforcing our EULA and other rights we may have.
+It also includes analyzing, customizing, and improving the features we offer Clients.
+To provide information and analytics to our Clients about the use of these app and website features provided through the SDKs, or to help app developers and website operators create or enhance user profiles.
+To enable clients to create inferences about End Users categorized into âData Segmentsâ.
+For instance, if SDK Information indicates that a particular device is frequently seen at restaurants, we might categorize a user for targeting of local restaurant offers.
+Or, if a user is frequently seen at sports stadiums, we might categorize the user as a âSports Fan.â
+To develop and use âpredictive modelsâ â data models that try to predict End Usersâ potential future behavior and interests on a per-device basis or across devices.
+To analyze ad performance, for instance, by attributing End Usersâ app installations, web visits, or store visits to ad campaigns.
+Sometimes, the SDK Information may be used to resolve identities across multiple devices, such as to match IP addresses or hashed emails to link an End User across (for instance) browsers, mobile devices, tablets, set top boxes, or other devices.
+Sometimes the SDK Information may be to perform any of the above functions, or other marketing or analytics services.
+Or, we may aggregate and create data âmodelsâ to do this â creating algorithms in order to predict certain trends and things that different End Users might have in common, for instance.
+
+
+We may deploy online cookies to track users across websites, or to associate users (and these cookies) with Mobile IDs.
+We may do this to resolve user identifies across platforms, and to better or more accurately target messages to.
+You can learn more about cookies and similar technologies, such as web beacons and SDKs, in the Section titled âCookies, Pixel Tags and SDKs .â
+
+
+3.
+How and Why We Share the SDK Information.
+
+
+
+
+To Provide Services to Websites and Apps Using the SDKs
+
+
+
+We share the SDK Information with service providers, contractors and other companies to fulfill your orders, operate our business, communicate with you and make available our Services and this Website.
+These service providers may help us perform any of the activities set forth in Section 2.
+For instance, we may share certain of the information we collect or receive with companies that help us with billing and payment, marketing, advertising and email marketing, data enhancement (e.g., to provide more relevant offers), website hosting, technology and customer support, web and marketing analytics, anti-fraud or security operations, and other operational, marketing or business support.
+
+We likewise may share the SDK Information or Data Segments we create with website operators and app developers (for instance, related to push notifications they send) for their advertising, analytics, or other purposes.
+
+
+
+OneSignal does not share SDK information with third parties except those who process the data on behalf of OneSignal.
+Data is only shared with third parties if:
+
+
+
+If an End User or Client requests or authorizes 
+If the information is provided to: (1) comply in good faith with applicable laws, rules, regulations, governmental and quasi-governmental requests, court orders, or subpoenas.
+(2) enforce our Terms of Use or other agreements.
+or (3) protect our rights, property, or safety or the rights, property, or safety of our users or any other person or entity
+If the disclosure is done as part of, including as part of due diligence for, a purchase, transfer, or sale of services or assets (e.g., in the event that substantially all of our assets are acquired by another party, any information we have may be one of the transferred assets) or in the event of bankruptcy
+
+Even when you no longer access the SDKs, we may continue to use and share your Information as described in this Privacy Policy.
+
+
+4.
+How We Use and Share Information Collected on the OneSignal Website(s) 
+
+
+Website Information We Collect 
+
+We collect the following information from visitors to our websites (the âOneSignal Website Information â, including the website on which this Privacy Policy appears (âOneSignal Website(s)â): 
+
+
+
+Volunteered:  You may share information with us on the OneSignal Websites when you request information from us, fill out a form on our website, or interact with us in other ways.
+This information may include personal information, such as your name, email address, and other contact information.
+
+
+Passively Collected (e.g., Cookies and Unique IDs):  We use automated mechanisms, such as cookies, pixels, and other locally stored objects (such as âIndexedDB)â) that we associate with unique identifiers in order to keep track of visitor interactions with the OneSignal Websites.
+(You can learn more about these technologies below in the Section titled âCookies, Pixel Tags and SDKs â).
+We may use third party-services such as Google Analytics, in which case those third parties gather information such as your IP address, browser type, the webpage from which you came to our website, and the times of your access to the OneSignal Website.
+In addition, as you browse our website, advertising cookies may be placed on your computer so that we can understand what you are interested in.
+Our display advertising partners may then help us retarget ads to you on other sites based on your interactions with the OneSignal Website.
+To âopt outâ of having your information used to tailor ads to you in this way by third party ad platforms that we may work with or provide data to, please review the Section below titled âConsumer Control and Opt Out Options 
+â  to learn how to opt-out of these services and instead receive generic, non-tailored ads.
+
+
+How We Use the OneSignal Website Information 
+
+In addition to the uses described above, we use the OneSignal Website Information (alone or in combination) to provide, market, and operate the OneSignal Websites and Services.
+Among other things, by collecting the OneSignal Website Information, we are able to
+
+Maintain and offer access to the OneSignal Websites and Services and optimize how theyâre offered to our Clients.
+Send information about our products and services, including marketing communications.
+Respond to your questions, concerns, or customer service inquiries.
+Customize the content and advertising you see on the OneSignal Websites, across the Internet, and elsewhere.
+
+
+How We Share the OneSignal Website Information 
+
+We may share the OneSignal Website Information as follows:
+
+As part of a business sale, merger, consolidation, investment, change in control, transfer of substantial assets, reorganization or liquidation, or in connection with steps taken in anticipation of such an event (e.g., due diligence).
+With our corporate affiliates.
+With third parties that help us to provide the OneSignal Websites or Services, such as entities that help us make the OneSignal Websites or Services available and functional (such as hosting services).
+entities that help us make available or transmit any information we hold (such as helping us send emails, process payments, and manage customer information).
+and entities that help us (including our contractors, agents, and affiliates) provide technical, customer, billing, administrative, event planning, marketing or operational services to us or our Clients.
+When required by law or in response to lawful process, such as a subpoena, or to cooperate in good faith with a request from a government or law enforcement agency or official.
+
+If we believe sharing the information may prevent physical, financial or other harm, injury or loss.
+or we believe is necessary to protect our, or any other personâs or entityâs, interests.
+or in connection with an investigation of suspected or actual unlawful activity.
+We also may disclose your information under circumstances not mentioned here with your prior consent.
+
+
+5.
+Cookies, Pixel Tags and SDKs 
+
+
+Cookies and Pixel Tags.
+Cookies are small data files containing a string of characters, such as an anonymous unique browser identifier.
+Cookies are stored on your computer or other device and act as unique tags that identify your device or browser.
+Our servers may send your device a cookie when you visit the OneSignal Websites, and our Clients and Partners may do likewise on our Websites, our Clientsâ websites, and elsewhere.
+A pixel tag (also commonly known as a web beacon or clear GIF) is an invisible 1 x 1 pixel that is placed on certain web pages.
+When you access web pages on which a pixel tag is deployed, the pixel tag may generate a generic notice of the visit and permit OneSignal, our Clients or Partners to set or read cookies.
+Pixel tags are used in combination with cookies to anonymously track the activity on a website by a particular browser on a particular device.
+If you disable cookies, pixel tags simply detect an anonymous website visit.
+OneSignal, alone or with our Clients and Partners, may use cookies to, among other things, ârememberâ you (e.g., when you visit the OneSignal Websites or the websites of our Clients or Partners), track trends, and collect information about how you use our Clientsâ or Partnersâ websites or interact with advertising.
+We and partners we work with use cookies to provide relevant content to you and replace non-relevant ads with ads that better match your interests.
+We may sometimes use other locally stored objects in ways similar to how we use cookies.
+Often, these objects are deleted when you clear your browser cookie cache, but because this may not always occur (depending on the browser you use), we recommend that if you wish to opt out of notification features or third party interest-based advertising you instead follow the steps we have set forth in Section 7 titled âConsumer Control &amp.
+Opt-Out Options.
+â
+
+Mobile Device Identifiers and SDKs.
+ We may use or work with partners who use mobile SDKs (including our own SDKs, which are described in more detail in this Policy) to collect information, such as mobile identifiers (e.g., IDFAs and Android Advertising IDs), and information related to how mobile devices and their users interact with our Services and those using our Services.
+The SDK is computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services to be implemented.
+We may use this technology, for instance, to analyze or measure certain advertising through mobile applications and browsers based on information associated with your mobile device.
+
+
+6.
+
+Data Controller for Personal Data and Data Processor for Clients 
+
+OneSignal is the data controller for processing of your Personal Data.
+We act as a data processor (or service provider) in relation to the Services we provide to our Clients.
+
+
+ 7.
+Privacy Rights 
+
+You may have the following privacy rights;
+
+If you wish to access, correct, update or request deletion  of your Personal Data, you can do so at any time by contacting us at Privacy@OneSignal.com.
+
+In addition, if you are a resident of the European Union or the United Kingdom, you can object to processing  of your Personal Data, ask us to restrict processing  of your Personal Data or request portability  of your Personal Data.
+Again, you can exercise these rights by contacting us at Privacy@OneSignal.com.
+You have the right to opt-out of marketing communications  we send you at any time.
+You can exercise this right by clicking on the âopt-outâ link in the marketing communications we send you or by contacting us at Privacy@OneSignal.com.
+You have the right not to be subject to a decision based solely on automated processing,  including profiling, which produces legal effects ("Automated Decision-Making").
+Automated Decision-Making currently does not take place on our Website or in our Services;
+Similarly, if we have collected and processed your Personal Data with your consent, then you can withdraw your consent  at any time.
+Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Data conducted in reliance on lawful processing grounds other than consent.
+You have the right to complain to a data protection authority  about our collection and use of your Personal Data.
+For more information, please contact your local supervisory authority.
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+Where you wish to enforce any of these rights in respect of our Services, you should contact the Client who provides you with the website or mobile application.
+We will then help them to fulfill that request in accordance with their instructions and applicable legal requirements.
+
+8.
+
+Processing Personal Information (EU and UK Visitors Only) 
+
+If you are a visitor to our Website from the EEA or the United Kingdom, our legal basis for collecting and using the Personal Data described above will depend on the Personal Data concerned and the specific context in which we collect it.
+However, we will normally collect Personal Data from you only where we have your consent to do so, where we need the Personal Data to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms.
+In some cases, we may also have a legal obligation to collect Personal Data from you or may otherwise need the Personal Data to protect your vital interests or those of another person.
+If we ask you to provide Personal Data to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your Personal Data is mandatory or not (as well as of the possible consequences if you do not provide your Personal Data).
+Similarly, if we collect and use your Personal Data in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are.
+If you have questions about or need further information concerning the legal basis on which we collect and use your Personal Data, please contact us at Privacy@OneSignal.com.
+
+
+9.
+Processing Personal Information (California Residents Only) 
+
+As a California resident, you have the rights listed below.
+However, these rights are not absolute, and in certain cases we may decline your request as permitted by law.
+You can request the following information about how we have collected and used your Personal Information during the past 12 months:
+
+
+Access .
+You can request a copy of the Personal Information that we have collected about you during the past 12 months.
+
+Deletion.
+You can ask us to delete the Personal Information that we have collected from you.
+
+Non-discrimination.
+ You are entitled to exercise the rights described above free from discrimination.
+This means that we will not penalize you for exercising your rights by taking actions such as denying you services, increasing the price/rate of services, decreasing service quality, or suggesting that we may penalize you as described above for exercising your rights.
+The categories of Personal Information that we have collected.
+The categories of sources from which we collected Personal Information.
+The business or commercial purpose for collecting and/or selling Personal Information.
+The categories of Third Parties with whom we share Personal Information.
+Whether we have disclosed your Personal Information for a business purpose, and if so, the categories of Personal Information received by each category of third-party recipient.
+Whether weâve sold your Personal Information, and if so, the categories of Personal Information received by each category of third-party recipient.
+
+You can request to exercise your information, access and deletion rights by contacting us at Privacy@OneSignal.com.
+We will need to confirm your identity and California residency to process your information, access or deletion requests, and we reserve the right to confirm your California residency.
+Government identification may be required.
+If you wish to designate an authorized agent to make a request on your behalf, we will need to verify both your and your agentâs identities and your agent must provide valid power of attorney or other proof of authority acceptable to us in our reasonable discretion.
+We cannot process your request if you do not provide us with sufficient detail to allow us to understand and respond to it.
+
+10.
+
+Privacy Shield 
+
+OneSignal complies with the EU-U.S.
+Privacy Shield Framework and Swiss-U.S.
+Privacy Shield Framework as set forth by the U.S.
+Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.
+OneSignal has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
+If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
+
+11.
+Data Processing 
+
+
+OneSignal applies the Privacy Shield Framework to both data processed solely by OneSignal, as well as to data transferred to third party service providers.
+When transferring data to third parties, OneSignal complies with the Privacy Shield Principles for Accountability for onward transfers and the onward transfer liability provisions.
+
+
+12.
+Data Access and Retention 
+
+Generally speaking, we retain the SDK Information and Website Information for as long as necessary to achieve our objectives as detailed in this Privacy Policy, and to comply with our legal obligations, resolve disputes and enforce our agreements.
+
+
+13.
+Data Security 
+
+We have administrative, technical, and physical safeguards in place in our physical facilities and in our computer systems, databases, and communications networks that are designed to protect information contained within our systems from loss, misuse, or alteration.
+No method of electronic transmission or storage is 100% secure.
+Therefore, we cannot guarantee absolute security of your Personal Information and Non-Personal Information.
+
+14.
+
+Third-Party Websites and Apps 
+
+We are not responsible for the privacy practices or disclosures of websites and applications that use our Services.
+Likewise, when you access the OneSignal Website, you may be directed to other websites that are also beyond our control.
+We encourage you to read the applicable privacy policies and terms and conditions of such third parties and websites, and the industry tools that we have referenced in this Privacy Policy.
+This Privacy Policy, however, only applies to the OneSignal Site and the Services.
+
+15.
+Users From Outside the United States 
+
+
+The Website and our Services are provided, supported and hosted in the United States, and our operation of them is governed by United States law.
+If you are using the Site from outside the United States, be aware that your Information may be transferred to, stored and processed in the United States and other countries where our facilities are located.
+The data protection and other laws of the United States might not be as comprehensive as those in your country.
+By using the Site you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in this Policy.
+
+16.
+Dispute Resolution 
+
+In compliance with the Privacy Shield Principles, OneSignal commits to resolve complaints about our collection or use of your personal information.
+EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact OneSignal at: privacy@OneSignal.com.
+
+OneSignal has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU and Switzerland.
+In the event we are unable to resolve your concern, a binding arbitration option may also be available to you in order to address residual complaints not resolved by any other means.
+OneSignal is subject to the investigatory and enforcement powers of the United States Federal Trade Commission ("FTC").
+
+17.
+Changes to This Privacy Policy 
+
+We reserve the right, at our sole discretion, to modify this Privacy Policy or any portion thereof.
+Any changes will be effective from the time of publication of the new privacy policy.
+If we believe that the changes are material, we will let you know by doing one (or more) of the following: (i) posting the changes on or through the Services, (ii) sending you an email or message about the changes.
+Your continued use of the Services after the changes have been implemented shall indicate your agreement with the terms of such revised privacy policy.
+Otherwise, and if the new privacy policy does not suit you, you must no longer use the Services.
+
+18.
+Contacting Us 
+
+If you have any questions regarding this Privacy Policy, please contact us at privacy@OneSignal.com.

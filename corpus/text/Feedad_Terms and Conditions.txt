@@ -1,0 +1,180 @@
+
+        Terms and Conditionsof FeedAd GmbH, Wichernstr.
+10, 01445 Radebeul, Germany (herein collectively "FeedAd")
+These Terms and Conditions are entered into by FeedAd and the customer (herein "Contractual Partner").
+Potential Terms and Conditions of Contractual Partner shall not become part of this agreement.Section IGeneral TermsÂ§ 1 Definitions
+An "Ad Request" means a request by Contractual Partner for a creative from FeedAd.
+"Software" means the part of applications provided free of charge by FeedAd, including the ad player, which facilitates the delivery of ads.
+"Confidential Information" means data, information, and documents relating to the Software referred to within this agreement including technical, application, financial, and commercial data, information, and documents, as well as information and documents regarding operational processes, business relations or know-how of a party known to or disclosed to the other party due to or in relation to this agreement.
+"Ad Inventory" means the online advertising space provided by Contractual Partner to display ad campaigns.
+"Ad Impression" means the call of a FeedAd ad due to an Ad Request.
+
+Â§ 2 Contractual Object
+The object of this agreement is the marketing of the Ad Inventory of Contractual Partner by FeedAd on placements and environments specified in the Marketing Agreement.
+FeedAd in their own name and for their own account markets ad campaigns on advertising space provided by Contractual Partner (see Section II of these Terms and Conditions).
+In addition to 2.1, the object of this agreement is to provide Contractual Partner with the Software and the right of use of the Software to display online ads (see Section III of these Terms and Conditions).
+The parties agree that the installation and configuration of the Software and all services related to the installation and configuration as well as to consulting and advice are not part of this agreement.
+Section IIMarketing of Ad InventoryÂ§ 3 Objects and Purpose of the AgreementBoth parties share the aim to efficiently market and utilize the Ad Inventory of Contractual Partner and shall to this end make the necessary arrangements.
+Â§ 4 Marketing of the Ad Inventory
+Contractual Partner provides FeedAd with access to its Ad Inventory.
+FeedAd shall only process an Ad Request by Contractual Partner by delivering a creative.
+FeedAd is under no obligation to deliver a creative.
+Upon calling an advertising space that is part of the Ad Inventory provided to FeedAd, an Ad Request is submitted to FeedAd to deliver an ad campaign for the advertising space in question.
+If an ad campaign is available, its creative shall be displayed generating an Ad Impression.
+If no applicable ad campaign is available on the part of FeedAd, the Ad Request is sent back to Contractual Partner for further processing.
+By request, FeedAd shall provide Contractual Partner with an ad player to generate Ad Requests and display ad campaigns (see Section III of these Terms and Conditions).
+FeedAd reserves the right to only process Ad Request made through the provided ad player's most current version.
+FeedAd shall supply advertisers with a record of the platforms of Contractual Partner available for displaying ad campaigns.
+Contractual Partner agrees that FeedAd may supply advertisers with information necessary for the tracking and implementation of an ad campaign as well as additional information as agreed upon by both parties.
+FeedAd provides Contractual Partner with an online administration console both to configure display parameters and to ascertain reports on the display performance (Ad Impressions) by calendar dates and months based on UTC as well as additional data for performance and quality control for each ad placement.
+
+Â§ 5 Quality Assurance
+
+Both parties agree that the marketing of the Ad Inventory of Contractual Partner can only be achieved successfully by adhering to pre-defined quality criteria for the Ad Inventory.
+To this end, upon entering into this agreement, FeedAd and Contractual Partner shall define the conceptual and technical parameters of the Ad Inventory within a whitelist.
+
+
+Contractual Partner agrees to only send Ad Requests to FeedAd from environments and with parameters defined within the whitelist.
+
+
+FeedAd shall examine the ad display setup of Contractual Partner before approving in writing (by e-mail) Contractual Partner's sending of Ad Requests and delivering of ad campaigns in live operating conditions.
+
+
+Following this approval by FeedAd, Contractual Partner may not modify the conceptual and technical parameters of the Ad Inventory.
+
+
+The whitelist defining the conceptual and technical parameters of the Ad Inventory may be modified and updated by both parties.
+Such changes on the part of one party must be sent in writing to the other party and require a re-examination as well as a re-approval in writing by FeedAd before their implementation in live operating conditions.
+
+
+Contractual Partner shall not send Ad Requests to FeedAd from within the following environments:
+
+Content which glorifies violence;
+Pornographic content;
+Racist content and content disparaging individuals, groups, or organisations;
+Drug and drug paraphernalia content;
+Content advertising the sale of weapons or ammunition, e.g.
+firearms, weapon accessories, combat knives or stun guns;
+Excessively vulgar content;
+Party-political content;
+File sharing and downloads;
+Hacking and cracking related content;
+Gambling and casino related content;
+Content advertising the sale of beer and spirits;
+Content advertising the sale of tobacco and tobacco products;
+Content advertising the sale of prescription drugs and medicines;
+Content advertising the sale of replicas and pirated brand products;
+Content advertising the sale of student papers, e.g.
+term papers or examinations;
+Adult content;
+Content related to applications rewarding users for clicking ads or services, executing search queries, visiting websites or reading emails;
+Every other illegal content or content advertising illegal activities or violating the rights of third parties.
+
+
+
+Contractual Partner shall not send Ad Requests generated automatically or by bots.
+
+
+The following minimum quality requirements for Ad Requests apply:
+
+Placements must not be smaller than 400 dp in height or 300 dp in width.
+Placements must not be superimposed by or restricted by user interface elements.
+
+
+
+Any claim to remuneration for Ad Impressions (see Â§ 7) against FeedAd is excluded for Ad Requests sent or generated from within environments and/or Ad Requests that are in conflict with the quality criteria and requirements set out in passages 5.1 to 5.8.
+Contractual Partner must demonstrate that the quality criteria and requirements set out in passages 5.1 to 5.8 have been complied with.
+
+
+Contractual Partner is liable for all damages resulting for FeedAd from a violation of the provisions set out in Â§ 5.
+Contractual Partner shall release FeedAd and its associated companies on first demand from any and all third-party claims related hereto, including contractual penalties.
+
+
+Â§ 6 Privacy
+Within the scope of fulfilment of this agreement, FeedAd may process personal data of representatives of Contractual Partner or of users of Contractual Partner's platform.
+In doing so, FeedAd shall comply with the relevant legal requirements, in particular the German Federal Data Protection Act (BDSG) and the EU's General Data Protection Regulation (GDPR) if applicable.
+Contractual Partner is obliged to apprise its users of its use of the ad player (see section III of these Terms and Conditions) and the data processing related thereto.
+Insofar as FeedAd processes personal data of the users of Contractual Partner within the scope of fulfilment of this agreement on behalf of Contractual Partner, the two parties shall conclude an agreement regarding the data processing on behalf of a controller in accordance with articles 11 of the German Federal Data Protection Act (BDSG) and 28 of the EU's General Data Protection Regulation (GDPR).
+
+Â§ 7 Compensation, Invoicing, Payments
+FeedAd shall remunerate Ad Requests provided by Contractual Partner in accordance with the price laid down in the Marketing Agreement.
+FeedAd shall only remunerate actually performed Ad Impressions.
+The prices stated are net.
+agency commission cannot be deducted.
+Ad Impressions shall be processed monthly with the reporting time and date always set on the last calendar day of the month at 23:59:59 Uhr UTC.
+The sum total shall be ascertained on the basis of FeedAd data.
+Both parties agree that for Ad Impressions a measurement variance factor of up to 5 % is market standard.
+In case of variances above 5 %, both parties shall coordinate to examine the cause of the variance and eliminate it as quickly as possible.
+In the interim, FeedAd data shall apply.
+FeedAd shall report the remunerated Ad Impressions to Contractual Partner within 5 days after the end of the accounting month as a credit statement.
+This credit statement shall be paid out within 30 working days after the end of the accounting month.
+If FeedAd pays out the credit statement within 15 working days after the end of the accounting month, a deduction of 2 % of the credit amount shall apply.
+Section IIILending of SoftwareÂ§ 8 Lending of Software and Grant of Rights of Use
+If requested by Contractual Partner, FeedAd shall provide Contractual Partner with a Software to display ads during the contract period.
+FeedAd shall provide Contractual Partner with both the Software and a manual detailing its usage during the contract period.
+Both the Software and the manual will be delivered by download link.
+If Contractual Partner uses the Software to fulfil this agreement, Contractual Partner shall be granted the non-exclusive, non-transferrable, non-sublicensable, free of charge right to use the Software as specified in this agreement during the contract period by way of software lending.
+This right of use is granted exclusively to achieve the objectives laid down in the second part of this agreement.
+Contractual Partner is permitted to create a backup copy of the Software specified in this agreement.
+Contractual Partner is not entitled to use the Software specified in this agreement beyond the scope laid down in passages 8.1 to 8.4.
+In particular, Contractual Partner shall not copy the Software specified in this agreement beyond the scope of passage 8.4 and is not entitled to sell, lend, hire out or in any other way sub-license the Software or communicate it publicly or make it available to third parties directly or indirectly.
+Contractual Partner is also not entitled to modify the Software specified in this agreement.
+The Software and the granting of rights regarding the Software specified in this agreement shall be provided to Contractual Partner free of charge.
+Contractual Partner shall only have rights of use beyond the scope of passages 8.1 to 8.6 if so specified in the Marketing Agreement.
+FeedAd may revoke this expanded right of use at any time with a notice period of 14 days.
+
+Â§ 9 Protection of the Software specified in this AgreementContractual Partner shall use suitable technical and organisational measures to protect the Software from unauthorised third-party access.
+Â§ 10 Software Liability
+FeedAd shall be liable for the Software specified in this agreement only in accordance with article 600 German Civil Code (BGB) in cases where FeedAd fraudulently conceals a defect in the Software.
+No further liability for defects on the part of FeedAd shall apply.
+Section IVFinal ProvisionsÂ§ 11 Limitation of Liability
+Regarding the Software provided to Contractual Partner, FeedAd as the lender shall only assume liability for damages arising from acts of intent or gross negligence in accordance with article 599 German Civil Code (BGB).
+Regarding all further contractual obligations, FeedAd and Contractual Partner shall only be liable for damages that are due to a wilful or grossly negligent breach of duty or in cases of an at least negligent breach of essential contractual duties ("cardinal duties").
+Cardinal duties are duties that constitute a condition sine qua non for the orderly fulfilment of the agreement, on whose fulfilment the other party relies and may rely and/or duties whose breach compromises the achievement of the purpose of the agreement.
+Liability for cardinal duties is limited to the foreseeable damage typical for the type of agreement.
+The foregoing limitation of liability shall not apply to damage arising from the injury of life, body or health or in matters where FeedAd or Contractual Partner have taken on a warranty as an exception.
+Insofar as the liability of FeedAd or Contractual Partner is limited or shall not apply, this shall also apply to the personal liability of its bodies, employees or assignees of FeedAd or Contractual Partner.
+Contractual Partner is obliged to make regular backups of his data in order to reduce damages.
+
+Â§ 12 Confidentiality
+Both parties shall treat confidential information as strictly confidential and shall only use it towards the performance of this agreement.
+Both parties shall make available confidential information only to those employees who need to know it to fulfil this agreement.
+Both parties shall charge those of their employees to whom confidential information has been made available to maintain confidentiality regarding this confidential information even beyond their time of departure from FeedAd or Contractual Partner insofar as possible under the law and within the framework of the applicable labour laws.
+In addition, both parties shall only grant access to confidential information to consultants who are subject to professional secrecy or who have been subjected to confidentiality obligations to the extent described in Â§ 12 before having been given access to confidential information.
+The aforementioned obligations shall not apply to confidential information which
+is apparent at the time of its communication;
+is publicly available at the time of its communication or is subsequently made public, without this being due to any breach of this agreement;
+is already known to the receiving party at the time of its communication;
+is made known to the receiving party by third parties in a legal manner after its communication;
+is required to be made public by the receiving party as a result of a mandatory legal obligation or an enforceable order issued by a court or authority.
+
+
+
+In the event of disclosure of confidential information pursuant to subparagraph e), the party required to disclose shall, to the extent permitted by law, inform the other party to give the other party the opportunity to oppose this disclosure.
+Â§ 13 Term and Termination
+The duration of this agreement is determined by the Marketing Agreement concluded between the two parties.
+This agreement maybe terminated by either party without notice for important reasons.
+An important reason that entitles FeedAd to terminate the contract without notice is given in particular if and as soon as Contractual Partner uses the Software specified in this agreement beyond the scope described in Â§ 9.
+Termination of the agreement by either of the parties must be in written form.
+
+Â§ 14 Legal Consequences of the Termination of the Agreement
+In the event of termination of this agreement, FeedAd shall pay to Contractual Partner the remuneration pursuant to Â§ 7 for the Ad Impressions billable at the time of termination of the contract.
+The provisions of Â§ 7 shall apply accordingly.
+Upon termination of this agreement, Contractual Partner shall immediately cease all use of the Software specified in this agreement.
+Within a period of two weeks from the effective termination of the contract, Contractual Partner shall delete all versions of the Software specified in this agreement on his systems as well as any backup copies made.
+At the request of FeedAd, Contractual Partner is obliged to provide evidence of the deletion of the Software from his systems and of the backup copy.
+FeedAd shall be entitled to audit compliance with the obligation under sentence 1 from the first day after termination of the contract and the obligations under sentence 2 from the first day after expiry of the period specified therein.
+If Contractual Partner does not completely fulfil one of his obligations according to passage 14.2, sentence 1 or sentence 2 within the respective periods stated therein, FeedAd shall be entitled to a tech fee amounting to EUR 0.01 net per 1000 Ad Request sent to FeedAd after expiry of the respective period.
+Any claims of FeedAd that go beyond the claims mentioned in passage 14.3 remain unaffected.
+The provisions of Â§ 12 shall continue to apply even after termination of this agreement.
+
+Â§ 15 Written Form, Choice of Law and Place of Jurisdiction
+Amendments, supplements or the cancellation of this agreement must be in writing in order to be effective.
+This also applies to the cancellation of the aforementioned formal requirement.
+This agreement is subject exclusively to German law to the exclusion of the UN Convention on Contracts for the International Sale of Goods (CISG) and the conflict of laws provisions.
+The sole place of jurisdiction for all disputes arising from or in connection with this agreement shall be Dresden, Germany.
+
+Â§ 16 Severability ClauseShould individual provisions of this agreement be or become invalid or inapplicable in whole or in part, or should there be a gap in the agreement, this shall not affect the validity of the remaining provisions.
+Instead of the ineffective or inapplicable provision or to fill the gap, an appropriate provision shall be made which, as far as legally possible, comes closest to what the parties intended or would have intended according to the meaning and purpose of this agreement if they had considered the point.
+This agreement was written in German.
+To the extent any translated version of this agreement conflicts with the German version, the German version controls.

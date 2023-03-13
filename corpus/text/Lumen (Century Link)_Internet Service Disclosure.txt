@@ -1,0 +1,585 @@
+
+         Internet Service Disclosure Network Practices Congestion Management Policy CenturyLink monitors and proactively reinforces our network with additional capacity in areas where growth trends identify a need.
+If network congestion occurs, CenturyLink employs various techniques to ensure a positive customer experience and fair distribution of network resources.
+Currently, based on our experience, if CenturyLink customers encounter any congestion, it is typically during the hours of peak usage - between 7 p.m.
+and 11 p.m.
+local time.
+During peak hours, the majority of our residential customers are attempting to use the Internet simultaneously, giving rise to a greater potential for congestion.
+Peak usage will vary due to extraordinary conditions such as pandemics, weather events and/or national emergencies.
+When network congestion is identified, CenturyLink uses various techniques to create a good customer experience.
+Our network management techniques include preventing virus/spam delivery to customer email accounts.
+We also reinforce our network with additional capacity in areas where congestion is identified or as part of standard network engineering design plans.
+In some cases, we may limit the number of customers that can be served on a particular network node or, in very rare cases, we may need to downgrade the service available to existing customers until additional capacity can be added. 
+The links CenturyLink and other networks use to exchange traffic may also become congested at times.
+CenturyLink devotes considerable resources to maintaining adequate traffic exchange arrangements with these other networks and has entered into commercially negotiated agreements to exchange traffic with them on mutually agreeable terms wherever possible.
+Consistent with its agreements with those other networks and its long-standing practices, CenturyLink will work to establish or expand the connections between its network and other networks on mutually agreeable terms when needed.
+But, sometimes this is not possible due to circumstances beyond CenturyLink's control.
+For example, in some instances, other networks refuse to make adequate arrangements.
+In other instances where adequate arrangements are in place, some edge providers or their intermediaries (other networks) choose to route traffic in ways that result in congestion when there are other choices.
+If CenturyLink is unable to reach agreement on the terms of its interconnection or network expansion with these other networks, or if some of these other circumstances occur, it could affect a customer's ability to upload or download data via Internet endpoints connected to those networks.
+Unfortunately, CenturyLink cannot guarantee that it will be able to establish or expand the connections between its network and other networks, or that subscribers will be able to upload data to or download data from Internet end points connected to other networks at any particular speed. Application-Specific and/or User-Specific Policy CenturyLink High-Speed Internet customers receive full access to all of the lawful content, services, and applications that the Internet has to offer.
+As described more fully below, CenturyLink deploys Type of Service (ToS) and Differentiated Service (DiffServe) capabilities at the customer modem and in limited network equipment deployed across the CenturyLink High-Speed Internet network for the CenturyLink Digital Home Phone service (a non-BIA or specialized service).
+And, the network equipment enabled with this capability will honor ToS and DiffServe settings of any third-party network consistent with the National Standards recommendations described in the Internet Engineering Task Force (IETF) RFC 1349 and RFC 2474.
+CenturyLink does not otherwise block, prioritize, or degrade any Internet sourced or destined traffic based on application, source, destination, protocol, or port unless it does so in connection with a security practice described in the security policy section below.
+CenturyLink also deploys certain user-specific policies (i.e.
+practices that are applied to traffic associated with a particular user or user group).
+Currently, these are limited to practices described above and the security practices described in the security policy section below.
+Device Attachment Policy
+
+Customers have the flexibility of attaching any modem of their choice to their CenturyLink High-Speed Internet service provided that the modem supports the technology on which the customer is provisioned.
+CenturyLink will not support any modem-related issues for customers that attach a non-certified modem.
+A list of CenturyLink compatible modems can be found here.
+Customers who choose to attach a modem approved by CenturyLink may contact our High-Speed Internet Technical Support Chat.
+Customers are encouraged to check the firmware in their modems to ensure that the latest version of firmware is downloaded.
+This URL provides guidelines on how to upgrade your modemâs firmware:
+https://www.centurylink.com/home/help/internet/modems-and-routers/update-your-modems-firmware.html
+CenturyLink customers may attach devices of their choice to the modem they select.
+Any attached devices must be used in a manner consistent with our Terms of Service and Acceptable Use Policy.
+Customers in areas where CenturyLink provides wireless hotspots can connect wirelessly using any device equipped with IEEE 802.11 protocol. Security Policy CenturyLink engineers are dedicated to managing our network to ensure that all customers receive the most secure online experience.
+We use industry-leading security practices to manage our network, provide services to our customers, and ensure compliance with our Acceptable Use Policy and the terms of our High-Speed Internet agreement.
+These tools and practices may change from time to time to keep up with the new and innovative ways that customers use the network and to keep up with changing network technologies.
+When malicious behavior is identified, CenturyLink engineers employ various techniques to help provide a positive customer experience.
+Our security management techniques include ensuring that customer systems are not propagating viruses, distributing spam email, or engaging in other malicious behavior.
+For example, we use industry best practices to prevent virus/spam delivery to customer email accounts.
+We provide antivirus and antimalware applications at no additional charge to our High-Speed Internet customers.
+We also automatically detect and mitigate DoS (Denial of Service) attacks for our High-Speed Internet customers.
+We block malicious sites and phishing sites to prevent fraud against our customers and to prevent our customers from getting infected via DNS (Domain Name Service) blackholing and Internet Protocol (IP) address blackholing.
+We reserve the right at any time to take action to protect the integrity and normal operation of our networks and to safeguard our customers from Internet threats, including fraud and other forms of abuse.
+Such actions may include, but are not limited to, blocking, redirecting, or rate-limiting traffic using specific protocols, delivered over specific protocol ports, or destined for particular domain names or IP addresses associated with known malicious activity.
+Specific security practices deployed by CenturyLink may include but are not limited to:
+
+IP Spoofing Prevention
+
+The basic protocol for sending data over the Internet network and many other computer networks is Internet Protocol (IP).
+The header of each IP packet contains, among other things, the numerical source and destination address of the packet.
+The source address is normally the address that the packet was sent from.
+By forging the header so it contains a different address, an attacker can make it appear that the packet was sent by a different machine.
+The machine that receives spoofed packets will send a response back to the forged source address, which means that this technique is mainly used when the attacker does not care about the response or the attacker has some way of guessing the response.
+CenturyLink applies security measures to prevent an attacker within the network from launching IP spoofing attacks against these machines and flooding the network with unwanted data that can cause congestion.
+
+DoS/Distributed DoS Monitoring and Mitigation
+
+A denial-of-service attack (DoS attack) or distributed denial-of-service attack (DDoS attack) is an attempt to make a computer unavailable to its intended users.
+Although the means to carry out, motives for, and targets of a DoS attack may vary, it generally consists of the concerted efforts of a person, or multiple people, to prevent an Internet site or service from functioning efficiently or at all, temporarily or indefinitely.
+CenturyLink applies various security measures to prevent someone within the network from launching DoS or DDoS attacks to ensure that customers can access the Internet when needed.
+CenturyLink may block or rate-limit connections on other ports that are commonly used to exploit other customers or non-customer computers.
+CenturyLink may block sites that are used in a malicious manner to infect customers, perform fraud against them and otherwise as needed to protect our network and our customers.
+
+Port 25 Blocking
+
+CenturyLink filters port 25 to reduce the spread of email viruses and spam (unsolicited email).
+Email viruses allow malicious software to control infected computers.
+These viruses direct the infected machines to send email viruses and spam through port 25.
+Port 25 filtering is a recognized Internet industry best practice for service providers like CenturyLink to filter e-mail traffic.
+The Messaging Anti-Abuse Working Group (MAAWG), a global organization focused on preserving electronic messaging from online exploits and abuse with the goal of enhancing user trust and confidence, recommends that "providers block incoming traffic to your network from port 25."
+More information regarding CenturyLink's port 25 filtering policy can be found at 
+http://www.centurylink.com/home/help/internet/email/understanding-port-25-filtering.html.
+More information regarding the MAAWG Port 25 filtering best practices can be found at 
+http://www.maawg.org/sites/maawg/files/news/MAAWG_Port25rec0511.pdf.
+
+UDP Port 1900 Blocking
+
+CenturyLink may filter User Datagram Protocol (UDP) port 1900 to prevent DoS attacks across the network.
+SSDP (Simple Service Discovery Protocol) runs on UDP port 1900 and is part of the Universal Plug and Play (uPnP) protocol that allows discovery and configuration of devices on a local network.
+Normal use of the protocol is limited to a local network, but the protocol is used by attackers in reflective DoS across the backbone.
+
+The CenturyLink Customer Internet Protection Program (CIPP)
+
+CenturyLink has voluntarily undertaken a program to help curtail the spread of viruses and malicious software (malware), including botnets, and assist its customers whose computers are infected with viruses and malware.
+The CIPP is available to CenturyLink residential and small business broadband customers on who subscribe to the CenturyLink High Speed Internet service and provides infection notification and assistance with the mitigation of virus and malware infections, including botnets, once such infections have been detected.
+CenturyLink proactively provides virus and malware notification, mitigation and security education for these broadband customers.
+The three goals of the CenturyLink CIPP are to: 1) automate the notification of virus-infected customers.
+2) assist customers in an online, self-help manner to clean their computers of infections.
+and 3) educate its customers about the dangers of viruses and malware and benefits of good Internet security practices.
+CenturyLink residential and small business broadband customers automatically receive this service at no additional charge.
+Upon notifying a customer of a detected infection, CenturyLink informs the customer of safe Internet security practices and offers the customer online self-help tools, if practical, to remove the infection from the computer.
+The customer's unencrypted World Wide Web traffic is redirected to a walled garden to perform the notification.
+Ports commonly used to spread malware are blocked while the customer is in walled garden status.
+Most normal customer e-mail is not blocked while the customer is in walled garden status.
+These customers have the option to immediately restore their Internet connection to normal service status at this point or continue through the process for mitigation of the infection.
+CenturyLink asks infected customers to review the Internet security information that CenturyLink has provided and to access the downloadable or online tools that will help them remove the virus or malware.
+The CenturyLink CIPP website also provides customers with links to virus and malware removal guides (http://www.centurylink.com/home/support/internetprotection/).
+In some cases, customers may need to contact an anti-virus or anti-malware software provider to help them remove the virus or malware.
+If a customer tries to remove a virus or malware and still has problems, the customer can call CenturyLink broadband technical support.
+however, if the customer has a malware infection, CenturyLink encourages the customer to get assistance from an anti-malware software provider.
+CenturyLink does not scan customers' computers for viruses or malware - nor does CenturyLink remove viruses or malware from computers for customers.
+Further, CenturyLink does not scan or otherwise monitor customers' content.
+
+Other security practices to address viruses or malware
+
+
+In addition to protecting its own network, CenturyLink provides information to its customers to help them protect themselves when they are online.
+Customers can find this information at http://www.centurylink.com/aboutus/legal/online-security.html. Other Network Practices Description The following section provides additional information with regard to certain services that CenturyLink offers its customers.
+In some areas where CenturyLink is a facility-based CLEC, CenturyLink is a reseller of AT&T High Speed Internet Services.
+AT&T's disclosure can be found at http://www.att.com/gen/public-affairs?pid=20879.
+In the areas where CenturyLink is a CLEC reseller of AT&T High-Speed Internet Services, the business customer price lists may be found here.
+
+CenturyLink Web Helper
+
+When an Internet user types a nonexistent or unavailable web address in a browser field, CenturyLink's Web Helper service provides helpful suggestions when a user would otherwise encounter web address errors.
+Additionally, if we believe a website address is typed incorrectly, we may suggest the correct site.
+Users may choose to click on one of the suggested sites to complete their request.
+Customers may choose to opt-out and their preference will be stored permanently and applied to all computers connecting to the Internet via their CenturyLink connection.
+To disable or enable the service, customers must be on a computer connected to their CenturyLink modem.
+Customers may opt-out at any time by managing their preferences at http://webhelper.centurylink.com/prefs.php.
+Customers may view a copy of the CenturyLink Web Helper FAQs at http://webhelper.centurylink.com/faq.php. Performance Characteristics Expected Performance
+When you order CenturyLink High-Speed Internet access service, the service we quote you is based on an advertised "up to" connection speed.
+We continually upgrade our network, but our quoted speed is based on the characteristics of the relevant network facilities at the time you order.
+We will confirm your advertised speed at the time of installation.
+The actual throughput you experience may vary.
+During most periods, based on CenturyLink's evaluation, most customers, except for Fiber Gigabit customers subscribed to the up to 940Mb/s service as explained below, can generally expect average speeds at or above 95% of the advertised "up to" speed and many can generally expect speeds above that level.
+Less than 20 percent of customers can expect average speeds below 80% of the advertised "up to" speed.
+In rare cases, average speed may be significantly less than this level.
+The service speed is provisioned between the network device and the in-premises modem and may vary due to physical condition of the line and other factors.
+The percentage of throughput achieved will vary depending on the amount of bandwidth our network uses in delivering service to you, as well as other factors outside of CenturyLink control such as customer location, the quality of the inside wiring within the home, the websites accessed by the customer, usage of the network during peak periods of the day and the customer's equipment within the home or premises.
+Latency (the time it takes for a data packet to travel from one point to another in a network) is also highly variable depending on the network path, other providers in the path, as well as the actual distance to the destination and performance of the end destination servers.
+It generally increases with distance of the route between the source and destination and with any congestion on the route, and decreases as actual speed increases.
+CenturyLink measures latency by measuring the round-trip time from the consumer's home to the closest measurement server and back.
+CenturyLink High-Speed Internet customers should expect roundtrip latency to most general Internet sites in the range from 50-150 milliseconds.
+Packet loss (the percentage of packets that are sent by the source but not received by the destination) is also highly variable.
+The most common reason that a packet is not received is that it encountered congestion along the route.
+A small amount of packet loss is expected, and indeed some Internet protocols use the packet loss to understand Internet congestion and to adjust the sending rate accordingly.
+CenturyLink denotes a packet as lost if the latency exceeds 3 seconds or if the packet is never received.
+CenturyLink High-Speed Internet customers should generally expect to experience packet loss at the rate significantly below 1% or at levels unlikely to significantly affect customer experience.
+
+Fiber Gigabit Service
+
+The ultrafast Fiber Gigabit service delivers a line rate of 1 Gbps* speed from the network to your location with an IP bandwidth throughput of up to 940Mbps via a wired connection. &nbsp.
+Protocols within the Fiber Gigabit service technology and Internet protocol consume a small portion (around 60Mbps) of the 1Gbps line rate for signaling and control to ensure the data is reliably delivered. &nbsp.
+All devices within the home will share the available bandwidth throughput of the Fiber Gigabit service.&nbsp.
+If multiple users or devices are connected to the service, any given speed test will show results of less than 940Mbps. &nbsp.
+Speed test results can be impacted by many factors, many of which are outside CenturyLinkâs control.&nbsp.
+* - Note:&nbsp.
+1Gbps = 1,000 Mbps.
+
+Factors Impacting Internet Throughput:&nbsp.
+The items listed below are some of the more significant items which impact service throughput on an ultrafast Fiber Gigabit service (as well as all other High-Speed Internet services) but is not an all-inclusive list. 
+
+The number of devices connected to the customerâs network - A customer can use one device or many devices to access the Fiber Gigabit Internet service. &nbsp.
+When multiple devices are connected to the Fiber Gigabit service, they will share the throughput provided to the service address. &nbsp.
+Multiple devices sharing the internet connection can affect the speed each device and its respective applications experience, depending on the applications being utilized.
+Customerâs hardware â personal computer, laptop, handset, tablet, gaming device, etc.
+must be capable of processing the throughput enabled by the Fiber Gigabit service.&nbsp.
+Processor type, operating system, browser version, memory and hard disk size are several of the many attributes impacting overall throughput (See Connected Device Minimum Requirements section for recommendations on computer hardware).
+Internet backbone congestion â Internet congestion generally occurs in the late afternoon and late in the evening. &nbsp.
+Accessing websites during congestion periods will limit the ability to recognize full service throughput.
+Congestion could occur outside of CenturyLinkâs network.
+Website connections to the Internet â website servers may not have Fiber Gigabit network speed connectivity to the Internet and are therefore not able to send requested data as fast as the Fiber Gigabit service being provided to you.
+Website servers â website servers may not have the memory or processor power to send data at Fiber Gigabit speeds to the Internet, regardless of the website connection to the Internet.
+Other Internet networks â Internet service providers around the world are interlinked to ensure all web content can be accessed. &nbsp.
+The interlinked âpeeringâ arrangements between service providers may impact throughput based on interconnection speeds between the service providers.&nbsp.
+Websites being accessed may reside on other interlinked carriersâ networks with slower interconnection speeds.&nbsp.
+Peering point congestion is managed by CenturyLink and other service providers on an on-going basis.
+
+
+Fiber Gigabit In-Home Requirements to Maximize High-Speed Internet Throughput:&nbsp.
+To optimize the Fiber Gigabit Internet throughput, CenturyLink recommends the following gateway, device and wireless configurations to help ensure the best customer experience:
+1.  &nbsp.
+Gateway / In Home Networking Configuration:
+
+Use of the CenturyLink provided gateway
+Recommend not attaching any additional gateway/router devices not sold/approved by CenturyLink behind the CenturyLink gateway
+
+
+If using additional gateway, enable bridge mode on CenturyLink gateway via the following steps http://www.centurylink.com/home/help/internet/modems-and-routers/zyxel-c3000z/access-advanced-setup/wan-settings.html
+Additional modem / gateway information is provided at https://www.centurylink.com/home/help/internet/modems-and-routers.html
+
+2.  &nbsp.
+Connected Device Minimum Requirements:
+
+Personal Computer / Windows based device
+Operating System:&nbsp.
+Windows 10 (64 bit)
+Processor: IntelÂ® Coreâ¢ i5-3320M CPU @ 2.60GHz (4 CPUs)
+Memory: 16 GB of RAM or greater
+Network interface card:&nbsp.
+1Gbps enabled Ethernet port
+Browsers:
+Internet Explorer 11
+Firefox 55 and above
+Google Chrome 70.0.3538.77 and above
+
+
+
+
+MAC
+Quad-Core Intel Core i7 (or faster) processor
+Memory: 16 GB of RAM
+Operating System:&nbsp.
+OS X 10.13.6 and above
+Browser:&nbsp.
+Safari 11.1.2 and above
+Network interface card: 1Gbps enabled Ethernet port
+
+
+Wired Configuration:
+Connect via the Ethernet port on CenturyLink gateway
+Use 1Gbps network interface card on computer / connected hardware (Intel or Broadcom based interface cards preferred)
+Use Cat5e or Cat6 cabling between the CenturyLink gateway and customer equipment.&nbsp.
+Ensure eight wires are connected from the cable to the RJ45 connector on each end of the cable. &nbsp.
+The wires can be visible through the transparent connector on each end of the cable.
+
+
+Wireless Configuration:
+Wireless speeds will vary due to many factors such as Wi-Fi radio enabled on the gateway, Wi-Fi radio on the receiving device, environmental conditions, type of hardware device connecting to the service, the operating system of the device and distance between the Wi-Fi radio and the device receiving the bandwidth. &nbsp.
+See âWireless Factors Impacting High-Speed Internet Throughputâ section below for further detail.
+The Fiber Gigabit service will only deliver up to 940Mbps of throughput over a wired connection and a generally expected throughput of up to 400 to 600 Mbps via a wireless connection.&nbsp.
+The full throughput cannot be experienced over Wi-Fi radios due to 802.11ac Wi-Fi technology limitations (see Wireless Factors Impacting High-Speed Internet Throughput section).&nbsp.
+As Wi-Fi standards progress beyond the currently available 802.11ac standard, it is expected that the new Wi-Fi 6 standard (802.11ax) could be capable of delivering 940Mb/s wireless throughput once it becomes available in the consumer electronics industry and integrated into gateways and end user devices, potentially as early as end of 2019 or beginning of 2020. 
+To optimize wireless throughput, CTL recommends the following:
+Place Wi-Fi enabled CenturyLink gateway in a centralized location to maximize coverage, away from any devices that generate signal frequencies (microwaves, etc.)
+Ensure the gateway has an unobstructed path to where most of the wireless devices will be operating 
+Minimize the number of wireless devices connecting to the gateway, turn off devices if not in use
+Use 802.11ac radios with the 5GHz channel enabled
+
+
+
+
+
+
+Wireless Factors Impacting High-Speed Internet Throughput
+
+
+Wireless throughput in the home will vary due to many factors, including Wi-Fi radio used, environmental conditions, the number of devices connected via the wireless signal, and distance between the Wi-Fi radio and the receiving device (e.g., laptop, computer, tablet, mobile phone, etc.). &nbsp.
+The device receiving the throughput can also impact the throughput by the configuration of hardware (e.g., operating system, processor, memory, etc.).&nbsp.
+Additional details regarding some of the more prevalent factors impacting wireless throughput are listed below:
+
+Environmental Limitations: walls (brick, normal drywall construction, etc.), metal cabinets, windows and HVAC duct work are a few of the many construction materials that degrade Wi-Fi signals.&nbsp.
+Each building has unique properties that may degrade the wireless throughput.
+Distance from CenturyLink gateway â the atmosphere (air) between the gateway and the receiving wireless device degrades the wireless signal. &nbsp.
+In general, the greater the distance from the gateway to the receiving device, the slower the speed.
+Type of Wi-Fi Radio:&nbsp.
+There are several types of Wi-Fi radios readily available in the marketplace.&nbsp.
+The most prevalent in the marketplace are versions 802.11b, g, n and ac.&nbsp.
+The higher the letter/letter combination at the end of the 802.11 version, the higher the speed.&nbsp.
+Both the sending and receiving devices must be enabled with the same radios to achieve maximum throughput expected for any specific radio type.&nbsp.
+When two different radio types are being used between sending and receiving devices, the lower speed version will determine maximum throughput.&nbsp.
+To maximize wireless throughput, CenturyLink recommends using 802.11ac enabled devices to achieve the greatest expected throughput range for the High-Speed Internet service, particularly when subscribing to the Fiber Gigabit service.&nbsp.
+See the table below regarding maximum theoretical and generally expected throughput by Wi-Fi radio version.&nbsp.
+âGenerally Expected Throughputâ is a guideline, but wireless service performance will vary based on each customerâs unique environment.
+
+ 
+Wi-Fi Radio Version
+Theoretical Maximum Throughput*
+Generally Expected Throughput
+802.11b
+11 Mbps
+<11 Mbps
+802.11g
+54 Mbps
+12 â 20 Mbps
+802.11n
+600 Mbps
+40 - 60 Mbps
+802.11ac
+1.7 Gbps
+400 â 600 Mbps
+* - Maximum theoretical throughput is defined through the IEEE 802.11 standard.&nbsp.
+The industry standard is created and maintained by the Institute of Electrical and Electronics Engineers (IEEE) LAN/MAN Standards Committee (IEEE 802):&nbsp.
+http://www.ieee802.org/11/
+ 
+
+Number of devices connected wirelessly: &nbsp.
+In general, the more wireless devices connected to the service, the slower the wireless connection will be. &nbsp.
+Wireless radios generally see a reduced throughput as more devices are connected to a gateway but is dependent upon each manufacturerâs design. &nbsp.
+This is due to processor and antenna resource allocation within the Wi-Fi radio.&nbsp.
+As more devices get connected, the radioâs resource allocation to any one device generally is decreased.
+The use of Wi-Fi Extenders / Mesh devices to improve coverage:&nbsp.
+the use of Wi-Fi extenders or mesh devices are used to increase the Wi-Fi signal coverage.
+However, each extender / mesh device may impact overall wireless throughput depending on the specific solution used.&nbsp.
+To optimize the Wi-Fi network throughput using Wi-Fi extenders or mesh devices, confirm Wi-Fi radio type is consistent with the CenturyLink Gateway.
+Then consult the respective Wi-Fi extender or mesh user manual(s) to validate throughput capabilities, ensure proper configuration and adherence to equipment placement recommendations.
+Number of other Wi-Fi networks in close proximity:&nbsp.
+multiple Wi-Fi networks working in close proximity can cause signal interference and throughput issues.
+
+If, after purchasing your service, you are not satisfied with the performance you are receiving, please chat with CenturyLink Technical Support. Actual network performance metrics The tables below set forth peak period (7-11 PM local time) medians/averages for download, upload, latency and packet loss performance for CenturyLink's High Speed Internet access services - by the download and upload speed portion of your tier, respectively.
+It is updated on a periodic basis.
+Certain of CenturyLink's services were subjects of the Federal Communications Commission's 2017 Measuring Broadband America (MBA) - Fixed Broadband Report.
+For those services, indicated by an "*", the chart data are derived from the FCC's 2017 study and represent the medians of the MBA samples, consistent with that report.
+For the remaining services, the speed data represent averages of network speeds and are derived from either internal lab tests that CenturyLink has conducted regarding its services or network train rate calculations modified by statistical modeling to replicate the likely congestion experience.
+The latency and packet loss data are derived from actual network measurements - using sample sizes that are equal to or larger than those utilized in the FCC's reporting and also represents average values.
+ 
+
+Speed Tier (Advertised "Up-to" Download Speed)
+
+
+Download Speed (Mbps) Peak-Period Median/Average
+
+
+Latency (ms) Peak-Period Median/ Average
+
+
+Packet Loss (%) Peak-Period Median/Average***
+
+512kbps
+0.44
+**
+**
+768kbps
+0.69
+**
+**
+1.5Mbps*
+1.22
+68
+0.58
+3Mbps*
+2.88
+42.5
+0.40
+4Mbps
+3.21
+**
+**
+5Mbps
+4.73
+36.79
+0.03
+6Mbps
+4.73
+**
+**
+7Mbps#
+5.89
+56.93
+0.06
+8Mbps
+6.90
+**
+**
+10Mbps*
+9.18
+32.5
+0.41
+12Mbps*
+11.12
+32.5
+0.68
+15Mbps
+12.62
+38.52
+0.00
+20Mbps*
+19.45
+31
+0.48
+25Mbps
+20.85
+40.27
+0.04
+40Mbps*
+39.87
+29.5
+0.62
+60Mbps
+53.04
+16.14
+0.00
+80Mbps
+67.40
+20.68
+0.01
+100Mbps
+(fiber)
+97
+13.74
+0.124
+1 GIG
+875
+3.82
+0.23
+# Data is from the 2015 MBA report.
+*** Denotes results from the 2015 MBA report.
+In the latest 2017 MBA Report, the FCC did not publish these results.
+** For a limited number of CenturyLink's older speed tier products, CenturyLink has been unable to-date, due to technical limitations, to derive latency and packet loss data from actual network measurements.
+CenturyLink will continue its efforts to provide this data and will post it promptly if it becomes available.
+But, in the meantime, the more generalized statements regarding latency and packet loss expectations for these tiers remain accurate.
+
+Speed Tier (Advertised "Up-to" Upload Speed)
+
+
+Upload Speed (Mbps) Peak-Period Median/Average
+
+128kbps
+0.16
+256kbps#
+0.22
+384kbps
+0.35
+512kbps*
+0.43
+640kbps
+0.65
+768kbps*
+0.66
+896kbps*
+0.72
+1Mbps
+0.99
+1.5Mbps
+1.38
+2Mbps
+1.70
+5Mbps*
+4.85
+10Mbps
+10.00
+20Mbps
+19.6
+50Mbps
+50.30
+100Mbps
+(fiber)
+98
+1 GIG
+890
+# Data is from the 2015 MBA report.
+The full version of the FCC Measuring Broadband America report, which, as noted above, includes data regarding the performance of some but not all of CenturyLink High-Speed Internet services, is available at:
+https://www.fcc.gov/reports-research/reports/measuring-broadband-america/measuring-fixed-broadband-eighth-report#block-menu-block-4
+Note, due to CenturyLink's corporate history, the relevant data in the FCC report may refer to a CenturyLink or a Qwest service depending upon a customer's geographic area.
+Consumers may also determine the High-Speed Internet speeds available at their address on the CenturyLink website located at www.CenturyLink.com.
+For a full description of the CenturyLink High-Speed Internet service, please refer to the service agreement at:
+http://www.centurylink.com/legal/highspeedinternetsubscriberagreement.
+Once service is installed, customers can also determine the throughput of their High-Speed Internet service via the CenturyLink Speed Test.
+These websites will provide the throughput, latency results for service provisioned over the CenturyLink network.
+Third-party speed test results may be different than the data provided on the CenturyLink-provided speed test since third-party sites may include data for non-CenturyLink network facilities.
+All CenturyLink High-Speed Internet services are provided either by fiber, DOCSIS, wireless hotspots, or digital subscriber line technology.
+The particular technology for your service will be based upon what is available in your geographic area.
+CenturyLink High-Speed Internet services may be suitable for real-time applications such as Voice over Internet Protocol or VoIP.
+The suitability for real-time applications depends on the speed purchased, bandwidth required for the application, and time of day usage of the application.
+Network speeds for CenturyLink High-Speed Internet services provided over wireless hotspots may vary.
+The performance the user experiences, once they connect, may vary based on any number of factors, such as the maximum bandwidth allocated for Wi-Fi services, the number of other users trying to use the same Wi-Fi at the same time, the user's computer or wireless device, the Wi-Fi receiving antenna, and the distance from the Wi-Fi router.
+These Wi-Fi routers use spectrum that the FCC has allocated for "unlicensed" use, which means that, like wireless routers used for in-home networking, the use of this spectrum is not protected from interference from other devices using the same spectrum in the same geographical area.
+This makes it inherently difficult to predict what kind of performance you can expect. CenturyLink Non-Broadband Internet Access (or 
+Specialized Services) Policy CenturyLink offers certain non-broadband Internet access services (or specialized services).
+
+CenturyLinkÂ® PrismÂ® Services
+
+
+CenturyLink offers Internet Protocol-video based service called PrismÂ® TV via a set-top box to its customers in certain locations.
+PrismÂ® TV is a 100 percent digital TV service offering local, premium and high-definition channels delivered over the company's advanced, managed network.
+PrismÂ® TV is built on an interactive platform, where updates are made automatically to offer customers a better combination of TV entertainment features compared with cable and satellite.
+CenturyLinkÂ® PrismÂ® TV provides access to more than 240 all-digital channels, including Hispanic and international channels, as well as Pay per View and Video on Demand.
+PrismÂ® TV service is available in a number of different packages to meet various customer needs.
+Customers may purchase PrismÂ® TV in a bundle with CenturyLinkÂ®
+
+High-Speed InternetÂ® service.
+Customers choosing this bundle will receive their PrismÂ® TV video content over the same broadband connection as they receive their High-Speed Internet service.
+In order to provide a consistently high-quality video service, PrismÂ® TV traffic is assigned a higher service priority than public Internet traffic (i.e.
+relative to a PrismÂ® TV customer's public Internet traffic on transmission paths dedicated to the PrismÂ® TV customer and relative to all public Internet traffic on those portions of the CenturyLink last mile broadband network architecture that support both PrismÂ® TV and access to the public Internet).
+This prioritization technique only applies during times of congestion over that last-mile connection.
+CenturyLink is also committed to providing its customers with the best online experience.
+When network congestion is identified, CenturyLink engineers employ various techniques to ensure a positive customer experience.
+CenturyLink reinforces its network with additional network capacity in areas where congestion is identified or as part of standard network engineering design plans.
+In some cases, we may limit the number of customers that may be served on a particular network node until additional capacity can be added.
+Also, a significant portion of the CenturyLink last-mile broadband network architecture that supports CenturyLink High-Speed Internet service consists of a dedicated broadband connection to the home.
+But, as a result of the network practices described in this section, a PrismÂ® TV customer's public Internet throughput speed may be temporarily reduced when the customer accesses a PrismÂ® TV provided streaming or VOD video.
+It is also conceivable that other CenturyLink High-Speed Internet service customers who live near PrismÂ® TV subscribers could see slower broadband speeds relative to the performance of PrismÂ® TV traffic on the same network architecture during certain times of overall network congestion.
+PrismÂ® TV customers can also access their video content using eligible devices other than the set-top box (such as tablets and smart phones).
+This can be done using the PrismÂ® TV App and via either a CenturyLink or a third-party broadband connection.
+In either case, the PrismÂ® video content accessed by PrismÂ® TV customers using the PrismÂ® TV App is not prioritized over public Internet traffic.
+CenturyLinkÂ® PrismÂ® TV customers can find additional disclosures regarding their services on the CenturyLink website using the following link:
+http://www.centurylink.com/Pages/Disclaimers/dtvDisclaimer.jsp.
+
+CenturyLinkÂ® Digital Home Phone
+
+
+CenturyLink offers an Internet Protocol-voice based service called Digital Home Phone to customers with CenturyLink High-Speed Internet service which, due to the product's sensitivity to latency, receives quality of service (QoS) treatment on the CenturyLink network where it is available.
+This treatment of VoIP traffic should have no material impact on capacity or bandwidth availability for Broadband Internet Access.
+Customers purchasing CenturyLink Digital Phone service may experience a higher quality of service through improved latency for upstream voice packets carried over the CenturyLink High-Speed Internet network.
+This higher quality of service is enabled through Type of Service (ToS) and Differentiated Service (DiffServe) capabilities at the customer modem and in limited network equipment deployed across the CenturyLink high speed Internet network.
+The setting established at the modem may be modified by our customers.
+The network equipment enabled with this capability will honor ToS and DiffServe settings of any third-party network consistent with the National Standards recommendations described in the Internet Engineering Task Force (IETF) RFC 1349 and RFC 2474.
+CenturyLinkÂ® Digital Home Phone customers can find additional disclosures regarding their service on the CenturyLink website using the following link: 
+http://www.centurylink.com/aboutus/docs/CTL_Digital_Home_Phone_Subscriber_10.14.pdf. Commercial Terms General Pricing Policies CenturyLink offers mass market retail High-Speed Internet service to residential and business customers.
+Customers may purchase their CenturyLink High-Speed Internet service with other valuable services offered by CenturyLink such as voice, or video services from CenturyLink, or DIRECTV.
+Customers may also purchase CenturyLink High-Speed Internet service as a stand-alone product called Pure Broadband or Pure Business Internet.
+Availability, features, rates, terms, and conditions may vary by location.
+CenturyLink residential High-Speed Internet service offers a variety of speed and features to consumers with available speeds from 256 Kbps/256 Kbps up to 940 Mbps/940 Mbps and including email, customizable homepage, and backup and support services.
+Upgrades are available at a small cost for increased backup space, upgraded security options, PC tune ups and discounted or free in-person support.
+In certain areas where CenturyLink has deployed fiber to the premises facilities, speeds up to 940Mbps may be available.
+Current information, including pricing information, regarding CenturyLink residential High-Speed Internet service is available at http://www.centurylink.com/home/internet/.
+Customers served via CenturyLinkON platforms in multi-tenant buildings will find pricing information at: https://conport.centurylink.com/instaLink/#/intro.
+Wireless networking is also available over CenturyLink residential High-Speed Internet service.
+Additional information regarding wireless networking is available at http://www.centurylink.com/home/help/internet/wireless.html.
+CenturyLink business retail High-Speed Internet service provides a variety of speed and features for businesses with speeds from 256 Kbps/256 Kbps up to 940 Mbps/940 Mbps to choose from, including email accounts, web hosting, 1 GB storage, domain name registration, backup solutions, security options and more.
+Current information, including pricing information, regarding CenturyLink's business High-Speed Internet service is available at  https://www.centurylink.com/small-business/products/business-internet/.
+Customers purchasing CenturyLink business retail High-Speed Internet service may use a CenturyLink-provided modem with built-in Wi-Fi router capabilities.
+Additional information regarding CenturyLink's business retail Wi-Fi High Speed Internet service can be found at https://shop.centurylink.com/small-business/products/business-internet/.
+Customers may purchase CenturyLink High-Speed Internet service as a stand-alone product called Pure Broadband or Pure Business Internet where available or they may choose to combine High-Speed Internet with voice, or television from CenturyLink or DIRECTV on one bill and save over the cost of purchasing stand-alone services.
+Current information, including pricing information, regarding CenturyLink's Pure Broadband service is available at http://www.centurylink.com/home/internetonly.
+Customers can learn about the specific pricing and service availability where they live by visiting www.centurylink.com.
+Customers have access to the latest CenturyLink promotional and standard pricing for High-Speed Internet service, including applicable activation fees.
+Customers can also see options and pricing for modem purchase and lease options, standard and premium installation, third party ISP, premium web content and backup, and security and support options.
+Customers may also speak with a CenturyLink representative to learn about services in their area by calling CenturyLink at 1-888-273-5881.
+CenturyLink's current High-Speed Internet service offering does not include usage-based fees.
+Full disclosure of CenturyLink's Excessive Use Policy, Acceptable Use Policy, and High-Speed Internet Subscriber Agreement can be found at:
+http://www.centurylink.com/legal/highspeedinternetsubscriberagreement.
+CenturyLink may include an early termination fee in the terms of High-Speed Internet services and promotions offered to customers.
+The applicability and the extent of an early termination fee may vary depending on the terms of the specific service or promotion purchased by the customer.
+Customers should reference their High-Speed Internet Subscriber Agreement, advertisement, the terms described in their original order and their order confirmation for details regarding the specific pricing, terms, and the calculation of any early termination fee that may apply to them.
+Customers in areas where CenturyLink provides High-Speed Internet services using wireless hotspots with CenturyLink's Wi-Fi service should consult the applicable web site in their area for pricing schedules. Commercial Terms CenturyLink offers both standard and promotional rates (promotional rates typically require a commitment to keep the service for a term of months or other conditions).
+Standard rates and promotional rates typically vary according to speed tier, whether you are bundling with another CenturyLink service, and the length of time you commit to keep the service.
+As a result, and given the high ongoing volume of CenturyLink sales, it is not practical to provide a standardized disclosure with your specific information that can be provided at point of sale.
+However, the full monthly service charge applicable to you, for the specific service you are purchasing, is reflected in the order confirmation you will be provided at purchase when purchasing online, and in the verbal order summary provided at purchase when purchasing through our telephone sales channel.
+This order confirmation, or order summary, respectively, will also indicate whether your rate is a promotional rate and, if so, will specify the duration of the promotional period.
+The monthly service charge that will apply after the expiration of any promotional period will always be the then-applicable standard pricing for your service.
+Standard pricing varies over time and, as noted, is ultimately dependent upon a variety of factors like whether you are bundling with other services.
+The standard rate information reflected at: www.centurylink.com/nonpromotionalrates provides an approximation of the highest standard rates that could apply to your speed tier today.
+Other details about CenturyLink's pricing policies, including a more complete description of the CenturyLink promotions and bundled savings currently available can be found at: www.centurylink.com
+
+
+Other Charges and Terms
+
+
+
+Modem lease or purchase
+
+
+CenturyLink offers modems to customers on a monthly lease basis or a one-time purchase basis.
+Customers may use their own modem.
+please see our Device Attachment Policy above.
+
+One-time fees
+
+Certain one-time fees (activation and professional installation fees, shipping and handling charges) may apply to you in connection with the purchase of your broadband service.
+As with the monthly service charge, there is so much variation in these fees for individual transactions, it is not practical to provide a standardized disclosure with your specific information that can be provided at point of sale.
+However, the one-time fees applicable to you at purchase are also reflected in the order confirmation you will be provided at purchase when purchasing online or and in the verbal order summary provided at purchase when purchasing via telephone sales.
+Other one-time fees (early termination fees) will be imposed if you cancel your service before the end date of your contract with CenturyLink.
+The early termination fee will be calculated by multiplying the number of months remaining on your contract and your promotional monthly rate, up to a maximum of $200.
+CenturyLink may require a one-time deposit for your service.
+This deposit is based on the level of risk associated with each specific application or order and the company credit strategy.
+
+
+Other monthly fees
+
+Internet Cost Recovery Fee: Amount varies by location and is subject to change, but currently ranges from $1.99 to $3.99 per month.
+additional details about this fee can be found at
+http://www.centurylink.com/home/help/account/billing/taxes-fees-and-surcharges-on-your-bill/internet-cost-recovery-fee.html
+
+Government taxes, government-related fees, and CenturyLink fees and surcharges may apply
+
+
+These charges vary by location and may change.&nbsp.
+In addition, CenturyLink reserves the right to pass through or institute new charges related to service.
+Additional details about taxes, government related fees, and CenturyLink fees and surcharges can be found at http://www.centurylink.com/feesandtaxes.  Privacy Policy Like most companies, we have certain information about our customers and use it to provide our services.
+We also share it as needed to meet our business goals or fulfill our legal obligations.
+We protect the information we have about our customers, and we require those we share it with to protect it, too.
+We use information generated on our networks to manage those networks, to plan for future development, and to keep our services running reliably and efficiently.
+For example, we monitor data to check for viruses, to control spam, to prevent attacks that might disable our services, to ensure that your traffic does not violate your subscriber agreement or our acceptable use policies, and to guard against other inappropriate or illegal activity.
+This may involve looking at the characteristics of our network traffic, such as traffic volumes, beginning and ending points of transmissions, and the types of applications being used to send traffic across our network.
+In limited circumstances, we need to look into the content of the data (such as the specific websites being visited, files being transmitted, or application being used) for the purposes described above, in circumstances when we are concerned about fraud or harassment, to repair a problem we detect or that a customer contacts us about, or when we are providing the content of broadband traffic to law enforcement which we only do as authorized by law.
+You can find more detail about our information gathering practices at  http://www.centurylink.com/aboutus/legal/privacy-policy.html.
+Customers may view the complete CenturyLink Privacy Policy on our website at  http://www.centurylink.com/aboutus/legal/privacy-policy.html. Redress Options Policy If you have any questions or concerns regarding CenturyLink High-Speed Internet services and the subjects of this disclosure, you may send an email to:
+Regulatory.Compliance@CenturyLink.com
+Please include the following information:
+
+
+Subject Line: Internet Management Disclosure
+
+Name: (Optional)
+High-Speed Internet Service Address
+A brief summary of the nature of your concern
+
+CenturyLink takes all such questions and concerns seriously.
+The appropriate CenturyLink personnel will review all such submissions and respond in a timely manner.

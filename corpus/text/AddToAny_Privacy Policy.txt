@@ -1,0 +1,63 @@
+
+        
+Privacy Policy What kind of data is collected? 
+Typical server log information, including:
+
+URL requested on our domain
+Referring URL
+IP address (anonymized)
+Browser, language, and operating system used
+Browser cookies on our domain
+Time and date
+
+
+Typical browser information, such as URL, title, and related metadata.
+We anonymize a user IP address by zeroing the last octet (IPv4) or 80 bits (IPv6) before any logging.
+We use HTTP cookies on our domain only.
+We do not use unique user identifiers on sites across the web.
+We do not use personally identifiable information (PII) unless you provide it to us.
+
+For example, when you contact us, you can optionally provide your name and email address.
+
+
+ How long is end user data retained? 
+We retain server log data for 30 days or less, and keep only aggregate usage data.
+We do not retain server log data on static assets provided for use on sites across the web.
+ What kind of data is shared? 
+We use Google Analytics on our domain without cookies, and without unique user identifiers.
+
+An IP address is anonymized before analytics collection &amp.
+processing.
+See how Google uses data for other details.
+
+
+Non-PII may be shared with service providers and partners.
+
+For example, official buttons such as Facebook Like are served by Facebook under their privacy policy.
+
+
+Non-PII may be shared to help deliver services including interest-based advertising.
+
+For example, interest-based advertising may be served on sites that display ads.
+
+
+We do not share server log data on static assets provided for use on sites across the web.
+ What options are supported? 
+Do Not Track (DNT):
+
+When a supported browser's DNT header is enabled, we prevent tracking across sites where AddToAny is used.
+For example, we disable Like &amp.
+Tweet buttons to prevent Facebook &amp.
+Twitter tracking when DNT is enabled.
+See our full Do Not Track Compliance Policy.
+
+
+NAI Consumer Opt Out:
+
+You can opt out of third party interest-based advertising from NAI members by using the NAI's opt-out page.
+
+
+ What about the GDPR &amp.
+CCPA for websites &amp.
+apps using AddToAny? AddToAny is compatible by default with the European General Data Protection Regulation, and the California Consumer Privacy Act.
+See the FAQ for more information.

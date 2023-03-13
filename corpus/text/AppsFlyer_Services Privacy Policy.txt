@@ -1,0 +1,354 @@
+
+         Products 
+Attribution
+Mobile Attribution
+People-Based Attribution
+TV Attribution
+Uninstall Attribution
+
+
+Marketing Analytics
+Marketing Analytics Overview
+Activity Dashboard
+Custom Dashboards
+Lifetime Value Reports
+Pivot Reports
+Ad Spend &amp.
+ROI Reports
+
+
+Cost Aggregation
+Fraud Protection
+Fraud Protection Overview
+Validation Rules
+
+
+Deep Linking
+Deep Linking Overview
+Smart Banners
+
+
+Audience Segmentation
+Data Streams
+Push &amp.
+Pull APIs
+Raw Data Reports
+Data Locker
+
+
+iOS 14 Solutions
+AppsFlyer for iOS 14
+SKAdNetwork Innovation
+
+
+Product Tour Learn how you can put your data to work with AppsFlyer 
+ Industries 
+Business &amp.
+Productivity
+eCommerce &amp.
+Retail
+Entertainment &amp.
+Music
+Financial Services
+Food &amp.
+Drink
+Gaming
+Health &amp.
+Fitness
+Transportation
+Travel 
+ Pricing Why AppsFlyer 
+Industry Leader
+Connect to an Ecosystem
+Security &amp.
+Privacy
+Customer Stories 
+ Partners 
+Media Partners
+Agencies
+Adobe 
+ Resources 
+MAMA Blog
+CEO Blog
+Reports &amp.
+Guides
+Podcast
+MAMA Boards
+MAMA Glossary
+MasterClass
+Link Validator 
+ Company 
+About Us
+AppsFlyer Cares
+Help Center
+Press
+Careers
+Sign up free
+Contact Us 
+ Get a demo Login Services Privacy Policy
+
+
+
+
+
+INTRODUCTION
+AppsFlyer provides attribution and marketing analytics services (âServicesâ) that enable advertisers and developers (collectively, âCustomer(s)â) to: (i) measure and analyze the effectiveness of their marketing campaigns by understanding which marketing campaigns contributed to the download/installation of their mobile applications (âApplicationsâ) or such other conversion metric (e.g.
+relaunch of Application).
+and (ii) measure and analyze certain events and actions within their Application or websites, such as in-app purchases made by End Users (as defined below).
+The Services also help our Customers identify and protect against fraudulent behavior related to their marketing campaigns.
+This Services Privacy Policy describes AppsFlyerâs privacy practices in relation to the information collected from Customers and End Users and received by AppsFlyer when Customers use our Services.
+This Services Privacy Policy does not apply to information collected through use of AppsFlyerâs publicly accessible website or marketing activities, which is described under our Website Privacy Policy.
+To view the Website Privacy Policy, please click here.
+Furthermore, AppsFlyer and its Customers have entered into an agreement that governs the provision of Services by AppsFlyer and their use by Customers (âAgreement(s)â).
+Such Agreements may contain additional obligations on the parties with respect to the handling of information.
+Nothing in this Services Privacy Policy derogates from such additional obligations.
+For the purpose of this Services Privacy Policy: (i) any reference to âEnd User(s)â means end users who have interacted with, or viewed, Customerâs advertising and marketing materials, or use or have used Customerâs Applications, websites, products and services.
+and (ii) any reference to âAppsFlyerâ
+âweâ
+âusâ or âourâ shall means AppsFlyer Ltd.
+and its affiliates.
+
+
+END USER DATA RECEIVED AND PROCESSED BY APPSFLYER
+When a Customer uses the Services, the following End User information may be received and processed by AppsFlyer (collectively, âEnd User Dataâ).
+
+
+âTechnical Informationâ: this refers to technical information related to an End Userâs mobile device or computer, such as: browser type, device type and model, CPU, system language, memory, OS version, Wi-Fi status, time stamp and zone, device motion parameters and carrier.
+
+âTechnical Identifiersâ: this refers to various unique identifiers that generally only identify a computer, device, browser or Application.
+For example, IP address (which may also provide general location information), User agent, IDFA (identifier for advertisers), Android ID (in Android devices).
+Google Advertiser ID, Customer issued user ID and other similar unique identifiers.
+
+âEngagement Informationâ: this refers to information relating to the Customerâs ad campaigns and End User actions, such as: clicks on Customer ads, ad impressions viewed, audiences or segments to which an ad campaign is attributed, the type of ads and the webpage or Application from which such ads were displayed, the webpages on Customerâs website visited by an End User, the URL from the referring website, downloads and installations of Applications, and other interactions, events and actions Customers choose to measure and analyze within their Application or website (e.g.
+add to cart, in-app purchases made, clicks, engagement time etc.).
+While End User Data does not generally contain any information that directly identifies an individual, such as names, addresses, credit cards or other similarly regulated financial information, health information, or any other type of sensitive personal information (âPIIâ), we acknowledge that under certain jurisdictions the End User Data we do receive when a Customer uses the Services may be deemed personal data and therefore, where applicable, will be treated as such.
+Within the scope of the engagement between Customers and AppsFlyer, Customers are contractually prohibited from collecting PII, unless otherwise agreed by AppsFlyer.
+However, Customers have sole control over their properties (including their websites and Application) and configuration of the Services and thus Customers have the technical ability to configure the Services to collect PII.
+This includes, for example, a Customer using an End Userâs email address as a Customer issued user ID Technical Identifier.
+If a Customer has configured the Services to collect PII then we may receive and process such data.
+
+
+
+REGISTRATION INFORMATION RECEIVED AND PROCESSED BY APPSFLYER
+When a Customer registers to use the Services, we may collect certain information related to such Customer (âRegistration Informationâ and together with the End User Data, âCustomer Dataâ), including Customer name and Customer details, billing information and names and contact details of Customer employees and representatives who are using the Services (e.g.
+email, phone number and address).
+When a Customer uses the Services, AppsFlyer may also collect certain log data, such as IP address from which a Customer is connecting to the Services, information related to the device being used to connect to the Services (e.g.
+browser type, device type, OS version) and the features and functions of the Services used by the Customer (âLog Dataâ).
+
+
+HOW DATA IS COLLECTED
+Customer Data may be collected through various methods, including:
+
+When provided voluntarily (e.g.
+Customerâs Registration Information).
+When the Customer integrates AppsFlyerâs SDKâs, APIâs, pixels, redirect links, JavaScript tags, cookies or similar data collection technologies into their Applications, websites and/or ads (âCollection Technologiesâ).
+For explanations on cookies and similar technologies, please see our Cookie Policy.
+From the various advertising networks and third parties that are used by the Customer in connection with the measurement and analysis of Customerâs marketing campaigns and that have partnered with AppsFlyer (âPartnersâ).
+
+
+
+HOW DATA IS USED BY APPSFLYER
+
+When AppsFlyer receives End User Data from a Customer, it uses such End User Data as follows:
+to provide such Customer with the Services they have subscribed for.
+Such services may include, without limitation, attribution, analytics and ad fraud protection services.
+Please visit https://www.appsflyer.com/product/overview/ for more information regarding the Services.
+to establish: (i) matches between devices used by an End User.
+and (ii) to detect fraud (such matched data and fraud data, collectively, the, âPlatform Dataâ) in order to ensure more accurate attribution measurement and ad fraud protection for Customers using the Services.
+Platform Data does not contain PII such as End User names, physical addresses, phone numbers or other similar personal data that can directly identify an individual.
+
+
+With regards to Registration Information and Log Data, we use such information to authenticate login to the Services, to communicate with Customer and to process any payments in connection with the Services.
+Additionally, we may use: (i) Registration Information to inform Customer of any updates to the Services, including new features and functionalities.
+and (ii) Log Data to understand how Customers are using the Services so that we may efficiently audit, maintain and improve the Services provided to Customers.
+AppsFlyer may use information derived from the aggregation of End User Data and/or Log Data with other data for research and analytics purposes and improvement and marketing of the Services (âAggregated Dataâ).
+Aggregated Data shall be anonymous and in no way reveal the identity of the Customer or any End User.
+
+
+
+SHARING DATA
+AppsFlyer does not share or disclose Customer Data with any third party, except:
+Upon our Customerâs requestâ (e.g.
+to Partners);
+
+To our subsidiaries and global branches as necessary to help us support and maintain the Services provided to Customers;
+To our service providers who help to support our Services â such as data hosting providers and payment processors.
+Transfers to subsequent third parties are covered by the service agreements with our Customers.
+These companies are authorized to use your personal information only as necessary to provide these services to us.
+When legally required (e.g.
+court orders or other lawful requests by public authorities), including to meet national security or law enforcement requirements;
+To respond to, or prevent, fraud or to protect the safety of AppsFlyer, its Customers, End Users or the public;
+As part of any merger or acquisition of AppsFlyer, in which case End User Data may be transferred to the surviving or acquiring entity.
+
+
+
+CROSS BORDER TRANSFERS AND EU-US AND SWISS-US PRIVACY SHIELD
+AppsFlyer may need to transfer Customer Data to countries other than the country from which the Data originated.
+Any such transfer shall be done in compliance with all applicable laws. With regards to the collection, use and retention of personal data transferred from the European Economic Area or Switzerland to the United States, AppsFlyer Inc.
+complies with the EU-U.S.
+and Swiss-US Privacy Shield Framework as set forth by the U.S.
+Department of Commerce.
+To learn more, please click here
+
+
+PROTECTING DATA AND RETENTION
+AppsFlyer implements appropriate technical and organizational measures designed to protect against unauthorized access, accidental loss, destruction or damage of Customer Data.
+For more information on our security controls, please see https://www.appsflyer.com/product/security-and-privacy.
+If you have questions about the security of your personal information, or if you have reason to believe that the personal information that we hold about you is no longer secure, please contact us immediately as described in this Services Privacy Policy.
+AppsFlyer will not retain: (i) End User Data for more than twenty-four months except where otherwise directed by Customers or required or allowed by law.
+and (ii) Registration Information, Log Data or Platform Data for more time than is needed to serve the legitimate business need for which it was collected.
+
+
+RELATIONSHIP, LAWFUL BASIS AND END USER CHOICES
+Under the laws of certain jurisdictions, when processing End User Data in connection with the provision of Services to a Customer, AppsFlyer is deemed a âdata processorâ while its Customers are deemed âdata controllersâ.
+Therefore, End Users should closely review the Privacy Policies of the Applications and websites they use in order to learn about the privacy practices of our Customers.
+Where AppsFlyer may be deemed a data controller under the laws of certain jurisdictions (e.g.
+in connection with its processing of Log Data or Registration Information), AppsFlyer shall comply with all applicable laws related to its status as a data controller and shall only use the data as described in this Services Privacy Policy.
+With regards to Registration Information and Log Data, the lawful basis AppsFlyer relies on is its need to perform its obligations under the Agreement between AppsFlyer and Customer and on its legitimate interests to maintain, analyze and improve the Services.
+The laws of certain jurisdictions may provide End Users with various rights in connection with the processing of End User Data, including:
+
+The right to withdraw any previously provided consent;
+The right to access certain information about you that we process;
+The right to have us correct or update any Personal Information;
+The right to have certain Information erased;
+The right to have us temporarily block our processing of certain Information;
+The right to have Information exported into common machine-readable format;
+The right to object to our processing of Information in cases of direct marketing, or when we rely on legitimate interests as our lawful basis to process your information.
+and
+The right to lodge a complaint with the appropriate data protection authority.
+
+Where AppsFlyer is deemed a data processor, End Users should contact our Customers to pursue any such legal data subject rights.
+AppsFlyer will cooperate with its Customers to support and comply with any such data subject rights requests.
+Where AppsFlyer is deemed a data controller, End Users may exercise their rights by contacting AppsFlyer at: privacy@appsflyer.com.
+We will respond to your requests within a reasonable timeframe.
+Please note these rights may be limited in certain circumstances as provided by applicable law.
+In any event, AppsFlyer provides End Users with the ability to opt-out of being measured by the Services by emailing a request to privacy@appsflyer.com or by completing the form here.
+You may also send any question regarding your exercise of data subject rights to privacy@appsflyer.com.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+
+
+UPDATES AND QUESTIONS
+We may update this Services Privacy Policy from time to time.
+Any material changes will be notified to the Customer either through the Services, email or as otherwise agreed by the parties in the Agreement.
+We will also indicate that an update has occurred on the top of this page so Customers and End Users are encouraged to review this Services Privacy Policy from time to time.
+For any questions relating to this Services Privacy Policy or to contact our data protection officer please send us a mail to: privacy@appsflyer.com.
+You may also send us or our data protection officer regular mail:
+AppsFlyer â Attn: Legal Team/Data Protection Officer14 Maskit St.Herzliya, Israel4673314
+For the purposes of Article 27 of the General Data Protection Regulation, the representative within the EU of AppsFlyer is AppsFlyer Germany GmbH KurfÃ¼rstendamm 11, c/o WeWork, 10719 Berlin, Germany (contact privacy@appsflyer.com.
++49-30-3119-9129)
+
+
+
+
+
+
+Date: March 24, 2019.You are in the whitelistThank you for submitting your device id.
+You will be opted out of the service within up to 3 business days.Opt-out from another device.An error has occurred.
+Please try again.
+Logo
+We speak your language
+PortuguÃªs
+ä¸­æ
+English
+FranÃ§ais
+æ¥æ¬èª
+íêµ­ì´
+Ð ÑÑÑÐºÐ¸Ð¹
+EspaÃ±ol
+
+
+
+
+Products
+Mobile Attribution
+People-Â­Based Attribution
+TV Attribution
+Marketing Analytics
+Cost Aggregation
+Fraud Protection
+Deep Linking
+Audience Segmentation
+AppsFlyer for iOS 14
+
+
+Industries
+eCommerce &amp.
+Retail
+Entertainment &amp.
+Music
+Financial Services
+Food &amp.
+Drink
+Gaming
+Transportation
+Travel
+
+
+Why AppsFlyer
+Industry Leader
+Connect to an Ecosystem
+Security &amp.
+Privacy
+Customer Stories
+
+
+Resources
+MAMA Blog
+CEO Blog
+Research &amp.
+Reports
+MAMA Glossary
+Masterclass
+Performance Index
+Link Validator
+
+
+Company
+About Us
+AppsFlyer Cares
+Careers
+Press
+Help Center
+Pricing
+Contact Us
+
+
+
+
+legal
+Â©2021 AppsFlyer
+Privacy Policy
+Terms of Use (Updated)
+GDPR &amp.
+CCPA
+Cookies
+
+
+Socials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,603 @@
+
+         1.
+AGREEMENT The Mobile Advertising Network provided by Mobfox US LLC (âServiceâ), owned and operated by Mobfox US LLC and its affiliated companies under the name Mobfox (âMobfoxâ), is provided to you (âMemberâ, âPublisherâ) under the Terms and Conditions (âTermsâ) of this Publisher Service Agreement and the Mobfox Guidelines for Publishers (collectively: the âAgreementâ), and any amendments thereto and any operating rules or policies.
+Mobfox reserves the right, in its sole discretion, to change, modify, add or remove all or part of the Agreement at any time.
+If this Terms and/or any modification to this agreement is unacceptable to Member, Memberâs only recourse will be to terminate this agreement as set forth herein.
+Memberâs continued participation with the Service following Mobfoxâs posting of a new agreement on Mobfoxâs site will constitute a binding acceptance of the change.
+1.1 By accepting the Terms of the Agreement, the Member:
+(a) Represents and warrants that Member is of at least 18 years of age;
+(b) Agrees to provide accurate, current and complete information about Member as prompted by the Account Registration Form;
+(c) Agrees to maintain and update this information to keep it accurate, current and complete;
+If any information provided by Member is inaccurate, not current or incomplete, Mobfox has the right to terminate Memberâs account.
+1.2 BY COMPLETING THE ACCOUNT REGISTRATION PROCESS, AND CLICKING THE âREGISTERâ BUTTON, MEMBER AGREES TO BE BOUND BY THIS AGREEMENT AND ACKNOWLEDGES THE ESTABLISHMENT OF AN ACCOUNT ON BEHALF OF SUCH MEMBER (THE âACCOUNTâ). 2.
+DESCRIPTION OF SERVICE The Service allows Publisher: (i) to offer and sell elements of a mobile site or application that Publisher designates for placement of ads to any advertiser, demand side platform, advertising network or other participant with access to the Service (the âAdvertiser(s)â).
+and (ii) access to data analytics, data enrichment and data processing and as a result access to targeted and unique digital ad inventory, subject to the terms and conditions set forth herein.
+2.1 Editorial Review.
+Without derogating from any other provision in this Agreement, Mobfox reserves the right, without any obligation herein, to review each mobile application or website individually, and has the right, to edit, refuse, reject or remove the Publisherâs mobile application / website from the Service at any time and for any reason.
+2.2 Technical Support.
+Members may receive technical help and resolve billing inquiries by contacting Mobfox Support via e mail (as written below).
+Should Member become dissatisfied with the Service in any way, Memberâs will immediately contact Mobfox support by emailing directly to the relevant email address written below.
+2.3 USE OF THE SERVICE SUBMISSIONS
+By submitting material or web page listings to the Service (including information regarding the listing) you are irrevocably granting Mobfox, its licensees, and any entities in the Service, the right to use all parts of the material without limitation including, but not limited to, modifying it or using it commercially and authorizing others to do so. 3.
+MEMBER REPRESENTATIONS Member represents and warrants that:
+(a) Member is the legal owner of the URL or any other digital media source (âDigital Mediaâ) specified in his Advertiser Account, an employee of the legal owner of the Digital Media or has obtained express written permission from the legal owner of the Digital Media in connection with the use of the Service with the aforementioned domain.
+Without derogating from any other provision in this Agreement, Member expressly agrees to indemnify Mobfox from any claims, losses, damages, including by any third party, arising from or in connection with the use of the Advertiser Service with the specified Digital Media.
+(b) Member is the owner or is licensed to use the entire contents and subject matter contained in the mobile application / website and/or any creative such as image, text, programming code, graphic content or any combination thereof (âCreativeâ);
+(c) Member will fully comply with the Mobfox Publisher Guidelines [See Schedule A].
+(d) Member will include the Mobfox SDK Minimum Privacy Terms (âMinimum Privacy Termsâ), or substantially similar terms, as part of its end-user privacy policy.
+The Minimum Privacy Terms are attached to the Mobfox Publisher Guidelines [See Schedule B]. 4.
+PRIVACY Mobfox collects, stores and uses personal details of Memberâs authorized users and contact persons in accordance with Mobfoxâs privacy notice that is located at https://www.mobfox.com/privacy-policy/.
+To the extent that any end-userâs Data includes personal data of individuals who are in the European Union, then Mobfoxâs Personal Data Processing Addendum (DPA), which is attached hereto as Annex A, and serves as an integral part thereof, applies and the parties agree to comply with its terms. 5.
+MOBFOX REPORT During the Service, Member will be granted access and may view the online reports relating to its activity within the Mobfox reporting system (the âReportâ), which during the relevant month are only estimated non-final numbers that may be changed or adjusted by Mobfox until 15 days after the end of the relevant month.
+At the end of the month the reports will be frozen and within 15 days will include the definitive numbers of earnings as maybe adjusted as aforesaid.
+Member agrees that Mobfox stats will be final and binding in every case and serve as the sole basis for the calculation of Memberâs payments. 6.
+PUBLISHER PAYMENT 6.1 Mobfox will credit the Publisherâs account with a payout for each action made by a visitor through the Publisherâs mobile application / website (âTransactionâ) on the basis of the agreed payout rate under the applicable ad program.
+Mobfox will pay to the Publisher by Pay Pal or wire any amounts due to Publisher, approximately 60 days after the end of the month, to the extent proceeds have cleared from Advertiser to Mobfox.
+Publisher shall pay all applicable fees, taxes, commissions, transaction fees or the like in connection with such payment.
+Mobfox may, at Mobfoxâs sole discretion, apply an estimated number of payouts if: (i) the Publisher is referring visitors to Advertiser as verified by clicks through links to Advertiser with Mobfoxâs Report, (ii) in the case of an error in Advertiserâs transmission of the Report data to Mobfox, and (iii) in an instance in which Mobfox is able to utilize a historical analysis of the Publisher promotion of Advertiser in order to determine an equitable number of estimated payouts.
+If Publisher does not earn the minimum amount in a month, the balance will be carried forward until such time as the minimum amount is earned or until this Agreement is terminated.
+The Publisher acknowledges that the minimum amount may vary based upon the applicable currency being used and that the binding minimum amount will be the amount listed in Mobfoxâs system as may be updated from time to time.
+Publishers are responsible for ensuring that their bank details, address and Pay Pal e-mail address are correct in their Mobfox Account details in order to receive payment.
+Notwithstanding the aforesaid, Mobfox reserves the right to reclassify any Transactions and reduce any payments due to Publisher because of any claims, demands, offsets or the like made by Advertisers for invalid events, technical errors, tracking discrepancies or similar events that produce invalid results, even if the applicable Transaction was originally approved.
+Mobfox will compile, calculate and electronically deliver to Publisher the relevant data required to determine Publisherâs billing and compensation.
+The Publisher acknowledges that payments are based on the Report and hereby waives any claim and/or demand towards Mobfox as a result of discrepancy between the Report and any other similar tracking system.
+In addition, and without derogating from any other right under this Agreement, Advertiser or Mobfox may apply a debit to the Publisherâs account in circumstances of: (i) duplicate entry or other clear error.
+(ii) non-bona fide transactions.
+(iii) non-receipt of payment from, or refund of payment to the visitor by the Advertiser.
+or (iv) Publisher failure to comply with Advertiserâs program terms or other agreement with Advertiser (âChargebackâ).
+Chargebacks may be applied to the Publisherâs Account at any time, including previous payment cycles within 3 (three) months from such Chargeback event.
+6.2 Mobfox reserves the right to change payment dates and amounts, at any time, with or without prior notification to member, which may be posted on the Service website, in Memberâs Service account, or emailed to Members. 7.
+CLICK FRAUD All ad campaigns are monitored for fraudulent and/or otherwise non-compliant activity by Mobfox.
+Publisher accounts believed to be responsible for fraudulent or non-compliant clicks will be automatically restricted from use of their Publisher area and investigated for click fraud.
+Any revenue believed to be generated by fraudulent or non-compliant clicks will be refunded to the Advertiser in good faith.
+CLICKING ON YOUR OWN AD SPACE COUNTS AS CLICK FRAUD AND WILL RESULT IN AUTOMATIC TERMINATION.
+Mobfox reserves the right to reject any or all requests for investigation of assumed click fraud or other non-compliant clicks by any Member at its sole discretion. 8.
+TERMINATION OF SERVICE 8.1 Termination by Mobfox:
+Mobfox may terminate the Service with or without cause at any time, effective immediately and without prior notice.
+Mobfox may terminate a Member via written or email notice as necessary at Mobfoxâs sole discretion.
+Mobfox will not be liable to Member or any third party for Termination of Service.
+8.2 Termination by a Member:
+Publisher may terminate this Agreement upon 48 hours prior written notice to Mobfox via email.
+Upon termination of the Service, by Mobfox or by a Member, Memberâs right to use the Service instantly ceases.
+Member will have no right, and Mobfox will have no obligation thereafter, to forward any information associated with Memberâs Account.
+Any amount(s) paid for the month in which Member cancel, and/or any fee(s) for any month expired before Member termination, is non-refundable.
+8.3 TERMINATION FOR ILLEGAL OR OTHER ACTIVITY
+Mobfox may, but has no duty to, immediately terminate Member and remove it from the Service servers if, in its sole discretion, Mobfox concludes that Member is engaged in illegal activities or the sale of illegal or harmful goods or services or is engaged in activities or sales that may damage the rights of Mobfox or which are not permitted under this Agreement or others.
+Any termination under this section will take effect immediately, and Member expressly agrees that it will not have any opportunity to cure.
+8.4 WAIVER: Member expressly waives any statutory or other legal protection in conflict with the provisions of this section.
+8.5 DELETION OF INFORMATION: Upon termination, Mobfox reserves the right to delete from its servers any and all information contained in Memberâs Account including, but not limited to, order processing information, mailing lists, and any data generated by the Service software.
+8.6 SURVIVAL: The following sections will survive any termination of this Agreement: 8, 9, 12, 14 and 16.
+9.
+EXCLUSION OF WARRANTIES
+9.1 EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, MEMBER EXPRESSLY UNDERSTAND AND AGREES THAT MEMBER USE OF THE SERVICE IS AT MEMBERâS SOLE RISK AND THAT THE SERVICES ARE PROVIDED âAS ISâ AND âAS AVAILABLEâ WITHOUT ANY WARRANTIES.
+9.2 IN PARTICULAR, MOBFOX, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS DO NOT REPRESENT OR WARRANT TO MEMBER THAT:
+(A) MEMEBER USE OF THE SERVICE WILL MEET MEMBERâS REQUIREMENTS,
+(B) MEMEBER USE OF THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR,
+(C) ANY INFORMATION OBTAINED BY MEMBER AS A RESULT OF MEMBER USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE, AND
+(D) THAT DEFECTS IN THE OPERATION OR FUNCTIONALITY OF ANY SOFTWARE PROVIDED TO MEMEBER AS PART OF THE SERVICE WILL BE CORRECTED.
+9.3 ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS DONE AT MEMBERâS OWN DISCRETION AND RISK AND MEMBER WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO MEMBER AND/OR THIRD-PARTY COMPUTER SYSTEM OR OTHER DEVICE OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.
+9.4 NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY MEMBER FROM MOBFOX OR THROUGH OR FROM THE SERVICE WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THE TERMS.
+9.5 MOBFOX FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. 10.
+LIMITATION OF LIABILITY 10.1 MEMBER EXPRESSLY UNDERSTANDS AND AGREES THAT MOBFOX, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS WILL NOT BE LIABLE TO MEMEBER AND/OR TO ANY THIRD PARTY FOR:
+(1) ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL CONSEQUENTIAL OR EXEMPLARY DAMAGES WHICH MAY BE INCURRED BY MEMEBER, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY.
+THIS WILL INCLUDE, BUT NOT BE LIMITED TO, ANY LOSS OF PROFIT (WHETHER INCURRED DIRECTLY OR INDIRECTLY), ANY LOSS OF GOODWILL OR BUSINESS REPUTATION, ANY LOSS OF DATA SUFFERED, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR OTHER INTANGIBLE LOSS;
+(2) ANY LOSS OR DAMAGE ARRISING OUT OF THE SUBJECT MATTER OF THIS AGREEMENT, INCLUDING BUT NOT LIMITED TO LOSS OR DAMAGE AS A RESULT OF:
+(A) ANY RELIANCE PLACED BY MEMEBER ON THE COMPLETENESS, ACCURACY OR EXISTENCE OF ANY ADVERTISING, OR AS A RESULT OF ANY RELATIONSHIP OR TRANSACTION BETWEEN MEMEBER AND ANY ADVERTISER OR SPONSOR WHOSE ADVERTISING APPEARS THROUGH THE SERVICE;
+(B) ANY CHANGES WHICH MOBFOX MAY MAKE TO THE SERVICE, OR FOR ANY PERMANENT OR TEMPORARY CESSATION IN THE PROVISION OF THE SERVICE (OR ANY FEATURES WITHIN THE SERVICE);
+(C) THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE, ANY CONTENT AND OTHER COMMUNICATIONS DATA MAINTAINED OR TRANSMITTED BY OR THROUGH MEMBERâS USE OF THE SERVICE;
+(D) MEMBERâS FAILURE TO PROVIDE MOBFOX WITH ACCURATE ACCOUNT INFORMATION;
+(E) MEMBERâS FAILURE TO KEEP HIS PASSWORD OR ACCOUNT DETAILS SECURE AND CONFIDENTIAL;
+10.2 THE LIMITATIONS ON MOBFOXâS LIABILITY TO MEMEBER IN PARAGRAPH 10.1 ABOVE WILL APPLY WHETHER OR NOT MOBFOX HAS BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.
+10.3 MOBFOXâS LIABILITY TO MEMBER OR ANY THIRD PARTY IN ANY AND ALL CIRCUMSTANCE WILL NOT, FOR ANY REASON, EXCEED THE AGGREGATE PAYMENTS ACTUALLY MADE BY MEMBER TO THE SERVICE OVER THE 3 MONTHS PERIOD PRIOR TO THE CLAIM.
+THIS LIMITATION OF LIABILITY IS APPLICABLE TO THE FULLEST EXTENT PERMITTED UNDER THE APPLICABLE LAW.
+10.4 INDEMNIFICATION
+Member hereby agrees to indemnify, defend and hold harmless Mobfox and its officers, directors, agents, publishers and employees from and against all claims, actions, liabilities, losses, expenses, damages, and costs (including, without limitation, reasonable attorneysâ fees) that may at any time be incurred by any of them by reason of any claims, suits or proceedings (a) for libel, defamation, violation of right of privacy or publicity, copyright infringement, trademark infringement or other infringement of any third party right, fraud, false advertising, misrepresentation, product liability or violation of any law, statute, ordinance, rule or regulation throughout the world in connection with the mobile application / website.
+(b) arising out of any breach by Member of any duty, representation or warranty under any this Agreement.
+or (c) relating to a contaminated file, worm, virus, spyware, malware, adware, or trojan-horse or the like originating from Memberâs mobile application / website. 11.
+COPYRIGHT AND TRADEMARK POLICIES Mobfox reserves the right to: (i) respond to notices of alleged copyright infringement that comply with applicable international intellectual property law and (ii) terminate the accounts of repeat infringers, including disclosure of relevant Member information when required and Member agrees and acknowledges that any such disclosure is hereby permitted and will not be deemed to violate any other term in this Agreement. 12.
+ADVERTISEMENTS 12.1 Some of the mobile websites/applications are supported by advertising revenue and may display advertisements and promotions.
+These advertisements may be targeted to the content of information stored on the mobile websites/applications, queries made through the mobile websites/applications or other information.
+12.2 The manner, mode and extent of advertising by the Service on the mobile websites / applications are subject to change without specific notice to Member. 13.
+OTHER CONTENT 13.1 The mobile websites may include hyperlinks to other mobile websites or content or resources.
+Mobfox may have no control over any mobile websites or resources which are provided by companies or persons other than Mobfox.
+13.2 Member acknowledges and agrees that Mobfox is not responsible for the availability of any such external sites or resources, and does not endorse any advertising, products or other materials on or available from such mobile websites/applications or resources.
+13.3 Without derogating from sections 9-10 above, Member acknowledges and agrees that Mobfox is not liable for any loss or damage which may be incurred by Member as a result of the availability of those external sites or resources, or as a result of any reliance placed by Member on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such mobile websites/applications or resources. 14.
+CHANGES TO THE TERMS 14.1 Mobfox may make changes to the Service at any time.
+When these changes are made, Mobfox will make a new copy of the Agreement available at https://www.mobfox.com and be made available to Member from within, or through, the Service.
+14.2 Member understands and agrees that if Member use the Service after the date on which the Agreement has changed, Mobfox will treat Memberâs use as acceptance of the updated Agreement. 15.
+CONFIDENTIALITY Member or Mobfox may provide the other with information that is confidential and proprietary to that party or a third party, as is designated by the disclosing party (âConfidential Informationâ).
+The receiving party agrees to make commercially reasonable efforts, but in no case less effort than it uses to protect its own Confidential Information, to maintain the confidentiality of and to protect any proprietary interests of the disclosing party.
+Confidential Information will not include: (i) information that is or becomes part of the public domain through no act or omission of the receiving party, or (ii) is lawfully received by the receiving party from a third party without restriction on use or disclosure and without breach of this Agreement or any other agreement without knowledge by the receiving party of any breach of fiduciary duty, or (iii) that the receiving party had in its possession prior to the date of this Agreement, or (iv) is disclosed pursuant to the order or requirement of a court, stock exchange, administrative agency, or other governmental body.
+Member agrees that Mobfox may provide Memberâs basic details Account and Memberâs email to the publisher/advertiser or any third party. 16.
+NON-SOLICITATION During the Term of this Agreement and for a period of one (1) years hereafter, Member will not knowingly solicit, directly or through third party, any advertiser/publisher that is obtained through the Service provided by Mobfox under this Agreement, and Member will not encourage any such advertiser/publisher to transfer from the Service.
+Without prejudice to any other right of Mobfox according to this Agreement and the applicable law, in the event Member directly solicit or cause to be transferred any advertiser/publisher, Member will pay Mobfox what Mobfox would have otherwise earned if Member had not violated this provision. 17.
+GENERAL TERMS 17.1 Sometimes when Member use the Service, Member may (as a result of, or through Member use of the Service) use a service or download a piece of software, or purchase goods, which are provided by another person or company.
+Memberâs use of these other services, software or goods may be subject to separate terms between Member and the company or person concerned.
+If so, the Agreement does not affect Memberâs legal relationship with these other companies or individuals.
+17.2 The Agreement constitutes the whole legal agreement between Member and Mobfox and governs Memberâs use of the Service (however excluding any services which Mobfox may provide to Member under a separate written agreement), and completely replace any prior agreements between Member and Mobfox in relation to the Service.
+17.3 Mobfox will be entitled to freely assign any of its rights and obligations in connection with this Agreement or any subsequent business activity to any of its subsidiaries and/or affiliated companies or to a purchaser in the event of a sale to or acquisition, whether by merger, consolidation, reorganization or other similar transaction.
+This Agreement will bind and benefit the parties and their successors and permitted assigns.
+17.4 Member agree that Mobfox may provide Member with notices, including those regarding changes to the Agreement, by email, regular mail, or postings on the Service.
+17.5 Member agree that if Mobfox does not exercise or enforce any legal right or remedy which is contained in the Agreement (or which Mobfox has the benefit of under any applicable law), this will not be taken to be a formal waiver of Mobfox rights and that those rights or remedies will still be available to Mobfox.
+17.6 If any court of law, having the jurisdiction to decide on this matter, rules that any provision of the Agreement is invalid, then that provision will be removed from the Agreement without affecting the rest of the Terms.
+The remaining provisions of the Agreement will continue to be valid and enforceable.
+17.7 Member acknowledge and agree that each member of the group of companies of which Mobfox is the parent will be third party beneficiaries to the Agreement and that such other companies will be entitled to directly enforce, and rely upon, any provision of the Agreement which confers a benefit on (or rights in favor of) them.
+Other than this, no other person or company will be third party beneficiaries to the Agreement.
+17.8 Member and Mobfox are independent contractors, and nothing in this Agreement will create any joint venture, agency, franchise, sales representative, or employment relationship between the parties.
+Member has no authority to make or accept any offers or representations on behalf of Mobfox.
+Member will not make any statement, on its website or otherwise, that reasonably would contradict anything in this section.
+17.9 This Agreement, and your relationship with Mobfox under the Terms, will be solely and finally settled as follows:
+(A) US Residents: Disputes with US residents will be governed by and be construed according to the laws of the State of California, without regard to the conflict of laws provisions thereto.
+Any dispute arising under or in relation to this Agreement will be exclusively resolved in the competent court in the county of Los-Angeles, California.
+EACH PARTY HEREBY IRREVOCABLY WAIVES, TO THE FULLEST LAWFUL EXTENT, ALL RIGHT TO TRIAL BY JURY IN ANY PROCEEDING RELATING TO THIS AGREEMENT, THE NOTES OR THE TRANSACTIONS THEY CONTEMPLATE.
+(B) All other Jurisdictions: Disputes with the Members which are not residents of the US will be governed by and be construed according to the laws of England and Wales, without reference to conflict of laws principles.
+Without derogating from the Mobfoxâs right to seek injunctive relief in any jurisdiction it may deem proper, both parties agree that all disputes between the parties in connection with or arising out of the existence, validity, construction, performance and termination of this Agreement (or any terms thereof), which the parties are unable to amicably resolve between themselves within 30 days, will be referred to arbitration in London in accordance with the Rules of Conciliation and Arbitration of the International Chamber of Commerce by one arbitrator appointed in accordance with the said rules.
+Said arbitration will be conducted in English and the arbitrator will be obligated to reason his/her decisions. 18.
+CONTACT DETAILS If you have any questions regarding the Agreement, please contact us:
+publisher-sales@mobfox.com
+Member confirms and agrees that Mobfox and its subsidiaries may use the information Member provides that it collects for any legal purpose, including but not limited to, advertising, promotion and other sales and marketing purposes (âPromotional Communicationsâ).
+Mobfox and its subsidiaries may also share certain information with third-party advertising partners in accordance with its privacy policy available at the following URL: https://www.mobfox.com/privacy-policy/ and incorporated by reference hereto forming an integral part hereof.
+Member may opt-out from receiving Promotional Communications at any time, by following the instructions at the end of the applicable e-mail message or e-mail us at: PrivacyCompliance@mobfox.com
+Member agrees and undertakes to fill and complete any consents which may require giving effect to Memberâs consent as set forth above.
+
+Schedule A
+
+
+Mobfox Publishers Guidelines
+
+Thank you for joining the Mobfox Mobile Monetization and Mediation Platform
+(âPlatformâ).
+We, Mobfox US LLC and its affiliated companies (âMobfoxâ),
+own and operate Mobfox.
+Mobfox is committed to a lawful and ethical
+service, pursuant to sound industry standards and practices.
+To ensure the quality of our services, we have created the following
+Publisher Guidelines.
+Compliance with our guidelines will demonstrate your
+commitment to provide services while maintaining the highest standards of
+professionalism, integrity and fairness.
+You hereby commit to fully comply with the following guidelines.
+In these guidelines â
+âYouâ includes your employees, contractors, partners,
+affiliates, agents and any other person who acts on your behalf.
+âLawsâ include all applicable laws, rules, regulations,
+ordinances, judgments, decrees, orders or other governmental mandatory
+requirements.
+
+1.
+General
+
+1.1.
+You represent that you are the legal owner or in control of the
+application, software, web-based service and any related offerings,
+including any advertising, sponsored or promoted content, and other
+third-party originated content, which is embedded, displayed, performed or
+otherwise made available on or through your application, software, or
+web-based service (together: the âOfferingâ).
+
+2.
+Lawfulness
+
+2.1.
+You may not operate your Offering in a manner that constitutes or
+encourages conduct that would constitute a criminal offense, give rise to
+civil liability or otherwise violate applicable Laws, including laws and
+regulations governing privacy, mass email, spam, export control, consumer
+protection, unfair competition and false advertising.
+2.2.
+You may not engage in activities which constitute, or are likely to
+constitute unfair or deceptive trade practices.
+2.3.
+Your Offering will not include, promote, or distribute prohibited
+material, including without limitation: (i) pornography, or sexually
+explicit content.
+(ii) hate speech or discriminatory content.
+(iii) content
+promoting criminal activities.
+(iv) Racial, ethnic, political,
+hate-mongering or otherwise objectionable content.
+(v) spyware, malware,
+viruses, worms, Trojan horses, or any other computer code, files or
+programs designed to interrupt, hijack, destroy or limit the functionality
+of any computer software, hardware, network or telecommunications
+equipment.
+(vi) content that infringes or violates the rights of others,
+including copyright, trademark, trade secret, patent, privacy and publicity
+rights.
+(vii) defamatory, libelous, obscene, offensive or harmful content,
+(viii) materials targeted at or designed to appeal to children under the
+age of 13, or to any other age under the applicable Laws.
+(ix) the unlawful
+sale or advertisement of Alcohol, Tobacco, Prescription Drugs and Weapons;
+(x) unlawful gaming, gambling, draws and betting, (xi) any other content
+that violates applicable Laws.
+2.4.
+Your Offering will not induce end users to install a software code,
+application or component by intentionally misrepresenting that it is
+necessary to secure the end userâs device, data, or other software or
+applications, or that it is necessary for the functionality of the device
+or any feature or software included therein.
+
+3.
+Platforms and Service Providers
+
+3.1.
+You will fully comply with any terms, rules, guidelines and
+instructions, by IOS, Android and any other applicable mobile platform or
+operator.
+3.2.
+You will abide by your Offering Terms and Privacy Policy, as these
+terms are defined hereunder.
+You will also abide by the applicable terms
+and policies of your service providers.
+3.3.
+Without limiting the aforesaid, you may not operate your Offering in a
+manner that will be deemed, or encourages activity that will be deemed as
+fraudulent, misleading, threatening, harassing, anti-competitive,
+misleading, libelous, defamatory, obscene, pornographic, profane or
+otherwise objectionable.
+3.4.
+You will not provide end users and any other third party inaccurate or
+false statements about the source, ownership, purpose, functionality or
+features of the Offering and any third-party content included therein.
+
+4.
+Transparency.
+Terms of Service
+
+4.1.
+You will engage your end users with full transparency and disclose to
+them: (i) Your full name and contact details, and of any other person or
+entity that provides the Offering.
+(ii) the terms and conditions, or
+license agreement (âOffering Termsâ) that govern the end
+usersâ use of the Offering.
+(iii) all details about the effect of
+installing the Offering on the end userâs device, and any changes in the
+settings of the device as a result thereof.
+4.2.
+You will make the Offering Terms easily accessible to end users, prior
+to the installation process of the Offering, in the course of the
+installation, and through the Offering.
+4.3.
+You will clearly and conspicuously disclose to end usersâ â and where
+required under the applicable Lawsâ receive the end usersâ appropriate
+consent and permission, to the Offeringâs access to and use of any features
+of the end usersâ devices, including, without limitation, (i) any access to
+the device features, such as the camera or speaker.
+(ii) any changes in the
+settings, preferences, functionality or display of the deviceâs operating
+system, browser and other applications.
+(iii) Any code installations,
+disablement, interference, impairment or uninstallation.
+Notwithstanding,
+you may make changes to the device settings if: (i) the end users
+reasonably expect these changes in connection with the installation and use
+of the Offering.
+or, (ii) the end user provided the appropriate consent
+under the applicable Laws to the changes.
+or (iii) the changes are
+technical and minor by their nature and do not interfere, violate or
+infringe end usersâ rights.
+
+5.
+Privacy
+
+5.1.
+If you collect, use, transmit, store, or process in any other or
+additional manner end usersâ personally identifiable information (âPIIâ),
+you will provide your end users clear and detailed notices and policy
+(together: âPrivacy Policyâ), and will maintain all
+necessary measures, practices and procedures, in compliance with all
+applicable Laws.
+5.2.
+You will make the Privacy Policy easily accessible to end users, prior
+to the installation process of the Offering, in the course of the
+installation, and through the Offering.
+5.3.
+Where required under the applicable Laws, you will receive end usersâ
+appropriate consent to the Privacy Policy.
+5.4.
+You will include the Mobfox SDK Minimum Terms, attached hereto in
+Schedule B, as part of your Privacy Policy.
+5.5.
+You will maintain full compliance with guidelines for protecting the
+privacy of end users, as issued by or for the iOS, Android, and any other
+applicable mobile platform.
+5.6.
+You will not intentionally use the Offering to collect any information
+about an end user who is under the age of 13 years old, or any other
+children-related age-threshold under the applicable Law.
+5.7.
+If your Offering is directed to children under 13 years old, or under
+any other age-threshold pursuant to the applicable Law, or if you have
+actual knowledge that you are collecting personal information from children
+under that abovementioned age, you will maintain full compliance with
+relevant Laws, including â if applicable â the US Children Online Privacy
+Protection Act (COPPA), and the provisions applicable to the protection of
+a childâs data under Regulation (EU) 2016/679 of the European Parliament
+and of the Council (GDPR).
+Without limiting the aforesaid, you will provide
+all necessary notices and receive all necessary consents, including
+verifiable parental consent, as required under the applicable Law, to the
+Mobfox use of personal information.
+See further details in Schedule B (the Mobfox SDK Minimum Privacy Terms).
+
+6.
+Distinguishing Ads from other Content
+
+6.1.
+You will clearly and conspicuously distinguish ads displayed on your
+Offering from the Offeringâs content and features;
+6.2.
+Where required under the applicable Law, you will include all
+necessary advertising notices in or next to the ads.
+6.3.
+You will follow all applicable Laws related to the display of ads.
+
+7.
+Uninstallation
+
+7.1.
+You must provide your end users with a clear and accessible option to
+easily uninstall the Offering.
+Upon uninstallation of the Offering you will
+completely terminate your access to the end userâs device.
+
+8.
+Traffic Generation
+
+8.1.
+You will not generate or try to gain traffic or installations of your
+Offering by using any fraudulent activity, including without limitation by:
+(i) creating fictitious traffic of your Offering.
+(ii) installing or
+uninstalling any application, software or code on an end userâs device,
+without appropriate consent.
+(iii) causing or providing incentives to other
+persons to increase traffic, revenue, impressions, or clicks, or to use
+automated measures to generate traffic, impressions or clicks.
+(iv)
+engaging in any other misleading, deceptive or other illegal activity
+whatsoever.
+
+9.
+Mobfoxâs Rights
+
+9.1.
+You will not violate, breach, infringe or misappropriate the rights of Mobfox, and its employees, contractors, partners, affiliates, agents and any other person who acts on Mobfoxâs behalf, including intellectual property rights of any kind, privacy and publicity rights.
+
+10.
+Indemnification
+
+You will indemnify Mobfox and its employees, directors, contractors, partners, affiliates, agents and any other person who acts on Mobfoxâs behalf, and hold them harmless from and against any loss, damage and expenses incurred as a result of, or in connection with your breach of these guidelines.
+
+Schedule B
+
+
+Mobfox SDK Minimum Privacy Terms
+
+A publisher will embed the following Mobfox SDK Minimum Privacy Terms in the publisherâs privacy notice to end users.
+
+Interest-Based Ads
+
+We may share your personal information with Mobfox US LLC and its affiliates (Mobfox), a leading digital performance-based advertising group.
+Mobfox puts great efforts in making sure that your personal information is safe and used properly.
+Mobfox collects personal information from mobile applications and devices, subject to permission, such as your gender, age, location and other attributes.
+Further collected data includes your device attributes (such as model, make, device agent details, device ID) and traffic/session information, including session durations, IP address and additional activity information.
+Mobfox may use additional usersâ statistical analysis-driven data, such as your age group, areas of interest and general location.
+Mobfox uses this information to analyze trends, understand usersâ activities and gather demographic information to enable, manage and develop its interest-based ads related services, and share data with affiliates and business partners.
+Mobfox retains your information in accordance with Mobfoxâs legitimate business purposes for processing the information.
+Thereafter the data is removed, archived for restricted legitimate interests, or anonymized.
+Non-identifying information may be kept without time and use limitations.
+In both iOS and Android devices you may signal your wish to opt out of receiving interest-base ads via your device settings.
+At any time, you may contact Mobfoxâs Privacy Team: PrivacyCompliance@mobfox.com with any question or complaint about the use of your data, or with a request to exercise your rights under the applicable law, including, to the extent applicable, your rights of access, rectification, portability, erasure, restriction of processing, objection to processing, profiling and automated processing.
+Mobfox may need to ask you to provide certain credentials to verify your identity.
+The above terms describe the essentials of Mobfoxâs privacy practices for mobile applications and devices.
+For further information on how Mobfox uses and secures your information, please visit the Mobfox Privacy Policy at: https://www.mobfox.com/privacy-policy/, as amended from time to time.
+
+Annex A
+
+
+DATA PROCESSING ADDENDUM
+
+
+1.
+THIS DATA PROCESSING ADDENDUM
+
+This Data Processing Addendum (âDPAâ) reflects the partiesâ agreement on the Processing of Personal Information that Privacy Laws and Regulations apply in regard thereof.
+For the purpose of this Annex A, you will be addressed as a âCustomerâ.
+All capitalized terms not defined herein will have the meaning set forth in the Agreement.
+All terms under the Agreement apply to this DPA, except that the terms of this DPA will supersede any conflicting terms under the Agreement.
+In the course of providing the service to Customer pursuant to the Agreement (the âServiceâ), Mobfox may Process Personal Information on behalf of Customer.
+The parties agree to comply with the following provisions under this DPA with respect to Customerâs Personal Information processed by Mobfox on behalf of Customer as part of the Services.
+
+2.
+DEFINITIONS
+
+2.1.
+âAffiliateâ means any legal entity directly or indirectly controlling, controlled by or under common control with a party to the Agreement, where âcontrolâ means the ownership of a majority share of the voting stock, equity, or voting interests of such entity.
+2.2.
+âMobfoxâ means Mobfox US LLC and its Affiliates.
+2.3.
+âMobfox Information Security Policyâ means the information security documentation applicable to the specific Service purchased by Customer, as updated from time to time, and made available by Mobfox upon request.
+2.4.
+âIndividualâ means a natural person to whom Personal Information relates, also referred to as âData Subjectâ pursuant to EU data protection laws and regulations.
+2.5.
+âPersonal Information â means information about an identified or identifiable Individual, also referred to as âPersonal Data â pursuant to EU data protection laws and regulations, which Mobfox Processes under the terms of the Agreement.
+2.6.
+âPersonnelâ means the employees, agents, consultants, and contractors of Customer and Customerâs Affiliates.
+2.7.
+âPrivacy Laws and Regulationsâ means Regulation (EU) 2016/679 (GDPR), when it takes effect, as applicable to the Processing of Personal Information under the Agreement.
+2.8.
+âPrivacy Shieldâ means the EU-US Privacy Shield Framework, as administered by the U.S.
+Department of Commerce and approved by the European Commission pursuant to Decision C(2016)4176 of July 12, 2016.
+2.9.
+âPrivacy Shield Principlesâ mean the Privacy Shield Principles, as supplemented by the Supplemental Principles and contained in Annex II to the European Commission Decision C(2016)4176 of July 12, 2016, as may be amended, superseded or replaced.
+2.10.
+âProcessâ or âProcessingâ means any operation or set of operations which is performed upon Personal Information, whether or not by automatic means, such as collection, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination, or otherwise making available, alignment or combination, blocking, erasure or destruction.
+
+3.
+DATA PROCESSING
+
+3.1.
+Scope and Roles.
+This DPA applies when Personal Information is Processed by Mobfox as part of Mobfoxâs provision of the Service, as further specified in the Agreement and the applicable order form.
+In this context, to the extent that provisions under the GDPR apply to Personal Information that Mobfox processes for Customer under the Agreement, Customer is the Data Controller and Mobfox and applicable Affiliates are the Data Processor under such laws and regulations.
+3.2.
+Instructions for Mobfoxâs Processing of Personal Information.
+Mobfox will only Process Personal Information on behalf of and in accordance with Customerâs instructions.
+Customer instructs Mobfox to Process Personal Information for the following purposes: (i) Processing in accordance with the Agreement and applicable order forms, including, without limitation to provide the Service, and for back-up and disaster recovery, cyber security, operations, control, improvements and development of Mobfoxâs Service, fraud and service misuse prevention and legal and administrative proceedings.
+and (ii) Processing to comply with other reasonable instructions provided by Customer where such instructions are consistent with the terms of the Agreement and comply with applicable Privacy Laws and Regulations.
+Processing outside the scope of this DPA (if any) will require prior written agreement between Mobfox and Customer on additional instructions for processing, including agreement on any additional fees Customer will pay to Mobfox for carrying out such instructions.
+
+4.
+NOTICE AND CONSENT
+
+4.1.
+Customer undertakes to provide all necessary notices to Individuals and receive all necessary permissions and consents, as necessary for Mobfox to process Personal Information on Customerâs behalf under the terms of the Agreement and this DPA, pursuant to the applicable Privacy Laws and Regulations.
+4.2.
+To the extent required under the applicable Privacy laws and regulations, Customer will appropriately document the Individualsâ notices and consents.
+
+5.
+RIGHTS OF INDIVIDUALS
+
+5.1.
+Requests.
+Mobfox will, to the extent legally permitted, promptly notify Customer if Mobfox receives a request from an Individual, whoâs Personal Information is included in Customerâs Personal Information, or a request by the Individualâs legal guardians, to exercise the right to access, correct, amend, or delete Personal Information related to the Individual, or to exercise such other personal right that the Individual is entitled to pursuant the applicable Privacy laws and regulations.
+5.2.
+Assistance.
+Mobfox will provide Customer with commercially reasonable cooperation and assistance in relation to handling the Individualâs request, to the extent legally permitted and to the extent Customer does not have access to such Personal Information through its use of the Service.
+Except if not permitted under the applicable Privacy laws and regulations, Customer will reimburse Mobfox with any costs and expenses related to Mobfoxâs provision of such assistance.
+5.3.
+Customer undertakes to direct individuals who wish to revoke their consent or to exercise their right to be forgotten to Mobfoxâs opt-out feature at: PrivacyCompliance@mobfox.com
+
+6.
+ASSISTANCE IN COMPLIANCE
+
+At Customerâs written request, Mobfox will cooperate with and make commercially reasonable efforts to assist Customer in complying with Customerâs obligations pursuant to Articles 32 to 36 to the GDPR, taking into account the nature of processing and the information available to Mobfox.
+
+7.
+MOBFOX PERSONNEL
+
+7.1.
+Limitation of Access.
+Mobfox will ensure that Mobfoxâs access to Personal Information is limited to those personnel who require such access to perform the Agreement or provide its services.
+7.2.
+Confidentiality.
+Mobfox will impose appropriate contractual obligations upon its personnel engaged in the Processing of Personal Information, including relevant obligations regarding confidentiality, data protection, and data security.
+Mobfox will ensure that its personnel engaged in the Processing of Personal Information are informed of the confidential nature of the Personal Information, have received appropriate training in their responsibilities, and have executed written confidentiality agreements.
+Mobfox will ensure that such confidentiality agreements survive the termination of the employment or engagement of its personnel.
+
+8.
+AFFILIATES AND THIRD-PARTY SERVICE PROVIDERS
+
+8.1.
+Affiliates.
+Some or all of Mobfoxâs obligations under the Agreement may be performed by Mobfox Affiliates.
+8.2.
+Agents.
+Customer acknowledges and agrees that Mobfox and Mobfoxâs Affiliates respectively may engage third-party service providers in the performance of the Service on Customerâs behalf.
+All Affiliates and agents (also referred to as âother processorsâ under the GDPR) to whom Mobfox transfers Personal Information to provide the Service on behalf of Customer have entered into written agreements with Mobfox or such other binding instruments that bind them by substantially the same material obligations under this DPA.
+8.3.
+Liability.
+Mobfox will be liable for the acts and omissions of its Affiliates and agents to the same extent that Mobfox would be liable if performing the Service of each Affiliate or agent directly, under the terms of Agreement.
+8.4.
+Objection.
+To ensure compliance with applicable Privacy Laws and Regulation, Customer may object to any engagement by Mobfox with a new agent to Process Customer Personal Information on Customerâs behalf, within five (5) business days following Mobfoxâs notice to Customer of its engagement with the new agent.
+If Customer sends Mobfox a written objection to the new agent, Mobfox will make commercially reasonable efforts to provide Customer the same level of Service without the using the new agent to Process Customer Personal Information.
+Nothing in this section prejudices the partiesâ rights and obligations under the Agreement.
+
+9.
+ONWARD AND TRANS-BORDER TRANSFER
+
+9.1.
+Transfer of Personal Information related to Individuals within the EU to Mobfoxâs data hosting services in the US is made in accordance with such hosting servicesâ self-certification with the Privacy Shield.
+Transfer of Personal Information related to Individuals within the EU to Israel is made in accordance the EU Commission decision 2011/61/EU of January 31, 2011, on the adequate protection of Personal Information by the State of Israel regarding automated processing of Personal Information.
+9.2.
+All Mobfox Affiliates and agents to whom Mobfox transfers Personal Information to provide the Service are certified to the Privacy Shield, or provide at least the same level of protection for the Personal Information as is required by the relevant principles of the Privacy Shield and comply with the requirements under the Privacy Shield for the onward transfer of Personal Information to agents, or have executed such other lawful instruments for lawfully transferring Personal Information related to Individuals within the EU to other territories, such as by executing the Standard Contractual Clauses in the form attached and incorporated by reference to this DPA as Exhibit A, or any successor thereof or an alternative lawful data transfer mechanism, or alternatively the Personal Information is transferred to a country with an adequacy recognition by the EU Commission.
+
+10.
+INFORMATION SECURITY
+
+10.1.
+Controls.
+Mobfox will maintain administrative, physical and technical safeguards for the protection of the security, confidentiality and integrity of Customerâs Personal Information pursuant to the Mobfox Information Security Policy.
+Mobfox regularly monitors compliance with these safeguards.
+Mobfox will not materially decrease the overall security of the Service during the term of the Agreement.
+10.2.
+Policies and Audits.
+Customer may audit Mobfoxâs compliance with its obligations under this Data Processing Addendum up to once per year (âData Protection and Security Auditâ), provided, however, that any Data Protection and Security Audit is subject to the following cumulative conditions: (i) The Data Protection and Security Audit will be pre-scheduled in writing with Mobfox, at least 60 days in advance.
+(ii) All Customer personnel who perform the Data Protection and Security Audit, whether employed or contracted by Customer, will execute Mobfoxâs standard non-disclosure agreement prior to the initiation of the Data Protection and Security Audit, and a third party auditor will also execute a non-competition undertaking.
+(iii) Customer will take all necessary measures and verify that the auditors do not access, disclose or compromise the confidentiality and security of non-Customer data on Mobfoxâs information and network systems.
+(iv) Customer will take all measures to prevent any damage or interference with Mobfox and its Affiliatesâ information and network systems.
+(v) Customer will bear all costs and assume responsibility and liability for the Data Protection and Security Audit and for any failures or damage caused as a result thereof.
+(vi) Customer will keep the Data Protection and Security Audit results in strict confidentiality, will use them solely for the specific purposes of the Data Protection and Security Audit under this section, will not use the results for any other purpose, or share them with any third party, without Mobfoxâs prior explicit written confirmation.
+and (vii) If Customer is required to disclose the Data Protection and Security Audit results to a competent authority, Customer will first provide Mobfox with a prior written notice, explaining the details and necessity of the disclosure, and will provide Mobfox with all necessary assistance to prevent the disclosure thereof.
+
+11.
+SECURITY BREACH MANAGEMENT AND NOTIFICATION
+
+11.1.
+Breach prevention and management.
+Mobfox will maintain security incident management policies and procedures and will, to the extent required by law, promptly notify Customer of any unauthorized access to, acquisition of, or disclosure of Customer Personal Information, by Mobfox or its Affiliates or agents of which Mobfox becomes aware of (a âSecurity Incidentâ).
+11.2.
+Remediation.
+Mobfox will promptly make reasonable efforts to identify and remediate the cause of such a Security Incident.
+
+12.
+DELETION AND RETENTION OF PERSONAL INFORMATION
+
+12.1.
+Data Deletion.
+After the end of the provision of the Service, Mobfox will return Customerâs Personal Information to Customer or delete such data, including by de-identifying thereof.
+12.2.
+Data Retention.
+Notwithstanding, Customer acknowledges and agrees that Mobfox may retain copies of Customer Personal Information as necessary in connection with its routine backup and archiving procedures and to ensure compliance with its legal obligations and its continuing obligations under the applicable law, including to retain data pursuant to legal requirements and to use such data to protect Mobfox, its Affiliates, agents, and any person on their behalf in court and administrative proceedings.
+
+13.
+DISCLOSURE TO COMPETENT AUTHORITIES
+
+Mobfox may disclose Personal Information (a) if required by a subpoena or other judicial or administrative order, stock exchange or if otherwise required by law.
+or (b) if Mobfox deems the disclosure necessary to protect the safety and rights of any person, or the general public.
+
+14.
+ANONYMIZED AND AGGREGATED DATA
+
+Mobfox may process data based on extracts of Personal Information on an aggregated and non-identifiable forms, for Mobfoxâs legitimate business purposes, including for testing, development, controls, and operations of the Service, and may share and retain such data at Mobfoxâs discretion, provided that such data cannot reasonably identify an Individual.
+
+15.
+TERM
+
+This DPA will commence on the same date that the Agreement are effective and will continue until the Agreement are expired or terminated, pursuant to the terms therein.
+
+16.
+COMPLIANCE
+
+16.1.
+Mobfoxâs compliance team is responsible to make sure that all relevant Mobfoxâs personnel adhere to this DPA.
+16.2.
+Mobfoxâs compliance team can be reached at: PrivacyCompliance@mobfox.com
+
+17.
+DISPUTE RESOLUTION
+
+Each Party will create an escalation process and provide a written copy to the other Party within five (5) business days of any dispute arising out of or relating to this DPA.
+The escalation process will be used to address disputed issues related to the performance of this DPA, including but not limited to technical problems.
+The Parties agree to communicate regularly about any open issues or process problems that require prompt and accurate resolution as set forth in their respective escalation process documentation.
+The Parties will attempt in good faith to resolve any dispute arising out of or relating to this DPA, before and as a prior condition for commencing legal proceedings of any kind, first as set forth above in the escalation process and next by negotiation between executives who have authority to settle the controversy and who at a higher level of management than the persons with direct responsibility for administration of this DPA.
+Any Party may give the other Party written notice of any dispute not resolved in the normal course of business.
+Within two (2) business days after delivery of the notice, the receiving Party shall submit to the other a written response.
+The notice and the response will include (a) a statement of each Partyâs position and a summary of arguments supporting that position and (b) the name and title of the executive who will represent that Party and of any other person who will accompany the executive.
+Within five (5) business days after delivery of the disputing Partyâs notice, the executives of both Parties shall meet at a mutually acceptable time and place, including telephonically, and thereafter as often as they reasonably deem necessary, to attempt to resolve the dispute.
+All reasonable requests for information made by one Party to the other will be honored.
+All negotiations pursuant to this clause are confidential and will be treated as compromise and settlement negotiations for purposes of applicable rules of evidence.
+
+18.
+MISCELLANEOUS
+
+18.1.
+Any alteration or modification of this DPA is not valid unless made in writing and executed by duly authorized personnel of both parties.
+18.2.
+Invalidation of one or more of the provisions under this DPA will not affect the remaining provisions.
+Invalid provisions will be replaced to the extent possible by those valid provisions which achieve essentially the same objectives.

@@ -1,0 +1,229 @@
+
+
+ Terms of Service Last updated: 2020/12/02 1.
+Terms
+By signing up to the the website at https://TryHackMe.com, you are
+agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are
+responsible for compliance with any applicable local laws.
+If you do not agree with any of these terms, you
+are prohibited from using or accessing this site.
+The materials contained in this website are protected by
+applicable copyright and trademark law.
+2.
+Use License
+
+
+Unless explicity stated or credited, users are assumed to own the material they used to create a room.
+Users without subscriptions can only access non-subscription rooms.
+
+This license shall automatically terminate if you violate any of these restrictions and may be
+terminated by TryHackMe at any time.
+Upon terminating your viewing of these materials or upon the
+termination of this license, you must destroy any downloaded materials in your possession whether in
+electronic or printed format.
+
+3.
+Disclaimer
+
+The materials on TryHackMe's website are provided on an 'as is' basis.
+TryHackMe makes no warranties,
+expressed or implied, and hereby disclaims and negates all other warranties including, without limitation,
+implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement
+of intellectual property or other violation of rights.
+Further, TryHackMe does not warrant or make any representations concerning the accuracy, likely results,
+or reliability of the use of the materials on its website or otherwise relating to such materials or on
+any sites linked to this site.
+
+4.
+Limitations
+In no event shall TryHackMe or its suppliers be liable for any damages (including, without limitation,
+damages for loss of data or profit, or due to business interruption) arising out of the use or inability to
+use the materials on TryHackMe's website, even if TryHackMe or a TryHackMe authorized representative has
+been notified orally or in writing of the possibility of such damage.
+Because some jurisdictions do not
+allow limitations on implied warranties, or limitations of liability for consequential or incidental
+damages, these limitations may not apply to you.
+5.
+Accuracy of materials
+The materials appearing on TryHackMe's website could include technical, typographical, or photographic
+errors.
+TryHackMe does not warrant that any of the materials on its website are accurate, complete or
+current.
+TryHackMe may make changes to the materials contained on its website at any time without notice.
+However TryHackMe does not make any commitment to update the materials.
+6.
+Links
+TryHackMe has not reviewed all of the sites linked to its website and is not responsible for the contents
+of any such linked site.
+The inclusion of any link does not imply endorsement by TryHackMe of the site.
+Use
+of any such linked website is at the user's own risk.
+7.
+Modifications
+TryHackMe may revise these terms of service for its website at any time without notice.
+By using this
+website you are agreeing to be bound by the then current version of these terms of service.
+8.
+Governing Law
+These terms and conditions are governed by and construed in accordance with the laws of London, United
+Kingdom and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+ 9.
+User Code of Conduct  TryHackMe reserves the right to discontinue service for any user that violates these terms and conditions,
+and the user conduct.
+We expect users to follow certain conditions including but not limited to:
+
+
+Users must only attack infrastructure/material provided by a room they join.
+Users must not distribute any malicious material to other user such as malware through the upload
+functionality, or through any other means.
+
+User must abstain from any unlawful, inappropriate and abusive use of the content and the services
+provided on this website at all times, in accordance with the existing legislation, and respect the
+intellectual property rights of TryHackMe.
+
+10.
+Payments All payments on TryHackMe are by third-party API's.
+We do not store any personal payment details on the
+site (apart from the payment method).
+By paying with 'Stripe.com' you agree to their terms and conditions.
+We only offer refunds on payments to this website via Stripe.
+We reserve the right to offer a refund.
+All
+payments are final.
+We hold the right to close any account (without any form of refunds) at our discretion.
+
+
+Privacy Policy
+Your privacy is important to us.
+It is TryHackMe's policy to respect your privacy regarding any information
+we may collect from you across our website, https://TryHackMe.com, and
+other sites we own and operate.
+ TryHackMe adheres to GDPR(general data protection regulation) and are GDPR compliant when collecting and
+processing user information.
+ What Data Do We Collect
+We collect the following information
+
+Full Name
+Username
+Email
+Password
+Gender
+Occupation information including job title and place of work
+Feedback about user experience
+Usage statistics on the platform.
+Examples of these statistics include most accessed room and number of deployments.
+Some of these statics are sent to the third party analytics service: Amplitude
+Log data when you visit our website.
+This log data may include information such as your computer's IP address, browser page, pages of service you visit, your time spent there and other statistics.
+Session Recordings using HotJar.
+These captures do not include any of the aformentioned personally identifiable information 
+ How Do We Collect Your Data
+ We collect the aformentioned information on the sign up and profile pages of the website.
+We also collect feedback through the feedback section on the website, sending out forms via email, and focus groups and interviews with users.
+Other information such as logging and usage statistics are gathered automatically when a user accesses features of TryHackMe.
+
+What do we use your data for
+ We use the information entered in the profile to help assess how to create appropriate content for the
+users.
+Depending on the users occupation and skill levels, we aim to create content the better suits their
+needs.
+When running specific events using TryHackMe such as CTFs, users who sign up to such events on the
+platform are explicity notified that their information is used by organizing parties involved in the event.
+The gathering,
+processing and use of the data follows the aformentioned processes.
+
+ By default, users opt-in to receiving emails from TryHackMe, and this can be changed upon specific request
+from the users How Do We Store Your Data
+ TryHackMe will take reasonable technical and organisational precautions to prevent the loss, misuse or
+alteration of your personal information.
+TryHackMe will store all the personal information you provide on
+its secure servers.
+Information relating to electronic transactions entered into via this website will be
+protected by encryption technology.
+We only retain collected information for as long as necessary to provide you with your requested service.
+What data we store, weâll protect within commercially acceptable means to prevent loss and theft, as well as
+unauthorised access, disclosure, copying, use or modification.
+Our website may link to external sites that are not operated by us.
+Please be aware that we have no control
+over the content and practices of these sites, and cannot accept responsibility or liability for their
+respective privacy policies.
+You are free to refuse our request for your personal information, with the understanding that we may be
+unable to provide you with some of your desired services such as creating more appropriate virtual rooms and
+other training content.
+Your continued use of our website will be regarded as acceptance of our practices around privacy and
+personal information.
+If you have any questions about how we handle user data and personal information, feel
+free to contact us. What Are Your Data Protection Rights
+You have the following rights with respect to your data:
+
+The right to access: you have the right to request TryHackMe for copies of your personal data.
+We may
+charge you a small fees for this service
+The right to rectification: you have the right to request that TryHackMe correct any information you
+believe is inaccurate.
+you also have the right to request our comapny to complete the information you
+believe is incomplete 
+The right to erasure: you have the right to request that TryHackMe erase your personal data under
+certain conditions
+The right to restrict processing: you have the right to request that TryHackMe restrict the processing
+of your personal data, under certain conditions 
+The right to object to processing: you have the right to object to TryHackMe processing your personal
+data, under certain conditions 
+The right to data portability: you have the right to request that TryHackMe transfer that data that we
+have collected to another organization, or directly to you, under certain conditions
+
+ If you make a request, we have one month to respond to you.
+If you would like to exercise any of these
+rights, please contact us at our email: hello@TryHackMe.com 
+This policy is effective as of 10 October 2018.
+Cookie Policy
+About cookies
+This website uses cookies.
+By using this website and agreeing to this policy, you consent to TryHackMe's
+use of cookies in accordance with the terms of this policy.
+Cookies are files sent by web servers to web
+browsers, and stored by the web browsers.
+The information is then sent back to the server each time the
+browser requests a page from the server.
+This enables a web server to identify and track web browsers.
+There
+are two main kinds of cookies: session cookies and persistent cookies.
+Session cookies are deleted from your
+computer when you close your browser, whereas persistent cookies remain stored on your computer until
+deleted, or until they reach their expiry date.
+
+Google cookies
+
+TryHackMe uses Google Analytics to analyse the use of this website.
+Google Analytics generates statistical
+and other information about website use by means of cookies, which are stored on users' computers.
+The
+information generated relating to our website is used to create reports about the use of the website.
+Google
+will store and use this information.
+Google's privacy policy is available at:
+https://www.google.com/privacypolicy.html.
+
+TryHackMe publishes Google AdSense interest-based advertisements on this website.
+These are tailored by
+Google to reflect your interests.
+To determine your interests, Google will track your behaviour across the
+web using cookies.
+You can view, delete or add interest categories associated with your browser using
+Google's Ads Preference Manager, available at: https://www.google.com/ads/preferences/.
+You can opt-out of
+the AdSense partner network cookie at: https://www.google.com/privacy_ads.html.
+However, this opt-out
+mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained.
+To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google
+browser plug-in available at: https://www.google.com/ads/preferences/plugin.
+
+HotJar Cookies
+As mentioned above, we use HotJar to ensure that we can enhance users' experience by understanding how
+exactly they interact with the user interface.
+HotJar does not record any personally identifiable
+information.
+HotJar operates by tracking users using its cookies.
+TryHackMe only uses this information
+internally and does not send, distribute or sell this data to any other third party, apart from HotJar(where
+this data is stored).

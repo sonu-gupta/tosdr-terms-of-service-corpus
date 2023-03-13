@@ -1,0 +1,32 @@
+
+         Grand jury subpoena for Signal user data, Eastern District of Virginia 04 Oct 2016
+In the âfirst half of 2016â (the most specific weâre permitted to be), we received a subpoena from the Eastern District of Virginia.
+The subpoena required us to provide information about two Signal users for a federal grand jury investigation.
+Weâve designed the Signal service to minimize the data we retain about Signal users, so the only information we can produce in response to a request like this is the date and time a user registered with Signal and the last date of a userâs connectivity to the Signal service.
+Notably, things we donât have stored include anything about a userâs contacts (such as the contacts themselves, a hash of the contacts, any other derivative contact information), anything about a userâs groups (such as how many groups a user is in, which groups a user is in, the membership lists of a userâs groups), or any records of who a user has been communicating with.
+All message contents are end-to-end encrypted, so we donât have that information either.
+This is the first subpoena that weâve received.
+It originally included a broad gag order that would have prevented us from publishing this notice, but the ACLU represented us in quickly and successfully securing our ability to publish the transcripts below.
+Weâre committed to treating any future requests the same way: working with effective and talented organizations like the ACLU, and publishing transcripts of our responses to government requests here.
+Below is the transcript for this request.
+
+Edit: The documents below have been updated to remove redactions that are no longer required.
+
+
+The Subpoena This browser does not support PDFs.
+Please download the PDF to view it: Download PDF.
+Our Response This browser does not support PDFs.
+Please download the PDF to view it: Download PDF.
+Our Petition To Remove The Gag Order This browser does not support PDFs.
+Please download the PDF to view it: Download PDF.
+The Government's Response To Our Petition This browser does not support PDFs.
+Please download the PDF to view it: Download PDF.
+The Unsealing Order This browser does not support PDFs.
+Please download the PDF to view it: Download PDF.
+
+ 
+
+
+ Tweet 
+ FacebookWant to get involved with Signal? We're hiring!
+      

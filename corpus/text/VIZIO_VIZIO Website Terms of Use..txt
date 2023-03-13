@@ -1,0 +1,310 @@
+
+         Need help with your new VIZIO product? Contact VIZIO Support.
+Sign in / Sign up Hello Hello My Account Log out 
+ TVs  D-Series
+Dependability &amp.
+value
+Dependability &amp.
+value
+24" â 43"
+From $129.99 V-Series
+Affordable performance
+Affordable performance
+40" â 75"
+From $229.99 M-Series
+A quantum leap in color
+A quantum leap in color
+50" â 70"
+From $439.99 P-Series
+Our biggest &amp.
+best LED
+Our biggest &amp.
+best LED
+65" - 85"
+From $1199.99 OLED
+The perfect picture
+The perfect picture
+55" - 65"
+From $1299.99 Compare TVs 
+
+ D-Series Dependability &amp.
+value 24" â 43" From $129.99 Shop 
+ V-Series Affordable performance 40" â 75" From $229.99 Shop 
+ M-Series A quantum leap in color 50" â 70" From $439.99 Shop 
+ P-Series Our biggest &amp.
+best LED 65" - 85" From $1199.99 Shop 
+ OLED The perfect picture 55" - 65" From $1299.99 Shop 
+ Compare TVs 
+
+
+ Compare Series Not sure which Smart TV fits your needs?
+No worries, weâll guide you to the right model: Compare TVs 
+
+
+ V-Series Smart &amp.
+affordable performance 40" â 75" Starting at: $229.99
+
+ M-Series A quantum leap in color 40" â 70" Starting at: $439.99
+
+ P-Series Our biggest and best LED 65" - 85" Starting at: $1199.99
+
+ OLED The perfect picture 55" â 65â Starting at: $1,299.99
+
+ Compare Series Not sure which Smart TV fits your needs?
+No worries, weâll guide you to the right model: Compare TVs 
+
+
+ Sound Bars  V-Series
+Big sound at a small price
+Big sound at a small price
+2.1 &amp.
+5.1
+From $179.99 M-Series
+A step up to surround sound
+A step up to surround sound
+AIO &amp.
+5.1 &amp.
+5.1.2
+From $149.99 Elevate
+The pinnacle of audio excellence
+The pinnacle of audio excellence
+5.1.4
+From $999.99 Additional Sound Bars
+Americaâs #1 Sound Bar Brand
+Americaâs #1 Sound Bar Brand
+2.1 &amp.
+5.1
+From $179.99 Compare Sound Bars 
+
+ V-Series Big sound at a small price 2.1 &amp.
+5.1 From $179.99 Shop 
+ M-Series A step up to surround sound AIO &amp.
+5.1 &amp.
+5.1.2 From $149.99 Shop 
+ Elevate The pinnacle of audio excellence 5.1.4 From $999.99 Shop 
+ Additional Sound Bars Americaâs #1 Sound Bar Brand 2.1 &amp.
+5.1 From $179.99 Shop 
+ Compare Sound Bars 
+
+
+ Compare Series Not sure which soundbar fits your needs?
+No worries, weâll guide you to the right model: Compare SoundBars 
+
+
+ V-Series Big sound at a small price 2.1 &amp.
+5.1 Starting at: $179.99
+
+ M-Series A step up to surround sound AIO &amp.
+5.1 &amp.
+5.1.2 Starting at: $149.99
+
+ Elevate The pinnacle of audio excellence 5.1.4 Starting at: $999.99
+
+ Compare Series Not sure which soundbar fits your needs?
+No worries, weâll guide you to the right model: Compare SoundBars 
+
+
+ SmartCastâ¢  SmartCastâ¢
+Discover everything you love all in one place
+Discover everything you love all in one place Smart TV Apps
+Enjoy endless entertainment from your favorite apps
+Enjoy endless entertainment from your favorite apps WatchFreeâ¢
+Stream hundreds of free channels
+Stream hundreds of free channels 
+
+ SmartCastâ¢ Discover everything you love all in one place 
+ Visit 
+ Smart TV Apps Enjoy endless entertainment from your favorite apps 
+ Visit 
+ WatchFreeâ¢ Stream hundreds of free channels 
+ Visit 
+ Explore SmartCast 
+
+
+ SmartCastâ¢ Get everything you love in all in one place 
+
+
+ Smart TV Apps Entertainment from an endless selection of apps 
+
+
+ WatchFreeâ¢ Stream over 150 TV channels for free 
+
+
+ Explore SmartCast 
+
+
+ Shop 
+ Support 
+ {{#ifEquals lineItems.length 0}} {{else}} {{#each lineItems}} {{{shoppingCartImageLink url name imagePath }}} {{{shoppingCartLink url description}}} {{{promotionalMessage}}} QTY: {{quantity}} {{#ifEquals savings 0}} {{lineItemTotal}} {{else}} {{lineItemPrice}} {{lineItemTotal}} {{/ifEquals}} {{#ifEquals available 0}} *This product is currently out of stock.
+{{/ifEquals}} {{#ifGreater available 0}} {{#ifGreater quantity available}} Weâre sorry, the requested quantity is not available.
+{{/ifGreater}} {{/ifGreater}} {{/each}} {{/ifEquals}} {{#ifEquals lineItems.length 0}} {{else}} Cart Subtotal:{{cartTotal}} Edit Cart Checkout {{/ifEquals}} 1 item added to your cart . You have been logged out successfully.
+Close No Results Found.
+
+ Terms of Service 
+ Privacy Policy 
+ Viewing Data Supplement 
+ Viewing Data Regions 
+ Website Terms of Use 
+ myVIZIO Terms of Use 
+ Warranty &amp.
+Returns 
+ Shipping Policy 
+ Your California Privacy Rights 
+ Privacy Policy Addendum for California Residents 
+ VIZIO Website Terms of Use.
+The following terms and conditions ("Terms of Use") apply to all visitors to, or users of, this web site and to all of our products, services as well as that portion of the VIZIO Internet Application ("VIA") Services controlled by VIZIO (collectively "VIZIO Products and Services").
+The Terms of Use also apply to any information, including the text, site design, graphics, logos, icons and images, audio and video clips, as well as the selection, assembly and arrangement thereof, , or other materials appearing on this web site (the "Contentv).
+By accessing this web site, the user acknowledges acceptance of these Terms of Use.
+VIZIO, Inc.
+("VIZIO") reserves the right to change these Terms of Use from time to time at its sole discretion and without prior notice.
+In the case of any violation of these Terms of Use, VIZIO reserves the right to seek all remedies available by law and in equity to redress such violations.
+These Terms of Use apply to all visits to the VIZIO web site, both now and in the future.
+Trademarks
+Unless otherwise specified, all product and service names, slogans, custom graphics, icons, logos and service names are registered trademarks, unregistered trademarks, trade names or service marks ("Marks") of VIZIO.
+All third party trademarks, trade names or service marks are the property of their respective owners.
+The use of any VIZIO Marks without our express written consent is strictly prohibited.
+Your access to this web site should not be construed as granting, by implication, estopppel or otherwise, any license or right to use any Marks appearing on the web site without the prior written consent of VIZIO or the third party that may own the Mark.
+If you have any questions, you may contact our Legal Department at VIZIO, Inc.
+39 Tesla, Irvine, CA 92618, ATTN: VIZIO Legal Department or 949.428.2525.
+Copyrights
+Unless otherwise specified, all Content and software are the property of VIZIO and are protected by U.S.
+and international copyright laws.
+All other copyrighted materials are the property of their respective owners.
+You may view, download, print and retain a copy of pages of our web site provided that (1) your use of such information from VIZIO's web site is for your informational, personal and non-commercial use only, (2) you will not copy, transfer or transmit such information to another person or entity, post it on any network computer or broadcast it in any media, (3) any copy of this information which you make shall retain all legal notices, copyright and other proprietary notices contained therein, and (4) you make no modifications of such information.
+Except as expressly provided above, you may not use, download, upload, copy, print, display, perform, reproduce, republish, license, post, transmit or distribute any Content from our web site in whole or in part without VIZIO's prior written permission.
+If you wish to obtain permission to reprint or reproduce any Content appearing on our web site you may contact us via our Marketing Department at VIZIO, Inc.
+39 Tesla, Irvine, CA 92618, ATTN: Marketing Department or 949.428.2525.
+All rights not expressly granted herein are reserved.
+Procedure for Claims of Copyright Infringement
+Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement should be made according to the following instructions (Copyright Policy):
+If you believe that your work, content or information has been copied in a way that constitutes copyright infringement through the Service, please submit your complaint by email or physical mail as follows:
+
+Email: copyright@vizio.com
+
+Mailing Address:
+
+VIZIO, Inc.
+Attn: Copyright Agent
+39 Tesla
+Irvine, CA 92618
+You must provide the following information, which VIZIO may then forward to the alleged infringer:
+(1) Identify and describe the User Content or other material on the Service that you believe infringes your content;
+(2) Identify and describe where the content that you claim is infringing appeared or is located on the Service;
+(3) Provide your address, telephone number and email address;
+(4) Provide a statement, made under penalty of perjury, that: (a) you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law.
+(b) the information you have submitted is complete, accurate and true.
+and (c) you are the owner of the content involved or you are authorized to act on behalf of that owner.
+and
+(5) Provide your physical or electronic signature.
+Upon receiving your complaint, VIZIO may remove content that you believe infringes your content.
+In addition, VIZIO may terminate the account of the member who appears to be infringing your intellectual property rights.
+Disclaimer
+Every effort has been made to ensure the accuracy of the Content presented on VIZIO's web site.
+However, VIZIO assumes no responsibility for the accuracy of the Content.
+Information about VIZIO Products and Services is subject to change at any time without notice.
+VIZIO may make improvements and/or changes in the Products, Services and/or the programs described in this web site at any time without notice.
+References to non-VIZIO products, services and/or programs is for information purposes only and constitutes neither an endorsement nor a recommendation.
+ALL CONTENT OR INFORMATION PROVIDED ON THIS WEB SITE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF INTELLECTUAL PROPERTY.
+VIZIO SHALL NOT UNDER ANY CIRCUMSTANCES BE LIABLE TO ANY PERSON FOR ANY SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES, INCLUDING, WITHOUT LIMITATION, DAMAGES RESULTING FROM THE USE OF, THE INABILITY TO USE, OR RELIANCE ON THE CONTENT OR INFORMATION PRESENTED, LOSS OF PROFITS OR REVENUES OR COSTS OF REPLACEMENT GOODS, EVEN IF VIZIO HAS BEEN INFORMED IN ADVANCE OF THE POSSIBILITY OF SUCH DAMAGES.
+Links and search results
+VIZIO'S web site may contain links to other sites or automatically produce search results that refer or link to other web sites.
+Clicking on such a link to a third party site will cause you to leave our web site.
+We do not control or endorse the linked third party sites and are not responsible for the contents of any linked third party site, any link contained in a linked third party site, or any changes or updates to such third party sites.
+We do not guarantee, represent or warrant that the content of these sites is accurate, legal, inoffensive, or free from viruses or other features that may adversely affect your computer.
+These links are provided to you only as a convenience and are governed by terms and conditions of the particular third party site to which you are linked.
+By using our web site to search for or link to another site, you agree and understand that you may not make any claim against VIZIO for any resulting damages or losses.
+If you encounter a problem with a link from our web site, please notify us at: VIZIO, Inc.
+39 Tesla, Irvine, CA 92618, ATTN: Website Support Department or 949.428.2525.
+CONTENTS Â©2019 VIZIO, INC., ALL RIGHTS RESERVED. Be the first to receive VIZIO news, promotions, special offers, and more
+Join the Millions of VIZIO subscribers. Enter your email to join...
+
+ Sign Up Submit 
+View our Privacy Policy
+ Get to Know Us 
+ About VIZIO 
+ Careers 
+ VIZIO News 
+ VIZIO and the Environment 
+ Accessibility 
+ Official Retailers 
+ Our Products 
+ TVs 
+ Sound Bars 
+ SmartCastâ¢ 
+ Shop 
+ Customer Reviews 
+ Get Help 
+ Support Center 
+ Product Registration 
+ myVIZIO 
+ Safety Notice 
+ Check Order Status 
+ Community 
+ Facebook 
+ Twitter 
+ YouTube 
+ Instagram 
+ For Business 
+ Investors 
+ Content Partners 
+ Reseller 
+ Commercial 
+ Inscape 
+ VIZIO Advertising 
+
+
+Explore our full line of products.
+Shop online.
+
+ Â© 2021 VIZIO, Inc.
+All rights reserved.
+
+ Privacy Policy 
+ Terms of Service 
+ Website Terms of Use 
+ Shipping Terms &amp.
+Conditions 
+ Site Map 
+ Do Not Sell My Personal Information 
+ United States Select your location Close Select Your Location.
+
+
+
+ United States 
+ Canada 
+ loop focus Privacy Preference SettingsWhen you visit our website, we store cookies on your browser to collect information.
+The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience.
+However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer.
+Click on the different category headings to find out more and change our default settings according to your preference.
+You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.).
+For more information please follow this link.
+More informationAllow AllManage Cookie PreferencesStrictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems.
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
+&nbsp.
+ You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+These cookies do not store any personally identifiable information.Performance Cookies Performance CookiesThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.
+They help us to know which pages are the most and least popular and see how visitors move around the site.
+&nbsp.
+ All information these cookies collect is aggregated and therefore anonymous.
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.Targeting Cookies Targeting CookiesThese cookies may be set through our site by our advertising partners.
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.
+&nbsp.
+ They do not store directly personal information, but are based on uniquely identifying your browser and internet device.
+If you do not allow these cookies, you will experience less targeted advertising.Confirm My ChoicesBack ButtonBack Performance CookiesVendor Search Search Icon Filter IconClear Fliters Information storage and accessApplyAll Consent Allowed Select All Vendors Select All Hosts
+33Acrosshost descriptionView Cookies REPLACE-WITH-DYANMIC-HOST-ID
+Namecookie nameHostcookie hostDurationcookie durationTypecookie typeCategorycookie categoryDescriptioncookie category
+
+
+
+
+33AcrossView Privacy Notice3 Purposes REPLACE-WITH-DYANMIC-VENDOR-IDArrowConsent Purposes
+Location Based Ads
+Consent Allowed
+Legitimate Interest Purposes
+PersonalizeRequire Opt-Out Features
+Location Based Ads
+
+Confirm My ChoicesWe use cookies on this site to improve and optimize site functionality, secure the site, analyze site activity, and personalize your experience on the site and the ads that you receive.
+Click on the link to change your cookie settings or visit VIZIO's privacy page to learn more.
+By continuing to browse, you agree to our use of cookies.Privacy PolicyCustomize Settings Accept and Continue
+      

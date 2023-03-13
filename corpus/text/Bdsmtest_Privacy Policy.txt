@@ -1,0 +1,50 @@
+
+        Let's test the kink out of you!Privacy Policy
+Bdsmtest.org values your privacy and the protection of your personally identifying information.
+In this privacy declaration, we want to provide clear and transparent information on how we collect, store and process your personal data.
+We do what we can to warrant your privacy and to deal correctly with your personal data, including compliance with the EUâs GDPR.
+If, after reading this document, you are left with any questions regarding how we deal with your privacy, you can contact us at any time by email on bdsmtest.org@gmail.com with any questions or concerns you may have.
+However please keep in mind that bdsmtest.org is a near-zero budget, non-profit project.
+Everything about it is volunteers' work (including writing this document).
+Who is this text for?This privacy declaration is applicable to all current and future users of the website, who leave behind personally identifiable information, as well as everyone contacting us via other methods (email, social media, etc.)What personal information do we process/store?
+
+All information explicitly passed on by you (your email address if you make an account or sign up for a mailinglist, answers given to test questions, etc.) as well as non-personally-identiable data computable from that (your test results, time it took you to complete the test, etc.)
+All information implicit in your connection (the current time, your ip adress, etc.) as well as non-personally-identiable data computable from that (the country youâre browsing from, the type of device youâre using, etc.)
+Any data that you happen to pass to us when contacting us via email, social media or other channels.
+
+Why do we process/store this?
+
+In case of email, we collect this to uniquely identify you as a user, and to send occasional emails if you sign up for our mailinglists.
+For other data, we collect this to ensure the proper functioning of the test, both to serve and host your results, as well as to sustain our quality control to improve the test taking experience for future users.
+In case of email and social media traffic, this is mainly a side effect of the platforms at hand (as is the case with anyone communicating to another human being via email or social media).
+
+Who has access to your data? We fully rely on external parties for our technical needs:
+Our web hosting company (currently Versio) has access to all data except for our email traffic and social media conversations.
+Our email web applications (currently Gmail) have access to all our non-automated email traffic.
+Each social media website has access to the conversations on their platform.
+Our cloud storage solution (currently Dropbox) has access to the database backups that we regularly make as part of the websiteâs maintenance.
+Our web analytics solution (currently Google Analytics) has access to all connection-based and device-based information that it tracks.
+the same holds for our anti-bot mechanism (currently Invisible Recaptcha).
+the same holds for the company behind every advertisement that we show you.
+And so on...
+
+We do not provide direct access by third parties to your data, unless mandated by law.
+If we ever do marketing of some sort (e.g.
+in exchange for sponsorship to sustain our development), we intend to do this ourselves so that we donât need to pass on your personal information to third parties (or if we really need to, we'll make sure to have the right contractual guarantees about the safety of said data).
+We can occasionally send anonymized data to third parties for statistical analysis.
+We do not keep personally identifying information for more than 10 years after its last usage.What security measures are in place?We believe we use more than reasonable security mechanisms to the standards of a near-zero-budget hobby project.
+We use encrypted https traffic wherever we can.
+We use ssh to connect to the server whenever we can.
+We use strong or randomized passwords that are difficult to guess.
+We use an antivirus+firewall on all computers that access the websiteâs data or store backups of this data, and encrypt the computersâ hard drive to secure the data in case of loss or theft.
+We have traps in place to detect a potential data breach (e.g.
+email addresses not used for any other purposes -- if these start receiving spam, we know that data has leaked).
+We immediately change all relevant passwords should we become aware of any risk (e.g.
+a stolen phone while logged in to an bdsmtest-related email account).
+Should an incident occur involving your personally identifying data, then we will personally inform you as prescribed by the law.Legal rightsIf at some point you want to retract your consent to have us store this personally identifiable information, please send us an email to bdsmtest.org@gmail.com, from the email associated to your account, requesting to delete or anonymize your data, and we will do so.
+We will gladly assist you in requesting, correcting or deleting any personally identifyiable records that we have stored about you.
+Also for our mailing lists, you can at any time ask what mailing lists you are currently on, modify your subscription, and/or have your email address deleted from our database altogether.
+All of this via bdsmtest.org@gmail.com as usual.ComplaintsShould you have any complaints of any kind, we welcome them at bdsmtest.org@gmail.com and we will do our best to address them.
+Alternatively, you can file a complaint with your local privacy commission.UpdatesWe can update this privacy policy at any time.
+However, the latest version can always be found at this very url.RecaptchaSince Google's Recaptcha puts this as a requirement, we hereby also link you to their Terms and Privacy policy, which you must also accept in order to use this website.
+      

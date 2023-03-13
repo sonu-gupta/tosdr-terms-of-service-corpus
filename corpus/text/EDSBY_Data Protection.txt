@@ -1,0 +1,198 @@
+
+         About Edsby &amp.
+User Data Users of Edsby deserve to know how their information is stored in Edsby, who owns it and how itâs being used.
+What is Edsby and who uses it?
+
+Edsby is a cloud-based software service that modernizes how educators, students and parents engage with each other.
+It is used by national, state and provincial governments, public school districts and private school organizations.
+Edsby is selected by these organizations, often through a formal competitive procurement process and rigorous evaluation of many factors including privacy and security of student data.
+Edsby is managed by the education organization as one part of the suite of technology solutions that every education organization requires.
+Education organizations pay to use Edsby, and thereby own all the data within.
+Each education organization controls the management of their data.
+This is unlike many free education software solutions on the internet which bypass the approval and management of education organizations so as to encourage adoption by teachers. What does it mean to be a âcloud-basedâ provider?
+
+Edsby runs in the cloud and embraces best practices for security and privacy.
+Cloud-based solutions offer lower costs, higher reliability, better security and more innovative capabilities than traditional software solutions installed and managed by local information technology staff within the education organizationâs data center.
+As a result of these advantages, education organizations are moving more and more of their mission-critical technology solutions to the cloud.
+As an example, many of these organizations have rolled out cloud-based email and storage solutions such as Microsoft 365 and Google Workspace for Education to the students and staff of their organization.
+When these organizations look at new technology solutions they generally request or even require that the solution be cloud-based.
+Edsby uses Microsoft as its cloud services provider because Microsoft has a strong focus on serving the information technology needs of organizations around the world in a secure and reliable manner.
+Microsoftâs cloud platform, Azure, is used by thousands of other organizations, including governments, banks and large corporations due to its very stringent standards and requirements for information protection and data sovereignty. How is Edsbyâs data managed in different jurisdictions?
+
+Every country and region has specific regulations controlling where education-related data should physically reside, who can obtain access to information held by education organizations and under what circumstances such access may be granted.
+Education organizations, in turn, understandably want to ensure that their data is governed by these rules.
+Edsby strives to ensure the data it manages is located in and governed by the rules in the jurisdictions in which its education organization customers operate.
+To meet these objectives, Edsby leverages Microsoft Azure datacenters around the world.
+The Microsoft Azure design enables one hundred percent of our customersâ data to be resident in a data center, or centers, within a specific country.
+For example, Edsby customers in Canada have their Edsby cloud servers (including all computing resources, failover systems and data storage resources including backups) in Canada.
+In the U.S., all Edsby customersâ systems run in U.S.
+Azure data centers, and all Edsby customersâ systems in Australia and New Zealand reside in Australian Azure data centers. Who owns the data in Edsby?
+
+When an education organization chooses to use Edsby, it decides what information to provide to Edsby.
+Almost every education organization provides Edsby with data about its staff, students and parents so that Edsby can create accounts for those users.
+The education organization owns this data and strictly controls what is done with the data.
+Edsby uses this data to provide services to the education organization, for usage insights and for security purposes.
+When Edsby users create or add information into Edsby (e.g.
+a teacher posting a lesson, a student submitting an essay), the user retains ownership of that information.
+Under Edsbyâs Terms of Use agreement, the user agrees to let Edsby store and display that information in order to provide the service.
+The education organization provides stewardship of all user-contributed content in their Edsby site, and Edsby manages the retention and deletion of that data at the direction of the administrators of the education organization.
+Edsby never sells the data it has or collects from the education organization, as Edsby makes no claim to be the owner of the data. With whom does Edsby share data?
+
+Edsby does not sell Personal Information or the content provided by its users.
+There are certain circumstances in which Edsby may disclose, transfer or share Personal Information with third parties, as outlined in Section 6.0 of our Services Privacy Policy.
+For example, Edsby may disclose data if directed to do so by the Education Organization, or in the event someone may cause or be at risk of imminent bodily harm, or if compelled to by a valid legal order. Does Edsby perform any advertising?
+
+Edsby does not provide any form of advertising to Edsby users, nor does Edsby provide or sell information gathered from the usage of Edsby to advertisers or any other third party for any commercial or non-commercial reason.
+Our business is supported solely on the basis of Edsby usage fees paid by educational organizations with no monetization of student data whatsoever. How does Edsby prevent unauthorized access to Personal Information?
+
+Edsby adopts the following privacy best practices to ensure that only authorized users have access to Personal Information in the Edsby Services.
+Physical Protection
+Edsby maintains strict controls on who has physical access to its systems.
+Each Edsby cloud instance runs in a tier one commercial Microsoft Azure cloud hosting facility that is fully SSAE 16, CSAE 316 and ISAE 3402 Type II certified.
+These facilities undergo in-depth independent audits of control activities, including management of the hosting and network technologies and services that are used to run Edsby.
+These facilities renew their certifications annually ensuring Edsby is being managed to the highest standards.
+These commercial cloud hosting facilities use state-of-the-art perimeter security and access security systems to ensure only authorized personnel have access to the physical location where Edsby is run.
+Controls in place at these facilities include procedures for secure data disposal.
+This includes both the procedures for deleting data from used data storage and procedures for destroying storage units no longer used in production.
+Server and Database Protection
+Key operating system and database systems used by Edsby are managed by Microsoft Azure, including the notification and installation of security patches that are relevant for the Edsby software stack as they become available.
+Other software components used by the Edsby solution are protected by a commercial vulnerability management system that assures software integrity.
+Account Access Protection
+There are a number of measures taken to assure that only authorized users log in to an Edsby system and that intruders are kept out.
+
+
+Passwords required: All Edsby accounts require password authentication in order to access any account that is tied to a particular user or particular management role.
+
+Password controls: Edsby passwords for student and staff accounts are almost always managed by the education organization using Edsby.
+These organizations generally deploy a centralized password management facility such as Active Directory or LDAP, and Edsby authenticates staff and students through these centralized customer-run systems.
+This means that Edsby does not need to know the password of each user, and each organization uses the control mechanisms of these central password management systems to control key aspects of passwords such as password length, password character composition, and password change frequency.
+In addition, this approach ensures that access to Edsby is absolutely controlled by the education organization.
+if the organization turns off access, a user may no longer log in.
+
+Password Encryption: Passwords in Edsby are never transmitted anywhere in clear text format.
+The mechanism used to encrypt passwords varies based on the authentication authority being used, but in all cases Edsby encrypts/hashes the password before transmitting it on the network.
+
+Password Protection: Edsby strives to further protect passwords by providing an account freezing mechanism that locks out an Edsby account for a period of time if successive password login attempts fail.
+This delay is long enough to deter the use of automated password cracking software without unduly inconveniencing valid end users.
+
+Account Data Transmission Protection
+All data sent between the Edsby server and Edsby client (web browser, smartphone app, tablet app) is encrypted via SSL (Secure Sockets Layer).
+This is the standard security technology used by banks, online retailers and the like to establish an encrypted link between a web server and a browser/app.
+This link ensures that all data passed between the web server and browser/app remains private. How does Edsby manage authorized access?
+
+Edsby takes steps to ensure that an authorized user sees the information they should have access to and ensures they do not see information they should not see.
+Much of the support in Edsby to do this is built directly into the Edsby software, as a function of the type of data being accessed.
+For example, a student can never access a teacherâs gradebook to see how other students in the class are doing.
+Edsby controls to prohibit this sort of access are built right into the software.
+Limiting Information in Edsby
+Edsby is deployed as a part of an education organizationâs overall Information Technology infrastructure.
+As such, it integrates with other key systems of record in the organization.
+These systems normally include the organizationâs authentication system(s), its Human Resources (HR) system and its Student Information System (SIS), the organizationâs main database.
+Student, staff and parent accounts in Edsby are automatically created based on the data in these systems.
+Each organization decides exactly what data should be supplied to Edsby from its existing systems.
+For basic Edsby functionality to work, it must be supplied with student names, user IDs, class enrollments and so on.
+The educational organization has complete control over which information is supplied to Edsby and does so at its discretion.
+For example, if an education organization decides that it doesnât wish Edsby to store or display staff home addresses, then that information is not sent from the organizationâs IT systems to Edsby.
+However, many organizations seek to have this information available in Edsby for school administrators.
+These types of decisions are made by the education organization, not by Edsby.
+Accuracy of Personal Information in Edsby
+All Personal Information in Edsby is supplied to Edsby directly from the education organizationâs existing IT systems (such as the Student Information System).
+This includes the information used to define user accounts such as name, unique identifier (e.g.
+student number or staff number), email address, home address and so on.
+The accuracy of the information in Edsby is a function of the accuracy within the education organizationâs IT systems.
+Since this information is supplied from the systems of record in the education organization, students are never asked to provide Personal Information in Edsby.
+Edsby provides an additional layer of accuracy by enabling parents to review and confirm information about students the parent is responsible for.
+If there is inaccurate information displayed in Edsby, the parent can report it to have it updated in the education organization IT system which provided the incorrect data.
+For example a parent may have moved, and they wish to have the organization update their official record.
+The corrected information then re-syncs to Edsby.
+As mentioned above, this option is never available to students, only to parents.
+Role-based Access
+Edsby implements whatâs known as a ârole-based access controlâ system.
+This means that each user within the system is assigned a role, and each role is provided with a very specific set of capabilities that are appropriate for that specific role.
+There are over two hundred different capabilities in Edsby that are controlled on a per role basis, and each capability can be specified at a âno accessâ level, a âread accessâ level, or a âread/write accessâ level.
+Examples of Edsby Roles include âStudentâ, âParent/Guardianâ, âTeacherâ, âSchool Administratorâ, âDistrict Administratorâ, and so on.
+User roles are assigned at account creation time, and roles are rarely changed.
+Roles include:
+
+
+Student accounts in Edsby are driven by the student data made available to Edsby, which almost always comes from the organizationâs Student Information System (SIS), its main database.
+Each student account is assigned a role of âStudentâ.
+There are no other options here.
+
+Parent/guardian accounts are also usually driven by data in the SIS.
+Almost every SIS stores information about âstudent contactsâ for a particular student.
+These student contacts can include relationships such as âmotherâ, âfatherâ, âguardianâ, âgrandmotherâ, âgrandfatherâ, âdoctorâ, and so on.
+Most SIS platforms also provide information about the access level that each student contact has for that student.
+A key aspect of this access information is something generally referred to as âAccess to Recordsâ.
+This indicates whether a particular contact is supposed to have access to academic information about a particular student or not.&nbsp.
+For example, a biological parent listed as a student contact for a student may not have âAccess to Recordsâ for that student due to a court order, or perhaps because the student is legally an adult so their parents no longer have a legal right to see their childâs academic progress.
+Edsby is very sensitive to this data to ensure that only the right student contacts see academic information about a particular student.
+
+Staff accounts in Edsby have the widest set of roles available to them.
+Edsby is data-driven in the way it assigns roles to staff accounts.
+For example, teaching staff accounts are generally managed through data imported from the SIS.
+These accounts are by default set to a role of âTeacherâ.
+Often the SIS has additional information in it about the role of the staff member, and after careful review and discussion with the education organization the staff roles in the SIS can be automatically mapped to staff roles in Edsby.
+For example, an SIS may have a role called âAttendance Secretaryâ in the SIS.
+this could be mapped to the Edsby role âofficeâ.
+This mapping exercise, performed with great care, helps ensure that staff members have access to just the information they need to see in Edsby to perform their role.
+
+Adjusting Edsby to Match Policy
+In some cases, the granularity of access is not specified in specific legislation or policy, but instead is based on the policies of the specific education organization that has chosen Edsby.
+In areas like these, Edsby may be tailored by the education organization to implement the policy it feels is appropriate.
+Edsby provides mechanisms to configure the particular access capabilities available to each role on a per-organization basis.
+This enables the organization to tune the level of information access that Edsby provides to match their policies.
+For example, some organizations opt to turn on or turn off student-to-student or even parent-to-teacher messaging in Edsby.
+Edsby is intended to reflect the policies of the education organization which has chosen to use Edsby. How does Edsby manage data retention?
+
+Edsby is procured and deployed by education organizations.
+It is often a strategic part of the organizationâs overall IT strategy.
+The education organization defines the parameters for data retention and destruction in Edsby in terms of the number of school yearsâ worth of data to be held.
+A district may choose to hold 3 yearsâ worth of data in Edsby, or 7 years, for instance.
+This policy is established by the education organization.
+In the period between school years, an archiving process is run for each organization using Edsby.
+Data such as classes, gradebooks, discussions, and the like from the recently completed school year are moved into a separate archive partition.
+From here, they can easily be accessed by appropriate staff that may wish, for example, to retrieve a lesson plan from a class taught in Edsby the previous year.
+Edsby can store as many archive partitions as the customer desires.
+When an archive partition falls outside of the archiving time window specified, none of the data in that archive partition is accessible any longer. How does Edsby manage data update &amp.
+deletion requests?
+
+Edsby is best characterized as a processor that manages data at the direction of the education organization, the controller.
+If an end user sends a request to update or delete their Personal Information, these requests are routed to the education organization for their review and potential action.
+If Edsby receives a specific request from an authorized individual at the education organization to destroy specific records, Edsby complies and provides a certificate of data destruction. How does Edsby ensure that Personal Information is protected internally?
+
+Edsby adopts policies and procedures internally to help ensure that each organizationâs information stays private to that organization.
+Each employee and contractor within the Edsby organization who has access to customer confidential information receives training in this area, and signs an agreement that attests that they have read, understand and will abide by policies and procedures such as:
+
+Only access Personal Information when there is a clear technical, business or technical support reason to do so.
+Minimize the amount of Personal Information you access in the process of addressing a technical or support issue to what is required to investigate the issue at hand.
+Never share Personal Information with anyone other than other authorized people within Edsby on a need-to-know basis, or with authorized people in the customer organization that already have access in Edsby to the kind of Personal Information in question.
+Never download Personal Information to a public or shared computer.
+Never send Personal Information to other team members or to people outside of the organization through non-secured channels such as unencrypted email.
+Use a secure encrypted method such as Edsby Messaging or encrypt files when using standard email.
+Protect all user credentials, passwords, and access tokens you are provided with.
+Do not write passwords down.
+Always ensure a strong access password is in place on any computer and user account used to access or store Personal Information.
+Any computer you use to access Personal Information must be protected by a secure password, screen locked, or shut off, if you leave the computer unattended.
+Any computer you use to access or store Personal Information must have commercial virus/malware detection software installed, active and up-to-date on it.
+Any laptop or mobile computer you use to access Personal Information must be well secured when it is outside of secure environments such as the office.
+Keep it locked and out of sight when transporting it by car.
+Ensure it is safe when travelling on public transport such as buses, trains, and planes.
+Never copy Company and Customer Personal Information to any kind of removable media including CD/DVD disks, computer tapes, USB keys and the like, without the prior approval of Information Security Manager
+Do not print Personal Information unless expressly requested by a customer or if it is required in the troubleshooting process.
+Make sure such printouts are stored in a locked cabinet when not in use.
+Always destroy any such printout immediately after it has served its purpose.
+Never leave such printouts in an open and unmonitored environment.
+Never retain such printouts for longer than 30 days.
+Any computer used to store Personal Information must have its hard drives destroyed or cleansed with commercial disk wiping software if it is the process of being disposed of or reassigned to someone who is not authorized to access Personal Information.
+Never use anyone elseâs user account and password to access company systems or attempt to access systems you have not been given access to.
+Inform the Information Security Manager immediately if you detect, suspect, or witness an incident that may be a breach of security or a leak of Personal Information.
+ How do we ensure our privacy and security practices align with industry standards?
+
+The Future of Privacy Forum (FPF) and The Software &amp.
+Information Industry Association (SIIA)âs Student Privacy Pledge outlines guidelines for responsible collection, maintenance and use of student Personal Information.
+Edsby was one of the early signatories to the pledge and agreed to be bound by all of its commitments.
+Edsbyâs Privacy Policy and Terms of Use have been assessed by Common Sense Mediaâs privacy program, which gave Edsby one of the highest scores of any digital learning platform for its responsible student data handling practices.
+Edsby also is certified to ISO 27001, a formal standard for Information Security. Our Usage Policy and Privacy Policies Usage Policy
+Services Privacy Policy
+Public Website Privacy Policy

@@ -1,0 +1,115 @@
+
+         COMMERCIAL ENTITY AGREEMENT FOR PAYPAL PAYMENT CARD FUNDED PROCESSING SERVICES &nbsp.
+This Commercial Entity Agreement for PayPal Payment Card Funded Processing Services (âCommercial Entity Agreementâ or "CEA") is agreed with all PayPal Users that are Commercial Entities (as defined by Visa Europe, Visa Inc, Visa International, Mastercard Worldwide, UK Maestro, Solo and/or International Maestro (together the "Associations")).
+Each such PayPal User is referred to as âMerchantâ and may be referred to herein as âyouâ and/or âyourâ.
+This CEA constitutes your separate legally binding contract for credit and debit card processing for PayPal transactions between you and the Acquirer (as defined below).
+For the purposes of this CEA, "Acquirer" shall mean (a) Worldpay (UK) Limited if Merchant is based in Europe.
+and/or (b) Worldpay PTE Ltd if Merchant is based in Singapore.
+and/or (c) Worldpay (HK) Limited if Merchant is based in Hong Kong.
+and/or (d) Citizens Bank, N.A.
+if Merchant is based in the United States and/or (d) Worldpay PTY.
+Ltd if Merchant is based in Australia.
+In this CEA "we", "us" and "our" refer to Acquirer.
+In accordance with the provisions of this CEA, Acquirer may terminate its provision of credit and debit card processing services and require PayPal to enforce any of the provisions of Merchantâs agreement(s) with PayPal ("PayPal Agreement"), agreed by and between Merchant and PayPal.
+Merchant agrees to the terms and conditions of this CEA.
+Merchant further agrees that this CEA forms a legally binding contract between Merchant and Acquirer.
+PayPal is not a party to this contract and acts only as Acquirerâs agent in connection with it.
+If we propose to change this CEA in a substantial manner, PayPal will provide you on our behalf with at least 30 days' (or such minimum period as is required by law) prior notice of such a change.
+After the notice period elapses, you will be deemed to have agreed to all such amendments to the CEA.
+To amend this CEA but not in a substantial manner, PayPal will post on our behalf a revised version of the CEA on the PayPal website(s), and the revised version will be effective at the time PayPal posts it.
+ If you disagree with any proposed amendments, you may close your PayPal account before the expiry of the notice  period provided in the notice and otherwise in accordance with the terms of the PayPal Agreement, and this CEA will terminate on the closure of your account.
+A change to this CEA will be considered to be made in a âsubstantial mannerâ if the change involves a reduction to your rights or increases your responsibilities.
+
+
+Purpose of this CEA. When your customers pay you through PayPal, they have the option of paying you through a funding source supported by PayPal including a card.
+In most instances, you will not know the funding source that your customer selected.
+Since you may be the recipient of a card funded payment, the Associations require that you enter into a direct contractual relationship with an acquirer who is a member of the Associations.
+By entering into this CEA, you are fulfilling such Association requirement and you are agreeing to comply with Association rules as they pertain to payments you receive through the PayPal service.
+
+Obligations of Acquirer.&nbsp.
+
+
+Acquirerâs obligations under this CEA are limited exclusively to the processing of Merchant's card transactions in the territory in which the Merchant is based and the receipt and disbursement of related funds to PayPal for the account of the Merchant (the âAcquiring Servicesâ).&nbsp.
+All other obligations relating to the provision of the services under the PayPal Agreement are the responsibility of PayPal and any issue, dissatisfaction, dispute and/or service dispute of the Merchant relating to any services provided to the Merchant should be notified to and brought against PayPal in the first instance.
+Subject to the terms of this CEA and the PayPal Agreement, Acquirer will initiate a payment to the designated account (as made known to Acquirer by PayPal) of an amount equal to the value of card transactions processed by Acquirer for the Merchant under this CEA (less deductions for refunds, fines, assessments, chargebacks, chargeback costs, fees or other Merchant liabilities (whether actual or anticipated) under this CEA or the PayPal Agreement).
+ Any obligation of Acquirer to remit funds under this CEA is subject to any rights of Acquirer under its agreement with PayPal.
+Merchant agrees that any payment made to PayPal by Acquirer under this CEA will be deemed good receipt by Merchant of the sums due from Acquirer to Merchant in relation to Acquirerâs liability to Merchant under this CEA.
+Merchant shall indemnify Acquirer and keep Acquirer indemnified against all losses, costs, claims, demands, expenses (including legal expenses) and liabilities of any nature (including any re-settlement obligations under the Association rules) arising from or relating to the payment of funds by Acquirer into an account in the name of PayPal in accordance with the terms of this CEA.
+Throughout the term of this CEA and after its termination for any reason, Acquirer shall be entitled to defer (for such period as it shall in its reasonable discretion consider appropriate) the date upon which the payment of funds in respect of card transactions would (but for this clause) be due in order to protect its position with respect to actual or anticipated chargebacks, fines, assessments, refunds, chargeback costs, fees, fraud, illegal activity or any other liability of Merchant or relating to any card transactions or under this CEA or the PPA, whether actual or anticipated.&nbsp.
+Amounts so deferred may be set-off against any actual chargebacks, fines, assessments, refunds, chargeback costs, fees or any other liability of Merchant. &nbsp.
+The Merchant understands and acknowledges that during the term of this CEA and after its termination for any reason whatsoever, the Merchant shall continue to bear total responsibility for all chargebacks, chargeback costs, refunds, fines, assessments, fees, fraud and illegal activity resulting in any way from card transactions processed pursuant to this CEA and all other amounts then due or which thereafter may become due under this CEA or the PayPal Agreement.
+
+
+
+Association Rules.
+
+
+Deposit Transactions. Merchant agrees that it shall only accept payments through PayPal processing services for bona fide transactions between the Merchant and its customer for the sale of goods or services.
+Merchant shall not submit a transaction for the refinance or transfer of an existing obligation that was uncollectible.
+Merchant acknowledges that for Visa and Mastercard payments, PayPal shall obtain an authorization for transaction amounts prior to completing the transaction.
+
+Split Transactions. Merchant agrees not to split the sale into two (or more) separate amounts in order to avoid obtaining authorization for the full amount.
+Except, however in an instance where the Merchant and cardholder agree on a partial shipment of product, or where the transaction qualifies for delayed delivery or special order deposits (such as partial shipments based on inventory on hand), a sale may be split into multiple transactions.
+
+Minimum or Maximum/Surcharges. Merchant agrees that it shall not set minimum or maximum transaction amounts or impose surcharges as a condition of honoring Visa and Mastercard cards, unless otherwise permitted in the particular jurisdiction of a transaction.
+
+Visa and Mastercard Marks. Merchant is authorized to and must use the Visa and Mastercard logos or marks on Merchantâs promotional materials and website to indicate that Visa and Mastercard cards are accepted as funding sources for PayPal transactions.
+
+Discrimination. Merchant agrees that it shall not engage in any acceptance practice that discriminates against or discourages the use of Visa or Mastercard in favour of any other card brand unless otherwise permitted in the particular jurisdiction of a transaction.
+
+Access to Cardholder Data. Merchant acknowledges that where it has access to Cardholder Data (defined as the cardholderâs card number, expiration date, and CVV2) it will abide by any data security standards of the Payment Card Industry Security Standards Council (or any replacement body), Visa or Mastercard, including the Payment Card Industry SSC Standards.
+In addition you agree to comply with the data security standards required by PayPal under the PayPal Agreement, as may be amended from time to time.&nbsp.
+.
+In the event that Merchant receives Cardholder Data in connection with the PayPal processing services, Merchant agrees that it will not use the Cardholder Data for any purpose that it knows or should know to be fraudulent or in violation of any Association rules.
+Merchant also agrees that it will not sell, purchase, provide or exchange in any manner or disclose Cardholder Data to anyone other than its acquirer, Visa or Mastercard (as applicable) or in response to a government request.
+
+Merchant Identification. Merchant agrees to prominently and unequivocally inform the cardholder of the identity of the Merchant at all points of interaction including the location (physical address) of the Merchant to enable the cardholder to easily determine whether the transaction will be a domestic transaction or a cross-border transaction.
+
+Chargebacks. Merchant shall use all reasonable methods to resolve disputes with the cardholder.
+Should a chargeback dispute occur, Merchant shall promptly comply with all requests for information from PayPal.
+Merchant shall not attempt to recharge a cardholder for an item that has been charged back to the cardholder, unless the cardholder has authorized such actions.
+
+
+
+Merchantâs Refund Policy must be on Merchantâs Website. If Merchant limits refund/exchange terms or other specific conditions for Card sales, Merchantâs policy must be clearly provided to the cardholder prior to the sale and Merchant must conform with all applicable laws and the Association rules.
+
+Audit.&nbsp.
+Upon Acquirerâs request, the Merchant must promptly disclose to Acquirer such information as Acquirer reasonably requires in order to enable Acquirer to perform its obligations, and/or assess its financial and insurance risks in connection with the services provided, and/or to assess the Merchantâs compliance with the terms of the CEA and/or the Association rules.
+
+Term and Termination. This CEA is effective upon the date the PayPal Agreement between Merchant and PayPal comes into force and continues so long as the PayPal Agreement remains in force between Merchant and PayPal but shall automatically terminate without notice on termination of such PayPal Agreement for any reason, provided that those terms which by their nature are intended to survive termination (including without limitation, indemnification obligations and limitations of liability) shall survive.
+This CEA may be terminated by Acquirer at any time in the event of a breach of any of Merchantâs obligations under this CEA or the PayPal Agreement, or by Merchant in the event of a breach of any of Acquirerâs obligations under this CEA, or by Acquirer in the event of the termination of the acquiring services agreement entered into between PayPal (or its applicable group company) and Acquirer as notified to the Merchant.
+
+Indemnification. Merchant agrees to indemnify and hold Acquirer harmless from and against all losses, liabilities, damages and expense: (a) resulting from any breach of any warranty, covenant or agreement or any misrepresentation by Merchant under this CEA.
+(b) arising out of Merchantâs or its employeesâ negligence or willful misconduct, (c) arising in connection with Card transactions or otherwise arising from Merchantâs provision of goods and services to Cardholders or customers.
+(d) arising out of Merchantâs use of the PayPal Service.
+or (e) resulting from any fines or arising out of any third party indemnifications Acquirer is obligated to make as a result of Merchantâs actions (including indemnification of any Association or Card issuing bank).
+
+Assignment/Amendments. This CEA may not be assigned by Merchant without the prior written consent of Acquirer.
+Acquirer may assign its rights under this CEA without Merchantâs consent.
+
+Warranty Disclaimer. This CEA is a service agreement.
+Acquirer disclaims all representations or warranties, express or implied, made to Merchant or any other person, including without limitation, any warranties regarding quality, suitability, merchantability, fitness for a particular purpose or otherwise of any services or any goods provided incidental to the services provided under this CEA to the extent permitted by law.
+
+Limitation of Liability. Notwithstanding anything in this CEA to the contrary, in no event shall Acquirer, or any of its directors, officers, employees, agents or subcontractors, be liable under any theory of tort, contract, strict liability or other legal theory for lost profits, lost revenues, lost business opportunities, exemplary, punitive, special, incidental, indirect or consequential damages, each of which is hereby excluded by agreement of the parties, regardless of whether such damages were foreseeable or whether Acquirer has been advised of the possibility of such damages.
+Notwithstanding anything in this CEA to the contrary, in no event shall Acquirer be liable or responsible for any delays or errors in its performance of the services caused by its service providers or other parties or events outside of Acquirerâs reasonable control, including PayPal.
+Notwithstanding anything in this CEA to the contrary, Acquirerâs cumulative liability for all losses, claims, suits, controversies, breaches or damages for any cause whatsoever arising out of or related to this CEA and regardless of the form of action or legal theory and whether or not arising in contract or tort (including negligence) shall not exceed the total volume of all transactions, expressed as a U.S.
+dollar amount processed by the Merchant under this CEA via PayPal.
+Nothing in this CEA shall exclude or limit any liability of any party for death or personal injury caused by negligence or fraud, deceit or fraudulent misrepresentation, howsoever caused.
+
+Waiver. The failure of a party to assert any of its rights under this CEA, including, but not limited to, the right to terminate this CEA in the event of breach or default by the other party, will not be deemed to constitute a waiver by that party of its right to enforce each and every provision of this CEA in accordance with its terms.
+
+Relationship between the Parties. No agency, partnership, joint venture or employment relationship is created between Merchant and Acquirer by way of this CEA.
+In the performance of their respective obligations hereunder, the parties are, and will be, independent contractors.
+Nothing in this CEA will be construed to constitute either party as the agent for the other for any purpose whatsoever.
+Neither party will bind, or attempt to bind, the other party to any contract or the performance of any obligation, and neither party will represent to any third party that it has any right to enter into any binding obligation on the other party's behalf.
+
+No Illegal Use of Services. Merchant will not access and/or utilize the Acquiring Services for illegal purposes and will not interfere or disrupt networks connected with the Acquiring Services.
+
+Severability. Whenever possible, each provision of this CEA will be interpreted in such a manner as to be effective and valid under applicable law, but if any provision hereof will be prohibited by or determined to be invalid by a court of competent jurisdiction, such provision will be ineffective to the extent of such prohibition or invalidity, without invalidating the remainder of such provision or the remaining provisions of this CEA.
+
+Governing Law. This CEA (and the relationships referred to or contemplated by it) shall be governed and construed in accordance with English law and the parties submit to the exclusive jurisdiction of the courts of England and Wales with respect to any dispute hereunder.
+
+ 
+Date:   &nbsp.
+July 2017
+ 

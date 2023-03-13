@@ -1,0 +1,95 @@
+
+
+
+
+Private Customers
+Business
+ FAQ 
+ Downloads 
+ Register 
+ Login 
+ Private clients Business clients 
+ Features 
+ Pricing 
+ Privacy 
+ Success Stories 
+ About 
+ Register 
+ Login 
+ Secure without any backdoors Send an enquiry We will protect your data by multiple encryption and bank-compliant safety mechanisms.
+ Zero Knowledge Data privacy protection is our number one priority, with a number of security mechanisms directly incorporated into the architecture of the SecureSafe application.
+In this way, users can rest assured that personal data will be protected at all times.
+No access to user data, not even by SecureSafe To ensure maximum data protection, SecureSafe never stores and therefore can never access user passwords.
+Due to this zero knowledge policy, we are also unable to reset passwords if they are forgotten.
+It is therefore of paramount importance to print out your recovery code, which can then be used to reset a lost or forgotten password.
+This code must be kept in a safe place.
+ Encryption SecureSafe encrypts all client data using highly secure and internationally renowned encryption methods.
+The key, which is needed for decryption, is calculated directly from the user vault using PBKDF#2 (RFC 2898).
+User vaults are therefore well-protected against ill-intentioned hackers.
+Long-term securityWe use AES-256 and RSA-4096 encryption standards.
+These encryption methods have been designed to offer long-term protection.
+Double protection during file transferSecureSafe encrypts data twice during uploading or downloading from a device to a user's online account.
+In addition to transfer encryption (HTTPS), data is also encrypted using an AES-256 encryption, thus ensuring complete protection of sensitive data.
+This means that data will remain protected even in the event the HTTPS protection is attacked.
+The additional encryption is particularly efficient in protecting against man-in-the-middle-attacks (MitM), for example in internet cafÃ©s and airports.
+Transparent crypto architectureAll data stored in SecureSafe accounts is encrypted by way of a multi-layered cryptographic architecture.
+Our security architecture has been made openly available with multiple testing by third parties.
+ Login procedure and authentication SecureSafe protects files and passwords through the âSecure Remote Password Protocolâ.
+This highly efficient security protocol, which was developed by Stanford University (RFC 2945) protects SecureSafe against various forms of cyber attacks.
+Additional protection through SMS codesIn order to guarantee additional data protection, we use a two-step login procedure (mobile TAN), also commonly used in online banking solutions.
+When this feature is activated, users will receive an additional login code via SMS each time they want to log in to their account.
+In this way, SecureSafe accounts will remain protected even if a third party gains access to user login credentials.
+DoubleSec: secure login on-the-goOur apps for iOS and Android, as well as SecureSafe desktop app for PCs and Macs, all feature a two-step login procedure.
+In order to simplify the use of this additional account protection feature, we have developed "DoubleSec", which automates the second step of the login procedure.
+Password generator with automatic security checkThe built-in password generator suggests strong passwords and informs users whether or not a newly created password is secure.
+Together with our long-term partner, Zurich University of Applied Sciences (ZHAW), we have developed a method for creating strong passwords, which are nonetheless easy to remember.
+ Data storage SecureSafe relies on two certified data centers, which fulfill the requirements of the Swiss Financial Market Supervisory Authority FINMA.
+One of the data centers is located in a former military bunker deep in the Swiss mountains.
+Multiple data storageAll files are protected by a disaster recovery plan, set up in such a way that all files are stored three times in two geographically distinct data centers.
+Self-managed server infrastructureInternal SecureSafe system engineers run a completely self-managed server infrastructure in both data centers.
+The infrastructure was built in accordance with the NIST BSI security guidelines.
+It is monitored 24/7 and protected by automatic alarms.
+External security checksSecureSafe regularly undergoes vulnerability checks by leading security experts to ensure system integrity.
+ Can we advise you? Feel free to leave your contact details and a message and we will get back to you. Last Name First Name Company name Email Phone number Comment I have taken note of the Data Protection Notes.
+I agree that my information will be electronically collected and stored to process my request.
+I can revoke my consent at any time by email.
+SecureSafe 
+Register
+Login
+Downloads
+News
+ Offer / Pricing 
+
+Private customers
+Business customers
+Enterprise
+Features
+ Customer centre 
+
+Online Support
+FAQ
+Privacy
+ About us 
+
+Company Details
+Contact 
+Terms
+Data protection notes
+
+
+
+
+Choose your Language: 
+ Deutsch DE 
+ English EN 
+ FranÃ§ais FR 
+ Italiano IT 
+
+
+Â© 2021 by DSwiss AG
+Badenerstrasse 329
+8003 Zurich
+Switzerland
+ parents: 1138 resources: 1205 Cookies â please make your selection This website uses cookies to ensure you get the best experience on our website.
+ Data Protection Notes Essential cookies â essential for the use of the website Off On Preference cookies â enable the website to remember the user preferences of the user, such as language and region Off On Statistical cookies â anonymised gathering of information to evaluate the use of the website by the visitor Off On Data Protection Notes Save selection Accept all cookies 
+      

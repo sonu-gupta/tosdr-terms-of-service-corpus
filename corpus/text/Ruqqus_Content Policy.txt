@@ -1,0 +1,65 @@
+
+        
+Ruqqus Content Policy
+Ruqqus.com is a free speech environment.
+However, in order to comply with US law, and in order to ensure the safety of our users, there are a few things you are not permitted to do with the Ruqqus platform.
+By using ruqqus.com, you agree to follow these rules.
+Violations (in Ruqqus's sole discretion) may lead to the suspension of your ruqqus.com account.
+1: Intellectual Property
+You may not upload to, embed within, or link out from ruqqus.com:
+
+Copyrighted material that you are not authorized to distribute
+Anything not legal to publish within, or export from, the United States of America
+
+2: Digital Safety
+You may not upload to, embed within, or link out from ruqqus.com:
+
+Digitally malicious content, including but not limited to:
+Phishing attacks
+XSS attacks
+
+
+URL shorteners
+Anything that breaks Ruqqus
+If you find a problem, tell us about it.
+You'll get a nifty badge on your profile.
+
+
+
+3: User Safety
+You may not use ruqqus.com to do any of the following:
+
+Threaten or intimidate other users
+Impersonate Ruqqus staff
+Solicit, collect, or publish personal information, either yours or another individual's
+This does not include information that is already publically available, such as public figures' names, government contact info, etc.
+
+
+Spam
+
+4: Sexual Content
+You may not upload to, embed within, or link out from ruqqus.com:
+
+Sexual or sexually suggestive material not marked "NSFW"
+Sexual or sexually suggestive material involving individuals under the age of 18, including fictitious content
+Sexual or sexually suggestive material involving individuals who did not consent to its creation and distribution (commonly called "revenge pornography" or "involuntary pornography")
+
+5: IRL Safety
+You may not use ruqqus.com to do any of the following:
+
+Incite, plan, or execute unlawful or violent activity
+This includes the sale of illicit substances.
+This does not include the exercise of the human right to free speech, where the speech is unlawful in a user's home country but protected in the United States
+
+
+Engage in fraud
+
+6: Bots
+The following rules apply to clients interacting with Ruqqus in an automated manner ("Bots").
+
+Bots may not vote.
+Bots must use a unique User-Agent header.
+Bots must include a X-User-Type header with a value of Bot.
+Bots that post content must serve a useful function, such as looking up information or bridging to another service.
+Bots must authenticate with an OAuth2 token and use /api/v1 endpoints whenever possible.
+

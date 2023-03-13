@@ -1,0 +1,15 @@
+
+         Fritter Privacy Policy TLDR.
+No data is collected by Fritter, unless you submit a crash dump, or manually send a "Hello" ping in the app.
+Interaction with Twitter is minimised, but you still need to agree to their privacy policy. Declaration Fritter does not, and will never, collect user data unless voluntarily submitted by the user.
+Fritter does not, and will never, share user data with any third-party, except data submitted by users in requests to Twitter (e.g.
+searching for a hashtag), or unless that data has voluntarily been submitted (e.g.
+uploading a crash dump).
+Fritter does not, and will never, contain features that rely on monetisation.
+Donations and sponsorship, however, are accepted, but will not provide app-changing perks to those donators/sponsors. Third Party Although non-anonymous interaction with Twitter is minimised:
+
+Fritter will request content that you explicitly want to be displayed.
+For example, if you want to view a tweet, it is requested directly from Twitter
+No personal details (such as phone details, call logs or contacts) are sent to Twitter
+However, since we do send requests directly to Twitter, your usage of Fritter still relies upon your acceptance of Twitter's privacy policy
+ Attribution This privacy policy is based on Barinsta's, which is licensed under CC BY-SA 4.0, therefore this page is also released under the same license.

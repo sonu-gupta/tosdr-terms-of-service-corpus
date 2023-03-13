@@ -1,0 +1,187 @@
+
+         Client Area 
+ Portal Home 
+ Terms of Service 
+
+RamNode - Terms of Service
+By using RamNodeâs ("RamNode", "our", "us" or "we") website, products and services ("Service", or "Services"), you ("you", "your", "Client" or "Customer") agree to comply with our policies as set forth in these Terms of Service ("Terms of Service", "TOS", or "Agreement").
+Creating an account and ordering service through our website constitutes your acceptance and agreement to be bound by these Terms of Service.
+RamNode reserves the right to cancel, suspend, or terminate any service provided with or without a refund or notice or warning for any reason.
+RamNode also reserves the right to change and modify the Terms of Service at any time with or without customer notification.
+It is up to the customer to periodically check and familiarize himself or herself with the recent Terms of Service.
+If any customer does not comply with the new Terms of Service modifications, the customer's service will be terminated.
+Acceptable Use Policy
+By ordering our services, you agree to adhere to our Acceptable Use Policy ("AUP").
+Failure to do so will result in suspension and possibly termination.
+Your account may also be reported to FraudRecord.
+Privacy Policy
+Information regarding how we collect and use your personal data may be found in our Privacy Policy.
+Support
+RamNode support is handled through tickets submitted in our Client Area.
+We generally process tickets in the order in which they are received.
+Multiple replies to tickets will not ensure that you receive a faster response.
+We only offer support in English and require that it be used to communicate with our staff.
+We do not tolerate profanity or abusive language in any form of contact with us including, but not limited to, emails, our ticket system, our IRC channel, or our community forum.
+Such behavior will result in a warning, followed by suspension and/or termination if the warning is not heeded.
+Virtual Server Support
+RamNode servers are unmanaged.
+RamNode servers are designed for web hosts, advanced Linux administrators, and experienced webmasters.
+In order to successfully manage our servers, the customer should be familiar with Linux operating systems, tools, and services.
+RamNode provides basic tools needed to configure and maintain the customerâs server.
+RamNode provides knowledgebase articles covering various topics which may offer insight into common questions regarding our servers.
+RamNode also provides remote console access to our servers which gives the customer a way to access his or her server even with a broken SSH configuration.
+
+You are responsible for managing your virtual server.
+RamNode staff is available for general support covering the areas below.
+RamNode also works around the clock to ensure that our hardware and network is and up running as expected.
+You may contact RamNode for support regarding the following issues:
+
+Network access.
+Please check our @NodeStatus Twitter page or our @RamNode page before submitting a ticket.
+Server hardware.
+Please check our @NodeStatus Twitter page or our @RamNode page before submitting a ticket.
+Control panel.
+If you experience problems with any Cloud Control Panel or SolusVM functionality, please open a ticket.
+OS templates and ISOs.
+If you notice any bugs with our OS templates or ISOs, please open a support ticket.
+
+This list may not be exhaustive, but it represents the general idea of our unmanaged hosting.
+Anything that we do not install and configure for the client is the clientâs responsibility and is not covered by our support.
+We will not install or configure additional packages on a server that are not present in our default OS templates.
+Shared Hosting Support
+RamNode shared hosting support covers the hosting environment, not a customer's individual website(s), script(s), or database(s).
+Examples of issues we cannot assist with include (but are not limited to):
+
+
+Out of date scripts (this includes Joomla/Wordpress installs, wordpress plugins, custom theme extensions, etc.).
+Scripts that require non-standard hosting environments.
+(Anything that would need to be configured or added outside of the cPanel/WHM interfaces.)
+Any backend service which is not managed and installed natively in our environment.
+(NoSQL, TeamSpeak plugins, etc.)
+
+
+
+Customers are responsible for keeping their scripts up to date.
+RamNode does not provide support for website problems resulting from outdated scripts or installations.
+We recommend that our customers use the included Softaculous script manager to install available scripts.
+Softaculous can assist in keeping scripts up to date.
+RamNode shared support is available for non-critical issues between the hours of 11AM and 7PM eastern.
+Critical support for server or network problems is available 24/7/365.
+Service Payment, Refunds and Cancellation Guidelines
+For prepay-only services such as SolusVM and Shared hosting, invoices are generated 10 days before payment is due.
+Failure to pay by the due date will result in suspended and, ultimately, terminated service.
+Credit cards left on file will be automatically charged on the invoice due date unless you have submitted a cancellation request through the Client Area prior.
+RamNode reserves the right to terminate your service at any point after your invoice is overdue, and will not be responsible for any data loss due to termination.
+Prepay and postpay options are available for cloud service.
+If a credit card is left on file with us, it will be automatically charged at least once a month according to your cloud service usage.
+All other payment methods are considered prepay, requiring you to maintain a cloud credit balance in order to use our cloud service.
+You will receive email notifications when your cloud credit is running low.
+Cloud service may be suspended and/or terminated once your prepaid cloud credit drops below $0.
+Billable cloud services include instances, images (uploaded images, snapshots, and backups), and public network transfer.
+Instances count toward your usage as long as they exist (including when powered off).
+RamNode offers a three day refund period for your first payment on your first service with us.
+Bitcoin payments are NON-REFUNDABLE.
+Software licenses are not eligible for refunds.
+Refunds must be requested via support ticket in the Client Area after a cancellation request has been submitted.
+If the client creates a subscription to pay for his or her service(s) with RamNode, the client is responsible for canceling that subscription when he or she no longer wants service with RamNode.
+RamNode will not be responsible for handling or refunding any transactions that take place after the client has cancelled his or her service with RamNode in the event that the client fails to cancel the related subscription.
+Payment Chargebacks and Billing Disputes
+Raising a billing dispute with our payment processors or charging back a payment made to RamNode will place the clientâs account in bad standing.
+We reserve the right to immediately terminate all services without refund in such instances.
+Other Disputes
+Any threat of legal action against RamNode by a client will result in immediate account and service termination without refund.
+Accounts
+All orders placed through our billing portal are passed through an automatic fraud check system.
+Although our services are typically set up instantly upon receipt of payment, we manually review each fraud score before accepting the order.
+If our fraud check system scores your order as dangerous, we may require submission of a government issued ID to allow continued use of our services.
+Failure to comply in a timely manner may result in suspension and/or termination without refund.
+Ordering from a VPN or proxy will likely cause your order to be flagged as potential fraud, requiring additional verification in order to use our services.
+Please order without a VPN if at all possible.
+We require your real first and last name, as well as accurate information in all other fields, upon placing an order.
+If you provide false information when placing an order, your service may be suspended and/or terminated without notice upon manual review.
+Each client may have only one account with RamNode.
+Permission to create additional accounts must be requested via ticket prior to ordering.
+All related accounts may be suspended and/or terminated if permission has not been requested before creating more than one.
+RamNode utilizes FraudRecord to screen new orders for previous fraudulent activity and to report existing customers who violate our Terms of Service and/or Acceptable Use Policy.
+In case of a violation, you may be reported to FraudRecord for misbehavior using one-way hashed information.
+DDoS Protection
+DDoS-filtered IPs are available to order for each location.
+The filtering system is explained in our Knowledgebase.
+Please give us up to 24 hours to process filtered IP orders.
+Our DDoS filtering is shared among all customers with filtered IPs per location, so a single customer may not receive filtering for the entire capacity per location.
+We do not offer any guarantees attached to the filtering system.
+Backups
+Cloud 
+
+Cloud customers can create and manage automated backups and manual snapshots of their instances through the Cloud Control Panel.
+Backups and snapshots are considered images and are billed according to the prices listed on our website.
+Backup and snapshot data integrity is not guaranteed and should be confirmed by the customer (for example, by launching a new instance from the backup or by downloading and testing elsewhere).
+Customers are responsible for their own data.
+
+SolusVM 
+
+RamNode does not take backups of SolusVM virtual server data.
+We recommend that customers backup their server data to their personal computers or remote storage servers.
+Customers are responsible for their own data.
+RamNode shall by no means be responsible for data loss.
+
+Shared 
+
+Although RamNode does backup all shared hosting accounts daily, we cannot guarantee the integrity of customer data or databases taken at the time of backup.
+We encourage all customers to use the backup function available to them in their cPanel control panel to take their own remote backups periodically through the month.
+Note: Any backups taken through cPanel and stored on the server will be removed automatically once the backup is more than 48 hours old.
+Ensure to download your backup files as soon as you generate them if you would like to keep the data stored in the cPanel backup archive.
+RamNode provides a backup interface for customers to restore files and databases.
+We cannot assist with backup restoration outside of the features provided to you from within cPanel.
+Restoring a backup may result in overwriting data that has not yet been backed up by our daily backups.
+We recommend that you take a manual backup from within cPanel before you restore any data.
+
+
+
+Jurisdiction
+Any claim arising hereunder shall be construed in accordance with the substantive and procedural laws of the State of Georgia, without regard to principles of conflict of laws.
+You agree that any dispute arising from or relating to the subject matter of these Terms of Service shall be governed by the exclusive jurisdiction and venue of the state and Federal courts of Georgia.
+Customer consents to service of process via email at the email address(es) provided by customer, and waives any requirement under the Hague Convention or other judicial treaty requiring that legal process be translated into any language other than English.
+Indemnification
+YOU SHALL DEFEND, INDEMNIFY, AND HOLD HARMLESS US, OUR AFFILIATES, PARENTS, SUBSIDIARIES, ANY RELATED COMPANIES, LICENSORS AND PARTNERS, AND EACH OF OUR AND THEIR RESPECTIVE EMPLOYEES, OFFICERS, DIRECTORS, AGENTS, CONTRACTORS, DIRECTORS, SUPPLIERS AND REPRESENTATIVES FROM ALL LIABILITIES, CLAIMS, AND EXPENSES, INCLUDING REASONABLE ATTORNEYS' FEES, THAT ARISE FROM OR RELATE TO YOUR (OR ANY THIRD PARTY USING YOUR ACCOUNT OR IDENTITY IN THE SERVICES) USE OR MISUSE OF, OR ACCESS TO, THE SERVICES, CONTENT, OR OTHERWISE FROM YOUR USER CONTENT, VIOLATION OF THESE TERMS OF SERVICE OR OF ANY LAW, OR INFRINGEMENT OF ANY INTELLECTUAL PROPERTY OR OTHER RIGHT OF ANY PERSON OR ENTITY.
+WE RESERVE THE RIGHT TO ASSUME THE EXCLUSIVE DEFENSE AND CONTROL OF ANY MATTER OTHERWISE SUBJECT TO INDEMNIFICATION BY YOU, IN WHICH EVENT YOU WILL ASSIST AND COOPERATE WITH US IN ASSERTING ANY AVAILABLE DEFENSES.
+Release
+You hereby release and discharge RamNode, its officers, employees, agents, parents, affiliates, successors, and assigns from each and every past, current, or future dispute, claim, controversy, demand, liability, action, omission, cause of action, and/or litigation, of any kind or nature, including without limitation breach of contract, tort, intellectual property suits, personal injury, death, and/or property damage, arising out of or related to, directly or indirectly, this Agreement or any other interaction with the Site.
+NOTE TO CALIFORNIA RESIDENTS: USERS RESIDING IN CALIFORNIA HEREBY WAIVE THE PROVISIONS OF CAL.
+CIV.
+CODE Â§ 1542, WHICH PROVIDES THAT âA GENERAL RELEASE DOES NOT EXTEND TO CLAIMS IN WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOW BY HIM OR HER MIST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR.â
+Disclaimers
+
+SERVICES ARE PROVIDED âAS ISâ AND âAS AVAILABLEâ AND RAMNODE EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+RAMNODE MAKES NO GUARANTEE THAT THE SITE WILL MEET YOUR REQUIREMENTS, WILL ALWAYS BE AVAILABLE, WILL ALWAYS BE ERROR-FREE, SECURE, OR TIMELY, OR WILL BE RELIABLE, FREE OF VIRUSES OR OTHER HARMFUL DATA AND/OR INFORMATION.
+TO THE MAXIMUM EXTENT PERMITTED UNDER LAW, AS APPLICABLE, RAMNODE DISCLAIMS ANY AND ALL RESPONSIBILITY, LIABILITY, OR OTHERWISE ARISING OUT OF DEATH OR PERSONAL INJURY RESULTING FROM, DIRECTLY OR INDIRECTLY, THE USE OF THE SITE, SERVICES, OR OPERATION OF RAMNODEâS PRODUCTS.
+RAMNODE TAKES NO RESPONSIBILITY, NOR WILL IT BE LIABLE FOR, ANY DAMAGES TO USERâS PROPERTY, INCLUDING COMPUTER VIRUSES OR MALWARE, OR OTHER PROPERTY CAUSED BY OR STEMMING YOUâRE YOUR USE OF THE SITE.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSIONS MAY NOT BE APPLICABLE IN YOUR SPECIFIC SITUATION.
+
+LIMITATION ON LIABILITY
+RAMNODE SHALL NOT, IN ANY EVENT, BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY (A) LOST PROFITS.
+OR (B) DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR OTHERWISE RELATED TO THIS AGREEMENT, YOUR USE OF THE SITE AND/OR SERVICES.
+ACCESS TO AND USE OF THE SITES AND SERVICES ARE AT YOUR OWN RISK AND DISCRETION.
+NOTWITHSTANDING ANYTHING TO THE CONTRARY HEREIN, RAMNODEâS TOTAL LIABILITY TO YOU FOR ANY DAMAGES STEMMING FROM OR OTHERWISE RELATED TO THIS AGREEMENT, FOR ANY REASON WHATSOEVER AND IRRESPECTIVE OF THE FORM OR FORUM, IS LIMITED TO THE AMOUNTS PAID TO RAMNODE IN THE TWELVE (12) MONTHS PRIOR TO THE ASSERTION OF SUCH CLAIM, DEMAND, OR OTHERWISE.
+YOU AGREE THAT RAMNODEâS PARTNERS, AFFILIATES, AND LICENSORS WILL HAVE NO LIABILITY, OF ANY KIND WHATSOEVER, STEMMING FROM THIS AGREEMENT.
+THE FOREGOING LIMITATIONS ON LIABILITY APPLY EVEN IF THE ABOVE STATED REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+CERTAIN JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY TO YOU.
+Dispute Resolution
+Binding Arbitration
+If a dispute arises from or relating to this Agreement or the breach thereof, and if the dispute cannot be resolved through direct discussions between you and RamNode, the parties agree that any such dispute shall be settled by arbitration administered by the American Arbitration Association (âAAAâ) before a single arbitrator in accordance with its Commercial Arbitration Rules and judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction thereof.
+The place of arbitration shall be Atlanta, Georgia, USA.
+The arbitration shall be governed by the laws of the State of Georgia.
+Hearings will take place pursuant to the standard procedures of the Commercial Arbitration Rules that contemplate in person hearings.
+Each party shall bear its own costs and expenses and an equal share of the arbitrators' and administrative fees of arbitration.
+Except as may be required by law, neither a party nor an arbitrator may disclose the existence, content, or results of any arbitration hereunder without the prior written consent of both parties.
+The parties agree that failure or refusal of a party to pay its required share of the deposits for arbitrator compensation or administrative charges shall constitute a waiver by that party to present evidence or cross-examine witness.
+In such event, the other party shall be required to present evidence and legal argument as the arbitrator may require for the making of an award.
+Such waiver shall not allow for a default judgment against the non-paying party in the absence of evidence presented as provided for above.
+Class Action Waiver
+Unless required by applicable law, you and RamNode agree that neither will assert a class or representative action claims against the other, whether in arbitration or otherwise, which actions are hereby waived.
+and each of the parties shall only submit their own, individual claims in arbitration and will not seek to represent the interests of any other person.
+Governing Law
+This Agreement, and any other agreement entered into between you and RamNode, shall be governed by and construed in accordance with the laws of the State of Georgia, without reference to conflicts of laws principles, except to the extent that United States federal law preempts Georgia law, in which case United States federal law will apply, without reference to conflicts of laws principles.
+Severability
+If any portion of this Agreement is found to be unenforceable by a court of competent jurisdiction or arbitrator, such determination shall have no effect on the remaining terms of this Agreement, which shall continue in full force and effect.
+Last updated: August 2, 2019

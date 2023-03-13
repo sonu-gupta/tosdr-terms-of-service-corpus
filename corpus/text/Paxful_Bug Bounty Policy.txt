@@ -1,0 +1,140 @@
+
+        This website uses cookies to ensure you get the best experience on our website.
+Learn moreGot it! Please enable JavaScript to use Paxful website! Bug Bounty Policy Paxful, Inc.
+(also referred to as âPaxful,â âwe,â âus,â or âourâ) takes steps to improve our product and provide secure solutions for our customers.
+In this Bug Bounty Policy (âPolicyâ), we describe applicable cases for our Bug Bounty Program and how it should be used in connection with your use of our website at https://paxful.com/, including, but not limited to, the Paxful Wallet, online Bitcoin trading platform, mobile application, social media pages, or other online properties (collectively, the âWebsiteâ), or when you use any of the products, services, content, features, technologies, or functions we offer (collectively, the âServicesâ).
+This Policy is designed to help you obtain information about how you can participate in our Bug Bounty Program, which secure research results are applicable, and which benefits you can receive.
+Please note that our Service offerings may vary by region.
+For all purposes, the English language version of this bug bounty policy shall be the original, governing instrument.
+In the event of any conflict between the English language version of this bug bounty policy and any subsequent translation into any other language, the English language version shall govern and control. What is the Bug Bounty Program? In order to improve Paxful and the Services, the Paxful Bug Bounty Program provides our users an opportunity to earn a reward for identifying technical issues. How can you communicate your Bug Bounty Program findings to us? All such communications should be directed to bugbounty@paxful.com.
+In your submission please specify full description of the vulnerability and verifiable proof that the vulnerability exists (explanation / steps to reproduce / screenshots / videos / scripts or such other materials). Program Rules Violation of any of these rules can result in ineligibility for a bounty.
+
+Test vulnerabilities only against an account that you own or accounts that you have consent from the account holder to test against.
+Never use a finding to compromise/exfiltrate data or pivot to other systems.
+Use a proof of concept only to demonstrate an issue.
+If sensitive information such as personal information, credentials, etc..
+is accessed as part of a vulnerability, it must not be saved, stored, transferred, accessed, or otherwise processed after initial discovery.
+Researchers may not, and are not authorised to engage in any activity that would be disruptive, damaging or harmful to Paxful.
+Researchers may not publicly disclose vulnerabilities (sharing any details whatsoever with anyone other than authorized Paxful employees), or otherwise share vulnerabilities with a third party, without Paxful's express permission.
+ How do we evaluate issues identified under the Bug Bounty Program? All findings are evaluated using a risk-based approach. Non-Disclosure Agreement Before we begin discussing any details related to confirmed issues that you have identified under the Bug Bounty Program, including compensation, etc., you will be required to enter into a Non-Disclosure Agreement with us. How do we pay Bug Bounty Program rewards? All such rewards are paid by Paxful.
+All rewards can be paid only if they are not contrary to applicable laws and regulations, including but not limited to trade sanctions and economic restrictions. How long will it take us to analyze your Bug Bounty Program findings? Due to the varying and complex nature of technical issues, we have not established particular timelines for analyzing findings under the Bug Bounty Program.
+Our analysis is finished only when we have confirmed the existence or absence of a vulnerability. What cases are excluded from the Bug Bounty Program? Certain vulnerabilities are considered out-of-scope for the Bug Bounty Program.
+Those out-of-scope vulnerabilities include, but are not limited to:
+
+Spam;
+Vulnerabilities that require social engineering/phishing;
+DDOS attacks;
+Hypothetical issues that do not have any practical impact;
+Security vulnerabilities in third-party applications and on third-party websites integrated with Paxful;
+Scanner output or scanner-generated reports;
+Issues found through automated testing;
+Publicly-released bugs in Internet software within 30 days of their disclosure;
+Man-in-the-Middle attacks;
+Host header injections without a specific, demonstrable impact;
+Self-XSS, which includes any payload entered by the victim;
+Login/logout CSRF;
+ More Information If you are looking for more information regarding this Policy, you may contact us by emailing privacy@paxful.com. Dark theme English (en) 
+ Bahasa Indonesia 
+ Bahasa Melayu 
+ ÄeÅ¡tina 
+ Dansk 
+ Deutsch 
+ Eesti 
+ English 
+ EspaÃ±ol 
+ FranÃ§ais 
+ Hausa 
+ Italiano 
+ LatvieÅ¡u 
+ LietuviÅ³ 
+ Nederlands 
+ Norsk BokmÃ¥l 
+ Polski 
+ PortuguÃªs 
+ PortuguÃªs brasileiro 
+ Suomi 
+ Svenska 
+ Tiáº¿ng Viá»t 
+ TÃ¼rkÃ§e 
+ Wikang Tagalog 
+ Ð ÑÑÑÐºÐ¸Ð¹ 
+ íêµ­ì´ 
+ æ¥æ¬èª 
+ ç®ä½ä¸­æ(SC) 
+ ç¹é«ä¸­æ(TC) 
+ FAQ &amp.
+Help Center  For You 
+
+ Buy Bitcoin 
+ Buy Tether 
+ Buy Ethereum 
+ Sell Bitcoin 
+ Sell Tether 
+ Sell Ethereum 
+ Become a Vendor 
+ Paxful Wallet 
+
+ For Your Business 
+
+ Pay with Paxful 
+ Virtual Bitcoin Kiosk 
+ API Documentation 
+
+ For Your Community 
+
+ Paxful Peer Program 
+ Paxful Affiliate Program 
+ Paxful Alliance 
+ Community 
+
+ Buy Anywhere 
+
+ Buy Bitcoin in USA 
+ Buy Bitcoin in Nigeria 
+ Buy Bitcoin in China 
+ Buy Bitcoin in India 
+ Buy Bitcoin in Russia 
+
+ Useful Links 
+
+ Paxful Status 
+ Bitcoin Calculator 
+ Peer-to-Peer Market Prices 
+ Bitcoin ATM Map 
+
+ About Paxful 
+
+ About Us 
+ Business Contacts 
+ Careers 
+ Paxful Blog 
+ What's new 
+ Paxful Reviews 
+ Built with Bitcoin 
+ Legal 
+ Terms &amp.
+Conditions 
+ Vendor Reminder 
+ AML Policy 
+ Stablecoin Terms of Service 
+ Privacy Notice 
+ Bug Bounty Policy 
+ Cookie Policy 
+
+
+ Instagram 
+ Facebook 
+ Twitter 
+ YouTube 
+ Reddit 
+
+ âPAXFULâ is a registered trademark of Paxful, Inc.
+Copyright Â© 2021 Paxful, Inc.
+All Rights Reserved.
+Paxful Inc.
+has no relation to MoneyGram, Western Union, Payoneer, WorldRemit, Paxum, Paypal, Amazon, OkPay, Payza, Walmart, Reloadit, Perfect Money, WebMoney, Google Wallet, BlueBird, Serve, Square Cash, NetSpend, Chase QuickPay, Skrill, Vanilla, MyVanilla, OneVanilla, Neteller, Venmo, Apple, ChimpChange or any other payment method.
+We make no claims about being supported by or supporting these services.
+Their respective wordmarks and trademarks belong to them alone.
+Official mailing address: 3422 Old Capitol Trail, PMB 989, Wilmington DE 19808
+ Contact Us
+      

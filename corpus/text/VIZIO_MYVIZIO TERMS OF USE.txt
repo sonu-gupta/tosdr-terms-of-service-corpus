@@ -1,0 +1,523 @@
+
+         Need help with your new VIZIO product? Contact VIZIO Support.
+Sign in / Sign up Hello Hello My Account Log out 
+ TVs  D-Series
+Dependability &amp.
+value
+Dependability &amp.
+value
+24" â 43"
+From $129.99 V-Series
+Affordable performance
+Affordable performance
+40" â 75"
+From $229.99 M-Series
+A quantum leap in color
+A quantum leap in color
+50" â 70"
+From $439.99 P-Series
+Our biggest &amp.
+best LED
+Our biggest &amp.
+best LED
+65" - 85"
+From $1199.99 OLED
+The perfect picture
+The perfect picture
+55" - 65"
+From $1299.99 Compare TVs 
+
+ D-Series Dependability &amp.
+value 24" â 43" From $129.99 Shop 
+ V-Series Affordable performance 40" â 75" From $229.99 Shop 
+ M-Series A quantum leap in color 50" â 70" From $439.99 Shop 
+ P-Series Our biggest &amp.
+best LED 65" - 85" From $1199.99 Shop 
+ OLED The perfect picture 55" - 65" From $1299.99 Shop 
+ Compare TVs 
+
+
+ Compare Series Not sure which Smart TV fits your needs?
+No worries, weâll guide you to the right model: Compare TVs 
+
+
+ V-Series Smart &amp.
+affordable performance 40" â 75" Starting at: $229.99
+
+ M-Series A quantum leap in color 40" â 70" Starting at: $439.99
+
+ P-Series Our biggest and best LED 65" - 85" Starting at: $1199.99
+
+ OLED The perfect picture 55" â 65â Starting at: $1,299.99
+
+ Compare Series Not sure which Smart TV fits your needs?
+No worries, weâll guide you to the right model: Compare TVs 
+
+
+ Sound Bars  V-Series
+Big sound at a small price
+Big sound at a small price
+2.1 &amp.
+5.1
+From $179.99 M-Series
+A step up to surround sound
+A step up to surround sound
+AIO &amp.
+5.1 &amp.
+5.1.2
+From $149.99 Elevate
+The pinnacle of audio excellence
+The pinnacle of audio excellence
+5.1.4
+From $999.99 Additional Sound Bars
+Americaâs #1 Sound Bar Brand
+Americaâs #1 Sound Bar Brand
+2.1 &amp.
+5.1
+From $179.99 Compare Sound Bars 
+
+ V-Series Big sound at a small price 2.1 &amp.
+5.1 From $179.99 Shop 
+ M-Series A step up to surround sound AIO &amp.
+5.1 &amp.
+5.1.2 From $149.99 Shop 
+ Elevate The pinnacle of audio excellence 5.1.4 From $999.99 Shop 
+ Additional Sound Bars Americaâs #1 Sound Bar Brand 2.1 &amp.
+5.1 From $179.99 Shop 
+ Compare Sound Bars 
+
+
+ Compare Series Not sure which soundbar fits your needs?
+No worries, weâll guide you to the right model: Compare SoundBars 
+
+
+ V-Series Big sound at a small price 2.1 &amp.
+5.1 Starting at: $179.99
+
+ M-Series A step up to surround sound AIO &amp.
+5.1 &amp.
+5.1.2 Starting at: $149.99
+
+ Elevate The pinnacle of audio excellence 5.1.4 Starting at: $999.99
+
+ Compare Series Not sure which soundbar fits your needs?
+No worries, weâll guide you to the right model: Compare SoundBars 
+
+
+ SmartCastâ¢  SmartCastâ¢
+Discover everything you love all in one place
+Discover everything you love all in one place Smart TV Apps
+Enjoy endless entertainment from your favorite apps
+Enjoy endless entertainment from your favorite apps WatchFreeâ¢
+Stream hundreds of free channels
+Stream hundreds of free channels 
+
+ SmartCastâ¢ Discover everything you love all in one place 
+ Visit 
+ Smart TV Apps Enjoy endless entertainment from your favorite apps 
+ Visit 
+ WatchFreeâ¢ Stream hundreds of free channels 
+ Visit 
+ Explore SmartCast 
+
+
+ SmartCastâ¢ Get everything you love in all in one place 
+
+
+ Smart TV Apps Entertainment from an endless selection of apps 
+
+
+ WatchFreeâ¢ Stream over 150 TV channels for free 
+
+
+ Explore SmartCast 
+
+
+ Shop 
+ Support 
+ {{#ifEquals lineItems.length 0}} {{else}} {{#each lineItems}} {{{shoppingCartImageLink url name imagePath }}} {{{shoppingCartLink url description}}} {{{promotionalMessage}}} QTY: {{quantity}} {{#ifEquals savings 0}} {{lineItemTotal}} {{else}} {{lineItemPrice}} {{lineItemTotal}} {{/ifEquals}} {{#ifEquals available 0}} *This product is currently out of stock.
+{{/ifEquals}} {{#ifGreater available 0}} {{#ifGreater quantity available}} Weâre sorry, the requested quantity is not available.
+{{/ifGreater}} {{/ifGreater}} {{/each}} {{/ifEquals}} {{#ifEquals lineItems.length 0}} {{else}} Cart Subtotal:{{cartTotal}} Edit Cart Checkout {{/ifEquals}} 1 item added to your cart . You have been logged out successfully.
+Close No Results Found.
+
+ Terms of Service 
+ Privacy Policy 
+ Viewing Data Supplement 
+ Viewing Data Regions 
+ Website Terms of Use 
+ myVIZIO Terms of Use 
+ Warranty &amp.
+Returns 
+ Shipping Policy 
+ Your California Privacy Rights 
+ Privacy Policy Addendum for California Residents 
+ MYVIZIO
+TERMS OF USE
+
+BY PARTICIPATING IN THE MYVIZIO SERVICE, YOU AGREE TO BE BOUND BY THESE TERMS OF USE.
+IF YOU DO NOT AGREE TO THE TERMS OF USE, DO NOT ACCESS OR USE THE SERVICE.
+COMPLETING THE REGISTRATION PROCESS OR ACCESSING ANY PART OR ALL OF THE SERVICE WILL CONSTITUTE YOUR ACCEPTANCE OF THESE TERMS OF USE.
+
+
+These Terms of Use contain a binding arbitration agreement and a class action waiver for United States residents.
+If you live in the United States, the binding arbitration agreement and class action waiver affect your rights under this Service.
+Please read the text under the section titled âBinding Arbitration.
+Class Action Waiver (U.S.
+Residents Only)â carefully.
+
+
+Note to Non-US Residents: if you are a user residing outside the United States, some of the Services will not be available to you.
+For those Services that are made available to you, these Terms of Use will govern your use of those Services to the maximum extent permitted by these terms and by applicable law.
+In particular, these Terms of Use will govern your use of the SmartCast functionality that is made available to you through your myVIZIO account.
+
+1.
+ACCEPTANCE.
+VIZIO, Inc.
+(VIZIO) owns and operates a membership program called myVIZIO offered through https://www.vizio.com/en/home and the VIZIO SmartCast platform.
+myVIZIO, and the content, information and other services available at myVIZIO are collectively referred to as the Service.
+What follows are the current terms and conditions for use of this Service (Terms of Use).
+The full range of features and functions of the Service is provided only to users who become registered members.
+By using the Service, you agree to these Terms of Use.
+The Terms of Use include all other referenced VIZIO operating rules, policies and procedures and other policies published and updated from time to time (collectively the Policies).
+If there is any conflict between the Terms of Use and those of any other VIZIO agreement, the terms of the other agreement will control.
+2.
+CHANGES.
+VIZIO reserves the right, in its sole discretion, to change, modify, update or discontinue these Terms of Use and all or part of the Service at any time without notice.
+Any changes or modifications will be effective immediately upon posting the revisions to https://www.vizio.com/terms-fandemonium-myvizio.
+You should periodically check the Terms of Use located at https://www.vizio.com/terms-fandemonium-myvizio for changes.
+Continued use of the Service or participation in myVIZIO following any change to the Terms of Use constitutes your acceptance of the changes.
+VIZIO may terminate the Service, in whole or in part, at any time.
+3.
+ELIGIBILITY.
+Except for those Services made available to non-U.S.
+Residents, including the SmartCast functionality, the Service is open to legal residents of the 50 United States and the District of Columbia who are at least 13 years of age or older at the time of participation.
+Void in Puerto Rico and where prohibited or restricted by law.
+If you are a minor, meaning any age under 18 years old, you may only use myVIZIO under the supervision of a parent or legal guardian who agrees to be bound by these Terms of Use on your behalf.
+If you cannot comply with these requirements, you are prohibited from accessing, using or registering for the Service.
+VIZIO will not collect personally identifiable information from any person that is actually known to be a child under the age of 13.
+Limit one (1) myVIZIO account per person.
+If multiple myVIZIO accounts are detected for a single registered member, VIZIO may choose to void such accounts.
+The authorized myVIZIO account holder is the individual natural person who is assigned to the email address by an Internet access provider, online service provider or other organization that is responsible for assigning an email address or the domain associated with the submitted email address.
+In the event of a dispute about the identity of a member, VIZIO may require that the member provide proof that he/she is the authorized account holder of the email address and/or password associated with the account.
+Each user that properly completes the registration process will be considered a member for the purposes of these Terms of Use.
+VIZIO may refuse to offer or continue offering the Service to any person and may change its eligibility criteria from time to time.
+4.
+REGISTRATION.
+To become a member, you must complete the registration process by providing VIZIO with complete and accurate information, as required in the registration form.
+For example, you may be required to provide your name and zip code, username, password, legitimate electronic mail address and certain additional information, such as preferred contact method and products and services of interest in order to access certain features of the Service.
+VIZIO may elect to refuse to register any user, in its sole discretion.
+You may also elect to provide information related to your social networking accounts (e.g., Twitter, Facebook, Google and Instagram) or credit card information or mobile telephone number.
+Upon acceptance of your registration, VIZIO will provide access credentials to you.
+You are solely responsible for maintaining the confidentiality of your access credentials and other account information.
+You agree to keep all account information up-to-date.
+You also agree to notify VIZIO immediately of any unauthorized use of your account or any other breach of security.
+
+CAUTION: ANY ATTEMPT TO DELIBERATELY UNDERMINE THE OPERATION OF THE SERVICE MAY BE A VIOLATION OF LAW.
+VIZIO RESERVES THE RIGHT TO SEEK DAMAGES FROM ANY SUCH PERSON TO THE FULLEST EXTENT PERMITTED BY LAW.
+
+5.
+PRIVACY.
+You agree to VIZIO's Privacy Policy, available at https://www.vizio.com/en/terms/privacy-policy.
+VIZIO will not disclose your personally identifiable information in connection with the Service unless: (a) reasonably necessary to perform the Service, (b) authorized by you, (c) otherwise permitted under the Privacy Policy, or (d) VIZIO reasonably believes that such action is necessary to (i) comply with any legal, regulatory, law enforcement or similar requirement or investigation, (ii) protect or defend the rights or property of VIZIO or any user, or (iii) enforce the Terms of Use or any other agreement.
+VIZIO will use your social networking account information only as permitted under the Privacy Policy and for the purpose of providing the Service to you, and will not otherwise attempt to obtain information from, or post information using, such accounts.
+6.
+FEES.
+Except as expressly provided otherwise, you are solely responsible for your own costs and expenses to access and use the Service.
+VIZIO will determine whether (and how much) to charge for the Service.
+Since the Service is initially made available without charge, VIZIO may later decide to charge for some or all of the features of the Service.
+Should there be a charge for the Service, VIZIO may later decide to change the price of that fee.
+Users will be notified of fees and any fee changes.
+7.
+FORUMS / POSTINGS.
+The Service may include discussion forums, reviews or other features where members may upload, display or transmit user generated content, materials and other information of interest (User Content).
+Because VIZIO does not preview or review the postings or User Content on or otherwise via the Service, you must be careful in dealing with other members to avoid fraud.
+You acknowledge that information provided by other members may, despite prohibitions in the Terms of Use, be harmful, inaccurate or deceptive.
+Authentication of the true identity of Internet users is difficult, and VIZIO cannot and does not confirm that each member is the person who they claim to be.
+VIZIO is not involved in member-to-member dealings and, therefore, you agree in connection with your use of the Service attempt to settle any disputes directly with such other member or other third party.
+8.
+USER RULES &amp.
+CONDUCT.
+The Service is provided to you only for your personal, non-commercial use.
+Any use of the Service not expressly authorized is prohibited, including without limitation, accessing any aspect of the Service when not authorized, or any commercial use, such as reselling any User Content or information to third parties.
+You are solely responsible for all acts or omissions that occur under your account, username or password, including User Content posted to or transmitted via the Service.
+As a condition of use, you hereby promise not to use the Service for any purpose that is unlawful, commercial in nature (e.g., fundraising, advertising or promoting any product, service, pyramid scheme or other venture) or prohibited by these Terms of Use.
+You agree to abide by all applicable local, state, and national laws, regulations and rules.
+Without limiting the foregoing, you agree not use the Service for the purpose of money laundering, bid rigging, price fixing or other unlawful collusion, price signaling or exchange of competitively sensitive data or information.
+You agree not to (a) take any action, or (b) upload, post, submit or otherwise distribute or facilitate distribution of any User Content (including text, communications, software, photographs, videos, sound recordings, data or other information) using any communications service, discussion forum, directory, survey, feedback, reviews or other service available on or through the Service, in any manner that:
+
+Is unlawful, deceptive, misleading, fraudulent, threatening, abusive, harassing, libelous, invasive of another's privacy, tortious, obscene, profane or which otherwise violates these Terms of Use or any other VIZIO agreement;
+Infringes any patent, trademark, trade secret, copyright, right of publicity, privacy right or other right of any party;
+Reveals any personal information about another individual, including another person's name, address, phone number, electronic mail address, credit card information or any other information that could be used to track, contact or impersonate that person;
+Constitutes unauthorized or unsolicited advertising, junk or bulk e-mail ('spamming'), chain letters or any form of lottery or gambling;
+Imposes an unreasonable or disproportionately large load on VIZIO's computing, storage or communications infrastructure, or attempts to gain unauthorized access to the Service, other accounts, computer systems or networks connected to the Service, through password mining or otherwise;
+Contains software viruses or any other computer codes, files, or programs that are designed or intended to disrupt, damage, limit or interfere with the proper function of any software, hardware or network system or to damage or obtain unauthorized access to any system, data or other information of VIZIO or any third party;
+Creates member accounts by any automated means or under false or misleading pretenses;
+Harvests, scrapes or collects User Content or any information from myVIZIO or other VIZIO websites;
+Disguises the source of User Content posted.
+or
+Impersonates any person or entity, including any employee or representative of VIZIO.
+
+You agree to perform all of your obligations in respect to any transaction entered into in connection with using the Service.
+VIZIO may, at its sole discretion, immediately suspend or terminate any member's access to the Service should his/her conduct fail (or appear to fail) to strictly conform to any provision of this Section 8.
+The decisions of VIZIO with respect to the Service are final and binding in all respects.
+9.
+CONTENT LICENSE TO VIZIO.
+By uploading, posting, submitting or otherwise distributing User Content of any kind to myVIZIO, you:
+
+Grant and agree to grant to VIZIO and its affiliates and licensees a non-exclusive, transferable, perpetual, irrevocable, non-exclusive, royalty-free right and license (with right to sublicense) to use, reproduce, publicly display, publicly perform, adapt, collect, modify, delete from, distribute, transmit, promote and make derivative works of the User Content, in any form, for the purposes of offering, providing, marketing and promoting myVIZIO, the Service and VIZIO products (including without limitation, being exported under content sharing arrangements with other websites);
+Represent and warrant that all User Content includes appropriate attribution to the copyright owner;
+Represent and warrant to VIZIO that you own or control all rights to such User Content and that public disclosure and use of the User Content by VIZIO (including without limitation, publishing content at myVIZIO) will not infringe or violate the rights of any third party.
+and
+Acknowledge and agree that the User Content is intended to and will be made available to and used by VIZIO and other users.
+
+
+IMPORTANT: You agree that you will not contribute any User Content unless you have all of the rights (including rights from the copyright or trademark owner) necessary to grant VIZIO the use license and to satisfy all of the warranty requirements described above.
+
+Notwithstanding the foregoing, the Service may provide you with the ability to remove some or all of your User Content posted to myVIZIO.
+Following any such removal, VIZIO will use commercially reasonable efforts to discontinue any further display, performance and distribution of such User Content at myVIZIO.
+However, you acknowledge and agree that VIZIO may continue using such User Content in the same manner and for the same purposes as it did prior to removal of such content (for example, content used in any advertising created prior to removal) and that VIZIO will have no responsibility or liability in respect of any content that has been exported by VIZIO or shared with other users via the Service or that has been downloaded or copied by users to other websites, systems and devices.
+10.
+CONTENT LIMITATIONS AND RELEASE.
+VIZIO has no obligation to monitor the Service or any userâs use thereof.
+However, VIZIO reserves the right at any time and without notice to monitor, review, retain or disclose any information as necessary.
+For example, VIZIO may monitor the Service in connection with a security issue or as relates to any applicable law, regulation, legal process or governmental request or investigation.
+VIZIO has no obligation to pre-screen, authenticate, validate, monitor, moderate or edit any User Content.
+However, VIZIO and its agents have the right to remove at any time any User Content that, in VIZIO's judgment, does not comply with the Terms of Use or for any other reason.
+VIZIO is not responsible for any failure or delay in removing any User Content.
+You will not post any confidential content or other proprietary information that you desire to (or should) keep secret.
+As a condition of participation in the Service, you hereby release VIZIO and its affiliates and partners from and against any and all liability, claims or actions of any kind whatsoever for injuries, damages, or losses to persons or property which may be sustained in connection with the use or otherwise participating in any aspect of the Service.
+VIZIO is not responsible for any unavailability or interruptions to any equipment or service used in connection with, including, without limitation: (a) interruptions to any network, server, internet, website, telephone, satellite, computer or other connections.
+(b) failures of any telephone, satellite, hardware, software or other equipment.
+(c) garbled, misdirected or jumbled transmissions.
+(d) other errors of any kind, whether human, technical, mechanical or electronic.
+or (f) the failure or incorrect or inaccurate capture of or other information.
+VIZIO reserves the right to disqualify any person tampering with the operation of the Service, https://www.vizio.com/en/home or affiliated sites, or for violation of these Terms of Use.
+VIZIO will have no liability for any printing, production, typographical, mechanical or other errors in the Service and/or in a memberâs account.
+VIZIO reserves the right to restrict access to an account in its sole discretion.
+11.
+THIRD PARTY WEBSITES.
+The Service may permit users to access myVIZIO from and to link from myVIZIO to other websites on the Internet.
+These other websites are not under VIZIO's control, and you acknowledge and agree that VIZIO is not responsible for the accuracy, legality, appropriateness or any other aspect of the content or function of such websites.
+The inclusion of any such link does not imply endorsement of the website by VIZIO or any association with its operators.
+Additional or different terms and conditions may apply when you access and use other websites.
+The use of any third party sites or services is subject to such third party terms, conditions and restrictions.
+12.
+PROPRIETARY RIGHTS.
+You acknowledge and agree that the Service and all content and materials created by or for VIZIO and made available on myVIZIO and VIZIOâs other websites are protected by copyrights, trademarks, service marks, patents, trade secrets or other proprietary rights and laws.
+VIZIO and its licensors will own and retain all rights, title and interests, including all intellectual property and proprietary rights, to all myVIZIO and other VIZIO website content and materials.
+You agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works of any of the User Content, materials or other information of such websites and the Service.
+Systematic retrieval of data or other content from myVIZIO or other VIZIO websites to create or compile, directly or indirectly, a collection, database or directory is strictly prohibited without VIZIO's express prior written consent.
+
+IMPORTANT: If you desire to make any use of any VIZIO proprietary content for any purpose other than personal, noncommercial reference, then you will first secure permission from the owner of that content.
+
+Reproducing, copying or distributing any content, materials or design elements from myVIZIO or other VIZIO websites for any other purpose is strictly prohibited without VIZIO's express prior written consent.
+Attempting to access or use the Service, content or materials for any purpose not expressly permitted in the Terms of Use is prohibited.
+13.
+TERMINATION.
+VIZIO may terminate your access to all or any part of the Service at any time, for any reason and without notice, effective immediately.
+If a member wishes to terminate its registration and account, the member may do so at any time by sending an email to techsupport@vizio.com that includes the member's electronic mail address and specifies termination to myVIZIO membership.
+Upon termination, all rights and obligations of the parties will cease and that member will immediately stop using the Service, except that (a) all obligations that accrued prior to the effective date of termination and all remedies for breach of the Terms of Use will survive, and (b) the provisions of Sections 13-22 will survive.
+After termination, VIZIO has no obligation to maintain any content in that member's account (including without limitation, records regarding the member's Points, which will be irrevocably forfeited) or to forward any unread or unsent messages to that member or any other user or third party.
+14.
+DISCLAIMER OF ALL WARRANTIES.
+THE SERVICE IS PROVIDED 'AS IS' AND 'AS AVAILABLE'.
+TO THE GREATEST EXTENT PEMITTED BY APPLICABLE LAW, THE SERVICE IS PROVIDED WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, INTEGRATION, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED.
+VIZIO MAKES NO WARRANY OR PROMISE THAT THE SERVICE WILL OPERATE UNINTERUPTED OR ERROR-FREE.
+VIZIO AND ITS RESPECTIVE AFFILIATES, CONTRACTORS, EMPLOYEES, OFFICERS, DIRECTORS, AGENTS, LICENSORS AND SUPPLIERS DO NOT WARRANT THAT: (A) ANY INFORMATION WILL BE TIMELY, ACCURATE, RELIABLE OR CORRECT.
+(B) THE SERVICE WILL BE SECURE OR AVAILABLE AT ANY PARTICULAR TIME OR PLACE.
+(C) ANY DEFECTS OR ERRORS WILL BE CORRECTED.
+(D) THE SERVICE WILL PERFORM UNINTERRUPTED OR BE ERROR FREE.
+(E) THE SERVICE WILL BE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+OR (F) ANY RESULT OR OUTCOME CAN BE ACHIEVED.
+YOUR USE OF THE SERVICE IS SOLELY AT YOUR OWN RISK.
+SOME STATES AND PROVINCES DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
+15.
+INDEMNITY.
+LIMITATION OF LIABILITY.
+If a third party brings a claim against VIZIO, or its affiliates, employees, officers or agents, related to your use of the Service, including myVIZIO or your User Content, you will indemnify and hold VIZIO harmless from and against all damages, losses and expenses of any kind (including reasonable legal fees and costs) related to such claim.
+You agree that VIZIO will not be responsible or liable for any unauthorized access to, alteration or use of your account, User Content, transmissions or data, any material or data sent or received or not sent or received through the Service.
+You agree that VIZIO is not responsible or liable for any threatening, defamatory, obscene, offensive, illegal or other content or conduct of any third party or any infringement of another's rights, including intellectual property rights.
+VIZIO WILL NOT BE RESPONSIBLE FOR (A) LOSS OF USE, LOSS OF INFORMATION OR DATA, COMMERCIAL LOSS, LOST REVENUE OR LOST PROFITS, OR OTHER INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, OR (B) DIRECT DAMAGES, IN THE AGGREGATE, IN EXCESS OF AMOUNTS PAID TO VIZIO BY YOU DURING THE PREVIOUS 12-MONTH PERIOD, OR FIFTY DOLLARS (U.S.
+$50.00), WHICHEVER IS GREATER.
+THESE LIMITATIONS ARE INDEPENDENT FROM ALL OTHER PROVISIONS OF THIS AGREEMENT AND SHALL APPLY EVEN IF VIZIO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND EVEN IF THE REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+SOME STATES AND PROVINCES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+16.
+GOVERNING LAW (Non-U.S.
+Residents Only).
+The Terms of Use shall be governed by and construed in accordance with the laws of the State of California, excluding its conflicts of law rules, and the United States of America.
+In the event of any conflict between U.S.
+and foreign laws, rules and regulations, U.S.
+laws, rules and regulations shall govern.
+The United Nations Convention on Contracts for the International Sale of Goods shall not apply to these Terms of Use.
+Use of the Service is not authorized in any jurisdiction that does not give effect to all provisions of the Terms of Use.
+17.
+BINDING ARBITRATION.
+CLASS ACTION WAIVER (U.S.
+Residents Only).
+UNLESS YOU HAVE BROUGHT AN ELIGIBLE CLAIM IN SMALL CLAIMS COURT OR HAVE OPTED OUT AS DESCRIBED BELOW, ANY CONTROVERSY OR CLAIM RELATING IN ANY WAY TO THESE TERMS OF USE OR MYVIZIO, INCLUDING ANY CONTROVERSY OR CLAIM ARISING OUT OF OR RELATING TO THE SERVICE OR THE FAILURE OF THE SERVICE WILL BE SETTLED BY BINDING ARBITRATION ADMINISTERED BY THE AMERICAN ARBITRATION ASSOCIATION (AAA) AND CONDUCTED BY A SINGLE ARBITRATOR APPOINTED BY THE AAA, IN ACCORDANCE WITH ITS COMMERCIAL ARBITRATION RULES AND ITS SUPPLEMENTARY PROCEDURES FOR CONSUMER-RELATED DISPUTES.
+You may learn more about the AAA and its rules for arbitration by visiting www.adr.org or by calling 800-778-7879.
+Since the Service concerns a transaction in interstate or international commerce, the Federal Arbitration Act will apply.
+The filing fees to begin and carry out arbitration will be shared between you and VIZIO, but in no event will your fees ever exceed the amount allowable by the AAA, at which point VIZIO will cover all additional administrative fees and expenses.
+VIZIO waives its right to recover attorneysâ fees in connection with any arbitration under these Terms of Use.
+If you are the prevailing party in an arbitration to which the Supplementary Procedures for Consumer-Related Disputes applies, then you are entitled to recover attorneysâ fees as the arbitrator may determine.
+The dispute will be governed by the laws of the state or territory in which you resided at the time of your purchase (if in the United States).
+The place of arbitration will be Irvine, California, or your county of residence (if in the United States).
+The arbitrator will have no authority to award punitive or other damages not measured by the prevailing party's actual damages, except as may be required by statute.
+The arbitrator will not award consequential damages, and any award will be limited to monetary damages and will include no equitable relief, injunction, or direction to any party other than the direction to pay a monetary amount.
+Judgment on the award rendered by the arbitrator will be binding and final, except for any right of appeal provided by the Federal Arbitration Act, and may be entered in any court having jurisdiction.
+Except as may be required by law, neither you nor VIZIO nor an arbitrator may disclose the existence, content, or results of any arbitration under this warranty without the prior written consent of you and VIZIO.
+ANY DISPUTE, WHETHER IN ARBITRATION, IN COURT, OR OTHERWISE, WILL BE CONDUCTED SOLELY ON AN INDIVIDUAL BASIS.
+VIZIO AND YOU AGREE THAT NO PARTY WILL HAVE THE RIGHT OR AUTHORITY FOR ANY DISPUTE TO BE ARBITRATED AS A CLASS ACTION, A PRIVATE ATTORNEY GENERAL ACTION, OR IN ANY OTHER PROCEEDING IN WHICH EITHER PARTY ACTS OR PROPOSES TO ACT IN A REPRESENTATIVE CAPACITY.
+NO ARBITRATION OR PROCEEDING WILL BE JOINED, CONSOLIDATED, OR COMBINED WITH ANOTHER ARBITRATION OR PROCEEDING WITHOUT THE PRIOR WRITTEN CONSENT OF ALL PARTIES TO ANY SUCH ARBITRATION OR PROCEEDING.
+18.
+EXCEPTIONS TO BINDING ARBITRATION.
+CLASS ACTION WAIVER.
+
+IF YOU DO NOT WISH TO BE BOUND BY THE BINDING ARBITRATION AGREEMENT AND CLASS ACTION WAIVER, THEN: (a) you must notify VIZIO in writing within sixty (60) days of the date that you become a member of myVIZIO.
+(b) your written notification must be mailed to VIZIO at 39 Tesla, Irvine, CA 92618, Attn: Legal Department.
+and (c) your written notification must include (i) your name, (ii) your address, (iii) the date you became a member of myVIZIO, and (iv) a clear statement that you wish to opt out of the binding arbitration agreement and class action waiver.
+In addition, you may pursue a claim in small claims court in your county of residence (if in the United States) or in Orange County, California.
+In such case the provisions of the section titled âBinding Arbitration.
+Class Action Waiver (U.S.
+Residents Only)â will not apply.
+19.
+INTEGRATION AND SEVERABILITY.
+The Terms of Use (including the Policies) are the entire agreement between you and VIZIO with respect to the Service and use of myVIZIO and supersede all prior or communications and proposals (whether oral, written or electronic).
+If any provision of the Terms of Use is found to be unenforceable, other than the class action waiver, that provision will be limited to the extent necessary so that the Terms of Use will otherwise remain in full force and effect.
+If the class action waiver is found to be unenforceable, then the entire Section 17 (Binding Arbitration.
+Class Action Waiver (U.S.
+Residents Only)) will not apply.
+The failure of VIZIO to enforce any right or provision of these Terms of Use will not be deemed a waiver of such right or provision.
+20.
+GENERAL PROVISIONS.
+Your rights and obligations under the Terms of Use are personal, and are not assignable, transferable or subject to sublicense, except with VIZIO's prior written consent.
+VIZIO may assign, transfer or delegate any of its rights and obligations hereunder without consent.
+All waivers, consents and modifications must be in a writing signed by both parties.
+No agency, partnership, joint venture, or employment relationship is created as a result of the Service or these Terms of Use, and neither party has any authority of any kind to bind the other in any respect.
+All notices under the Terms of Use will be in writing and will be deemed to have been duly given when received, if personally delivered or sent by certified or registered mail.
+when receipt is electronically confirmed, if transmitted by fax or e-mail.
+or the day after it is sent, if sent by overnight delivery service (e.g., FedEx).
+21.
+COPYRIGHT AND TRADEMARK NOTICES.
+The Terms of Use and all content provided by VIZIO are copyright Â© 2018 VIZIO, Inc.
+and/or its licensors or suppliers.
+VIZIO is the trademark of VIZIO, Inc.
+The names and logos of VIZIO used in connection with myVIZIO and other VIZIO websites are the trademarks or registered trademarks of VIZIO.
+Other names and logos are the trademarks or registered trademarks of their respective owners.
+Any rights not expressly granted herein are reserved.
+22.
+PROCEDURE FOR CLAIMS OF COPYRIGHT INFRINGEMENT.
+Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement should be made according to the following instructions (Copyright Policy):
+If you believe that your work, content or information has been copied in a way that constitutes copyright infringement through the Service, please submit your complaint by email or physical mail as follows:
+
+Email: copyright@vizio.com
+
+Mailing Address:
+
+VIZIO, Inc.
+Attn: Copyright Agent
+39 Tesla
+Irvine, CA 92618
+You must provide the following information, which VIZIO may then forward to the alleged infringer:
+(1) Identify and describe the User Content or other material on the Service that you believe infringes your content;
+(2) Identify and describe where the content that you claim is infringing appeared or is located on the Service;
+(3) Provide your address, telephone number and email address;
+(4) Provide a statement, made under penalty of perjury, that: (a) you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law.
+(b) the information you have submitted is complete, accurate and true.
+and (c) you are the owner of the content involved or you are authorized to act on behalf of that owner.
+and
+(5) Provide your physical or electronic signature.
+Upon receiving your complaint, VIZIO may remove content that you believe infringes your content.
+In addition, VIZIO may terminate the account of the member who appears to be infringing your intellectual property rights. Be the first to receive VIZIO news, promotions, special offers, and more
+Join the Millions of VIZIO subscribers. Enter your email to join...
+
+ Sign Up Submit 
+View our Privacy Policy
+ Get to Know Us 
+ About VIZIO 
+ Careers 
+ VIZIO News 
+ VIZIO and the Environment 
+ Accessibility 
+ Official Retailers 
+ Our Products 
+ TVs 
+ Sound Bars 
+ SmartCastâ¢ 
+ Shop 
+ Customer Reviews 
+ Get Help 
+ Support Center 
+ Product Registration 
+ myVIZIO 
+ Safety Notice 
+ Check Order Status 
+ Community 
+ Facebook 
+ Twitter 
+ YouTube 
+ Instagram 
+ For Business 
+ Investors 
+ Content Partners 
+ Reseller 
+ Commercial 
+ Inscape 
+ VIZIO Advertising 
+
+
+Explore our full line of products.
+Shop online.
+
+ Â© 2021 VIZIO, Inc.
+All rights reserved.
+
+ Privacy Policy 
+ Terms of Service 
+ Website Terms of Use 
+ Shipping Terms &amp.
+Conditions 
+ Site Map 
+ Do Not Sell My Personal Information 
+ United States Select your location Close Select Your Location.
+
+
+
+ United States 
+ Canada 
+ loop focus Privacy Preference SettingsWhen you visit our website, we store cookies on your browser to collect information.
+The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience.
+However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer.
+Click on the different category headings to find out more and change our default settings according to your preference.
+You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.).
+For more information please follow this link.
+More informationAllow AllManage Cookie PreferencesStrictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems.
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
+&nbsp.
+ You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+These cookies do not store any personally identifiable information.Performance Cookies Performance CookiesThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.
+They help us to know which pages are the most and least popular and see how visitors move around the site.
+&nbsp.
+ All information these cookies collect is aggregated and therefore anonymous.
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.Targeting Cookies Targeting CookiesThese cookies may be set through our site by our advertising partners.
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.
+&nbsp.
+ They do not store directly personal information, but are based on uniquely identifying your browser and internet device.
+If you do not allow these cookies, you will experience less targeted advertising.Confirm My ChoicesBack ButtonBack Performance CookiesVendor Search Search Icon Filter IconClear Fliters Information storage and accessApplyAll Consent Allowed Select All Vendors Select All Hosts
+33Acrosshost descriptionView Cookies REPLACE-WITH-DYANMIC-HOST-ID
+Namecookie nameHostcookie hostDurationcookie durationTypecookie typeCategorycookie categoryDescriptioncookie category
+
+
+
+
+33AcrossView Privacy Notice3 Purposes REPLACE-WITH-DYANMIC-VENDOR-IDArrowConsent Purposes
+Location Based Ads
+Consent Allowed
+Legitimate Interest Purposes
+PersonalizeRequire Opt-Out Features
+Location Based Ads
+
+Confirm My ChoicesWe use cookies on this site to improve and optimize site functionality, secure the site, analyze site activity, and personalize your experience on the site and the ads that you receive.
+Click on the link to change your cookie settings or visit VIZIO's privacy page to learn more.
+By continuing to browse, you agree to our use of cookies.Privacy PolicyCustomize Settings Accept and Continue 
+      

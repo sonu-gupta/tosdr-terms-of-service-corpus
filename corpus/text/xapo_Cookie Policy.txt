@@ -1,0 +1,253 @@
+
+
+Cookie Policy
+
+
+Who are we?
+
+
+
+This website (âWebsiteâ) is owned and operated by Xapo Holdings Limited (âXapoâ).
+Any reference to âweâ or âusâ shall mean Xapo.
+
+
+
+What does this Policy do?
+
+
+
+In common with many other websites, we use small files on this Website called cookies to help provide you with the best possible online experience.
+The purpose of this Cookie Policy is to inform you about what cookies are, how we use them, and what you can do to control them.
+This Cookie Policy relates to this Website only.
+
+
+
+
+We may make changes to this Cookie Policy from time to time.
+We may notify you of such changes by any reasonable means, including by posting the revised version of this Cookie Policy on the Website.
+You can determine when we last changed this Cookie Policy by referring to the âLAST UPDATEDâ statement above.
+Your use of the Website following changes to this Cookie Policy will constitute your acceptance of those changes.
+Every time you wish to use the Website, please check this Cookie Policy to ensure you understand the terms that apply at that time.
+
+
+
+What are cookies?
+
+A cookie is a small text file that is placed on your computer, tablet or smartphone by websites that you visit.
+They are generally used to make websites function, or function more efficiently.
+They can allow you to access information that, perhaps, is limited to you as a registered user, or to remember your preferences, or record what you have put in your shopping basket.
+They also provide information to those operating a website, for example counting the number of people looking at a website, where they come from, the type of browser/device they use.
+We use cookies and similar technologies on this Website to personalize content and to analyze our traffic.
+By using and browsing this Website, you consent to cookies being used in accordance with this Cookie Policy.
+If you do not consent, you must turn off cookies or refrain from using the Website.
+You can turn off cookies in most browsers, but doing so may restrict your use of this Website and/or delay or affect the way in which it operates.
+Different browsers provide different means of configuring how cookies are handled.
+To find out more go to the appropriate web-based guidance page for your browser.
+
+
+
+
+Who sets these cookies?
+
+Both first-party and third-party cookies are used on this Website.
+First-party cookies are cookies set by us and which enable the Website to work as you might expect it to.
+They are also used to give us anonymised data about how our Website is being used, the browser, the type of device accessing it and where, generally, the device is located.
+Third-party cookies are set by others, but may also enable us to learn more about our visitors/customers, allowing us to provide a more personalised service, or in connection with advertising.
+We will ask for your permission to place cookies or other similar on your device, except where it is essential for us to use them in order to provide you with a service that you have requested.
+
+
+
+
+How do we use cookies?
+
+We use cookies in a number of ways to improve your experience of using the Website.
+Where applicable, these include:
+
+
+learning how you use the Website;
+
+
+
+
+showing you content that is relevant to you;
+
+
+
+
+
+The cookies that we use fall into six distinct groups:
+
+
+Essential: these cookies are necessary for the operation of this Website, or essential to the provision of the services you have requested. 
+
+
+
+
+Performance: these cookies measure how often you visit our sites and how you use them.
+They also allow us to calculate the number of visitors to this Website, see what those visitors do on the Website, how long they spend on the Website, and which links they click.
+These cookies help us to improve how this Website works, and enable us to make changes so that users stay longer or return more often.
+If you block these cookies, we will not be able to improve our services as easily.
+
+
+
+
+Targeting: similar to performance cookies, these cookies tell us which pages you visit, and the links you follow, so that we can make the Website more relevant to your interests.
+If you block these cookies, we will be unable to improve the experience our users get from our website.
+
+
+
+
+Advertising: these collect information about your visit to this Website, such as what you have looked at and the links you have followed, so that we can target our advertising at you, or exclude certain types of advertising that would not interest you.
+We can also gather information about your browser, device and your IP address.
+If you block these cookies, you may receive advertising that is not relevant to you.
+
+
+
+
+Third party cookies: these are used where we use third-party applications on the Website to customise the services that we provide, or to provide an increased functionality. 
+
+
+The following sets out how we use cookies in more detail:
+
+
+
+
+Cookies for measuring performance of the website
+
+By understanding how people use the Xapo website, we can make improvements to the navigation and content to make the site better and easier to access.
+We use cookies that allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it.
+This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+We use Unbounce cookies to collect information about how visitors interact with our site and landing pages.
+We use the information to compile reports and run A/B tests to determine which landing pages a visitor has visited and how they use our site.
+The cookies collect information in an anonymous form.
+
+
+
+
+Name: "ubpv"
+
+Purpose: Identifies which page variant the visitor was first routed to.
+This way, the returning visitor will see the same variant, and will not be rerouted to a random one.
+Expires: 184 days.
+
+
+
+
+Name:"ubvs" 
+
+Purpose: Provides the page visitor with a consistent experience upon returning to a landing page. 
+Expires: 180 days
+
+
+
+
+Name: "ubvt" 
+
+Purpose: Essential to external conversion tracking.
+This cookie identifies the visitor so conversions across subdomains can be recorded, primarily on pages where our external tracking script is installed. 
+Expires: 72 hours
+
+
+
+
+Name:"ubrs" 
+
+Purpose: Identifies which variant will be selected for each visitor.
+Possible values include serving the visitor the same landing page that they initially requested on subsequent visits, or indicating visitor routing based on variant weights. 
+Expires: This cookie expires when the visitor's browser session is closed.
+
+
+
+
+Name: "ub_tracking_id" 
+
+Purpose: Provides the page visitor with a consistent experience upon returning to an AMP page. 
+Expires: 1 year
+
+
+
+
+Name: "_sp_ses." 
+
+Purpose: Differentiates between different visits (i.e., how many times the user has visited the landing page). 
+Expires: 30 minutes
+
+
+
+
+Name: "_sp_id." 
+
+Purpose: Identifies a visitorâs activity on the domain between sessions.
+Possible values include the following: how many times the visitor accessed the domain, timestamp of the visitorâs first, last, and current visit, and the ID of the visitor and their current session. 
+Expires: 2 years
+
+
+We also use Hotjar to gather data on where users are clicking on pages and how they are viewing single and multiple pages.
+We use the information to compile reports and to help us improve the website.
+The cookies collect information in an anonymous form.
+
+
+
+
+
+
+Name: _hjid
+
+Purpose: Hotjar cookie.
+Set when the customer first lands on a page with the Hotjar script.
+It is used to persist the Hotjar User ID, unique to that site on the browser.
+This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.
+Expires: 365 days
+
+
+
+
+Name: _hjRecordingLastActivity
+
+Purpose: This should be found in Session storage (as opposed to cookies).
+This gets updated when a visitor recording starts and when data is sent through the WebSocket (the visitor performs an action that Hotjar records).
+Expires: This cookie expires when the visitor's browser session is closed.
+
+
+
+
+Name: _hjAbsoluteSessionInProgress
+
+Purpose: This cookie is used to detect the first pageview session of a user.
+This is a True/False flag set by the cookie.
+Expires: This cookie expires when the visitor's browser session is closed.
+
+
+
+
+Name: _hjFirstSeen
+
+Purpose: This is set to identify a new userâs first session.
+It stores a true/false value, indicating whether this was the first time Hotjar saw this user.
+It is used by Recording filters to identify new user sessions.
+Expires: This cookie expires when the visitor's browser session is closed.
+
+
+
+
+Name: _hjRecordingEnabled
+
+Purpose: This is added when a Recording starts and is read when the recording module is initialized to see if the user is already in a recording in a particular session.
+Expires: This cookie expires when the visitor's browser session is closed.
+
+
+
+
+For how long do our cookies last?
+
+The cookies we use last for different lengths of time.
+This depends upon the purpose for which they are used.
+Session cookies are temporary cookies which are stored only until you leave the Website, or you close your web browser.
+Persistent cookies last for a fixed period of time, defined within the cookie, and allow the Website to recognise the device again when the user returns to that website on that device.
+Last Updated: March 19th, 2021.
+
+
+Â© Xapo Holdings Limited 2021.
+All Rights Reserved.
+
+

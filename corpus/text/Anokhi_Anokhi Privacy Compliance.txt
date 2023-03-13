@@ -1,0 +1,208 @@
+
+
+About
+FAQs
+Blog
+Contact Us
+ Anokhi Privacy Compliance 
+Anokhiâs Compliance with Privacy Regulations
+
+
+What is 
+General Data Protection Regulation (GDPR)? 
+
+At its core, GDPR is a new set of rules designed to give EU citizens more control over their personal data.
+It aims to simplify the regulatory environment for business so both citizens and businesses in the European Union can fully benefit from the digital economy.
+
+Fundamentally, almost every aspect of our lives revolves around data.
+From social media companies, to banks, retailers, and governments â almost every service we use involves the collection and analysis of our personal data.
+Your name, address, credit card number and more all collected, analyzed and, perhaps most importantly, stored by organizations. 
+
+
+What are key provisions of the GDPR? 
+
+The GDPR defines personal data as any information related to a natural person (data subject) that can be used to directly or indirectly identify that person.
+It can be anything from a name, a photo, an email address, bank details, posts on social networking websites, medical information, or even a computer IP address. 
+Under such a broad definition, enterprises must take documented steps to limit access to all personal data to only authorized and credentialed employees with job roles that specifically require access to that data.
+Security breaches from lack enforcement of security protocols will be met with stiff fines and financial penalties under the GDPR.
+
+The GDPR also establishes specific rights with regard to data subjects.
+To comply with the GDPR, these codified rights must be acknowledged and implemented by all companies collecting personal data on EU citizens. 
+
+
+Consent 
+The GDPR specifically prohibits the use of long, convoluted terms and condition statements, particularly statements that contain legalese.
+Any request for consent, declaration of terms, or statement of privacy must be presented clearly and concisely, and without any ambiguity of meaning.
+Furthermore, it must be as easy to withdraw consent as it is to give it.
+
+The GDP also makes it crystal clear that businesses and organizations handling private or sensitive data must ask for consent and permission each and every time they access the data.
+Under the regulations, companies cannot ask for permission to access private data once and then consider that access to cover all future transactions.
+Under the GDPR, there is no such thing as a continuous blanket consent.
+each time data is used for a new purpose a new request for consent is required. 
+
+
+Breach notification 
+Compliance with the GDPR requires companies to notify all data subjects that a security breach has occurred within 72 hours of first discovering it.
+The method of this notification will include as many forms as deemed necessary to disseminate the information in a timely manner, including email, telephone message, and public announcement. 
+
+
+Right to access 
+The GDPR requires companies to provide, at the data subjectâs request, confirmation as to whether personal data pertaining to them is being processed, where it is being processed, and for what purpose.
+Companies must also be able to provide, free of charge, a copy of the personal data being processed in an electronic format. 
+
+
+Right to be forgotten 
+Under the GDPR, companies will erase all personal data when asked to do so by the data subject.
+At that point, the company will cease further dissemination of the data, and halt all processing.
+Valid conditions for erasure include situations where the data is no longer relevant, or the original purpose has been satisfied, or merely a data subjectâs subsequent withdrawal of consent. 
+
+
+Data portability 
+The GDPR requires companies to provide mechanisms for a data subject to receive any previously provided personal data in a commonly used and machine-readable format.
+Under this provision, the data subject also has the right to request the company transmit the data to another processor, free of charge. 
+
+
+Privacy by Design 
+Compliant companies must follow Privacy by Design principles and implement appropriate technical and organizational measures in an effective way to meet the requirements of the GDPR and protect the rights of data subjects.
+In practical terms, this provision means that companies will process only the data absolutely necessary for the completion of its business and limit access to personal data to only those employees needing the information to complete the process consented to by the data subject. 
+
+
+Data Protection Officers 
+Large enterprises wishing to comply with the GDPR will maintain thorough and comprehensive records pertaining to the collection, processing, and storage of personal data.
+In addition, these enterprises will designate a Data Protection Officer (DPO) to oversee the application of the GDPR and to protect personal data from misuse and unauthorized access and other security breaches.
+A DPO is required for any enterprise with over 250 employees or for any enterprise processing the personal data of over 5,000 data subjects in any 12-month period. 
+
+
+
+What is the California Consumer Privacy Act (CCPA)?
+
+In June 2018, the California legislature passed the CCPA.
+The CCPA is a privacy law is designed to give Californians more control over their personal information.&nbsp.
+The CCPAâs was created to address growing consumer concerns about data protection and provide California consumers with important controls over their personal information.&nbsp.
+Although it was passed in June 2018, the CCPA will go into effect on January 1, 2020.
+The CCPA has already been amended to include a grace period for businesses in which the Attorney General cannot bring an enforcement action until six months after final regulations have been published, or July 1, 2020, whichever is sooner.
+
+Data protections the CCPA introduces include:
+
+
+Right to access information â Consumers in California will be able to know the âwhat, who, and whyâ surrounding their personal information.
+Specifically, they can request the following, which must be provided in a portable format: 
+
+
+Which categories of personal information were collected, shared, or sold 
+Categories of sources from which this personal information was collected, with whom it was shared, and to whom it was sold to
+The specific pieces of personal information it has collected about that consume
+Why the personal information was collected 
+
+
+Right to deletion â Consumers in California will be able to request that a company delete the personal information it has collected about them.
+
+
+Right to opt out â Consumers in California will be able to direct a company to not sell their personal information to third parties.
+Itâs also important to note that the definition of âsellâ in the bill is broader than simply monetary exchange.
+
+It is interesting to note that CCPA has a broader definition of personal information than GDPR.&nbsp.
+The CCPAâs take on what constitutes âpersonal information,â as seen below, is even broader than GDPRâs definition:
+
+
+âPersonal informationâ is anything that identifies, relates to, describes, or is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household.
+
+
+
+How do we at Anokhi address GDPR and CCPA? 
+
+Our belief at Anokhi is that all data, personal or not, is owned by the consumer.
+&nbsp.
+And we are simply guardians of the data, on behalf of the consumer.
+Though GDPR and CCPA are similar, GDPR specifically controls the sale of consumer data without consent, while CCPA requires organizations provide information to the consumer about what, where and how the data is being used.
+Both provide provisions for the consumer to opt out, and otherwise delete or otherwise forget their data that is being stored.  
+
+We at Anokhi provide data banking services for consumers, and do so only with the expressed consent of the consumer.
+Data will not be sold, or otherwise monetized, unless explicitly authorized by the consumer.
+The consumer may withdraw consent at any time, and without notice.
+Letâs go through each of the GDPR and CCPA requirements one at a time.
+
+
+GDPR â Consent
+
+Anokhi will specifically ask for consent for every different data type (Location, app data, calendar, social media etc.) prior to storing it in the consumer data bank.&nbsp.
+No data will be stored in the consumerâs bank without consent.
+Anokhi will also ask for consent prior to generating derived or inferred data and storing that data in the data bank. 
+
+
+GDPR â Breach Notification
+
+At Anokhi, we take data security seriously.
+However, in case of any data breach, Anokhi will notify the consumer through the Anokhi application on Android or IOS, or via SMS or notifications services on the mobile phone, as applicable.  
+
+
+GDPR â Right to Access
+
+Upon request, Anokhi will provide the user complete access to the data being stored in the bank via a downloadable .csv (comma delimited format).
+
+
+GDPR â Right to be Forgotten
+
+The consumer can close the Anokhi data account at any time, and the data will be deleted.
+Optionally, the consumer can download a copy of all the data prior to deletion.
+
+
+GDPR â Data Portability
+
+Upon request, Anokhi will provide the user complete access to the data being stored in the bank via a downloadable .csv (comma delimited format).
+
+
+GDPR â Privacy By Design
+
+All data being stored by Anokhi will be stored securely and encrypted.
+Access to that data is only available to Anokhi employees cleared by the Data Protection Officers.    
+
+
+GDPR â Data Protection Officers
+
+In case of any questions, reports of misuse or comments, Anokhiâs DPO can be contacted at dpo@anokhi.ai.
+Anokhi maintains complete records of all transactions.
+
+
+CCPA â Right to access Information
+
+The Anokhi account application provides access to all categories of personal information, to whom it was shared and to whom it was sold.
+In addition, detailed data as to what specific pieces of personal information have been collected is available at all times through the application.
+
+
+CCPA â Right to Deletion
+
+The consumer can close the Anokhi data account at any time, and the data will be deleted.
+Optionally, the user can download a copy of all the data prior to deletion.
+
+
+CCPA â Right to Opt-Out
+
+With an Anokhi data bank account, the consumer always has the right to use the bank just to store data and not sell it or use it any way, and opt out of all use.
+&nbsp.
+The consumer can also opt out of using Anokhi completely by closing the account at any time.
+
+
+
+ About Us 
+About us
+Partner With Anokhi
+Anokhi Corporate Site
+Blog
+ Data Privacy 
+Terms and Conditions
+Privacy Resources
+Anokhi Privacy Compliance
+ Support 
+FAQs
+Contact
+ Â© 2019 Anokhi Inc Your choice regarding cookies on this siteWe use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits.
+By clicking "Accept", you consent to the use of ALL the cookies.
+However, you may visit Cookie Settings to provide a controlled consent.
+Cookie settingsACCEPTPrivacy &amp.
+Cookies Policy Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website.
+Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities...
+Necessary Necessary Always Enabled Necessary cookies are absolutely essential for the website to function properly.
+This category only includes cookies that ensures basic functionalities and security features of the website.
+These cookies do not store any personal information. Non-necessary Non-necessary Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies.
+It is mandatory to procure user consent prior to running these cookies on your website.

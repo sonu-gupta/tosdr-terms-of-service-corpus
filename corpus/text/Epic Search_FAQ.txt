@@ -1,0 +1,93 @@
+
+         What do you believe in? We believe that what you browse online should be private.
+What you browse is no oneâs business but your own.
+Itâs as simple as that.
+We believe privacy is essential to a free internet.
+When you're under surveillance or being tracked, you think twice before investigating certain ideas or visiting certain websites.
+Through internalized self-censorship, this creates a kind of prison in our minds.
+We believe in free investigation, free minds, and a free internet.
+Privacy is essential to all of those ends. Why should I worry about my browsing not being private? Your browsing history reveal a lot about who you are.
+It's often bundled with your offline data like your purchases,location, credit history, and personal identity and this data is sold on data exchanges every single day.
+It can and is being used to determine if you can get health or life insurance, what price to charge you at online stores, your job application status, and much more.
+Imagine visiting webpages on getting out of a speeding ticket one day then seeing your car insurance rates go up a few months later.
+Or visiting a site about diabetes treatments then applying for health insurance policies only to find all of them wonât cover âdiabetes related illness.â Beyond that, privacy is essential to freedom of thought.
+If you know you're under surveillance, you're significantly less likely to research or express minority views.
+The goal of a governmental surveillance system is to effectively build "prisons in our minds." Writers around the world are already reporting chilling self-censorship effects from government surveillance.
+Your browsing is personal and valuable, protect it. Are companies really using my browsing history to determine if I get a job or health insurance or other things? Yes.
+The Wall Street Journal reports that âWebsites Vary Prices based on User Informationâ so for example Kim and Trude who live a few miles apart saw a 10% difference in the price quoted online at the same website for the same product (WSJ Article).
+Offline data is being merged with online data and sold to insurance companies and others.
+The CEO of a data analysis firm that analyzes online data for insurance companies admits to buying junk food or hamburgers with cash to avoid being labeled as unhealthy (Economist Article).
+Those are just two examples.
+There are many, many more reported by the Washington Post, the New York Times, the Wall Street Journal and many other publications. Why should I use Epic? When you use the Epic Privacy Browser, you get privacy in a fast, simple browser.
+Have a fabulous browsing experience that's private.
+Protect your browsing and searches from your ISP (in many countries they can sell your browsing history), hundreds of companies tracking you, and governments. How does Epic protect my privacy? Epic does several things to protect your privacy.
+Epic by default removes all Google services from Chromium so that your browsing does not go through Googleâs servers.
+You can manually turn on Epicâs built-in encrypted proxy (basically an in-built VPN for the browser) anytime (itâs the icon at right in the address bar).
+Epic blocks thousands of trackers and widgets from tracking your browsing and searching across the internet.
+Epic has an encrypted data preference so whenever possible, Epic connects you securely.
+Epic always blocks third-party cookies and sends a do-not-track me signal.
+Epic never collects any data about your browsing or search queries beyond basic data tallies such as the bandwidth passing through our servers or the numerical count of searches performed in a day.
+Epic services such as auto-fill in the address bar are local so that what youâre typing is never sent to any server with the exception of video downloading which when selected does ping a server we operate.
+Epic is always in private browsing or incognito mode so that after you close Epic, your browsing data is deleted. Should I close Epic regularly? Yes, please do.
+Itâs helpful to close Epic regularly because this âcleansâ Epic out.
+Epic does allow first-party cookies and HTML5 data storage and a few other things without which most websites wouldnât work, so itâs important to âcleanâ your browser out of all that data regularly.
+Epic is always in private browsing mode, so when you close Epic it deletes all stored data â unlike other browsers no other effort on your part is required. Should I log into Gmail when I use Epic? If youâre doing searches via Google in Epic, then we would strongly recommend you not log into Gmail while using Epic.
+Googleâs new privacy policy allows it to aggregate your personal data across all its services.
+So if youâre logged into Gmail, then Google can track your searches. Where is Epic based? Which investors are backing Epic? Our software development team operates out of Bangalore.
+Graham Holdings (formerly the Washington Post Company) and a small group of angel investors are backing us. Does Epic provide total privacy? Could forensic recovery find my browsing data? Unfortunately no browser and no one at this point can provide total privacy and that includes Epic.
+Epic provides as much privacy as possible while still offering a fast, normal browsing experience â excellent protection from the general surveillance that is occurring.
+Epic blocks many but not all fingerprinting techniques and scripts.
+Plugins can leak your actual IP address as well as enable others to fingerprint you -- this shouldn't be a concern for most users as no plugins are active by default in Epic.
+When you use Epic's encrypted proxy, all of your browsing does pass through our encrypted proxy servers which is the one aspect of Epic which is not private-by-design.
+The single node does make Epic much faster than onion networks as well as secure.
+The TOR browser is highly private but can not be considered secure as many exit nodes are run by malicious hosts.
+Please note we never log any browsing history or website visits and have relayed as much to every single request by governmental agencies who've requested data from us.
+Forensic software tools can recover browsing data even after Epic is closed, a problem facing all browsers including the TOR browser.
+We haven't addressed this issue yet because it's quite difficult and would be cumbersome to do thoroughly as many OS files which are out of our control may cache some browsing data.
+In terms of other tools which are resistant to forensic recovery and extremely private, TAILS is probably the most reputable (be warned it's not easy to set up or use).
+ Is Epic like my current browser (chrome, ie, firefox)? Yes, but better.
+Epic is private and probably even faster.
+Epic is built on Chromium which is the same base as the Google Chrome browser.
+Since Epic blocks a lot of tracking scripts and other requests, web pages usually load up faster in Epic.
+Epic is always in a private browsing or incognito mode and has additional privacy protections to protect you from being tracked online. What about just using private browsing or incognito mode? Private Browsing or Incognito Mode doesnât stop anyone from tracking you.
+It prevents someone from looking at your browser's history and knowing what you browse, but it wonât protect your browsing and searches from being tracked.
+Your browsing history is still easily accessible via your dns cache even upon Incognito window close.
+When you search or browse in Incognito Mode, that data is generally going to Googleâs servers and hundreds of data collectors can continue to track you. What about using privacy addons in my Chrome or Firefox? Using privacy addons is not advisable because addons can access all your browsing, searches and almost everything you type in your browser.
+Thatâs why we block almost all addons â they represent a huge privacy risk.
+Moreover, many so-called privacy addons do in fact save and sell your browsing history (look up the popular addon "Web of Trust").
+Weâll also note that at present no set of privacy add-ons for any browser provides the full set of protection you get while running Epic. Why does Epic block almost all Addons or Extensions? Addons can access everything you type and do in the browser.
+Many have been found to save and sell your browsing history (look up the Web of Trust).
+While they can be very useful, they represent a very large security and privacy risk hence Epic only allows a few trusted addons. How is Epic built on Chromium? Isnât Chrome also built on Chromium? Chromium is an open source project led by Google and is the base of the Chrome browser.
+All the code in Chromium is free to use by anyone.
+Chromium was created by Google and also utlizes a great deal of open source code from KDE, Apple, Mozilla and others. Why worry about data collectors? Your browsing can be used to determine if you get health insurance, auto insurance, car insurance, a job and much more.
+Imagine subscribing to Weight Watcherâs magazine and being denied health insurance.
+The much-touted âBig Dataâ industry into which billions of dollars are being invested has designs to collect and use your personal data in such controversial ways. Whatâs the difference between Epic and Tor? TOR is a network that helps provide anonymity to browse the internet.
+You can get a TOR browser which is a version of Firefox which accesses the TOR network and has various privacy protections.
+TOR is an innovative product and effort.
+It's particularly useful when you suspect youâre being actively tracked and must have the highest level of anonymity at the expense of browsing speed and website functionality.
+For most users in their day-to-day browsing, Epic is likely a more natural choice since Epic is a browsing experience similar or even faster than your current browser â all the while providing great privacy.
+Please note neither the TOR network nor the TOR browser can be considered secure as TOR network nodes are run by volunteers which include some malicious groups.
+Malicious TOR hosts are reported to have carried out serious attacks including one on a cryptocurrency website which resulted in tens of millions of dollars of losses to TOR users according to one report.
+For even more privacy, TAILS which includes a TOR Browser is another tool to consider (though as mentioned above it's difficult to install and use). How does Epicâs built-in proxy protect my IP address? Epic includes an encrypted proxy (essentially a built-in, free VPN) that lets you choose servers in eight different countries (the US, UK, Canada, Germany, Netherlands, France, India, and Singapore) via clicking on the icon at the top right of the address bar.
+Using the proxy will route your browsing through a different IP address effectively hiding your actual IP.
+Please note that plugins can leak your actual IP so for maximum privacy, via Epic's settings, set them to disabled or click-to-play. Who powers Epicâs proxy service? For maximum speed and security, we run all the servers ourselves at present. How can I uninstall the Epic Privacy Browser? Windows users, please use the Windows Uninstall Programs.
+For Mac users, simply drag the Epic Privacy Browser icon into your trash icon. How does Epic protect against browser fingerprinting? There is no agreed-upon way to prevent browser fingerprinting or device fingerprinting at this point.
+There are many fingerprinting techniques which a solution would need to protect against.
+While we are working on a more thorough solution, at present Epic provides good protection against known fingerprinting scripts by simply blocking those scripts.
+Epic also directly blocks many prevalent fingerprinting methods including image canvas data, font canvas data, ultrasound signals, audiocontext, and battery status. If Epic is free, how will the company sustain itself? We expect to offer premium privacy services, sponsors on our new tab page, and search partners. Is Epic Open Source? All of Epic's code is visible and auditable by anyone.
+We are committed to complete transparency (as you know from reading this page) about how Epic works and doesn't work.
+We love open source software and Epic is built on open source Chromium.
+If you would like to audit any files, please let us know.
+We have released many files to developers who needed help -- so if you need help, just write us.
+If you would like to contribute to Epic, please write us with your specific background and what you'd like to work on.
+We'd love your help, but we've gotten many offers but no one has actually followed through with a contribution to date (it's okay, working on Chromium is hard :-).
+Chromium which Epic is built on is open source software which anyone can immediately download and audit.
+No one has written us regarding auditing chromium, but we'd love to hear ideas on how as a community we can continue to make sure Chromium is safe and private.
+If you have any questions, please write us. Why aren't so-called private search engines DuckDuckGo or Startpage offered in Epic? Why are you unable to trust them? They wrote us often -- until we asked them to tell us how they worked.
+Since then, they've refused to tell us what data they send to their partners Google/Bing to retrieve search ads.
+It's misleading to say you don't save any data if you're still sending it to other partners who are.
+Clicking on their ads sends you and your data directly to Google or Bing which is not disclosed plainly to users by either search engine.
+It's strange to call yourself a private search engine when your business model depends on sending your users' personal data to Bing or Google.
+We're thus unable to believe they offer any meaningful privacy benefit versus using Bing, Google or Yahoo directly. What happened to Epic's private search partnership with Google? Was Epic transparent about it and was it quite private? Google annulled it a few years ago.
+Yes, we were always transparent about how it worked and what data we shared.
+It was highly private as to retrieve search ads and on ad click, we relayed a user's masked IP address to provide an approximate location.

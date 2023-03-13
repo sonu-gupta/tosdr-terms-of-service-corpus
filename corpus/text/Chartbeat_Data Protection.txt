@@ -1,0 +1,161 @@
+
+         Opens in a new window Opens an external website Opens an external website in a new window Close this dialog This website stores data such as cookies to enable essential site functionality, as well as marketing, personalization, and analytics.
+You may change your settings at any time or accept the default settings.
+You may close this banner to continue with only essential cookies.
+Privacy Policy  Storage Preferences 
+
+ Marketing 
+ Personalization 
+ Analytics 
+ Save Accept All Reject All 
+ Close Cookie Preferences 
+ Products 
+ Chartbeat for Publishing 
+Dashboards
+Optimization
+Reporting
+Add-Ons
+
+
+ Datastream Real-Time Data Pipeline 
+
+
+ Resources 
+ Product Support 
+Help Center
+Documentation
+APIs
+Education
+
+
+ Industry &amp.
+Community 
+Blog
+Webinars
+Partnerships
+
+
+
+
+ Company 
+About
+Team
+Careers
+Press
+
+
+ Sign In 
+ Get a Demo 
+ Chartbeat and Data Protection 
+GDPR and CCPA compliance
+How Chartbeat products use data
+Customer Resources
+
+In light of General Data Protection Regulation (GDPR) obligations and the California Consumer Privacy Act (CCPA), Chartbeat wants our customers and users to know that we are committed to ensuring compliance and superior data protection.
+We have always held strict guidelines around consumer data privacy and data security.
+Since 2017, we have undergone an extensive data protection audit, appointed a data protection officer, and have been working to review and augment all of our data practices..
+Even though we have already achieved high levels of data security and protections, we continue to diligently work to enhance and improve our data privacy practices.
+Important: We wanted to provide this readiness summary as a plain English explanation of GDPR and the CCPA and our compliance efforts. This is not a legal document, nor is it meant to provide all legal terms related to our provision of the services to you. For legal terms, please see the relevant agreement between you and Chartbeat. GDPR and CCPA compliance The below FAQ addresses how Chartbeat is approaching GDPR and the CCPA, how our product works with regard to personal data, and what resources customers can access with respect to each.
+
+ What is GDPR? The General Data Protection Regulation (GDPR) is a European regulation adopted by the European Commission on data protection and privacy for the benefit of individuals located in the European Union.
+In short, it provides comprehensive data privacy protection for the personal data of EU individuals, focusing on transparency, accountability and the rights of data subjects. What is CCPA? The California Consumer Privacy Act (CCPA) is a California law on data protection and privacy for the benefit of California consumers.
+
+ What is Chartbeatâs approach to data? One of the earliest decisions Chartbeat made as a business â and one which we've stuck to steadfastly over the years â is to build our products with user privacy as a top priority.
+In light of GDPR and CCPA, we continue to evaluate and improve all of our data security, privacy, storage and data handling procedures and practices.
+Chartbeat does not sell any personal information.
+Beyond our product, Chartbeat continuously evaluates our data privacy and security practices around standard business operations (such as marketing, finance and sales) to ensure that we are GDPR- and CCPA-compliant now and in the future.
+
+ How can I learn more about Chartbeatâs commitment to complying with data protection laws? We will continue to enrich our data protection measures and communicate about them here on this site, and directly with our customers.
+
+ How Chartbeat products use data 
+ Does Chartbeat track personal data? In terms of the data we collect on behalf of our customers, Chartbeat obtains but does not store user internet protocol (IP) addresses and certain other online identifiers which constitute âPersonal Dataâ and personal information under GDPR and CCPAâs broad definition, respectively.
+Chartbeatâs products are designed to provide full functionality to our customers without needing any identifying information about our customerâs website visitors or consumers such as the name, email address or any similar information.
+We do not collect or store such information.
+Further, as a matter of data security and privacy, we also do not collect or store any sensitive or special categories of Personal Data or personal information.
+
+ What are IP addresses and why does Chartbeat obtain them? Every computer and device connected to the Internet is assigned an Internet Protocol (âIPâ) address.
+IP addresses, which need to be used by websites for the Internet to function, enable information to pass between computers and servers.
+Chartbeat uses IP addresses in order to provide our service.
+When visitors browse on websites using Chartbeat, Chartbeat code transmits information about what was read to our servers.
+This communication between browser and server necessarily involves IP addresses, as all Internet communication does.
+We use IP addresses to handle that data transmission.
+After receipt of this data, we strip identifying information from the IP addresses by masking the last octet, and use this masked IP address to identify the city and country in which a visitor is based.
+We then delete masked IP addresses from our systems within two hours of receipt.
+We do not use IP addresses in any other part of our system.
+In technical terms, this means that each IPâs final octet is converted to 000 before being processed by Chartbeat's systems and is never written to disk.
+Conversion to 000 prevents the address from being used to track back to an individual host.
+
+ Does Chartbeat set cookies? 
+Chartbeat does not set third-party cookies. We also do not take any steps to identify specific visitors (for example, we do not do browser fingerprinting or collect device IDs).
+There are two types of cookies: first-party cookies and third-party cookies.
+First-party cookies are controlled by website owners, and they are specific to that particular website.
+Third-party cookies, by contrast, are set by third parties and may be used to track visitors between domains.
+Chartbeat was designed with privacy in mind, and is a first-party analytics platform.
+This means that publishers who use our service can set first-party cookies on their sites using Chartbeat code, or they can run in cookieless mode.
+However, Chartbeat does not, under any circumstances, set third-party cookies on our publisherâs sites.
+
+ Customer Resources 
+ Have the GDPR changes affected my Terms of Service with Chartbeat? Yes.
+Chartbeatâs standard Terms of Service have been amended consistent with GDPR requirements and are located here.
+Customers governed by our standard Terms of Service will be automatically served by our Data Processing Addendum ("DPA") after May 25, 2018.
+Additionally, we will have updated our Privacy Policy, and other related documentation.
+
+ Have the CCPA changes affected my Terms of Service with Chartbeat? Yes.
+Chartbeatâs standard Terms of Service have been amended consistent with CCPA requirements and are located here.
+Additionally, we will have updated our Privacy Policy, and other related documentation.
+
+ How can I adjust the controls that I have over the data I share with Chartbeat? Chartbeat customers have the ability to manage and adjust controls over data they share with Chartbeat.
+Additionally, publishers can modify Chartbeat data settings, including running Chartbeat in cookieless mode.
+Please note that the only way to enter cookieless mode is for a developer to change the way that Chartbeat's code is implemented across the entire domain.
+Refer to our documentation guide or contact support@chartbeat.com if you have specific requests.
+
+ Where can I learn more about Chartbeatâs data security practices? For more information on our data security practices, you can access our data security policy here.
+
+
+
+Terms
+Privacy
+Your Privacy Settings
+Security &amp.
+Compliance
+
+
+
+
+Product
+Dashboards
+Reporting
+Optimization
+Add-ons
+
+
+Resources
+Help Center and FAQ
+Documentation
+Education
+APIs
+
+
+Company
+About
+Team
+Careers
+Press
+ Made to measure.
+Â© Chartbeat
+826 Broadway, Floor 6, New York, NY 10003
+hello@chartbeat.com ï½ 646.786.8472
+
+
+
+
+
+
+
+
+Get our latest research.
+Subscribe to our monthly newsletter.
+ Request a Demo First name*Last name*Business email*Company name*Website URL*Phone number*
+I agree to receive emails from Chartbeat and know I can unsubscribe at any time.*
+Sales Ready FormCIDgclid 
+      

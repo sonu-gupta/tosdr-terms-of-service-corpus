@@ -1,0 +1,29 @@
+
+         Cookie policy  POLICIES 
+Last updated: 2 June 2020
+
+
+
+This policy provides explains our view on cookies and lists the ones that we use along with an explanation of what they do and why we utilize them.
+All of our policies regarding data and its storage
+
+No logging of user activity policy
+Cookie policy
+Privacy policy (including GDPR)
+Swedish legislation relevant to us as a VPN provider
+Terms of service
+ Policy overview We never store data that isn't absolutely necessary, and if it is, then only upon the active request of a customer.
+This choice is deeply rooted in our culture and tied to our belief that everyone has a right to privacy.
+As a result, our website utilizes only a few cookies, all of which are essential for us to provide certain services and created only if a user actively chooses that service. All the cookies we use Yes, this is all of them!
+
+
+authToken (expires when the browser window is closed) â is created when you log into an account and automatically removed when you close your browser window
+
+language (expires when the browser window is closed) â is created when you choose a language preference for this website
+
+csrftoken (expires when the browser window is closed) â is created when you view almost any form on this website and prevents a malicious website from tricking you into submitting a POST request to us, otherwise known as cross-site request forgery
+
+__stripe_sid (expires after 30 minutes) â is implemented by Stripe and created when you proceed to the Stripe payment page
+
+__stripe_mid (expires after one year) â is implemented by Stripe and created when you proceed to the Stripe payment page.
+

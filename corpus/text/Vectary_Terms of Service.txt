@@ -1,0 +1,548 @@
+
+         Effective Date: January 17, 2022 PLEASE READ THESE TERMS OF SERVICE (âAGREEMENTâ) CAREFULLY.
+THE WEBSITE (âWEBSITEâ) OF VECTARY, INC.
+(âVECTARYâ), THE WEB APPLICATION (âAPPLICATIONâ) AND THE INFORMATION ON THE WEBSITE AND APPLICATION ARE CONTROLLED BY VECTARY.
+THESE TERMS OF SERVICE GOVERN (I) THE USE OF THE WEBSITE AND APPLICATION AND APPLY TO ALL USERS USING THE WEBSITE OR APPLICATION IN ANY WAY AND (II) THE SERVICES, SOFTWARE, AND RESOURCES AVAILABLE OR ENABLED VIA THE WEBSITE OR APPLICATION (EACH, A âSERVICEâ AND COLLECTIVELY, THE âSERVICESâ).
+THE SERVICES, AND THIS AGREEMENT, ALSO INCLUDE ANY USE OF PROJECTS (AS DEFINED BELOW) LINKED TO BY THE VECTARY WEBSITE AND/OR APPLICATION.
+By clicking the âAcceptâ button, completing the registration process, using any of the Services, and/or browsing the Website, you represent that (1) you have read, understand, and agree to be bound by the Terms of Service, (2) you are of legal age to form a binding contract with Vectary, and (3) you have the authority to enter into this Agreement personally or on behalf of the entity you have named as the user, and to bind that entity to this Agreement.
+The term âyouâ refers to the individual or legal entity, as applicable, identified as the user when you registered for an Account with Vectary through the Services.
+If you do not agree to be bound by this Agreement, you may not access or use the Services.
+IF YOU ARE A CONSUMER AND HAVE YOUR HABITUAL RESIDENCE IN THE UNITED STATES, SECTION 14 OF THIS AGREEMENT IS AN ARBITRATION CLAUSE THAT REQUIRES MOST DISPUTES BETWEEN US TO BE RESOLVED ON AN INDIVIDUAL, NON-CLASS ACTION BASIS THROUGH BINDING AND FINAL ARBITRATION INSTEAD OF IN COURT.
+SEE SECTION 14 FOR MORE INFORMATION REGARDING THIS ARBITRATION CLAUSE, AND HOW TO OPT OUT.
+IF YOU SUBSCRIBE TO ANY PAID ACCOUNT FOR AN INITIAL SUBSCRIPTION TERM, THEN THIS AGREEMENT WILL BE AUTOMATICALLY RENEWED FOR ADDITIONAL PERIODS OF THE SAME DURATION AS THE INITIAL TERM AT VECTARYâS THEN-CURRENT FEE FOR SUCH SERVICES UNLESS YOU OPT OUT OF THE AUTO-RENEWAL IN ACCORDANCE WITH SECTION 9.2 BELOW.
+
+
+Your use of the Services is also subject to any additional terms, conditions and policies that we separately post on the Website and/or the Application (âSupplemental Termsâ), which are subject to, and incorporated by reference into, this Agreement.
+To the extent there is any conflict between this Agreement and any Supplemental Terms, such Supplemental Terms will control with respect to the subject matter of such conflict.
+
+
+PLEASE NOTE THAT THE AGREEMENT IS SUBJECT TO CHANGE BY VECTARY IN ITS SOLE DISCRETION AT ANY TIME.&nbsp.
+WHEN CHANGES ARE MADE, VECTARY WILL MAKE A COPY OF THE UPDATED AGREEMENT AVAILABLE ON THE SERVICES AND UPDATE THE âLAST UPDATED DATEâ AT THE TOP OF THIS AGREEMENT.&nbsp.
+IF WE MAKE ANY MATERIAL CHANGES TO THE AGREEMENT, WE WILL PROVIDE NOTICE OF SUCH MATERIAL CHANGES ON THE SERVICES.
+ANY CHANGES TO THE AGREEMENT WILL BE EFFECTIVE IMMEDIATELY FOR NEW USERS OF THE SERVICES AND WILL BE EFFECTIVE FOR EXISTING REGISTERED USERS UPON THE EARLIER OF (A) THIRTY (30) DAYS AFTER THE âLAST UPDATED DATEâ AT THE TOP OF THESE TERMS OF SERVICE, OR (B) YOUR CONSENT TO AND ACCEPTANCE OF THE UPDATED AGREEMENT IF VECTARY PROVIDES A MECHANISM FOR YOUR IMMEDIATE ACCEPTANCE IN A SPECIFIED MANNER (SUCH AS A CLICK-THROUGH ACCEPTANCE), WHICH VECTARY MAY REQUIRE BEFORE FURTHER USE OF THE SERVICES IS PERMITTED.&nbsp.
+IF YOU DO NOT AGREE TO THE UPDATED AGREEMENT, YOU MUST STOP USING ALL SERVICES UPON THE EFFECTIVE DATE OF THE UPDATED AGREEMENT.&nbsp.
+OTHERWISE, YOUR CONTINUED USE OF ANY OF THE SERVICES AFTER THE EFFECTIVE DATE OF THE UPDATED AGREEMENT CONSTITUTES YOUR ACCEPTANCE OF THE UPDATED AGREEMENT.&nbsp.
+PLEASE REGULARLY CHECK THE SERVICES TO VIEW THE THEN-CURRENT AGREEMENT.
+YOU AGREE THAT VECTARYâS CONTINUED PROVISION OF THE SERVICES IS ADEQUATE CONSIDERATION FOR THE CHANGES IN THE UPDATED AGREEMENT.
+
+
+These terms create a legally binding contract.
+It may change as the Services change, and you agree you will review any updates regularly.
+ 1.
+Services.
+License Grant 
+1.1  Overview.
+The Services are intended to be an online collaborative platform that allows users to create and share 3D content, consisting of (a) Studio, an online editor where users can use predefined assets and objects to create 3D content (each, a âProjectâ), (b) Workspaces, where users can collaborate on Projects, (c) Public Project Link (Beta), where users can create a publicly accessible link to a Project that can be used on websites, tools and social media (such a Project, a âPublic Projectâ).
+Projects will be made public and accessible to the other users of the Services under the licensing terms set forth in Section 1.1.1.â
+
+
+
+1.1.1  License to Projects.&nbsp.
+Vectary does not claim ownership of Projects.&nbsp.
+However, when you share your Projects as cloneable, you agree to license such Projects under the terms of the Creative Commons âNo Rights Reservedâ (âCC0â).
+For the avoidance of doubt, you should not share any Projects based on Non-Vectary Resources as cloneable.
+You represent that you own such Project or have all necessary rights to such Project to enable you to license such Projects under the terms of the CC0.&nbsp.
+Please remember that other users may search for, see, use, modify and reproduce any of your cloneable Public Projects that you create and share by using the Services.
+Please note that this license does allow commercial uses of your cloneable Public Projects, as long as such use is compliant with the license terms.
+You agree that Vectary may provide attribution to you for your Public Projects through hyperlink and/or through providing a list of all user-contributors. 
+
+1.1.2  Re-Use of Projects. The Services contains Projects which are published by or created by other users, subject to the terms of the CC0.&nbsp.
+When re-using any Projects that we host, you agree to comply with the relevant attribution requirements of such license (or for any Non-Vectary Resources, you agree to comply with the relevant attribution requirements of the applicable license, whether CC0 or not).&nbsp.
+When modifying or making additions to Projects that you have obtained from the shared workspace provided by Vectary and decide to share them as cloneable, you agree to license the modified or added content under the CC0 or a later version thereof.
+
+
+
+
+
+
+1.2 
+License.  Subject to the terms and conditions of this Agreement, during the Subscription Term (as defined below), Vectary hereby grants you a non-exclusive, worldwide, royalty-free, non-transferable, non-sub-licensable right for you and your employees and independent contractors authorized by you to access and use the Services on your behalf (âAuthorized Usersâ) to access and use the Services on a remote basis, including any software programs and associated interfaces and related technology that Vectary makes available pursuant to this Agreement, in accordance with the standard end-user technical documentation, specifications, materials and other information Vectary makes available electronically at https://www.vectary.com/docs/ (the âDocumentationâ). 
+
+1.3 
+License Restrictions. You agree that you will not, and will not permit any other party to, directly or indirectly: (a) access or use the Services or use the Documentation except as expressly permitted herein.
+(b) modify, adapt, alter or translate the Services or Documentation, except as expressly allowed herein.
+(c) sublicense, lease, rent, loan, distribute, or otherwise transfer the Services or Documentation to any third party.
+(d) reverse engineer, decompile, disassemble, or otherwise derive or determine or attempt to derive or determine the source code (or the underlying ideas, algorithms, structure or organization) of the Services.
+(e) use or copy the Services or Documentation except as expressly allowed under this Agreement.
+or (f) disclose or transmit any data contained in the Services to any individual, except as expressly allowed herein.
+You acknowledge and agree that the Services and Documentation will not be used, and are not licensed for use, in connection with any of your time-critical or mission-critical functions.â
+
+The website and services are the property of Vectary.
+You may only access the website, application and/or Services in accordance with the Documentation.
+You may not do anything expressly prohibited in this section.
+ 2.
+Your Account 
+2.1&nbsp.
+Registering Your Account.&nbsp.
+In order to access the Services, you will be required to become a Registered User.
+For purposes of this Agreement, a âRegistered Userâ is a user who has registered an account on the Website (âAccountâ) or has a valid account on a social networking service (âSNSâ) through which the user has connected to the Services (each such account, a âSNS Accountâ).   
+
+
+
+
+
+2.1.1
+ Account Types.
+Vectary offers two types of Accounts: a free account with limited features (âFree Accountâ) or a paid professional account with additional features (âPaid Accountâ).
+With a Paid Account, you may have additional workspaces, which may allow you to invite other users and designate them as an âowner,â âviewerâ or âeditorâ for that specific workspace. â
+
+
+
+
+2.2  Access Through a SNS.&nbsp.
+If you access the Services through a SNS as part of the functionality of any of the Services, you may link your Account with your SNS Accounts by allowing Vectary to access your SNS Account, as is permitted under the applicable terms and conditions that govern your use of each SNS Account.&nbsp.
+You represent that you are entitled to disclose your SNS Account login information to Vectary and/or grant Vectary access to your SNS Account (including for use for the purposes described herein) without breach by you of any of the terms and conditions that govern your use of the applicable SNS Account and without obligating Vectary to pay any fees or making Vectary subject to any usage limitations imposed by such third-party service providers.
+By granting Vectary access to any SNS Accounts, you understand that Vectary may access, make available and store (if applicable) any information (including your name, email address and profile picture), data, and other materials accessible through the Services (collectively, âContentâ) that you have provided to and stored in your SNS Account (âSNS Contentâ) so that it is available on and through the Services via your Account.&nbsp.
+Please note that if a SNS Account or associated service becomes unavailable or Vectaryâs access to such SNS Account is terminated by the third-party service provider, then SNS Content will no longer be available on and through the Services.
+If you would like to disable the connection between your Account and your SNS Accounts, please contact support@vectary.com to link your Account to an email address instead of your SNS Account(s).&nbsp.
+PLEASE NOTE THAT YOUR RELATIONSHIP WITH THE THIRD-PARTY SERVICE PROVIDERS ASSOCIATED WITH YOUR SNS ACCOUNTS IS GOVERNED SOLELY BY YOUR AGREEMENT(S) WITH SUCH THIRD-PARTY SERVICE PROVIDERS, AND VECTARY DISCLAIMS ANY LIABILITY FOR INFORMATION THAT MAY BE PROVIDED TO IT BY SUCH THIRD-PARTY SERVICE PROVIDERS IN VIOLATION OF THE PRIVACY SETTINGS THAT YOU HAVE SET IN SUCH SNS ACCOUNTS.
+Vectary makes no effort to review any SNS Content for any purpose, including for accuracy, legality or noninfringement, and Vectary is not responsible for any SNS Content.
+
+2.3  Registration Data.&nbsp.
+In registering an account on the Website, you agree to (a) provide true, accurate, current and complete information about yourself as prompted by the registration form (the âRegistration Dataâ).
+and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete.&nbsp.
+You represent that you are (i) at least thirteen (13) years old.
+(ii) of legal age to form a binding contract.
+and (iii) not a person barred from using Vectaryâs Services under the laws of the United States, your place of residence or any other applicable jurisdiction.
+You are responsible for all activities that occur under your Account.
+You agree that you shall monitor your Account to restrict use by minors, and you will accept full responsibility for any unauthorized use of the Website and Services by minors.
+However, if you conclude that the Website and/or Services are appropriate for a minor for whom you are responsible, you may exercise your judgment to allow such minor to use the Website and/or Services under your close supervision.
+provided that you will remain responsible for any such use by such minor.
+You may not share your Account or password with anyone, and you agree to (y) notify Vectary immediately of any unauthorized use of your password or any other breach of security.
+and (z) exit from your Account at the end of each session.
+If you provide any information that is untrue, inaccurate, not current or incomplete, or Vectary has reasonable grounds to suspect that any information you provide is untrue, inaccurate, not current or incomplete, Vectary has the right to suspend or terminate your Account and refuse any and all current or future use of the Website or Services (or any portion thereof).
+You agree not to create an Account using a false identity or information, or on behalf of someone other than yourself.
+You agree that you shall not have more than one Account at any given time.
+Vectary reserves the right to remove or reclaim any usernames at any time and for any reason, including claims by a third party that a username violates the third partyâs rights.
+You agree not to create an Account or use any Services if you have been previously removed by Vectary, or if you have been previously banned from any of Vectaryâs products or services.
+
+2.4  Your Account.
+Notwithstanding anything to the contrary herein, you acknowledge and agree that you shall have no ownership or other property interest in your Account, and you further acknowledge and agree that all rights in and to your Account are and shall forever be owned by and inure to the benefit of Vectary. 
+
+In order to access certain features of the Services, you may need to register an Account or connect through a social networking account.
+You agree to provide true and accurate information when you register an Account on the Services.
+ 3.
+Proprietary Rights 
+3.1  Ownership by Vectary.&nbsp.
+The Services and Documentation are licensed and not sold to you, and no title or ownership to such Services, Documentation, or the intellectual property rights embodied therein passes as a result of this Agreement or any act pursuant to this Agreement.
+The Services and Documentation, and all intellectual property rights therein are the exclusive property of Vectary and its suppliers, and all rights in and to the Services and Documentation not expressly granted to you in this Agreement are reserved by Vectary.
+Vectary and its suppliers own all rights, title, and interest to the Services and Documentation.
+Nothing in this Agreement will be deemed to grant, by implication, estoppel or otherwise, a license under any existing or future patents of Vectary, except to the extent necessary for you to use the Services and Documentation as expressly permitted under this Agreement.
+You will not remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Services or the Documentation.
+
+
+3.2  Trademarks.&nbsp.
+Vectary trademark and all related graphics, logos, service marks and trade names used on or in connection with any of the Services are the trademarks of Vectary or its suppliers and may not be used without permission in connection with your, or any third-party, products or services. 
+
+3.3 
+Feedback. You hereby grant to Vectary a royalty-free, worldwide, transferable, sublicensable, irrevocable, perpetual license to use or incorporate into the Services or any other products or services of Vectary, any suggestions, enhancement requests, recommendations or other feedback provided by you, relating to the Services.
+Vectary will not identify you as the source of any such feedback.
+
+We own our Services, Documentation and our Trademarks.
+If you provide us with any comments or feedback about the website, application and/or Services, we have the right to use that feedback without any payment or other obligation to you.
+ 4.
+Your Data and Responsibilities 
+4.1  Your Data.&nbsp.
+âYour Dataâ consists of data, models, content, materials, text and other information made available to us by you through the use of the Services under this Agreement, including any Projects.&nbsp.
+You instruct us to use and disclose Your Data as necessary to (a) provide the Services consistent with this Agreement, including detecting, preventing, and investigating security incidents, fraud, spam, or unlawful use of the Services, and (b) respond to any technical problems or your queries and ensure the proper working of the Services.
+You acknowledge that the Internet and telecommunications providersâ networks are inherently insecure.
+Accordingly, you agree Vectary is not liable for any changes to, interception of, or loss of Your Data while in transit via the Internet or a telecommunications providerâs network.
+
+4.2&nbsp.
+License.
+Ownership.
+You are solely responsible for the accuracy, quality and legality of Your Data.&nbsp.
+You will obtain all third party licenses, consents and permissions needed for Vectary to use Your Data to provide the Services.&nbsp.
+Without limiting the foregoing, you will be solely responsible for obtaining from third parties all necessary rights for Vectary to use Your Data submitted by or on behalf of you for the purposes set forth in this Agreement.
+You grant Vectary a non-exclusive, worldwide, royalty-free and fully paid license (a) during the Term, to use Your Data as necessary for purposes of providing and improving the Services, and (b) during and after the Term, to use Your Data in an aggregated and anonymized form to: (i) improve the Services and Vectaryâs related products and services.
+(ii) create analytics and benchmarks.
+and (iii) generate and disclose statistics regarding use of the Services, provided, however, that no individually identifiable statistics will be disclosed to third parties without your consent.
+Your Data, and all worldwide intellectual property rights in it, is your exclusive property.
+All rights in and to Your Data not expressly granted to Vectary in this Agreement are reserved by you.
+
+4.3  
+Your Warranty.
+You represent and warrant that: (i) any Project you share or publish by using the Services is truthful, accurate, not misleading, and offered in good faith.
+(ii) you own the Project you post on or through the Services or otherwise have the right to grant the license set forth in this Agreement.
+(iii) the publication of your Projects on the Services will not require Vectary to obtain any further licenses from or pay any royalties, fees, compensation or other amounts or provide any attribution to any third parties.
+and (iv) the publication of your Projects on the Services does not result in a breach of contract between you and any third party.
+You further represent and warrant that any of Your Data will not (a) infringe any copyright, trademark, or patent.
+(b) misappropriate any trade secret.
+(c) be deceptive, defamatory, obscene, pornographic or unlawful.
+(d) contain any viruses, worms or other malicious computer programming codes intended to damage Vectaryâs system or data.
+and (e) otherwise violate the rights, including privacy or publicity rights, of a third party.
+Vectary is not obligated to back up any of Your Data.
+you are solely responsible for creating backup copies of any of Your Data at your sole cost and expense.
+You agree that any use of the Services contrary to or in violation of your representations and warranties in this Section 4.3 constitutes unauthorized and improper use of the Services.
+
+4.4  Your Responsibility for Data and Security.
+You will have access to Your Data and will be responsible for all changes to and/or deletions of Your Data and the security of all passwords and other access protocols required in order to access the Services.
+You will have the ability to export Your Data out of the Services and are encouraged to make its own back-ups of Your Data.
+You will have the sole responsibility for the accuracy, quality, integrity, legality, reliability, and appropriateness of all of Your Data.
+
+You own your Data (including Projects), but you provide us with a license to your Data to provide and improve the Services.
+ 5.
+Confidentiality 
+5.1  Confidential Information.
+ Subject to Section 5.3, all information disclosed by Vectary to you during the Term of this Agreement, whether oral, written, graphic or electronic, shall be deemed âConfidential Informationâ.
+The Services, Documentation, and all enhancements and improvements thereto shall be Confidential Information of Vectary.
+All data, other than Your Data, provided by Vectary to you in connection with the Services shall be Vectaryâs Confidential Information.  
+
+5.2&nbsp.
+Protection of Confidential Information.
+ You will not use any Confidential Information of Vectary for any purpose not permitted by this Agreement, and will disclose the Confidential Information of Vectary only to your employees or contractors who have a need to know such Confidential Information for purposes of this Agreement and are under a duty of confidentiality no less restrictive than your duties hereunder.
+ You will protect Vectaryâs Confidential Information from unauthorized use, access, or disclosure in the same manner as you protect your own confidential or proprietary information of a similar nature but with no less than reasonable care.
+
+5.3 
+Exceptions.
+ Your obligations under Section 5.2 with respect to Confidential Information of Vectary will not apply to any information that: (a) was already known to you at the time of disclosure by Vectary free of any obligation of confidentiality.
+(b) is disclosed to you free of any obligation of confidentiality by a third party who had the right to make such disclosure.
+(c) is, or through no fault of you has become, generally available to the public.
+or (d) is independently developed by you without access to, or use of, Vectaryâs Confidential Information.
+ In addition, you will be allowed to disclose Confidential Information of Vectary to the extent that such disclosure is (i) approved in writing by Vectary, (ii) necessary for you to enforce its rights under this Agreement in connection with a legal proceeding.
+or (iii) required by law or by the order or a court of similar judicial or administrative body, provided that you notify Vectary of such required disclosure promptly and in writing and cooperates with Vectary, at Vectaryâs reasonable request and expense, in any lawful action to contest or limit the scope of such required disclosure.
+
+
+Vectary may disclose Confidential Information to you, and you shall protect the confidentiality of any such Confidential Information of Vectary.
+ 6.
+Support 
+6.1  Support and Maintenance.  Subject to the terms and conditions of this Agreement, for any Paid Account, Vectary will exercise commercially reasonable efforts to (a) provide support for the use of the Services to you, and (b) keep the Services operational and available to you, in each case in accordance with its standard policies and procedures.
+For any Free Account, Vectary will have no obligation under this Agreement to correct any defects or errors in the Services or to otherwise support or maintain the Services.
+
+
+Vectary will provide support for Paid Accounts, but has no obligation to provide support to Free Accounts.
+ 7.
+Term and Termination 
+7.1  Term.  This Agreement will begin on the date that you accept it (in accordance with the preamble) (the âEffective Dateâ) and continue until terminated in accordance with the terms herein (the âTermâ).&nbsp.
+Subscriptions will commence as of the date Vectary confirms your selection of a monthly or annual subscription package and continue for the period set forth therein, unless terminated earlier in accordance with Section 7.2. 
+
+7.2  Termination of Agreement.
+ This Agreement will remain in full force and effect until terminated as set forth herein.
+You may terminate your Account, your access to the Services, and this Agreement at any time, for any reason, by logging into your Account and going to the âAccount Settingsâ page to delete your Account.
+provided, however, that you must cancel your subscription before it renews (i.e., in accordance with Section 9.2), in order to avoid the Fees for the renewal term.
+If you do not cancel the Services prior to the renewal term, you shall remain responsible for paying the Fees for the rest of the then-current subscription term.&nbsp.
+If timely payment cannot be charged to your Payment Provider for any reason, if you have materially breached any provision of the Agreement, or if Vectary is required to do so by law (e.g., where the provision of the Services is, or becomes, unlawful), Vectary has the right to, immediately and without notice, suspend or terminate any Services provided to you.
+You agree that all terminations for cause shall be made in Vectaryâs sole discretion and that Vectary shall not be liable to you or any third party for any termination of your Account.
+In addition to suspending or terminating your access to the Services, Vectary reserves the right to take appropriate legal action, including pursuing civil, criminal or injunctive redress.
+In addition, Vectary reserves the right to terminate your access to the Services and/or this Agreement if you have not paid for or used the Services in a 18 consecutive month period or without cause by providing you with reasonable advanced notice via email and/or through your Account.&nbsp.
+Even after your right to use the Services is terminated, this Agreement will remain enforceable against you and unpaid amounts you owe to Vectary will remain due.
+
+
+7.3 
+Effect of Termination.
+ Termination of any Service includes removal of access to such Service and barring of further use of the Service and the termination of any applicable licenses or rights.&nbsp.
+Termination of the Agreement or all Services also includes deletion of your password and all related information associated with or inside your Account (or any part thereof).
+Upon termination of any Service, your right to use such Service will automatically terminate immediately.
+Vectary will not have any liability whatsoever to you for any suspension or termination.
+Notwithstanding the foregoing, if Vectary terminates this Agreement for any reason other than your breach, Vectary will refund any prepaid fees for the remainder of the terminated portion of the Subscription Term.
+
+7.4&nbsp.
+Survival.  Sections 1.2, 1.3, 3, 7.3, 7.4, 9-12, 14 and 15 will survive the termination of this Agreement.
+
+
+We may terminate these Terms of Service or the Services at any time for cause, as described in this section.
+We may also terminate these Terms of Service or the Services at any time without cause by providing you with reasonable advance notice, as described in this section.
+You may terminate the Services at any time by closing your Account.
+If you do not act appropriately, we may suspend or discontinue your access to the Services.
+ 8.
+Third-Party Links 
+8.1  The Services may contain links to third-party services such as third-party websites, applications, or ads (âThird-Party Linksâ).
+When you click on such a link, we will not warn you that you have left the Services.
+Vectary does not control and is not responsible for Third-Party Links or any content, products or services accessible through such links.
+Vectary provides these Third-Party Links only as a convenience and does not review, approve, monitor, endorse, warrant, or make any representations with respect to them, or any content, products or services accessible through such links.
+Your use of all Third-Party Links is at your own risk.
+
+
+We may link to certain websites not owned by us, which are not subject to these terms.
+You access those sites at your own risk.
+ 9.
+Fees 
+9.1  Payment.
+We may charge for certain tools or features and functionality of the Services.
+You agree to pay all fees or charges in accordance with the fees, charges and billing terms in effect at the time a fee or charge is due and payable, as set forth on Vectaryâs Pricing Page available at https://www.vectary.com/pricing/.
+If you are using an Enterprise Account, the Subscription Term, payment method and payment terms set forth in the applicable Statement of Work shall govern your use of such Enterprise Account.
+If you are using a Premium Account, you must provide Vectary with a valid credit card (Visa, MasterCard, or any other issuer accepted by us) (âPayment Providerâ), as a condition to signing up for Services for which we charge.
+Your Payment Provider agreement governs your use of the designated credit card, and you must refer to that agreement and not this Agreement to determine your rights and liabilities.
+Vectary reserves the right at any time to change its prices and billing methods, either immediately upon posting through the Services or by e-mail delivery to you.
+
+9.2  Automatic Renewal.
+You will be responsible for payment of the applicable fee for any Services (each, a âService Subscription Feeâ) at the time you create your Premium Account and select your monthly or annual package (each, a âService Commencement Dateâ).
+ Your subscription will continue indefinitely until terminated in accordance with this Agreement.
+After your Initial Subscription Term, and again after any subsequent subscription period, your subscription will automatically renew for successive periods equal to the Initial Subscription Term (the âRenewal Subscription Termsâ), your current Service Subscription Fee, or if communicated to you by Vectary, at Vectaryâs then-current price for such subscription, unless you log into your Account and go to the account settings under the âPlans and Billingâ page and cancel before the end of the then-current subscription period.
+The âSubscription Termâ shall mean the Initial Subscription Term and any Renewal Subscription Terms.
+If you cancel your subscription, you may use your subscription until the end of your then-current Subscription Term.
+your subscription will not be renewed after your then-current term expires and you will be rolled back to a Free Account thereafter.&nbsp.
+However, you will not be eligible for a prorated refund of any portion of the subscription fee paid for the then-current subscription period.
+By subscribing, you authorize Paddle to charge your Payment Provider now, and again at the beginning of any subsequent subscription period.&nbsp.
+Upon renewal of your subscription, if Paddle does not receive payment from your Payment Provider, (a) you agree to pay all amounts due on your Account upon demand and/or (b) you agree that Vectary may either terminate or suspend your subscription and continue to attempt to charge your Payment Provider until payment is received (upon receipt of payment, your Account will be activated and for purposes of automatic renewal, your new subscription commitment period will begin as of the day payment was received).
+
+9.3 
+Taxes. Prices displayed on any Service are inclusive of any applicable sales tax, value added tax (VAT) or similar at the rate that is in force from time to time. 
+
+9.4&nbsp.
+Refunds. If you are a consumer and have your habitual residence in the European Union or the United Kingdom, you have the right to cancel your purchase of any subscription without reason within fourteen (14) days of the initial purchase and request a refund of the relevant Service Subscription Fee.
+If you use the relevant subscription at all during that fourteen (14)-day period, we reserve the right to pro-rate any refund to reflect such use.
+In order to request a refund, please inform us via email by an unequivocal statement (e.g., email in the following form: âVectary Inc., e-mail: support@vectary.com.
+I/We hereby give notice that I/We (*) hereby withdraw from the following Paid Account: [insert applicable Paid Account].â Any refund will be issued to the same payment method used for the relevant purchase. 
+
+9.5&nbsp.
+Third Party Provider.
+Vectary currently uses Paddle.com Inc (âPaddleâ) as the third-party service provider for payment services (e.g., card acceptance, merchant settlement, and related services).
+By providing Paddle with your credit card number and associated payment information, you agree that Paddle is authorized to immediately charge you for all fees and charges due and payable to Vectary hereunder and that no additional notice or consent is required.
+You agree to immediately notify Paddle of any change in your billing address or the credit card used for payment hereunder.
+By making payments through the Services, you agree to be bound by Paddleâs Privacy Policy and hereby consent and authorize Vectary and Paddle to share any information and payment instructions you provide with one or more third-party providers to the minimum extent required to complete your transactions.
+
+
+If you purchase any Paid Account, you will be charged a monthly or annual Subscription Fee (as applicable), which you agree will be automatically charged with the payment information provided to Paddle at the beginning of each Subscription Period until you cancel.
+ 10.
+Disclaimers of Warranties and Conditions 
+10.1  As Is. YOU EXPRESSLY UNDERSTAND AND AGREE THAT TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK, AND THE SERVICES ARE PROVIDED ON AN âAS ISâ AND âAS AVAILABLEâ BASIS, WITH ALL FAULTS.&nbsp.
+TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAW, VECTARY EXPRESSLY DISCLAIMS ALL WARRANTIES, REPRESENTATIONS, AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, ARISING FROM USE OF THE SOFTWARE.&nbsp.
+IF YOU ARE A CONSUMER AND HAVE YOUR HABITUAL RESIDENCE IN THE EUROPEAN UNION OR THE UNITED KINGDOM, APPLICABLE CONSUMER LAW MAY NOT ALLOW THE EXCLUSIONS OR LIMITATIONS ON IMPLIED WARRANTIES SET OUT THEREIN, SO SOME OR ALL OF THE ABOVE EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU.
+
+
+
+
+
+10.1.1  VECTARY MAKES NO WARRANTY, REPRESENTATION OR CONDITION THAT: (1) THE SERVICES WILL MEET YOUR REQUIREMENTS.
+(2) YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE.
+OR (3) THE RESULTS THAT MAY BE OBTAINED FROM USE OF THE SERVICES WILL BE ACCURATE OR RELIABLE.
+
+10.1.2  ANY CONTENT DOWNLOADED FROM OR OTHERWISE ACCESSED THROUGH THE SERVICES IS ACCESSED AT YOUR OWN RISK, AND YOU SHALL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY, INCLUDING YOUR COMPUTER SYSTEM AND ANY DEVICE YOU USE TO ACCESS THE SERVICES, OR ANY OTHER LOSS THAT RESULTS FROM ACCESSING SUCH CONTENT.
+
+10.1.3  THE SERVICES MAY BE SUBJECT TO DELAYS, CANCELLATIONS AND OTHER DISRUPTIONS.&nbsp.
+VECTARY MAKES NO WARRANTY, REPRESENTATION OR CONDITION WITH RESPECT TO SERVICES, INCLUDING THE QUALITY, EFFECTIVENESS, REPUTATION AND OTHER CHARACTERISTICS OF SERVICES.
+
+10.1.4  NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM VECTARY OR THROUGH THE SERVICES WILL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN.
+
+10.1.5  FROM TIME TO TIME, VECTARY MAY OFFER NEW âBETAâ FEATURES OR TOOLS WITH WHICH ITS USERS MAY EXPERIMENT.&nbsp.
+SUCH FEATURES OR TOOLS ARE OFFERED SOLELY FOR EXPERIMENTAL PURPOSES AND WITHOUT ANY WARRANTY OF ANY KIND, AND MAY BE MODIFIED OR DISCONTINUED AT VECTARYâS SOLE DISCRETION.&nbsp.
+THE PROVISIONS OF THIS SECTION APPLY WITH FULL FORCE TO SUCH FEATURES OR TOOLS.
+â
+
+
+10.2&nbsp.
+No Liability for Conduct of Third Parties.&nbsp.
+YOU ACKNOWLEDGE AND AGREE THAT VECTARY IS NOT LIABLE, AND YOU AGREE NOT TO SEEK TO HOLD VECTARY LIABLE, FOR THE CONDUCT OF THIRD PARTIES, INCLUDING OTHER USERS OF THE SERVICES AND OPERATORS OF EXTERNAL SITES, AND THAT THE RISK OF INJURY FROM SUCH THIRD PARTIES RESTS ENTIRELY WITH YOU.
+â
+
+10.3  No Liability for Non-Vectary Resources. VECTARY DOES NOT WARRANT, SUPPORT, NOR ACCEPT RESPONSIBILITY OF ANY KIND FOR ANY APPLICATION(S) AND/OR MATERIAL(S) THAT ARE DEVELOPED BY A PARTY BESIDES VECTARY, INCLUDING DESIGN FILES, PLUGINS, COMPONENT LIBRARIES, AND CODE COMPONENTS (âNON-VECTARY RESOURCESâ).
+
+
+You use the website, application and Services at your own risk.
+We do not make any warranties or guarantees.
+ 11.
+Indemnification 
+11.1  By Vectary.
+â
+
+
+
+
+11.1.1  Vectaryâs Obligation.  Subject to Section 11.1.3 below, Vectary will defend any suit brought against you by a third party to the extent that the suit is based upon a claim that the Services, as provided to you by Vectary, infringe such third partyâs United States copyrights or patents, or misappropriates such third partyâs trade secrets recognized as such under the Uniform Trade Secrets Act or such other similar laws, and Vectary will pay those costs and damages finally awarded against you in any such action or those costs and damages agreed to in a monetary settlement of such claim, in each case that are specifically attributable to such claim.
+ However, such defense and payments are subject to the conditions that: (a) Vectary will be notified promptly in writing by you of any such claim.
+(b) Vectary will have sole control of the defense and all negotiations for any settlement or compromise of such claim.
+and (c) you will cooperate and, at Vectaryâs request and expense, assist in such defense.
+ This Section 11.1 states Vectaryâs entire liability and your sole and exclusive remedy for any infringement and/or misappropriation claims.
+
+11.1.2 
+Alternative.  If your use of the Services is prevented by injunction or court order because of infringement, or should the Services be likely to become the subject of any claim in Vectaryâs sole opinion, you will permit Vectary, at the sole discretion of Vectary and no expense to you, to: (i) procure for you the right to continue using such Services in accordance with this Agreement.
+or (ii) replace or modify the Services so that it becomes non-infringing while providing substantially similar features.
+ Where (i) and (ii) above are not commercially feasible for Vectary, the applicable licenses will immediately terminate and Vectary will refund pro-rated fees for the remainder of the term to you.
+
+11.1.3&nbsp.
+Exclusions.  Vectary will have no liability to you for any claim of infringement or misappropriation to the extent based upon: (a) use of the Services not in accordance with this Agreement or the Documentation.
+(b) the combination of the Services with third party hardware or software not conforming to the operating environment specified in Documentation.
+or (c) any modification of the Services by any person other than Vectary (the âExclusionsâ).
+You will indemnify Vectary against all liability, damages and costs (including reasonable attorneysâ fees) resulting from any such Exclusions.
+â
+
+
+11.2  By You.&nbsp.
+You will indemnify, defend and hold Vectary and its directors, officers, affiliate, employees, agents, partners, licensors, and suppliers harmless from and against any and all actual or alleged third-party claims and accompanying liabilities, losses, damages, costs and expenses, including reasonable external attorneysâ fees arising out of or in connection with your breach or alleged breach of Section 4.3.
+
+
+We will be responsible for claims and liability for any allegations of infringement of a third partyâs intellectual property by the Services as provided by Vectary.
+You will be responsible for claims and liability that relate to your use of the Services.
+ 12.
+Limitation of Liability 
+12.1  TO THE FULLEST EXTENT PROVIDED BY LAW, IN NO EVENT WILL VECTARY BE LIABLE TO YOU OR ANY OTHER PARTY FOR ANY SPECIAL, PUNITIVE, INDIRECT, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT, OR ANY SERVICES OR SUPPORT SERVICES PROVIDED HEREIN, UNDER ANY LEGAL THEORY, INCLUDING LOSS OF DATA, LOSS OF THE USE OR PERFORMANCE OF ANY PRODUCTS OR SERVICES, LOSS OF REVENUES, LOSS OF PROFITS, OR BUSINESS INTERRUPTION, EVEN IF VECTARY KNOWS OF OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES.
+TO THE FULLEST EXTENT PROVIDED BY LAW, IN NO EVENT WILL VECTARYâS TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE TOTAL AMOUNT OF FEES RECEIVED BY VECTARY FROM YOU UNDER THIS AGREEMENT DURING THE SIX (6) MONTHS IMMEDIATELY PRECEDING SUCH CLAIM.
+THIS SECTION 12 WILL APPLY EVEN IF AN EXCLUSIVE REMEDY UNDER THIS AGREEMENT HAS FAILED OF ITS ESSENTIAL PURPOSE.
+
+12.2  EXCEPT FOR VECTARYâS OBLIGATIONS TO PROTECT YOUR PERSONAL INFORMATION AS SET FORTH IN VECTARYâS PRIVACY POLICY, VECTARY ASSUMES NO RESPONSIBILITY FOR THE TIMELINESS, DELETION, MIS-DELIVERY OR FAILURE TO STORE ANY DATA (INCLUDING YOUR DATA), USER COMMUNICATIONS OR PERSONALIZATION SETTINGS.
+
+12.3  THE LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN VECTARY AND YOU.
+
+
+We will not be liable to you for amounts greater than the amounts you pay to us during any 6-month period.
+ 13.
+Procedure for Making Claims of Copyright Infringement It is Vectaryâs policy to terminate membership privileges of any Registered User who repeatedly infringes copyright upon prompt notification to Vectary by the copyright owner or the copyright ownerâs legal agent.
+Without limiting the foregoing, if you believe that your work has been copied and posted on the Services in a way that constitutes copyright infringement, please provide our Copyright Agent with the following information: (a) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest.
+(b) a description of the copyrighted work that you claim has been infringed.
+(c) a description of the location on the Services of the material that you claim is infringing.
+(d) your address, telephone number and e-mail address.
+(e) a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law.
+and (f) a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright ownerâs behalf.
+Contact information for Vectaryâs Copyright Agent for notice of claims of copyright infringement is as follows: Copyright Agent (Legal Department)Vectary Inc.541 Jefferson Ave., Suite 100Redwood City, CA 94063Email: copyright@vectary.com
+
+
+Tell us if you think another user has violated your intellectual property rights on the Services, or if you think another user may have incorrectly reported that you violated such userâs intellectual property rights.
+ 14.
+Dispute Resolution 
+
+Please read the following arbitration agreement in this Section (âArbitration Agreementâ) carefully.
+ It requires you to arbitrate disputes with Vectary and limits the manner in which you can seek relief from us.
+
+
+
+14.1  Applicability of Arbitration Agreement
+. You agree that any dispute, claim, or request for relief relating in any way to your access or use of any of the Services, or to any aspect of your relationship with Vectary, will be resolved by binding arbitration, rather than in court, except that (1) you may assert claims or seek relief in small claims court if your claims qualify.
+and (2) you or Vectary may seek equitable relief in court for infringement or other misuse of intellectual property rights (such as trademarks, trade dress, domain names, trade secrets, copyrights, and patents).&nbsp.
+This Arbitration Agreement shall apply, without limitation, to all disputes or claims and requests for relief that arose or were asserted before the effective date of this Agreement or any prior version of this Agreement.
+ 
+
+14.2&nbsp.
+Arbitration Rules and Forum
+.
+The Federal Arbitration Act governs the interpretation and enforcement of this Arbitration Agreement.&nbsp.
+To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your dispute or claim or request for relief to our registered agent: National Registered Agents, Inc., 1209 Orange Street, Wilmington, Delaware 19801.&nbsp.
+The arbitration will be conducted by JAMS, an established alternative dispute resolution provider.
+ Disputes involving claims, counterclaims, or request for relief under $250,000, not inclusive of attorneysâ fees and interest, shall be subject to JAMSâs most current version of the Streamlined Arbitration Rules and procedures available at http://www.jamsadr.com/rules-streamlined-arbitration/.
+all other disputes shall be subject to JAMSâs most current version of the Comprehensive Arbitration Rules and Procedures, available at http://www.jamsadr.com/rules-comprehensive-arbitration/.&nbsp.
+JAMSâs rules are also available at www.jamsadr.com or by calling JAMS at 800-352-5267.&nbsp.
+If JAMS is not available to arbitrate, the parties will select an alternative arbitral forum.&nbsp.
+If the arbitrator finds that you cannot afford to pay JAMSâs filing, administrative, hearing and/or other fees and cannot obtain a waiver from JAMS, Vectary will pay them for you.&nbsp.
+In addition, Vectary will reimburse all such JAMSâs filing, administrative, hearing and/or other fees for disputes, claims, or requests for relief totaling less than $10,000 unless the arbitrator determines the claims are frivolous.  You may choose to have the arbitration conducted by telephone, based on written submissions, or in person in the country where you live or at another mutually agreed location.&nbsp.
+Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
+
+14.3&nbsp.
+Authority of Arbitrator.
+ The arbitrator shall have exclusive authority to (a) determine the scope and enforceability of this Arbitration Agreement and (b) resolve any dispute related to the interpretation, applicability, enforceability or formation of this Arbitration Agreement including any assertion that all or any part of this Arbitration Agreement is void or voidable.&nbsp.
+The arbitration will decide the rights and liabilities, if any, of you and Vectary.&nbsp.
+The arbitration proceeding will not be consolidated with any other matters or joined with any other cases or parties.
+ The arbitrator shall have the authority to grant motions dispositive of all or part of any claim.
+The arbitrator shall have the authority to award monetary damages and to grant any non-monetary remedy or relief available to an individual under applicable law, the arbitral forumâs rules, and the Agreement (including the Arbitration Agreement).
+The arbitrator shall issue a written award and statement of decision describing the essential findings and conclusions on which the award is based, including the calculation of any damages awarded.
+ The arbitrator has the same authority to award relief on an individual basis that a judge in a court of law would have.
+ The award of the arbitrator is final and binding upon you and us.
+
+
+14.4  Waiver of Jury Trial.
+ YOU AND VECTARY HEREBY WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO SUE IN COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY.&nbsp.
+You and Vectary are instead electing that all disputes, claims, or requests for relief shall be resolved by arbitration under this Arbitration Agreement, except as specified in Section 14.1 above.
+ An arbitrator can award on an individual basis the same damages and relief as a court and must follow this Agreement as a court would.&nbsp.
+However, there is no judge or jury in arbitration, and court review of an arbitration award is subject to very limited review.
+ 
+
+14.5  Waiver of Class or Other Non-Individualized Relief.
+ ALL DISPUTES, CLAIMS, AND REQUESTS FOR RELIEF WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST BE ARBITRATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS OR COLLECTIVE BASIS, ONLY INDIVIDUAL RELIEF IS AVAILABLE, AND CLAIMS OF MORE THAN ONE CUSTOMER OR USER CANNOT BE ARBITRATED OR CONSOLIDATED WITH THOSE OF ANY OTHER CUSTOMER OR USER.&nbsp.
+If a decision is issued stating that applicable law precludes enforcement of any of this sectionâs limitations as to a given dispute, claim, or request for relief, then such aspect must be severed from the arbitration and brought into the State or Federal Courts located in the State of Delaware.&nbsp.
+All other disputes, claims, or requests for relief shall be arbitrated.  
+
+14.6  30-Day Right to Opt Out.
+You have the right to opt out of the provisions of this Arbitration Agreement by sending written notice of your decision to opt out to: contact@vectary.com, within thirty (30) days after first becoming subject to this Arbitration Agreement.
+Your notice must include your name and address, your Vectary username (if any), the email address you used to set up your Vectary account (if you have one), and an unequivocal statement that you want to opt out of this Arbitration Agreement.&nbsp.
+&nbsp.
+If you opt out of this Arbitration Agreement, all other parts of this Agreement will continue to apply to you.&nbsp.
+Opting out of this Arbitration Agreement has no effect on any other arbitration agreements that you may currently have, or may enter in the future, with us.
+
+14.7  Severability
+.
+Except as provided in Section 14.5, if any part or parts of this Arbitration Agreement are found under the law to be invalid or unenforceable, then such specific part or parts shall be of no force and effect and shall be severed and the remainder of the Arbitration Agreement shall continue in full force and effect.
+
+14.8 
+Survival of Agreement
+.
+This Arbitration Agreement will survive the termination of your relationship with Vectary.
+
+14.9&nbsp.
+Modification.&nbsp.
+Notwithstanding any provision in this Agreement to the contrary, we agree that if Vectary makes any future material change to this Arbitration Agreement, you may reject that change within thirty (30) days of such change becoming effective by writing Vectary at the following address: Vectary, Inc., contact@vectary.com.
+
+
+We will use arbitration to resolve any claims between us, and you cannot join a class action lawsuit or obtain a jury trial for any disputes you have with us related to the use of the website and Services.
+ 15.
+General 
+15.1  Electronic Communications.&nbsp.
+The communications between you and Vectary may take place via electronic means, whether you visit any of the Services or send Vectary e-mails, or whether Vectary posts notices on the Website or other Services or communicates with you via e-mail.&nbsp.
+For contractual purposes, you (a) consent to receive communications from Vectary in an electronic form.
+and (b) agree that all terms and conditions, agreements, notices, disclosures, and other communications that Vectary provides to you electronically satisfy any legal requirement that such communications would satisfy if it were to be in writing.&nbsp.
+The foregoing does not affect your statutory rights, including the Electronic Signatures in Global and National Commerce Act at 15 U.S.C.
+Â§7001 et seq.
+(âE-Signâ).
+
+15.2  Notice.&nbsp.
+Where Vectary requires that you provide an e-mail address, you are responsible for providing Vectary with your most current e-mail address.&nbsp.
+In the event that the last e-mail address you provided to Vectary is not valid, or for any reason is not capable of delivering to you any notices required/permitted by the Agreement, Vectaryâs dispatch of the e-mail containing such notice will nonetheless constitute effective notice.    
+
+15.3&nbsp.
+Relationship of Parties.  The parties hereto are independent contractors.
+ Nothing in this Agreement will be deemed to create an agency, employment, partnership, fiduciary or joint venture relationship between the parties.
+
+15.4 
+Publicity.
+ Vectary may use your name and a description of your use of the Services for investor relations and marketing purposes.
+
+15.5&nbsp.
+International Users.&nbsp.
+The Services can be accessed from countries around the world and may contain references to Services and content that are not available in your country.
+These references do not imply that Vectary intends to announce such Services or content in your country.
+Vectary makes no representations that the Services are appropriate or available for use in your country or any other countries.
+Those who access or use the Services do so at their own volition and are responsible for compliance with local law.
+
+15.6 
+Compliance with Export Control Laws.  The Services may contain encryption technology controlled under U.S.
+export law, the export of which may require an export license from the U.S.
+Commerce Department.
+ You will comply with all applicable export control laws and regulations of the U.S.
+and other countries.
+In particular, but without limitation, the Services may not be exported or re-exported (a) into any United States embargoed countries, or (b) to anyone on the U.S.
+Treasury Departmentâs list of Specially Designated Nationals or the U.S.
+Department of Commerceâs Denied Persons List or Entity List.
+You will defend, indemnify, and hold harmless Vectary from and against all fines, penalties, liabilities, damages, costs and expenses (including reasonable attorneysâ fees) incurred by Vectary as a result of your breach of this Section 15.6.
+
+15.7&nbsp.
+Assignment.  You may not assign or transfer, by operation of law, merger, change of control, or otherwise, any of its rights or delegate any of its duties under this Agreement (including its licenses and rights in connection with the Services) to any third party without Vectaryâs prior written consent.
+ Any attempted assignment or transfer in violation of the foregoing will be null and void.
+ Vectary may assign its rights or delegate its obligations under this Agreement.
+
+15.8 
+Governing Law and Venue.  This Agreement will be governed by the laws of the State of Delaware, excluding any conflict of law provisions that would require the application of the laws of any other jurisdiction.
+ The United Nations Convention on Contracts for the International Sale of Goods shall not apply to this Agreement.
+ Any action or proceeding arising from or relating to this Agreement must be brought exclusively in a federal or state court located in the State of Delaware.
+ Each party irrevocably consents to the personal jurisdiction and venue in, and agrees to service of process issued by, any such court.
+IF YOU ARE A CONSUMER AND HAVE YOUR HABITUAL RESIDENCE IN THE EUROPEAN UNION OR THE UNITED KINGDOM, YOU MAY BENEFIT FROM ADDITIONAL RIGHTS AND PROTECTION AFFORDED TO YOU BY MANDATORY PROVISIONS OF THE LAW OF YOUR COUNTRY OF RESIDENCE, AND NOTHING IN THIS AGREEMENT SHALL AFFECT THE ENFORCEABILITY OF THESE ADDITIONAL RIGHTS AND PROTECTION.
+
+15.9 
+Force Majeure.  Any delay in or failure of performance by either party under this Agreement, other than a failure to pay amounts when due, will not be considered a breach of this Agreement and will be excused to the extent caused by any occurrence beyond the reasonable control of such party, including acts of God, war, terrorism, riots, embargos, acts of civil or military authorities, fire, floods, accidents, strikes or shortages of transportation facilities, fuel, energy, labor or materials.
+
+15.10 
+Remedies.  Except as expressly provided elsewhere in this Agreement, the partiesâ rights and remedies under this Agreement are cumulative.
+ You acknowledge that the Services contains valuable trade secrets and proprietary information of Vectary, that any actual or threatened breach of Sections 1.2 or 1.3 will constitute immediate, irreparable harm to Vectary for which monetary damages would be an inadequate remedy, and that injunctive relief is an appropriate remedy for such breach.
+ 
+
+15.11  Waiver.
+Severability.  Any waiver or failure to enforce any provision of this Agreement on one occasion will not be deemed a waiver of any other provision or of such provision on any other occasion.
+ If any provision of this Agreement is adjudicated to be unenforceable, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
+
+15.12  Construction.  The Section headings of this Agreement are for convenience and will not be used to interpret this Agreement.
+ As used in this Agreement, the word âincludingâ means âincluding but not limited to.â
+
+15.13 
+Entire Agreement.
+The Agreement is the final, complete and exclusive agreement of the parties with respect to the subject matter hereof and supersedes and merges all prior discussions between the parties with respect to such subject matter.
+
+
+You consent to receiving electronic communications.
+These Terms of Service will be governed by the laws of Delaware.
+Any dispute resolution will occur in Delaware.
+If any part of this Agreement is not enforceable, the rest of the Agreement remains in effect.
+This Agreement alone controls our relationship.
+ Previous Terms of Service 
+
+
+
+â¢ April 18, 2019
+
+

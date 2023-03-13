@@ -1,0 +1,25 @@
+
+         TLDR.
+You have full control and responsibility over your data.
+We have a mimimum-collection policy.
+Aside from essential data required to keep the service running, we are not collecting additional user or tracking data.
+User contributions
+For all data you contribute (for example code, content, repositories, account details and settings), you have full responsibility and control to add, modify, create this data.
+If some data cannot be modified by users, this is considered a technical bug that needs urgent fixing.
+Please report all issues to the Codeberg.org Community Issue Tracker.
+Backup files
+After you deleted your data in your account, rotating off-line backup files can continue to exist for up to 30 days according to GDPR guidelines.
+IP logging
+Server log files can contain client IP addresses and user agent strings from connecting computers.
+These log files are destroyed automatically within at most seven days.
+Codeberg e.V.
+membership data
+Law requires us to maintain up-to-date records of our membership data.
+This is the data you enter in the join.codeberg.org form if you wish to join the Codeberg e.V., name, address, contact address and bank connection.
+This record is encrypted with public-key encryption immediately after form submission.
+In addition to the data record entered by the user, the join form adds the registration timestamp and client IP, to detect and block abuse.
+Records from testing service and pre-announcement subscription list
+The pre-announcement subscription list was intended for single use only and has been deleted after announcement of the Codeberg.org launch.
+Accounts on pre-announcement testing services have been migrated to Codeberg.org, where possible.
+These accounts and the connected data can be deleted using the "Delete Account" button on your personal account page.
+All unused data from testing servers has been deleted after launch.

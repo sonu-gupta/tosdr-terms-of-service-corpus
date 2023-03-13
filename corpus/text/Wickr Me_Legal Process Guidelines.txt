@@ -1,0 +1,140 @@
+
+        What is Wickr
+Wickr Me is a free app that provides end-to-end encryption of text, picture, audio and video messages.
+Senders control who can read their messages and when they expire.
+Encrypted messages are stored on our servers and are deleted after they are downloaded to the recipientâs device(s).
+We do not have plaintext copies of messages exchanged through our system or the keys to decrypt user content.
+We canât read any of the messages sent through Wickr Messenger, nor do we know who our users are, or with whom they communicate.
+
+Wickr Pro is a separate collaboration platform that allows its customers to create secure professional networks within which to send messages and files.
+Senders control who can read their messages and when they expire.
+Encrypted messages are stored on our servers and are deleted after they are downloaded to the recipientâs device(s).
+We do not have plaintext copies of content exchanged through our system or the keys to decrypt user content.
+As Wickr business tools are designed to be used within professional environment, each customer network is managed by the customerâs administrator who can invite users within and outside of the enterprise.
+Wickr is committed to operating in an environment of complete transparency and to cooperating with law enforcement while respecting each individualâs right to privacy.
+Wickr responds to valid legal process issued in compliance with U.S.
+law.
+Requests for user account information from U.S.
+law enforcement should be directed to Wickr through proper service of process.
+Service of Process
+Wickr accepts service of court orders, search warrants, and subpoenas for information by email from law enforcement and government agencies, provided that these legal requests are sent from an official government email address of the requesting agent.
+Law enforcement and/or government agencies should submit legal requests directly from their official government email address to legal@wickr.com.
+Private Information Requires a Subpoena or Court Order
+Non-public information about Wickr usersâ accounts will not be released to law enforcement except in response to appropriate legal process such as a subpoena, court order, or other valid legal process.
+Contents of Communications Are Not Available
+Requests for the contents of communications require a valid search warrant from an agency with proper jurisdiction over Wickr.
+However, our response to such a request will reflect that the content is not stored on our servers or that, in very limited instances where a message has not yet been retrieved by the recipient, the content is encrypted data which is indecipherable.
+What Must Be Included in Account Information Requests?
+Law enforcement or government requests for user information must include:
+
+Identifying information of the account for which information is requested, such as User ID or phone number (please note that phone numbers will only yield responsive information when the user has enabled ID Connection)
+A description of information being sought
+
+The descriptions should be as narrow and specific as possible in order to avoid misinterpretation and/or objections for overly broad requests.
+Wickr will construe received requests narrowly to maintain usersâ privacy and ensure that any information disclosed does not exceed the scope of the request.
+Further, Wickr requires law enforcement and/or government agencies to include the following information so that requests for user information may be validated:
+
+Requesting law enforcement/government agency
+Requesting agent name and badge/ID number
+Valid agency e-mail address and physical return address
+Phone number of requesting agent, including extension when applicable
+Response due date
+A copy of the court order, warrant, or subpoena
+
+Will Wickr Notify Users of Requests for Account Information?
+Wickrâs policy is to notify users of requests for their account information prior to disclosure including providing user with a copy of the request, unless we are prohibited by law from doing so or if there is danger of death or serious physical injury.
+As soon as legally permitted to do so, we will notify our users of requests for their information.
+What Information Does Wickr Store?
+
+
+Wickr has the following information about user accounts on Wickr Messenger:
+
+
+
+Date an account was created
+Type of device(s) on which such account was used
+Date of last use
+Total number of sent/received messages
+Number of external IDâs (email addresses and phone numbers) connected to the account, but not the plaintext external IDs themselves
+Avatar image (if user elected to provide one)
+Limited records of recent changes to account settings such as adding or suspending a device (does not include message content or routing and delivery information)
+Wickr version number
+
+
+
+Wickr has the following information about user accounts on Wickr Pro:
+
+
+
+Network affiliation
+Wickr Pro ID (email address)
+Phone number, if provided by network administrator as a second form of authentication
+Date an account was created
+Type of device(s) on which an account was used
+Date of last use
+Total number of sent/received messages
+Avatar image (if user elected to provide one)
+Limited records of recent changes to account settings such as adding or suspending a device (does not include message content or routing and delivery information)
+
+Wickr has the following information about network administrator accounts on Wickr Pro:
+
+Administrator ID (email address)
+Network membership
+Payment-related information
+Network-wide settings including limited records of recent changes to network settings (i.e.
+enabling or disabling federation)
+
+
+For Wickr Pro, the configuration of each network may vary depending on the enterprise needs.
+Thus, the information Wickr may be able to provide in response to a lawful request for user information will vary as well.
+
+Emergency Disclosure Requests
+Wickr may provide information to law enforcement in response to a valid emergency disclosure request.
+We review emergency disclosure requests on a case-by-case basis and evaluate them under applicable law (e.g., 18 U.S.C.
+Â§ 2702).
+If we receive information that gives us a good-faith belief that there is an exigent emergency involving the danger of death or serious physical injury to a person, we may provide information to law enforcement to prevent that harm, if we have it.
+Law enforcement officers can submit an emergency disclosure request via email:legal@wickr.com.
+
+Emergency disclosure requests must be on law enforcement letterhead and include all of the following information:
+
+Identity of the person who is in danger of death or serious physical injury;
+The nature of the emergency;
+Wickr ID (user name) of the subject account(s) whose information is necessary to prevent the emergency;
+The specific information requested and why that information is necessary to prevent the emergency;
+The signature of the submitting law enforcement officer.
+and
+Any other relevant details about the circumstances that we should take into account.
+
+Preservation Requests
+Upon receipt of a valid preservation request from law enforcement under applicable law, we will temporarily preserve the relevant account records for 90 days pending service of legal process.
+We will only disclose preserved records upon receipt of valid legal process.
+Preservation requests should be on law enforcement letterhead, signed by the requesting official, and include a valid official email address.
+Preservation requests may be submitted via the methods described above.
+Responding to Civil Subpoenas
+
+
+Account Content
+
+
+Federal law does not allow private parties to obtain account contents (e.g., messages, attachments, etc.) from electronic communication service providers through civil subpoenas.
+See the Stored Communications Act, 18 U.S.C.
+Â§ 2702.
+Parties to litigation may satisfy party and non-party discovery requirements by seeking the contents of an account directly from the user.
+Wickr does not preserve account content in response to a request from a private party.
+
+
+Customer Records
+
+
+Wickr may provide customer records in response to a valid subpoena issued by a federal or California or New York court where the requested information is indispensable to the case and not already within a partyâs possession.
+It is Wickrâs policy to give affected account holders prior notice before complying with such subpoenas.
+Parties seeking basic subscriber information must specifically identify accounts by Wickr ID.
+Production of Records, Authentication
+We provide responsive records in electronic format.
+We reserve the right to seek reimbursement for the costs of producing records where appropriate.
+Wickr does not provide expert witness testimony.
+However, all substantive responses to legal process requests will be accompanied by a signed Certificate of Authenticity of Business Records, which should eliminate the need for the testimony of a custodian of records.
+Mutual Legal Assistance Treaties
+Wickrâs policy is to promptly respond to requests that are issued via U.S.
+court upon proper service of process either by way of a mutual legal assistance treaty or letter rogatory.
+As a courtesy to international law enforcement agencies, we will review and respond to properly submitted preservation requests while the MLAT or letters rogatory process is underway.

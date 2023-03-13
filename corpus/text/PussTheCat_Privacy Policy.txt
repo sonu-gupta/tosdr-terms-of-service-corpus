@@ -1,0 +1,158 @@
+
+         PussTheCat.org  PussTheCat.org's Wiki 
+Privacy Policy
+
+This page list what each public services and game servers hosted on PussTheCat.org collect:
+
+
+
+Software:
+Reverse proxy:
+NginX:
+
+ Every service are hosted behind NginX, meaning every requests go through it.
+
+Nginx log the following for every request:
+
+Timestamp
+Method and URL
+User agent
+Anonymised IP: 
+IPv4: 116.202.209.166 stored as 0.202.209.166
+
+IPv6: 2a01:4f8:241:16d9::2 stored as 0:4f8:241::
+
+
+
+
+
+Services:
+
+Invidious:
+Because it's semi-private the Nginx logs are disabled.
+
+Nothing
+
+Nitter:
+
+Errors
+
+
+Bibliogram:
+
+Timestamp
+Type
+URL
+
+
+SearX:
+
+Errors
+
+
+Teddit:
+
+URL
+
+Libreddit:
+
+Nothing
+
+Lingva:
+
+Nothing
+
+Element:
+
+Timestamp
+Type
+URL
+User-Agent
+
+NoPaste:
+
+Nothing
+
+SimplyTranslate:
+
+Nothing
+
+rimgo:
+
+Nothing
+
+Librarian:
+
+Errors
+
+LibreTranslate:
+
+Nothing
+
+Scribe:
+
+Timestamp
+URL
+
+ProxiTok:
+
+Timestamp
+Type
+URL
+User-Agent
+
+PeerTube:
+
+Timestamp
+Type
+URL
+User-Agent
+
+Libremdb:
+
+Errors
+
+Quetre:
+
+Errors
+
+
+Status page:
+
+
+NginX logs are disabled.
+Uptime Kuma only logs what it's doing, not the loaded pages.
+
+
+Use:
+
+The only thing the NginX logs are used for is counting requests.
+See the Stats page.
+The only thing the software logs are used for is debugging and/or bug reports.
+
+
+Retention period:
+Every logs are stored at most 3 months.
+The date at which they were last deleted is May 30, 2022.
+
+
+Sharing:
+Nothing that can be considered private is ever shared with anyone.
+
+Access to your informations:
+Since we don't collect or store "your" data and since the logs aren't associated with "you", we cannot export or delete "your" data.
+
+
+
+Contact:
+See the About page.
+
+
+
+ABOUT
+TERMS OF SERVICE
+PRIVACY POLICY
+
+
+ Licensed under CC BY-NC-SA 4.0  Source Code: Available Here Configuration Files: Available Here 
+      

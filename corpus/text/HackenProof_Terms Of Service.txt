@@ -1,0 +1,203 @@
+
+         HACKENPROOF TERMS AND CONDITIONS
+Hacken OÃ is an Estonian company and subject to Estonian laws and jurisdiction.
+The original version of these Terms and Conditions (and any other terms, policies, or guidelines that we provide to you) are written in English.
+To the extent any translated version of these Terms and conditions (or any other terms, policies, or guidelines that we provide to you) conflicts with the English version, the English version controls.
+Hello! Welcome to Hackenproof platformâs Terms and Conditions.
+Please read this carefully before interacting with our site, Platform, or services.
+This is a contract between you and Hackenproof platform.
+Although, we have included several clauses that arenât a part of the contract itself but aim to highlight the main principles.
+
+Please review the following Terms and Conditions (hereinafter âthe âTermsâ, âTerms of Useâ) carefully.
+By accessing and interacting with the Website
+https://hackenproof.com/
+, you signify your agreement to these Terms.
+
+This web page represents a legal document that serves as our Terms of Service and it governs the legal terms of our Website, https://hackenproof.com, sub-domains, and any associated web-based and mobile applications (collectively, âWebsiteâ), as owned and operated by Hacken OÃ.The following Terms apply when you view or use the Website.
+For the Terms of use applicable to your access and use of the Hackenproof Bug Bounty Platform (hereinafter âthe Â«Hackenproof PlatformÂ»), please refer to your Hackenproof Customer Agreement.These Terms and Conditions include a release by all your claims for damage against of us that may arise out of your access to or use of this Website.
+By using our Website, you agree to fully comply with and be bound by our Terms.
+If you do not accept our Terms, do not access and use our Website.
+If you have already accessed our Website and do not accept our Legal Terms, you should immediately discontinue use of our Website.We may amend our Legal Terms at any time without specific notice to you.
+The latest copies of our Legal Terms will be posted on our Website, and you should review all Legal Terms prior to using our Website.
+After any revisions to our Legal Terms are posted, you agree to be bound to any such changes to them.
+Therefore, it is important for you to periodically review our Legal Terms to make sure you still agree to them.By creating an account on the Hackenproof Platform, you sign up as a Researcher or Customerand you accept and agree with the terms and conditions hereof.
+If you do not agree with the terms enshrined herein, you are not allowed to access and / or use the Platform.
+By accepting to these terms, you declare that you fully understand that Hackenproof platform solely provides a platform to find system vulnerabilities of companies by researchers and where the Hackenproof Platform act as a coordinator.
+DEFINITIONS
+Capitalized terms, unless otherwise defined, have the meaning specified within the Definitions section below.
+The terms âusâ or âweâ or âourâ refers to Hacken OÃ, the company that manages the Hackenproof Platform and owns the Website.
+All text, information, graphics, audio, video, and data offered through our Website are collectively knownas our âContentâ.
+
+
+Hackenproof platform means bug bounty and vulnerability coordination platform located on this website https://hackenproof.com/.
+
+
+Visitor is someone who merely browses our Website but has not registered as Customer or Researcher at the Hackenproof Platform.
+
+
+Reseacher means the independent contractor of Hackenproof Platform who provides the services of vulnerability searching and testing.
+
+
+Customer is an individual or company that has registered with us as a Customer to receive services from us.
+
+
+Hacken Token (hereinafter ââHKNâToken or âHKNâ) â an internal cryptographic ERC20 token which is used as the only payment tool allowed in the Hackenproof Platform and used to pay for the âServicesâ on the Hackenproof Platform.
+
+
+Services means the crowdsourced vulnerability searching and testing services performed by Researchers pursuant to Bug Bounty Program ordered by Customer.
+
+
+Bug Bounty Program means a public offer that includes monetary rewards to researchers for the found vulnerabilities and âServicesâ that the Customer ordered during using Hackenproof platform.
+
+
+Vulnerability Report means the list of vulnerabilities that have been identified by Researcher and list of instructions to eliminate the vulnerabilities made available to the Customer through the Hackenproof Platform.
+
+
+Triage team is a team member of Hackenproof Platform, whoconfirm that the discovered vulnerabilities correspond to the Bug Bounty Policy.
+
+
+Confidential Information means any confidential or proprietary business or technical information about a party related to the Program, including the content of Vulnerability Reports.
+Confidential Information does not include any information that (i) was publicly known and made generally available in the public domain prior to the time of disclosure by the disclosing party.
+(ii) becomes publicly known and made generally available after disclosure by the disclosing party to the receiving party.
+(iii) is already in the possession the receiving party at the time of disclosure by the disclosing party.
+or (iv) is obtained by the receiving party from a third party without a breach of such third party's obligations of confidentiality.
+
+
+User is a collective identifier that refers to all Visitors of our Website, include Customers and Researchers.
+
+
+ABOUT HACKENPROOF PLATFORM
+Hackenproof platform is designed for both the enthusiastic Researchers and Companies which would like to improve the safety of their computer systems.
+This platform unites registered researchers from all over the world to find vulnerabilities and to increase cybersecurity.
+After the bug bounty program launches, the initial rewards pool is created by the Company on the Hackenproof platform.
+As soon as the researcher find any bugs in the companyâs computer system he or she then report to members of our triage team which will later decide with the customer, significance of such finding and approve the amount of reward in Hacken Tokens for researcher.
+Hackenproof platform administers the payment of monetary awards to Researchers for valid, eligible vulnerabilities and reserves the right to admit the vulnerability found by researcher is not subject for reward.
+HACKERâS LICENSE
+Hackenproof platform may discontinue your use of all or any part of the Hackenproof Platform, including your access to it, at any time at Platformâs discretion.
+In particular if we believe you are abusing the Platform in any way, the personal information you entered is not correct, or you do not respect the scope and limits of your authorizations, we may, in our sole discretion and without limiting other remedies, suspend or terminate your hacker account(s) and access to the Platform.
+In connection with using and/or accessing this Platform and/or delivering related researching services, you are not allowed to:
+
+ breach or circumvent any laws, third-party rights or our systems, policies, or instructions regarding the use of the Platform.
+
+ use or access our Platform if you are not able to form legally binding contracts.
+
+ transfer your account and user ID to another party without our consent.
+
+ harvest or otherwise collect information about Customers or Hackers without their consent.
+or 
+ circumvent any technical measures we use to provide the Platform.
+
+
+RESEARCHERâS PERFORMANCE OF RESEARCH SERVICES
+By login in on the Platform,you sign up to perform researching services on one or more Customers and to report on any found Vulnerabilities.
+In this respect you:
+
+are responsible for reading the full scope and terms set out by the Customer, before initiating any researching activities in relation to customerâs system;
+understand that you may only use ethic techniques and are not allowed to launch uncontrolled attacks or use malicious techniques that could have an impact on the availability and operation of system;
+explicitly declare that you have the necessary expertise and experience to perform researching services in a safe and secure way;
+understand that the researching techniques may exclusively be used for the purpose of testing the security strength of the system in scope.
+You are not allowed to browse through the Customers data and/or copy any confidential files, data or information;
+are required to report upon discovered Vulnerabilities in a prompt and transparent manner throughthe Platform;
+should always respect applicable law, in particular in relation to secrecy of electronic communications, privacy and data protection.
+
+PROHIBITED ACTIONS
+In connection with your researching services to Customers, you may never:
+
+misuse a Vulnerability you discovered;
+exploit more than necessary to demonstrate that there is a Vulnerability in the system;
+distribute or post spam, unsolicited or bulk electronic communications, chain letters, or pyramid schemes;
+installor distribute malware, viruses or any other technologies that may harm the interests or property of Customer or any third party;
+change or remove any data or parameters;
+make use of techniques such as (Distributed) Denial of Service attacks (DoSor DDoS), social engineering and/or techniques that are mentioned in the out of scope section of a particular Project;
+use malicious techniques such as brute password guessing, theft of passwords, scanning of systems, phishing, etc.;
+obtain dataand publish/communicate or misuse data that was acquired.
+
+In general, you must always make sure that you do not intervene with the effective functioning of the system and must mitigate any harm.
+You may never share or discloseinformation collected during your researching process with any third parties.
+HACKERâS OBLIGATIONS TO SUBMIT VULNERABILITIES IMMEDIATELY
+If you believe that you have found a Vulnerability in the system of the Customer, you should promptly submit a report through the Platform.
+The Submission must describe the Vulnerability in a clear, concise and comprehensive manner and must, where possible, include the necessary evidence (e.g.
+IP addresses, log entries, screenshots etc.).
+You must add information to the report whenever new significant events arise as well as when the Customer or Platform request additional information.
+PRIVACY POLICY
+Hacken OÃ respects the privacy of its Website visitors.
+Please refer to Hackenproof Privacy Policy which explains how we collect, use, and disclose information that pertains to your privacy.
+When you access or use the Website, you signify your agreement tothis Privacy Policy.
+LEGAL COMPLIANCE
+You agree to comply with all applicable domestic and international laws, statutes, ordinances, and regulations regarding your use of our Website.
+Hacken OÃ reserves the right to investigate complaints or reportedviolations of our Terms of Use and to take any action we deem appropriate, including but not limited to canceling your Customer or Researcher account, reporting any suspected unlawful activity to law enforcement officials, regulators, or other third parties and disclosing any information necessary or appropriate to such persons or entities relating to your profile, email addresses, usage history, posted materials, IP addresses and traffic information, as allowed under our Privacy Policy.
+LINKS TO THIRD PARTY WEBSITES OR RESOURCES
+Our Website may contain links to third party websites.
+These links are provided solely as a convenience to you.
+By linking to these websites, we do not create or have an affiliation with, or sponsor such third-party websites.
+Theinclusion of links within our Website does not constitute any endorsement, guarantee, warranty, or recommendation of such third-party websites.
+Hacken OÃ has no control over the legal documents and privacy practices of third party websites, as such, is not responsible for the content, products or services on or available from those websites or resources or links displayed on such websites.
+You acknowledge sole responsibility for and assumes all risk arising from using of any third-party websites or resources.
+LINKS TO THIRD PARTY WEBSITES OR RESOURCES
+Our Website may contain links to third party websites.
+These links are provided solely as a convenience to you.
+By linking to these websites, we do not create or have an affiliation with, or sponsor such third-party websites.
+Theinclusion of links within our Website does not constitute any endorsement, guarantee, warranty, or recommendation of such third-party websites.
+Hacken OÃ has no control over the legal documents and privacy practices of third party websites, as such, is not responsible for the content, products or services on or available from those websites or resources or links displayed on such websites.
+You acknowledge sole responsibility for and assumes all risk arising from using of any third-party websites or resources.
+WARRANTY DISCLAIMER
+THE WEBSITE IS PROVIDED WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PURPOSE, TITLE, SECURITY, ACCURACY AND NON-INFRINGEMENT.
+WITHOUT LIMITING THE FOREGOING, HACKEN OÃ.
+MAKES NO WARRANTY OR REPRESENTATION THAT ACCESS TO OR OPERATION OF THE WEBSITE WILL BE UNINTERRUPTED OR ERROR FREE.
+YOU ASSUME FULL RESPONSIBILITY AND RISK OF LOSS RESULTINGFROM YOUR DOWNLOADING AND/OR USE OF FILES, INFORMATION, CONTENT OR OTHER MATERIAL OBTAINED FROM THE WEBSITE.
+HACKEN OÃ, INCLUDING ALL OUR AFFILIATES, HAVE NO LIABILITY WHATSOEVER FOR YOUR USE OF OUR WEBSITE, OTHER THAN AS SPECIFIED IN OUR LEGAL TERMS.
+HACKEN OÃ DOES NOT REPRESENT OR WARRANT THAT OUR WEBSITE IS ACCURATE, COMPLETE, RELIABLE, CURRENT OR ERROR-FREE OR THAT IT IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+THEREFORE, YOU SHOULD EXERCISE CAUTION IN THE USE AND DOWNLOADING OF ANY SUCH CONTENT AND USE INDUSTRY-RECOGNIZED PROGRAMS TO DETECT AND REMOVE VIRUSES.
+ALL RESPONSIBILITY OR LIABILITY FOR ANY DAMAGES CAUSED BY VIRUSES SOMEHOW ATTRIBUTED TO OUR WEBSITE IS DISCLAIMED.
+WITHOUT LIMITING THE FOREGOING, YOU UNDERSTAND AND AGREE THAT YOU USE OUR WEBSITE AT YOUR OWN RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR YOUR USE THEREOF AND ANY DAMAGES TO YOU, YOUR MOBILE DEVICE OR COMPUTER SYSTEM, OR OTHER HARM OF ANY KIND WHICH MAY BE AS RESULT.
+WE, AS WELL AS ALL OF OUR AFFILIATES, ARE NOT LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING DAMAGES FOR LOSS OF INCOME, BUSINESS, PROFITS, LITIGATION, OR THE LIKE), WHETHER BASED ON BREACH OF AGREEMENT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+THE NEGATION AND LIMITATION OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN YOU AND HACKEN OÃ.
+If you have a dispute with one or more Users with who you chatted through the Hackenproof Platform, you release us (and our directors, agents, subsidiaries, joint ventures and employees) from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
+Hacken OÃ reserves the right to change all Content and features of our Website, at any time without notice.
+While our Website is currently free to use, we may begin charging for use of all or part of its features at any time, without notice to you.
+Our Website may be temporarily unavailable from time to time for maintenance or other reasons.
+INDEMNITY
+You agree to defend, indemnify and hold harmless Hacken OÃ, its directors, employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to reasonable attorneyâsfees) arising from: (i) your use of our Website and the Hackenproof Platform.
+(ii) your violation of any term of these Terms of Use.
+(iii) your violation of any third party right, including without limitation any copyright, property, or privacy right.
+or (iv) any claim that any content submitted by you causes damage to a third party.
+This defense and indemnification obligation will survive these Terms and your use of our Website and the Hackenproof Platform.
+LIMITATION OF LIABILITY
+Hacken OÃ, as well as all our affiliates, shall not be liable for any loss, injury, claim, liability, or damage of any kind resulting in any way from (a) any errors in or omissions from our Website.
+(b) the unavailability or interruption of our Website.
+(c) your use of our Website.
+or (d) any delay or failure in performance of our Website.
+HACKEN OÃ AND ITS AFFILIATES ARE NOT LIABLE FOR THE ACTS, ERRORS, OMISSIONS, REPRESENTATIONS, WARRANTIES, BREACHES OR NEGLIGENCE OR FOR ANY PERSONAL INJURIES, DEATH, PROPERTY DAMAGE, OR OTHER DAMAGES OR EXPENSES RESULTING THEREFROM.
+HACKEN OÃ AND ITS AFFILIATES HAVE NO LIABILITY AND WILL MAKE NO WARRANTY, REFUND, OR OTHER RESTITUTION TO YOU WITH REGARDS TO OUR WEBSITE, OTHER THAN AS SPECIFIED HEREIN, FOR ANY REASON, INCLUDING, BUT NOT LIMITED TO,DELAYS, CANCELLATIONS, STRIKES, GOVERNMENTAL ISSUES, OR FORCE MAJEURE.
+IN NO EVENT WILL HACKEN OÃ OR ITS DIRECTORS, EMPLOYEES OR AGENTS BE LIABLE TO YOU OR ANY THIRD PERSON FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, INCLUDING FOR ANY LOSSES ARISING FROM YOUR USE OF OUR WEBSITE, EVEN IF HACKEN OÃ IS AWARE OR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, HACKEN OÃâS LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO YOUR CEASING USE OF OUR WEBSITE.
+CONFIDENTIAL INFORMATION
+Hackenproof platform understands that it may receive Confidential Information of Customer and Researcher, Customer understands that it may receive Confidential Information of the Platform and Researcher, Researcher understands that it may receive Confidential Information of Customer or Platform.
+The receiving party agrees not to divulge to any third person any Confidential Information of another party and not to use any Confidential Information of another party for any purpose not contemplated by the Terms.
+Before engaging in any testing or submitting findings the Researcher agrees that he/she will (i) hold in confidence and not disclose to any third party any Confidential Information (CI) of Disclosing Party, except as approved in writing by Disclosing Party.
+(ii) protect such CI with at least the same degree of care that Receiving Party uses to protect its own CI, but inno case, less than reasonable care.
+(iii) use the Disclosing Partyâs CI for no purpose other than the Permitted Use.
+and (iv) immediately notify Disclosing Party upon discovery of any loss or unauthorized disclosure of Disclosing Partyâs CI.
+DISPUTE RESOLUTION
+All disputes or claims arising out of or about these Terms or with respect of usage of this Website, including disputes relating to their validity, breach, termination or nullity, shall be referred to and finally resolved by arbitration under the Rules of Arbitration (Vienna Rules) of the Vienna International Arbitral Centre (VIAC) of the Austrian Federal Economic Chamber by three arbitrators appointed in accordance with the said Vienna Rules.
+By using this Website, you give your consent on this arbitration clause.
+The number of arbitrators shall be three, appointed in accordance with the said Vienna Rules.
+The seat, or legal place, of arbitration shall be Vienna, Austria.
+The language to be used in the arbitral proceedings shall be English.
+The governing law of the Terms shall be the substantive law of England and Wales, the substantive law applicable to the arbitration agreement is English law.
+The provisions on expedited proceedings (Article 45 Vienna Rules) may be applied.
+Any claim against the Hacken OÃ arising out of or about the Terms shall be instituted within six months after the dispute arose or be forever waived and barred.
+MISCELLANEOUS TERMS
+The Terms and any applicable executed order form that references the Terms constitute the entire and exclusive understanding and agreement between Hacken OÃ and Users and supersede and replace all prior oral or written understandings or agreements between Hacken OÃ and Users.
+If any provision of the Terms is held to be invalid, prohibited or otherwiseunenforceable by legal authority of competent jurisdiction, the other provisions of the Terms shall remain enforceable, and the invalid or unenforceable provision shall be deemed modified so that it is valid and enforceable to the maximum extent permittedby law.
+The Terms are assignable by Hacken OÃ and will bind and inure to the benefit of the Parties, their successors and assigns.
+To the extent that any Content in our Website conflicts or is inconsistent with our Terms of Use, our Terms of Use shall take precedence.
+Any notices or other communications provided by Hacken OÃ under the Terms, including those regarding modifications to the Terms, will be given via email or by posting to the Website.Hacken OÃâs failure to enforce any right or provision of the Terms will not be considered a waiver of such right or provision.
+Any such waiver will be effective only if in writing and signed by a duly authorized representative of Hacken OÃ.
+The rights of Hacken OÃ under this Terms shall survive the termination of Terms.
+CONTACT INFORMATION
+
+Hacken OÃ welcomes your feedback and inquiries.
+If you have any comments or questions, please contact us by sending an email to:
+info@hackenproof.com
+

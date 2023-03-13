@@ -1,0 +1,28 @@
+
+         Slipfox Network Suite About Me Site Status Slipfox E-Mail I do run an E-Mail service on this domain.
+An account can be generated for you upon request. Rules: 
+No spam.
+Nothing illegal under US law.
+
+To sign up, send an email to webmaster at slipfox dot xyz with the subject "Email Request", your erquested username, and the sum of 69420 and 1337 somewhere within the body.
+ Password Reset: When you sign up, I will give you a random password to use.
+*This is not recommended to be used as a permanent password.* You should absolutely set your own email password.To do so, simply ssh into [username]@slipfox.xyz and you will be provided with a password reset prompt.
+Note that pubkey auth is explicitly disabled on any mailgroup accounts, so you will need to enter the password you were given at signup.
+ Third Party Client Usage: Some third party clients, namely Thunderbird, will automatically attempt to use imap.slipfox.xyz and smtp.slipfox.xyz for IMAP/SMTP.
+This is incorrect, and will result in issues.
+Please use the following configuration:
+
+IMAP: mail.slipfox.xyz:993
+SMTP: mail.slipfox.xyz:587
+
+
+
+Want to support me?
+Monero: 
+48wT324pDVv4GpeJunPnhpi7RYgBrSnym15YbNjKjkypZv64WG35EZ44SKtcEdkHLafE2eVqsfmRJ1UD8trJDHYrGi8c4GK
+
+
+(OpenAlias: slipfox.xyz)
+
+This work, and all others provided under this domain, is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License, unless otherwise declared.
+

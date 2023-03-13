@@ -1,0 +1,37 @@
+
+         Browser permissions
+
+The following are the browserâs policy settings and permissions that Proctorio has to use to operate effectively.
+However, Proctorio does not use all of their settings or permissions to run most of the exams.
+These permissions are also determined by the settings enabled by the instructor.
+ Browser Permission
+What and why? Read and change all your data on the websites you visit
+This only occurs during an exam and is a method to ensure that test-takers aren't able to infringe academic integrity with the use of third party sites.
+Display notifications
+We may display a popup notification while you are in the exam in the case that you navigate away from the exam.
+Modify data you copy and paste
+We don't read/collect the contents in the user's clipboard.
+Instead, during the exam, we replace the clipboard text with our own to prevent exam content distribution.
+Capture content of your screen
+This recording setting only runs during the exam and is only visible to exam administrators to review once the exam is submitted.
+This is used to make sure that no unauthorized online based resources were used during the exam.
+Manage your downloads
+Downloads will only be prevented during the exam.
+Identify and eject storage devices
+Storage devices are detected and identified during the exam.
+But we do not eject storage devices.
+Manage your apps, extensions, and themes
+We do not manage the themes of your device.
+But we do manage extensions and applications that may hinder Proctorio from operating properly.
+Change your privacy-related settings
+We use it to temporarily block the browser's "password" fill option during the exam.
+
+Questions regarding data storage, recovery, and deletion should be directed to:
+
+
+Proctorio
+6840 E.
+Indian School Road
+Scottsdale, Arizona 85251
+Email: security@proctorio.com
+

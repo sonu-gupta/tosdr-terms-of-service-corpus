@@ -1,0 +1,47 @@
+
+
+How can I download my content/data from my ArvanCloud Services? 
+
+ If you need to access and download data from your Cloud Servers (Instance), Cloud Storage, Block Storage volumes, Video platform or DNS Service, we have several different resources available to make this as easy as possible.
+
+
+Cloud Server and Block Storage/Volumes 
+
+ Downloading your content or other data from any of your Instance functions is the same as any other file transfer operation you might already be familiar with.
+We have a community tutorial available that can help you accomplish this: 
+ Create and Manage a Backup Plan Using Cloud Storage 
+
+ What if my Instance is inaccessible or not online? 
+
+Good news! We have a tutorial available forâ¯recovering files via our rescue image.
+
+
+ What if I have some content that lives on one of my Block Storage volumes? 
+
+ Withâ¯this tutorial you can easily re-attach the volume to an Instance and access your data by one of the above means.
+
+
+Snapshots
+
+ If you have content/data that happens to live on a snapshot image, you need to 1) create a new Instance from that snapshot, 2) use one of the methods under "Cloud Server and Block Storage/Volumes", and 3) delete that Instance once complete.
+ Currently, we do not have any other method for extracting data from a snapshot.
+For more info on snapshots, please useâ¯this tutorial.
+
+
+ Cloud Storage 
+
+ To download any individual file from your Cloud Storage, go to the âBucketsâ and select âDownloadâ icon of the desired file.
+This will retrieve the file to your local machine.
+
+
+ Video Platform 
+
+ To download you source videos uploaded on ArvanCloudâs Video Platform, you can easily use the âvideo URLâ available on your user panel.
+This tutorial helps you with detailed information about video platform.
+
+
+ DNS Services 
+
+ If you need to export your domainâs DNS records, you can use CDN service API.
+Using this API, you can easily export your DNS records and their configuration you have set in your user panel.
+

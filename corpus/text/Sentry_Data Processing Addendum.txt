@@ -1,0 +1,1231 @@
+
+        Back to all legal docs
+Data Processing Addendum
+Definitions.
+Data Processing.
+Roles and Regulatory Compliance.
+Authorization.
+Customer responsibilities.
+Deletion.
+Deletion During Term.
+Deletion When Term Expires.
+Data Security.
+Security Measures.
+Data Incidents.
+Your Security Responsibilities.
+Audit Rights.
+Data Subject Rights.
+Data Export.
+Access.
+Rectification.
+Restricted Processing.
+Portability.
+Cooperation.
+Data Subjectsâ Rights.
+Data Transfers.
+Data Storage and Processing Facilities.
+Transfers of Data out of Europe.
+Standard Contractual Clauses.
+Subprocessors.
+Consent to Engagement.
+List of Subprocessors.
+Objections.
+Sole Remedy.
+Disclosure of Subprocessor agreements.
+Additional Information.
+Data Protection Impact Assessment.
+Miscellaneous.
+Change in Privacy Laws.
+Standard Contractual Clauses
+MODULE TWO: Transfer Controller to Processor
+MODULE THREE: Transfer Processor to Processor
+SECTION I
+Purpose and scope
+Effect and invariability of the Clauses
+Third-party beneficiaries
+Interpretation
+Hierarchy
+Description of the transfers
+Docking clause
+SECTION II â OBLIGATIONS OF THE PARTIES
+Data protection safeguards
+MODULE TWO: Transfer Controller to Processor
+Instructions
+Purpose limitation
+Transparency
+Accuracy
+Duration of processing and erasure or return of data
+Security of processing
+Sensitive data
+Onward transfers
+Documentation and compliance
+MODULE THREE: Transfer processor to processor
+Instructions
+Purpose limitation
+Transparency
+Accuracy
+Duration of processing and erasure or return of data
+Security of processing
+Sensitive data
+Onward transfers
+Documentation and compliance
+Use of sub-processors
+MODULE TWO: Transfer Controller to Processor
+MODULE THREE: Transfer processor to processor
+Data subject rights
+MODULE TWO: Transfer Controller to Processor
+MODULE THREE: Transfer processor to processor
+Redress
+Liability
+Supervision
+SECTION III â LOCAL LAWS AND OBLIGATIONS IN CASE OF ACCESS BY PUBLIC AUTHORITIES
+Local laws and practices affecting compliance with the Clauses
+MODULE TWO: Transfer Controller to Processor
+MODULE THREE: Transfer processor to processor
+Obligations of the data importer in case of access by public authorities
+Notification
+Review of legality and data minimisation
+SECTION IV â FINAL PROVISIONS
+Non-compliance with the Clauses and termination
+Governing law
+Choice of forum and jurisdiction
+Annex I
+List of Parties
+Data exporter(s):
+Data importer(s):
+Data Processing Description
+Competent Supervisory Authority
+Annex II
+Security Measures
+Sentry Security Policy
+Security &amp.
+Compliance
+Infrastructure and Network Security
+Physical Access Control
+Logical Access Control
+Penetration Testing
+Third-Party Audit
+Intrusion Detection and Prevention
+Business Continuity and Disaster Recovery
+High Availability
+Business Continuity
+Disaster Recovery
+Data Flow
+Data into System
+Data through System
+Data out of System
+Data Security and Privacy
+Data Encryption
+Data Retention
+Data Removal
+PII Scrubbing
+Application Security
+Two-Factor Authentication
+Single Sign-On
+SAML 2.0
+REST API Authentication (API Key)
+Email Security
+Audit Controls
+Secure Application Development (Application Development Lifecycle)
+Corporate Security
+Malware Protection
+Risk Management
+Contingency Planning
+Security Policies
+Background Checks
+Security Training
+Disclosure Policy
+Vulnerability Disclosure
+Other Resources
+Compliance Certifications
+Annex III
+List of Subprocessors
+
+
+Privacy Policy
+Terms of Service
+Data Processing AddendumVersion 3.0.03.0.0 (September 27, 2021)2.0.0 (September 1, 2020)1.0.0 (March 7, 2018) of This Agreement was created on September 27, 2021 .
+This Data Processing Addendum (this âDPAâ) is entered into by and between Functional Software, Inc.
+d/b/a Sentry (âSentryâ, âweâ, or âusâ) and the party that electronically accepts or otherwise agrees or opts-in to this DPA (âCustomerâ, or âyouâ).
+This DPA is effective as of the date electronically agreed and accepted by you.
+You have entered into one or more agreements with us (each, as amended from time to time, an âAgreementâ) governing the provision of our real-time error tracking, crash reporting, application monitoring, and visibility service more fully described at www.sentry.io (the âServiceâ).
+This DPA will amend the terms of the Agreement to reflect the partiesâ rights and responsibilities with respect to the processing and security of Customer Data (as defined below) under the Agreement.
+If you are accepting this DPA in your capacity as an employee, consultant or agent of Customer, you represent that you are an employee, consultant or agent of Customer, and that you have the authority to bind Customer to this DPA.
+Any capitalized terms not defined in this DPA shall have the meanings set forth in the Agreement.
+
+Definitions.The following definitions apply to this DPA:
+âCCPAâ means the California Consumer Privacy Act of 2018 (California Civil Code Â§Â§ 1798.100 et seq.) and its regulations.
+as may be amended, superseded or replaced from time to time.
+âCustomer Dataâ means data you submit to, store on, or send to us via the Service.
+âData Incidentâ means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Personal Data on systems that are managed and controlled by Sentry.
+Data Incidents will not include unsuccessful attempts or activities that do not compromise the security of Personal Data, including, without limitation, pings, port scans, denial of service attacks, network attacks on firewall or networked systems, or unsuccessful login attempts.
+âEuropeâ means, for the purposes of this DPA, the member states of the European Economic Area, Switzerland and the United Kingdom.
+âEuropean Data Protection Legislationâ means the data protection and privacy laws and regulations enacted in Europe and applicable to the Personal Data in question, including as applicable: (a) the GDPR.
+(b) the Swiss Federal Data Protection Act of 19 June 1992 and its Ordinance.
+and/or (c) in respect of the United Kingdom, the GDPR as it forms part of UK law by virtue of Section 3 of the European Union (Withdrawal) Act 2018 (âUK GDPRâ) and the Data Protection Act 2018.
+in each case as may be amended, superseded or replaced from time to time.
+âGDPRâ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.
+âNotification Email Addressâ means the email address(es) that you designate to receive notifications when you create an account to use the Service.
+You agree that you are solely responsible for ensuring that your Notification Email Address is current and valid at all times.
+âPersonal Dataâ means any personal data or personal information (as those terms are defined by European Data Protection Legislation and the CCPA, as applicable) contained within Customer Data.
+âPrivacy Lawsâ means: (a) the CCPA.
+and (b) European Data Protection Legislation.
+âStandard Contractual Clausesâ or âSCCsâ means (a) where the GDPR applies, the standard contractual clauses as approved by the European Commission pursuant to its decision 2021/914 of 4 June 2021 (âEU SCCsâ).
+and (ii) where the UK GDPR applies, the standard data protection clauses adopted pursuant to or permitted under Article 46 of the UK GDPR (âUK SCCsâ).
+âSubprocessorâ means a third party that we use to process Customer Data in order to provide parts of the Service and/or related technical support.
+For the avoidance of doubt, the term Subprocessor shall not include Sentry employees or contractors.
+âTermâ means the term of the Agreement.
+The terms âpersonal dataâ, âspecial categories of personal dataâ, âdata subjectâ, âprocessâ, âprocessingâ, âcontrollerâ, âprocessorâ and âsupervisory authorityâ have the meanings given in European Data Protection Legislation or, if not defined therein, the GDPR.
+
+Data Processing.
+Roles and Regulatory Compliance.
+Authorization.
+
+
+Scope of this DPA. This DPA applies where and only to the extent Sentry processes Personal Data as a processor (for the purposes of European Data Protection Legislation) or service provider (for the purposes of and as defined by the CCPA).
+
+
+
+Roles and Responsibilities. The parties acknowledge and agree as follows: (i) that Sentry will process the Personal Data as described in Annex I.
+(ii) that for the purposes of European Data Protection Legislation, Sentry is a processor of Personal Data and Customer is the controller (or a processor acting on behalf of a third party controller).
+(iii) if the CCPA applies to processing of Personal Data, Sentry shall act solely as a service provider (as that term is defined under the CCPA) on behalf of Customer.
+(iv) Sentry shall not retain, use or disclose Personal Data for any purpose other than the purposes described in this DPA, and shall not âsellâ Personal Data (within the meaning under the CCPA).
+and (iv) that each of us will comply with our obligations under Privacy Laws with respect to the processing of Personal Data.
+
+
+
+Authorization by Third Party Controller. If you are a processor of Personal Data acting on behalf of a third party controller: (i) you warrant to us that your instructions and actions with respect to that Personal Data, including your appointment of Sentry as another processor, have been authorized by the relevant controller.
+and (ii) you will serve as our sole point of contact and where we would otherwise be required (including for the purposes of the Standard Contractual Clauses) to provide information, assistance or cooperation to or seek authorization from any such third party controllers, we may provide such information, assistance or cooperation to or seek such authorization from you.
+
+
+
+Customer responsibilities.
+
+
+Customer Authorization. Sentry shall process Personal Data in accordance with Customerâs documented lawful instructions.
+By entering into this DPA, you hereby authorize and instruct us to process Personal Data: (i) to provide the Service, and related technical support.
+(ii) as otherwise permitted or required by your use of the Service and/or your requests for technical support.
+(iii) as otherwise permitted or required by the Agreement, including this DPA.
+and (iv) as further documented in any other written instructions that are agreed by the parties.
+We will not process Personal Data for any other purpose, unless required to do so by applicable law or regulation.
+The parties agree that the Agreement (including this DPA), and your use of the Service in accordance with the Agreement, set out your complete and final processing instructions and any processing outside the scope of these instructions (if any) shall require prior written agreement between the parties.
+Customer shall ensure its instructions are lawful and that the processing of Personal Data in accordance with such instructions will not violate Privacy Laws.
+Notwithstanding the foregoing, if you are a processor of Personal Data acting on behalf of a third party controller then where legally required we are entitled to follow the instructions of such third party controllers with respect to their Personal Data.
+
+
+
+Prohibition on Sensitive Data. You will not submit, store, or send any sensitive data or special categories of personal data (collectively, âSensitive Dataâ) to us for processing, and you will not permit nor authorize any of your employees, agents, contractors, or data subjects to submit, store, or send any Sensitive Data to us for processing.
+You acknowledge that we do not request or require Sensitive Data as part of providing the Service to you, that we do not wish to receive or store Sensitive Data, and that our obligations in this DPA will not apply with respect to Sensitive Data.
+
+
+
+
+
+Deletion.
+Deletion During Term.We will enable you to delete Personal Data during the Term in a manner that is consistent with the functionality of the Service.
+If you use the Service to delete any Personal Data in a manner that would prevent you from recovering Personal Data at a future time, you agree that this will constitute an instruction to us to delete Personal Data from our systems in accordance with our standard processes and applicable law.
+We will comply with this instruction as soon as reasonably practicable, but in all events in accordance with applicable law.
+
+Deletion When Term Expires.When the Term expires, we will destroy any Personal Data in our possession or control.
+This requirement will not apply to the extent that we are required by applicable law to retain some or all of the Personal Data, in which event we will isolate and protect the Personal Data from further processing and delete in accordance with Sentryâs deletion practices, except to the extent required by law.
+You acknowledge that you will be responsible for exporting, before the Term expires, any Personal Data you want to retain after the Term expires.
+
+
+
+Data Security.
+Security Measures.We will implement and maintain appropriate technical and organizational measures to protect Personal Data against Data Incidents and to preserve the security and confidentiality of Personal Data, as described in Annex II (collectively, the âSecurity Measuresâ).
+Sentry shall ensure that any person who is authorized by Sentry to process Personal Data shall be under an appropriate obligation of confidentiality (whether a contractual or statutory duty).
+Customer acknowledges that Security Measures are subject to technical progress and development and that accordingly we may update or modify the Security Measures from time to time, provided that such updates and modifications do not result in the degradation of the overall security of the Service.
+
+Data Incidents.Upon becoming aware of a Data Incident, we will notify you promptly and without undue delay, and will take reasonable steps to minimize harm and secure Personal Data.
+Any notifications that we send you pursuant to this Section 4.2 will be sent to your Notification Email Address and will describe, to the extent possible and/or known to Sentry, the details of the Data Incident, the steps we have taken to mitigate the potential risks, and any suggestions we have for you to minimize the impact of the Data Incident.
+We will not assess the contents of any Personal Data in order to identify information that may be subject to specific legal requirements.
+You are solely responsible for complying with any incident notification laws that may apply to you, and to fulfilling any third-party notification obligations related to any Data Incident(s).
+Our notification of or response to a Data Incident under this Section will not constitute an acknowledgement of fault or liability with respect to the Data Incident.
+
+Your Security Responsibilities.You agree that, without prejudice to our obligations under Sections 4.1 or 4.2: (i) you are solely responsible for your use of the Service, including making appropriate use of the Service to ensure a level of security appropriate to the risk in relation to Customer Data, securing any account authentication credentials, systems, and devices you use to use the Service, and backing up your Customer Data.
+You understand and agree that we have no obligation to protect Customer Data that you elect to store or transfer outside of our or our Subprocessorsâ systems (e.g., offline or on-premise storage).
+You are solely responsible for evaluating whether the Service and our commitments under this Section 4 meet your needs, including with respect to your compliance with any of your security obligations under Privacy Laws, as applicable.
+
+Audit Rights.
+
+
+Audit Reports. You acknowledge that Sentry is regularly audited against various information security standards by independent third-party auditors and internal auditors, respectively.
+Upon request, we shall supply (on a confidential basis) a summary copy of our audit report(s), so that you can verify our compliance with the audit standards against which it has been assessed, and this DPA.
+Further, we will provide written responses (on a confidential basis) to all reasonable requests for information necessary to confirm our compliance with this DPA, provided that you will not exercise this right more than once per calendar year.
+
+
+
+Independent Audits. While it is the partiesâ intention to rely ordinarily on the provision of the above audit report(s) to verify our compliance with this DPA, we will allow an internationally-recognized independent auditor that you select to conduct audits to verify our compliance with our obligations under this DPA.
+You must send any requests for audits under this Section 4.4.2 to legal@sentry.io.
+Following our receipt of your request, the parties will discuss and agree in advance on the reasonable start date, scope, duration, and security and confidentiality controls applicable to the audit.
+You will be responsible for any costs associated with the audit.
+You agree not to exercise your audit rights under this Section 4.4.2 more than once in any twelve (12) calendar month period, except (i) if and when required by a competent data protection authority.
+or (ii) an audit is necessary due to a Data Incident.
+You agree that (to the extent applicable), you shall exercise any audit rights under Privacy Laws and the Standard Contractual Clauses by instructing us to comply with the measures described in this Section 4.4.
+
+
+
+
+
+Data Subject Rights.
+Data Export.
+Access.
+Rectification.
+Restricted Processing.
+Portability.You acknowledge that the Service may, depending on the functionality of the Service, enable you to: (i) access the Customer Data.
+(ii) rectify inaccurate Customer Data.
+(iii) restrict the processing of Customer Data.
+(iv) delete Customer Data.
+and (v) export Customer Data.
+
+Cooperation.
+Data Subjectsâ Rights.To the extent that you cannot access the relevant Personal Data within the Service, we will provide you, at your expense, with all reasonable and timely assistance to enable you to respond to: (i) requests from data subjects who wish to exercise any of their rights under applicable Privacy Laws.
+and (ii) any other correspondence, enquiry or complaint received from a data subject, supervisory authority or other third party in connection with the processing of the Customer Data.
+In the event that any such request, correspondence, enquiry or complaint is made directly to us, we will promptly inform you of it, and provide you with as much detail as reasonably possible.
+
+
+
+Data Transfers.
+Data Storage and Processing Facilities.You agree that we may, subject to Section 6.2, store and process Customer Data in the United States and any other country in which we or our Subprocessors maintain data processing operations.
+Sentry shall ensure that such transfers are made in compliance with applicable Privacy Laws and this DPA.
+
+Transfers of Data out of Europe.If the storage and/or processing of Personal Data as described in Section 6.1 involves a transfer of Personal Data to Sentry outside of Europe, and European Data Protection Legislation applies to the transfer (collectively, âTransferred Personal Dataâ), then (i) the Standard Contractual Clauses shall be incorporated into and form a part of this DPA in accordance with Section 6.3.
+and (ii) for so long as Sentry is self-certified to the Privacy Shield we shall continue to process Transferred Personal Data in compliance with the Privacy Shield Principles.
+With respect to Transferred Personal Data, you agree that if we adopt an alternative data transfer mechanism (including any new version of, or successor to, the Standard Contractual Clauses or Privacy Shield adopted pursuant to applicable European Data Protection Legislation) for Transferred Personal Data not described in this DPA (âAlternative Transfer Solutionâ), the Alternative Transfer Solution shall apply instead of the transfer mechanisms described in this DPA (but only to the extent such Alternative Transfer Solution complies with applicable European Data Protection Legislation and extends to the territories to which Transferred Personal Data is transferred), and if we request that you take any action (including, without limitation, execution of documents) reasonably required to give full effect to that solution, you will promptly do so.
+
+Standard Contractual Clauses.For the purposes of the Standard Contractual Clauses, the parties agree that (i) Sentry is the âdata importerâ and you are the âdata exporterâ.
+(ii) the EU SCCs shall be incorporated in the form attached hereto and the UK SCCs shall be incorporated by reference.
+(iii) the Annexes or Appendices of the EU SCCs and UK SCCs (as applicable) shall be populated with the information from Annexes I, II and III of this DPA.
+and (iv) the EU SCCs shall be governed by the laws of the Republic of Ireland and the UK SCCs shall be governed by the laws of England and Wales.
+It is not the intention of either party to contradict or restrict any of the provisions set forth in the Standard Contractual Clauses and, accordingly, if and to the extent the Standard Contractual Clauses conflict with any provision of the Agreement (including this DPA), the Standard Contractual Clauses shall prevail to the extent of such conflict.
+In particular, nothing in the DPA shall exclude the rights of third-party beneficiaries granted under the Standard Contractual Clauses.
+You agree that in the event we cannot ensure compliance with the Standard Contractual Clauses, we will inform you promptly and you will provide us with a reasonable period of time to cure any non-compliance.
+You will reasonably cooperate with us to agree what additional safeguards or measures, if any, may be reasonably required to cure the non-compliance and will only be entitled to suspend the transfer of Personal Data and/or terminate the affected parts of the Service if we have not or cannot cure the non-compliance before the end of the cure period.
+
+
+
+Subprocessors.
+Consent to Engagement.You authorize us to engage third parties as Subprocessors.
+Whenever we engage a Subprocessor, we will enter into a contract with that Subprocessor which imposes data protection terms that require the Subprocessor to protect Personal Data to an equivalent standard required under this DPA, and we shall remain responsible for the Subprocessorâs compliance with the obligations of this DPA and for any acts or omissions of the Subprocessor that cause us to breach any of our obligations under this DPA.
+
+List of Subprocessors.A list of our current Subprocessors is set out in Annex III.
+We may update the list of Subprocessors upon thirty (30) daysâ prior written notice to you, during which period you will have the opportunity to object as described in Section 7.3 below.
+
+Objections.
+Sole Remedy.During the thirty (30) day period beginning on the date we notify you of any new or replacement Subprocessor, you have the right to object to the appointment of that Subprocessor on reasonable grounds that the Subprocessor does not or cannot comply with the requirements set forth in this DPA (each, an âObjectionâ).
+If we do not remedy or provide a reasonable workaround for your Objection within a reasonable time, you may, as your sole remedy and our sole liability for your Objection, terminate the Agreement for your convenience, and without further liability to either party.
+We will not owe you a refund of any fees you have paid in the event you decide to terminate the Agreement pursuant to this Section.
+
+Disclosure of Subprocessor agreements.You agree that by complying with this Section 7, we fulfil our obligations under Clause 9(a) and (b) of the Standard Contractual Clauses.
+You further acknowledge that, for the purposes of Clause 9(c) of the Standard Contractual Clauses, we may be restricted from disclosing Subprocessor agreements to you (or the relevant third party controller) due to confidentiality restrictions.
+Notwithstanding this, we shall use reasonable efforts to require Subprocessors to permit us to disclose Subprocessor agreements to you and, in any event, will provide (upon request and on a confidential basis) all information we reasonably can in connection with such Subprocessor agreement.
+
+
+
+Additional Information.You acknowledge that we are required under European Data Protection Legislation (i) to collect and maintain records of certain information, including, among other things, the name and contact detail of each processor and/or controller on whose behalf we are acting and, where applicable, of such processorâs or controllerâs local representative and data protection officer.
+and (ii) to make such information available to the supervisory authorities.
+Accordingly, if European Data Protection Legislation applies to the processing of Personal Data, you will, when requested, provide this additional information to us, and ensure that the information is kept accurate and up-to-date.
+
+Data Protection Impact Assessment.We will provide you with reasonable and timely assistance as you may require in order to conduct a data protection impact assessment and, if necessary, consult with the relevant data protection authority.
+
+Miscellaneous.With the exception of the third-party beneficiary rights granted (where applicable) under the Standard Contractual Clauses, there are no third-party beneficiaries to this DPA.
+Except as expressly provided herein, nothing in this DPA will be deemed to waive or modify any of the provisions of the Agreement, which otherwise remains in full force and effect.
+Specifically, nothing in this DPA will affect any of the terms of the Agreement relating to Sentryâs limitations of liability, which will remain in full force and effect.
+Notwithstanding the foregoing, in no event shall either party exclude or limit its liability with respect to any data subjectâs rights under European Data Protection Legislation or the Standard Contractual Clauses.
+If you have entered into more than one Agreement with us, this DPA will amend each of the Agreements separately.
+In the event of a conflict or inconsistency between the terms of this DPA and the terms of the Agreement, the terms of this DPA will control.
+This DPA amends and supersedes any prior data processing addendum or similar agreement regarding its subject matter.
+
+Change in Privacy Laws.Notwithstanding anything to the contrary in the Agreement (including this DPA), in the event of a change in Privacy Laws or a determination or order by a supervisory authority or competent court affecting this DPA or the lawfulness of any processing activities under this DPA, we reserve the right to make any amendments to this DPA as are reasonably necessary to ensure continued compliance with European Data Protection Legislation or compliance with any such orders.
+
+Standard Contractual ClausesMODULE TWO: Transfer Controller to ProcessorMODULE THREE: Transfer Processor to ProcessorSECTION IClause 1 :Purpose and scope
+
+The purpose of these standard contractual clauses is to ensure compliance with the requirements of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation) for the transfer of personal data to a third country.
+
+
+The Parties:
+
+
+the natural or legal person(s), public authority/ies, agency/ies or other body/ies (hereinafter âentity/iesâ) transferring the personal data, as listed in Annex I.A.
+(hereinafter each âdata exporterâ), and
+
+
+the entity/ies in a third country receiving the personal data from the data exporter, directly or indirectly via another entity also Party to these Clauses, as listed in Annex I.A.
+(hereinafter each âdata importerâ)
+
+
+
+
+have agreed to these standard contractual clauses (hereinafter: âClausesâ).
+
+
+These Clauses apply with respect to the transfer of personal data as specified in Annex I.B.
+
+
+The Appendix to these Clauses containing the Annexes referred to therein forms an integral part of these Clauses.
+
+
+Clause 2 :Effect and invariability of the Clauses
+
+These Clauses set out appropriate safeguards, including enforceable data subject rights and effective legal remedies, pursuant to Article 46(1) and Article 46 (2)(c) of Regulation (EU) 2016/679 and, with respect to data transfers from controllers to processors and/or processors to processors, standard contractual clauses pursuant to Article 28(7) of Regulation (EU) 2016/679, provided they are not modified, except to select the appropriate Module(s) or to add or update information in the Appendix.
+This does not prevent the Parties from including the standard contractual clauses laid down in these Clauses in a wider contract and/or to add other clauses or additional safeguards, provided that they do not contradict, directly or indirectly, these Clauses or prejudice the fundamental rights or freedoms of data subjects.
+
+
+These Clauses are without prejudice to obligations to which the data exporter is subject by virtue of Regulation (EU) 2016/679.
+
+
+Clause 3 :Third-party beneficiaries
+
+Data subjects may invoke and enforce these Clauses, as third-party beneficiaries, against the data exporter and/or data importer, with the following exceptions:
+
+
+Clause 1, Clause 2, Clause 3, Clause 6, Clause 7;
+
+
+Clause 8 - Module Two: Clause 8.1(b), 8.9(a), (c), (d) and (e).
+Module Three: Clause 8.1(a), (c) and (d) and Clause 8.9(a), (c), (d), (e), (f) and (g);
+
+
+Clause 9 - Module Two: Clause 9(a), (c), (d) and (e).
+Module Three: Clause 9(a), (c), (d) and (e);
+
+
+Clause 12 - Clause 12(a), (d) and (f);
+
+
+Clause 13;
+
+
+Clause 15.1(c), (d) and (e);
+
+
+Clause 16(e);
+
+
+Clause 18 - Clause 18(a) and (b).
+
+
+
+
+Paragraph (a) is without prejudice to rights of data subjects under Regulation (EU) 2016/679.
+
+
+Clause 4 :Interpretation
+
+Where these Clauses use terms that are defined in Regulation (EU) 2016/679, those terms shall have the same meaning as in that Regulation.
+
+
+These Clauses shall be read and interpreted in the light of the provisions of Regulation (EU) 2016/679.
+
+
+These Clauses shall not be interpreted in a way that conflicts with rights and obligations provided for in Regulation (EU) 2016/679.
+
+
+Clause 5 :HierarchyIn the event of a contradiction between these Clauses and the provisions of related agreements between the Parties, existing at the time these Clauses are agreed or entered into thereafter, these Clauses shall prevail.
+Clause 6 :Description of the transfersThe details of the transfer(s), and in particular the categories of personal data that are transferred and the purpose(s) for which they are transferred, are specified in Annex I.B.
+Clause 7 â Optional :Docking clause
+
+An entity that is not a Party to these Clauses may, with the agreement of the Parties, accede to these Clauses at any time, either as a data exporter or as a data importer, by completing the Appendix and signing Annex I.A.
+
+
+Once it has completed the Appendix and signed Annex I.A, the acceding entity shall become a Party to these Clauses and have the rights and obligations of a data exporter or data importer in accordance with its designation in Annex I.A.
+
+
+The acceding entity shall have no rights or obligations arising under these Clauses from the period prior to becoming a Party.
+
+SECTION II â OBLIGATIONS OF THE PARTIESClause 8 :Data protection safeguardsThe data exporter warrants that it has used reasonable efforts to determine that the data importer is able, through the implementation of appropriate technical and organisational measures, to satisfy its obligations under these Clauses.MODULE TWO: Transfer Controller to Processor
+Instructions
+
+The data importer shall process the personal data only on documented instructions from the data exporter.
+The data exporter may give such instructions throughout the duration of the contract.
+
+
+The data importer shall immediately inform the data exporter if it is unable to follow those instructions.
+
+
+
+Purpose limitationThe data importer shall process the personal data only for the specific purpose(s) of the transfer, as set out in Annex I.B, unless on further instructions from the data exporter.
+
+TransparencyOn request, the data exporter shall make a copy of these Clauses, including the Appendix as completed by the Parties, available to the data subject free of charge.
+To the extent necessary to protect business secrets or other confidential information, including the measures described in Annex II and personal data, the data exporter may redact part of the text of the Appendix to these Clauses prior to sharing a copy, but shall provide a meaningful summary where the data subject would otherwise not be able to understand the its content or exercise his/her rights.
+On request, the Parties shall provide the data subject with the reasons for the redactions, to the extent possible without revealing the redacted information.
+This Clause is without prejudice to the obligations of the data exporter under Articles 13 and 14 of Regulation (EU) 2016/679.
+
+AccuracyIf the data importer becomes aware that the personal data it has received is inaccurate, or has become outdated, it shall inform the data exporter without undue delay.
+In this case, the data importer shall cooperate with the data exporter to erase or rectify the data.
+
+Duration of processing and erasure or return of dataProcessing by the data importer shall only take place for the duration specified in Annex I.B.
+After the end of the provision of the processing services, the data importer shall, at the choice of the data exporter, delete all personal data processed on behalf of the data exporter and certify to the data exporter that it has done so, or return to the data exporter all personal data processed on its behalf and delete existing copies.
+Until the data is deleted or returned, the data importer shall continue to ensure compliance with these Clauses.
+In case of local laws applicable to the data importer that prohibit return or deletion of the personal data, the data importer warrants that it will continue to ensure compliance with these Clauses and will only process it to the extent and for as long as required under that local law.
+This is without prejudice to Clause 14, in particular the requirement for the data importer under Clause 14(e) to notify the data exporter throughout the duration of the contract if it has reason to believe that it is or has become subject to laws or practices not in line with the requirements under Clause 14(a).
+
+Security of processing
+
+The data importer and, during transmission, also the data exporter shall implement appropriate technical and organisational measures to ensure the security of the data, including protection against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access to that data (hereinafter âpersonal data breachâ).
+In assessing the appropriate level of security, the Parties shall take due account of the state of the art, the costs of implementation, the nature, scope, context and purpose(s) of processing and the risks involved in the processing for the data subjects.
+The Parties shall in particular consider having recourse to encryption or pseudonymisation, including during transmission, where the purpose of processing can be fulfilled in that manner.
+In case of pseudonymisation, the additional information for attributing the personal data to a specific data subject shall, where possible, remain under the exclusive control of the data exporter.
+In complying with its obligations under this paragraph, the data importer shall at least implement the technical and organisational measures specified in Annex II.
+The data importer shall carry out regular checks to ensure that these measures continue to provide an appropriate level of security.
+
+
+The data importer shall grant access to the personal data to members of its personnel only to the extent strictly necessary for the implementation, management and monitoring of the contract.
+It shall ensure that persons authorised to process the personal data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
+
+
+In the event of a personal data breach concerning personal data processed by the data importer under these Clauses, the data importer shall take appropriate measures to address the breach, including measures to mitigate its adverse effects.
+The data importer shall also notify the data exporter without undue delay after having become aware of the breach.
+Such notification shall contain the details of a contact point where more information can be obtained, a description of the nature of the breach (including, where possible, categories and approximate number of data subjects and personal data records concerned), its likely consequences and the measures taken or proposed to address the breach including, where appropriate, measures to mitigate its possible adverse effects.
+Where, and in so far as, it is not possible to provide all information at the same time, the initial notification shall contain the information then available and further information shall, as it becomes available, subsequently be provided without undue delay.
+
+
+The data importer shall cooperate with and assist the data exporter to enable the data exporter to comply with its obligations under Regulation (EU) 2016/679, in particular to notify the competent supervisory authority and the affected data subjects, taking into account the nature of processing and the information available to the data importer.
+
+
+
+Sensitive dataWhere the transfer involves personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data, or biometric data for the purpose of uniquely identifying a natural person, data concerning health or a personâs sex life or sexual orientation, or data relating to criminal convictions and offences (hereinafter âsensitive dataâ), the data importer shall apply the specific restrictions and/or additional safeguards described in Annex I.B.
+
+Onward transfersThe data importer shall only disclose the personal data to a third party on documented instructions from the data exporter.
+In addition, the data may only be disclosed to a third party located outside the European Union (in the same country as the data importer or in another third country, hereinafter âonward transferâ) if the third party is or agrees to be bound by these Clauses, under the appropriate Module, or if:
+
+
+the onward transfer is to a country benefiting from an adequacy decision pursuant to Article 45 of Regulation (EU) 2016/679 that covers the onward transfer;
+
+
+the third party otherwise ensures appropriate safeguards pursuant to Articles 46 or 47 Regulation of (EU) 2016/679 with respect to the processing in question;
+
+
+the onward transfer is necessary for the establishment, exercise or defence of legal claims in the context of specific administrative, regulatory or judicial proceedings.
+or
+
+
+the onward transfer is necessary in order to protect the vital interests of the data subject or of another natural person.
+
+
+Any onward transfer is subject to compliance by the data importer with all the other safeguards under these Clauses, in particular purpose limitation.
+
+Documentation and compliance
+
+The data importer shall promptly and adequately deal with enquiries from the data exporter that relate to the processing under these Clauses.
+
+
+The Parties shall be able to demonstrate compliance with these Clauses.
+In particular, the data importer shall keep appropriate documentation on the processing activities carried out on behalf of the data exporter.
+
+
+The data importer shall make available to the data exporter all information necessary to demonstrate compliance with the obligations set out in these Clauses and at the data exporterâs request, allow for and contribute to audits of the processing activities covered by these Clauses, at reasonable intervals or if there are indications of non-compliance.
+In deciding on a review or audit, the data exporter may take into account relevant certifications held by the data importer.
+
+
+The data exporter may choose to conduct the audit by itself or mandate an independent auditor.
+Audits may include inspections at the premises or physical facilities of the data importer and shall, where appropriate, be carried out with reasonable notice.
+
+
+The Parties shall make the information referred to in paragraphs (b) and (c), including the results of any audits, available to the competent supervisory authority on request.
+
+
+
+MODULE THREE: Transfer processor to processor
+Instructions
+
+The data exporter has informed the data importer that it acts as processor under the instructions of its controller(s), which the data exporter shall make available to the data importer prior to processing.
+
+
+The data importer shall process the personal data only on documented instructions from the controller, as communicated to the data importer by the data exporter, and any additional documented instructions from the data exporter.
+Such additional instructions shall not conflict with the instructions from the controller.
+The controller or data exporter may give further documented instructions regarding the data processing throughout the duration of the contract.
+
+
+The data importer shall immediately inform the data exporter if it is unable to follow those instructions.
+Where the data importer is unable to follow the instructions from the controller, the data exporter shall immediately notify the controller.
+
+
+The data exporter warrants that it has imposed the same data protection obligations on the data importer as set out in the contract or other legal act under Union or Member State law between the controller and the data exporter.
+
+
+
+Purpose limitationThe data importer shall process the personal data only for the specific purpose(s) of the transfer, as set out in Annex I.B., unless on further instructions from the controller, as communicated to the data importer by the data exporter, or from the data exporter.
+
+TransparencyOn request, the data exporter shall make a copy of these Clauses, including the Appendix as completed by the Parties, available to the data subject free of charge.
+To the extent necessary to protect business secrets or other confidential information, including personal data, the data exporter may redact part of the text of the Appendix prior to sharing a copy, but shall provide a meaningful summary where the data subject would otherwise not be able to understand its content or exercise his/her rights.
+On request, the Parties shall provide the data subject with the reasons for the redactions, to the extent possible without revealing the redacted information.
+
+AccuracyIf the data importer becomes aware that the personal data it has received is inaccurate, or has become outdated, it shall inform the data exporter without undue delay.
+In this case, the data importer shall cooperate with the data exporter to rectify or erase the data.
+
+Duration of processing and erasure or return of dataProcessing by the data importer shall only take place for the duration specified in Annex I.B.
+After the end of the provision of the processing services, the data importer shall, at the choice of the data exporter, delete all personal data processed on behalf of the controller and certify to the data exporter that it has done so, or return to the data exporter all personal data processed on its behalf and delete existing copies.
+Until the data is deleted or returned, the data importer shall continue to ensure compliance with these Clauses.
+In case of local laws applicable to the data importer that prohibit return or deletion of the personal data, the data importer warrants that it will continue to ensure compliance with these Clauses and will only process it to the extent and for as long as required under that local law.
+This is without prejudice to Clause 14, in particular the requirement for the data importer under Clause 14(e) to notify the data exporter throughout the duration of the contract if it has reason to believe that it is or has become subject to laws or practices not in line with the requirements under Clause 14(a).
+
+Security of processing
+
+The data importer and, during transmission, also the data exporter shall implement appropriate technical and organisational measures to ensure the security of the data, including protection against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access to that data (hereinafter âpersonal data breachâ).
+In assessing the appropriate level of security, they shall take due account of the state of the art, the costs of implementation, the nature, scope, context and purpose(s) of processing and the risks involved in the processing for the data subject.
+The Parties shall in particular consider having recourse to encryption or pseudonymisation, including during transmission, where the purpose of processing can be fulfilled in that manner.
+In case of pseudonymisation, the additional information for attributing the personal data to a specific data subject shall, where possible, remain under the exclusive control of the data exporter or the controller.
+In complying with its obligations under this paragraph, the data importer shall at least implement the technical and organisational measures specified in Annex II.
+The data importer shall carry out regular checks to ensure that these measures continue to provide an appropriate level of security.
+
+
+The data importer shall grant access to the data to members of its personnel only to the extent strictly necessary for the implementation, management and monitoring of the contract.
+It shall ensure that persons authorised to process the personal data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
+
+
+In the event of a personal data breach concerning personal data processed by the data importer under these Clauses, the data importer shall take appropriate measures to address the breach, including measures to mitigate its adverse effects.
+The data importer shall also notify, without undue delay, the data exporter and, where appropriate and feasible, the controller after having become aware of the breach.
+Such notification shall contain the details of a contact point where more information can be obtained, a description of the nature of the breach (including, where possible, categories and approximate number of data subjects and personal data records concerned), its likely consequences and the measures taken or proposed to address the data breach, including measures to mitigate its possible adverse effects.
+Where, and in so far as, it is not possible to provide all information at the same time, the initial notification shall contain the information then available and further information shall, as it becomes available, subsequently be provided without undue delay.
+
+
+The data importer shall cooperate with and assist the data exporter to enable the data exporter to comply with its obligations under Regulation (EU) 2016/679, in particular to notify its controller so that the latter may in turn notify the competent supervisory authority and the affected data subjects, taking into account the nature of processing and the information available to the data importer.
+
+
+
+Sensitive dataWhere the transfer involves personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data, or biometric data for the purpose of uniquely identifying a natural person, data concerning health or a personâs sex life or sexual orientation, or data relating to criminal convictions and offences (hereinafter âsensitive dataâ), the data importer shall apply the specific restrictions and/or additional safeguards set out in Annex I.B.
+
+Onward transfersThe data importer shall only disclose the personal data to a third party on documented instructions from the controller, as communicated to the data importer by the data exporter.
+In addition, the data may only be disclosed to a third party located outside the European Union (in the same country as the data importer or in another third country, hereinafter âonward transferâ) if the third party is or agrees to be bound by these Clauses, under the appropriate Module, or if:
+
+
+the onward transfer is to a country benefitting from an adequacy decision pursuant to Article 45 of Regulation (EU) 2016/679 that covers the onward transfer;
+
+
+the third party otherwise ensures appropriate safeguards pursuant to Articles 46 or 47 of Regulation (EU) 2016/679;
+
+
+the onward transfer is necessary for the establishment, exercise or defence of legal claims in the context of specific administrative, regulatory or judicial proceedings.
+or
+
+
+the onward transfer is necessary in order to protect the vital interests of the data subject or of another natural person.
+
+
+Any onward transfer is subject to compliance by the data importer with all the other safeguards under these Clauses, in particular purpose limitation.
+
+Documentation and compliance
+
+The data importer shall promptly and adequately deal with enquiries from the data exporter or the controller that relate to the processing under these Clauses.
+
+
+The Parties shall be able to demonstrate compliance with these Clauses.
+In particular, the data importer shall keep appropriate documentation on the processing activities carried out on behalf of the controller.
+
+
+The data importer shall make all information necessary to demonstrate compliance with the obligations set out in these Clauses available to the data exporter, which shall provide it to the controller.
+
+
+The data importer shall allow for and contribute to audits by the data exporter of the processing activities covered by these Clauses, at reasonable intervals or if there are indications of non-compliance.
+The same shall apply where the data exporter requests an audit on instructions of the controller.
+In deciding on an audit, the data exporter may take into account relevant certifications held by the data importer.
+
+
+Where the audit is carried out on the instructions of the controller, the data exporter shall make the results available to the controller.
+
+
+The data exporter may choose to conduct the audit by itself or mandate an independent auditor.
+Audits may include inspections at the premises or physical facilities of the data importer and shall, where appropriate, be carried out with reasonable notice.
+
+
+The Parties shall make the information referred to in paragraphs (b) and (c), including the results of any audits, available to the competent supervisory authority on request.
+
+
+
+
+Clause 9 :Use of sub-processorsMODULE TWO: Transfer Controller to Processor
+
+OPTION 2: GENERAL WRITTEN AUTHORISATION The data importer has the data exporterâs general authorisation for the engagement of sub-processor(s) from an agreed list.
+The data importer shall specifically inform the data exporter in writing of any intended changes to that list through the addition or replacement of sub-processors at least thirty (30) days in advance, thereby giving the data exporter sufficient time to be able to object to such changes prior to the engagement of the sub-processor(s).
+The data importer shall provide the data exporter with the information necessary to enable the data exporter to exercise its right to object.
+
+
+Where the data importer engages a sub-processor to carry out specific processing activities (on behalf of the data exporter), it shall do so by way of a written contract that provides for, in substance, the same data protection obligations as those binding the data importer under these Clauses, including in terms of third-party beneficiary rights for data subjects.
+The Parties agree that, by complying with this Clause, the data importer fulfils its obligations under Clause 8.8.
+The data importer shall ensure that the sub-processor complies with the obligations to which the data importer is subject pursuant to these Clauses.
+
+
+The data importer shall provide, at the data exporterâs request, a copy of such a sub-processor agreement and any subsequent amendments to the data exporter.
+To the extent necessary to protect business secrets or other confidential information, including personal data, the data importer may redact the text of the agreement prior to sharing a copy.
+
+
+The data importer shall remain fully responsible to the data exporter for the performance of the sub-processorâs obligations under its contract with the data importer.
+The data importer shall notify the data exporter of any failure by the sub-processor to fulfil its obligations under that contract.
+
+
+The data importer shall agree a third-party beneficiary clause with the sub-processor whereby - in the event the data importer has factually disappeared, ceased to exist in law or has become insolvent - the data exporter shall have the right to terminate the sub-processor contract and to instruct the sub-processor to erase or return the personal data.
+
+MODULE THREE: Transfer processor to processor
+
+OPTION 2: GENERAL WRITTEN AUTHORISATION The data importer has the controllerâs general authorisation for the engagement of sub-processor(s) from an agreed list.
+The data importer shall specifically inform the controller in writing of any intended changes to that list through the addition or replacement of sub processors at least thirty (30) days in advance, thereby giving the controller sufficient time to be able to object to such changes prior to the engagement of the sub-processor(s).
+The data importer shall provide the controller with the information necessary to enable the controller to exercise its right to object.
+The data importer shall inform the data exporter of the engagement of the sub-processor(s).
+
+
+Where the data importer engages a sub-processor to carry out specific processing activities (on behalf of the controller), it shall do so by way of a written contract that provides for, in substance, the same data protection obligations as those binding the data importer under these Clauses, including in terms of third-party beneficiary rights for data subjects.
+The Parties agree that, by complying with this Clause, the data importer fulfils its obligations under Clause 8.8.
+The data importer shall ensure that the sub-processor complies with the obligations to which the data importer is subject pursuant to these Clauses.
+
+
+The data importer shall provide, at the data exporterâs or controllerâs request, a copy of such a sub-processor agreement and any subsequent amendments.
+To the extent necessary to protect business secrets or other confidential information, including personal data, the data importer may redact the text of the agreement prior to sharing a copy.
+
+
+The data importer shall remain fully responsible to the data exporter for the performance of the sub-processorâs obligations under its contract with the data importer.
+The data importer shall notify the data exporter of any failure by the sub-processor to fulfil its obligations under that contract.
+
+
+The data importer shall agree a third-party beneficiary clause with the sub-processor whereby - in the event the data importer has factually disappeared, ceased to exist in law or has become insolvent - the data exporter shall have the right to terminate the sub-processor contract and to instruct the sub-processor to erase or return the personal data.
+
+
+Clause 10 :Data subject rightsMODULE TWO: Transfer Controller to Processor
+
+The data importer shall promptly notify the data exporter of any request it has received from a data subject.
+It shall not respond to that request itself unless it has been authorised to do so by the data exporter.
+
+
+The data importer shall assist the data exporter in fulfilling its obligations to respond to data subjectsâ requests for the exercise of their rights under Regulation (EU) 2016/679.
+In this regard, the Parties shall set out in Annex II the appropriate technical and organisational measures, taking into account the nature of the processing, by which the assistance shall be provided, as well as the scope and the extent of the assistance required.
+
+
+In fulfilling its obligations under paragraphs (a) and (b), the data importer shall comply with the instructions from the data exporter.
+
+MODULE THREE: Transfer processor to processor
+
+The data importer shall promptly notify the data exporter and, where appropriate, the controller of any request it has received from a data subject, without responding to that request unless it has been authorised to do so by the controller.
+
+
+The data importer shall assist, where appropriate in cooperation with the data exporter, the controller in fulfilling its obligations to respond to data subjectsâ requests for the exercise of their rights under Regulation (EU) 2016/679 or Regulation (EU) 2018/1725, as applicable.
+In this regard, the Parties shall set out in Annex II the appropriate technical and organisational measures, taking into account the nature of the processing, by which the assistance shall be provided, as well as the scope and the extent of the assistance required.
+
+
+In fulfilling its obligations under paragraphs (a) and (b), the data importer shall comply with the instructions from the controller, as communicated by the data exporter.
+
+
+Clause 11 :Redress
+
+The data importer shall inform data subjects in a transparent and easily accessible format, through individual notice or on its website, of a contact point authorised to handle complaints.
+It shall deal promptly with any complaints it receives from a data subject.
+
+
+In case of a dispute between a data subject and one of the Parties as regards compliance with these Clauses, that Party shall use its best efforts to resolve the issue amicably in a timely fashion.
+The Parties shall keep each other informed about such disputes and, where appropriate, cooperate in resolving them.
+
+
+Where the data subject invokes a third-party beneficiary right pursuant to Clause 3, the data importer shall accept the decision of the data subject to:
+
+
+lodge a complaint with the supervisory authority in the Member State of his/her habitual residence or place of work, or the competent supervisory authority pursuant to Clause 13;
+
+
+refer the dispute to the competent courts within the meaning of Clause 18.
+
+
+
+
+The Parties accept that the data subject may be represented by a not-for-profit body, organisation or association under the conditions set out in Article 80(1) of Regulation (EU) 2016/679.
+
+
+The data importer shall abide by a decision that is binding under the applicable EU or Member State law.
+
+
+The data importer agrees that the choice made by the data subject will not prejudice his/her substantive and procedural rights to seek remedies in accordance with applicable laws.
+
+
+Clause 12 :Liability
+
+Each Party shall be liable to the other Party/ies for any damages it causes the other Party/ies by any breach of these Clauses.
+
+
+The data importer shall be liable to the data subject, and the data subject shall be entitled to receive compensation, for any material or non-material damages the data importer or its sub-processor causes the data subject by breaching the third-party beneficiary rights under these Clauses.
+
+
+Notwithstanding paragraph (b), the data exporter shall be liable to the data subject, and the data subject shall be entitled to receive compensation, for any material or non-material damages the data exporter or the data importer (or its sub-processor) causes the data subject by breaching the third-party beneficiary rights under these Clauses.
+This is without prejudice to the liability of the data exporter and, where the data exporter is a processor acting on behalf of a controller, to the liability of the controller under Regulation (EU) 2016/679 or Regulation (EU) 2018/1725, as applicable.
+
+
+The Parties agree that if the data exporter is held liable under paragraph (c) for damages caused by the data importer (or its sub-processor), it shall be entitled to claim back from the data importer that part of the compensation corresponding to the data importerâs responsibility for the damage.
+
+
+Where more than one Party is responsible for any damage caused to the data subject as a result of a breach of these Clauses, all responsible Parties shall be jointly and severally liable and the data subject is entitled to bring an action in court against any of these Parties.
+
+
+The Parties agree that if one Party is held liable under paragraph (e), it shall be entitled to claim back from the other Party/ies that part of the compensation corresponding to its / their responsibility for the damage.
+
+
+The data importer may not invoke the conduct of a sub-processor to avoid its own liability.
+
+
+Clause 13 :Supervision
+
+The supervisory authority with responsibility for ensuring compliance by the data exporter with Regulation (EU) 2016/679 as regards the data transfer, as indicated in Annex I.C, shall act as competent supervisory authority.
+
+
+The data importer agrees to submit itself to the jurisdiction of and cooperate with the competent supervisory authority in any procedures aimed at ensuring compliance with these Clauses.
+In particular, the data importer agrees to respond to enquiries, submit to audits and comply with the measures adopted by the supervisory authority, including remedial and compensatory measures.
+It shall provide the supervisory authority with written confirmation that the necessary actions have been taken.
+
+SECTION III â LOCAL LAWS AND OBLIGATIONS IN CASE OF ACCESS BY PUBLIC AUTHORITIESClause 14 :Local laws and practices affecting compliance with the Clauses
+
+The Parties warrant that they have no reason to believe that the laws and practices in the third country of destination applicable to the processing of the personal data by the data importer, including any requirements to disclose personal data or measures authorising access by public authorities, prevent the data importer from fulfilling its obligations under these Clauses.
+This is based on the understanding that laws and practices that respect the essence of the fundamental rights and freedoms and do not exceed what is necessary and proportionate in a democratic society to safeguard one of the objectives listed in Article 23(1) of Regulation (EU) 2016/679, are not in contradiction with these Clauses.
+
+
+The Parties declare that in providing the warranty in paragraph (a), they have taken due account in particular of the following elements:
+
+
+the specific circumstances of the transfer, including the length of the processing chain, the number of actors involved and the transmission channels used.
+intended onward transfers.
+the type of recipient.
+the purpose of processing.
+the categories and format of the transferred personal data.
+the economic sector in which the transfer occurs.
+the storage location of the data transferred;
+
+
+the laws and practices of the third country of destination- including those requiring the disclosure of data to public authorities or authorising access by such authorities - relevant in light of the specific circumstances of the transfer, and the applicable limitations and safeguards;
+
+
+any relevant contractual, technical or organisational safeguards put in place to supplement the safeguards under these Clauses, including measures applied during transmission and to the processing of the personal data in the country of destination.
+
+
+
+
+The data importer warrants that, in carrying out the assessment under paragraph (b), it has made its best efforts to provide the data exporter with relevant information and agrees that it will continue to cooperate with the data exporter in ensuring compliance with these Clauses.
+
+
+The Parties agree to document the assessment under paragraph (b) and make it available to the competent supervisory authority on request.
+
+MODULE TWO: Transfer Controller to Processor
+
+The data importer agrees to notify the data exporter promptly if, after having agreed to these Clauses and for the duration of the contract, it has reason to believe that it is or has become subject to laws or practices not in line with the requirements under paragraph (a), including following a change in the laws of the third country or a measure (such as a disclosure request) indicating an application of such laws in practice that is not in line with the requirements in paragraph (a).
+
+
+Following a notification pursuant to paragraph (e), or if the data exporter otherwise has reason to believe that the data importer can no longer fulfil its obligations under these Clauses, the data exporter shall promptly identify appropriate measures (e.g.
+technical or organisational measures to ensure security and confidentiality) to be adopted by the data exporter and/or data importer to address the situation.
+The data exporter shall suspend the data transfer if it considers that no appropriate safeguards for such transfer can be ensured, or if instructed by the competent supervisory authority to do so.
+In this case, the data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses.
+If the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise.
+Where the contract is terminated pursuant to this Clause, Clause 16(d) and (e) shall apply.
+
+MODULE THREE: Transfer processor to processor
+
+The data importer agrees to notify the data exporter promptly if, after having agreed to these Clauses and for the duration of the contract, it has reason to believe that it is or has become subject to laws or practices not in line with the requirements under paragraph (a), including following a change in the laws of the third country or a measure (such as a disclosure request) indicating an application of such laws in practice that is not in line with the requirements in paragraph (a).
+The data exporter shall forward the notification to the controller.
+
+
+Following a notification pursuant to paragraph (e), or if the data exporter otherwise has reason to believe that the data importer can no longer fulfil its obligations under these Clauses, the data exporter shall promptly identify appropriate measures (e.g.
+technical or organisational measures to ensure security and confidentiality) to be adopted by the data exporter and/or data importer to address the situation, if appropriate in consultation with the controller.
+The data exporter shall suspend the data transfer if it considers that no appropriate safeguards for such transfer can be ensured, or if instructed by the controller or the competent supervisory authority to do so.
+In this case, the data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses.
+If the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise.
+Where the contract is terminated pursuant to this Clause, Clause 16(d) and (e) shall apply.
+
+
+Clause 15 :Obligations of the data importer in case of access by public authorities
+Notification
+
+The data importer agrees to notify the data exporter and, where possible, the data subject promptly (if necessary with the help of the data exporter) if it:
+
+
+receives a legally binding request from a public authority, including judicial authorities, under the laws of the country of destination for the disclosure of personal data transferred pursuant to these Clauses.
+such notification shall include information about the personal data requested, the requesting authority, the legal basis for the request and the response provided.
+or
+
+
+becomes aware of any direct access by public authorities to personal data transferred pursuant to these Clauses in accordance with the laws of the country of destination.
+such notification shall include all information available to the importer.
+
+
+(module three: The data exporter shall forward the notification to the controller.)
+
+
+If the data importer is prohibited from notifying the data exporter and/or the data subject under the laws of the country of destination, the data importer agrees to use its best efforts to obtain a waiver of the prohibition, with a view to communicating as much information as possible, as soon as possible.
+The data importer agrees to document its best efforts in order to be able to demonstrate them on request of the data exporter.
+
+
+Where permissible under the laws of the country of destination, the data importer agrees to provide the data exporter, at regular intervals for the duration of the contract, with as much relevant information as possible on the requests received (in particular, number of requests, type of data requested, requesting authorities, whether requests have been challenged and the outcome of such challenges, etc.).
+(module three: The data exporter shall forward the information to the controller.)
+
+
+The data importer agrees to preserve the information pursuant to paragraphs (a) to (c) for the duration of the contract and make it available to the competent suspensory authority on request.
+
+
+Paragraphs (a) to (c) are without prejudice to the obligation of the data importer pursuant to Clause 14(e) and Clause 16 to inform the data exporter promptly where it is unable to comply with these Clauses.
+
+
+
+Review of legality and data minimisation
+
+The data importer agrees to review the legality of the request for disclosure, in particular whether it remains within the powers granted to the requesting public authority, and to challenge the request if, after careful assessment, it concludes that there are reasonable grounds to consider that the request is unlawful under the laws of the country of destination, applicable obligations under international law and principles of international comity.
+The data importer shall, under the same conditions, pursue possibilities of appeal.
+When challenging a request, the data importer shall seek interim measures with a view to suspending the effects of the request until the competent judicial authority has decided on its merits.
+It shall not disclose the personal data requested until required to do so under the applicable procedural rules.
+These requirements are without prejudice to the obligations of the data importer under Clause 14(e).
+
+
+The data importer agrees to document its legal assessment and any challenge to the request for disclosure and, to the extent permissible under the laws of the country of destination, make the documentation available to the data exporter.
+It shall also make it available to the competent supervisory authority on request.
+(module three: The data exporter shall make the assessment available to the controller.)
+
+
+The data importer agrees to provide the minimum amount of information permissible when responding to a request for disclosure, based on a reasonable interpretation of the request.
+
+
+
+SECTION IV â FINAL PROVISIONSClause 16 :Non-compliance with the Clauses and termination
+
+The data importer shall promptly inform the data exporter if it is unable to comply with these Clauses, for whatever reason.
+
+
+In the event that the data importer is in breach of these Clauses or unable to comply with these Clauses, the data exporter shall suspend the transfer of personal data to the data importer until compliance is again ensured or the contract is terminated.
+This is without prejudice to Clause 14(f).
+
+
+The data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses, where:
+
+
+the data exporter has suspended the transfer of personal data to the data importer pursuant to paragraph (b) and compliance with these Clauses is not restored within a reasonable time and in any event within one month of suspension;
+
+
+the data importer is in substantial or persistent breach of these Clauses.
+or
+
+
+the data importer fails to comply with a binding decision of a competent court or supervisory authority regarding its obligations under these Clauses.
+
+
+ In these cases, it shall inform the competent supervisory authority (module three â and the controller of) such non-compliance.
+Where the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise.
+
+
+Personal data that has been transferred prior to the termination of the contract pursuant to paragraph (c) shall at the choice of the data exporter immediately be returned to the data exporter or deleted in its entirety.
+The same shall apply to any copies of the data.
+The data importer shall certify the deletion of the data to the data exporter.
+Until the data is deleted or returned, the data importer shall continue to ensure compliance with these Clauses.
+In case of local laws applicable to the data importer that prohibit the return or deletion of the transferred personal data, the data importer warrants that it will continue to ensure compliance with these Clauses and will only process the data to the extent and for as long as required under that local law.
+
+
+Either Party may revoke its agreement to be bound by these Clauses where (i) the European Commission adopts a decision pursuant to Article 45(3) of Regulation (EU) 2016/679 that covers the transfer of personal data to which these Clauses apply.
+or (ii) Regulation (EU) 2016/679 becomes part of the legal framework of the country to which the personal data is transferred.
+This is without prejudice to other obligations applying to the processing in question under Regulation (EU) 2016/679.
+
+
+Clause 17 :Governing lawThese Clauses shall be governed by the law of one of the EU Member States, provided such law allows for third-party beneficiary rights.
+The Parties agree that this shall be the law of the Republic of Ireland
+Clause 18 :Choice of forum and jurisdiction
+
+Any dispute arising from these Clauses shall be resolved by the courts of an EU Member State.
+
+
+The Parties agree that those shall be the courts of the Republic of Ireland .
+
+
+A data subject may also bring legal proceedings against the data exporter and/or data importer before the courts of the Member State in which he/she has his/her habitual residence.
+
+
+The Parties agree to submit themselves to the jurisdiction of such courts.
+
+Annex I
+List of PartiesData exporter(s):
+Name: Customer (as defined in the DPA)
+
+Address: Customerâs address (as provided by Customer in the Legal &amp.
+Compliance section of Customerâs organization settings in the Service)
+
+Contact personâs name, position and contact details: Customerâs contact details (as provided by Customer in the Legal &amp.
+Compliance section of Customerâs organization settings in the Service)
+
+Role (controller/processor): Controller/processorData importer(s):
+Name: Functional Software, Inc.
+d/b/a Sentry
+
+Address: 45 Fremont Street, 8th Floor, San Francisco, CA 94105
+
+Contact personâs name, position and contact details: Virginia Badenhope, General Counsel, legal@sentry.io
+
+Role (controller/processor): Processor
+
+Data Processing Description
+Subject Matter: Sentryâs provision of the Service to Customer, and related technical support.
+
+Purpose of the Processing: Sentry will process personal data submitted to, stored on, or sent via the Service for the purpose of providing the Service and related technical support in accordance with this DPA.
+
+Categories of Data Subjects: The personal data transferred concern the following categories of data subjects:
+
+
+End users of the Service
+
+
+Individuals whose personal data is supplied by end users of the Service.
+
+
+
+Categories of Personal Data: The personal data transferred concern the following categories of data:
+
+
+Direct identifying information (e.g.
+name, email address, telephone)
+
+
+Indirect identifying information (e.g.
+job title, gender, date of birth)
+
+
+Device identification data and traffic data (e.g.
+IP addresses, MAC addresses, web logs, browser agents)
+
+
+Any personal data supplied by end users of the Service
+
+
+
+Sensitive Data: The personal data transferred to Sentry through the Service is determined and controlled by Customer.
+As such, Customer controls the content of the personal data transferred to Sentry and is solely responsible for ensuring the legality of the categories of data it may choose to transfer to Sentry.
+The DPA includes an express prohibition on the transfer of special categories of personal data to Sentry.
+
+Frequency of the Transfer: Continuous
+
+Nature of the Processing: Sentry will perform the following basic processing activities: processing to provide the Service in accordance with the Agreement.
+processing to perform any steps necessary for the performance of the Agreement.
+and processing to comply with other reasonable instructions provided by Customer (e.g.
+via email) that are consistent with the terms of the Agreement.
+
+Period for which the personal data will be retained: Throughout the Term of the Agreement plus the period from expiry of the Term until deletion of Personal Data by Sentry in accordance with the Agreement.
+
+Competent Supervisory AuthorityThe Irish Data Protection Commissioner.
+
+Annex IISecurity MeasuresTechnical and Organizational MeasuresRelevant Section(s) of Sentryâs Security Policy (see below)Measures of pseudonymization and encryption of personal data
+Data Flow â Data into System
+Data Flow â Data through System
+Data Security and Privacy â Data Encryption
+Data Security and Privacy â PII Scrubbing
+Measures for ensuring ongoing confidentiality, integrity, availability and resilience of processing systems and services
+Infrastructure and Network Security â Physical Access Control
+Infrastructure and Network Security â Logical Access Control
+Application Security â Two-Factor Authentication
+Application Security â Single Sign-On
+Application Security â SAML 2.0
+Application Security â REST API Authentication (API Key)
+Application Security â Audit Controls
+Measures for ensuring the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident
+Infrastructure and Network Security â Intrusion Detection and Prevention
+Business Continuity and Disaster Recovery
+Corporate Security â Contingency Planning
+Corporate Security â Vulnerability Disclosure
+Processes for regularly testing, assessing and evaluating the effectiveness of technical and organizational measures in order to ensure the security of the processing
+Infrastructure and Network Security â Penetration Testing
+Infrastructure and Network Security â Third-Party Audit
+Corporate Security â Risk Management
+Corporate Security â Security Policies
+Measures for user identification and authorization
+Infrastructure and Network Security â Logical Access Control
+Application Security â Two-Factor Authentication
+Application Security â Single Sign-On
+Application Security â SAML 2.0
+Application Security â REST API Authentication (API Key)
+Application Security â Audit Controls
+Measures for the protection of data during transmission
+Data Flow â Data Through System
+Measures for the protection of data during storage
+Data Security and Privacy â Data Encryption
+Measures for ensuring physical security of locations at which personal data are processed
+Infrastructure and Network Security â Physical Access Control
+Measures for ensuring events logging
+Application Security â Audit Controls
+Measures for ensuring system configuration, including default configuration
+Application Security â Secure Application Development (Application Development Lifecycle)
+Corporate Security â Risk Management
+Corporate Security â Security Policies
+Measures for internal IT and IT security governance and management
+Security and Compliance
+Infrastructure and Network Security â Third-Party Audit
+Corporate Security â Risk Management
+Measures for certification/assurance of processes and products
+Infrastructure and Network Security â Third-Party Audit
+Corporate Security â Risk Management
+Measures for ensuring data minimization
+Data Security and Privacy â Data Retention
+Data Security and Privacy â Data Removal
+Measures for ensuring data quality
+Data Flow â Data Through System
+Data Security and Privacy â Data Encryption
+Application Security â Audit Controls
+Sentry maintains an online form to allow data subjects to request a copy of their personal data, make changes to their personal data or request deletion of their personal data
+Measures for ensuring limited data retention
+Data Security and Privacy â Data Retention
+Data Security and Privacy â Data Removal
+Measures for ensuring accountability
+Corporate Security â Risk Management
+Corporate Security â Security Policies
+Measures for allowing data portability and ensuring erasure
+Sentry maintains an online form to allow data subjects to request a copy of their personal data, make changes to their personal data or request deletion of their personal data
+Measures and assurances regarding U.S.
+government surveillance (âAdditional Safeguardsâ)
+Sentry uses encryption both in transit and at rest.
+As of the date of this DPA, Sentry has not received any national security orders of the type described in Paragraphs 150-202 of the judgment in the EU Court of Justice Case C-311/18, Data Protection Commissioner v Facebook Ireland Limited and Maximillian Schrems.
+No court has found Sentry to be the type of entity eligible to receive process issued under FISA Section 702: (i) an âelectronic communication service providerâ within the meaning of 50 U.S.C Â§â¯1881(b)(4) or (ii) a member of any of the categories of entities described within that definition.
+Sentry shall not comply with any request under FISA for bulk surveillance, i.e., a surveillance demand whereby a targeted account identifier is not identified via a specific âtargeted selectorâ (an identifier that is unique to the targeted endpoint of communications subject to the surveillance).
+Sentry shall use all available legal mechanisms to challenge any demands for data access through national security process that Sentry receives, as well as any non-disclosure provisions attached thereto.
+Sentry shall take no action pursuant to U.S.
+Executive Order 12333.
+Sentry publishes a transparency report indicating the types of binding legal demands for the personal data it has received, including national security orders and directives, which shall encompass any process issued under FISA Section 702.
+Sentry will notify Customer if Sentry can no longer comply with the Standard Contractual Clauses or these Additional Safeguards, without being required to identify the specific provision with which it can no longer comply.
+Sentry Security PolicySecurity &amp.
+ComplianceSecurity and compliance are top priorities for Sentry because they are fundamental to your experience with the product.
+Sentry is committed to securing your applicationâs data, eliminating systems vulnerability, and ensuring continuity of access.
+Sentry uses a variety of industry-standard technologies and services to secure your data from unauthorized access, disclosure, use, and loss.
+All Sentry employees undergo background checks before employment and are trained on security practices during company onboarding and on an annual basis.
+Security is directed by Sentryâs Chief Technology Officer and maintained by Sentryâs Security &amp.
+Operations team.Infrastructure and Network SecurityPhysical Access ControlSentry is hosted on Google Cloud Platform.
+Google data centers feature a layered security model, including extensive safeguards such as:
+
+Custom-designed electronic access cards
+Alarms
+Vehicle access barriers
+Perimeter fencing
+Metal detectors
+Biometrics
+
+According to the Google Security Whitepaper: âThe data center floor features laser beam intrusion detection.
+Data centers are monitored 24/7 by high-resolution interior and exterior cameras that can detect and track intruders.
+Access logs, activity records, and camera footage are reviewed in case an incident occurs.
+Data centers are also routinely patrolled by professional security guards who have undergone rigorous background checks and training.â
+Sentry employees do not have physical access to Google data centers, servers, network equipment, or storage.Logical Access ControlSentry is the assigned administrator of its infrastructure on Google Cloud Platform, and only designated authorized Sentry operations team members have access to configure the infrastructure on an as-needed basis behind a two-factor authenticated virtual private network.
+Specific private keys are required for individual servers, and keys are stored in a secure and encrypted location.Penetration TestingSentry undergoes annual penetration testing conducted by an independent, third-party agency.
+For testing, Sentry provides the agency with an isolated clone of sentry.io and a high-level diagram of application architecture.
+No customer data is exposed to the agency through penetration testing.
+Information about any security vulnerabilities successfully exploited through penetration testing is used to set mitigation and remediation priorities.
+A summary of penetration test findings is available upon request to enterprise customers.Third-Party AuditGoogle Cloud Platform undergoes various third-party independent audits regularly and can provide verification of compliance controls for its data centers, infrastructure, and operations.
+This includes, but is not limited to, SSAE 16-compliant SOC 2 certification and ISO 27001 certification.
+Sentry undergoes regular third-party independent audits on a regular basis and can provide its SOC 2 report upon request.Intrusion Detection and PreventionUnusual network patterns or suspicious behavior are among Sentryâs most significant concerns for infrastructure hosting and management.
+Sentry and Google Cloud Platformâs intrusion detection and prevention systems (IDS/IPS) rely on both signature-based security and algorithm-based security to identify traffic patterns that are similar to known attack methods.
+IDS/IPS involves tightly controlling the size and make-up of the attack surface, employing intelligent detection controls at data entry points, and developing and deploying technologies that automatically remedy dangerous situations, as well as preventing known threats from accessing the system in the first place.
+Sentry does not provide direct access to security event forensics but does provide access to the engineering and customer support teams during and after any unscheduled downtime.Business Continuity and Disaster RecoveryHigh AvailabilityEvery part of the Sentry service uses properly-provisioned, redundant servers (e.g., multiple load balancers, web servers, replica databases) in the case of failure.
+As part of regular maintenance, servers are taken out of operation without impacting availability.Business ContinuitySentry keeps hourly encrypted backups of data in multiple regions on Google Cloud Platform.
+While never expected, in the case of production data loss (i.e., primary data stores lost), we will restore organizational data from these backups.Disaster RecoveryIn the event of a region-wide outage, Sentry will bring up a duplicate environment in a different Google Cloud Platform region.
+The Sentry operations team has extensive experience performing full region migrations.Data FlowData into SystemSDKs securely send events, containing information on errors and exceptions, to the Sentry server, which processes and stores the events.
+Audit data of processing and storing is transmitted to our in-house logging infrastructure through encrypted connections.
+We believe SDKs should provide some mechanism for proactively scrubbing data, ideally through an extensible interface that the user can customize.
+Sentry provides documentation outlining SDK configuration to filter out bits of data for security and privacy purposes, but that otherwise delivers the rest of the event data intact.
+Scrubbing the following values is recommended:
+
+Values where the keyname matches password, passwd, or secret
+Values that match the regular expression of râ^(?:\d[ -]*?){13,16}\$â (credit card-like)
+Session cookies
+Authentication header (HTTP)
+Data through SystemData is sent securely to Sentry via TLS to an HTTPS endpoint.
+All data is AES-256bit encrypted, both in transit and at rest.
+Sentry aggregates events along with contextual data related to the userâs environment, preceding events, and the release and deployment changeset.
+Events data is also enriched with artifacts like source maps or symbols uploaded by the user or sourced externally.
+Sentryâs latest SSL Labs Report can be found here.Data out of SystemOnce the event is processed, it can then be accessed via Sentryâs user interface and REST APIs.
+Sentry integrates with a variety of third-party tools so developers can combine error data from Sentry with data from other systems, manage workflows efficiently, and be alerted of errors through notification and chat tools, in addition to email and SMS.
+Therefore, Sentryâs high standards for security and compliance also extend to its partner network.Data Security and PrivacyData EncryptionAll data in Sentry servers is encrypted at rest.
+Google Cloud Platform stores and manages data cryptography keys in its redundant and globally distributed Key Management Service.
+So, if an intruder were ever able to access any of the physical storage devices, the Sentry data contained therein would still be impossible to decrypt without the keys, rendering the information a useless jumble of random characters.
+Encryption at rest also enables continuity measures like backup and infrastructure management without compromising data security and privacy.
+Sentry exclusively sends data over HTTPS transport layer security (TLS) encrypted connections for additional security as data transits to and from the application.Data RetentionSentry retains event data for 90 days by default, regardless of plan.
+We remove individual events after 90 days, and we remove aggregate issues after 90 days of inactivity.
+All event data and most metadata is eradicated from the service and from the server without additional archiving in order to prevent the threat of intrusion.Data RemovalAll customer data stored on Sentry servers is eradicated upon a customerâs termination of service and deletion of account after a 24-hour waiting period to prevent accidental cancellation.
+Data can also be deleted upon request and via Sentryâs REST API and UI.
+Users have the ability to remove individual events via bulk delete of all events within an issue and can permanently remove data related to a given tag.PII ScrubbingWe recommend that users do not send any personally identifiable information (PII) to Sentry.
+To mitigate accidents and other security risks, Sentry offers server-side filtering as a default setting.
+The Data Scrubber option in Sentryâs settings ensures PII doesnât get sent to or stored on Sentryâs servers, automatically removing values that appear to be sensitive information.
+Additionally, users can specify values to be scrubbed in the Project Settings.
+IP Address storage can also be disabled.
+The latter is particularly important if youâre concerned about PII and using Sentryâs Browser JavaScript SDK.Application SecurityTwo-Factor AuthenticationIn addition to password login, two-factor authentication (2FA) provides an added layer of security to Sentry via a time-based one-time password algorithm (TOTP).
+We encourage 2FA as an important step towards securing data access from intruders.
+Sentry users can deploy universal second-factor devices like YubiKeys (which can also be used to confirm the sudo prompt), TOTP apps like Google Authenticator, or SMS as second factors.
+This also applies to sign-in with an SSO provider.
+Sentryâs organization list also displays who has 2FA enabled so users can vet their own organizationâs security.Single Sign-OnSentryâs single sign-on (SSO) implementation prioritizes security.
+We aggressively monitor linked accounts and disable them with any reasonable sign that the accountâs access has been revoked.
+SSO also improves user experience by streamlining login and improving access from trusted domains.
+Sentry currently offers SSO via Google Apps for Work and GitHub Organizations.SAML 2.0To facilitate user authentication through the web browser and improve identity management, Sentry offers assertion markup language (SAML)-based SSO as a standard feature to customers on its Enterprise plan.
+SAML 2.0 enhances user-based security and streamlines signup and login from trusted portals to enhance user experience, access management, and auditability.
+Sentry integrates with SAML 2.0 providers including OneLogin, Auth0, and Okta (as well as enhanced member administration and management on the Medium and Large plans via an integration with Rippling).REST API Authentication (API Key)Sentryâs REST API uses an auth token for authentication.
+Authentication tokens are passed using the auth header and are used to authenticate a user account with the API.
+We strongly recommend using organization-wide authentication tokens.Email SecurityThe Sentry service includes email notifications and reports.
+Sender policy framework (SPF) is a system to prevent email address spoofing and minimize inbound spam.
+We have SPF records set through Dyn, our domain name service (DNS), and domain-based message authentication, reporting, and conformance (DMARC) set up for monitoring reports to prevent the possibility of phishing scams.
+Sentry users can see the TXT records on dmarc.getsentry.com and md.getsentry.com:
+\$ dig \_dmarc.getsentry.com TXT +short "v=DMARC1\.
+p=none\.
+pct=100\.
+rua=mailto:re+tlipc5xia1x@dmarc.postmarkapp.com\.
+sp=none\.
+aspf=r\;" \$ dig md.getsentry.com TXT +short "v=spf1 ip4:167.89.86.73 ip4:167.89.84.14 ip4:167.89.84.75 -all"
+Audit ControlsWe know user administration is central to security and management, and auditing user logs is often the first step in both an emergency response plan and policy compliance requirements.
+All Sentry customers get admin controls governing identity, access, and usage to keep your data safe, secure, and centrally managed.
+Membership within Sentry is handled at the organization level.
+The system is designed so each user has a singular account that can be reused across multiple organizations (even those using SSO).
+Each Sentry user should have their own account and can choose their own personal preferences and notifications settings.
+Access to organizations is dictated by role:
+
+Billing
+Member
+Admin
+Manager
+Organization Owner
+
+For any organization on a Sentry plan, the project administration portal is the hub for seeing and managing users and usage.
+The member list includes the username, email, status, added date, teams, and role for each user.
+The admin or owner can revoke access by project, team, or org and change the user role.
+Additionally, the admin can request login and password history and revoke passwords and active sessions for any user via request to Sentry Support.
+In the audit log, all of the actions by user and event within the Sentry UI (e.g., member.invite, project.create) are listed chronologically by time and IP address so youâll always have a view into your organizationâs most recent history.Secure Application Development (Application Development Lifecycle)Sentry practices continuous delivery, which means all code changes are committed, tested, shipped, and iterated on in a rapid sequence.
+A continuous delivery methodology, complemented by pull request, continuous integration (CI), and automated error tracking, significantly decreases the likelihood of a security issue and improves the response time to and the effective eradication of bugs and vulnerabilities.
+Release notes and details for Sentry and its SDKs can be found on their respective GitHub release pages (e.g., Sentry releases and raven-js releases).Corporate SecurityMalware ProtectionAt Sentry, we believe that good security practices start with our own team, so we go out of our way to protect against internal threats and local vulnerabilities.
+All company-provided workstations run Fleetsmith for inventory management, which enables and enforces full-disk encryption, screen lock, and other security features.Risk ManagementSentry follows the risk management procedures outlined in NIST SP 800-30, which include nine steps for risk assessment and seven steps for risk mitigation.
+All Sentry product changes must go through code review, CI, and build pipeline to reach production servers.
+Only designated employees on Sentryâs operations team have secure shell (SSH) access to production servers.
+We perform testing and risk management on all systems and applications on a regular and ongoing basis.
+New methods are developed, reviewed, and deployed to production via pull request and internal review.
+New risk management practices are documented and shared via staff presentations on lessons learned and best practices.
+Sentry performs risk assessments throughout the product lifecycle per the standards outlined in HIPAA Security Rule, 45 CFR 164.308:
+
+Before the integration of new system technologies and before changes are made to Sentry physical safeguards
+While making changes to Sentry physical equipment and facilities that introduce new, untested configurations
+Periodically as part of technical and non-technical assessments of the security rule requirements as well as in response to environmental or operational changes affecting security
+Contingency PlanningThe Sentry operations team includes service continuity and threat remediation among its top priorities.
+We keep a contingency plan in case of unforeseen events, including risk management, disaster recovery, and customer communication sub-plans that are tested and updated on an ongoing basis and thoroughly reviewed for gaps and changes at least annually.Security PoliciesSentry maintains an internal wiki of security policies, which is updated on an ongoing basis and reviewed annually for gaps.
+An overview of specific security policies is available to Sentry enterprise customers upon request:
+
+Information Security
+Risk Management
+Security Incident Response
+Vulnerability Management
+Policy Management and Maintenance
+Data Request
+Change Management
+System Access
+Background ChecksSentry conducts background checks for all new hires, including verification on the following:
+
+Identity verification
+Global watchlist check
+National criminal records check
+County criminal records check
+(U.S.
+only) Sex offender registry check
+Security TrainingAll new employees receive onboarding and systems training, including environment and permissions setup, formal software development training (if pertinent), security policies review, company policies review, and corporate values and ethics training.
+All engineers review security policies as part of onboarding and are encouraged to review and contribute to policies via internal documentation.
+Any change to policy affecting the product is communicated as a pull request, such that all engineers can review and contribute before internal publication.
+Major updates are communicated via email to all Sentry employees.Disclosure PolicySentry follows the incident handling and response process recommended by SANS, which includes identifying, containing, eradicating, recovering from, communicating, and documenting security events.
+Sentry notifies customers of any data breaches as soon as possible via email and phone call, followed by multiple periodic updates throughout each day addressing progress and impact.
+Sentry Enterprise plans include a dedicated customer success manager who holds responsibility for customer communication, as well as regular check-ins and escalations.
+Sentry maintains a live report of operational uptime and issues on our status page.
+Anyone can subscribe to updates via email from the status page.
+Any known incidents are reported there, as well as on our Twitter feed.Vulnerability DisclosureAnyone can report a vulnerability or security concern with a Sentry product by contacting security@sentry.io and including a proof of concept, a list of tools used (including versions), and the output of the tools.
+We take all disclosures very seriously, and once we receive a disclosure we rapidly verify each vulnerability before taking the necessary steps to fix it.
+Once verified, we periodically send status updates as problems are fixed.
+To encrypt sensitive information that is sent to us, our PGP key can be found on keyservers with the fingerprint:
+774A FA98 315A 9600 41C7 C17B F08D DBE4 DB76 8FBC
+Other ResourcesCompliance CertificationsSentry has obtained the following compliance certifications:
+
+SOC2 Type I
+SOC2 Type II
+HIPAA Attestation
+
+Contact us for a copy of any report(s) youâre interested in reading (Itâll be less infuriating than your social feed.) If you already use Sentry, you can access the report via your Sentry account.Annex IIIList of SubprocessorsName (full legal name)Address:Description of processing:Amazon Web Services410 Terry Avenue NorthSeattle, WA 98109Cloud infrastructure servicesGoogle Cloud Platform1600 Amphitheatre ParkwayMountain View, CA 94043Cloud infrastructure servicesSendGrid889 Winslow St.Redwood City, CA 94063Email delivery services
+      

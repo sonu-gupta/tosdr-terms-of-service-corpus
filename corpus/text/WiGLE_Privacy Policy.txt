@@ -1,0 +1,36 @@
+
+         Privacy:Frequently Asked Questions The WiGLE WiFi Android Client: Why Does WiGLE WiFi ask to access...
+
+...my WiFi state?
+
+ As a network detection package, WiGLE WiFi Wardriving records WiFi Networks when your device can see them.
+
+
+...my cellular network state?
+
+ As a network detection package, WiGLE WiFi Wardriving records cell Networks when your device can see them.
+It also detects when you're in a voice call and mutes the audio output so we don't interfere with your conversation.
+
+
+...my internet connection?
+
+ In order to upload network observations, check stats and status, receive news, and download observation data, internet access is required.
+
+
+...my external storage and files?
+
+ To record observations and stage files, it may help to use larger external storage on your device.
+
+
+...my camera?
+
+ In recent versions of the OS, WiGLE WiFi Wardriving can save you the trouble of typing your username and password using a QR code from the WiGLE Website for logged-in users.
+ WiGLE WiFi Android Client: How it interacts with the website 
+How do you keep my identity and location safe?
+
+ Just like the website, WiGLE WiFi Wardriving doesn't require real identifying information.
+We may profile your device, but don't need or want information that could be used to identify it directly.
+Your observed networks and traces are available directly only to you, but not traceable to you.
+If you're the first person to observe any individual network, you'll be credited with its discovery internally but the publicly accessible network data will not list your name.
+As a website, WiGLE doesn't re-vend your individual observations, only a trilaterated location based on a number of observations by any number of participants.
+

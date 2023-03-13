@@ -1,0 +1,164 @@
+
+         &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+Your security is our priority 
+When you sign up to use our product, we sign up to keep your data safe.
+
+We know that Prezi is an awesome tool for spreading ideas, and can reinvent how people share knowledge, tell stories, and inspire their audiences to act.
+We also know that trust is a necessary component for such a tool to work. 
+Thatâs why our commitment to you goes beyond just helping you make your best presentations ever.
+It goes to protecting the most valuable (and vulnerable) asset of all: your personal information. 
+We want you to rest assured knowing our skilled security team uses industry-leading technology to manage all areas of network, system, data, and application security.
+With no corners cut.
+And no exceptions. 
+Hereâs a quick look at the strict principles we live by in order to earn your trust and keep it.
+Thank you for choosing Prezi.  &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+Infrastructure and network security &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+
+Network ACLs
+
+We follow a microservice architecture in which the different services are loosely coupled and each of them is responsible only for a specific feature or function within the application. 
+Access is restricted to the microservices on a networking level.
+Services and databases hosted by AWS, by default, are not accessible from anywhere.
+explicit inbound rules must be added manually. 
+  &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+
+Change monitoring
+
+To ensure that changes potentially affecting the security of the infrastructure are quickly detected, an automated solution was developed by the Security Team that creates alerts in the ticketing system for review.  &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+
+Automated vulnerability scanning
+
+Automated black-box vulnerability scans are executed both periodically and in reaction to infrastructural changes in our cloud environment in order to quickly identify potentially vulnerable systems.
+
+Third-party penetration tests
+
+At least on an annual basis, we engage an independent third-party auditor to perform an infrastructure- and application-level penetration test.
+
+Responsible Disclosure Program
+
+As a result of our public Responsible Disclosure Program (https://prezi.com/bug-bounty/), both our infrastructure and application are continuously scanned by vulnerability scanners and enthusiastic security researchers. 
+
+Security Incident Event Management (SIEM)
+
+Our SIEM solution collects, processes, and correlates detailed logs from our cloud infrastructure, from the nodes running on it, and from the applications themselves.
+The security team operates as a security operations center and is responsible for monitoring and responding to both internal and external threats.
+The team responds on an ongoing basis to automated alerts opened by different detection mechanisms (e.g.
+AWS GuardDuty, AWS Macie, AWS usage logs, threat detection alerts from the infrastructure through Sysdig Falco, detailed security relevant logs from infrastructure components, web security related logs, etc.)
+
+Web Application Firewall (WAF)
+
+We use a next-gen web application firewall solution in blocking mode as a first line of defense in front of all customer-facing web traffic.
+
+Encryption in transit
+
+By default, we use TLS encryption between the Prezi client (either the browser or our desktop/iOS/Android application) and the server.
+TLS connection is also set up between servers running in different regions. 
+Load balancers are used to terminate TLS with automatic issuance of certificates with strong security parameters (2048-bit RSA public keys with SHA256+RSA signature algorithm).
+TLS is also supported for all email communications we have with our customers.
+
+Encryption at rest
+
+Critical customer data (Prezi XMLs and media assets) created after February, 2018 is encrypted on the server side with AES-256.
+The encryption is transparent.
+keys are managed by our cloud infrastructure provider.
+
+Datacenter
+
+We use a top-tier third-party cloud service provider that is compliant with numerous regulations and privacy standards (EU General Data Protection Regulation, HIPAA, GLBA, HITECH), and possesses industry-recognized certifications (SOC, PCI, FedRAMP, ISO and more).  &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+Application security 
+Security reviews
+
+To highlight potential security risks as early as possible, all architectural plans are reviewed by the Security Team.
+On a case-by-case basis, the Security Team also executes threat-modeling exercises in partnership with the engineering teams involved.
+As a result, the Security Team interacts on a daily basis with developers and engineers to share security mindset, best practices, and efficient tools.
+
+Static code analysis
+
+We are supporting our secure software development lifecycle with tools that automatically detect code changes against security best practices.
+The Security Team reviews all code changes flagged as potential risks, keeps track of open issues, and communicates with engineers to share security-related knowledge and best practices on a daily basis.
+
+Third-Party Penetration tests
+
+At least on an annual basis, we engage with an independent third-party auditor company to perform an infrastructure- and application-level penetration test.
+
+Responsible Disclosure Program
+
+As a result of our public Responsible Disclosure Program (https://prezi.com/bug-bounty/), both our infrastructure and application are continuously scanned by vulnerability scanners and enthusiastic security researchers. 
+
+Auditing
+
+We have detailed user activity logging, including (but not limited to) security-related events like login, password change, presentation creation/deletion/modification, privacy settings, and access rights changes at the application level. &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+Product security 
+Sharing prezis and data privacy
+
+After creating a presentation, you can protect who sees it by specifically adding collaborators or generating a view link that can be sent to anyone you choose.
+You can also make your presentation available for the entire world to see by changing its privacy settings.
+For more information please visit:
+
+https://support.prezi.com/hc/en-us/articles/360003478554-Setting-privacy
+https://support.prezi.com/hc/en-us/articles/360003498553-Collaborating-in-Prezi-Next
+https://support.prezi.com/hc/en-us/articles/360003499433-Sharing-a-presentation
+
+
+Authentication and credential storage
+
+Prezi supports email and password-based authentication along with third-party authentications like Facebook and Google.
+The passwords are never stored in plaintext.
+
+Encryption in Transit
+
+By default, we use TLS encryption between the Prezi client (either the browser or our desktop/iOS/Android application) and the server.
+TLS connection is also set up between servers running in different regions. 
+Load balancers are used to terminate TLS with automatic issuance of certificates with strong security parameters (2048-bit RSA public keys with SHA256+RSA signature algorithm).
+TLS is also supported for all email communications we have with you. &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+Compliance 
+SOC2 Type 1 report on Security
+
+We successfully went through an audit by an independent external third-party and obtained a SOC2 report on Security for Prezi .
+The report is available upon request to Prezi Business subscribers who sign a nondisclosure agreement.
+For more information please contact our Sales team.
+
+Privacy and data protection
+
+You can read our Privacy policy online and find more details about Prezi and GDPR, and CCPA in our Knowledgebase.
+For our Privacy Whitepaper please contact our Sales team. &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+Additional resources 
+Security Whitepaper
+
+For our Security Whitepaper please contact our Sales team.
+
+Privacy Whitepaper
+
+For our Privacy Whitepaper please contact our Sales team. &nbsp.
+&nbsp.
+&nbsp.
+&nbsp.
+
+      

@@ -1,0 +1,129 @@
+
+          
+
+Free Privacy Score
+
+
+Features
+
+
+Screenshots
+
+
+Blog
+
+
+Demo
+
+
+Privacy Policy
+
+Terms of Service
+
+
+
+Contact
+
+
+More
+
+
+
+Use tab to navigate through the menu items.Privacy PolicyDefinitions
+
+Vogel App: The mobile Vogel application, available for Android and iOS operating systems.
+
+
+Vogel Server: The Vogel server application, running on Amazon Web Services cloud, communicates securely with the Vogel application.
+
+
+Vogel Service: The discrete service Vogel can perform on behalf of the user (e.g.
+tighten Facebook privacy settings).
+
+SummaryHow Vogel works:
+
+
+A user downloads and uses the Vogel app on their device.
+
+
+The user requests the Vogel app to conduct one or more tasks on their behalf (e.g.
+tighten Facebook privacy settings).
+
+
+The Vogel app requests the user for information (e.g.
+their Facebook username and password) to complete the tasks.
+
+
+The Vogel app uses the information to complete the tasks either on the user device itself or sends the information to the Vogel server securely.
+
+
+The Vogel app and Vogel server discard the user information after the task is completed.
+
+
+In the following sections, we provide more detail with respect to the data collection.
+What do we collect?
+Personal data including, but not limited to:
+1.
+Name
+2.
+Address
+3.
+Email
+4.
+Phone
+5.
+Date of birth
+6.
+Username and password for services used (e.g.
+Facebook, Google, etc.)
+7.
+Social security number
+8.
+Answers to security questions (verification questions)
+Why do we collect this information?
+Vogel helps users:
+
+
+Tighten their privacy settings on social media (e.g.
+Facebook)
+
+
+Delete personal data collected by Internet companies (e.g.
+Google), and by gadgets (e.g.
+Amazon Alexa)
+
+
+Opt-out of personal information sales by data brokers
+
+
+Set up and manage credit file locks/freezes with the major credit bureaus
+
+
+To perform these tasks, Vogel needs to use the personal data listed above.
+What do we do with this information?
+
+
+Authenticate the user and make setting changes (e.g.
+turn location tracking off at Facebook),
+
+
+Make appropriate requests (e.g.
+opt-out requests) to service providers and data collectors,
+
+
+Set up accounts with services (e.g.
+credit bureaus) that will enable credit locks/freezes and other privacy protection measures on the userâs behalf.
+
+
+After completing the above tasks, the Vogel app deletes the data for the user, on the Vogel app, as well as on the Vogel server.
+Where is the information stored?
+The information is stored temporarily on the user device (inside the Vogel app), or securely on the Vogel servers while the Vogel services are completed on behalf of the users.
+All data collection by Vogel is temporary
+The Vogel app collects the user data only for the period of time necessary (usually between a few seconds to a few minutes) to complete each Vogel service.
+Thereafter, the data is discarded.
+How is the information discarded?
+The information is discarded from the Vogel app and the Vogel servers every time a task is completed.
+The Vogel app running on the userâs device, and the Vogel server store the information temporarily in the memory (RAM) and not on any kind of long-term storage (disk).Â©&nbsp.
+Copyright by Vogel 2021&nbsp.
+
+      

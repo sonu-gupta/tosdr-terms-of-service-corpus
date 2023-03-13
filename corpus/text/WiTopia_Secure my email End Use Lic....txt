@@ -1,0 +1,162 @@
+
+Copyright (c) 2014-2021 Witopia, Inc.
+Email: support@securemyemail.com
+This End User License Agreement (the âAgreementâ) applies to the SecureMyEmailâ¢ (âSMEâ) client software and plugin applications for all operating systems, including, but not limited to macOS, Windows, Android, and iOS.
+The terms â clientâ and âSoftwareâ refer to the SME client software for any operating system, unless more explicitly identified elsewhere in this Agreement.
+In this Agreement, âYouâ or âYourâ refers to the active subscriber to the SecureMyEmailâ¢ Service installing or intending to install or use the Software.
+The terms âWe,â âUs,â or âWitopiaâ refer to Witopia, Inc.
+By installing, operating, distributing, or otherwise using the Software You acknowledge that You have read this Agreement, acknowledge it, and consent to be bound by the terms of this Agreement and becoming a party to it.
+If You do not agree to the terms of this Agreement, do not install or use the Software.
+
+PROPRIETARY RIGHTS. The SecureMyEmailâ¢ clients and plugins are not free software.
+They are licensed, not sold, to You, exclusively for use in connection with the SecureMyEmailâ¢ service (the âServiceâ).
+The Software is protected by copyright laws and international treaty provisions, as well as other intellectual property laws and treaties.
+
+LICENSE RESTRICTIONS. Except as expressly permitted in this Agreement, You MAY NOT:
+a.
+Sublicense, rent, or lease any portion of the Software.
+reverse engineer, decompile, disassemble, modify, translate, make any attempt to discover the source code of the Software, or create derivative works from the Software.
+b.
+Use the Software in any manner not authorized by this license.
+nor
+c.
+Use the Software in a manner that violates the Terms of Use or Terms of Service of Witopia as may be in effect at the time of Your use or any additional restrictions referenced or set forth elsewhere in this Agreement.
+
+
+
+LICENSE GRANT. Subject to the terms of this Agreement, We grant You a limited, personal, nonexclusive license to use the Software in accordance with this Agreement and the Terms of Service for the Service.
+
+INDIVIDUAL LICENSE. If You have purchased an active individual subscription to the Service, You may:
+a.
+Make one copy of the Software for archival purposes, or copy the Software onto the hard disk of your computer and retain the original for archival purposes.
+and
+b.
+Install the Software on up to seven (7) of Your computers or devices (or other computers or devices upon which you are authorized to install software).
+and
+c.
+Use the Software to connect to the Service, provided that no other person will be making significant use of the Software on the devices upon which the Software is installed.
+
+
+
+VOLUME LICENSE. A company or other organization may purchase a volume license.
+A volume license entitles the Software to be provided to the licensed number of users on Your SecureMyEmail account or accounts, and the use of the licensed version of the Software for the duration of Your valid subscription to the Service.
+As long as the Software is not distributed to more than the licensed number of users for your account or accounts, you may:
+a.
+Distribute the Software to authorized users under Your SecureMyEmail account as governed by the âREDISTRIBUTIONâ section of this Agreement.
+b.
+Install the Software on a computer or device used by one or more authorized users, not to exceed a total of seven (7) devices for each authorized user under your volume license.
+c.
+Make copies of the Software for backup or archival.
+and
+d.
+Allow an employee to install the Software on their home computers or devices for use in the course of their employment, so long as this does not exceed the total number of installations described in item (b) under this Section.
+e.
+Allow the authorized users under Your SecureMyEmail account to use the Software to connect to the Service, provided that no person other than a user authorized under Your SecureMyEmail account will be making significant use of the Software on the computers or devices upon which the Software is installed.
+
+
+
+REDISTRIBUTION. With the exception of volume license situations as specifically described earlier in this Agreement, You may not distribute copies of the Software, either modified or unmodified, except for the following:
+a.
+You have a volume license for the Software and are distributing the Software client only to authorized users covered by Your volume license.
+b.
+Partners/resellers of SecureMyEmail service may distribute the Software in accordance with the terms of their specific written agreement.
+c.
+For certain open source third party software components included in the Software, You may distribute source or object code for those components that permit this, only in accordance with the software license that applies to that particular component.
+Information on open source software included with the Software may be found in the âThird Party Softwareâ section of this document.
+
+
+
+UPGRADES. Upgraded versions of the SecureMyEmail service may be announced automatically by the Software, on the SecureMyEmailâ¢, personalVPNâ¢, or Witopia, Inc.
+websites, or Google Play or Apple App Store.
+Upgrades may include additional features and/or bug fixes over previous releases.
+
+THIRD PARTY SOFTWARE. The Software may include portions of code or other data that contain, or are derived from, software or other data developed by other persons or organizations.
+All use of such third party software is subject to and governed by the respective licenses for the software listed below.
+Where a third party license requires that source code be made available, Witopia agrees to provide a copy of the source code via electronic download.
+To request source code under a license, please email gpl-inquiries@securemyemail.com listing the third party code desired.
+
+OpenSSL
+
+https://github.com/openssl/openssl
+https://github.com/openssl/openssl#license
+
+Beego
+
+https://beego.me/
+https://github.com/beego/beego/blob/develop/LICENSE
+
+GopenPGP V2
+
+https://github.com/ProtonMail/gopenpgp
+https://github.com/ProtonMail/gopenpgp/blob/master/LICENSE
+
+go-imap
+
+https://github.com/emersion/
+https://github.com/emersion/go-imap/blob/master/LICENSE
+
+enmime
+
+https://github.com/jhillyerd/enmime
+https://github.com/jhillyerd/enmime/blob/master/LICENSE
+
+Gorilla WebSocket
+
+https://github.com/gorilla/websocket
+https://github.com/gorilla/websocket/blob/master/LICENSE
+
+Torii
+
+https://github.com/Vestorly/torii
+https://github.com/Vestorly/torii/blob/master/LICENSE
+
+DidiSoft
+
+https://www.didisoft.com/android-openpgp/
+
+JavaMail
+
+https://javaee.github.io/javamail/
+https://javaee.github.io/javamail/LICENSE
+
+MailCore2
+
+https://github.com/MailCore/mailcore2
+https://github.com/MailCore/mailcore2/blob/master/LICENSE
+Additional license information may be found as a part of the software installation on Your computer or on the SecureMyEmail website at: https://www.securemyemail.com/legal/licenses
+
+EXPORT. Although housed in and distributed from Switzerland, the Software may be subject to United States export controls.
+You may not export or re-export the Software without:
+a.
+The prior written consent of Witopia, Inc.
+b.
+Complying with any applicable export control laws, and
+c.
+Obtaining all appropriate permits and licenses.
+
+
+In any event, You may not transfer or authorize the transfer of the Software to:
+a.
+A prohibited territory, country or organization (currently including Crimea Region of Ukraine, Cuba, Iran, North Korea, Sudan and Syria, unless otherwise provided by U.S.
+law),
+b.
+Anyone on the U.S.
+Treasuryâs lists of Specially Designated Nationals (including the Government of Iran, Government of Sudan, Government of Cuba, and prohibited members of the Cuban Communist Party),
+c.
+Any person or organization named on the United Stateâs Commerce Departmentâs Denied Parties List, Entity List, or Unverified List, or on the U.S.
+State Departmentâs Debarred List or Nonproliferation List, or
+d.
+Otherwise in violation of any applicable restrictions or regulations.
+
+
+You understand and agree that the Service may contain information that is controlled and restricted from export by United States export controls.
+If Witopia, in its sole discretion, determines that it cannot implement the Service in a manner to exclude access to Controlled Information where required, if You are in a country or territory that is subject to such regulation, You shall not be provided access to the Service, and as a result, do not have a valid license to the Software.
+
+LIMITED WARRANTY AND LIMITATION OF REMEDIES. YOUR USE OF THE SOFTWARE AND SERVICE ARE AT YOUR OWN RISK.
+THE SOFTWARE AND SERVICE ARE PROVIDED ON AN âAS ISâ AND âAS AVAILABLEâ BASIS, WITHOUT WARRANTIES OF ANY KIND, EXPRESS, STATUTORY OR IMPLIED, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT OR NONMISAPPROPRIATION OF INTELLECTUAL PROPERTY RIGHTS, TITLE, CUSTOM, TRADE, QUIET ENJOYMENT, ACCURACY OF INFORMATION CONTENT, OR SYSTEM INTEGRATION.
+WE DO NOT WARRANT THAT THE SERVICE OR THE SOFTWARE WILL BE AVAILABLE OR OPERATE IN AN UNINTERRUPTED, ERROR-FREE, TIMELY OR COMPLETELY SECURE MANNER, OR THAT ERRORS OR DEFECTS WILL BE CORRECTED.
+
+LIMITATION OF LIABILITY. UNDER NO CIRCUMSTANCES SHALL WITOPIA, INC., OR THEIR AUTHORIZED PARTNERS OR SUPPLIERS, BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATING TO THESE TERMS OR USE OF THE SERVICE OR SOFTWARE.
+
+VENUE. This Agreement shall be governed by the Laws of the Commonwealth of Virginia.
+Exclusive jurisdiction and venue for all matters in this agreement shall be in courts located in Fairfax County, Virginia and you consent to such jurisdiction and venue.

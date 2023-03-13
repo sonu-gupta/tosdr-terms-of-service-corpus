@@ -1,0 +1,80 @@
+
+         Email contains your most private dataThis is why security and privacy are our top priority.
+ Tried &amp.
+tested securitySaneBox was tested by Leviathan Security Group and passed the Google Cloud Platform OAuth API Verification required security audit with flying colors! View Report 
+Continuously audited by White Hat Security.
+View Report 
+A+ Grade from Qualys SSL Labs!
+
+Think you found a security bug?
+Request an invite to our bug bounty program through HackerOne.Data securitySaneBox's use of information received from Google APIs will adhere to Google API Services User Data Policy, including the Limited Use requirements.
+These same protections are applied to all other email services that connect to SaneBox.
+
+Your emails never leave your server
+SaneBox never takes possession of them, and only analyzes headers to determine what's important.
+
+Your credentials are safe
+SaneBox needs access to your Inbox, which means we need your password or OAuth token.
+Your credentials are encrypted with proven public key cryptography, and placed on a server that's unreachable from the public Internet.
+
+Your data is completely private
+SaneBox algorithms analyze the patterns in your email behavior (which emails you open, which emails you respond to, how quickly, etc) to determine whatâs important to you.
+We never look at the content of your emails.
+
+ Active Directory integration
+IT administrators can authenticate user account without ever exposing credentials via Active Directory on MS Exchange, Google Apps provisioning, or IBM Notes Delegation.
+In this case not only your email data, but even your login credentials never leave your server.Network securityOur mail processing servers never accept connections from the public Internet.
+All network access is provided through encrypted VPN tunnels via a bastion server.
+From there, our servers are accessed by our authenticated engineers via SSH, and all access is logged and audited.
+There are no exceptions.
+Physical securitySaneBox uses an accredited services provider which means we take security, data integrity and business continuity very seriously.
+
+We insist on the operators providing the same physical access restrictions and controls to meet and surpass ISO standards.
+We require all of our data center operators to have and maintain ISO accreditation and to operate at the highest standards of physical security.
+
+
+
+These standards include:
+
+Access approval and recording at the perimeter, the building and the data center suites.
+Pre-approved access requests via our ticketing system 
+ID checks at reception with photo-id requirement.
+(passport/driving license)
+24/7 CCTV and on-site security monitoring 
+Biometric and key-fob controls at all entry/exit points so that all movement is recorded
+Access control expiry (date and time)
+Roof to ceiling enclosures to prevent unauthorised physical access within the data center suites.
+Racks are locked at all times and require a staff member to unlock them.
+Cabling is secured within overhead cable trays 
+Personnel securityEach of our personnel is hand picked, fully vetted with internal methods.
+Only select senior engineering personnel are allowed to access our production servers, and access logs are kept at all times.Using SaneBox is safe and easy!Most services authorize SaneBox without a password.
+
+ btn_google_light_normal_ios Created with Sketch.
+Group 7 Created with Sketch.
+Some create a unique passkey just for SaneBox. 
+We care deeply about your privacy and security.
+ Product
+FAQ
+Tour
+Help
+For Business
+Cookie Preferences
+Company
+About
+Security
+Privacy
+Terms
+Resources
+SaneBox for You
+100 Email Tricks 
+Email Overload in the Enterprise 
+Inbox Zero Academy
+Community
+Partners
+Testimonials
+Press
+Blog
+Share the love
+Â© Copyright 2021 SaneBox, Inc.
+Instagram Facebook Twitter LinkedIn 
+      

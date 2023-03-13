@@ -1,0 +1,84 @@
+
+         Colophon  Or, how this site is made.
+ Privacy
+I also use Adobe Fonts for one of the typefaces on the site (see below), and Adobe tracks font usage.
+If you find a type-face that has some of the same character as Cronos Pro, shoot me an email.
+I will seriously consider replacing it if I find something I like equally well.
+I loathe Adobeâs approach to font licensing and to privacy.
+Otherwise, there is zero trackingâââof any sortâââon this site.
+Implementation
+I built this version of the site with Eleventy.
+You can find the entirety of the implementation (and indeed the entire history of the implementation) on GitHub.
+Iâm using it with the following plugins:
+
+
+
+typeset: my own implementation of a plugin for typeset, heavily inspired by eleventy-plugin-typeset.
+
+
+
+markdown-it plugins:
+
+
+abbreviations
+anchor
+definition list
+footnote
+implicit-figures
+superscript
+
+
+
+
+spacewell: a little tool I built a few years ago to insert hair spaces around em dashes and thin spaces with non-breaking spans around number-separating en dashes.
+the source is colocated with the rest of the site.
+
+
+Typography
+Perhaps my favorite part of web design, and also the part with which I spend the most part fussing. Context
+Typeface Body text
+Sabon, designed by Jan Tschichold in the mid-1960s as a Garamond revival.
+In my opinion, the most beautiful Garamond in existence.
+Licensed via Fonts.com.
+Headings
+Cronos, designed by Robert Slimbach in 1996.
+A nice contrast to Sabon with its digital-era roots.
+The typeface Iâve been using on my site the longest at this point! Licensed via Adobe Fonts.1 Code
+Hack, designed by Chris Simpkins in 2015 as an extension of the Deja Vu/Bitstream Vera lineage.
+Licensed in parts under the MIT License, the public domain, and Bitstream Vera License (see details here).
+Inspiration
+While working on this design, I took more-or-less-direct inspiration in a variety of ways from some of my favorite current or previous designs around the web:
+
+
+Tim Brown
+
+
+Ethan Marcotte
+
+
+Trent Walton
+
+
+Craig Modâââa truly wonderful site, but I actually loved the previous design iteration even more.
+
+
+Jen Simmonsâââas with Modâs current site, I really like what sheâs doing on her site nowâââitâs all sorts of fun layout-wiseâââbut itâs quite distinct from what she was doing when I was stealing ideas from her late in 2018!
+
+
+Reda Lemeden
+
+
+Jason Santa Mariaâââfrom whom, if I recall, I originally got the idea of a versioned website.
+
+
+Copyright and License
+All content is copyright Chris Krycho, 2019âââ2021 under a Creative Commons Attribution 4.0 license.
+All custom software components are copyright Chris Krycho, 2019âââ2021 under a MIT license.
+
+
+Longtime readers may recall (and new readers may be curious about) my deep frustrations with this situation.
+Nothing there has changedâââbut I ended up paying for Adobeâs Lightroom package when I picked back up photography, and it comes bundled.
+So here we are.
+â©ï¸
+
+

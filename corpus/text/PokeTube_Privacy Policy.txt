@@ -1,0 +1,142 @@
+
+         We dont collect or share your personal information! That's our privacy policy TL;DR lol 
+
+
+
+
+Poketube does not collect or share personal information.
+poketube is a free software program that you can fork it yourself.
+you can see the repo here.
+ see history of this privacy policy here
+
+
+ You dont have to read this entire policy as it might put you to sleep.
+So in TL;DR:We dont collect or share your personal information.
+thats it lol 
+ SECTIONS Preamble
+Information Not Collected
+Information Collected
+ Information Shared
+Tools We use
+Liability
+ The Boring Part BORINGG SHUT UP NERD
+ POKETUBE POLICY LICENSE INFO ===================================
+ Copyright (C) 2021-2022 POKETUBE 
+ This policy is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+ ===================================  Preamble&nbsp.
+
+Please note that im not a lawyer, so dont execpt too much on this policy :P
+
+ Haiii! Welcome to PokeTubes Privacy Policy! We Dont collect or share your information.
+Ever.
+When we collect information, we mean, aggregated information (see "Information Collected" section for more info).
+The main reason that we dont collect your information is we care about your privacy.
+like alot (like alot alot).
+see.
+whynottrack.com
+ We are free software, meaning you have freedom while using PokeTube.
+Learn why you should care about your freedom here.
+
+
+We dont use javascript on the front-end of PokeTube.
+Meaning that you can use PokeTube With no javascript add-ons.
+Learn Why here.
+
+
+P.S:I love you <3 
+START OF PRIVACY POLICY Information Not Collected &nbsp.
+ (yes, you heard it right, Information  Not Collected ) 
+ When you watch a video at PokeTube, we don't know who you are and there is no way to tie the things you are watching.
+When you access a website, your Web browser automatically sends information about your computer.
+(e.g.
+your User agent and IP address.)
+ Because this information could be used to link you to your peronsal information, we do not log (store) it at all.
+This is a very unusual practice, but we feel it is an important step to protect your privacy.
+It is unusual for a reason.
+most server software auto-stores this information, so you have to go out of your way not to store it.
+At PokeTube, no cookies are used by default.
+PokeTube Doesnt use cookies (See the storage tab yourself!).
+
+ At PokeTube, we dont collect your personal information or share it.
+We dont collect your IP address.
+Your device metadata (e.g.
+device resolution, OS etc.) is not collected in anyway.
+
+ Our servers are secured with SHA-384 Signature Algorithm.
+meaning we cant see the videos you watching, things you search, or things you do.
+Learn more About hash Algorithms here.
+ We migth use third party services on PokeTube, but third party request on PokeTube is proxied by default.
+no third party can see wat the hell ru doing on PokeTube.
+We do this by proxying the requests via a whole diffrent server, so no third party can see you.
+
+ Information Collected &nbsp.
+We use a tool called Piwik (A free software Web analytics system, see piwik.org) to collect information.
+By information we mean, aggregated data about things such as the number of visits daily/weekly/monthly to PokeTube.
+
+ This data can't be used to identify you or your device or to learn anything about you individually.
+This Information thats being collected is anonymous and only analyzed in aggregate.
+It will never identify you or your machine.
+ This Process does not use cookies in any way.
+If you want to opt out (for some reason, we still dont know why lol), Click the "Opt out Of Metrics" Button on the bottom rigth side of the player.
+No data that identifies you or that can be linked to you as an individual is collected on poketube.
+We Also save searches, but again, not in a personally identifiable way, as we do not store IP addresses or unique User agent strings.
+We use aggregate, non-personal search data.
+
+Finally, if you Subscribe to updates on PokeTube status site, we may be store your email to send you email notifications whenever we create, update or resolve an incident.
+you can also use a Private Duck Address to keep your email identity hidden and a email that can be easily deactivated.
+Subscribing to updates is optional to do so ! Information Shared &nbsp.
+
+ru fr or ong? WE DONT SHARE YOUR INFO LOL  Tools we use &nbsp.
+
+Any requests being made to these tools are being proxied by poketubes proxy
+
+ We use ReturnYoutubeDislike's api to get dislike information.
+
+
+We use Apples Itunes Service to get song info.
+we do not send any unique identifiers such as IP addresses to Apple, and you are still anonymous.
+
+We use LightTube's api to get ;
+
+- Video information 
+- Recomended videos 
+- Channel information
+ No personal Information is collected by the tools we use.
+
+ Liability  We take no responsibility for the use of our tool, or external instances provided by third parties.
+We strongly recommend you abide by the valid official regulations in your country.
+Furthermore, we refuse liability for any inappropriate use of PokeTube, such as illegal downloading.
+This tool is provided to you in the spirit of free, libre software.
+
+ You may view the GPL V3 licence which this software is provided to you here.
+a copy of the section is bellow.
+
+ IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+END OF PRIVACY POLICY
+This is the end of our privacy policy (so helpful ik) Other Cool Stuff  holly shit these are stuff that are not boring (real)  Other Free YouTube Front-Ends &nbsp.
+If you care about privacy and your freedom, you might also want to check out these other YouTube Front-ends that take it seriously by default
+
+Invidious [Source Code] 
+LightTube [Source Code]
+
+Each One does things a bit differently in terms of privacy and your freedom.
+However, none store your personal information by default and they are free software, which make them all pretty safe in our opinion License &nbsp.
+ PokeTube is free software, You can fork and modify the source code under the terms of the GNU General Public License Version 3 or later.
+our source code is Here! 
+ see our license page  Feedback &nbsp.
+ I (Ashley) am the creator of Poketube and personally wrote this privacy policy.
+If you have any questions or concerns, please submit feedback on codeberg :3  Ty! <3 &nbsp.
+ Thank you qt for reading this privacy policy, ILY<3 
+
+
+
+
+
+
+
+
+
+
+

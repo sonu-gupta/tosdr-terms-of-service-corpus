@@ -1,0 +1,37 @@
+
+Belkin International places a high value on security of its networking products.
+For many people, their home Wi-Fi router is the only barrier between their home network and a multitude of hostile internet threats intent on taking over their devices.
+To protect our userâs privacy and security, Belkin is happy to accept all vulnerability reports that adhere to our coordinated vulnerability disclosure guidelines.
+
+ In Scope 
+Belkin routers, range extenders, keyboards, and other networked devices
+Linksys routers, range extenders, Wi-Fi dongles, switches, and other networked devices
+WeMo home automation switches, light bulbs, cameras, and other networked devices
+ Not In Scope 
+Any services or systems that are hosted by third party providers or Belkin International owned property, services be it physical or intellectual.
+This includes and is may not only limited to:
+
+
+Belkin.com, Linksys.com, and WeMo.com web endpoints
+WeMo Cloud
+Linksys Smart Wi-Fi web and cloud endpoints
+Social Engineering and Phishing attacks against Belkin employees, contractors, customers, or support
+ How To Submit 
+PLEASE READ THE ENTIRE PAGE PRIOR TO SUBMITTING A VULNERABILITY.
+
+If you need help finding your Wi-Fi password or believe your router has been hacked, please contact Technical support below: Linksys Belkin 
+Please click here to submit your vulnerability. DISCLOSURE After receiving your vulnerability report, the Belkin security team will review your report and commission a fix to our remediation team.
+After Belkin publishes the fix for the affected SKUs listed in your report, Belkin will give the green light to disclose the vulnerability.
+We ask that all coordinated vulnerability disclosures contain the following information:
+
+A link to the firmware download page containing the fixed firmware
+A sentence or two in either the title of the disclosure or in the first few paragraphs confirming that a fix for the vulnerability is available
+Accurate representation of the attack details per the CVSSv3 guidelines (LAN-only attacks are âLocalâ not âRemoteâ, etc.)
+ LEGAL STATEMENT To encourage a healthy working relationship with the security research community, Belkin promises not to engage in legal action against individuals who:
+
+Report vulnerabilities while following the guidelines set by Belkin's Vulnerability Disclosure Program.
+Engage in vulnerability testing within the scope listed above.
+Perform security tests on their own Belkin products.
+Perform security tests on Belkin products with the consent of the owner of the product.
+ Scroll Up 
+      

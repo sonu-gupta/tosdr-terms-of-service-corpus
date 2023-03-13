@@ -1,0 +1,839 @@
+
+        background
+This Service is provided by Wirewax Limited with registered office at 90 High Holborn,
+London, WC1V 6LJ and registered number 06963239 (âWirewaxâ).
+Wirewax has developed certain software applications and platforms which it makes available
+to customers on a SaaS basis.
+The Customer wishes to use Wirewax's services in relation to its business operations.
+Wirewax has agreed to provide, and the Customer has agreed to use Wirewax's services
+subject to the terms and conditions of this Agreement.
+Trial periods are available - provided AS IS with no obligation, warranty or liability by or
+from Wirewax.
+1.
+Interpretation
+
+
+In this Agreement, unless the contrary intention appears:
+
+âAgreementâ means these terms and conditions together with all the recitals, clauses, schedules, annexes and all other documents referred to herein;
+
+"Authorised Users" means the Customer and/or those employees, agents and contractors of the Customer who are authorised by the Customer to use the Services;
+
+âCustomerâ means the company or other legal person or entity identified on the Order form or Trial sign up / registration page;
+
+âCustomer Dataâ means all information, data, content or other materials inputted into or processed using the Platform by the Customer its Authorised Users, or otherwise on its behalf, including from any Customer System;
+
+âCustomer Materialsâ means all materials, video, text, pictures, images, sound, graphics, data, information, logos or other materials supplied by the Customer in whatever form and/or used in connection with the creation of Customer Video(s), and amendments to or versions of the Customer Materials created by Wirewax;
+
+âCustomer Systemâ means the Customerâs own system, CMS or other functionality that it may wish to use to interact with and input information, including Customer Data, into the Platform, and/or use to host and play the Customer Video.
+
+âCustomer Video(s)â means the interactive videos created using the Platform and or the Studio Solutions Services.
+
+âFeesâ means the fees for the Services as specified in the Order Form;
+
+âHosting Packageâ means a hosting only service to facilitate playback of the Customer Video, made available by Wirewax as may be itemised in an Order Form and/or SOW;
+
+"Intellectual Property Rights" means all intellectual property rights, howsoever arising and in whatever media, whether or not registered or capable of registration, including copyright, database rights, confidential information, patents, trademarks, service marks, trade names, design rights, moral rights, business names, domain names and other similar rights and any applications for the protection or registration of these rights and all renewals and extensions thereof throughout the world;
+
+âLawsâ means any applicable legislation, regulation, by law, ordinance, subordinate legislation, code of practice, published guidance and other requirement of any relevant government or governmental agency;
+
+âLicensed Itemsâ means the Wirewax owned APIs, that may be made available by Wirewax to enable the Customer System to interact with the rest of the Platform.
+and/or the Off-platform Functionality that may be made available by Wirewax;
+
+âOff-platform Functionalityâ means the interactive layer (such as hotspots and overlays), player or frame that may be made available by Wirewax to enable the Customer Video to be displayed outside of the Wirewax hosted environment;
+
+âOrder Formâ means the specific order for a Subscription for the Services agreed between the parties;
+
+âPlatformâ means the Wirewax software platform via which the Platform Services are made available, and or the Licensed Items, and all versions, amendments and improvements thereto and/or any other tools, methods, models, know how, code, functionality or other elements owned or developed by Wirewax including during the provision of the Services;
+
+âPlatform Dataâ means all usage and/or statistical or other data, information, learnings or know how related to and/or derived from the use of the Platform by customers and users, only in anonymised and aggregated form, and at all times not including Customer Data or Customer Confidential Information.
+
+"Platform Services" means the SaaS and other services provided by Wirewax via the Platform including access to and use of the Subscription Package, Hosting Package, or other packages as further set out in the Order Form;
+
+âServicesâ means any services to be supplied by Wirewax under this Agreement as itemised in the Order Form being the Platform Services, and/or any Studio Solutions Services;
+
+âSOW / Statement of Workâ means the statement of work detailing any further Studio Solutions Services to be provided under an Order form, as set out in the relevant exhibit thereto.
+
+"Studio Solutions Services" means the bespoke creative services, and/or any consultancy services to be supplied by Wirewax as may be further specified in an SOW to an Order Form if applicable.
+
+"Subscription Package(s)" means the relevant level or tier of package and usage made available under this Agreement as itemised in an Order Form;
+
+âSubscription Periodâ means the relevant subscription period as set out in the Order Form;
+
+âSubscription Start Dateâ means the relevant start date as set out in the Order Form;
+
+âService Level Agreement / SLA" means the service level agreement in accordance with which the Platform Services will be supplied by Wirewax as specified in Schedule 1.
+
+âTermâ means the term of the Agreement as provided for in clause 14;
+
+âThird Party Itemsâ means third party hardware, software, services, content, assets or other third party materials, items or rights used by Wirewax in the provision of the Services.
+
+âTrialâ means temporary trial access to the Platform on a limited basis at Wirewaxâs discretion.
+
+âTrial Start Dateâ means the relevant start date when a Trial is activated by Wirewax.
+
+âVirusâ means any âback doorâ, âTrojan Horseâ, âtime bombâ, âwormâ, âdrop dead deviceâ, âvirusâ or other software intended or designed, or having the effect, to disable, erase, corrupt, destroy or otherwise damage or interfere with, or provided unauthorised access to, computer systems or any software stored on those computer systems;
+
+âWorking Dayâ means any day other than a Saturday, a Sunday or a day which is a public or bank holiday in England and Wales.
+
+
+In this Agreement, unless the context otherwise requires:
+
+words importing a gender include any other gender;
+words in the singular include the plural and vice versa;
+a reference to a person shall include a company, partnership, joint venture, association, corporation or other body corporate;
+a reference to any Law or standard shall include a reference to that Law or standard as amended, extended, consolidated or re-enacted from time to time;
+a reference to a document shall include all authorised amendments, supplements to and replacements to that document;
+a reference to the parties shall include their permitted successors and assigns;
+where a word or a phrase is given a particular meaning, other grammatical forms of that word or phrase shall have corresponding meanings.
+and
+the words âincludeâ, âincludingâ, âfor exampleâ or similar words shall be construed as illustrative and without limitation to the generality of the related words.
+
+
+
+The headings are inserted for convenience only and shall not affect the construction of this Agreement.
+
+
+Unless otherwise stated a reference to a clause or a schedule or a party is a reference to a clause in or a schedule to or a party to this Agreement.
+
+
+This Agreement was drafted with the joint participation of the parties and no provisions of this Agreement will be construed adversely to a party solely on the ground that such party was responsible for the preparation of this Agreement.
+
+
+In the event of any conflict between the terms of the Terms of Use general terms and an Order Form or SoW, the Terms of Use general terms will take precedence save to the extent specifically amended by the Order Form or SoW.
+
+
+2.
+ORDERS, SUBSCRIPTIONS and TRIALS
+
+SUBSCRIPTIONS
+
+
+Subject to the parties provisionally agreeing details relating to the Services, Subscription Period, Fees and other deal terms, Wirewax will issue the Customer with an offer in the form of an Order Form for signature.
+No request for a subscription submitted by a prospective customer nor Order Form issued by Wirewax is effective until Wirewax has received a signed copy of the Order Form from the Customer.
+Subject to the above, the signed Order Form will incorporate these Terms of Use and form the Agreement that is binding on the parties.
+
+
+TRIALS â
+provided AS IS with no obligation, warranty or liability.
+
+
+In the event that Wirewax provisionally agrees to provide the Customer with a Trial, the Customer must complete the relevant sign up / registration details on the Wirewax website, or elsewhere as directed by Wirewax.
+The Customer is required to accept these Terms of Use as a condition of that application for a Trial and the provision of the Trial.
+No request for a Trial submitted by a prospective customer is effective until Wirewax has actively accepted the application and activated the Trial.
+Subject to the above, the Trial terms will incorporate these Terms of Use (as amended in clause 2.5) and form the Agreement that is binding on the parties.
+Notwithstanding any other provisions, the Trial, and related trial access to the Platform, is provided AS IS, at the discretion of Wirewax, with no commitment, warranty or liability on the part of Wirewax.
+In particular (but without limitation), the following clauses are excluded: 3.2, 6.1, 6.2, 6.3, 6.6, 9, 11.1.
+Use of the Platform and receipt of any Services during the Trial is entirely at the Customer's risk.
+At the end of the Trial, access to the Platform and provision of any Services will cease and there will be no roll over of these terms.
+The parties may agree a paid subscription, subject to executing an Order Form as above.
+
+3.
+PLATFORM SERVICES AND LICENCE
+
+Subject to the execution of a relevant Order Form, and receipt of the Fees, (or agreement to provide a Trial) Wirewax will provide the Platform Services and grants to the Customer a non-exclusive, non-transferable, royalty free licence to access and use the Platform, in accordance with the permissions, restrictions and other details set out in the Order Form solely for the Customer's own business purposes and subject to the terms and conditions of this Agreement.
+The Platform Services will be subject to the terms of the Service Level Agreement.
+
+4.
+STUDIO SOLUTIONS SERVICES
+
+Subject to being itemised in, and the execution of a relevant Order Form, and receipt of the Fees, Wirewax will provide the Studio Solutions Services.
+The Studio Solutions Services will be provided in accordance with the details set out in the SOW exhibit to the relevant Order Form.
+Relevant deliverables, specifications, project schedules, acceptance criteria, acceptance testing and other details and requirements will be detailed as appropriate in any SoW.
+
+5.
+LICENSED ITEMS AND THIRD PARTY ITEMS
+
+
+In the event that any Licensed Items are made available to the Customer, Wirewax grants to the Customer non-exclusive, non-transferable, royalty free licence to use the Licensed Items as follows:
+
+(a) use of the APIs shall be limited to integrating or using the same with the Customer System in order to activate the functionality of the Platform within the Customer System and thereby enabling the Customer System to interact with the rest of the Platform or the Customer Video;
+(b) use of the Off-platform Functionality shall be limited to using within the deliverables and files as supplied by Wirewax and always only in conjunction with and to enable the playback of the Customer Video.
+
+
+
+In the event any Third Party Items are incorporated into or are used in conjunction with the Platforms, or are used for the purposes of providing the Services, then Wirewax grants (or shall procure the grant) to the Customer a non-exclusive, non-transferable, royalty-free right to use such Third Party Items for the purposes of receiving the Services, which shall be subject to any Fees identified in the Order Form or otherwise notified to the Customer.
+
+
+6.
+WIREWAX'S OBLIGATIONS AND WARRANTIES
+
+
+Wirewax shall perform the Services with reasonable skill and care and in accordance with good industry practice.
+and will comply with all applicable Laws with respect to its activities under this Agreement.
+
+
+Wirewax warrants and represents that:
+
+(a) it has full right, power and authority to enter into this Agreement;
+(b) it has all the rights, licences, permits, approvals and clearance of third party rights as required by the Laws and as are necessary to perform its obligations and grant the relevant rights under this Agreement;
+(c) the Platform and/or Services will, to the best of its knowledge, contain nothing that infringes the statutory, common law, or Intellectual Property Rights of any third party.
+
+
+
+Wirewax's obligations and warranties with regard to Platform, and/or Services and other provisions of this Agreement shall not apply to the extent of any non-conformance which is caused: by use contrary to the terms of the Agreement and/or Wirewax's reasonable instructions.
+by modification or alteration of the Customer Video by any party other than Wirewax or Wirewax's duly authorised contractors or agents.
+by combination or integration with any third party or Customer systems or services contrary to the terms of the Agreement.
+by the Customer Data, Customer Materials, Customer System.
+or by other Customer breach of the Agreement.
+
+
+In any event, Wirewax:
+
+
+(a) does not warrant that the Customer's use of the Platform and/or Services will be uninterrupted or error-free.
+and
+
+
+(b) is not responsible for any delays, delivery failures, or any other loss or damage resulting from the transfer of data over communications networks and facilities, including the internet, and the Customer acknowledges that the Platform and/or Services are dependent on various third party networks, platforms, services, infrastructures and API's, and as such Wirewax can give no guarantee of availability or functionality, and the Platform and/or Services may be subject to limitations, delays and other problems inherent in the use of such communications facilities and third party networks, platforms, services, infrastructures and API's.
+and
+
+
+(c) makes no warranties or other assurances as to the fitness for purpose of the Platform, Subscription Package, Hosting Package and/or Services nor that they will meet the Customer's requirements or produce any specific business benefits, have any particular effectiveness nor create any revenue or other benefits.
+
+
+
+
+All other conditions, warranties or other terms which might have effect between the parties or be implied or incorporated into this Agreement whether by statute, common law or otherwise, are hereby excluded to the fullest extent permitted by law, including, without limitation, the implied conditions, warranties or other terms as to satisfactory quality and fitness for purpose.
+
+
+Wirewax shall obtain and maintain the insurance as is necessary to cover its liabilities under this Agreement and as required by law with a reputable insurer.
+In any event insurance cover will be no less as set out in Schedule 2.
+
+
+7.
+CUSTOMER'S OBLIGATIONS AND WARRANTIES
+
+
+The Customer shall:
+
+(a) provide Wirewax with all necessary co-operation in relation to this Agreement, and all necessary access to such information as may be required by Wirewax in order to render the Services;
+(b) carry out all other Customer responsibilities set out in this Agreement in a timely and efficient manner (other than making payment which shall be as required under clause 9).
+In the event of any delays in the Customer's provision of such assistance, Wirewax may adjust any timetable or delivery schedule set out in this Agreement as reasonably necessary;
+(c) and hereby does accept responsibility for the selection of the Platform, Subscription Package, Hosting Package and/or Services to achieve its intended results;
+(d) comply with all applicable Laws with respect to its activities under this Agreement.
+and
+(e) btain and shall maintain all necessary licences, consents, and permissions necessary for Wirewax, its contractors and agents to perform their obligations under this Agreement.
+
+
+
+In relation to the Authorised Users, the Customer shall:
+
+(a) not provide access to the Platform other than to its Authorised Users;
+(b) procure that each Authorised User keeps secure the password and account details for their use of the Platform, and that such password is kept confidential;
+(c) be responsible for all activities that occur under the Customer's account, and for any access to or use of the Platform including submission of Customer Data or other data by any person or entity using the account or any password whether or not such access, submission or use has been authorised by the Customer;
+(d) if it believes that there has been any breach of security such as the disclosure, theft or unauthorised use of any username or password, notify Wirewax immediately;
+(e) ensure that the Authorised Users, are notified of the relevant terms and conditions, rules or restrictions relating to their usage and access of the Platform and/or Services, and in any event that they use the Platform and/or Services in accordance with the terms and conditions of this Agreement, and the Customer shall be responsible for any Authorised User's breach of this Agreement.
+
+
+
+The Customer shall not and shall not permit any third party to:
+
+(a) attempt to download, copy, modify, create derivative works from, frame, mirror, republish or distribute any portion of the Platform except to the extent expressly set out in this Agreement.
+or
+(b) attempt to copy, adapt, decompile, disassemble, reverse engineer or otherwise reduce to human-perceivable form all or any part of the Platform, except as may be allowed by any applicable law which is incapable of exclusion by agreement between the parties.
+or
+(c) access the Platform in order to build a product or service which competes with the Platform and/or the Services;
+(d) resell, sublicense or otherwise use the Platform and/or Services to provide services to third parties, unless otherwise specifically agreed in writing.
+or
+(e) attempt to obtain, or assist third parties other than Authorised Users, in obtaining, access to the Platform.
+
+
+
+The Customer shall ensure that it takes all necessary steps to prevent any unauthorised access to, or use of, the Platform and notify Wirewax immediately of any such unauthorised access or use.
+
+
+The Customer shall not access, store, distribute or transmit any Viruses into or via the Platform and/or Services.
+
+
+The Customer warrants and represents that:
+
+(a) it has full right, power and authority to enter into this Agreement;
+(b) it has all the rights, licences, permits, approvals and clearance of third party rights as required by the Laws and as are necessary to perform its obligations under this Agreement;
+(c) the Customer Data and / or Customer Materials , and its use on the Platform will not, to the best of its knowledge, infringe the statutory, common law, or Intellectual Property Rights or any other right, title or interest, of any third party, and the same shall not, nor shall it otherwise use the Platform or Services in a way that could be unlawful, harmful, threatening, defamatory, obscene, indecent, infringing, discriminatory, hateful, abusive, harassing or racially or ethnically offensive, facilitate illegal activity, promote unlawful violence, or be in breach of any confidentiality.
+
+
+
+Without express written approval, the Customer Data and/or Customer Materials shall not contain, nor shall any use of the Platform process or otherwise deal with:
+
+(a) any credit card information or other data that would trigger any PCI-DSS compliance requirements;
+(b) any "sensitive personal data" such as racial or ethnic origin, political opinions, religious beliefs, sexual orientation.
+
+
+
+The Customer specifically acknowledges and agrees that, despite the provision by Wirewax of any Studio Solutions Services, but subject to the warranties in 6.2(c):
+
+(a) Wirewax has no responsibility or liability for the Customer Videos including but not limited to any rights, clearances or other compliance of the content therein;
+(b) the Customer has sole responsibility and liability for the Customer Videos including but not limited to selection, editorial decisions, rights and other clearances, and/or other compliance, and all other aspects of the Customer Video;
+(c) as between the Customer and Wirewax, the Customer is deemed to be the producer and publisher of all Customer Videos.
+
+
+
+The Customer specifically acknowledges and agrees that it has full responsibility for informing and directing Wirewax in relation to any industry or content specific laws, regulations, directives, policies, protocols and best practices that are unique to Customer's products and/or services that need to be considered in relation to the Services and creation of the Customer Videos.
+Wirewax shall implement and comply with Customer's written directions in relation to any such industry or content specific laws, regulations, directives, policies, protocols and best practices Notwithstanding the above, Customer is responsible for approval of and ensuring compliance of the Customer Video in accordance with such industry or content specific laws, regulations, directives, policies, protocols and best practices that are unique to Customer's products and/or services.
+
+
+Notwithstanding any of the above, Wirewax reserves the right to remove or block Customer Data, Customer Materials and/or Customer Videos from the Platform in the event that in its reasonable opinion it breaches the terms of this Agreement.
+
+
+The rights and services provided under this Agreement are granted to the Customer only, and shall not be considered granted to any subsidiary, affiliate or holding company of the Customer.
+
+
+Customer shall obtain and maintain the insurance as is necessary to cover its liabilities under this Agreement and as required by law with a reputable insurer and provide details and evidence of the insurance to Wirewax on request during the Term.
+
+
+8.
+DATA PROTECTION
+
+
+References in clause to "data controller", "data processor", "processing", "data protection officer" and "personal data" shall have the same meaning as defined in Data Protection Legislation.
+
+
+During the term of the Agreement, the parties acknowledge and agree Wirewax may access, receive, generate, store and/or otherwise process personal data relating to the Customer's clients of other data subjects of the Customer in order to provide the Services to Customer, and/or otherwise fulfil its obligations, under and in accordance with, this Agreement.
+The type of personal data that Wirewax may be required to process under this Agreement includes for example names, addresses email addresses or other contact information, or other information through which the data subject may be identifiable.
+
+
+The parties agree that in respect of any personal data processed in connection with this Agreement that Customer shall be the "data controller" and Wirewax or Sub Processor shall be the "data processor".
+
+
+Each party acknowledges and agrees that each party has respective rights and obligations under applicable Data Protection Legislation.
+Wirewax shall, without prejudice to its other rights or obligations, in respect of its processing of such personal data:
+
+(a) process the data only to the extent, and in such a manner, as is necessary for the purposes of this Agreement and in accordance with Customer's lawful written instructions from time to time and Wirewax shall not process, nor permit the processing, of the data for any other purpose.
+If Wirewax is unsure as to the parameters of the instructions issued by Customer and/or believes that Customer's instructions may conflict with the requirements of Data Protection Legislation, Wirewax may notify Customer for clarification;
+(b) ensure the reliability of all its personnel who have access to the data and shall in particular ensure that any person authorised to process data in connection with this Agreement is subject to a duty of confidentiality;
+(c) at Customer's cost provide Customer with reasonable co-operation and assistance in relation to Customer's obligations and rights under Data Protection Legislation including providing Customer and relevant Regulators (as applicable) with all information and assistance reasonably necessary to investigate Security Breaches, carry out privacy impact assessments or otherwise to demonstrate compliance by the parties with Data Protection Legislation and assisting Customer by using appropriate technical and organisational measures in responding to, and complying with, data subject requests.
+(d) having regard to the state of technological development and the cost of implementing any measures, take such technical and organisational measures against the unauthorised or unlawful processing of data and against the accidental loss or destruction of, or damage to data, to ensure a level of security appropriate to: a) the harm that might result from such unauthorised or unlawful processing or accidental loss, destruction or damage of the data.
+and b) the nature of the data to be protected;
+(e) at Customer's expense, without undue delay notify Customer, and provide such co-operation, assistance and information as Customer may reasonably require if Wirewax:
+
+(i) receives any complaint, notice or communication which relates directly or indirectly to the processing of the personal data under this Agreement or to either party's compliance with Data Protection Legislation.
+and/or
+(ii) becomes aware of any Security Breach;
+
+
+(f) keep at its normal place of business a written record of any processing of the data carried out in the course of the Services ("Records");
+(g) permit no more than once per year Customer, its third-party representatives (who is not a competitor of Wirewax) or a Regulator, on reasonable notice during normal business hours, but without notice in case of any reasonably suspected breach of this clause by Wirewax, access to inspect, and take copies of, the Records for the purpose of auditing Wirewax's compliance with its obligations under this clause.
+Wirewax shall at Customer's cost give all reasonably necessary assistance to the conduct of such audit;
+(h) may engage sub processor(s) to process data (or otherwise sub-contract or outsource the processing of any data to a third party) (a "Sub processor"), provided that it:
+
+(i) notifies Customer of any new or replacement Sub processors.
+If Customer objects to the appointment of a new or replacement Sub processor, it shall notify Customer within five business days.
+(ii) enters into a written contract with the Sub processor that:
+
+provides protections or guarantees that Sub processor considers necessary to implement appropriate technical and organisation measures in compliance with the Data Protection Legislation.
+and
+terminates automatically on termination or expiry of this Agreement for any reason.
+and
+
+
+
+
+(iii) remains liable for all acts or omissions of the Sub processors as if they were acts or omissions of Wirewax (except to the extent caused or exacerbated by Customer).
+
+It is acknowledged that currently approved Sub-Processors are: Amazon Web Services.
+
+(i) at Customer's cost return or destroy (as directed in writing by Customer) all personal data it has in its possession and delete existing copies unless applicable law requires storage of the personal data.
+(j) Wirewax will not transfer personal data pursuant to this Agreement to a territory outside of the European Economic Area ("EEA") without Customer's consent or instruction.
+To the extent that Wirewax is required to transfer personal data pursuant to this Agreement to a territory outside of the EEA that does not have a finding of adequacy by the European Commission, the parties shall execute or procure the execution of the standard contractual clauses set out in Commission Decision of 5 February 2010 on standard contractual clauses for the transfer of personal data to processors established in third countries under Directive 95/46/EC ("Model Clauses") unless the parties agree another more appropriate lawful data transfer mechanism exists.
+The parties agree that if the Model Clauses (or agreed alternative mechanism) cease to exist or are no longer considered by both parties to be a lawful method of transferring personal data outside of the EEA, the parties shall have a good faith discussion and agree an alternative lawful transfer mechanism and Wirewax may cease or procure that the relevant third party cease the processing of personal data until such time as the parties have agreed an alternative transfer mechanism to enable the personal data to be transferred outside of the EEA in a compliant manner.
+
+
+
+Customer agrees to comply with its obligations under applicable Data Protection Legislation and shall in particular ensure that it has appropriate consents, permission or other ability to process personal data and that Wirewax is lawfully permitted to process personal data on its behalf, and will not give Wirewax any instructions that would cause Wirewax to be in breach of the Data Protection Legislation.
+
+
+For the purpose of this clause:
+" Data Protection Legislation" means Data Protection Act 2018, the EU Data Protection Directive 95/46/EC, the GDPR (the EC Regulation 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (when in force), the Privacy and Electronic Communications (EC Directive) Regulations 2003 and all applicable laws and regulations relating to the processing of personal data and privacy, including where applicable, any guidance notes and codes of practice issued by the European Commission and applicable national Regulators including the UK Information Commissioner;
+" Regulator" means any regulatory body with responsibility for ensuring compliance with Data Protection Legislation.
+" Security Breach" means accidental or deliberate, unauthorised or unlawful acquisition, destruction, loss, alteration, corruption, access, use or disclosure of personal data processed under to this Agreement or breach of Wirewax's security obligations under this Agreement.
+
+
+9.
+FEES and PAYMENT
+
+The non-refundable Fees to be paid by the Customer to Wirewax for providing the Services are those stated in the Fees Section of the Order Form and/or SoW.
+The Fees may be changed by agreement during the Term in the event that the Customer wishes to change the type or level of Services provided.
+Any recurring Fees may be increased on any renewal in accordance with CPI.
+Wirewax will be entitled to charge reasonable and verifiable travel, subsistence and accommodation expenses associated with the provision of such services as set out in any SoW.
+All sums payable under the Agreement will be paid by electronic transfer to Wirewax's bank account or such bank account Wirewax may specify from time to time.
+Any charges on payments will be at the Customer's expense.
+All sums payable under this Agreement are exclusive of VAT which will be payable in addition to the sum in question at the rate and in the manner prevailing at the relevant tax point.
+Fees and expenses are payable within 30 days of Customer's receipt of Wirewax's properly submitted invoice.
+If you authorise payment of the Fees by payment card, the Fees will be paid in advance and collected using your authorised payment method.
+AUTO RENEWAL: Unless you cancel your subscription before your renewal date, you authorise us to charge your next subscription period Fee to your authorised payment method.
+You authorise us to continue billing the payment method until termination or cancellation.
+If a payment is not successfully taken, due to card expiry, insufficient funds, or otherwise, and you do not change your payment method and resubmit payment by the end of the Subscription Period, we will suspend your access to the Services.
+You remain responsible for any uncollected amounts.
+If any sums due under this Agreement are not paid when due Wirewax may charge interest in respect of those sums from the date due until payment is made in full (before and after any judgment) at 4% per annum over Barclays Bank Plc base rate from time to time accruing on a daily basis, and Wirewax may suspend the Customer's access to the Platform and/or Services.
+
+10.
+INTELLECTUAL PROPERTY RIGHTS
+
+The Customer acknowledges and agrees that Wirewax and/or its licensors own all Intellectual Property Rights in the Platform, Services, Platform Data and Third Party Items.
+Except as stated in this Agreement Wirewax does not grant the Customer any rights in respect of the Platform, Services, Platform Data and/or Third Party Items or any related documentation.
+Wirewax acknowledges and agrees that the Customer and/or its licensors own all Intellectual Property Rights in the Customer Data and Customer Materials, save for the avoidance of doubt in any elements relating to the Platform, Platform Data and Third Party Items.
+To the extent necessary to effect such ownership, Wirewax by way of future assignment hereby assigns, subject to payment of the relevant Fees, all such Intellectual Property Rights to the Customer throughout the world in perpetuity.
+Except as stated in this Agreement the Customer does not grant Wirewax any rights in respect of the Customer Data or Customer Materials.
+
+11.
+INDEMNITIES
+
+
+Wirewax will indemnify the Customer from and against any and all losses, damages, claims, costs and expenses (including reasonable external legal expenses) suffered or incurred by or awarded against the Customer arising from any third party claims or actions as a result of or in connection with any breach by Wirewax of clause 6.2.
+
+
+The Customer will indemnify Wirewax from and against any and all losses, damages, claims, costs and expenses (including reasonable external legal expenses) suffered or incurred by or awarded against Wirewax arising from any third party claims or actions as a result of or in connection with any breach by the Customer of clause 7.6.
+
+
+Each Party will fully indemnify the other from and against any and all losses, damages, claims, costs and expenses (including reasonable external legal expenses) suffered or incurred by or awarded against the other as a result of or in connection with:
+
+(a) any breach by the other of clause 12 (Confidentiality);
+(b) any breach by the other of clause 8 (Data Protection).
+
+
+
+In all cases the indemnified party agrees to:
+
+(a) promptly notify the indemnifying party of any allegation of infringement which comes to its attention and give the indemnifying party all reasonable assistance;
+(b) make no admission relating to any infringement or alleged infringement.
+and
+(c) allow the indemnifying party to conduct and settle all negotiations and proceedings, save that the indemnifying party may not conclude settlement of any negotiations and proceedings which may have a material effect (whether financial, practical or in terms of reputation) on the indemnified party without the indemnified party's prior written consent which will not be unreasonably withheld.
+
+
+
+12.
+CONFIDENTIALITY
+
+
+Neither party shall without the consent of the other during the term of this Agreement or following its termination use the other party's "Confidential Information" (meaning all information in any form which is secret or not publicly available either in its entirety or in part including commercial, financial, marketing, or technical information, know how, trade secrets, business methods and other information in any form, and any reproductions of such information in any form or any part(s) of this information) for any purpose other than as strictly necessary in connection with this Agreement nor disclose to any other person unless necessary for the performance of obligations under this Agreement.
+
+
+Any party disclosing Confidential Information in accordance with the above clause shall procure that the person to whom such information is disclosed is made aware of the obligations of confidentiality under this Agreement and complies with those obligations as if it were a party to this Agreement.
+
+
+The confidentiality restrictions do not apply to Confidential Information:
+
+(a) which is in or comes into the public domain other than through breach of this Agreement;
+(b) insofar as it comes lawfully into the possession of the recipient party from a third party;
+(c) which the recipient party can prove was already known to it before its receipt from the providing party;
+(d) to the extent that it is required to be disclosed by law or the requirements of any recognised stock exchange, or authority of competent jurisdiction to whose rules the party making the disclosure is subject, whether or not having the force of law.
+
+
+
+Wirewax acknowledges that the Customer Data is the Confidential Information of the Customer.
+
+
+The Customer acknowledges that details of this Agreement, Fees, Platform and/or the Services, are the Confidential Information of Wirewax.
+
+
+13.
+LIMITATION OF LIABILITY
+
+
+Nothing in this Agreement shall in any way exclude or limit either party's liability for death or personal injury caused by negligence or for fraud or fraudulent misrepresentation or for any other liability which may not be excluded by law.
+
+
+Subject to clause 13.1, neither party will be liable, whether in contract, tort (including negligence) breach of statutory duty, or otherwise, for any of the following losses or damage (whether or not such losses or damage were direct, foreseen, foreseeable, known or otherwise) howsoever arising in respect of any:
+
+(a) special, indirect, incidental or consequential loss or damage;
+(b) loss of actual or anticipated profits;
+(c) loss of business or contracts;
+(d) loss of revenue or of the use of money;
+(e) loss of anticipated savings;
+(f) loss of goodwill.
+and/or
+(g) loss of data;
+
+arising out of or in connection with this Agreement.
+
+
+Subject to clause 13.1 and clause 11 (Indemnities) (other than clause 11.3 (b) as capped below) for which there will be no cap on liability, each party's total aggregate liability arising out of, or in connection with this Agreement whether in contract, tort (including negligence) breach of statutory duty, or otherwise, shall:
+
+(a) in relation to the indemnities in clause 11.3(b) (data protection) be capped at Â£1,000,000 (one million pounds);
+(b) therwise in no event exceed the annual Fees paid by the Customer in the previous 12 months.
+
+
+
+If at any time an allegation of infringement is made in respect of the Platform and/or Services, Wirewax may at its own expense:
+
+(a) modify the Platform and/or Services;
+(b) replace the Platform and/or Services with non-infringing software or Services.
+and/or
+(c) require the Customer to alter the way in which it uses the Platform and/or Services,
+
+so as to avoid the infringement or alleged infringement, in all cases without diminishing or curtailing any of the material functions or facilities or the performance of the Platform and/or Services.
+If it is unable to do the above, Wirewax may terminate this Agreement and refund pro rata to the Customer such part of any sums paid by the Customer which relate to the unexpired portion of the Agreement
+
+
+14.
+TERM AND TERMINATION
+
+
+This Agreement shall, commence on the Subscription Start Date (or Trial Start Date as applicable) and shall continue as provided in clause 14.2 and 14.3 until terminated as provided herein.
+
+
+Each Order Form will have its own Subscription Period as set out in the relevant Order Form.
+Any Trial will be for 14 days, unless determined otherwise at Wirewax's sole discretion.
+Trials will not auto renew or roll over.
+
+
+The Subscription Period will be automatically renewed for successive periods equivalent to the Subscription Period (each a " Renewal Period" ), unless either party notifies the other party of termination, in writing, at least 60 days before the end of the Subscription Period or any Renewal Period, in which case this Order Form shall terminate upon the expiry of the applicable Subscription Period or Renewal Period.
+
+
+Either party (the " Terminating Party") may terminate this Agreement immediately by giving written notice to the other (the " Defaulting Party") if:
+
+(a) the Defaulting Party is in material breach of any provision of this Agreement which is not remediable or, if remediable, is not remedied with a period of 20 Working Days after the Terminating Party has given notice to the Defaulting Party requiring such breach to be remedied;
+(b) the Defaulting Party's financial position is such that either the Defaulting Party, its directors, shareholders or creditors take or are entitled to take steps to institute formal insolvency proceedings with respect to the Defaulting Party of a type provided for by the Insolvency Act 1986 (or any similar or analogous legislation, whether under English law or otherwise), including without limitation administration, liquidation, administrative receivership, receivership, voluntary arrangement, scheme of arrangement or bankruptcy, or if the Defaulting Party is unable to pay its debts within the meaning of section 123 of the Insolvency Act 1986.
+
+
+
+Wirewax may terminate this Agreement by giving not less than 14 days' written notice to the Customer if the Customer fails to make any overdue payment to Wirewax within 30 days of the Customer receiving a written notice from Wirewax demanding such overdue payments.
+
+
+If Wirewax terminates this Agreement under clause 14.4 all fees that would have been payable up to the date of the next anniversary of the Agreement will immediately become due and be payable within 7 days.
+
+
+On termination of this Agreement for any reason:
+
+(a) all licences granted under shall immediately terminate;
+(b) the Customer shall return and make no further use of the Platform documentation and other items (and all copies of them) belonging to Wirewax;
+(c) Wirewax may destroy or otherwise dispose of any of the Customer Data in its possession unless Wirewax receives, no later than ten Working Days after the effective date of the termination, a written request for the delivery to the Customer of the then most recent back-up of the Customer Data.
+Wirewax shall use reasonable commercial endeavours to deliver the back-up to the Customer within 90 days of its receipt of such a written request, provided that the Customer has, at that time, paid all Fees and charges outstanding at and resulting from termination (whether or not due at the date of termination).
+The Customer shall pay all reasonable expenses incurred by Wirewax in returning or disposing of Customer Data;
+(d) the accrued rights of the parties as at termination, or the continuation after termination of any provision expressly stated to survive or implicitly surviving termination, shall not be affected or prejudiced.
+and
+(e) Customer shall promptly pay all undisputed Fees related to the period prior to termination, including relating to Services provided and not yet invoiced on a pro rata basis.
+
+
+
+In the event that hosting is provided as part of the Platform Services, notwithstanding the expiry of the Subscription Period, the Customer Video will be hosted by Wirewax, and the Customer will have playback (only) access to the Customer Video, for up to 12 months after the end of the Subscription Period, or longer at Wirewax's discretion.
+Thereafter the Customer will have the option to request delivery of an off-platform package enabling the Customer Video to be hosted in and played back from a Customer hosted environment.
+
+
+15.
+FORCE MAJEURE
+
+Neither party shall have any liability or be deemed to be in breach of this Agreement for any delays or failures in performance of this Agreement which result from circumstances beyond the reasonable control of that party including, without limitation, any of the following: power failure, act of God, governmental act, war, fire, flood, explosion or civil commotion.
+The party affected by such circumstances shall promptly notify the other party in writing when such circumstances cause a delay or failure in performance and when they cease to do so.
+If an event of force majeure occurs and lasts for more than 90 days either party may give written notice to the other to terminate this Agreement and neither party will have any liability to the other except that the Customer will remain liable for any unpaid fees.
+
+16.
+WAIVER
+The failure or delay by either party in any one or more instances to insist upon strict performance or observance of any one or more of the terms of this Agreement or to exercise any remedy, privilege or right provided by law or under this Agreement shall not be construed as a waiver of any breach or right to enforcement of such terms or to exercise such remedy, privilege or right.
+17.
+SEVERANCE
+If any part of this Agreement is found by any court or competent authority to be illegal, void or unenforceable then that part shall be deemed not to be a part of this Agreement and the enforceability of the remainder of this Agreement shall not be affected.
+18.
+ASSIGNMENT AND SUBCONTRACTING
+Neither party shall, without the prior written consent of the other assign, transfer, charge, sub-contract or deal in any other manner with all or any of its rights or obligations under this Agreement.
+19.
+VARIATION
+This Agreement may not be varied except by an instrument in writing signed by the authorised representatives of all the parties to this Agreement.
+20.
+RELATIONSHIP BETWEEN THE PARTIES
+Nothing in this Agreement shall be deemed to constitute a partnership or joint venture or contract of employment between the parties nor constitute either party the agent of the other.
+21.
+RIGHTS OF THIRD PARTIES
+This Agreement does not confer any rights on any person or party (other than the parties to this Agreement and, where applicable, their successors and permitted assigns) pursuant to the Contracts (Rights of Third Parties) Act 1999.
+22.
+PUBLICITY
+
+Neither party shall make or issue any announcement or public circular relating to the subject matter of this Agreement without the prior written approval of the other.
+Wirewax may use the name of Customer and samples of the services provided and/or deliverable created by Wirewax or Customer as a factual reference to the fact that the Customer is or was a customer, on its website and in pitch materials, without the prior written consent of Customer, although any use of the Customer's logo shall be subject to any brand guidelines issued by the Customer.
+
+23.
+NOTICES
+
+Each notice or other communication to be given under this Agreement shall be given in writing in English and, unless otherwise provided, shall be made by hand, letter or email and will be addressed to the other party's contact as stated in the Order Form or other contact as agreed from time to time.
+Notice delivered by hand will be deemed to have been received when delivered.
+Posted notice will be deemed received at the time at which it would have been delivered in the normal course of the post.
+Any notice given in accordance with the above but received on a day which is not a business day or after normal business hours in the place of receipt shall be deemed to have been received on the next business day.
+
+24.
+ENTIRE AGREEMENT
+
+This Agreement, and any documents explicitly referred to in it, constitute the whole agreement between the parties and supersede any previous arrangement, understanding or agreement between them relating to the subject matter they cover and/or any purchase order terms from the Customer.
+Each of the parties acknowledges and agrees that in entering into this Agreement it does not rely on any undertaking, promise, assurance, statement, representation, warranty or understanding (whether in writing or not) of any person (whether party to this Agreement or not) relating to the subject matter of this Agreement, other than as expressly set out in this Agreement.
+
+25.
+GOVERNING LAW AND JURISDICTION
+This Agreement and any disputes relating to it will be governed by and construed in accordance with English law and the parties submit to the exclusive jurisdiction of the English courts for such purposes.
+Schedule 1
+
+Service Level Agreement / SLA
+
+
+SLA Headlines
+a.
+99.9% uptime guaranteed, each month
+b.
+Monitored every minute by two separate third-party monitoring systems as well as internal monitoring stations
+c.
+10% service credit if we don't meet our goal by 1%, plus 10% for every additional 1% downtime
+d.
+Up to 100% credit each month
+
+SLA Details
+
+a.
+This Service Level Agreement ("SLA") is a policy governing the use of the WIREWAX Platform under the WIREWAX MSA or Terms of Use.
+b.
+Terms not otherwise defined herein will have the meaning given to them in the WIREWAX MSA or Terms of Use.
+c.
+We reserve the right to change the terms of this SLA in accordance with the WIREWAX MSA or Terms of Use.
+
+Service Availability
+
+a.
+"Service Availability" means that the Platform may be accessed and used by you (as measured by WIREWAX) as intended under the MSA or Terms of Use.
+The Platform includes studio.wirewax.com and the WIREWAX player, which may be embedded (via iframe or JS API) in external websites, including your website.
+
+Uptime Commitment
+
+a.
+The Platform shall have Service Availability at least ninety-nine and nine tenths percent (99.9%) of the time each calendar month.
+
+Uptime Measurement
+
+a.
+WIREWAX will measure uptime by checking the response of the WIREWAX HTTP Service.
+Every one (1) minute, a third-party service (currently http://statuscake.com) will attempt to access the WIREWAX Service.
+b.
+If the service does not receive a successful HTTP response â that is, a HTTP response code of 2XX or 3XX â then that will count as one minute of downtime.
+c.
+A calendar month will mean 730 hours.
+d.
+The unavailability of the Platform will be calculated from the time that such unavailability is reported by you to WIREWAX at sla@wirewax.com.
+We reserve the right to make reasonable changes to this measurement procedure.
+
+Service Credits
+
+a.
+If the Platform fails to meet the Uptime Commitment during any one calendar month period by up to one (1) percentage point, then you will be eligible for a service credit (the "Service Credit(s)") in the amount of ten percent (10%) of the monthly fee for the affected service.
+b.
+For every additional one (1) percentage point during the calendar month that Uptime Commitment is missed, you will be eligible for an additional Service Credit in the amount of ten percent (10%) of the monthly service fee for the affected service, up to 100% of the monthly service fee.
+
+Credit Requests and Payment
+
+a.
+To request a credit, send email to WIREWAX at sla@wirewax.com.
+You must include either your WIREWAX account ID or registered email address, and dates and times of unavailability.
+b.
+If we confirm that you are owed Service Credits, we will issue a credit to your account within ten (10) business days.
+Credits may only be used against future billing charges.
+c.
+The Service Credits shall be your sole and exclusive remedy for any failure of the Platform to operate in accordance with the SLAs.
+
+Technical Failure and Resolution
+
+Within the stated response time below your request will be acknowledged and escalated to the appropriate channels.
+You will receive an update and an estimated time for complete resolution with a target resolution period stated below.
+
+severity level 1 - response time: 1hr, resolution target: 3hrs
+
+Total global service failure.
+Service failure includes:
+
+no access to Studio.
+or
+no access to WIREWAX Platform.
+or
+videos will not display or begin playback.
+
+
+severity level 2 - response time: 5hrs, resolution target: 12hrs
+
+Partial global service failure.
+Service failure includes:
+
+video plays but two or more hotspots and/or overlays not appearing or throwing errors.
+or
+video doesn't play in two or more different mobile devices or desktop browsers.
+or
+access to two or more services or tools within the Studio are limited.
+or
+sporadic playback failure in two or more regions.
+
+
+severity level 3 - response time: 12hrs, resolution target: 36hrs
+
+Medium level service failure.
+Service failure includes:
+
+video plays but one hotspot and/or overlay does not appear or throws an error.
+or
+video doesn't play in one mobile device or one desktop browser.
+or;
+access to one service or tool within the Studio are limited.
+or
+a Studio service or tool is displaying incorrect information or functioning incorrectly.
+or
+sporadic playback failure in one region.
+
+
+severity level 4 - response time: 24hrs, resolution target: 72hrs
+
+Low level service failure.
+Service failure includes:
+
+a hotspot or overlay is displaying incorrect information or appearance is unsatisfactory.
+or
+an erroneous playback or display issue in one region or one device or one desktop browser.
+
+All reports of technical failure must be thorough and extensive.
+You must provide accurate and complete information including:
+
+your browser,
+browser version,
+operating system,
+Internet connection type (mobile 3G/4G, fixed line, wifi, etc.),
+location address where fault occurred,
+steps leading up to fault,
+any visual references and/or screengrabs where possible.
+
+
+Exclusions
+
+The calculation of Service Availability SLA excludes instances of: your acts or omissions, force majeure events, scheduled downtime, hackers or virus attacks, unavailability of (including errors and omissions) Amazon Web Services, or emergency maintenance.
+Schedule 2
+
+Wirewax Insurance cover.
+
+
+General Liability
+
+a.
+Carrier â CNA
+b.
+Servicing - Bender Insurance Agency Inc.
+365 Crossways Park Drive, Woodbury, NY 11797
+c.
+Endorsements include, but are not limited to:
+
+i.
+Technology Liability Extension
+
+d.
+Exclusions include, but are not limited to:
+
+i.
+Known Injury or Damage
+ii.
+Asbestos &amp.
+Pollution
+iii.
+War
+iv.
+Employment Related Practices.
+
+e.
+Coverage limits include;
+
+i.
+General Aggregate Limit, $ 2,000,000
+ii.
+Products / Completed Operations Aggregate Limit, $ 2,000,000
+iii.
+Personal / Advertising Injury Limit, $ 1,000,000
+iv.
+Each Occurrence, $ 1,000,000
+v.
+Fire Damage Limit â Any One Fire, $ 300,000
+vi.
+Medical Expense Limit â Any One Person, $ 10,000
+vii.
+Hired &amp.
+Non-Owned Automobile, $ 1,000,000
+
+
+Umbrella Liability
+
+a.
+Carrier â CNA
+b.
+Servicing - Bender Insurance Agency Inc.
+365 Crossways Park Drive, Woodbury, NY 11797
+c.
+Coverage limits include;
+
+i.
+Per Occurrence $ 4,000,000
+ii.
+Aggregate $ 4,000,000
+
+d.
+Self-Insured Retention Limit $ 10,000
+
+Professional &amp.
+Cyber Liability
+
+a.
+Carrier â Hiscox
+b.
+Servicing - Bender Insurance Agency Inc.
+365 Crossways Park Drive, Woodbury, NY 11797
+c.
+Coverage limits in the aggregate, regardless of the number of claims or first party events and retention include with retroactive date to be determined;
+
+i.
+Technology Protection, $ 2,000,000 limit, $ 2,500 retention for each and every claim
+ii.
+Breach Costs, $ 2,000,000 limit, $ 2,500 retention for each and every claim
+iii.
+Privacy Protection, $ 2,000,000 limit, $ 2,500 retention for each and every claim
+iv.
+Multimedia Protection, $ 2,000,000 limit, $ 2,500 retention for each and every claim
+v.
+Hacker Damage, $ 2,000,000 limit, $ 2,500 retention for each and every claim
+vi.
+Cyber Business Interruption, $ 2,000,000 limit, $ 2,500 retention for each and every claim
+vii.
+Cyber Extortion, $ 2,000,000 limit, $ 2,500 retention for each and every claim
+
+d.
+Sub-limits include;
+
+i.
+Breach Costs â Computer Forensic Costs, $ 2,000,000
+ii.
+Breach Costs â Notification Costs, $ 2,000,000
+iii.
+Breach Costs â Credit of Identity Protection, $2,000,000
+iv.
+Breach Costs â Crisis Management &amp.
+Public Relations Costs, $ 50,000
+v.
+Privacy Protection â Regulatory Action, $ 100,000
+vi.
+Privacy Protection â Regulatory Compensation Award, $ 2,000,000
+vii.
+Privacy Protection â PCI Fines/Penalties, $ 25,000
+viii.
+Hacker Damage â Consulting Costs, $ 50,000
+ix.
+Cyber Business Interruption â Consulting Costs, $ 50,000
+x.
+Cyber Business Interruption â Loss Amount Sub-Limit (per hour), $ 10,000
+
+e.
+Excess Professional/Cyber Liability - Continental Casualty Company
+
+i.
+Limit: $3MM x $2MM
+ii.
+Policy #596811019
+
+
+Workers Compensation
+
+a.
+Coverage limits include;
+
+i.
+Each Accident, $ 1,000,000
+ii.
+Disease â Policy Limit, $ 1,000,000
+iii.
+Disease â Each Employee, $ 1,000,000
+

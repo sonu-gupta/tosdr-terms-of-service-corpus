@@ -1,0 +1,51 @@
+
+         CenturyLink Settlement-Free Peering Policy Revised April 7, 2020
+CenturyLink is a global communications and IT services company, operating in over 60 countries and focused on connecting its customers to the power of the digital world.
+While interconnection with the CenturyLink network is generally handled commercially, there are a small number of internet networks with which it may be mutually beneficial for CenturyLink to enter into a settlement-free interconnection, or âpeering,â agreement.&nbsp.
+CenturyLink has developed this policy to provide guidelines for the selection of peers on a global or regional basis.
+CenturyLink selects peers based upon, among other things, relative size and scope of network, complementary reach of peer networks and the overall strategic benefit CenturyLink will experience with the connection.
+Compliance with the technical and operational requirements set forth in this policy does not guarantee a peering relationship with CenturyLink.&nbsp.
+Potential peers should allow for a minimum of two weeks for CenturyLink to provide a preliminary response to a request related to peering.
+CenturyLink evaluates this policy on an ongoing basis and reserves the right to make changes to it at any time in its sole discretion.&nbsp.
+This peering policy is only a guideline, not an agreement or a set of rules governing a specific peering relationship.&nbsp.
+Peering may only occur pursuant to an agreement executed between CenturyLink and the peer that sets forth details related to interconnection architecture, port capacity, dispute resolution and operational matters, among other things.&nbsp.
+CenturyLink may require a trial peering interconnection arrangement with potential peers.
+Such a trial will only occur subsequent to execution by both parties of a Peering Trial Agreement.
+A successful peering trial, however, does not guarantee that CenturyLink will agree to a longer term peering agreement. 
+General Principles for Settlement-Free Peering
+The following general principles serve as the foundation for the specific settlement-free peering qualifications set forth below in this policy:
+
+The backbone cost burden associated with settlement-free peering traffic exchange should be equitably shared.
+Regardless of the direction or type of traffic exchanged between the networks, the routing practices and location of interconnection points should be such that each party bears a reasonably equal share of backbone costs.
+The primary objective of a peering arrangement is to enable each party to deliver high-quality service to its customers.
+The interconnection architecture and traffic exchange practices should assure that the exchange of traffic is resilient, scalable and secure.
+Any termination or modification of a peering arrangement should be managed by both parties in a manner that minimizes adverse impacts to each partyâs customers and to the overall operation of the internet.
+
+Qualifications for Potential Peers
+CenturyLink will consider settlement-free peering with candidates that meet the following criteria: a.
+operate an IP network between the interconnection points and utilize Border Gateway Protocol (BGP) to govern the exchange of traffic at those interconnection points for all internet traffic, regardless of source, destination or technology used to deliver traffic (including IPv4 and IPv6 internet traffic).
+b.
+have a professionally managed 24x7x365 NOC capable of repairing or otherwise remedying any problems within a reasonable timeframe, cooperating to resolve security incidents, denial of service attacks and other operational problems.
+c.
+must provide 48 hours notice to CenturyLink NOC for scheduled maintenance.
+d.
+use the same peering autonomous system AS at each interconnection point and announce a consistent set of routes at each point, unless CenturyLink agrees otherwise.
+e.
+announce only routes for paid traffic exchanged with its customers.
+f.
+filter route announcements from its customers by prefix.
+g.
+not to abuse the peering relationship by engaging in activities such as, but not limited, to pointing a default or static route or otherwise forwarding traffic for destinations not explicitly advertised, resetting next-hop or selling or giving next-hop to others.
+h.
+provide paid internet transit service to at least 1000 unique transit networks utilizing BGP on a global basis or 250 unique transit networks utilizing BGP on a regional basis where CenturyLink agrees that peering is limited to interconnection points and traffic that are contained within a single geographic region such as Asia, Europe, Latin America or North America.
+i.
+exchange at a minimum 500 Gbps (in either direction) of internet traffic on a global basis or a minimum of 250 Gbps (in either direction) of traffic on a regional basis for arrangements where CenturyLink agrees that peering is limited to interconnection points and traffic that are contained within a single geographic region such as Asia, Europe, Latin America or North America.
+j.
+augment capacity with sufficient lead time to ensure uncongested flow of internet traffic for steady state as well as failure scenarios.
+k.
+agree to interconnect in any market that constitutes greater than 2% of global traffic volume between networks and where the potential peer holds the required regulatory authority to do so and can legally operate.
+l.
+provide tools (e.g., a public looking glass or route server) to enable diagnosis of the peering relationship and have an up to date PeeringDB record.
+m.
+agree to settlement-free interconnection with Centurylink in all markets in which it operates.
+If after reviewing these requirements, should a candidate network feel these requirements are met or achievable, please send a peering request to peering@centurylink.com.

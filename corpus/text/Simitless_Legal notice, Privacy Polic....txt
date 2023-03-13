@@ -1,0 +1,174 @@
+
+Legal notice, Privacy Policy and Copyright
+ 1st October 2021
+The Simitless software platform (https://simitless.com) is an automated technical service enabling the creation of simple information systems (software for gathering knowledge and computer data) for consumers, self-employed professionals and small businesses in all industries by creating procedures for automatic data and information processing.
+ 
+This document is a translation from https://legal.simitless.fr/ and is for information only.
+Simitless being based in France, the French version of the legal documents is the only version with legal standing. Legal Notice
+(in accordance with article 6 of the French law nÂ°2004-575 of June 21, 2004 for confidence in the digital economy)
+ 
+Owner, Provider, Creator, Publication Director
+FranÃ§ois Fournier 8 Les Parodelles, 03250 Le Mayet de Montagne, FRANCE
+francois.fournier@simitless.com
+
+Reachable via contact@simitless.com or via https://contact.simitless.fr/.
+Simitless is a registered trademark owned and operated by Mr.
+FranÃ§ois Fournier.
+The activity of Mr.
+FranÃ§ois Fournier is governed by the provisions of CAPE (Contrat dâAppui au Projet dâEntreprise - âBusiness Project Support Contractâ) French law nÂ°2003-721 from August 1, 2003, from October 1 2019 to September 30 2022, in the COAGIR associative incubator.
+
+ COAGIR, 18 rue FrancÌ§ois Taravant, 63100 Clermont-Ferrand, France Phone : 04 73 35 15 60, email: couveuses.contact@coagir.com Legal structure : Association loi 1901, NÂ° SIRET : 335 075 321 00059 - APE : 7022Z,  EU-VAT number : FR37335075321.
+ 
+
+The use of this site and of the Simitless platform implies the full acceptance of the Terms and Conditions of sale and use.
+
+  Hosting of the website, systems, and sub-systems
+Time4vps, UAB Interneto vizija, J.
+Kubiliaus st.
+6 08234 Vilnius, Lithuania
+AWS (Amazon Web Services - Frankfurt &amp.
+Ireland), 31 place des Corolles, 92098 Parisâ La DÃ©fense Cedex, France
+FranÃ§ois Fournier, Simitless, 8 Les Parodelles, 03250 Le Mayet de Montagne, France Electronic protection services, security, anti-spam, proxy
+Cloudflare MÃ¼nchen, Rosental 7, 80331 MÃ¼nchen, Germany, +33 75 7 90 52 73, https://www.cloudflare.com/fr-fr/gdpr/introduction/
+
+FranÃ§ois Fournier, Simitless, 8 Les Parodelles, 03250 Le Mayet de Montagne, France Communication services, email, notifications, messages
+Mailgun, San Antonio HQ, 112 E Pecan St.
+#1135, San Antonio, TX 78205, USA
+SendGrid, Inc., 1801 California Street, Suite 500, Denver, Colorado 80202, USA
+Twilio Inc., 375 Beale Street, Suite 300, San Francisco, CA 94105, USA
+Mailjet SAS, 13-13 bis, rue de lâAubrac, 75012 Paris, France
+Tawk.to inc., 187 East Warm Springs Rd, SB119, Las Vegas, NV, 89119, USA Map and geographical services
+Thunderforest from Gravitystorm Limited, 53 Ancaster Crescent, New Malden KT3 6BD, United Kingdom, https://www.thunderforest.com/
+
+OpenStreetMap from OpenStreetMap Foundation, St Johnâs Innovation Centre, Cowley Road, Cambridge, CB4 0WS, United Kingdom, data licenced under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF), https://www.openstreetmap.org/copyright
+
+OpenCage Geocoder from OPENCAGE GMBH, Friedrich-Ebert-Str.
+7, 48153 MÃ¼nster, Germany https://opencagedata.com/
+ Statistics data managers
+FranÃ§ois Fournier, Simitless, 8 Les Parodelles, 03250 Le Mayet de Montagne, France
+We are using Matomo, an open-source software, on an internal installation of Simitless.
+It is using our own servers and the data is securely kept only for our internal analysis.
+Nobody outside of Simitless gets access to it.
+Both Matomo and Simitless are proud to respect your privacy online.
+You are free to opt out of Matamo data collection using the settings box on top of the privacy policy page (https://legal.simitless.com).
+Hotjar Ltd, Level 2, 3, Elia Zammit Street, St Julians STJ 1000, Malta https://www.hotjar.com/legal/policies/privacy
+https://www.hotjar.com/privacy
+
+We use Hotjar in order to better understand our usersâ needs and to optimize this service and user experience.
+Hotjar is a technology service that helps us better understand our usersâ experience (e.g.
+how much time they spend on which pages, which links they choose to click, what users do and donât like, etc.) and this enables us to build and maintain our service with user feedback.
+Hotjar uses cookies and other technologies to collect data on our usersâ behavior and their devices.
+This includes a device's IP address (processed during your session and stored in a de-identified form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), and the preferred language used to display our website.
+Hotjar stores this information on our behalf in a pseudonymized user profile.
+Hotjar is contractually forbidden to sell any of the data collected on our behalf.
+For further details, please see the âabout Hotjarâ section of Hotjarâs support site.
+You can choose not to create a user profile, to save the Hotjar data about your usage of the platform and sites and to use the tracking cookies on other sites by using the settings on the following page: https://www.hotjar.com/legal/compliance/opt-out
+
+Sentry, 132 Hawthorne St, San Francisco, CA 94107, USA https://sentry.io/privacy/
+https://sentry.io/security/
+
+Sentry is an error (bug) detection and reporting system.
+It does not identify individual users and does not track them.
+However, depending on the reported errors, it can happen that an extract of the user data, taken out of its context, is sent through the reporting system.
+As soon as reported errors are corrected, all the included data are deleted along with the report that was generated.
+tawk.to inc., 187 East Warm Springs Rd, SB119, Las Vegas, NV, 89119, USA https://www.tawk.to/privacy-policy/
+https://www.tawk.to/data-protection/gdpr/
+
+Tawk.to mostly provides a support chat feature to the platform but with that comes the collection of statistics and usage information is collected.
+To maintain a reasonable expectation of privacy as well as to minimize the technical requirements on the day-to-day running of the platform, the chat library is only loaded when explicitly required.
+It is loaded dynamically when the user clicks on the button âNeed help? Letâs chat!â in the main menu.
+Once loaded, tawk.to records some information on the user as well as their activities on the platform so that the agent that is connected to the chat has the necessary contextual information to help the user. User assistance
+Simitless aims to provide a high quality of service to its users.
+This is why we try to automatize to the largest extent the services we provide to our users.
+This also allows us to provide a service regardless of opening hours and phone availability.
+In addition to the contextual help that has been integrated into the platform, users can find specific help on our support site https://faq.simitless.com and, if needed, they can reach out to us by using the following communication means :
+Contact Form online https://contact.simitless.com
+
+Email: support@simitless.com
+
+Online chat through tawk.to, directly on the Simitless platform by clicking on the âWe can helpâ button in the main template selection page
+Simitless also created a support network of resellers that can offer custom support contract depending on your needs for assistance https://simitless.com/fr/a/open-revendeurs. Privacy Policy
+As a project established in France, the publisher of the Simitless platform is subject to the provisions of the data protection law of 6 January 1978 governing the processing of personal data.
+In accordance with the CNIL, I have taken the necessary measures to comply with the regulations on data processing within the framework of the CNIL declarations 1773959 and 1774235.
+Each user creating their applications is responsible for the declarations falling within their jurisdiction.
+In accordance with the General Data Protection Regulations (GDPR), the publisher only processes personal data in the following situations:
+with your consent;
+when there is a contractual obligation (a contract between the publisher and you);
+to meet a legal obligation (under EU or national law). Data Gathering
+CNIL declaration number 1773959 and 1774235.
+The personal information that can be collected on the platform is mainly used by the publisher for the management of relations with you, and, if necessary, for the processing of your orders.
+They are recorded in the publisher's client file, and the file thus prepared from personal data is declared to the CNIL.
+In accordance with the provisions of law n Â° 78-17 of January 6, 1978 modified, relating to data processing, files and freedoms, you are informed that the publisher uses automated processing systems on your personal data, in particular during your connection to the platform or as part of the online forms filled out by you.
+The information collected may possibly be communicated to third parties linked to the publisher by contract for the execution of subcontracted tasks necessary for the management of your account and without your having to give your authorization.
+You can oppose this transfer by expressing your refusal to our contact mentioned above.
+In the event of a proven breach of legal or regulatory provisions, the user data and information may be communicated to judicial authorities, upon an explicit and motivated request.
+When information is mandatory to use specific functionalities of the platform, the platform will mark this mandatory nature when entering data, most often by the use of the * symbol near the data field. List of main data collected directly by the platform
+The Simitless platform does not require any specific information to be used.
+The user name is optional and can be filled in with a pseudonym if the user wishes.
+It is only present to allow other users to identify the account when collaborating in applications.
+Only an email address is required for authentication and validation when creating an account.
+All of the information collected is securely available to each user, in the user management page (https://simitless.com/user/).
+Guest accounts can be used without any registration (but at the cost of certain technical limitations on collaborative features).
+During the subscription procedure, additional information is requested in order to process the payment and to identify the parties involved in the subscription contract, payment and billing.
+This information only covers the legal minimum that the publisher is asked to collect and includes the name, billing address, administrative jurisdiction (VAT, sales taxes, etc.), VAT number (if applicable) and any other information as required by the payment provider to process the payment by the payment methods available on the platform.
+Simitless's web service collects indirect data and statistics (frequency of use, type and amount of data processed) to analyze and respond more precisely to user needs.
+ 
+The payment data are processed directly by the payment provider on its secure PCI-compliant platform. User rights
+In accordance with the law on the protection of personal data, you have the following rights which you can exercise by going to your user profile page https://simitless.com/user/ in your browser, by contacting us on https://contact.simtiless.com, by email at data@simitless.com or by contacting us at the postal address listed in the legal notice above.
+The right to information: we have an obligation to inform you of how we use your personal data (as described in this privacy policy).
+The right of access: it is your right to make a request for access to any data about you in order to receive a copy of the personal data that we hold.
+however, due to the security and confidentiality obligation in the processing of personal data which rests with the publisher, you are informed that your request will be processed provided that you submit a proof of your identity, in particular by communicating a scan or a photocopy of your valid identity document to us and by abiding to a validation process.
+The right to rectification: the right to ask us to rectify personal data about you that is incomplete or inaccurate.
+Under this right, the law authorizes you to request the rectification, updating, blocking or erasure of data concerning yourself, which may be inaccurate, erroneous, incomplete or obsolete.
+The right to erasure, also known as the âright to be forgottenâ: in certain cases, you can ask us to delete the personal data that we have concerning you (except if there is a legal reason which obliges us to keep them).
+The right to limit processing: in certain cases, you have the right to ask us to suspend the processing of personal data.
+The right to data portability: you have the right to ask us for a copy of your personal data in a common format (for example, a .csv or .json file, depending on the type of data).
+The right to object: you have the right to object to the processing of your personal data (for example, by prohibiting us from processing your data for direct marketing purposes).
+However, the use of this right is only possible in one of the following two situations: when the use of this right is based on legitimate grounds or when the use of this right is intended to prevent that the data collected is used for commercial prospecting purposes.
+You will not have to pay any fees for access to your personal data (or for the use of any other right).
+However, we may charge you a reasonable fee if your request is manifestly unfounded, repetitive or excessive.
+In this case, we can also refuse to respond to your request.
+The publisher will be entitled, if necessary, to oppose manifestly abusive requests because of their systematic, repetitive nature, or their number.
+We may ask you for specific information in order to confirm your identity and to ensure your right of access to your personal data (or to use any other right).
+This is a security measure to ensure that the personal data are not delivered to a person who is not authorized to receive it.
+We may also contact you for more information regarding your request, to give you a faster and more accurate response.
+We try to respond to all legitimate requests within 3 months.
+This period may be exceeded in the event that your request is particularly complex or if you have made several requests.
+In this case, we will notify you and keep you informed. Use of Cookies
+In summary (TLDR): Cookies are used to provide secure and convenient authentication for guest and registered accounts, as well as for analysis and improvement of services.
+These cookies also make it possible to store the data of the applications during their use in order to enable and accelerate the navigation and the comfort of use of the user.
+ 
+In length: A cookie is a computer data file placed on the computer of the user of a website securely through their browserâs standard features.
+This code can, in certain cases, allow the identification of the user of a site, the personalization of their browsing on the site and the acceleration of the display.
+The Simitless platform uses cookies as well as local storage of data from your browser to
+allow access to a user account and to the content that is not accessible without a connected account;
+allow data processing directly on the user's computer and thus accelerate the responsiveness of the platform's applications;
+obtain anonymized navigation statistics and records, navigation and usage indicators to improve user experience.
+In accordance with the recommendations of the French National Commission for Information Technology and Liberties (Commission Nationale de lâInformatique et des LibertÃ©s - CNIL), some cookies are exempt from the prior collection of your consent insofar as they are strictly necessary for the operation of the service or have the sole purpose of allowing or facilitating the communication by electronic means.
+These include session ID, authentication, load balancing session cookies as well as cookies for customizing your interface.
+These cookies are fully subject to this policy insofar as they are issued and managed by the platform or its providers.
+The user acknowledges being informed of this practice and authorizes the site publisher to use them.
+The publisher undertakes never to communicate the content of these cookies to third parties, except in the event of motivated legal obligation.
+The user can refuse the registration of cookies or configure their browser to be warned before accepting cookies.
+To do this, the user will need to configure their browser https://www.allaboutcookies.org/manage-cookies/.
+We draw your attention to the fact that the refusal of the deposit of cookies on your terminal is nevertheless likely to alter your user experience as well as your access to certain services or functionalities of this platform.
+Where applicable, the publisher declines all responsibility for the consequences related to the deterioration of your navigation conditions which occur due to your choice to refuse, delete or block the cookies necessary for the operation of the platform.
+These consequences cannot constitute damage, and you cannot claim any compensation for this fact.
+Your browser also allows you to delete existing cookies on your device or to notify you when new cookies may be placed on your device.
+These parameters have a very significant effect on your browsing and make you lose all the benefits brought by cookies and in particular the system of secure, identified or guest accounts.
+This site does not include the usual âAttention, cookies, be afraidâ mention.
+This is normal, we do not use external tracking cookies, and we do not identify our visitors and users.
+In these cases, the big scary alert on the front page is not mandatory. Intellectual property
+The Simitless logo and the name Simitless are registered trademarks in France.
+All intellectual property rights relating to the site are reserved.
+Access to the website does not confer any rights to the intellectual property relating to the site.
+The elements available on the site (texts, photographs, images, icons, sounds, videos, software, databases ...) are protected by intellectual and industrial property rights.
+Some of these elements are used by Simitless under a free license, recognized below.
+Unless expressly stated otherwise, it is prohibited to reproduce, modify, transmit, publish, adapt on any medium whatsoever or exploit in any way all or part of the site without the prior written authorization of Simitless.
+Violation of these provisions will result in legal proceedings.
+Some software used in the process of preparing and developing the site and its services are distributed under a free license, a list of these licenses and the associated licenses are also listed in this document. Note on this document :
+The legal information written and translated by us are under Attribution - Sharing under the same Conditions 4.0 International license (CC BY-SA 4.0).
+We are not legal professionals, it is always better to seek professional advice in your jurisdiction.
+This document is a translation from our French legally-binding Mentions lÃ©gales, Politique de Protection de la Vie PrivÃ© et Droits dâAuteur.
+The English version is only created for user convenience.
+ 

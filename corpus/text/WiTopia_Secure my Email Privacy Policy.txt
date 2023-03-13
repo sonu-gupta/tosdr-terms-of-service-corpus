@@ -1,0 +1,50 @@
+
+Witopia strives to protect the privacy and the privacy rights of our customers.
+It is, in fact, our very business to do just that.  It is also important to understand that, quite deliberately and by design,&nbsp.
+SecureMyEmail systems, software, and our website(s) (the âServiceâ), collect truly minimal data and that we administer strict policies safeguarding the privacy and security of the very little data that is collected.
+This Privacy Policy defines and informs you of the few instances in which your personal data and information may be collected and how it may be used.
+What information do we collect?
+Visiting our websites:
+We use a basic installation of website analytics software to research general trend data for basic marketing and planning purposes.
+This data is non-personally-identifying bulk information such as: title of the pages on our websites being viewed, referring websites, and geographical popularity.&nbsp.
+Again, this data cannot be used to personally identify users or visitors as we do not capture IP addresses or other personally-identifiable information.
+Payment: 
+We use third parties (Stripe, as of this writing) as a payment processor to process credit cards, other financial transactions, and invoicing.
+These services do have procedures in place to prevent online fraud that may capture and analyze transaction data.
+If you purchase the Service through Google Play, Apple, or another third party, you should consult with them directly as to their respective privacy policies, but Witopia only retains minimal payment information as is necessary to process the transaction and provide service.
+Account creation and use:
+We securely store the email addresses, email configuration, and name(s) you enter when creating your accounts as well as contacts you submit to us.
+We also, because of the SMTP protocol, must temporarily store your recipientsâ email addresses so we are able to route your communications correctly.
+Again, this is more a function of the way email works, than data collection.
+Support and other communications:
+We may retain emails, chats, and other communications that you voluntarily send to us, including through our internal trouble-ticketing system, so we can troubleshoot issues with the Service.
+Authentication:
+
+The Service uses a combination of Oauth, app-specific passwords, and hashed passwords to authenticate You to our systems and Your email accounts.
+We never have access to these passwords.
+Our appsâ use of information received from Google APIs will adhere to Google API User Data Policy and the Limited Use Requirements.
+
+What about the privacy of my email using the service?
+Email and attachments encrypted with SecureMyEmail are encrypted âend-to-endâ and with Zero-Knowledge Encryption.
+As such, they are encrypted on the sending device and are only able to be decrypted on the recipientsâ device(s).
+We do not possess the means to decrypt encrypted email sent using the Service as this requires the possession of the userâs private decryption key and secret passphrase, which is known only to the user.
+Your private decryption key may stay on your device or be transferred locally.
+If your private key is transmitted to us for ease of use of the Service, it is encrypted with your secret passphrase before it leaves your device and is delivered through an encrypted tunnel and stored in an encrypted state.
+If you do decide to transmit your private key to us, you may also choose to have it automatically deleted from our systems, or manually remove it at any time.
+In any event, we never have access to your secret passphrase so we never possess the ability to view or utilize your private key to decrypt any of your email or attachments.
+Data Disclosure
+We vigorously protect the privacy rights of our customers by design and by action.
+Although we do respond to valid legal requests, we scrutinize each and every request for compliance with both the âspiritâ and letter of the law. As all SecureMyEmail systems, including our web and email servers, reside in Switzerland, we will disclose the very limited user data we possess if we receive an enforceable court order from either the Cantonal Courts of Geneva or the Swiss Federal Supreme Court.
+If permitted by law, we will always contact a user first before any data disclosure.
+Under Swiss law, it is obligatory to notify the target of a data request, although such notification may come from the authorities and not from the Company.
+Third Parties
+We do not have any third-party advertising on our website or contained within our software.
+We do not share your personal information with any third parties aside from the disclosures already made in this privacy policy.
+Modifications to Privacy Policy
+By using our services, you consent to our Privacy Policy and we reserve the right to change this policy from time to time. Any changes to this Privacy Policy will become effective when we email you about the changes or post the revised Privacy Policy on the Site.  Continued use of the Service will be deemed acceptance of such changes.
+Jurisdiction
+Any aspects of this agreement directly related to those functions between the parties shall be governed by the Laws of the Commonwealth of Virginia.
+Exclusive jurisdiction and venue for such matters shall be in courts located in Fairfax County, Virginia.
+We adhere to the standards mandated by the European General Data Protection Regulation (GDPR).
+If you have any questions regarding this policy, or wish to request deletion of archived account data, please contact us at gdpr-officer@securemyemail.com.
+Use of our websites or services, as well as any dispute over privacy, is subject to this Policy and our Terms of Service.

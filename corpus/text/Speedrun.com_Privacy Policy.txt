@@ -1,0 +1,38 @@
+
+This privacy policy discusses information collected on speedrun.com.
+If there are terms in this privacy policy that you do not agree with, please delete your account and discontinue use of the site.
+Accounts can be deleted from the settings page here: https://www.speedrun.com/settings Individuals under the age of 13 should not use speedrun.com.
+The site seeks to collect only the information necessary for site security and operation.
+The site stores basic information for account access.
+The provided e-mail address upon signing up is utilized for password resets and optionally for notifications.
+The user sets a password for the account which is hashed and salted before storing.
+Previous password hashes are stored to prevent password reuse.
+Site staff will never ask for your password.
+The user's e-mail address associated with the account can be changed or deleted by the user at any time.
+E-mail address information is only accessible by site administrators and site server/database programmers.
+The site stores IP Addresses associated with user changes to site content such as editing a page, submitting a run, or making a post.
+The IP Addresses stored in the database for these user actions are pseudonymized, with the last octet (8 bits) of the IPv4 address removed.
+Full IP Addresses are not stored in the database.
+This pseudonymized IP Address information is utilized for day to day operations such as combatting spam, monitoring account security, detecting fradulent site data submissions, handling ban evasions and multiple accounts, and handling vandalism of user maintained pages.
+Additionally, the site uses standard server logs to assist with server management which may contain full IP Addresses and e-mails associated with site activity.
+Our servers are currently provided by OVH.
+IP Address information is only accessible by site administrators and site server/database programmers.
+The site utilizes cookies for storing login access and certain site settings and preferences.
+The site stores basic browser and operating system information to assist with browser specific issues.
+Our advertising services and analytics may also utilize cookies or third party tracking technologies.
+We provide users the option to list additional social media accounts with their speedrun.com account if they so choose.
+We may provide additional optional third party authentication or extensions in the future.
+The site processes optional payments related to the site via PayPal or other providers.
+Payment credentials are not stored on speedrun.com.
+The site provides public forums.
+Any personal information willingly provided by the user to the public through methods such as the forums is done at the user's own risk.
+Site staff may aggregate public run data as provided on the game leaderboards to provide to external organizations such as Guinness World Records.
+This does not include any private information.
+At times, we may update this privacy policy to maintain accuracy as the site evolves.
+If the usage of data collected changes substantially at a later point in time, users will be notified of those changes to the policy.
+Individuals in the EU may wish to exercise rights under the General Data Protection Regulation (GDPR).
+Many of those rights are outlined in Chapter 3 of the GDPR, which can be viewed here: https://gdpr-info.eu/chapter-3/
+The site utilizes Google Analytics.
+The privacy policy for Google Analytics is located here: https://policies.google.com/technologies/partner-sites
+The site utilizes advertising by Longitude Ads.
+The privacy policy for Longitude Ads is located here: https://client.longitudeads.com/privacy-policy/

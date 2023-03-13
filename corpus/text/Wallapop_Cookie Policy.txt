@@ -1,0 +1,69 @@
+
+wallapop, acting on its own behalf or through a third party contracted to provide the measurement and monitoring services, uses cookies when the User browses on the www.wallapop.com website and its subdomains (hereinafter referred to as âthe Websiteâ).A cookie is a file that is downloaded onto the Userâs computer when certain websites are accessed.
+Among other things, they allow storage and recovery of information about a Userâs browsing habits or his/her equipment and, depending on the information it contains and the form in which the equipment is used, may be used to recognise the User.
+The cookies used by this website and their purpose are described below:Persistent analysis cookies from Google Analytics: we and Google process these and they allow us to quantify the number of users and so carry out statistical measurement and analysis of the use users make of our services.
+Your browsing on our Website is thus analysed in order to improve the browsing experience and the services we offer.
+Data obtained through these kinds of cookies will remain stored on the Userâs terminal and may be processed whenever the User accesses the website until the cookies expire or the User him/herself deletes them.
+
+
+Name : _ga
+Expirity : 2 years.
+Purpose : To differentiate users.
+
+Name : _utma
+Expirity : 2 years.
+Purpose : Used to distinguish users and sessions.
+The cookie is created when the JavaScript library executes and no existing _utma cookies exists.
+The cookie is updated each time the data are sent to Google Analytics.
+
+Name : _utmb
+Expirity : 30 minutes.
+Purpose: Used to determine new sessions or visits.
+The cookie is created when the JavaScript library executes and no existing _utmb cookies exists.
+The cookie is updated each time the data are sent to Google Analytics.
+
+Name : _utmc
+Expirity : End of browser session.
+Purpose: Not used in ga.js.
+Set for interoperability with urchin.js.
+Historically, this cookie operated in conjunction with the _utmb cookie to determine whether the user was in a new session/visit.
+
+Name : _utmz
+Expirity : 6 months.
+Purpose: Stores the traffic source or campaign that explains how the user reached the site.
+The cookie is created when the JavaScript library executes and is updated every time data are sent to Google Analytics.
+
+Name : _utmv
+Expirity : 2 years.
+Purpose: Used to store visitorÂ­level custom variable data.
+This cookie is created when a developer uses the _setCustomVar method with a visitorÂ­level custom variable.
+The cookie is updated each time the data are sent to Google Analytics.
+
+The configuration of Google Analytics is predetermined by Google Inc., so we suggest that you view the Google Analytics privacy page (http://www.google.com/intl/es/analytics/privacyoverview.html) in order to obtain information about the âcookiesâ it uses and how to disable them.
+Technical cookies that allow the User to browse the Website and the use of different options or services that exist on it, such as traffic monitoring and data communication, identifying the session, accessing restrictedÂ­access areas, remembering items included in an order, carrying out an order purchase process, applying for enrolment or participation in an event, using security elements during browsing, storing content to be transmitted in the form of video or sound or to share content through social networks:
+
+
+Name : blat
+Expirity : 30 days
+Purpose : The latitude of your geolocation.
+
+Name : bLng
+Expirity : 30 days
+Purpose : The longitude of your geolocation.
+
+Name : hideBanner
+Expirity : 30 days
+Purpose : Checks if the main banner should be shown or not.
+
+Name : posName
+Expirity : 30 days
+Purpose : The address of your geolocation.
+
+Name : hideCookieMessage
+Expirity : 1 year
+Purpose : Checks if the cookies message should be shown or not.
+
+The fact of continuing to browse on the Website implies that you accept the installation of the aforementioned cookies.
+âContinuing to browseâ means clicking on any button, check box or link on the Website, âscrollingâ or downloading any content offered on it.
+The User may block or delete the cookies installed on his/her equipment by setting the options in the browser installed on it.
+Please see your browserâs instructions and manuals for further information.

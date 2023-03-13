@@ -1,0 +1,56 @@
+
+        Medium PolicySign inOpen in appGet startedMedium Policy
+Responses (18)There are currently no responses for this story.
+Be the first to respond.Mediumâs Do Not Track PolicyMediumFollowJun 20, 2014 Â· 3 min readMedium is built for privacy.
+One key to our approach is that Medium doesnât make money from ads.
+So we donât serve ads to you on Medium and we donât send your data to third parties for the purpose of targeting ads to you.
+The tracking we do at Medium is to make our product work.
+Medium doesnât track you across the Internet.
+We track only your interactions within the Medium network (Medium.com and custom domains hosted by Medium).
+One concrete way we commit to user privacy is by honoring Do Not Track (âDNTâ) browser settings.
+Thereâs no consensus on how best to do this.
+But, we have adopted an approach that we believe honors the fundamental pro-privacy aims of the DNT standard.
+To that end, we follow the recommendation made by the World Wide Web Consortium (âW3Câ).
+If you are browsing with DNT enabled, you can read Medium in the logged-out state and our analytics will not receive information about you.
+Also, embeds within a page (such as a YouTube video) will not load without your actively clicking through a DNT overlay.
+By doing this, we allow you to choose whether any data is sent to a third-party embed before it is sent.
+If you click into an embed while browsing DNT, it may cause data to be sent to the third-party hosting the embed.
+As allowed under the W3Câs specification, we do some first-party tracking in order to make Medium work.
+Specifically, this ensures you donât see the same posts every time you look at medium.com, allows our paywall to function, and enables you to read a set number of members-only articles per month without a membership.
+Our first-party tracking allows these kinds of content customizations.
+We also send data to third-party service providers (as understood in W3Câs specification) â companies that provide services that make Medium work, like Amazon Web Services.
+If you would like a more customized experience on Medium, you can choose to create an account and sign in to it.
+But in order to make your account work, we need to log some actions you take, so that we can offer recommendations, build your reading list, and connect you with a network of other readers and writers.
+Like most websites, we use cookies to authenticate your account and organize this information.
+So, when you use Medium in the logged-in state, we cannot comply with DNT.
+They are mutually exclusive.
+A few more details about cookies and the mechanics of DNT.
+Cookies are unique identifiers that an internet service attaches to your browser or mobile device in order to recognize you.
+If you enable DNT in your browser, it sends us a header when you fetch a webpage, requesting that we do not track your movements online through cookies or other means.
+Regardless of whether you browse DNT or not, we do not track you across the Internet.
+And we donât change or disable the DNT setting in your browser.
+Our policy aims to honor DNT requests and help foster the privacy protective Internet the standard envisions, while also providing the personalized experience that is at the core of Mediumâs vision.
+Weâre proud to be an early adopter of DNT and will keep working on our implementation of it.
+For more details about the data we collect on users who are logged in or do not have DNT enabled, please see our Privacy Policy.Medium PolicyThe Fine PrintFollow4.8K 
+
+18
+
+Thanks to Sarah. 
+4.8K claps
+4.8K 
+
+18
+
+Written byMediumFollowEveryoneâs stories and ideasFollowMedium PolicyFollowThe Fine PrintFollowWritten byMediumFollowEveryoneâs stories and ideasMedium PolicyFollowThe Fine PrintLearn more.Medium is an open platform where 170 million readers come to find insightful and dynamic thinking.
+Here, expert and undiscovered voices alike dive into the heart of any topic and bring new ideas to the surface.
+Learn moreMake Medium yours.Follow the writers, publications, and topics that matter to you, and youâll see them on your homepage and in your inbox.
+ExploreWrite a story on Medium.If you have a story to tell, knowledge to share, or a perspective to offer â welcome home.
+Itâs easy and free to post your thinking on any topic.
+Start a blog
+About
+Write
+Help
+Legal
+Get the Medium app
+To make Medium work, we log user data.
+By using Medium, you agree to our Privacy Policy, including cookie policy.

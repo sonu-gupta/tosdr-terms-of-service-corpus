@@ -1,0 +1,331 @@
+
+        This website uses cookiesWe use cookies to personalise content and ads, to provide social media features and to analyse our traffic.
+We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that youâve provided to them or that theyâve collected from your use of their services[#OOI_PERSONAL_INFORMATION#] Use necessary cookies only Allow all cookies Show details OK Use necessary cookies only Allow selection Allow all cookies NecessaryPreferencesStatisticsMarketing Show details Cookie declaration [#IABV2SETTINGS#] About cookies âNecessary (37)âPreferences (7)âStatistics (18)âMarketing (24)âUnclassified (0)Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website.
+The website cannot function properly without these cookies.
+NameProviderPurposeExpiryType__RequestVerificationTokenCookiebotHelps prevent Cross-Site Request Forgery (CSRF) attacks.SessionHTTP_abckCookiebotUsed to detect and defend against replay-cookie-attacks â The cookie is necessary for the security and integrity of the website.
+1 yearHTTPak_bmscCookiebotThis cookie is used to distinguish between humans and bots.
+This is beneficial for the website, in order to make valid reports on the use of their website.1 dayHTTPASP.NET_SessionId [x2]CookiebotPreserves the visitor's session state across page requests.SessionHTTPASPXAUTHCookiebotIdentifies the user and allows authentication to the serverSessionHTTPbm_miCookiebotUsed in context with the website's BotManager.
+The BotManager detects, categorizes and compiles reports on potential bots trying to access the website.1 dayHTTPbm_svCookiebotUsed in context with the website's BotManager.
+The BotManager detects, categorizes and compiles reports on potential bots trying to access the website.1 dayHTTPbm_szCookiebotUsed in context with the website's BotManager.
+The BotManager detects, categorizes and compiles reports on potential bots trying to access the website.1 dayHTTPCookieConsent [x4]CookiebotStores the user's cookie consent state for the current domain1 yearHTTPZD-arturos [x2]ZendeskUsed to push or test different features in relation to the websiteâs Zendesk integration on a single user basis.
+PersistentHTMLZD-suid [x2]ZendeskUnique id that identifies the user's session.PersistentHTML__cfduid [x3]ZendeskCookiebotUsed by the content network, Cloudflare, to identify trusted web traffic.30 daysHTTP__cfruid [x3]ZendeskCookiebotThis cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
+SessionHTTPCONSENT [x2]YouTubeUsed to detect if the visitor has accepted the marketing category in the cookie banner.
+This cookie is necessary for GDPR-compliance of the website.
+200 monthsHTTPARRAffinityCybotUsed to distribute traffic to the website on several servers in order to optimise response times.SessionHTTPARRAffinitySameSiteCybotUsed to distribute traffic to the website on several servers in order to optimise response times.SessionHTTP__cf_bm [x2]ZendeskCookiebotThis cookie is used to distinguish between humans and bots.
+This is beneficial for the website, in order to make valid reports on the use of their website.1 dayHTTP_zendesk_session [x3]ZendeskCookiebotPreserves users states across page requests.SessionHTTP_zendesk_shared_session [x3]ZendeskCookiebotPreserves users states across page requests.SessionHTTP_zendesk_thirdparty_testZendeskTests whether the website user's browser allows third party cookies.SessionHTTP_help_center_sessionZendeskPreserves users states across page requests.SessionHTTP Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+NameProviderPurposeExpiryTypeCookieConsentBulkSetting-#CookiebotEnables cookie consent across multiple websitesPersistentHTMLMasterPopupCookiebotDetermines if the popup should be displayed to the user.30 daysHTTPuserlang [x2]CookiebotRemembers the user's selected language version of a website1 yearHTTPZD-settingsZendeskArbitrary settings for the user's preferences when browsing a Zendesk knowledge base.PersistentHTMLZD-store [x2]ZendeskRegisters whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user.PersistentHTML Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+NameProviderPurposeExpiryType_ga [x4]GoogleGoogle Tag ManagerRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.2 yearsHTTP_ga_# [x2]Google Tag ManagerUsed by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.
+2 yearsHTTP_gat [x4]GoogleCookiebotUsed by Google Analytics to throttle request rate1 dayHTTP_gid [x4]GoogleGoogle Tag ManagerRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.1 dayHTTPZD-buid [x2]ZendeskUnique id that identifies the user on recurring visits.PersistentHTMLcollectGoogleUsed to send data to Google Analytics about the visitor's device and behavior.
+Tracks the visitor across devices and marketing channels.SessionPixelhc:#:recently_visited_articlesZendeskRegisters which articles the user has visited in a Zendesk knowledge base.PersistentHTML Marketing cookies are used to track visitors across websites.
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+NameProviderPurposeExpiryType_gcl_auGoogle Tag ManagerUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+3 monthsHTTPIDEGoogleUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.1 yearHTTPpagead/landing [x2]GoogleCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+SessionPixeltest_cookieGoogleUsed to check if the user's browser supports cookies.1 dayHTTPads/ga-audiencesGoogleUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.SessionPixelVISITOR_INFO1_LIVEYouTubeTries to estimate the users' bandwidth on pages with integrated YouTube videos.179 daysHTTPYSCYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.SessionHTTPyt.innertube::nextId [x2]YouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.PersistentHTMLyt.innertube::requests [x2]YouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.PersistentHTMLyt-remote-cast-installed [x2]YouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-connected-devices [x2]YouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-device-id [x2]YouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-fast-check-period [x2]YouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-app [x2]YouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-name [x2]YouTubeStores the user's video player preferences using embedded YouTube videoSessionHTML Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+We do not use cookies of this type.
+â[#IABV2_LABEL_PURPOSES#]â[#IABV2_LABEL_FEATURES#]â[#IABV2_LABEL_PARTNERS#] [#IABV2_BODY_PURPOSES#] [#IABV2_BODY_FEATURES#] [#IABV2_BODY_PARTNERS#] Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site.
+For all other types of cookies we need your permission.
+This site uses different types of cookies.
+Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Your consent applies to the following domains: www.cookiebot.com, www.cybot.com, manage.cookiebot.com, support.cookiebot.com
+ Cookie declaration last updated on 5/4/21 by Cookiebot 
+ What is CCPA? 
+ What is GDPR? 
+ Pricing 
+ Help 
+ Functions 
+ Resellers 
+ Log in Try for free Privacy Policy 
+
+Share
+Your privacy is important to Cybot A/S (âCybotâ).
+This Privacy Policy covers what we collect and how we use, disclose, transfer and store your information.
+1.
+Identity of Cybot If there are any questions regarding this Privacy Policy you may contact us using the information below.
+Cybot A/SHavnegade 391058 CopenhagenDenmarkPhone: + 45 50 333 777E-mail: mail@cookiebot.comCompany registration number DK34624607
+Our customers may submit inquiries regarding personal data protection, privacy and security matters to CEO Daniel Johannsen, Cybot A/S, dpo@cookiebot.com.
+2.
+What information do we collect? You may visit our site anonymously.
+If you choose to register on our website, four categories of data to and on behalf of you will be processed:
+âAccount dataâ
+When you register for an account on our site, place an order, subscribe to our newsletter or respond to a survey, basic contact details are collected such as the e-mail address and name of your contact person, company name, address, phone number, VAT number, preferred language and currency, any purchase order number, any e-mail address of invoice receivers and masked credit card or bank account details.
+âConfiguration dataâ
+We collect your direct input to our cloud service Cookiebot Consent Management Platform (the âServiceâ) after login, like the domain name(s) of the website(s) where you implement the Service and configuration of the content, looks and behavior towards website visitors (âEnd Usersâ).
+âEnd User Dataâ
+Data generated by End Users browsing your website(s) using the Service.
+When an End User submits a consent from your website(s), the following data are automatically logged at Cybot:
+
+The End Userâs IP number in anonymized form (last three digits are set to â0â).
+The date and time of the consent.
+User agent of the End Userâs browser.
+The URL from which the consent was submitted.
+An anonymous, random and encrypted key value.
+The End Userâs consent state, serving as proof of consent.
+
+
+
+The key and consent state are also saved in the End Userâs browser in the first party cookie âCookieConsentâ so that the website can automatically read and respect the End Userâs consent on all subsequent page requests and future End User sessions for up to 12 months.
+The key is used for proof of consent and an option to verify that the consent state stored in the End Userâs browser is unaltered compared to the original consent submitted to Cybot.
+If you activate the Service feature âbulk consentâ to enable consent for multiple websites by a single End User submission, the Service will also store a separate random, unique ID with the End Userâs consent.
+If all of the following criteria are met, this key will be stored in an encrypted form in the third party cookie âCookieConsentBulkTicketâ on the End Userâs browser:
+
+You enable the bulk consent feature in the Service configuration.
+The End User allows third party cookies through browser settings.
+The End User has disabled âDo Not Trackâ through browser settings.
+The End User accepts all or at least âpreferencesâ types of cookies when consenting.
+
+
+
+âSystem Generated Dataâ
+The Service automatically creates and stores meta data on basis of the other types of data, e.g.:
+
+Subscription data, like start date, latest invoice date and the result of a mandatory VAT number validation.
+Issued invoices are stored so that you may access any issued invoices from within the Service Manager.
+Definitions of the cookies found when the Service has scanned your website(s), including reports on the result of each scan.
+Aggregated statistical data on End User consents.
+
+
+
+You can issue instructions to Cybot through configuration and/or execution of relevant functions offered by the Service from the Service Manager.
+If a specific instruction regarding personal data cannot be carried out through the Service Manager, you may send instructions to us through the help desk provided at www.cookiebot.com/en/helpdesk.
+You will be informed by Cybot about relevant changes concerning the Service, such as the implementation of additional functions, by e-mail, if you subscribe to Cybot's newsletter from the account settings page in the Service Manager.
+3.
+What do we use your information for? Any of the information we collect from you may be used for one or more of the following purposes: 3.1.
+To personalize your experience (the information will help Cybot better respond to your individual needs).
+3.2.
+To enable you to control the user experience towards End Users and enable the Service to automatically apply the End Userâs consent to other websites of yours.
+3.3.
+To improve our website (Cybot continually strives to improve our website offerings based on the information and feedback we receive from our customers).
+3.4.
+To identify you as a contracting party.
+3.5.
+To enable secure login for you in the Service Manager at cookiebot.com.
+3.6.
+To establish a primary channel of communication with you.
+3.7.
+To enable Cybot to issue valid VAT invoices and to process transactions (your information will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the service requested).
+3.8.
+To enable automated handling of the subscriptions.
+3.9.
+To produce and display cookie declarations to End Users and store and display scan report(s) to you.
+3.10.
+To provide you with aggregated information on the choices of the End Users regarding accepted cookie types and generate a graphical representation in the Service Manager.
+and/or 3.11.
+To send periodic e-mails (The e-mail address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news (if accepted), updates, related product or service information, etc.)
+
+
+If at any time you would like to unsubscribe from receiving future e-mails, you can cancel your account after login by clicking on "Cancel my account" .
+4.
+Legal basis 4.1.
+EU General Data Protection Regulation (GDPR)
+The processing of your data is either based on your consent or in case the processing is necessary for the performance of a contract to which you are a party, or in order to take steps at your request prior to entering into a contract, cf.
+GDPR art.
+6(1)(a)-(b).
+If the processing is based on your consent, you may at any time withdraw your consent by contacting us using the contact information in clause 1.
+In order to enter into a contract regarding the purchase of Cybotâs Service, you must provide us with the required personal data.
+If you do not to provide us with all the required information, it will not be possible to deliver the Service.
+4.2.
+California Online Privacy Protection Act Compliance
+Because Cybot values your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act.
+We therefore will not distribute any personal information to outside parties without your consent except as stated in clause 7.
+As part of the California Online Privacy Protection Act, all users of our website may make any changes to their information at any time by logging into their account and navigating to the âprofile pageâ.
+4.3.
+Childrenâs Online Privacy Protection Act Compliance
+Cybot is in compliance with the requirements of the Childrenâs Online Privacy Protection Act.
+We will not intentionally collect any information from anyone under 13 years of age.
+Our website, products and services are all directed at people who are at least 13 years old or older.
+5.
+How do we protect your information? Cybot implements the following technical, physical and organizational measures to maintain the safety of your personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorized use, unauthorized modification, disclosure or access and against all other unlawful forms of processing.
+5.1.
+Availability
+The Service utilizes the extensive features of the cloud environment to ensure high availability, like full redundancy, load balancing, automatic capacity scaling, continuous data backup and geo-replication along with a traffic manager for automatic geographical failover on datacenter level disasters.
+All failover mechanisms are fully automated.
+No personal data is stored permanently outside Cybotâs cloud platforms.
+The physical security is thereby maintained by Cybotâs subcontractors, see clause 7.
+Microsoftâs datacenters comply with industry standards such as ISO 27001 for physical security and availability, e.g.
+by using security staff around the clock, two-factor access control using biometric and card readers, barriers, fencing, security cameras and other measures.
+5.2.
+Integrity
+To ensure integrity, all data transits are encrypted to align with best practices for protecting confidentiality and data integrity.
+E.g.
+all supplied credit card information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providerâs database only to be accessible by those who are authorized to access such systems and who are required to keep the information confidential.
+For data in transit, the Service uses industry-standard transport protocols between devices and Microsoft datacenters and within datacenters themselves.
+5.3.
+Confidentiality
+All personnel are subject to full confidentiality and any subcontractors and subprocessors are required to sign a confidentiality agreement if not full confidentiality is part of the main agreement between the parties.
+Whenever personal data is accessed by authorized personnel the access is only possible over an encrypted connection.
+When accessing the data in a database, the IP number of the person accessing the data must also be pre-authorized to obtain access.
+Any device being used to access personal data is login protected by Cybotâs Azure Active Directory (AAD), Microsoftâs cloud based identity and access management service, and has Cybotâs corporate antivirus solution installed.
+If any personal data are temporarily stored on a device, the storage unit on the device must also be strongly encrypted.
+On premise devices storing personal data temporarily is at all times, except when not being actively used or relocated under uninterrupted supervision, locked in a safe.
+Personal data are never stored on mobile media like USB sticks and DVDâs.
+5.4.
+Transparency
+Cybot will at all times keep you informed about changes to the processes to protect data privacy and security, including practices and policies.
+You may at any time request information on where and how data is stored, secured and used.
+Cybot will also provide the summaries of any independent audits of the Service.
+5.5.
+Isolation
+All access to personal data is blocked by default, using a zero privileges policy.
+Access to personal data is restricted to individually authorized personnel.
+Cybotâs Security and Privacy Officer issues authorizations and maintains a log of granted authorizations.
+Authorized personnel are granted a minimum access on a need-to-have basis through our AAD.
+5.6.
+The ability to intervene
+Cybot enables your rights of access, rectification, erasure, blocking and objection mainly by providing built-in functions for data handling in the Service Manager, by offering the option to send instructions through Cybotâs helpdesk and also by informing about and offering the customer the possibility of objection when Cybot is planning to implement changes to relevant practices and policies.
+The overall responsibility for data security lies with Cybotâs Data Protection Officer who educates and updates all personnel on the data security measures outlined in Cybotâs security handbook and this Privacy Policy.
+5.7.
+Monitoring
+Cybot uses security reports to monitor access patterns and to proactively identify and mitigate potential threats.
+Administrative operations, including system access, are logged to provide an audit trail if unauthorized or accidental changes are made.
+System performance and availability is monitored from both internal and external monitoring services.
+5.8.
+Personal Data breach notification
+In the event that your data is compromised, Cybot will notify you and competent Supervisory Authority(ies) within 72 hours by e-mail with information about the extent of the breach, affected data, any impact on the Service and Cybot's action plan for measures to secure the data and limit any possible detrimental effect on the data subjects.
+"Personal data breach" means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored or otherwise processed in connection with the provision of the Service.
+6.
+How we use cookies See Cybotâs Cookie Declaration at www.cookiebot.com/en/cookie-declaration for information on the cookies we use.
+7.
+Do we disclose any information to outside parties? Cybot does not sell, trade or otherwise transfer to outside parties any personally identifiable information.
+This does not include trusted third parties or subcontractors who assist us in operating our website, conducting our business, or servicing you.
+Such trusted parties may have access to personally identifiable information on a need-to-know basis and will be contractually obliged to keep your information confidential.
+We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or othersâ rights, property, or safety.
+Furthermore, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+7.1.
+Subcontractors/trusted third parties
+The subcontractors Microsoft Ireland Operations Ltd, Dublin, Ireland and Fujitsu A/S, Ballerup, Denmark are following and being audited against the standards of ISO/IEC 27001.
+The main subcontractor Microsoft has also adopted the international code of practice for cloud privacy, ISO/IEC 27018.
+The subprocessor E-conomic International A/S is certified in âInternational Standards on Assurance Engagements 3000â (ISAE 3000).
+Cybot will monitor subcontractorsâ and subprocessorsâ maintenance of these standards and audits to ensure that data protection requirements are fulfilled.
+Any intended changes concerning the addition or replacement of subcontractors or subprocessors handling personal data will be announced to you with at least 3 monthsâ notice.
+You retain at all times the possibility to object to such changes or to terminate the contract with Cybot.
+7.2 Legally required disclosure
+Cybot will not disclose the customerâs data to law enforcement except when instructed by you or where it is required by law.
+When governments make a lawful demand for customer data from Cybot, Cybot strives to limit the disclosure.
+Cybot will only release specific data mandated by the relevant legal demand.
+If compelled to disclose your data, Cybot will promptly notify you and provide a copy of the demand unless legally prohibited from doing so.
+8.
+Third party links Occasionally, at our discretion, we may include or offer third party products or services on our website.
+These third party sites have separate independent privacy policies.
+We therefore have no responsibility or liability for the content and activities of these linked websites.
+Nonetheless, we seek to protect the integrity of our website and welcome any feedback about these websites.
+9.
+Where do we store the information? No stored data will be transferred, backed up and/or recovered by Cybot outside of the European Union.
+9.1.
+Personal data location
+All data are stored in databases and file repositories hosted in an Azure data center at Cybot's cloud vendor, Microsoft Ireland Operations Ltd in Dublin.
+All data are automatically replicated in real time to secondary hot failover databases and file repositories in Microsoftâs data center in Amsterdam, Netherlands.
+Databases are continuously backed up to enable restore to any point in time within a retention period of 35 days.
+Backups are stored on file storage at the same geographical location as the database.
+A copy of the Account Data is also stored in Cybotâs cloud accounting system, Economic International A/S, Copenhagen, Denmark, hosted in a datacenter operated by Fujitsu A/S.
+9.2.
+Installation of software on cloud customerâs system
+No installation of software is required to use the Service.
+The login-protected Service Manager is accessible through a standard web browser, automatically using an encrypted https-connection for all communications between your browser and Cybotâs server to protect any data from being intercepted during network transfers.
+10.
+Access, data portability, migration, and transfer back assistance You may at any time obtain confirmation from Cybot as to whether or not personal data concerning you are being processed.
+You may at any time order a complete data copy, which you may transmit to another controller of the data.
+Your data will be delivered within 10 working days by Cybot as spreadsheet files in Microsoft Excel-format.
+Logical relations between datasets will be preserved in form of unique identifiers.
+You are required to pay â¬1,000 + any applicable taxes on delivery for each data copy order.
+11.
+Request for rectification, restriction or erasure of the personal data 11.1.
+Rectification
+You may at any time obtain without undue delay rectification of inaccurate personal data concerning you, cf.
+clause 5.6.
+11.2.
+Restriction of processing personal data
+You may at any time request Cybot to restrict the processing of personal data when one of the following applies: a.
+if you contest the accuracy of the personal data, for a period enabling Cybot to verify the accuracy of the personal data.
+b.
+if the processing is unlawful and you oppose the erasure of the personal data and request the restriction of their use instead.
+or c.
+if Cybot no longer needs the personal data for the purposes of the processing, but they are required by you for the establishment, exercise or defense of legal claims.
+
+
+11.3.
+Erasure
+You may without undue delay request the erasure of personal data concerning you, and Cybot shall erase the personal data without undue delay when one of the following applies: a.
+if the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed.
+b.
+if you withdraw your consent on which the processing is based, and where there is no other legal ground for the processing.
+c.
+if you object to the processing in case the processing is for direct marketing purposes.
+d.
+if the personal data have been unlawfully processed.
+or e.
+if the personal data have to be erased for compliance with a legal obligation in EU or national law.
+
+
+12.
+Data retention 12.1.
+Data retention policy
+Account Data will due to tax regulations be retained for up to five full fiscal years from your cancellation of your Service account.
+Configuration Data and System Generated Data will be erased immediately when you cancel the Service account.
+End User Data will be erased on an ongoing basis after 12 months from registration, and immediately when you cancel the Service account.
+12.2.
+Data retention for compliance with legal requirements
+You cannot require Cybot to change any of the default retention periods, except for the reasons for erasure pursuant to clause 11.3, but may suggest changes for compliance with specific sector laws and regulations.
+12.3.
+Data restitution and/or deletion
+No data except Account Data will be retained after the termination of the contract.
+You may request a data copy before termination.
+You must not cancel the Service account until the data copy has been delivered, as Cybot otherwise will not be able to deliver the data copy.
+13.
+Accountability Cybot uses the extensive range of built-in logging features and audits trails provided by Microsoft on its Azure cloud platform.
+Cybot also logs all system updates, configuration changes and access to provide an audit-trail if unauthorized or accidental changes are made.
+You may request a data protection audit performed by an independent third party who is also accepted by Cybot.
+You will pay â¬5,000 plus applicable taxes for an audit request along with â¬200 per hour Cybot is spending in connection with the audit as well as any other costs related to the audit, including the auditor.
+14.
+Cooperation Cybot will cooperate with you in order to ensure compliance with applicable data protection provisions, e.g.
+to enable you to effectively guarantee the exercise of data subjectsâ rights (right of access, rectification, erasure, blocking, opposition), to manage incidents including forensic analysis in case of security breach.
+15.
+Terms of Service Please also visit our Terms of Service section establishing the use, disclaimers, and limitations of liability governing the use of our website at www.cookiebot/en/terms-of-service.
+16.
+Your consent By using our site, you consent to this Privacy Policy.
+17.
+Changes to our Privacy Policy If we decide to change our Privacy Policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+This Privacy Policy was last modified on January 18, 2018.
+18.
+Complaint You may at any time lodge a complaint with a supervisory authority regarding Cybotâs collection and processing of your personal data.
+In Denmark, you can lodge a complaint with the Danish Data Protection Agency.
+  New Google Consent Mode&nbsp.
+Cookiebotâ¢ CMP integrates perfectly with the new Google Consent Mode.
+
+ Try now 
+
+
+Make your websiteâs use of cookies and online tracking compliant today
+
+Try for free 
+
+
+
+
+
+
+
+
+
+Subscribe to our newsletter
+Â© Cookiebot.
+All rights reserved.
+Cookiebot is a trademark of Cybot. Cybot is registered in Denmark.
+Company reg.
+no.: DK34624607.
+
+ Blog 
+ Cookie Declaration 
+ Privacy Policy 
+ Terms of Service 
+ About 
+ Resellers 
+
+Language: English 
+ Dansk English Deutsch EspaÃ±ol FranÃ§ais Italiano 
+
+Currency: Euro 
+ Swiss franc - CHFDanish krone - kr.Euro - â¬Pound sterling - Â£Norwegian krone - kr.Polish zÅoty - zlSwedish krona - kr.US Dollars - $
+

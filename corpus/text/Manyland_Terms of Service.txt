@@ -1,0 +1,402 @@
+
+
+Welcome to Manyland, an open universe we invent and live together! In an infinite world of abundance, we create new things by drawing them, build new places, hang out and chat, collect, make music, party, script objects, go on adventures...
+and have fun together in ways none of us can predict.
+
+
+>&gt.
+Please
+visit Helptown for more,
+and post your questions at the help board there!
+You can also speak "To Helptown" to go there.
+ What's new? September 6 2022: We updated something to help with certain types of lag! Thanks everyone!
+November 23 2021: Thrown items which clear attachments or bump someone are now effects-free in the Elsewhere region! Thanks Skittle &amp.
+everyone!
+â¶ More...
+November 22 2021: Throwable Stickies &amp.
+Transportings are disabled in the Elsewhere region for now! Thanks Skittle &amp.
+everyone!
+November 22 2021: Bouncies below Doors to make one enter without wanting to are now better guarded against in the Elsewhere region! Thanks Skittle &amp.
+everyone!
+October 18 2021: Our so-called Content Delivery Network provider has some issues delivering to the US and UK.
+They are aware of the issue and we hope it's going to be resolved soon!
+October 18 2021: We're aware of the issue of items not appearing for some of you, and are trying to fix it! Thanks everyone!
+September 28 2021: We continue to do upgrades today -- if you run into any issues when creating, you may want to halt that temporarily! More info at manyland.com/themiscboard Thanks Rose &amp.
+everyone!
+July 29 2021: There's a new attachment slot: Wearable+! Find out more on manyland.com/themiscboard Thanks everyone!
+July 28 2021: The profile includes a new page for items you have attached! Please check out the Misc board for more.
+manyland.com/themiscboard
+July 27 2021: You can now move your held &amp.
+worn items by hitting Shift-Arrows...
+or for bigger steps, Shift+Ctrl+Arrows! (We're still looking into supporting this on mobile too.) Thanks everyone!
+July 26 2021: You can now right-click (on mobile: long-tap) the "My Voice" boosts to set a font for the area dialog title!
+July 26 2021: There's a new attribute for Dynamics, Wearables &amp.
+Flying Mountables: Pass Through Solids! (Like other physically affecting items, you need to be editor to equip it from your panel, otherwise you can only use it when placed in the area.) Thanks Boined!
+July 26 2021: The texts &amp.
+links of area ads are now editable for as long as the campaign is running! Also, ad campaigns are now pausable! Thanks Rose &amp.
+Skittle!
+July 25 2021: The Area Dialog saw a complete overhaul to become better organized &amp.
+contain a bigger editor list! Hat tip to Rose-Woman and The Skittler!
+July 24 2021: Area Generators can now be saved as items, and then added to the area dialog to persist and be seen by others! The syntax changed a bit, so please see the Misc board for more.
+Thanks everyone!
+July 24 2021: The "Guardto!" command has been replaced by the new setting "To-teleports end with !", and it now persists across devices &amp.
+deleted cookies! Thanks Skittle!
+July 24 2021: There's a new setting "Guard against some flicker &amp.
+visuals"! (Please see the Misc board for more.) Thanks Rose!
+July 23 2021: You can now automagically set placements across the minfinity of your area by using Area Generators! manyland.com/info-generator Please note this is totally alpha and won't save with the area, or be visible to others for now (though both of that is planned).
+Thanks everyone!
+July 22 2021: You can now press Ctrl+K in Painter to cycle through different strengths of another cell shining through! (We have some ideas on how to support this on mobile too in a future update.) Thanks Tanoshi!
+July 22 2021: There's a new setting: "Show blocked people's speech"! It will show the chat (and forum comments) of people even when you blocked them (but e.g.
+you still don't want them to find you).
+Thanks Skittle!
+July 22 2021: We sped up the fade-out of the white shroud (when you enter an area) by x2 and the fade-in (when you exit an area) by x4! (Note the shroud also depends on loading speeds.) Hope you enjoy!
+July 22 2021: We fixed an issue with Firefox reloading the window when tabbing! Thanks Skittle!
+July 21 2021: We removed the forward to the "Help on Speed Issues" page for now! (It triggered when we found very low frame rates in several successive 5-second average-measurements -- but apparently it sometimes triggered unwantedly or unreasonably.) Thanks MTP3, Percy &amp.
+everyone!
+July 21 2021: By picking the new "Hold to pass" attribute, you can create One-Way platforms which one can pass by holding down! Thanks John360 &amp.
+everyone!
+July 21 2021: You can now close a running Happening by pressing Esc (on desktop)! Thanks Cyel!
+July 21 2021: When creating a Dynamic's Shape, you can now click in the world to paste the current relative coordinates! Thanks everyone!
+July 21 2021: Shapes and Circles in Dynamics can now make use of radial gradients!
+July 20 2021: You can now use the new Shape, Fill and Gradient commands to create polygons in Dynamic cells! Hope you enjoy! manyland.com/info-dynamic#shape
+July 18 2021: The time at which an edited forum comment shows the disclaimer that it was edited has been decreased from 60 minutes to 15! Thanks everyone who suggested this!
+July 18 2021: There's a new item type: Drifty! Hope you enjoy!
+...
+September 13th 2013: Manyland is opening for many more people today!
+July 29th 2013: We're opening the doors for early testing! What are the keyboard and mouse controls?
+
+Press â â â â (or WASD) = Run and Jump
+Typing = chat
+Space or Action button = Pick up/ Mount/ Wear, and drop/ unmount/ unwear
+Down = Open body motions or area possessions if available
+Down (when holding something) = Drop holdable
+
+Right-click or Ctrl-R (while dragging) = Rotate
+Ctrl+Click (on a thing) = Delete thing (Cmd+Click on Mac)
+Ctrl+Click (on yourself) = Remove held item
+Shift+drag (a thing) = Move thing
+Shift+Click (on dust) = Undo deletion
+Shift+Click (on person) = Upvote
+ESC = close dialog
+Ctrl+F10 = toggle showing of menus
+Ctrl+I = show my public snapshots in full view
+Ctrl+B = Boosts
+Ctrl+H = Travel Holder
+Ctrl+F (during creation) = Find type
+Ctrl+Z = Undo last block placements and removals
+Ctrl+Shift+Z = Redo undone block placements and removals
+More...
+
+
+Collecting &amp.
+building with mouse: To build something, drag it from one position in the world to a free other position.
+Drag something from your collection and creation panes into the world to place it, or drag it into the pane to collect it.
+
+You can quickly place multiple blocks by placing at the edges of an empty rectangle in clockwise order, starting at the top left, as shown below (this also works mirrored,
+and with removing all-same blocks).
+You can also auto fill lines by placing as shown.
+
+
+
+To clone an object of yours to change it, drag it onto the create tab or button.
+Some creations by others are also clonable.
+
+Friending: If you enjoy someone's company, you can click them and then click the "+My Friends" button.
+They will then appear in your My Friends list, which you can open by clicking on yourself, then "My Friends" (or on desktop, pressing F1).
+You can also ping friends with your location.
+(Reversely, you can also block someone, which results in their speech not be heard by you anymore, and you not being listed in their friends list.)
+
+Shop: Here's Manyland merch, thanks to all designers!
+
+You can follow the news here or on Twitter and Facebook. Which devices does Manyland support?
+Manyland should work great on modern desktop browsers like Google Chrome, Firefox and Safari on PC, Mac, and hopefully Linux too.
+There's a Steam app for Windows 7/ 8/ 10 (64 bit).
+There's also an iPad app.
+ What's the Manyland behavior etiquette? Manyland is proud to have people from all walks of life and all colors of the rainbow.
+Respect is one of our building blocks.
+We strive for a peaceful environment for everyone.
+Try to be a good citizen and respect the creations of others when they're good, or improve them when they're not.
+You can upvote others when you find they do good, and flag-report them if you find they do something against the terms or etiquette.
+You can also temporarily or permanently area-lock them as editor of an area.
+You can also report offensive things in the world by right-clicking them, then clicking the flag that shows up.
+Your voice and action matter a lot: upvoting, flagging, helping and guiding, uncluttering and many other things are our powers to maintain and shape this universe for good!
+
+When interacting with others, please be respectful.
+For instance, killing others around you (unless it's part of a voluntary game amongst friends), cursing at them or otherwise showing hate against them, is against the etiquette.
+Cluttering, littering, impersonation to confuse, deceptive creations outside of voluntary challenges, mass tagging, carelessness in mass removing of structures by others, bullying, strong rudeness in speech or drawings, trolling, spamming, picking of fights, personal attacks, spreading rumors about someone, overly aggressive behavior towards others, homophobia, transphobia, racism, trapping or tricking into doors in the elsewhere region, brigading, flooding with speech or actions, are against the etiquette and thus the terms.
+You may not reserve area names for future use, or mass create new areas, as everyone should get a chance at the names.
+Please do not create pixel-by-pixel copies of existing external artwork (unless you can be sure e.g.
+fair use or public domain rules cover it).
+If someone doesn't want to participate in something you planned, like a game, try to find like-minded people elsewhere in the world, as there's enough space for everyone in Manyland.
+Please do not publicize videos or screenshots of Manyland with the intention to embarass or ridicule the person being filmed
+(depending on context, you can also let others know you're recording...
+the more it's not a group situation, the more expectation one would have to privacy).
+
+Often, location matters: what people may consider offensive in one area may be accepted, funny and terrific in another more distant location with another group.
+Try to apply common sense and find the group and location that's right for you and enjoy! Please note area locks from editor-based created areas are mostly under the discretion of
+area editors, whereas spawn area locks should be based on violations of the global etiquette and terms as outlined here.
+Communication, upvoting and flagging is the basis for how we all self-maintain and this will keep your stats in great shape.
+Please note the current welcome points are a special case as far as structures are concerned, as we often clean up together there to give new arrivals a chance to experiment, with some "free air" around.
+Please note that it is against the etiquette to post issues specifically related to an account, or one person, on general Writables
+(or Readables, or really any other public place).
+Account-related issues need to be either discussed in person, or if that's not possible,
+discussed in private with us via email.
+This helps the privacy of all involved.
+Please read the terms below for more. What are the terms of service? We try to keep the terms text short :)
+
+First of all, we take our responsibility very seriously, and
+want to provide a long-term sustainable environment for everyone who joined. If you join Manyland, you agree to all of these terms of service.
+
+Manyland requires you to be at least 13 years of age, and in some countries older: See Google's terms and age requirements and Facebook's age requirements for the US requirements and those of other countries.
+Logging in to Manyland is only possible via either a Google account or a Facebook account, so their respective terms and restrictions apply if you join Manyland, too.
+
+Note we never automatically post to your wall or connect your friends and such when you login with Google or Facebook.
+
+We try to have the world be stable &amp.
+permanent and have backups and such...
+but can make no guarantees regarding lost data or availablility of the service.
+We may block users who we find abuse the service, and cancel, remove or block accounts, creations or areas if they go against the etiquette or terms.
+We may send out emails, but there will be an easy unsubscribe-forever-from-all-emails link with them.
+
+We want the best for Manyland and its citizens, and to that end reserve the right to amend the world and its rules in any ways we think helps create the best place for all citizens.
+
+By submitting content here you affirm that you have the necessary licenses, rights, trademarks etc.
+on that content
+and that you give Manyland the universe-wide, non-exclusive, royalty-free right to do anything with it for all time, and
+to give all Manyzens the universe-wide, non-exclusive, royalty-free rights to access this content
+(community happiness is our top priority to which all other decisions follow).
+Otherwise you are not allowed to use trademarked properties (including in created area names or Multi names) or copy work.
+(Non-terms sidenote: We personally wish the world would switch to movements like Creative Commons and vastly broaden Fair Use and remixing defense in everyday creative situations.) Please note we will process and investigate all notices of alleged infringements and take appropriate actions as part of the Digital Millenium Copyright Act (DMCA), notifications of claims and counter-notifications should be sent in this form.
+It is against the terms to embed, share, upload, create or communicate content which is against the law.
+
+
+Manyland is defined as 12+ in some App Stores, so you agree to not create or share content that would make the app so inappropriate for that age bracket that it could lead to an app ban.
+
+If you're not an adult or you don't know if someone else is an adult, don't ask for or provide personal information like address, email, web page, phone number and such.
+By logging in to Manyland you agree to all of the terms, which may change in the future.
+You also agree to keep to our etiquette.
+You agree not to create offensive structures or things in the world, or say offensive things using chat or other communication.
+You agree to keep the etiquette and Writable etiquette in all your actions and content.
+If you are under the age of majority where you live (i.e.
+you are not legally an adult yet) you represent that your parent or legal guardian has also reviewed and agreed to these terms.
+Your parent or legal guardian must also approve and take responsibility for your account for any payments made in Manyland.
+If you are not of legal age, you agree to adhere to any limits or stops put on Manyland usage by your parents or legal guardian.
+We unfortunately can't offer refunds if you paid for something in Manyland and there's a ban resulting from a breach of terms, or if the service is unavailable.
+
+
+You also agree to not share your Manyland account with other people, or let others join Manyland via your Google/ Facebook/ Amazon account (an account must be self-managed, and for communication with us, the associated email needs to be used).
+
+
+We are trying to focus on world health and happiness for all of us.
+We reserve the right to delete any account and creations at our discretion, and there are automatic blocks based on certain patterns.
+Automation, redistribution or wrapping of Manyland and its components, or interfacing with them outside of the ones provided, is against the terms.
+
+You agree not to circumvent bans in any way, or launch non-logged-in explorers (including brain-equipped explorers or bots of any sort) when your main account is banned or an explorer of yours got banned within the last 30 days.
+Importing of graphics via Changers or other means is against the terms.
+Client-side code manipulation is against the terms.
+If you discover a security vulnerability or any type of bug that can be abused, it's against the terms to keep using the bug (please just let us know about it via email, it's very much appreciated).
+
+It's against the terms to submit untrue or nonsensical flag reports.
+Area name squatting is against the terms.
+Stalking â obsessing over another Manyzen for a longer period of time even after they told you to stop, in a way that makes the other person feel threatened and insecure (e.g.
+through constant writing about them, surveilling, following them for a long time etc.) â is against the terms.
+Suggestive flirting of an 18+ person with someone below 18 years of age is against the terms.
+
+
+Doxing â public sharing of someone's address or other highly personal information without their consent, on Manyland or elsewhere â is against the terms.
+It's against the terms to falsely claim Manyland-officialness for sites, roles, terms etc.
+Phishing is also against the terms.
+
+The terms are only contained on this page, and not in admin creations, admin forum posts, emails etc.
+You agree not to set up multiple accounts with Manyland, except where it meets the guidelines below.
+You agree to not join as new, non-full account Explorer if you as Explorer were just banned.
+A second account is allowed if one is from the web (Google, Facebook or Amazon) and
+the other is set up with Steam, provided that:
+
+you don't upvote or flag anything or anyone who you already upvoted or flagged with the other account
+you don't upvote yourself or comment with the alternate account in your own threads
+you have neither of your accounts banned, and you don't enter areas where one of the accounts is locked from
+you don't confuse people by other means of the two accounts interacting
+you don't leave people who know you from your other account vulnerable or strongly confused by deceptive means
+
+
+Privacy policy: Third parties and we may serve and target ads to you and place cookies.
+We use localStorage to save things too to provide a better experience, e.g.
+to restore the creation you were working on in case your computer or browser crashes in-between.
+By continuing to use Manyland, you agree to this cookie policy.
+We are providing the service on the infamous "as is" basis and cannot guarantee anything and disclaim all warranties.
+Manyland collects and stores the following information in order to have things working: Your account registration email or identifier as well as your provided account name.
+the signup date.
+the IP address.
+items, areas and forum posts you create, including the creation date and time.
+votes, area locks and flag reports which are given and received.
+social network relations of friending.
+forum post dates and upvotes.
+the user agent string.
+the PayPal or Steam Wallet Mift and Minfinity transaction time and amount.
+your last-visited time and Manyland area, and the location within that Manyland area.
+whether or not the account is currently auto-banned due to flag reports.
+the friends list status you entered.
+Most of these are needed to have Manyland be properly displayed &amp.
+working for, while other data points are needed for our algorithmic rank checks as well as anti-hack measures (the anti-hack measures are all intended to help with our top priority of having Manyland be a happy and comfy experience for everyone).
+
+If you want to have some of your data deleted, please contact us.
+
+
+Legal info - Termination: Manyland does not guarantee that it will continue to offer access to the system and services or support the app.
+Manyland may in its sole discretion cease to provide any or all of the services offered in connection with Manyland (including access to the system and any or all features or components of the app), terminate the EULA, close all accounts and cancel all of the rights granted to you under the EULA.
+Manyland may communicate such termination to you upon 30 days' notice in any of the following manners: 1) when you log into your account.
+2) in a notice on Manyland website.
+3) via email.
+or 4) in another manner that Manyland deems suitable to inform you of the termination.
+If Manyland terminates the EULA pursuant to this section, you will not receive a refund of any fees.
+
+
+Legal info - Account termination: Manyland may immediately, and without notice, discontinue or suspend access to the system through your account, and close your account, if we find a violations of the terms.
+You will not be entitled to receive a refund of fees for a termination pursuant to this section.
+
+
+[Please note: Our goal is to offer the Manyland service for as long as it's possible.
+It's our labor of love and we are very dedicated to it.
+What if the servers go down though, or we can't pay the costs of running anymore (and the voluntary Minfinity plan doesn't sufficiently help)? What if anything else happens that makes it difficult for us to continue the service? We may then one day consider e.g.
+mandatory plans, or other additional ways to cover costs to ensure the stability for all of you, or even restrict (or worst case, stop) the service.
+We hope this won't ever happen, but wanted to put in this cautionary note in any case...
+we hope you understand!]
+
+If you are ever locked and you don't know why, or there's another account-related issue, please feel free to contact us.
+
+We will do our best to provide a great environment for all of you!
+ Writable etiquette The etiquette and terms for Writable forums follow above etiquette and terms â for instance, to always be respectful.
+In addition:
+
+Please use self-descriptive titles.
+For instance, the title "Suggestion: Feedable Pets" would be used instead of just "Suggestion".
+It is against the etiquette to post issues specifically related to an account, or one person, on general writables (or really, any other public place).
+Account-related issues need to be either discussed in person, or if that's not possible, discussed in private with us via email.
+This helps the privacy of all involved.
+Please do not share any personal details of others on the board, including their location, their activities, their hobbies, profession, what they do or don't do, what they told you in chat etc.
+Please do not represent or quote others, but allow them to speak for themselves.
+Please do not post photos of others.
+Please do not share what you found out about others on the web or elsewhere.
+Again, privacy is important.
+Complaints about other Manyzens should be written in Flag reports, but not writables.
+In addition, you can contact us via email for such issues.
+Please do not bump your own threads (e.g.
+adding a follow-up to them if they didn't yet yield a reply).
+Please contact us via email if you feel something needs to be looked at again.
+If a thread was locked or removed, please do not reopen it under a new title or add threads or comments discussing the locking or removal (you can contact us via email if you want to know more about the reasons).
+Please do not post very personal information about yourself, like your home address, email address, or phone number on a Writable.
+
+Threads posted should be appropriate for the topic of the board, and comments posted should be appropriate for the subject of the thread posted in.
+On boards with high posting frequency and a bigger audience, please keep comment and thread relevancy high, the message clear, and posting quantity and frequency in proportion.
+
+A big thanks to everyone who participates in writables! Photosensitive warning 
+A very small percentage of individuals may experience epileptic seizures when exposed to certain light patterns or flashing lights.
+Exposure to certain patterns or backgrounds on a computer screen, or while playing games, may induce an epileptic seizure in these individuals.
+Certain conditions may induce previously undetected epileptic symptoms even in persons who have no history of prior seizures or epilepsy.
+
+
+If you, or anyone in your family, have an epileptic condition, consult your physician prior to using Manyland.
+If you experience any of the following symptoms while playing a video or game â dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions â immediately discontinue use and consult your physician before resuming.
+ Tips &amp.
+Tricks You can find more tips &amp.
+tricks on this help page. What are some other places related to Manyland? 
+Our Twitter and Facebook
+Our RSS feed.
+Goodies at the Manyland shop
+A Zip file of fonts (based on the Manyland pixel fonts), created by Oxygen, and available for any use.
+Manyunity: Where you can discover new areas and submit your own!
+A Wiki started by Mors
+Our Steam app
+Flickr sets
+The iPad app
+Manyland Let's Plays and more videos on YouTube
+ More videos A trailer made by GrimTheReaper
+ 
+ 
+Bruce Willakers in Manyland (here's more)
+ 
+ 
+ 
+ 
+ 
+And here's the first Manyland video... Who are you and where can I send feedback? 
+Manyland developed by Scott Lowe &amp.
+Philipp Lenssen, with world creation by all of you.
+
+
+Theme music of first video by
+Duncan MacKinnon featuring Johann Strauss II's The Blue Danube.
+Additional sound effects via FreeSound.org licensed under Creative Commons.
+thanks to all the sound makers.
+The music for the "In a universe" video is Raindrops and Waterfalls
+by Nicholas Pesci, with narration by Chuck Fresh.
+Thanks to Delco &amp.
+Jinx for providing additional sounds, originally for Anyland.
+Manylandâ¢ is a trademark by Scott Lowe and Philipp Lenssen.
+All our Manyland logos are in the public domain, feel free to use (just please don't make third-party sites etc.
+look like they're officially by us).
+Manyland blocks logo by Korikabu.
+Music for "Somewhere in infinity" is "Where's My Banjo" by Rimsky (Salvador Fornieles &amp.
+Carla Olaortua).
+Music for "10 things" is My Very Own Hostage by Atomic Pop.
+Music for "Walk right in" is by Kevin MacLeod
+Music for "We're inventing a universe is "Heavy Traffic", CC-licensed by Three Chain Links.
+and Cannon's Jug Stompers.
+Manyland is copyright by Scott Lowe &amp.
+Philipp Lenssen.
+Address.
+Email.
+To export the PNG of your creations for use elsewhere, shift-right-click them.
+Manylandâ¢ is a trademark and service mark of Scott Lowe &amp.
+Philipp Lenssen.
+A press kit is available.
+Thanks to everyone who supports, inhabits, provides feedback to, spreads the word of, and shapes Manyland.
+Thanks to all curators, youtubers and reviewers who visited Manyland.
+Thanks SalzStange.
+Thanks Nikolai Kordulla for helping
+with the iOS wrapper.
+Thanks go out to the makers of Chrome, Firefox and all
+other nice browsers, PhotoPaint, PaintShop Pro, Audacity, Apple and GarageBand, ImpactJS by Dominic Szablewski, NodeJS, MongoDB, JavaScript, HTML, CSS and other cool web technologies.
+Thanks to the makers of devices we build on.
+Thanks to civilization whose shoulders we stand on, coffee, tea, and the universe in general. Philipp Lenssen, RotebÃ¼hlstr.
+164, 70197 Stuttgart, Germany 
+
+
+We love to hear your feedback or questions!
+ Who are the Manyland supporters? When getting Minfinity for a month, you receive unlimited Boosts, can disable the ad, use universe search, freely give Mifts...
+plus you'll support Manyland!
+Here are all of this month's Minfinitizens...
+thank you so much for helping to sustain Manyland and its dev + server costs!
+!Arti.         P! 4k.
+Abby- Baa Boo Blueblur Death Iank J4mesj4mesj4mes Krima Milo Offdust Percy Playrium Robot Roseroserose Rr1 Shell Starboy Tanoshi Witchhazel Zenera Flame 
+The following people are Backers who helped with an extra amount during the initial Minfinity launch...
+thank you for backing Manyland!
+Philipp Qusion Bovine Cell Ms Cinn Ur Amar Cyel Horatio Joongle Teh Nicole Azuros Cow Sir Azuresh Sonny Oldman Kirbamaite Cypiea Dave Potato C.k.b.
+Mary L.
+Sailor-cat O Edward Elric Cyan Chron Morsmage Death Mr. Handsome Cactus Yoyoboy Claire Doneydew Eek Necrology Tara Wander The Doctor Pokemason Madi Richey Amigo Herpler Sherlocked Minfinity Yoshiman716 Purple Hopper Thanatos Shin Asuna Lexvi Bella Mist Crybaby Ninja Artemis Ender Aikari Rik Dreemurr -Steambeastie- Sega Saturn Alfredwallace Dianna G O O 
+...
+and you can also support Manyland on Patreon!
+
+
+Manyland is made with all of our passion and heart.
+We're hoping to put it on a stable financial fundament to cover the monthly costs.
+Whether or not you get Minfinity or become a Patreon, thank you for being in Manyland! Short area names
+
+Want to get an area name below the default minimum of 6 letters (it's a limited resource, so not available normally) and support Manyland at the same time?
+Then please create a new area with the name of "shorten to somename", where somename is the the name you desire,
+e.g.
+"bar".
+Directly afterwards, pay for the shortening below.
+ 5 Letters    &nbsp.
+$10 4 Letters    &nbsp.
+$20 3 Letters    &nbsp.
+$40 2 Letters    &nbsp.
+$80 1 Letter    &nbsp.
+$160  Area name:
+
+
+
+(We'll try process this in 48 hours from Monday-Friday, usually much faster.) &nbsp.
+
+      

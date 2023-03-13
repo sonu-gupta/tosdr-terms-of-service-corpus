@@ -1,0 +1,34 @@
+
+         Cookies policy What is a cookie?  A cookie is a small piece of text stored on your computer when you visit a site.
+Its purpose is to save various data, for example data related to your navigation.
+
+ Cookies are managed by your browser and only the site creating the cookie can read or modify the data it contains.
+
+ The word "Cookie" used in this document designates cookies as such but also any other technique used to store data in your browser that can be recovered while you navigate on a site or when you come back to the site at a later time.
+The use of "Local storage" or "tracking pixels" are examples of alternate techniques.
+ When do we use cookies?  Cookies are used when you navigate on the site, whether you have an account or not and whether you are connected or not.
+Some cookies are only created when using certain services from third parties such as sharing on Facebook.
+ For what purpose do we use cookies? 
+A cookie is created to route the web requests to the best available server in order to improve browsing speed.
+A cookie retains your language choice during navigation for when you come back to the site at a later time.
+Once logged in, a cookie stores your authentication token in order to identify you during site navigation or when coming back to the site at a later time.
+Thus you do not have to log in again each time you come back to the site
+The "mixpanel" library from the mixpanel.com site stores a set of cookies for the purpose of analyzing your navigation pattern.
+This analysis is done for statistical purposes and aims at continuously improving our services: analyzing the navigation patterns of a large group of individuals makes it possible to know which features should be kept, removed or improved.
+
+The "amplitude" library from the amplitude.com site stores a set of cookies for the purpose of analyzing your navigation pattern.
+This analysis is done for statistical purposes and aims at continuously improving our services: analyzing the navigation patterns of a large group of individuals makes it possible to know which features should be kept, removed or improved.
+
+The âGoogle Analyticsâ library from the analytics.google.com stores a set of cookies for the purpose of analyzing the traffic on the site: number of live users on the site, number of users coming back after one month, segmenting traffic by country, etc.
+Google, Facebook, Github &amp.
+LinkedIn store cookies on their domain when a user uses their services to log in on the site.
+Google, Facebook, Twitter, Reddit &amp.
+VK store sharing related cookies when a user shares content from the site on their social networks.
+ How long do we keep cookies? Our cookies last for a year. How can I deactivate cookies for the site?  Each browser provides a way to deactivate cookies on a given site.
+Please check the help guide of your chosen browser.
+
+ When deactivating cookies for the site some services will be disabled.
+For example you will not be able to log in or access services which only work while you are connected.
+ Contact Questions, comments and requests regarding this cookies policy are welcome and should be directed to privacy@codingame.com.
+
+      

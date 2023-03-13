@@ -1,0 +1,96 @@
+
+        Got it!This website uses cookies, including for Google Analytics and to display ads More infoCookie Consent plugin for the EU cookie law Open Camera 
+Jump to Instructions.
+
+Open Camera is an Open Source Camera app for Androidâ¢ phones and tablets.
+Features:
+
+Option to auto-level so your pictures are perfectly level no matter what.
+Expose your camera's functionality: support for scene modes, color effects, white balance, ISO, exposure compensation/lock, selfie with "screen flash", HD video and more.
+Handy remote controls: timer (with optional voice countdown), auto-repeat mode (with configurable delay).
+Option to take photo remotely by making a noise, or by voice command "cheese".
+Configurable volume keys and user interface.
+Upside-down preview option for use with attachable lenses.
+Overlay a choice of grids and crop guides.
+Optional GPS location tagging (geotagging) of photos and videos.
+for photos this includes compass direction (GPSImgDirection, GPSImgDirectionRef).
+Apply date and timestamp, location coordinates, and custom text to photos.
+store date/time and location as video subtitles (.SRT).
+Panorama, including for front camera.
+Support for HDR (with auto-alignment and ghost removal) and Exposure Bracketing.
+Support for Camera2 API: manual controls (with optional focus assist).
+burst mode.
+RAW (DNG) files.
+slow motion video.
+log profile video.
+Noise reduction (including low light night mode) and Dynamic range optimisation modes.
+Options for on-screen histogram, zebra stripes, focus peaking.
+Focus bracketing mode.
+Completely free, and no ads in the app (I only run ads on the website).
+Open Source.
+
+(Some features may not be available on all devices, as they may depend on hardware features, or the Android version.)
+Get it on Google Play.
+
+Open Camera Blog ~
+Discussion Forums ~
+Code Repository (Git)
+
+
+Contents:
+
+
+Requirements
+Instructions
+Credits
+Privacy policy
+Licence and Terms of Service
+History
+
+Requirements
+Open Camera requires Android 4.0.3 or better.
+Some features may only be available
+on some devices (it may depend on Android version, or require specific support from the camera/device).
+Note that it's not possible for me to test Open Camera on every Android device out there, let alone in combination with different
+Android versions (or especially alternative ROMs).
+Please test before using Open Camera to photo/video
+your wedding etc :)
+See here for some details on issues with various devices. Instructions Credits
+Open Camera is written by Mark Harman with additional contributors, see credits for details.
+Privacy policy
+See my privacy policy for details.
+Licence and Terms of Service
+Open Camera is released under the GPL v3 or later.
+The source code is
+available from https://sourceforge.net/âprojects/opencamera/files/ .
+Also see "Can I use the Open Camera source code in my app?" under the FAQ.
+
+Open Camera uses the AndroidX/Jetpack libraries, under Apache license version 2.0.
+The following files are used in Open Camera:
+
+Open Camera uses icons from Google's Material Design icons - from https://developer.android.com/âdesign/downloads/index.html / https://design.google.com/icons/ / https://github.com/google/material-design-icons/ / https://google.github.io/material-design-icons/, by Google, under Apache license version 2.0 (some cases include modifications, no need to credit me).
+In particular: baseline_add_a_photo_white_48.png, baseline_bluetooth_white_48.png, baseline_check_white_48.png, baseline_close_white_48.png, baseline_filter_vintage_white_48.png, baseline_folder_open_white_48.png, baseline_highlight_white_48.png, baseline_panorama_horizontal_white_48.png, baseline_photo_library_white_48.png, baseline_remove_red_eye_white_48.png, baseline_rotate_left_white_48.png, baseline_rotate_right_white_48.png, baseline_shutter_speed_white_48.png, baseline_text_fields_red_48.png (modified from baseline_text_fields_white_48), baseline_text_fields_white_48.png, exposure_locked.png (modified from baseline_lock_white_48 and ic_exposure_white_48dp), exposure_unlocked.png (modified from baseline_lock_open_white_48 and ic_exposure_white_48dp), flash_auto.png (from ic_action_flash_automatic), flash_off.png (from ic_action_flash_off), flash_on.png (from ic_action_flash_on), focus_mode_locked.png (modified from baseline_lock_white_48), ic_burst_mode_white_48dp.png, ic_colorize_white_48dp.png, ic_exposure_red_48dp.png, ic_exposure_white_48dp.png, ic_face_red_48dp.png (modified from ic_face_white_48dp), ic_face_white_48dp.png, ic_fast_forward_white_48dp.png, ic_gps_fixed_red_48dp.png (modified from ic_gps_fixed_white_48dp), ic_gps_fixed_white_48dp.png, ic_gps_off_white_48dp.png, ic_hdr_on_white_48dp.png, ic_help_outline_white_48dp.png, ic_info_outline_white_48dp.png, ic_launcher_take_photo.png (modified from ic_photo_camera_white_48dp), ic_mic_off_white_48dp.png, ic_mic_red_48dp.png (modified from ic_mic_white_48dp), ic_mic_white_48dp.png, ic_more_horiz_white_48dp.png, ic_pause_circle_outline_white_48dp.png, ic_photo_camera_white_48dp.png, ic_photo_size_select_large_white_48dp.png, ic_play_circle_outline_white_48dp.png, ic_power_settings_new_white_48dp.png, ic_save_white_48dp.png, ic_slow_motion_video_white_48dp.png, ic_text_format_red_48dp.png (modified from ic_text_format_white_48dp), ic_text_format_white_48dp.png, ic_timelapse_white_48dp.png, ic_timer_white_48dp.png, ic_touch_app_white_48dp.png, ic_videocam_white_48dp.png, ic_stat_notify_take_photo.png (modified from ic_photo_camera_white_48dp), popup*.png (modified from ic_more_vert_white, baseline_highlight_white, baseline_remove_red_eye_white, ic_action_flash_automatic, ic_action_flash_off, ic_action_flash_on), settings.png (from ic_action_settings), share.png (from ic_action_share), switch_camera.png (from ic_action_switch_camera), take_photo.png (modified from ic_photo_camera_white_48dp), take_photo_pref.png (modified from ic_photo_camera_white_48dp), take_photo_pressed.png (modified from ic_photo_camera_white_48dp), take_photo_when_video_recording.png (modified from ic_photo_camera_white_48dp), take_video.png (modified from baseline_videocam_white_48), take_video_pref.png (modified from baseline_videocam_white_48), take_video_pressed.png (modified from baseline_videocam_white_48), take_video_recording.png (modified from baseline_videocam_white_48), trash.png (from ic_action_discard), white_balance_locked.png (modified from baseline_lock_white_48), white_balance_unlocked.png (modified from baseline_lock_open_white_48).
+Modified versions of some of these icons are also used on this website.
+Open Camera's app icon/logo also makes use of ic_photo_camera by Google (also Apache license version 2.0).
+
+Note that old versions of Open Camera also used the following:
+
+exposure_locked.png, focus_mode_locked.png, white_balance_locked.png modified from https://www.iconfinder.com/âicons/128411/âantivirus_close_forbid_hide_âlock_locked_password_privacy_âprivate_protection_restrictionâ_safe_secure_security_icon#âsize=64 , by Aha-Soft, under CC BY 3.0 (no need to credit me).
+exposure_unlocked.png, white_balance_unlocked.png modified from https://www.iconfinder.com/âicons/128416/âfree_freedom_hack_lock_open_âpadlock_password_secure_âsecurity_unlock_unlocked_icon#âsize=64 , by Aha-Soft, under CC BY 3.0 (no need to credit me).
+flash_off.png, flash_auto.png, flash_on.png from https://www.iconfinder.com/âicons/62201/flash_icon#size=64, by The Working Group, under CC BY-SA 3.0.
+flash_red_eye.png, popup_flash_red_eye.png from https://www.iconfinder.com/âicons/103177/âeye_see_view_watch_icon#âsize=128 , by Designmodo / Andrian Valeanu, under CC BY 3.0 (no need to credit me).
+flash_torch.png, popup_torch.png from https://www.iconfinder.com/âicons/51924/âbulb_light_icon#size=128 , by IconFinder - http://www.iconfinder.net , by CC BY 3.0.
+focus_mode_macro.png from https://www.iconfinder.com/âicons/81105/âmacro_mb_icon#size=128 , by Yankoa - http://yankoa.deviantart.com/ , under CC BY 3.0.
+gallery.png from https://www.iconfinder.com/âicons/6915/âbook_gallery_images_photos_âpictures_icon#size=128, by Alessandro Rei, under GPL v3.
+settings.png from https://www.iconfinder.com/âicons/115801/âsettings_icon#size=128, by Designmodo / Andrian Valeanu, under CC BY 3.0.
+share.png from https://www.iconfinder.com/âicons/111030/âshare_icon#size=128, by WPZOOM, under CC BY-SA 3.0.
+switch_camera.png from https://www.iconfinder.com/âicons/103031/â3d_rotate_icon#size=64, by Valera Zvonko, under CC BY 3.0.
+switch_video.png from https://www.iconfinder.com/âicons/92787/âfilm_photo_icon#size=32, by FatCow Web Hosting, under CC BY 3.0.
+switch_video.png - merged from images https://www.iconfinder.com/âicons/81087/âmb_photo_icon#size=128 and https://www.iconfinder.com/âicons/81197/âmb_rec_video_icon#size=128 by Yankoa, under CC BY 3.0 (no need to credit me).
+take_video.png, take_video_pref.png, take_video_pressed.png, take_video_recording.png from https://www.iconfinder.com/âicons/81197/âmb_rec_video_icon#size=128 , by Yankoa - http://yankoa.deviantart.com/ , under CC BY 3.0.
+App icon/logo, take_photo.png, take_photo_pressed.png from https://www.iconfinder.com/âicons/81087/âmb_photo_icon#size=128, by Yankoa, under CC BY 3.0.
+trash.png from https://www.iconfinder.com/âicons/115789/âtrash_icon#size=128, by Designmodo / Andrian Valeanu, under CC BY 3.0.
+
+Android, Google Play and the Google Play logo are trademarks of Google LLC. History Open Camera Privacy Policy.
+This website uses icons from third party sources, see licences.
+Open Camera on Sourceforge.

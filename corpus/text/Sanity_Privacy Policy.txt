@@ -1,0 +1,245 @@
+
+        Last updated November 2, 2021Privacy PolicyThis is the Privacy Policy of Sanity AS and Sanity US Inc.
+("Sanity").
+For Sanity, the protection and confidentiality of your data is of the utmost importance.
+If you have any concerns about privacy and personal data you may contact our Data Protection Officer, Jose Estrada, at dpo@sanity.io.
+Sanity collects and uses your personal data strictly within the legal limits of the data protection law of the Kingdom of Norway, the EU General Data Protection Regulation no.
+2016/679 and UK GDPR (collectively, the "GDPR") as incorporated in Norwegian law, in addition to applicable data protection laws in the United States, including but not limited to, the California Consumer Privacy Act (âCCPAâ).
+Terms that we use in this document like "personal data", "processing", "data controller" and "data processor" shall have the meaning as defined therein.
+This privacy policy informs you of the kinds, extents and purposes of any collection and use of personal data, and is divided into the following sections:
+Personal data we collect and use with our platform is detailed in Section 1.
+General aspects regarding processing of personal data and your rights in Section 2.
+Details of third party service providers and other personal data we collect and use when you visit our website Sanity.io at https://www.sanity.io/third-party-sub-processors.
+Please address any requests regarding privacy to privacy@sanity.io or write to us at the postal address stated above.
+We may modify this Privacy Policy at any time.
+All changes will be effective immediately upon posting to our website.
+Material changes will be conspicuously posted on our website or otherwise communicated to you.
+The latest version of the privacy policy is always accessible at www.sanity.io/legal/privacy.
+
+1.
+Overview of personal data we collect and use
+
+
+1.1 Log in information and data you provide as a customer of sanity.io
+
+In order to use all services offered by Sanity, you are required to register.
+You may register using third party identity providers, such as Google and Github.
+If you choose to do so, the identity providers will provide Sanity with your name, email address and profile picture (if available).
+Sanity will not, however, have access to your password.
+If direct signup with Sanity is provided, we will require you to enter your name, email address and password, and you may also provide us with other information upon login, such as your profile picture.
+For both options, this data is required to create and administer a user account for you and to enable you to use the service.
+For enterprise customers, Sanity allows signup and login via third party enterprise authentication services, if previously agreed upon and formalized in terms with said enterprise.
+If you decide to use services offered by Sanity that are subject to a charge, you are required to provide the name, address, email address, and phone number of your organization (or yours if not applicable) for payment reasons.
+This information is also processed by our payment processor.
+Credit card information is never available to Sanity, but is only transmitted to and stored with our payment processor.
+To provide you with a better service, user and organization data may also be stored in third-party CRM systems or similar tools (such as e.g.
+hubspot.com and salesforce.com) for sales and marketing purposes.
+You may choose to download our published whitepapers or sign up for our newsletter and service status updates provided via email.
+We will store your name and email address, and use this information to send you marketing communications.
+We will also share this information with third party vendors to deliver these services on our behalf.
+You may choose to unsubscribe from these email communications at any time.
+We will also very occasionally send important service updates to all registered users via email, using the same third-party vendors.
+Sanity is the data controller for the personal data of our service users according to relevant data protection law.
+
+1.2 Information within content owned by our users at sanity.io
+
+Users can upload a variety of content, such as texts, images, videos and music files to and via the Sanity Services, defined as "Customer Data" in our General Terms and Conditions.
+Typical content uploaded to Sanity might be news articles or a shop's production information.
+This data may occasionally, but not usually, contain data that may be qualified as personal data.
+In this context, Sanity is only a processor of data on behalf of the user and not the data controller.
+Sanity will only process and store this data within the framework of the provision of the service, in the scope described in the General Terms and Conditions and our Agreement with you or the entity with which you are connected to.
+
+1.3 Data collected through the use of APIs and SDKs
+
+Sanity allows customers to integrate their uploaded content into their internal systems and/or third-party systems delivered by other parties through an Application Programming Interface (API).
+Sanity by design does not determine what systems it may be configured to interoperate with but typical examples of classes of such systems are content delivery (e.g.
+HTML rendering systems, native mobile applications, digital signage systems) and content optimisation (e.g.
+e-commerce personalization services, A/B/N-testing or similar) systems.
+The SDKs can, however, be configured by the user/client of our service to send the identity (user ID) of logged-in users to our APIs in order to facilitate, for example, access control.
+This would be a user-based decision/parameter defined by client and therefore out of our control.
+Sanity logs the originating IP address of an end user to avoid fraudulent use (e.g., denial of service attack).
+
+1.4 Information gathered through automatic data collection
+
+When you access the Sanity Services via a browser, the Command Line Interface (CLI), or other means, certain data is automatically transmitted for technical reasons.
+The following data is logged and stored separately from any other data you may transmit to us for a limited time: IP address, date and time of access, browser type and version, operating system, URL of the website visited prior to ours, amount of data transmitted, and performance numbers such as latencies and caching.
+This data is collected for purposes of security, troubleshooting, and aggregate statistics, and is never associated with any particular individual.
+Logged-in users will also transmit authentication information through cookies or headers to allow our systems to authenticate and authorize the request and make decisions based on the logged-in user.
+This information is never stored together with the access logs mentioned above, but other information that is explicitly provided by the user to perform operations may, however, be logged and associated with the user in order to provide audit logs and similar.
+When visiting our website at sanity.io we collect aggregate statistics about your actions on our website and store these with a third-party processor for analytics and statistics to improve our website and service.
+The collected data does not include any personal information, and it is not possible for us to trace this back to any individual.
+If the user should encounter any errors while using our services, we will temporarily log information relevant to the error, including the information listed above, with a third party processor in order to notify us of the error and aid with debugging.
+
+Californiaâs âDo-Not-Trackâ Requirement.
+we currently do not respond to âdo not trackâ requests.
+
+
+
+
+
+1.5 Analytics and Marketing
+
+Sanity uses Google Analytics and Google Tag Manager, web analytics services provided by Google Inc.
+("Google"), for aggregate statistics about our website usage.
+This also collects information for remarketing purposes.
+The information gathered is anonymous, and cannot be traced back to individuals.
+To learn more about how Google uses data, visit Googleâs Privacy Policy and Googleâs page on âHow Google uses data when you use our partnersâ sites or apps.â You may download the Google Analytics Opt-out Browser Add-on for each web browser you use, but this does not prevent the use of other analytics tools.
+To learn more about Google Analytics cookies, visit Google Analytics Cookie Usage on Websites.
+When users visit Sanity.io they may choose to opt-in to seeing advertising about Sanity elsewhere on the internet.
+Sanity uses Google Marketing Services to allow more targeted ads for our website on sites using Google Display Network and Google Search Ads.
+This is called "remarketing".
+The user data is processed pseudonymously by Google Marketing Services.&nbsp.
+To change your preferences with respect to certain online ads or to obtain more information about ad networks and remarketing, visit National Advertising Initiative Consumer opt-out page or the Digital Advertising Alliance Self-Regulatory Program.
+Changing your settings with individual browsers or ad networks will not necessarily carry over to other browsers or ad networks.
+As a result, depending on the opt-outs you request, you may still see our ads.
+Opting-out of targeted advertising does not opt you out of all ads, just those targeted to you.
+
+1.6 Cookies
+
+Sanity stores so-called "cookies" to provide you with a wide range of functionalities.
+"Cookies" are tiny files stored on your computer through your browser.
+If you do not wish to receive "cookies", you may deactivate storing "cookies" on your computer by changing your browser settings accordingly.
+Please note that the functioning of the website may be impaired and the range of functionalities may be limited if you deactivate "cookies".
+The cookies we use are described in more detail in Appendix 1.
+You may deactivate cookies in your web browser.
+For more information, please visit http://www.youronlinechoices.com/
+
+1.7 Further information
+
+If you decide to use services offered by Sanity that are subject to a charge, Sanity may offer you the possibility to enter further information and/or flag issues using the customer account management tool on your profile page.
+The information requested by Sanity will then depend on your request and will be specified in the input mask.
+In addition, free-text fields allow you to enter more information.
+Sanity will use the information you enter to process your request.
+Sanity also offers a free newsletter service.
+In its newsletter, Sanity informs subscribers about changes to the Sanity Services.
+You may opt out of the newsletter at any time.
+Each newsletter contains a link to opt out of receiving any future newsletters.
+
+2.
+General Aspects of Data Processing and Privacy
+
+
+2.1 Legal basis and purpose of our processing
+
+We process your data because it is necessary for the fulfillment of a contract with you and/or because it is necessary to perform our legitimate objective of providing the Sanity Services to our Customers.
+This includes, but is not limited to:
+
+To provide services and information to our Customers
+To handle inquiries and requests from our Customers
+To create and administer records about an account that you register with us
+To give our Customers information and updates about their orders.
+To provide access to resources and information that you have requested from us
+To provide you with technical support based on your individual needs
+To improve our website, like the navigation and content of our sites
+For website and system administration and security
+To process transactions from our Customers
+To fulfil our legal obligations regarding financial transactions
+For general business purposes, including improving customer service
+To help us improve the content and functionality of the Sanity Services
+To better understand our users and protect against wrongdoing
+To enforce our Terms of Service, and to generally manage our business
+For recruitment purposes, if you apply for a job at Sanity
+
+
+2.2.
+Third Parties/Service Providers We Share Personal Data With
+
+We may share all categories of personal data listed above with the following categories of third parties and/or service providers:
+
+Employees and Affiliates. We may share personal data with our employees and affiliates who have a need to know the information for our business purposes.
+
+Third Parties and/or Service Providers.&nbsp.
+We may share personal data with third parties and/or service providers that provide services for us as set forth below.
+
+Government Officials / Law Enforcement.&nbsp.
+We will cooperate with law enforcement and other governmental agencies, and may disclose personal data: (i) if we believe in good faith we are legally required to disclose that personal data, (ii) if we are advised to disclose personal data by our legal counsel, or (iii) when necessary to identify, contact or bring a legal action against someone who may cause or be causing harm to, or interfering with the legal rights of, Sanity or any other party.
+
+Professional Advisors.&nbsp.
+We may share personal data with our professional advisors, such as our attorneys, accountants, financial advisors and business advisors, in their capacity as advisors to Sanity.
+
+Change in Ownership.&nbsp.
+In the event (a) Sanity is subject to a change of control, (b) our services change ownership, in whole or in part, or (c) of a bankruptcy, receivership or a similar transaction, we may provide personal data to the subsequent owner(s), including as part of any due diligence process.
+
+Other.&nbsp.
+We may share personal data with third parties and/or service providers when explicitly requested by or consented to by you, or for the purposes for which you disclosed the personal data to us as indicated at the time and point of the disclosure (or as was obvious at the time and point of disclosure).
+
+2.3 Third party access to your data
+
+Sanity employs third-party processors under contract as part of providing our services to you, who may process your personal data in cases where we are the data controller.
+In these cases, we only share the necessary information to enable them to carry out their tasks.
+Such external service providers are carefully selected in order to ensure your privacy and to fulfil our obligations under the GDPR, CCPA, and other applicable data protection laws.
+Service providers may only use the data for the purposes under the agreement entered into between Sanity and the service provider.
+More information about our specific third-party processors is included at https://www.sanity.io/third-party-sub-processors.
+We also employ a limited number of third-party subprocessors for processing customer-controlled data, listed at https://www.sanity.io/third-party-sub-processors.
+Sanity will notify customers before changing subprocessors that have access to customer-controlled data, and allow the customer to cancel their contract before the switch if they object.
+If it serves investigations of illegal use of our services or is required to pursue legal claims, personal data may be shared with law enforcement agencies, public bodies and third-party victims' claims based upon court orders or other binding orders from public bodies.
+Such transfer of data will be made in accordance with applicable laws and regulations.
+In the last 12 months we have not Sold your personal data and we currently do not Sell personal data.
+âSoldâ / "Sell" has the definition set forth in the CCPA.
+
+2.4 Deletion of your data
+
+Your data will be deleted from our systems and third-party processors once it is no longer required for the aforementioned purposes.
+We delete or anonymize logs within 90 days of collection.
+If you delete your user account, your personal data will be removed from our systems without unreasonable delay, and at the latest within 90 days, unless applicable legislation or legal process prevents us from doing so.
+To the extent that Sanity is legally obliged to archive data, such data will be blocked and will not be available for productive use.
+Customer-controlled data may be deleted via our API.
+We retain a complete history of all changes to a dataset, including deleted documents, with a maximum retention period given by the project's plan.
+Custom retention periods can be configured for the entire dataset or by document type for customers with our custom history retention feature.
+Customers can also permanently delete a document and all history via a purge mutation through our API.
+Note that user-specified document IDs will be retained in our systems indefinitely (until the entire dataset is deleted), for technical reasons - we strongly recommend that document IDs never contain personal or sensitive data.
+Deleted assets may remain available in public CDN caches until the configured expiry time.
+Data may in certain cases remain in the systems of our subprocessor Google Cloud Platform for as long as 180 days, as outlined in their terms of service, although it will generally be removed much sooner.
+This data is not available to us.
+
+2.5 Location of your data
+
+Sanity is based in Norway and will primarily access your data from our regular place of business in Norway.
+Your personal data will be stored on servers within the EU/EEA hosted by our subprocessor Google Cloud Platform - primarily in data centers in St.
+Ghislain, Belgium, but also at other Google data centers throughout the EU.
+Your data may be stored transiently or cached in any country in which Google or its agents maintain facilities.
+We also employ certain third-party processors outside of the EU (primarily in the US) to deliver our services, which may process personal data for which we are a controller.
+Under such circumstances, adequate safeguards for such transfer to third countries are in place, including data processing agreements compatible with EU standard clauses accepted by the European Commission.
+For a complete list of processors, please see https://www.sanity.io/third-party-sub-processors.
+Customer-controlled data is always permanently stored within the EU.
+
+2.6 Your rights
+
+Subject to certain limitations such as exceptions permitted by applicable law and verification of your identity, you may exercise the following rights with regard to your personal data:
+CCPA
+Right to Access.&nbsp.
+You have a right to access any of the following which occurred in the prior 12-month period: (a) the categories of personal data we collected from you, (b) the categories of sources from which the personal data was collected, (c) the business or commercial purpose for collecting your personal data, (d) the categories of third parties with whom we shared your personal data, (e) the specific pieces of personal data we collected from you, and (f) a list of categories of personal data we disclosed for a business purpose in the last 12 months.
+Right to Deletion.&nbsp.
+You have a right to request that we delete personal data we collected from you.
+We will comply with such request, and direct our service providers to do the same, subject to certain exceptions permitted by applicable law.
+Exercising Your Rights.
+To exercise your rights as described in this Privacy Policy, you may submit your request to us by contacting us at privacy@sanity.io.
+Verification.
+In order to verify your request, you must provide sufficient information to allow us to reasonably verify you are the person about whom we collected personal data, and you must describe your request with sufficient detail to allow us to properly understand, evaluate, and respond to your request.
+When we receive your request to exercise your rights described in this Privacy Policy: (a) we will acknowledge receipt of your request.
+(b) we will try to match the information you provide in making the request with information we already maintain about you.
+(c) if required to verify your identity, we may ask you to provide additional information, including personal data.
+(d) we will consider various factors when determining how to verify your identity, such as the sensitivity and value of the data, the risk of harm, the likelihood of fraud, etc.
+We will only use personal data we collect during the verification process for the purpose of verifying your identity.&nbsp.
+If you maintain an account with us, we may use that account to respond to your request and/or verify your identity.&nbsp.
+If we are unable to verify your identity as required by applicable laws and regulations, we will decline to comply with your request, and let you know why.
+When We Will Respond.&nbsp.
+We will try to respond to your request for access or deletion within 45 days.
+If we require additional time, we will inform you of the reason and extension period.
+Any disclosures we provide will only cover the 12-month period preceding our receipt of your request.
+Non-Discrimination.
+You have the right to not receive discriminatory treatment for exercising any of your rights described in this Privacy Policy.
+Who May Exercise Your Rights? You may only make a request to exercise your rights on behalf of yourself.
+If you are a California resident, you also have a right to submit requests to exercise your rights through an authorized agent.
+An authorized agent must be registered with the Secretary of State in California to conduct business in California.
+If you choose to use an authorized agent, you must (a) provide signed permission to that authorized agent to submit requests on your behalf, (b) verify your identity directly with Sanity, and (c) directly confirm with Sanity that you granted permission to the authorized agent to submit the request on your behalf.
+For clarity, you are required to verify the identity of both yourself and the authorized agent.
+Shine the Light.
+Pursuant to California Civil Code Section 1798.83, if you are a California resident, you have the right to obtain: (a) a list of all third parties to whom we may have disclosed your personal data the past year for direct marketing purposes, and (b) a description of the categories of personal data disclosed, by contacting us at privacy@sanity.io.
+GDPR
+You are entitled, upon request, to disclosure regarding your personal data that we are storing or are otherwise processing.
+You are also entitled to have any incorrect personal data corrected and rights to blocking or deletion of your personal data.
+Under certain conditions, you have the right to object to processing of your personal data, and as far as the EU Regulation 2016/679 (GDPR) has entered into force you may ask to receive your personal data in a structured and commonly used format so that it can easily be transferred to you or another data controller you appoint (this is known as "data portability").
+If you have any complaints regarding our processing of your personal data, we encourage you to contact us.
+Please address any requests in such matters to privacy@sanity.io or write to us at the address stated above.
+We also inform you that you are entitled by law to file a complaint with the Norwegian Data Inspectorate (datatilsynet.no).

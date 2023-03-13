@@ -1,0 +1,176 @@
+
+        Print this pageAuthy App Privacy Notice
+Effective Date May 25, 2018, updated on January 8, 2021 
+(
+View the prior version of our privacy statement here.
+)
+Summary
+Welcome to Authy! As a courtesy, below is a quick summary of our privacy practices when you use the Authy desktop or mobile app.
+The full version can be found by scrolling down.
+The full version is the one that is legally controlling.
+
+When you use our app we collect:
+
+Your phone number, device information, and email address.
+If you use an application that integrates our 2-factor authentication API, they will send us your phone number and email address so we can validate who you are on their behalf.
+We keep a record of your log-ins to accounts for which you use Authy for 2-factor authentication.
+We do not sell your personal information.
+We use the information we gather from you to monitor for unusual or suspicious activity in your account, to communicate with you about your account, and as additional information that can be used to validate who you are if you need to recover your account or your account has been or may be compromised.
+Websites and programs that integrate our 2-factor authentication API will be able to see information they sent us about you, your login activity to their website and program, your primary device type, and other device related information relevant to identifying unusual or suspicious activity, but they will not see any other websites or programs for which you use Authy.
+We also share your information with our third party service providers as necessary for them to provide their services to us.
+We may also have to share your information with third parties if required to do so by law.
+Your information will be transferred to the U.S.
+If you have questions about our data practices or information we store about you, you can email us at privacy@twilio.com.
+Full Version
+Introduction
+What personal information we collect, how we collect it and why
+What we use your personal information for
+Who we may share your personal information with
+International Operations and Transfers Out of the European Economic Area and Switzerland
+Information from children
+How we secure your data
+How we tell you about changes to our privacy practices
+How to make choices about your personal information
+How to resolve disputes relating to our privacy practices
+How you contact us
+Legal basis for processing personal information (EEA only)
+IntroductionAuthy, a Twilio service, offers a desktop and mobile app for two-step verification.
+The Authy apps generate one time passwords and push notifications on your desktop computer or mobile device that can be used as a part of a 2-step verification process with your Authy-compatible accounts to add another layer of security.
+Authy can be used as an alternative to programs such as Google Authenticator or as a provider of 2-factor authentication for applications or programs that directly integrate with Authyâs 2-factor authentication API.
+Below is a summary of our practices when it comes to your personal information collected when you download and use the Authy desktop or mobile app.
+If you are interested in our practices relating to personal information collected when you build an application that integrates with Authyâs API to add two-factor authentication to your application, click here.
+For purposes of this notice, the words âour,â âus,â âwe,â âAuthy,â and âTwilioâ refer to Twilio Inc.
+and our affiliates (which includes any person or entity that controls us, is controlled by us, or is under common control with us, such as our subsidiary, parent company, or our employees).
+If you are a user outside of the United States, this service is provided to you by Twilio Ireland Limited, located at 25-28 North Wall Quay, Dublin 1, Ireland.
+Twilio Ireland Limited is the controller of personal information processed in connection with your use of the Authy apps.
+Before you submit any information on or through Authy, please carefully review this notice.What personal information we collect, how we collect it and why
+Identifiers:
+
+
+Device Information.
+When you download and open the Authy desktop or mobile app, we automatically collect information about the type of device you have downloaded the app on and your device identifier.
+We collect this to ensure we deliver the right version of the app for your device and so that we can provide appropriate follow up support as necessary.
+
+Phone Number and Email Address.
+Once you open the Authy app, we ask you to provide us with a phone number to create your Authy account.
+We send a verification code to that phone number to be sure that the person creating the Authy account also has control over the phone number entered.
+After the phone number is verified, the phone number you use will be the identifier for your Authy account that allows you to add and associate additional devices to your same Authy account.
+The device on which you first created your Authy account is considered your âprimary device.â You may also enter your email address.
+If you are a user of an application or program that directly integrates with Authyâs 2-Factor Authentication API, those applications or programs collect your phone number and email address and share that information with us so we can use it to associate your account on that application or program with your Authy account that you created when you downloaded the Authy app.
+If you have not downloaded the Authy app, but use an application or program that directly integrates with Authyâs 2-Factor Authentication API, when that application or program shares your phone number and email address with us, we will create an Authy account for you.
+We will use your phone number to communicate to you verification codes so you can log into your account on that application or program.
+We collect your email address as another piece of information to validate who you are if you need to recover your account or your account has been compromised, and also to communicate notices about your account to you like suspicious logins or other activity that could be related to a compromise of your Authy account or one of your accounts in other applications or programs that integrate with the Authy 2-Factor Authentication API.
+
+Identity Confirmation Information.
+If you need to change your phone number associated with your account but are not able to access your Authy app to change your number under Settings, you can submit a request to change your phone number here.
+If we cannot easily confirm that you are the rightful account holder of the Authy account associated with your old number, we will ask you for your phone account information and a copy of physical identification such as a driversâ license, national ID, or passport, which we then use to confirm your claim to the account.
+From time to time, if there are other situations where we need to verify that you are the rightful account holder of your Authy account, our support team may require you to provide identity information like a driversâ license, national ID or passport.
+Internet or other electronic network activity information:
+
+Login History and Authy Account History. When you use an Authy token to log into an account, whether the token was generated on the app or one sent to you via your phone number, we collect and keep information associated with your login activity including information like your IP address, what application or program you logged in to, that you logged in, and when.
+If you change your phone number or email associated with your Authy account, we will also keep a log of that.
+We collect this information to monitor for suspicious activity and also as another piece of information that could be used to verify your identity if your account is compromised or may be compromised.
+
+Geolocation information:
+
+If you have location services turned on, we collect your location location based on your IP address.
+We use this information for anti-fraud purposes, to check for suspicious activity and, again, as another piece of information we can use to verify your identity if we suspect your account may be compromised.
+
+What we use your personal information forWe use your phone number as an identifier for your Authy account.
+This allows you to download the Authy app onto various devices and associate those devices with your same Authy account.
+We may also use your phone number to send you verification codes as a second factor for authenticating a login for an application that integrates with the Authy 2-Factor Authentication API.
+We also use logs of any changes to your phone number to monitor for suspicious or unusual activity and as another piece of information that could be used, if necessary, to verify your identity if your account is or may be compromised.
+We use your email address, and any history of email addresses associated with your Authy account, as another piece of information that could be used, if necessary, to verify your identity if your account is or may be compromised.
+We also use your email address to communicate notices to you about your account, such as suspicious logins or other activity that could indicate a compromise of your account.
+In addition, we may use your email address to send you information about other Authy and Twilio products, services, or events that you might be interested in.
+You can choose not to receive marketing emails from us.
+If you wish to stop receiving our marketing emails you may click on the unsubscribe link that will appear at the bottom of any of our marketing emails or you can contact customer support.
+We use information associated with your login activity, device information, and changes to your account to monitor for unusual or suspicious activity on your account and as any other piece of information that could be used to help us verify your identity if your account is compromised or may be compromised.
+In addition to using device information as described above, we also use your device information ensure proper delivery of our service and to provide and deliver support and maintenance of the Authy app.
+Your personal information is generally stored until you advise us to close your Authy account and delete your records, and activity logs may be stored for up to a year for security purposes, or, if there is an ongoing investigation, until that matter is concluded.Who we may share your personal information withAuthy does not sell your personal information, share it with third parties for their own marketing purposes, nor do we allow third parties to use it for their own marketing purposes, unless you ask us to do this.
+You can read more in our CCPA Notice.
+An application or program that integrates with the Authy 2-Factor API is able to access a record of the email address and phone number that it sent to Authy.
+It will also be able to access your primary device type and information associated with your login activity to that application or program.
+It may also retain this information on its own servers.
+We may also share other information related to your account with that application or program to help them and us detect suspicious or fraudulent activity on your account.
+Those applications or programs will not be able to see other accounts for which you use Authy to provide 2-factor authentication, however.
+In addition, we may share your information with third parties as follows:
+
+Third-party service providers or consultants.
+We may share your personal information with third-party service providers or consultants who need access to the personal information to perform their work on our behalf, like sharing personal information with our storage provider for the purposes of storing your personal information on our behalf.
+These third-party service providers are limited to only accessing or using this personal information to provide services to us and must provide reasonable assurances that they will appropriately safeguard the personal information.
+Compliance with Laws.
+We may disclose your personal information to a third party if (i) we reasonably believe that disclosure is compelled by applicable law, regulation, legal process or a government request (including to meet national security or law enforcement requirements), (ii) to enforce our agreements and policies, (iii) to protect the security or integrity of our services and products, (iv) to protect ourselves, our other customers, or the public from harm or illegal activities, or (v) to respond to an emergency which we believe in good faith requires us to disclose personal information to assist in preventing a death or serious bodily injury.
+If we are required by law to disclose your personal information, we will notify you of that disclosure requirement, unless prohibited by law.
+Further, we object to requests that we do not believe were issued properly.
+Other Twilio Group entities.
+We may share your personal information or your end usersâ personal information within the Twilio group of companies, such as with a subsidiary of Twilio Inc.
+We and our subsidiaries will only use the information as described in this notice.
+Business transfers.
+If we go through a corporate sale, merger, reorganization, dissolution or similar event, personal information we gather from you may be part of the assets transferred or shared in connection with the due diligence for any such transaction.
+Any acquirer or successor may continue to use the personal information as described in this notice.
+Aggregated or de-identified information.
+We might also share information with third parties if that information has been de-identified or aggregated in a way that does not identify you.
+
+Over the last year, we have shared Identifiers and Internet or other electronic network activity information with third parties, as we describe in this section.
+You can reach out to us for more information by contacting our Support team.
+If you use the Authy app when logging into a website or application that has not integrated the Authy 2-Factor API (i.e., you are using the Authy app as an alternative to Google Authenticator, typically by adding the website or application to your Authy App through scanning a QR code), the soft token you will see will be a 6 digit code.
+Authy does not share your information with these websites or applications.International operations and transfers out of the European Economic Area and SwitzerlandYour personal information may be transferred to the United States, and possibly other countries where we or our service providers operate.
+Twilio employs appropriate safeguards for cross-border transfers of personal information, as required by applicable local law.
+Twilio has established and implemented a set of Binding Corporate Rules (âBCRsâ) for internal transfers of Authy personal information between Twilio group companies in the European Union and Twilio group companies elsewhere.
+Twilioâs BCRs have been approved by European Union Data Protection Authorities and are a commitment by Twilio to adequately protect personal information that Twilio processes regardless of where the information resides.
+You can access Twilioâs BCR controller policy here.
+Where Twilioâs BCRs do not apply, we will rely instead on other safeguards to transfer personal information outside the European Economic Area (EEA) and Switzerland, such as European Union Model Clauses, also known as Standard Contractual Clauses.
+You can read more about these in the main Twilio Privacy Statement and in the Data Protection Addendum that we provide to all our customers.Information from childrenWe do not knowingly permit children (under the age of 13 in the US or 16, if you live in the EEA) to sign up for an Authy account.
+If we discover that someone who is underage has signed up for an Authy account, we will take reasonable steps to promptly remove that personâs personal information from our records.
+If you believe that a person who is underage has signed up for an Authy account, please contact us at privacy@twilio.com.How we secure your personal informationWe use appropriate measures to protect the security of your personal information both online and offline.
+These measures vary based on the sensitivity of the information that we collect, process and store and the current state of technology.
+Please note though that no service is completely secure.
+So, while we strive to protect your personal information, we cannot guarantee that unauthorized access, hacking, data loss or a data breach will never occur.
+There are also things you can do to add extra protection to your Authy account.
+First, you should password protect or activate biometrics (like Touch ID) for all devices on which you have downloaded the Authy app.
+This will prevent unauthorized users from accessing your Authy app.
+Further, you have the option of setting a protection pin for your Authy app.
+You can do this by going into your app and clicking on settings.
+In settings, you should click on âProtection Pin.â You can choose to include a Protection Pin which will require you to enter a pin number of your choosing before accessing settings and your Account Info.
+Depending on your deviceâs capabilities, you may also be able to add biometric protection.
+You can also choose to protect the entire app which will require you to enter your chosen Pin and/or use biometric to open the Authy app on your device.
+We recommend that if you have downloaded Authy onto a shared device, that you use this last option of protecting the entire app.
+If you have multiple devices associated with your account and one of your devices is lost or stolen, you can remove that device from your circle of trusted devices by going into one of the other devices associated with your account, and over which you still control, and remove the lost or stolen device under Settings &gt.
+Devices.
+If you only have a single device that is associated with your Authy account and that device is lost or stolen, you can alert us through customer service.How we tell you about changes to our privacy practicesWe may change our Privacy Notice from time to time.
+If we make changes, weâll revise the âLast Effectiveâ date at the top of this notice, and we may provide additional notice such as on the Twilio website homepage, in the app, or via the email address we have on file for you.
+We will comply with applicable law with respect to any changes we make to this notice, and seek your consent to any material changes if this is required by applicable law.How to make choices about your personal informationYou can make updates to your information associated with your account by going into the settings in the Authy apps.
+You can also make a request to change your phone number associated with your account by clicking here.
+You may have certain rights to make choices regarding your personal information, including accessing it, deleting it, correcting it, restricting its use, porting it, or withdrawing consent.
+To make a request for deletion of your Authy account, to make a request to access additional information associated with your account, or to express any other choice regarding your personal information, contact Authy Support or privacy@twilio.com.
+Please be aware that when you ask us for these things, we will take steps to verify that you are authorized to make the request.
+Please keep in mind that when you ask us for your personal information, or you ask us to delete your personal information, we may need to withhold or retain some of that personal information for security, legal, or anti-fraud reasons.
+Also, we do need some of the personal information we have to maintain customer accounts.
+If you ask us to delete that information, we may not be able to continue providing you our services.
+
+If you want to remove a program or application from your Authy account that uses the Authy 2-Factor API, but you do not want to delete your entire Authy account, you should contact the provider of the program or application that you want to remove.
+Promotional communications.
+In addition, you can choose not to receive promotional emails from us by following the unsubscribe/opt-out instructions in those emails.
+You can also opt-out by contacting customer support.
+Please note that even if you opt out of promotional communications, we may still send you non-promotional messages relating to things like updates to our terms of service or privacy notices, security alerts, and other notices relating to your access to or use of our products and services.How to resolve disputes relating to our privacy practicesIf you have a dispute with us relating to our privacy practices, please contact our customer support or email us at privacy@twilio.com or contact our Customer Support.
+Most disputes can be resolved that way.
+If we canât resolve our dispute that way, and you live in the U.S.
+or Canada, please see Section 17 (Agreement to Arbitrate) of our Terms of Service , which describes how disputes will be resolved between us.
+As described in that section, the American Arbitration Association will conduct the dispute resolution proceedings.
+Please be sure to review our Terms of Service, including Section 17, before you use any of our products and services.
+If youâre in Europe, you may complain to an independent dispute resolution provider, at no cost to you.
+We outline this process in our Privacy Shield Statement (while we do not rely on Privacy Shield for data transfers, we continue to comply with the framework, including its dispute resolution process).
+For more information about Twilioâs complaint handling procedures, see Twilioâs BCR: Complaint Handling Procedure.How you contact usYou may contact us via email at privacy@twilio.com.
+Or, you may write to us at the address listed below.
+Twilio Inc.
+375 Beale Street, Suite 300
+San Francisco, CA 94105
+Twilio Ireland Limited,
+25-28 North Wall Quay,
+Dublin 1, IrelandLegal basis for processing personal information (EEA only)If you are from the EEA, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
+However, we normally collect personal information from you only where we need the personal information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms, or where we have your consent to do so.
+In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person such as in the case where we request personal information from you in response to a request from law enforcement.
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us by using the contact details provided in the âHow you contact usâ section above.
+
+

@@ -1,0 +1,150 @@
+
+        Privacy Policy
+
+
+Last Revised: July 13, 2019
+
+AudioEye is committed to safeguarding the personal information (âPersonal Informationâ) of visitors to our website and individuals requiring assistance via the reader embedded without our clientsâ websites, which we use to provide information regarding our web accessibility services.
+The following statement (âPrivacy Policyâ) sets out the principles governing our use of Personal Information that we might obtain about you when you access our website (the âWebsiteâ) and when you use the associated services.
+The Website and the services we provide are collectively referred to herein as the âServices.â
+
+Collection of InformationWhen you use our Services, we collect various categories of Personal Information, which will generally include information that you provide to us directly as well as information that we collect automatically.
+
+Information You Provide Directly
+
+
+Basic Information
+
+When you use the Services, we will collect information that you provide to us via the Website and via any agreements youâve entered into with respect to the Services.
+This information may include, for example, your first name, last name, residence address, phone number, and e-mail address.
+We may also collect billing information, such as credit card numbers and related information as to use the Services.
+When you interact with our online Help Desk (e.g., through the AudioEye Ally Toolbar), we will collect information necessary to assist you with your query, including your name, your comments/questions, and your e-mail address.
+You may also optionally provide your phone number and relevant information relating to any assistive technology that might be used in connection with the Services.
+When you contact us for information (www.audioeye.com/contact-us), we will collect your first name, last name, job title, e-mail address, phone number, company name/government agency, and website URL.
+You may also optionally provide information regarding a referral source and any other
+When you request an accessibility analysis or request a demo, we will collect your first name, last name, job title, e-mail address, phone number, and company name/government agency.
+When you use AudioEye Voice (e.g., through the AudioEye Ally Toolbar), we will collect certain audio files, associated text and transcriptions, and log files provided by you or generated in connection with various AudioEye modules.When you sign up for a partner account (audioeye.allbound.com), we may collect all of the above forms of data as well as billing information, such as credit card numbers and related information.
+
+
+
+Speech Data
+
+Certain AudioEye modules, including Voice, require you to provide speech data in order to use and experience the benefits of the particular module.
+Such speech data may include the audio files, associated text and transcriptions, and log files provided by you or generated in connection with various AudioEye modules.
+These AudioEye modules collect and process the speech data you input.
+AudioEye or third parties acting under the direction of AudioEye, pursuant to confidentiality agreements, may use the speech data to develop, tune, enhance, and improve our Services.
+In order to provide the text-to-speech conversion of data input into a form, a secure DigiCert TLS channel is established between the Client system and the AudioEye cloud-based speech engine.
+Text data is transmitted securely to the speech generator, immediately converted into an audio stream, and delivered back to the client system via the same encrypted channel.Because AudioEye delivers itâs solution via JavaScript and transforms all text to speech on the fly, there is no âsecond copyâ of an audio version of a website.
+For content on non-secure sites, we do leverage audio caching to improve the playback of commonly requested copy.
+When the AudioEye tools are installed on a secure domain, AudioEye provides an audio overlay to the real-time information present on the site.
+All text transmitted to AudioEye for speech conversion is done via a secure DigiCert TLS channel.
+To ensure the highest standard of security, no audio is cached for secure sites.
+
+
+
+Secure Forms
+
+When dealing with secure forms, AudioEye generates one-time-use audio files that describe the behavior of the forms.
+The form submission is securely processed through the Publisherâs original secure infrastructure, and all data is communicated securely between the client and the Publisherâs server(s) as would be the case if the AudioEye product was never installed.
+Raw form input data sent to the AudioEye platform for speech conversion will not contain a reference to the original form being populated.
+
+
+
+External Sources
+
+We may receive Personal Information from publicly available databases, joint marketing partners and event sponsors, entities to which we provide client services, such as your employer, and social media platforms.
+
+Information We Collect Automatically
+
+
+Cookies
+
+We employ cookies on the Website.
+A cookie is a small encoded text file sent between a web server and web browser when you visit the Website.
+That file is stored on the hard drive of the device used to access the Internet and will be accessed when you revisit the website that created the cookie file.
+Your web browser uses the information stored in the cookie to make navigating the website easier, such as automatic login and other functions and preferences.
+Cookies come in many flavors.
+Functional cookies ensure that certain parts of the Website work properly.
+By placing functional cookies, we make it easier for you to visit our Website and use the Services.
+We may place these cookies without your consent.
+Analytical cookies are used to optimize the Website experience for our users.
+Through the use of analytical cookies, we receive insight into the usage of our Website.
+We ask your permission to place analytical cookies to ensure our Website offers a continued positive user experience.
+
+
+
+Other Technologies
+
+We may use clear GIFs, pixel tags, and other such cookie-like technologies to track the activities of users of our Website and to compile statistics about the use of our Website and/or e-mail response rates.
+
+
+
+Log files
+
+Our servers may automatically record information related to your use of our Website, which may include information such as your IP address, browser type, operating system, mobile device type, diagnostic information, referring web page, and other web pages visited.
+
+Use of InformationWe use the information detailed above for a variety of purposes, including: providing our services to you, managing customer relationships, responding to your inquiries, enforcing our terms of use, personalizing the Services and your experience on the Website, providing information regarding careers with us, and engaging in marketing activities, such as providing newsletters, publications, updates, and other information that we believe might be of interest to you.
+AudioEye will not use the contents of any speech data provided to us through your use of the AudioEye Product for any purpose except as set forth herein.
+With respect to marketing activities, certain information that you provide to us, such as your first name, last name, company name, e-mail address, physical address, and phone number may be aggregated with other such data in one or more contact lists.
+We may then use these contact lists to send you information regarding our services via an automated mailing system and/or to send you surveys via an automated survey generation system.
+These contact lists may be integrated into our client relation management (CRM) system and/or our internal e-mail contact lists).
+
+Sharing of InformationWe do not sell, exchange, transfer, or give your personal information to any other company or individual except as follows:We may share, on a limited basis, Personal Information with our service providers, suppliers, subcontractors, and similar third parties so that they can assist us in the maintenance of our Website and other services.
+We may also share Personal Information with financial institutions in connection with invoicing and payments.
+We may disclose your personal information to comply with any court order, law or legal process, including to respond to any government or regulatory request.
+to enforce or apply our terms of use and other agreements, including for billing and collection purposes.
+if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of ourselves, our clients, or others.
+
+Access to InformationYou may access and update your Personal Information that we hold by sending a request to the e-mail address listed below under Contact Us.
+
+Third Party Websites and LinksWe may provide links to third-party websites, services, plug-ins, content, and applications that are not operated by us.
+This Privacy Policy does not apply to such services, and we cannot take responsibility for the privacy policies, content, or practices of those services and websites.
+
+Information SecurityWe employ measures that are appropriate to protect your Personal Information against unauthorized access, improper use or disclosure, unauthorized or unlawful destruction or accidental loss, and all of our employees and any third parties that process your Personal Information on our behalf are obligated to respect the confidentiality of your information.
+However, we cannot and do not provide any assurance that these measures will be sufficient to protect the information you choose to transmit to our site.
+All users and administrators of our developer portal are assigned a unique user account and authorization level.
+All users authenticate to AudioEye with an email and password of at least eight characters.
+AudioEye leverages DigiCert security services, using 2048 bit encryption for secure data transmission.
+In an effort to prevent brute-force attacks, AudioEye restricts access and requires administrative support after multiple failed login attempts.
+AudioEye provides a two-factor authentication process for users who may have forgotten their password.
+Because AudioEye delivers its solution via JavaScript and transforms all text to speech on the fly, there is no âsecond copyâ of an audio version of a website.
+For content on non-secure sites we do leverage audio caching to improve the playback of commonly requested copy.
+When the AudioEye tools are installed on a secure domain, AudioEye simply provides an audio overlay to the real-time information present on the site.
+All text transmitted to AudioEye for speech conversion is done via a secure DigiCert TLS/SSL channel.
+To ensure the highest standard of security, no audio is cached for secure sites.
+We store the information we collect about you for as long as is necessary for the purposes for which we collected it, and in accordance with our legal obligations and legitimate business interests.
+
+Sensitive InformationWe ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics, or genetic characteristics, criminal background or trade union membership) when using the Services, including the Help Desk.
+
+Residents of the European Economic AreaOur Services are not directed to the processing of Personal Information of data subjects who are in the European Economic Area (âEEAâ) at the time of data collection.
+That is, any processing activities performed by the Services are not directed to the offering of goods or services to data subjects in the EEA or monitoring the behavior of such data subjects in the EEA.
+Accordingly, we do not believe that AudioEye is subject to the EU General Data Protection Regulation (âGDPRâ) regarding the processing of your personal data.Nevertheless, to the extent AudioEye may acquire Personal Information of data subjects located in the EEA, you may have the following rights: i) the right to be informed of how your Personal Information is being used, ii) the right to access to your Personal Information, iii) the right to rectification of data discrepancies, iv) the right to be forgotten, v) the right to restrict processing of your data, vi) the right to data portability, vii) the right to object to processing, and vii) the right to avoid automated profiling.
+In the sections above, we describe the categories of Personal Information collected and explain various ways that we process your Personal Information.
+Generally, we will process your Personal Information only (1) with your consent.
+(2) to perform in accordance with a contract between you and us.
+(3) to comply with a legal obligation.
+or (4) where we have a legitimate interest to do so, balancing this interest against your interests and fundamental rights.
+If you are in the EEA and you would like to contact us regarding these or other possible rights under the GDPR, please use the e-mail address listed below under Contact Us.
+You may also have the right to lodge a complaint with the local data protection authority if you believe that we have not complied with applicable data protection laws.
+See http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm.
+
+Childrenâs PrivacyOur Services are not directed to children under the age of 16.
+We do not knowingly collect Personal Information from children under the age of 16.
+If we receive Personal Information that we discover was provided by a child under the age of 16, we will promptly destroy such information.
+If you would like to learn more about the Childrenâs Online Privacy Protection Act (COPPA), please visit the Federal Trade Commission home page at http://www.ftc.gov.
+
+California ResidentsIf you are a California resident who has provided us with your Personal Information during the creation of or during the course of establishing a business relationship that is primarily for personal, family, or household purposes, you may, once per calendar year, request information regarding our disclosure of certain categories of your Personal Information.
+Specifically, pursuant to California Civil Code 1798.83 (the âShine the Lightâ law), we will provide you a list of the categories of Personal Information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties.
+You must submit your request to us either by the e-mail address listed under the Contact Us section below, or by mail at the address below.
+
+Do-not-track SignalsWe do not guarantee that our Services will respond to do-not-track signals.
+For more information about do-not-track signals, please see https://allaboutdnt.com/.
+You may, however, disable certain tracking as set forth in our Cookie Policy.
+
+Revisions to our Privacy PolicyWe reserve the right to revise this Privacy Policy or any part of it from time to time.
+Please review this Privacy Policy periodically for changes.
+If we make material changes, we will endeavor to provide notice ahead of such changes, such as by email or through a notice at the Website.
+
+Contact UsIf you have any questions about this Privacy Policy, or are making a request pursuant to this Privacy Policy, please contact us at:privacy@audioeye.com
+
+5210 E Williams Circleâ¨, Suite 750â¨Tucson, AZ 85711â¨Phone: 866.331.5324â¨Fax: 1.520.844.2989

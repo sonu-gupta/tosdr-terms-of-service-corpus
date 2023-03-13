@@ -1,0 +1,351 @@
+
+        Scope of these terms
+
+ente ("Drizzle Technologies Private Limited", "we", "us") provides cloud storage with user-controlled encryption.
+We provide services ourselves at our website at https://ente.io, subdomains and related sites ("website"), using our mobile apps ("mobile apps"), and our application programming interface (âAPIâ).
+Using ente, you and other users can encrypt your files and data by way of user-controlled encryption ("UCE") with a key derived from your "password" (or "passphrase"), upload, access, store, manage, share, communicate, download and decrypt files and other data (all of which we call "data" in these terms) and give access to that data to others (all together, "services" and each, a "service").
+
+
+These terms are binding and apply to any use of the services, website and our mobile apps by you and anyone who you allow to access your data or our services.
+By using our services, the website or our mobile apps, you and they irrevocably agree to these terms.
+If you do not like these terms or don't want to be bound, you can't use our services, the website or our mobile apps.
+In particular, OUR SERVICES ARE PROVIDED SUBJECT TO CERTAIN DISCLAIMERS BY US AND UNDERTAKINGS BY YOU, INCLUDING AN INDEMNITY FROM YOU IF YOU BREACH THESE TERMS.
+
+
+We can change these terms at any time by providing you at least 30 days' prior notice of the change, whether via our website, via our mobile apps, by sending you an email or via any messaging service we provide.
+Your continued use after that notice means that you agree to the changed terms.
+If you have paid for a subscription that is due to expire after that 30 day notice period and you do not wish to continue to use our services under the new terms, you may terminate your subscription before the new terms come into force.
+We will then (but not otherwise) refund the unexpired portion of your subscription payment within 30 days and close your account.
+
+
+If you comply with these terms, then we grant you a non-exclusive, non-transferable, worldwide license to access and use our services via the website, our mobile apps and our API if applicable, in accordance with these terms and any plan you have subscribed for.
+
+Your data
+
+If you allow others to access your data (e.g.
+via any of the sharing features within ente), in addition to them accepting these terms, you are responsible for their actions and omissions while they are using our services and you agree to fully indemnify us for any claim, loss, damage, fine, costs (including our legal fees) and other liability if they breach any of these terms.
+
+
+UCE is fundamental to our services.
+This means that you, not us, have encrypted control of who has access to your data.
+You should keep your password and Recovery Key safe and confidential.
+You must not share your password with anyone else and should not release encryption keys to anyone else unless you wish them to have access to your data.
+If you lose or misplace your password, you will lose access to your data.
+Encryption wonât help though if someone has full access to your system or device.
+We strongly urge you to use best practices for ensuring the safety and security of your system and devices (e.g.
+via unique passwords, security upgrades, firewall protection, anti-virus software, securing and encrypting your devices).
+We will never send you emails asking for your password.
+
+
+You must maintain copies of all data stored by you on our services.
+There could be a loss of data and we cannot guarantee that the services will be bug free.
+You should download all data prior to termination of services.
+
+
+We will store and process your data on our service subject to these terms and any plan you subscribe to.
+If you choose to stop using our services, you must download your data first because we will schedule your uploaded files for deletion within the next 30 days.
+We may still maintain minimal metadata about the now deleted files to ensure that clients who at one point had access to these files can render these deletions gracefully.
+Post account-deletion we may also maintain your email address, IP address and user agent information in a hashed form to prevent an abuse of free trials.
+If we suspend or terminate our services to you because you have breached these terms, or someone you have given access to has breached these terms, during the term of that suspension we may, if we wish, delete your data immediately or deny you access to your data but keep it for evidential purposes.
+In circumstances where we cease providing our services for other reasons, we will, if we consider it appropriate, it is reasonably practicable and we are not prevented by law or likely to incur any liability in doing so, give you 30 days' notice to retrieve your data.
+
+Your obligations
+
+Once you have subscribed to a plan for our services (with payment having been made via the website, or one of our mobile apps, you need to pay the fees (if any) for that plan (and any other taxes or duties).
+Your contract for services is with us and is governed exclusively by these terms and our policies referenced in these terms.
+We can also change the fees for our services (other than those you have already contracted and paid for) at any time if we give you notice.
+In the absence of manifest error or other lawful error, you can't withhold payment or claim any set-off without getting our written agreement.
+
+
+If at any time you do not make a payment to us when you are supposed to (including on termination), we can (and this doesn't affect any other rights we may have against you) suspend or terminate your use of the service.
+
+
+You must:
+
+
+11.1.
+where you have subscribed for a service, always give us and keep up to date, your correct contact and any billing details;
+11.2.
+comply with these terms and any other agreements you have with us;
+11.3.
+comply with all applicable laws, regulations and rules when using the website, our services and with respect to any data you upload, access or share using our services.What you can't do
+You can't:
+
+12.1.
+use our services if you are under 18 years of age.
+12.1.
+assign or transfer any rights you have under these terms to any other person (including by sharing your password with someone else) without our prior written consent;
+12.2.
+do anything that would damage, disrupt or place an unreasonable burden on our website or service or anyone else's use of our website, our mobile apps or a service including but not limited to denial of service attacks or similar;
+12.3.
+infringe anyone else's intellectual property (including but not limited to copyright) or other rights in any data;
+12.4.
+resell or otherwise supply our services to anyone else without our prior written consent;
+12.5.
+open multiple free accounts;
+12.6.
+use our website, mobile apps, API, or any service, including, without limitation, any communication tools available through the website, our mobile apps, or our API, or any forum, chat facility or message centre that we provide:
+12.6.1.
+to store, use, download, upload, share, access, transmit, or otherwise make available, data in violation of any law in any country (including to breach copyright or other intellectual property rights held by us or anyone else);
+12.6.2.
+to send unwelcome communications of any kind (including but not limited to unlawful unsolicited commercial communications) to anyone (e.g.
+spamming by sharing content);
+12.6.3.
+to abuse, defame, threaten, stalk or harass anyone, or to harm them;
+12.6.4.
+to store, use, download, upload, share, access, transmit, or otherwise make available, unsuitable, offensive, obscene or discriminatory information of any kind;
+12.6.5.
+to run any network scanning software, spiders, spyware, robots, open relay software or similar software;
+12.6.6.
+to upload anything or otherwise introduce any spyware, viruses, worms, trojan horses, time bombs or bots or any other damaging items which could interfere with our, or anyone else's, network, device or computer system;
+12.6.7.
+to use any software or device which may hinder the services (like mail bombs, war dialing, automated multiple pinging etc.);
+12.6.8.
+to attempt to gain unauthorised access to any services other than those to which you have been given express permission to access.
+or
+12.6.9.
+to impersonate anyone or to try to trick or defraud anyone for any reason (e.g.
+by claiming to be someone you are not);
+12.6.10.
+to store data of any kind on our servers (that are currently in France and Netherlands) that violates any data localization laws applicable in your country.
+12.6.11.
+If you register with us, you will need to use a password in conjunction with your specific account email address.
+You need to make sure your password is secure, not used by you on other sites and confidential.
+Make sure you tell us straight away if you think or know someone else has used your password or there has been any other security breach.
+We will hold you responsible for anything done using your account and password.
+MAKE YOUR PASSWORD A STRONG ONE AND KEEP IT SECURE.
+We are not responsible if someone else gains access to your computer or other device and/or your ente password and/or encryption keys for any files.Intellectual PropertyOur IP
+
+You are not allowed to, and you can't let anyone else use, copy, alter, distribute, display, licence, modify or reproduce, reverse assemble, reverse compile, communicate, share, transmit or otherwise make available, (whether digitally, electronically, by linking, or in hard copy or by any means whatsoever), any of our code, content, copyright materials, intellectual property or other rights without getting our permission in writing, other than in order to use our services as intended or as allowed under any open source licences under which we use intellectual property provided by others.
+The open source code that we use, where we obtained it, and licences for that code, are all referenced on our website and via our mobile apps.
+
+
+Without limiting any other provision of these terms, you are only permitted to directly and specifically use the API if you get a written consent from us to do so by writing to dev@ente.io and agree that you may only publish or make available your application after we have approved it pursuant to our application approval process and licence agreement available on request at dev@ente.io.
+
+Your IP
+You own, or undertake that you are authorised to use, any intellectual property in any data you store on, use, download, upload, share, access, transmit or otherwise make available to or from, our systems or using our services.
+You grant us a worldwide, royalty-free licence to use, store, back-up, copy, transmit, distribute, communicate, modify and otherwise make available, your data, solely for the purposes of enabling you and those you give access to, to use our services and for any other purpose related to provision of the services to you and them.
+Copyright Infringement Notices
+
+We respect the copyright of others and require that users of our services comply with copyright laws.
+You are strictly prohibited from using our services to infringe copyright.
+You may not upload, download, store, share, access, display, stream, distribute, e-mail, link to, communicate, transmit, or otherwise make available any files, data, or content that infringes any copyright or other proprietary rights of any person or entity.
+
+
+We will respond to notices of alleged copyright infringement that comply with applicable law and are properly provided to us.
+If you believe that your content has been copied or used in a way that constitutes copyright infringement, please provide us with the following information:
+
+
+17.1.
+a physical or electronic signature of the copyright owner or a person authorised to act on their behalf;
+17.2.
+identification of the copyrighted work claimed to have been infringed;
+17.3.
+identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material including the exact file identifier (with decryption key) to that material on ente;
+17.4.
+your contact information, including your address, telephone number, and an email address.
+a statement by you that you have a good faith belief that use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law.
+and
+17.5.
+a statement that the information in the notification is accurate, and, under penalty of perjury (unless applicable law says otherwise), that you are authorised to act on behalf of the copyright owner.
+
+We reserve the right to remove data alleged to be infringing without prior notice, at our sole discretion, and without liability to you.
+In appropriate circumstances, we will also terminate your account if we consider you to be a repeat infringer.
+Details of our designated copyright agent for notice of alleged copyright infringement are on our contacts page.
+Copyright Counter-Notices
+
+We process all takedown notices based on good faith acceptance of the representations from the party submitting the takedown notice.
+We do not review the material before processing the takedown notice.
+
+
+You may file a counter-notice if you believe that access to a file you have uploaded has been wrongly disabled because it was the subject of an incorrect takedown notice.
+You should only do so if you are confident that no other party owns copyright in the material, or you have rights to store the material and, if you are sharing it, that you have the right to do so.
+
+
+Please understand that:
+
+
+21.1.
+When we receive your counter-notice, we pass it, including your address and other contact information, to the party who issued the original takedown notice.
+By submitting your counter-notice you authorise us to do so.
+21.2.
+Filing a counter-notification may lead to legal proceedings between you and the complaining party.
+21.3.
+There may be adverse legal consequences in India and/or your jurisdiction if you make a false or bad faith allegation by using this process.
+21.4.
+If, when using this counter-notice process, you make a false or bad faith allegation or otherwise breach these terms or any of our policies and that causes us any loss, costs (including legal costs), damages or other liability, we reserve the right to claim for and recover from you that loss, those costs (including full legal costs on a solicitor-client basis), damages and other liability, by deduction from any balance in our account and/or by proceedings in India and/or the jurisdiction of the address in your counter-notice.
+21.5.
+We provide this counter-notice process voluntarily for the purposes of all applicable copyright takedown and counter-notice regimes in India and other jurisdictions, but, in doing so, we do not submit to any jurisdiction, law, tribunal or court other than those of India, as set out in these terms.
+We may amend, suspend or withdraw this counter-notice process at any time, provided that any counter-notices in train at that time shall continue to be processed.
+
+
+By filing a counter-notice, you are deemed to have accepted the above terms.
+If you do not accept the above terms, do not file a counter-notice.
+
+
+To file a counter-notice with us, you must provide a written communication to copyright@ente.io that includes substantially the following:
+
+
+23.1.
+Identification of the specific URL(s) of material that has been removed or to which access has been disabled.
+23.2.
+Your full name, address, telephone number, email address and the name within your ente account.
+23.3.
+The statement: "I have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled."
+23.4.
+The reasons for that good faith belief, sufficient to explain the mistake or misidentification to the person who filed the original takedown notice.
+23.5.
+The statement "I will accept service of proceedings in India or in the jurisdiction where my address in this counter-notice is located, from the person who provided Drizzle Technologies Private Limited with the original copyright takedown notice or an agent of such person."
+23.6.
+Signature.
+A scanned physical signature or usual signoff in an email.
+23.7.
+You may also provide comments.
+
+
+We will only accept a counter-notification directly from the user from whose account a folder or file has been disabled.
+Counter-notifications must be submitted from the email address associated with the ente account.
+
+
+If we do not receive any further communication from or on behalf of the person who originally submitted the takedown notice, or any communication we do receive does not in our sole opinion adequately justify the original takedown notice, we may, but shall not be obliged to, reinstate the material in approximately 10-14 days provided we have no reason to believe that the material infringes copyright.
+
+
+Nothing in this counter-notice section prejudices our right to remove or disable access to any material at any time, for any reason or no reason.
+
+Other Infringement Notices
+If you consider there has been some other infringement or breach of law, or of these terms, and wish to file a complaint, contact us at the relevant address on our contacts page.
+We will generally require the same amount of detail as set out above for copyright infringement notices.
+See also our Takedown Guidance Policy.
+Suspension and Termination
+
+You can terminate your access to our services at any time by following the 'Cancel your account' link in the Account section of the website or the Settings section of our mobile apps or by writing an email to account-closure@ente.io from your registered account's email address.
+However, we may not provide any part-refund for any allowance not used on any subscription you may have.
+
+
+We can immediately suspend or terminate your access to the website and our services without notice to you if you breach any of these terms or any other agreement you have with us.
+
+
+We may also terminate or suspend our services or any part of our services, if you are using an account without a paid subscription plan and have exceeded the trial period set for such free accounts.
+
+
+All charges outstanding on your account must be paid at termination.
+
+Severability and Waiver
+If any provision of these terms is held to be invalid or unenforceable, the remaining provisions will remain in full force and effect.
+If we do not enforce any right or provision of these terms or if we in any instance grant any concession or indulgence, that will not be deemed a waiver of such right or provision or obligate us to grant any concession or indulgence to anyone else.
+Force Majeure
+We will not be liable by reason of any failure or delay in the performance of our obligations because of events beyond our reasonable control, which may include, without limitation, denial-of-service attacks, strikes, shortages, riots, insurrection, fires, flood, storm, explosions, acts of God, war, terrorism, governmental action, labour conditions, earthquakes, material shortages, extraordinary internet congestion or extraordinary connectivity issues or failure of a third party host, (each a "Force Majeure Event").
+Upon the occurrence of a Force Majeure Event, we will be excused from any further performance of the obligations which are affected by that Force Majeure Event for so long as the event continues.
+Disclaimers
+
+WE DON'T GIVE YOU ANY WARRANTY OR UNDERTAKING ABOUT THE SERVICES OR THE WEBSITE WHICH ARE PROVIDED "AS IS".
+TO AVOID DOUBT, ALL IMPLIED CONDITIONS OR WARRANTIES ARE EXCLUDED AS MUCH AS IS PERMITTED BY LAW, INCLUDING (WITHOUT LIMITATION) WARRANTIES OF MERCHANTABILITY, FITNESS FOR PURPOSE, SAFETY, RELIABILITY, DURABILITY, TITLE AND NON-INFRINGEMENT.
+
+
+We will try to give you access to our website and our mobile apps all the time, but we do not make any promises or provide you with a warranty that our website or the services will be without any faults, bugs or interruptions.
+
+
+Whilst we intend that the services should be available 24 hours a day, seven days a week, it is possible that on occasions the website or services may be unavailable to permit maintenance or other development activity to take place or be periodically interrupted for reasons outside our control.
+
+
+Information on our website will change regularly.
+We will try to keep our website up to date and correct, but again, we do not make any promises or guarantees about the accuracy of the information on our website.
+
+
+We do not warrant that the services will meet your requirements or that they will be suitable for any particular purpose.
+
+
+You are the controller in respect of some data ente holds about you and ente is the processor, for General Data Protection Regulation (âGDPRâ) purposes.
+ente is the controller in respect of some other data.
+See our Privacy &amp.
+Data Policy for more details.
+These terms, our Privacy &amp.
+Data Policy and our Takedown Guidance Policy are the contract between us that governs our processing of that data.
+It is your sole responsibility to determine that the services meet the needs of you, your business or otherwise and are suitable for the purposes for which they are used.
+
+
+We also aren't legally responsible for:
+
+
+40.1.
+any corruption or loss of data or other content which you or anyone else may experience after using our website or our mobile apps, or any problems you may have when you view or navigate our website or use any of our mobile apps;
+40.2.
+devices or equipment that we do not own or have not given you;
+40.3.
+any loss or damage if you do not follow our reasonable instructions, these terms, our Privacy &amp.
+Data Policy and our Takedown Guidance Policy;
+40.4.
+any actions or non-actions of other people which disrupt access to our website, our mobile apps, or our API, including the
+40.4.1.
+content and nature of any data that you upload, access or share;
+40.4.2.
+content of other people's websites even if a link to their website is included on our website or our mobile apps.Limitation of Liability and Indemnity by You
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE (THIS INCLUDES OUR EMPLOYEES, OFFICERS, AGENTS AND AUTHORISED RESELLERS) ARE NOT LIABLE WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), EQUITY OR ON ANY OTHER GROUNDS TO YOU OR ANYONE ELSE FOR ANY DIRECT, INDIRECT OR CONSEQUENTIAL DAMAGE, LOSS, COST OR EXPENSE, DAMAGE TO PROPERTY, INJURY TO PERSONS, LOSS OF PROFITS, LOSS OF DATA OR REVENUE, LOSS OF USE, LOST BUSINESS OR MISSED OPPORTUNITIES, WASTED EXPENDITURE OR SAVINGS WHICH YOU MIGHT HAVE HAD, DENIAL OF SERVICE OR ACCESS TO OUR WEBSITE, OUR MOBILE APPS OR OUR API, OCCURRING DIRECTLY OR INDIRECTLY FROM THE USE OR ABILITY OR INABILITY TO USE, OR RELIANCE ON, OUR WEBSITE, OUR MOBILE APPS OR OUR API, OR THE SERVICES, AND BASED ON ANY TYPE OF LIABILITY INCLUDING BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), STATUTORY OR PRODUCT LIABILITY, OR OTHERWISE.
+
+
+YOU SHALL INDEMNIFY US AGAINST ALL CLAIMS, COSTS (INCLUDING ALL OUR LEGAL COSTS), EXPENSES, DEMANDS OR LIABILITY, DAMAGES AND LOSSES WHETHER DIRECT, INDIRECT, CONSEQUENTIAL, OR OTHERWISE, AND WHETHER ARISING IN CONTRACT, TORT (INCLUDING IN EACH CASE NEGLIGENCE), OR EQUITY OR OTHERWISE, ARISING DIRECTLY OR INDIRECTLY FROM BREACH BY YOU OR ANYONE YOU GIVE ACCESS TO YOUR DATA, OF ANY OF THESE TERMS OR ANY POLICY REFERENCED IN THESE TERMS.
+
+
+IF YOU ARE NOT SATISFIED WITH THE SERVICES, THEN YOUR SOLE AND EXCLUSIVE REMEDY IS TO TERMINATE YOUR USE OF OUR SERVICES AND THE CONTRACT YOU HAVE WITH US.
+
+
+DESPITE THE ABOVE, IF ANY COURT OR OTHER COMPETENT AUTHORITY HOLDS US (THIS INCLUDES OUR OFFICERS, STAFF AND AGENTS) LIABLE FOR ANY MATTER RELATED TO THESE TERMS OR OUR SERVICES, OUR TOTAL COMBINED LIABILITY WILL BE LIMITED TO THE MOST RECENT SUBSCRIPTION AMOUNT YOU HAVE PAID TO US.
+
+Disputes and Choice of Law
+
+Any and all disputes arising out of this agreement, its termination, or our relationship with you shall be determined by binding arbitration in Bengaluru, India.
+
+
+
+The relationship we have with you under these terms and their interpretation and construction together with any dispute, suspension or termination arising out of or in connection with them, is governed exclusively by Indian law.
+ente does not submit to any other jurisdiction other than India and the Indian law.
+You and we submit to the exclusive jurisdiction of the Indian arbitral tribunals (and courts for the purposes of the enforcement of any arbitral award or appeal on question of law).
+The parties agree to enforcement of the arbitral award and orders and any judgement in India and in any other country.
+
+Refunds
+Unless otherwise provided by Indian law or by a particular service offer, all purchases are final and non-refundable.
+If you believe that ente has charged you in error, you must contact us within 90 days of such charge.
+No refunds will be given for any charges more than 90 days old.
+We reserve the right to issue refunds or credits at our sole discretion.
+If we issue a refund or credit, we are under no obligation to issue the same or similar refund in the future.
+This refund policy does not affect any statutory rights that may apply.
+If you have made a payment by mistake and have not used the subscription plan services, you must contact support@ente.io within 24 hours.
+This will be acknowledged promptly and answered within 7 days.
+Recurring Paid Subscriptions
+Recurring subscriptions will renew indefinitely, either monthly or annually, based upon your chosen subscription period, unless the subscription is cancelled prior to a renewal date.
+For recurring subscriptions established via mobile apps using in-app-purchase platforms, you should refer to your app store or play store account for details of the dates and terms of the subscription.
+Any other recurring subscription will renew on the same day of month as it was established, except in cases where the day is not available due to a short month, in which case the renewal date will be moved to the first day of the following month.
+Cancellation of Recurring Paid Subscriptions
+Recurring subscriptions established through the mobile app using in-app-purchase platforms should be cancelled through the relevant app store account directly.
+Any other recurring subscription should be cancelled by navigating to the accounts section within your browser or app and selecting the option to cancel your subscription.
+Any payments processed after an effective subscription cancellation will be promptly refunded by us.
+If you cancel a paid subscription, you shall no longer be entitled to the free trial available for fresh sign ups.
+Information and Privacy
+
+We reserve the right to disclose data and other information as required by law or any competent authority.
+Our approach is referenced in our Privacy &amp.
+Data Policy and Takedown Guidance Policy, both of which are subject to these terms.
+
+
+You and anyone else you give access to are also bound by our Privacy &amp.
+Data Policy and Takedown Guidance Policy.
+By accepting these terms, you also accept our Privacy &amp.
+Data Policy and Takedown Guidance Policy.
+
+Notices
+You can contact us by sending an email to support@ente.io.
+If we need to contact you or provide you with notice we will email you at the email address you have recorded in your account details and such notices will be valid and deemed to be received by you whether or not you are using that address.
+We may also send notices via any chat facility or internal messaging system (such as push notifications) we may provide.
+Rights to Third Parties
+ente employees, officers, agents, related companies and affiliates are entitled to the benefit of all indemnities and other provisions of these terms which are for the benefit of ente in these terms.
+Entire Agreement
+These terms, our Privacy &amp.
+Data Policy and Takedown Guidance Policy, the terms of any plan you purchase and any other terms and policies expressly referenced in these terms, together constitute the entire agreement between us relating to your use of the website, our mobile apps, our API and our services.
+From the date they come into force, in respect of any use of any of our services after that, they supersede and replace any prior agreement, arrangement or understanding between you and us regarding the use of our services.
+No agreement, arrangement or understanding alleged to be made between us, or representation alleged to be made, by us or on our behalf, to you, if inconsistent with these terms, shall be valid unless agreed to in writing by an executive officer of ente.
+
+
+
+Last updated 20 October 2020, effective 20 October 2020.
+If you have a concern about any of these terms, please write to us at friends@ente.io.

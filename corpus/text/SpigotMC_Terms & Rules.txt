@@ -1,0 +1,283 @@
+
+SpigotMC Terms &amp.
+Rules
+Please read before using this website or any services provided by SpigotMC Pty.
+Ltd. SpigotMC Pty.
+Ltd.
+(SpigotMC, Spigot, we, us, our) provides a number of online services primarily catered towards multiplayer gaming and programming.
+In order to ensure that these services are used appropriately and that a positive environment is created for all, we have a number of terms and rules that must be abided by.
+These are written primarily with the Spigot Forums in mind, however unless otherwise stated they apply to all services provided by SpigotMC, including those under the spigotmc.org and spi.gt domains.
+
+Terms of Service
+
+Please see https://www.spigotmc.org/wiki/spigot-terms/
+
+Rules
+
+
+
+Keep all content respectful and appropriate.
+
+If you think it might be disrespectful or inappropriate, don't say it.
+Content of an adult or sexual nature is strictly prohibited.
+The general guideline for this is that content must be "PG-13" or below.
+
+
+
+
+
+Racism, sexism, or other forms of bigotry are strictly prohibited.
+
+Do not use racial slurs or bigoted remarks (e.g.
+concerning English abilities or choice of programming language) towards other users.
+
+
+
+Any form of trolling, flaming, flame-baiting, or being overly aggressive towards other users it not permitted.
+
+Keep discussion civil.
+Do not harass or threaten other users, or use SpigotMC as a place to coordinate attacks on others.
+Keep discussion relevant.
+Do not derail threads with irrelevant material.
+The offtopic section is for threads that don't fit within any other category of the forums.
+They should still stay on track with their given topic.
+
+
+Do not insult other users.
+If it isn't nice, just don't say it.
+Even if another user is insulting you, it is best to just report their content and move on.
+
+
+
+Do not abuse any feature of the forums or your privileges may be revoked.
+
+Do not abuse the resources system.
+Posting malicious resources is strictly not allowed.
+This includes plugins which are malicious towards players (e.g.
+crashing their client).
+Posting someone else's plugin or resource is not allowed.
+This includes minor edits such as configuration changes and code taken directly from tutorials or other resources.
+"Premium Resources" are held to a higher standard of originality and have greater punishments associated with breaching of these rules.
+
+
+Refrain from commenting on "Premium Resources" which you have not purchased, especially if you are criticising its price or worth.
+Do not distribute "Premium Resources" to those who have not purchased them.
+Using pay-per-click sites such as adf.ly or similar services to distribute resources is forbidden.
+You are allowed to obfuscate your resources, however the decompiled code must be somewhat legible by staff and is subject to the following limitations:
+Free resources may only use basic name obfuscation (ie what Mojang does with Minecraft).
+This limits you to certain free publicly available obfuscators (eg Proguard, yGuard).
+See https://www.spigotmc.org/threads/420746/ for a complete list of approved obfuscators and settings.
+
+
+Do not use string obfuscation or anything that hides code flow.
+In exceptional circumstances exceptions to this rule may be granted.
+
+
+All resources must retain an unobfuscated package root and main class name.
+com.example.myplugin.MyPlugin is an acceptable main class name, com.example.myplugin.a, a.a.a.MyPlugin or a.a.a.a.
+are not.
+com.example.myplugin.a.a is an acceptable secondary class name, a.a.a.SecondaryClass or a.a.a.a are not.
+
+
+Obfuscation designed to crash inspection tools is not allowed.
+
+All parts of a class must be visible when decompiled and it must be clear what all parts of the code is supposed to do.
+Class encryption is not allowed.
+It does not add meaningful security anyway.
+
+
+Obfuscated class or member names should not be unnecessarily long or difficult to inspect.
+Long (eg llililililillllllliiiillliiiiillii) or illegal (eg CON1) names are not more secure than any other method of name obfuscation â don't use them.
+
+
+Obfuscation techniques that unnecessarily increase the file size are not allowed.
+We may request you use a different obfuscator or none at all.
+We reserve the right to remove obfuscated resources without consultation, especially if we believe obfuscation is being used to hide rule-breaking code.
+
+
+You may not use the name of other servers or brands to advertise your resource unless consent has been given.
+This means that resources such as "XXXX inspired by YYYY.net" / "AAAA like BBBB" are not allowed unless YYYY.net has given permission for their brand to be used in this way.
+
+
+This includes the "post ratings" feature which is designed to be used appropriately and in moderation.
+Do not attempt to bypass restrictions such as minimum character or word count.
+Do not access the forums via automated mechanisms.
+Do not blank out question threads after you have received an answer.
+Doing so will lead to a 1 week ban.
+
+
+
+Swearing should be used in moderation.
+
+Shouldn't be directed at other people or businesses.
+Shouldn't be excessive.
+Shouldn't contravene other rules.
+
+
+
+Do not post content in the wrong category.
+
+Spigot has several categories available to allow us to keep content organized.
+Please post in the correct category, and if you are unsure, post it in what you think is the closest match.
+Where applicable, please follow the category specific sticky threads which outline what content is and isn't acceptable, as well as what format to post it in.
+Where SpigotMC software is concerned, discussion, support and distribution should be limited to official versions and sources.
+Resources that require third party software to load (e.g.
+Skript) should clearly state so in the description.
+
+
+
+No advertising servers, products, or services outside of the "Services &amp.
+Recruitment" section.
+
+Many of our users are already very busy with their own servers, so advertising your own is not generally productive.
+Instead consider using the "Rate My Server!" section for suggestions on improvement.
+Only post an IP or server address if it is necessary for the purpose of the thread.
+
+
+Do not post threads asking for the community to "Name your X", including, but not limited to usernames, servers, services, products, etc.
+This includes threads asking for an appraisal of price or "Would you buy X?".
+
+
+Threads and posts advertising or requesting products/services will be removed without warning.
+This includes hosting services and YouTube videos.
+Affiliate links may not be used in forum posts.
+
+
+Sending unsolicited private messages to users containing any sort of offer, recommendation, service, product, etc.
+is not allowed.
+Advertisements (including sponsorships) are allowed on resource pages within the following limits:
+Advertising must be secondary to the resource itself.
+That is the primary focus must be on the resource and not other content.
+Resources that appear to only exist only to advertise may be removed.
+
+Advertisements that are more than a line or two must be kept out of the first half of the description.
+Please put banners and large bodies of text towards the end of the description (ie below the fold).
+
+Please keep advertisements limited to what is reasonably necessary.
+
+
+Advertising must be limited to the resource page itself.
+You may not use resource updates, the resource itself (eg console or in-game messages), or any other location for any advertisement whatsoever.
+
+Advertisements must be directly related to running or developing a Spigot based Minecraft server or network.
+SpigotMC reserves the right to determine what constitutes an advertisement and to disallow specific advertisements at any time for any reason.
+Advertisements may not include products or services in competition with SpigotMC or its affiliates.
+
+
+You must have an actual business arrangement with the advertisement target or sponsor.
+This means that you cannot promote your resource by feigning endorsement or sponsorship.
+
+
+The advertisement must not contravene other forum rules.
+Authors that are found to be abusing the use of advertisements may lose the option to do so.
+This rule is not subject to 'grandfathering' as prior to it all forms of advertisement were against the rules.
+
+
+
+
+
+Do not threaten other users, servers, or communities.
+
+We do not support hate towards others, including, but not limited to threatening DDoS attacks, harassment, or similar activities.
+Any release of private or personal information is not permitted under any circumstances.
+This includes addresses, locations, or IP addresses.
+
+
+
+Keep content in English as much as possible.
+
+Please use a translating service to translate your content before posting if you are unable to speak English.
+English speaking users should be kind and courteous to other users who arenât as fluent in English.
+Deliberately harassing the user for a lack of English proficiency is not permitted.
+
+
+
+Discussion or distribution of illegal content is not permitted in any form.
+
+This includes, but is not limited to pirated content and nulled licenses for paid software.
+In addition to this, the community will not support users of such software.
+
+
+It is not permitted to give or request advice of a legal nature on these forums.
+Such requests should be handled by a legal professional licensed to practice in your jurisdiction.
+
+
+
+Creation of multiple accounts is not permitted.
+
+If you have a legitimate need for a second account, please email tmp-support@spigotmc.org to request permission first.
+Permission will only be granted if the account is used for a single, specific purpose, and subject to the condition that the individual accounts of all users with access remain in good standing.
+
+
+You are responsible for all actions performed by your account.
+Keeping your account secure is your responsibility.
+"I was hacked" and "It was my friend/brother" are not excuses.
+We provide additional mechanisms such as "two factor authentication" to help you with this.
+
+
+Usage of a public proxy or VPN is at your own risk.
+If the IP address you use is shared with banned users, you too may be banned.
+
+
+Name changes are generally available only to donors and only at our discretion.
+If however your account name contains personally identifiable information, then you may be granted one name change, again at our discretion.
+
+Using an alternative account to bypass a ban or other punishment will result in an extension of your punishment.
+If you wish to obtain more information about your ban, please send an email to tmp-support@spigotmc.org.
+Discussion of your ban, or other user's bans is strictly prohibited.
+Accounts may not be sold without specific permission from SpigotMC.
+If there is any indication you are attempting to, or have sold your account it will be permanently banned.
+
+
+
+Be sure to follow any and all section specific rules, and their implications across the forums as a whole.
+
+Services and Recruitment
+Resources
+Resource reviews will not be moderated or removed by staff unless they violate a general forum rule.
+This means that "false" reviews will not be removed unless there is evidence of targeted harassment.
+
+
+If users are found to be abusing the review system, specific punishments may be enacted.
+Resources may only be transferred to another user if the current author requests so via the report feature.
+Resource transfers are final and cannot be reverted except by following the same process.
+
+
+
+
+
+If you require staff assistance, please open a report.
+Do not private message staff members.
+
+Please only use the support email address, tmp-support@spigotmc.org for questions that require admin intervention.
+Typical wait times for a response are on the order of one week.
+
+
+
+These rules are subject to change at any time and are in no way permanent.
+We are not responsible for notifying you of changes.
+
+
+Moderator's decisions are final and may involve enforcement of other unlisted rules.
+
+Any complaints about a moderator's actions must be directed to the administration team at admin@spigotmc.org.
+
+
+
+
+Punishment System
+
+
+Punishments for violations of these rules are issued by moderators and highly dependent on context.
+The following is provided as a guideline only and extreme variations may be encountered:
+The more specific the rule is, the harsher the punishment will be.
+This means for example that if you make a slightly rude post, it may just be deleted with a warning, whereas if you post a malicious resource then the punishment may be an instant ban.
+Moderators will always consider previous behaviour before issuing a punishment.
+This means that persistent rule breakers will be subject to progressively harsher punishments and may ultimately be permanently excluded from our services.
+
+
+
+
+Thanks,
+~ Spigot Team 
+      

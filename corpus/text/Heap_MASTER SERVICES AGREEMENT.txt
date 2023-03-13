@@ -1,0 +1,513 @@
+
+         Opens in a new window Opens an external website Opens an external website in a new window Close this dialog This website stores data such as cookies to enable essential site functionality, as well as marketing, personalization, and analytics.
+You may change your settings at any time or accept the default settings.
+You may close this banner to continue with only essential cookies.
+Cookie Policy  Storage Preferences 
+
+ Marketing 
+ Personalization 
+ Analytics 
+ Save Accept All Reject All 
+ Close Cookie Preferences NEW! Journeys: a visual map of customer paths through your digital experience.Learn more here.skip to contentLoading...Toggle Main Navigation
+Why Heap 
+The Digital Insights Platform Transform your digital experience 
+How Heap Works A video guide
+How Heap Compares Heap vs.
+competitors 
+The Future of Insights A comic book guide
+
+
+Platform Data Insights
+
+Session Replay Complete context with a single click 
+Illuminate Data science that pinpoints unknown friction
+Journeys Visual maps of all user flows
+
+ Data Analysis
+
+Segments User cohorts for actionable insights
+Dashboards Share insights on critical metrics
+Charts Analyze everything about your users
+Playbooks Plug-and-play templates and analyses
+
+Data Foundation
+
+Capture Automatic event tracking and apis
+Mobile Track and analyze your users across devices
+Enrichment Add context to your data
+Integrations Connect bi-directionally to other tools
+
+Data Management
+
+Governance Keep data clean and trusted
+Security &amp.
+Privacy Security and compliance made simple
+Infrastructure How we build for scale
+Heap Connect Send Heap data directly to your warehouse
+
+
+Use Cases Solutions
+
+Funnel Optimization Improve conversion in user flows
+Product Adoption Maximize adoption across your site
+User Behavior Understand what your users do
+Product Led Growth Manage PLG with data
+
+Industries
+
+SaaS Easily improve acquisition, retention, and expansion
+eCommerce Increase purchases and order value
+Financial Services Raise share of wallet and LTV
+
+Heap For Teams
+
+Product Teams Optimize product activation, conversion and retention
+Marketing Teams Optimize acquisition performance and costs
+
+
+Pricing
+Resources Support
+
+Heap University Video Tutorials
+Help Center How to use Heap
+Heap Plays Tactical how-to guides
+Heap Updates 
+Professional Services 
+
+Resources
+
+Blog A community for digital builders
+Content Library Ebooks, whitepapers, videos, guides
+Press News from and about Heap
+Webinars &amp.
+Events Virtual and live events
+Careers Join us
+
+Ecosystem
+
+Customer Community Join the conversation
+Partners Technology and Solutions Partners 
+Developers 
+Customers Over 8,000 successful companies
+
+
+Free TrialRequest Demo
+Log In
+
+
+Free Trial
+Request Demo
+Log In
+MASTER SERVICES AGREEMENTLast updated on August 2022PLEASE READ THIS MASTER SERVICES AGREEMENT (MSA) CAREFULLY BEFORE PURCHASING AND/OR USING SERVICES FROM HEAP.
+BY USING HEAP SOFTWARE OR SERVICES, CUSTOMER SIGNIFIES ITS ACCEPTANCE OF THIS AGREEMENT AND ACKNOWLEDGES IT HAS READ AND UNDERSTANDS THIS AGREEMENT.
+AN INDIVIDUAL ACTING ON BEHALF OF AN ENTITY REPRESENTS THAT HE OR SHE HAS THE AUTHORITY TO ENTER INTO THIS AGREEMENT ON BEHALF OF THAT ENTITY AND IS AT LEAST 18 YEARS OF AGE AND NOT UTILIZING THE SERVICES TO COLLECT ANY DATA OR INFORMATION OF CHILDREN.
+IF YOU DO NOT ACCEPT THE TERMS OF THIS AGREEMENT, THEN YOU MUST NOT USE THE HEAP SERVICES.
+
+1.
+DEFINITIONS.
+
+Capitalized terms not otherwise defined in this Agreement shall have the meanings ascribed to them below.
+âAffiliateâ of a party means any company or entity that directly or indirectly, controls, is controlled by, or is under common control with such Party, where âcontrolâ means the direct or indirect ownership of more than 50% of the voting securities or other ownership interest of an entity.
+Affiliates of either party may conduct business under this Agreement by signing an Order Form.
+âAPIâ means a set of routines, protocols, and tools for building software applications that defines interactions between multiple software intermediaries, including the ability to access the Heap software development kit (âSDKâ).
+âConfidential Informationâ means all information disclosed by a party (âDisclosing Party") to the other party (âReceiving Partyâ), whether orally or in writing, that is designated as confidential at the time of disclosure or that reasonably should be understood to be confidential given the nature of the information and/or the circumstances of disclosure, including, without limitation, the terms and conditions of the Agreement (including pricing), business and marketing plans, technology and technical information, product plans and designs, and business processes.
+âCustomerâ means the entity that is a party to this Agreement or, if an Affiliate, the relevant Order Form.
+âCustomer Dataâ means any data, information or material that Customer provides or makes available in the course of using the Services.
+âDocumentationâ means the official Heap documents and manuals for the Software Services as generally made accessible to Customers.
+âEffective Dateâ means the date Customer accepts this Agreement.
+
+âOrder Form" means an order form or other similar document specifying the Services to be provided hereunder and fees to be paid by Customer.
+âProfessional Servicesâ means consulting services as outlined in the additional Addenda, if applicable. 
+âServicesâ means Software Services, Professional Services, and other services (such as maintenance and support) offered by Heap.
+âSoftware Servicesâ means the online platform services (including all Updates) and APIs that Heap provides.
+âSupport Servicesâ means maintenance and support services outlined by Heap (âSupport Servicesâ).
+âTaxesâ means any form of taxation of whatever nature and by whatever authority imposed, including any interest, surcharges or penalties, arising from or relating to the Agreement or any Services, other than taxes based on the net income of Heap.
+âTermâ means the period during which Customer is entitled by Heap to use, access or consume a particular Services pursuant to an Order Form.
+âUnitsâ means the basis on which fees are established for Services as outlined in the Order Form.
+âUpdatesâ means, as applicable, bug fixes, enhancements, upgrades and new releases or versions that are made generally available to Customers.
+âUserâ means a Customer, an authorized employee, independent contractor, or agent who has a business need to use the Services and Documentation pursuant to the Agreement.
+
+2.
+GRANT, CUSTOMER OBLIGATIONS, AND RESTRICTIONS.
+
+
+2.1.
+&nbsp.
+     Grant.
+Upon payment of the fees and subject to Customerâs continuous compliance with the terms and conditions of this Agreement, Heap hereby grants Customer a limited, revocable, non-exclusive, non-transferable license for the applicable Term to access and use the Services.
+Customers may provide, make available to, or permit Customerâs Users to use or access the Services or Documentation, in whole or in part. 
+
+2.2.
+&nbsp.
+     Restrictions. Except as expressly authorized in the Agreement, Customer shall not, and shall ensure that Users do not, directly or indirectly: (i) license, sublicense, rent, lease, sell, resell, loan, transfer, distribute, translate, or otherwise transfer rights to the Services.
+(ii) reverse engineer, decompile, or disassemble or otherwise obtain or attempt to create, derive, or obtain the source code of the Services.
+(iii) modify, translate, enhance or otherwise change the Services or prepare derivative works of the Services, including creation and distribution of add-ons or enhancements or incorporation either independently or into another product unless expressly agreed between the parties.
+(iv) copy, reproduce, republish, upload, post, or transmit the Services or any other materials provided in connection therewith.
+(v) remove, obscure, or alter any notice of copyright, trademark or other proprietary right appearing in or on any item included with the Services.
+(vi) circumvent or attempt to circumvent any methods employed by Heap to control access to the components, features or functions of the Services or to prevent unauthorized use of the Services.
+(vii) interfere with, impair, or disrupt the integrity or performance of the Services or any other partyâs use of the Services.
+(viii) use or otherwise exploit the Services for any purpose, commercial or otherwise, other than the purpose outlined in Section 2.1, including for purposes of benchmarking, competitive analysis or the development of a competing software product.
+or (ix) use the Services to violate third party rights or applicable laws or to store or transmit infringing, libelous, unlawful, or tortious material or store material in violation of third party rights or applicable laws.
+
+
+2.3.
+&nbsp.
+     No-fee Access. If Services are provided to Customer for evaluation, beta, release candidate or free purposes, as identified in an Order Form, Heap hereby grants to Customer a limited, non-exclusive, non-transferable, non-sublicensable right to access and use evaluation, beta, or release candidate features and functionality or free versions of the Subscription Services pursuant to the terms of the Agreement and provided the Customer does not exceed the Units set forth in the corresponding Order Form.
+Subscription Services provided for evaluation, beta, or release candidate purposes shall not be used for production use, and Customerâs access and use right shall terminate on the end date of the predetermined period set forth in the applicable Order Form or immediately upon notice from Heap in its sole discretion.
+CUSTOMER ACKNOWLEDGES AND AGREES THAT THE SERVICES PROVIDED UNDER THIS SECTION ARE PROVIDED ON AN âAS-ISâ BASIS AND WITHOUT ANY INDEMNIFICATION, SUPPORT, OR WARRANTIES OR REPRESENTATIONS OF ANY KIND, EXPRESS OR IMPLIED.
+Except to the extent such terms conflict with this Section, all other terms of this Agreement shall apply to the Services provided for evaluation, beta, release candidate or free purposes.
+
+3.
+OBLIGATIONS.
+
+
+
+3.1 &nbsp.
+     Mutual Obligations.&nbsp.
+Both parties shall comply in all material respects with applicable laws, regulations, rules, orders, and other requirements, now or hereafter in effect, of any governmental authority, relevant to its performance under this Agreement.
+
+3.2 &nbsp.
+     Customer Obligations.
+Customer acknowledges, agrees, and warrants that: (i) it shall not exceed its rights to use the Services set forth in the applicable Order Form or this Agreement.
+(ii) it will be responsible for the Customers and Customerâs Usersâ activity and compliance with this Agreement, and if Customer becomes aware of any violation, Customer will immediately terminate the offending partyâs access to the Services and notify Heap.
+(iii) Customer and Customerâs Users will comply with all applicable local, state, federal, and international laws.
+(iv) Customer will install the latest version of the APIs provided by Heap.
+(v) Customer is legally able to process Customer Data and to legally provide Customer Data to Heap and its Affiliates, including obtaining appropriate consents or rights for such processing, and have the right to access and use Customer infrastructure, including any system or network, to obtain or provide the Services and will be solely responsible for the accuracy, security, quality, integrity, and legality of the same.
+and (vi) Customer will keep its registration information, billing information, passwords and technical data accurate, complete, secure and current for as long as Customer subscribes to the Services.
+Heap may suspend Customerâs access to or use of the Services immediately if Heap reasonably believes Customerâs use of the Services may pose a security risk to or adversely impact the Services.
+
+4.
+OWNERSHIP.
+FEEDBACK.
+CUSTOMER DATA.
+PROTECTION.
+
+
+4.1 &nbsp.
+     Ownership.&nbsp.
+Heap (and its licensors) is the sole and exclusive owner of all rights, title and interest in and to the Services and Heapâs proprietary property (including all improvements, enhancements, or modifications of the foregoing or any other intellectual property or proprietary rights) and reserves all right, title, and interest in and to the same unless expressly granted hereunder.
+No rights are conveyed to Customer in the Services or Heapâs proprietary property.   
+
+
+
+4.2 &nbsp.
+     Feedback.
+Customer may from time to time provide suggestions, comments or other feedback to Heap with respect to the Services (âFeedbackâ).
+Customer hereby grants to Heap a nonexclusive, worldwide, perpetual, irrevocable, transferable, sublicensable, royalty-free, fully paid up license to use and incorporate the Feedback for any purpose.
+
+
+
+4.3.
+&nbsp.
+     Customer Data.
+Customer is the sole and exclusive owner of all right, title and interest in and to the Customer Data and reserves all right, title and interest in and to the Customer Data not expressly granted under the Agreement.
+Customer will be solely responsible for the procurement, accuracy, quality, legality, and content of Customer Data.
+Customer hereby grants Heap the right to host and process Customer Data for providing and improving the Services and to support Customer under this Agreement.&nbsp.
+Customer expressly acknowledges and agrees that it shall neither submit to the Services, nor use the Services to process any data or information that constitutes protected health information as defined under the Health Insurance Portability and Accountability Act of 1996, as amended and supplemented (âHIPAAâ), and Heap shall not be liable to Customer or Users for any such data or information. 
+
+
+
+4.4 &nbsp.
+     Protection.
+ During the Term, each party shall comply with its respective obligations under applicable data protection and privacy laws, and each party shall maintain a reasonable security program in accordance with industry standards that is designed to protect the security of, and prevent unauthorized access to, Confidential Information and Customer Data.
+Such security program shall include implementation of appropriate administrative, technical, and physical safeguards.
+To the extent applicable, the parties shall process personal data in accordance with Heapâs Data Processing Addendum, which is incorporated by reference.
+
+5.
+CONFIDENTIALITY.
+
+
+5.1 &nbsp.
+     Confidentiality Obligations.&nbsp.
+The Receiving Party will maintain the confidentiality of the Confidential Information and will not disclose such information to any third party without the prior written consent of the Disclosing Party or unless as authorized herein.
+The Receiving Party will only use the Confidential Information internally for the purposes contemplated hereunder.
+The Receiving Party will use the same degree of care to protect the Disclosing Partyâs Confidential Information that it uses to protect its own confidential information (but not less than reasonable care).
+this includes limiting access to the Disclosing Partyâs Confidential Information to Receiving Party employees or contractors that have a need to know the Disclosing Partyâs Confidential Information and that are subject to confidentiality obligations that are the same or materially similar to those contained herein.
+The obligations in Section 5 will continue for a period of two (2) years following initial disclosure of the Confidential Information by the Disclosing Party (except for Confidential Information that is considered trade secret, which shall be subject to these confidentiality obligations for so long as the Confidential Information remains a trade secret).
+
+5.2 &nbsp.
+     Exceptions.&nbsp.
+The obligations in this Section shall not apply to any information that: (a) is or becomes publicly available without breach of this Agreement.
+(b) is independently developed by the Receiving Party without use or reference to the Confidential Information.
+(c) is disclosed to the Receiving Party from a third party not under an obligation of confidentiality.
+or (d) was, without obligation of confidentiality, in the Receiving Partyâs lawful possession prior to the disclosure by the Disclosing Party.  
+
+5.3 &nbsp.
+     Compelled Disclosure.&nbsp.
+The Receiving Party may disclose Confidential Information as required by any judicial or government order or as otherwise required by law, provided that, where legally permissible, the Receiving Party will give the Disclosing Party reasonable notice of such disclosure and will work with the Disclosing Party to limit such disclosure.
+
+
+6.
+TERM.
+TERMINATION.
+EFFECT OF TERMINATION.
+SURVIVAL.
+
+
+6.1 Term.&nbsp.
+This Agreement will begin on the Effective Date and will continue for the period specified in the applicable Order Form (the âInitial Termâ).
+Unless otherwise agreed, the Agreement will automatically renew for successive renewal terms upon the expiration of the Initial Term and any renewal term thereafter (each a âRenewal Term,â and collectively with the Initial Term, the âTermâ).&nbsp.
+Each Renewal Term will be the same length as the Initial Services Term unless otherwise specified by Heap at the time of renewal.   
+
+
+
+6.2 &nbsp.
+     Termination. &nbsp.
+If Customer has subscribed to a monthly subscription term, Customer may terminate this Agreement by providing Heap with prior written notice of Customerâs intention not to renew this Agreement prior to the end of the applicable Term.
+If Customer has subscribed to an annual subscription term, Customer may terminate this Agreement by providing Heap with forty-five (45) days prior written notice of Customerâs intention not to renew this Agreement prior to the end of the applicable Term.
+   
+
+
+
+6.3 &nbsp.
+     Termination for Breach.&nbsp.
+Either party may terminate this Agreement (in whole or with respect to an applicable Order Form) upon written notice to the other party if such other party materially breaches any provision of this Agreement and fails to cure such breach within thirty (30) days following such notice thereof or immediately if Customer infringes upon or misappropriates Heapâs intellectual property.
+pursuant to the receipt of a subpoena, court order, request by a law enforcement agency, or as otherwise required by law.
+or if Customer become insolvent, has ceased to operate in the ordinary course, made an assignment for the benefit of creditors, or becomes the subject of any bankruptcy, reorganization, liquidation, dissolution or similar proceeding.  
+
+6.4 &nbsp.
+     Effect of Termination.&nbsp.
+Upon any termination or expiration of this Agreement, Customer shall immediately cease use of the Services and may download its Customer Data prior to such termination or expiration or request a copy of its Customer Data (in an industry-standard format).&nbsp.
+Following termination, Heap shall have no obligation to Customer with respect to the storage of Customer Data and may, in its sole discretion, permanently delete Customer Data.
+Any termination or expiration shall not relieve Customer of its obligation to pay all Fees accrued prior to such termination or expiration.
+In the event the Customer has prepaid fees and terminated the Agreement in accordance with Section 6.3, then Heap will refund Customer any prepaid but unused fees covering the remainder of the subscription term in the relevant Order Form. 
+
+6.5 &nbsp.
+     Survival.&nbsp.
+The provisions of Sections 1 (Definitions), 4.1 (Ownership), 4.2 (Feedback), 5 (Confidentiality), 6.4 (Effect of Termination), Section 6.5 (Survival), Section 7 (Fees, Scope of Usage, and Taxes), Section 10 (Indemnification), Section 11 (Limitation of Liability), Section 12 (Miscellaneous) and any and all remedies for breach of this Agreement shall survive any termination or expiration.
+
+7.
+FEES.
+TAXES.
+BILLING DISPUTES.
+
+
+7.1 &nbsp.
+     Fees.&nbsp.
+Customer will pay Heap in accordance with the applicable Order Form(s).
+Fees are established by counting the Units associated with the Services purchased by Customer.
+If, during the subscription term set forth in the Order Form, Customerâs usage exceeds the quantity of Units purchased, Customerâs fees will increase based upon the applicable list price per Unit or the overage rates set forth in the Order Form for any such overage. 
+
+7.2 &nbsp.
+     Taxes.&nbsp.
+The fees set forth in the Order Form are in USD and are exclusive of all applicable taxes, levies, duties, VAT, or GST, unless otherwise agreed.
+Taxes may be outlined in the Order Form or the invoice.&nbsp.
+Customer is responsible for paying all taxes associated with its purchases.&nbsp.
+If Heap has the legal obligation to pay or collect taxes for which Customer is responsible under this section, Heap will invoice Customer and Customer will pay that amount unless Customer provides Heap with a valid tax exemption certificate authorized by the appropriate tax authority.
+ 
+
+7.3 &nbsp.
+     Billing Disputes.
+If Customer reasonably disputes any invoiced amounts prior to payment, it will timely pay the undisputed portion of the invoice and notify Heap in writing of the disputed amount within 30 business days, which shall include reasonable detail for the dispute of the relevant charges.&nbsp.
+Written statements disputing charges must be directed to billing@heapanalytics.com.  
+
+8.
+SUPPORT SERVICES. 
+
+During the Term, Heap will provide Customer with Support Services identified in the Order Form and corresponding Documentation.
+Customer agrees to: (i) promptly contact Heap with problems with the Services.
+and (ii) cooperate with and provide Heap with all relevant information and implement any corrective procedures that Heap requires to provide the Support Services. 
+
+9.
+WARRANTY.
+
+
+ 9.1 &nbsp.
+     Warranty.&nbsp.
+Subject to this Section, Heap warrants to Customer that during the Term, the Software Services will not deviate in a material adverse manner from the Documentation, and the Services will be performed in a professional and workmanlike manner by qualified personnel.   
+
+9.2 &nbsp.
+     Exceptions.&nbsp.
+The limited warranty set forth in Section 9.1 shall not apply to issues arising out of or relating to: (i) modification of or damage to the Software Services unless such modification was made pursuant to the Documentation.
+(ii) any unauthorized third-party software or hardware that are operated with or incorporated into the Software Services.
+(iii) negligence, abuse, misapplication, or misuse of the Software Services including use of the Software Services other than as set forth in the Documentation.
+(iv) failure to comply with any minimum system requirements specified in the Documentation.
+or (v) disruption or deficiency in Customerâs infrastructure or network used to access the Software Services.  
+
+9.3 &nbsp.
+     Remedial Efforts.&nbsp.
+Customer shall report to Heap, pursuant to the notice provision of this Agreement, any breach of the warranty.
+In the event of a breach of this warranty by Heap, Heap may, at its option and expense, take any of the following steps to remedy such breach: (i) repair the Software Services or (ii) replace the Software Services with functionality equivalent products.
+provided that if Heap cannot remedy such breach in a commercially reasonable manner, Heap may terminate, as its sole and exclusive remedy and Heapâs entire liability, the affected Software Services and a pro rata refund of the fees paid by the Customer for the Software Services for the remaining portion of the unused term.     
+
+9.4 &nbsp.
+     Disclaimer.&nbsp.
+EXCEPT AS SPECIFICALLY SET FORTH IN SECTION 9.1, HEAP MAKES NO EXPRESS OR IMPLIED REPRESENTATIONS OR WARRANTIES, AND THE SOFTWARE SERVICES ARE PROVIDED âAS ISâ.&nbsp.
+HEAP EXPRESSLY DISCLAIMS ALL OTHER WARRANTIES, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTY OF MERCHANTABILITY.
+FITNESS FOR A PARTICULAR PURPOSE.
+NON-INFRINGEMENT.
+IMPLIED WARRANTY ARISING FROM COURSE OF PERFORMANCE, COURSE OF DEALING, OR USAGE OF TRADE.
+HEAP DOES NOT WARRANT THAT OPERATION OF THE SOFTWARE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE.&nbsp.
+
+
+10.&nbsp.
+INDEMNIFICATION.
+
+
+10.1 &nbsp.
+     Indemnification by Customer.&nbsp.
+Customer will indemnify and hold Heap harmless from and against damages, losses, liabilities, costs, and expenses (including reasonable attorneysâ fees) arising out of or relating to any claims with respect to infringement or misappropriation of rights resulting from Customer Data or resulting from Customer or its Usersâ access or use of the Services.
+
+10.2 &nbsp.
+     Indemnification by Heap.&nbsp.
+Heap will indemnify and hold Customer harmless from and against damages, losses, liabilities, costs, and expenses (including reasonable attorneysâ fees) arising out of or relating to any third-party claims that the Software Services infringe or misappropriate a third partyâs intellectual property rights.
+Heap shall not have any liability to the extent the claim has arisen from: (a) use of the Software Services with other programs, products, or processes not provided by Heap to Customer and not authorized by Heap Documentation.
+(b) use of the Software Services not in accordance with this Agreement or the Documentation.
+or (c) any act or omission of any party other than Heap. 
+In the event of any such claim hereunder, Heap will use commercially reasonable efforts to (i) procure for Customer the right to continue to use the Software Services, (ii) provide a reasonable workaround solution, or (iii) replace or modify the Software Services to make their use non-infringing.
+If alternatives (i)-(iii) are not, in Heapâs discretion, commercially reasonable, Heap may terminate the Agreement or applicable Order Form upon written notice to Customer, and Customer may receive a pro rata refund for the remainder of the term for the affected Software Services.
+
+10.3 &nbsp.
+     Indemnification Procedure.&nbsp.
+In the event of a claim for which a party seeks indemnity or reimbursement under this Section (each an âindemnified partyâ) and as conditions of the indemnity, the indemnified party shall: (a) notify the indemnifying party in writing as soon as practicable, but in no event later than fifteen (15) days after receipt of such claim, together with such further information as is necessary for the indemnifying party to evaluate and respond to such claim.
+and (b) allow the indemnifying party to assume full control of the defense of the claim, including retaining counsel of its own choosing.
+Upon the assumption by the indemnifying party of the defense of a claim, the indemnifying party will not be liable for the fees and expenses of additional counsel retained by any indemnified party.
+The indemnified party shall reasonably cooperate with the indemnifying party in the defense of any such claim (at the indemnifying partyâs cost).
+Notwithstanding the foregoing provisions, the indemnifying party shall have no obligation to indemnify or reimburse for any losses, damages, costs, disbursements, expenses, settlement liability of a claim or other sums paid by any indemnified party voluntarily, and without the indemnifying partyâs prior written consent.
+The provisions of this Section 10 constitute the entire understanding of the parties regarding each partyâs respective liability under this Section 10.
+
+11.&nbsp.
+&nbsp.
+LIMITATION OF LIABILITY.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, (I) IN NO EVENT WILL EITHER PARTY, ITS AFFILIATES, DIRECTORS, EMPLOYEES, OR AGENTS HAVE ANY LIABILITY, CONTINGENT OR OTHERWISE, FOR ANY SPECIAL, CONSEQUENTIAL, PUNITIVE, STATUTORY OR EXEMPLARY DAMAGES, EVEN IF THEY HAVE BEEN ADVISED OF THE POSSIBILITY THEREOF, AND REGARDLESS OF THE LEGAL OR EQUITABLE THEORY (CONTRACT, TORT, STATUTE, INDEMNITY OR OTHERWISE) UPON WHICH ANY SUCH LIABILITY IS BASED.
+AND (II) THE AGGREGATE LIABILITY OF HEAP, ITS AFFILIATES, DIRECTORS, EMPLOYEES, AND AGENTS SHALL BE LIMITED TO TERMINATION OF THIS AGREEMENT AND DAMAGES NOT TO EXCEED THE TOTAL AMOUNT PAYABLE OR PAID TO HEAP UNDER THIS AGREEMENT DURING THE TWELVE MONTHS PRIOR TO ANY TERMINATION.
+
+12.&nbsp.
+&nbsp.
+MISCELLANEOUS.
+
+ 
+
+12.1 &nbsp.
+     Export Control.
+The Services that Heap provides under this Agreement may be subject to export laws, rules and regulations of the United States and other jurisdictions.&nbsp.
+Customer will comply with all export laws, rules, and regulations in regard to its export, import, and use of the Services.
+Customer agrees to defend, indemnify and hold Heap harmless from any liability for Customerâs violation of U.S.
+Export Control laws. 
+
+12.2 &nbsp.
+     Assignment.&nbsp.
+Neither party may transfer and assign its rights and obligations under this Agreement without the prior written consent of the other party.&nbsp.
+Notwithstanding the foregoing, Heap may transfer and assign its rights under this Agreement without consent from the other party in connection with a change in control, acquisition or sale of all or substantially all of its assets.
+
+12.3 &nbsp.
+     Force Majeure.&nbsp.
+Neither party shall be responsible for failure or delay in performance by events out of their reasonable control, including but not limited to, acts of God, Internet outage, terrorism, war, fires, earthquakes and other disasters (each a âForce Majeureâ).&nbsp.
+Notwithstanding the foregoing, Customer shall be liable for payment obligations for Services rendered.
+
+12.4 &nbsp.
+     Independent Contractors.&nbsp.
+Heap and Customer are independent contractors and nothing in the Agreement creates an employment, partnership, or agency relationship between the parties or any Affiliate.&nbsp.
+Each party is solely responsible for the supervision, control, and payment of its personnel. 
+ 
+
+12.5 &nbsp.
+     Notice.
+Any notice or other communications required or permitted in the Agreement shall be in English and in writing and shall be given to a party: (i) one (1) business day after sending by email that provides confirmation of transmission (except notices of termination or intention not to renew, a dispute, or indemnification may not be sent in this manner, which shall be sent to Heap Accounts Receivable at ar@heap.io ).
+or (ii) three (3) business days after mailing by first class certified mail, postage prepaid, in each case to the following address (or as otherwise designated by the party):  
+To Heap: 
+Heap Inc. 
+Attn: SVP, Legal 
+225 Bush St., Suite 200 
+San Francisco, CA 
+(cc: legal@heap.io)
+To Customer: 
+Customer Contacts address set forth on the Order Form
+
+12.6 &nbsp.
+     Governing Law.
+This Agreement shall be governed exclusively by, and construed exclusively in accordance with, the laws of the State of California, United States, without regard to its conflict of law provisions.
+The federal courts of the United States in the Northern District of California and the state courts of the State of California shall have exclusive jurisdiction to adjudicate disputes arising out of or relating to this Agreement.
+Each party hereby consents to the jurisdiction of such courts and waives any right it may otherwise have to challenge the appropriateness of such forums, whether on the basis of the doctrine of forum non conveniens or otherwise.
+The United Nations Convention on Contracts for the International Sale of Goods shall not apply to this Agreement or any Order Form. 
+
+12.7 &nbsp.
+     Entire Agreement.
+Amendments.&nbsp.
+This Master Services Agreement along with any Product Addenda or other agreement incorporated herein constitutes the complete and mutual understanding of the parties and supersedes all previous written and oral agreements and communications relating to the subject matter hereof.&nbsp.
+Any terms contained in any other documentation provided by Customer to Heap is void and will not become part of the Agreement or bind the parties.In the event of any conflict between the Order Form and the Agreement, the Agreement shall take precedence, unless as expressly set forth in the Order Form.
+There are no representations, agreements, arrangements, or understandings between the parties relating to the subject matter of this Agreement that are not fully expressed herein.
+Customer agrees that its purchase is not contingent on the delivery of any future functionality or features.
+All waivers and modifications must be in a writing signed by both parties, except as otherwise provided herein.&nbsp.
+
+
+12.8 &nbsp.
+     Severability.
+ Any term or provision of this Agreement held to be illegal or unenforceable shall be, to the fullest extent possible, interpreted so as to be construed as valid, but in any event the validity or enforceability of the remainder hereof shall not be affected.  
+
+Better insights.
+Faster.Request Demo
+Platform
+Capture
+Enrichment
+Integrations
+Governance
+Security &amp.
+Privacy
+Infrastructure
+Illuminate
+Segments
+Charts
+Dashboards
+Playbooks
+
+
+Use Cases
+Funnel Optimization
+Product Adoption
+User Behavior
+Product Led Growth
+Customer 360
+SaaS
+eCommerce
+Financial Services
+
+
+Why Heap
+The Digital Insights Platform
+How Heap Works
+How Heap Compares
+The Future of Insights
+
+
+Resources
+Blog
+Content Library
+Events
+Topics
+Heap University
+Community
+Professional Services
+
+
+Company
+About
+Partners
+Press
+Careers
+Customers
+
+
+Support
+Request Demo
+Help Center
+Contact Us
+Pricing
+
+
+Social
+Twitter
+Facebook
+LinkedIn
+YouTube
+
+Â© 2022 Heap Inc.
+All Rights Reserved.
+
+Legal
+Privacy Policy
+Status
+
+
+

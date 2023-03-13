@@ -1,0 +1,104 @@
+
+Your browser does not appear to support Javascript.
+If you have intentionally disabled Javascript or use an extension to disable it (such as NoScript), please allow RblxTrade to use Javascript in order to use our website.
+If you do not block Javascript, try upgrading your browser.
+
+TradingTrade AdsValue UpdatesAll ItemsCatalog TableTrade CalculatorProjected ItemsInventory ChangesLive Ownership UpdatesRAP Requirements
+PlayersPlayer SearchTerminated Player SearchSpecific Inventory SearchLatest ScansRblxTrade Staff
+LeaderboardsTerminated PlayersValue LeaderboardPlace Visit LeaderboardAll PlayersValue LeaderboardPlace Visit LeaderboardHoarded Item LeaderboardOtherGroup Leaderboard
+Deals
+Forums
+DiscordDiscord ServerSupport Server
+Search
+
+
+Login
+RblxTrade Privacy and Data CollectionLearn about what kind of data RblxTrade collects
+ This is just a basic overview of what kind of data we collect.
+For full details, read out Terms of Service and Privacy Policy here.What data does RblxTrade directly collect?
+
+IP Addresses
+RblxTrade collects IP Addresses for the purpose of preventing abuse of our website and infrastructure.
+There are a few main areas where we collect IP Addresses, and none of the areas are attached directly to you and/or your Roblox account:
+
+
+Rate Limiting
+When you make a request to our website (e.g.
+visit a web page), we store your IP address in a datastore, along with how many requests the IP has made to our site in the past minute.
+Once you exceed the maximum amount of requests allowed within 1 minute, your IP is temporarily banned from accessing our website.
+This is so that we can prevent a user (and/or automated program) from spamming our website with requests, potentially causing an outage or other issues.
+We do not store any other information alongside your ip.
+This means that your IP is never directly linked to your Roblox account, user agent string, or any other information.
+
+
+Requesting User Updates
+When you request a refresh on a users inventory (by clicking the "Request Refresh" button), we store the User ID you requested an update for, as well as your IP address.
+This, similar to Rate Limiting, is so that we can prevent users (and/or automated programs) from spamming update requests on users, potentially causing a massive unnecessary backlog in user inventory scanning.
+
+
+Logging In
+When you login to RblxTrade using your Roblox username, we record your IP address in a datastore so that we can prevent a user from signing in multiple times on the same IP.
+The data stored does not contain your Roblox Username, ID, or any other information.
+
+
+Forum Thread Creation and Forum Post Creation
+If you use our Forum service and create a thread and/or forum, your IP address is stored in a datastore in order for us to prevent specific IP addresses from spamming forum threads/posts.
+Your IP address is stored alone, so no other data is associated with it.
+
+
+
+
+User Agent Strings
+RblxTrade collects user agent strings in order to track requests across our website.
+Your user agent string is provided by your web browser, and contains limited information about your device, such as:
+
+Your Web Browser and version (e.g.
+"Chrome/58.0.3029.110")
+Your operating system (e.g.
+"Windows NT 10.0")
+
+Any time you make a request to our website, your user agent string is stored in a datastore, alongside the URL you requested (e.g.
+"/" if you visit the homepage), and the IP of the cloudflare server you were routed to.
+No other information is stored alongside your user agent, so this means that your user agent is never linked to your Roblox account, IP address, or anything else.
+
+Does RblxTrade associate with other data collection companies?RblxTrade uses Google Analytics and Google Adsense.
+If you are located in Europe or The United Kingdom of Great Britain and Northern Ireland, you may opt out of Google Analytics and/or Adsense Personalization by clicking the "Manage Cookies" button at the bottom of this page.
+You can read about Google's Privacy Policy, as well as what data is collected, here: policies.google.com.What would happen in the (theoretical) event of a website data breach?RblxTrade does not obtain and/or store Email addresses, passwords, or any other personal information.
+If our website were to be compromised, all the compromisers would have access to is a giant list of IP addresses and another giant list of User Agents with no other information linked - this data would be essentially useless.AboutRblxTrade is a Roblox trading website founded in 2019.
+We offer deep insights into a variety of statistics on the Roblox platform.
+We also provide Roblox traders with cool features to help with their trading journey such as item values, trade ads, a trade calculator, deals, a Roblox Trading discord and much more! We're also the best alternative to websites such as rbxrocks, rolimons, rbxvault and rbxcity and we work with Trade Hangout, the biggest Roblox Trading game on the Roblox platform! Item images, item names, item descriptions, and user images are all copyright Roblox Corporation.
+RblxTrade is not affiliated, endorsed, or sponsored by Roblox corporation.Stats24,064,950 Players
+1,039,166 Unique Items
+2,027 Collectible ItemsSocialsTwitter: @rblx_tradeRoblox Group: TradeDiscord Server: discord.gg/rtc
+Terms, Conditions, and Privacy Policy
+Privacy &amp.
+Data Usage
+Contact
+Update consent preferences
+
+
+Â©2019-2022 RBLX.TRADE
+
+ English 
+Deutsch
+English
+EspaÃ±ol
+FranÃ§ais
+Italiano
+Nederlands
+Polski
+PortuguÃªs
+Limba romÃ¢nÄ
+ You control your privacy When you use this site, we and our vendors process data from you and your device.
+This data can include your type of browser, settings, cookies, unique identifiers, IP address, and geo location.
+Once dismissed, these settings can be accessed again from the link in our privacy policy or footer.
+ We're requesting consent to offer: Personalised ads and content, ad and content measurement, audience insights and product development
+
+ Ads and content can be personalised based on a profile.
+More data can be added to better personalise ads and content.
+Ad and content performance can be measured.
+Insights about audiences who saw the ads and content can be derived.
+Data can be used to build or improve user experience, systems and software.
+ Advanced Settings Accept  Your consents are specific to this site &amp.
+device.
+

@@ -1,0 +1,66 @@
+
+         Terms of Use
+Welcome to Codeberg.
+We would like to invite you to join us in our journey to build and maintain a productive, safe and enduring platform for the collaborative development and maintenance of Open-Source Software and Documentation.
+To support our community, we provide the essential infrastructure and organizational framework for the development of Open-Source Projects in decentralized and global communities, and other endeavors which serve this mission.
+We strive to make and keep educational and informational content from the Projects available on the internet free of charge, in perpetuity.
+We welcome you ("you" or the "user") as a contributor, user, editor or reader, and we encourage you to join our community.
+Before you participate, however, we ask that you please read and agree to the following Terms of Use ("Terms of Use").
+Copyright
+All content is stored by community members on the Repository and Version Control System, Wiki, Issue Tracker and other facilities provided on the platform.
+Contributors own all rights and ownership for content and contributions they provided.
+Using the platform does not imply any transfer of ownership or copyright.
+Service
+For Free and Open Software projects (FOSS) as defined by the Free Software Foundation (FSF) and the Open Source Initiative (OSI), Codeberg provides Repository and Version Control, Wiki, and Issue Tracker hosting under certain terms and conditions.
+These services are referred to as "service", "hosting" and "platform" in this document.
+Our service is open for all projects working under a license compatible with either the Open-Source-License definition of the Free Software foundation (FSF) or the Open Source Initiative (OSI).
+Generally we do not contribute, monitor, or delete content (with the rare exception of policies like these Terms of Use or legal compliance).
+This means that editorial control is in the hands of you and your fellow users who create and manage the content.
+Codeberg is a non-profit organisation financed by member contributions and donations.
+The service can only survive as long as member contributions and donations allow us to maintain the necessary infrastructure.
+Responsibility and Security
+You are responsible for your own actions.
+Please act responsibly and apply appropriate security measures to protect your own data and account access credentials.
+
+You are legally responsible for your edits and contributions on the platform, so for your own protection you should exercise caution and avoid contributing any content that may result in criminal or civil liability under any applicable laws.
+Although we may not agree with such actions, we warn authors, editors and contributors that authorities may seek to apply other country laws to you, including local laws where you live or where you view or edit content.
+You are responsible for safeguarding your account credentials and should never disclose them to any third party.
+You are solely responsible for your use of any third-party websites or resources.
+Although some projects may contain links to third-party websites and resources, we do not endorse and are not responsible or liable for their availability, accuracy, or the related content, products, or services, nor do we have any obligation to monitor such third-party content.
+
+Repositories, Wikis and Issue Trackers
+The platform provides public and private repositories.
+Content in public repositories, wikis and issue trackers is accessible through the public internet.
+Content in private repositories, wikis and issue trackers is only visible to the owner, to other users the owner has granted access to, and to the platform service maintainers.
+Private repositories may be used for example to store keychains in build systems and continuous integration tools, or as staging areas for pre-alpha tests within limited groups.
+According to our non-monitoring policy, we will not monitor private or public repositories unless there is strong need to investigate in relation to issues threatening our ability to provide the services of this platform, for example:
+
+excessive traffic bound to a repository,
+excessive resource usage,
+legal notices from authorities, for example in response to a takedown notice.
+
+User-contributed content in all repositories, wikis and issue trackers:
+
+must not contain illegal content and must not be used for illegal purposes,
+must adhere to relevant law, privacy, and data-protection regulation,
+must only contain code and data compatible with the Open-Source license requirements defined by FSF or OSI,
+must be of reasonable size in order not to disproportionally disrupt service for other users.
+"Reasonable" is defined by day-to-day operation constraints according the currently available resources.
+
+If a project or user is allocating an excessive amount of resources, the project or user will be notified and asked to reduce resource usage within the given notice period,
+If the project or user does not respond within the notice period, or the resource usage is endangering other projects or the platform itself, this project or user will be disabled immediately, or even removed.
+
+
+
+Cancellation and Termination
+You may close your account at any time.
+Please be aware that it is your responsibility to remove content and contributions that you no longer wish to persist.
+All other content previously contributed by you will remain visible to other users of the platform.
+In case we have to terminate your account due to infringement of Terms of Use or requirement by legal authorities, only content related to this infringement will be removed from the platform.
+Disclaimer of Warranties
+The materials on our platform are provided on an 'as is' basis.
+Codeberg makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+Further, Codeberg does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
+Limitation of Liability
+In no event shall Codeberg or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Codebergâs platform, even if Codeberg or a Codeberg-authorized representative has been notified orally or in writing of the possibility of such damage.
+Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
