@@ -1,0 +1,310 @@
+
+        OONI Data Policy<p>
+<strong>Last modified:</strong> April 13, 2021</p>
+<p>
+<strong>Version:</strong> 1.4.3</p>
+<p>This Data Policy discloses and explains what data the Open Observatory of
+Network Interference (OONI) project (“we”, “us”, or “our”)
+collects, processes, stores and publishes relating to the users of
+its OONI Probe software (“you” or “your”).
+This Data Policy also outlines the
+data principles that govern OONI’s data practices.</p>
+<ul>
+<li>
+<p>Data Principles</p>
+<ul>
+<li>
+<p>1.
+Purpose Limitation</p>
+</li>
+<li>
+<p>2.
+User Safety</p>
+</li>
+<li>
+<p>3.
+User Control</p>
+</li>
+<li>
+<p>4.
+Open By Default</p>
+</li>
+<li>
+<p>5.
+Accessible and Usable</p>
+</li>
+<li>
+<p>6.
+Public Archive</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Analytics</p>
+<ul>
+<li>
+<p>OONI Probe apps</p>
+</li>
+<li>
+<p>OONI website</p>
+</li>
+</ul>
+</li>
+<li>
+<p>OONI Probe</p>
+<ul>
+<li>
+<p>Data We Collect</p>
+</li>
+<li>
+<p>Data We Process</p>
+</li>
+<li>
+<p>Data We Store</p>
+</li>
+<li>
+<p>Data We Publish</p>
+</li>
+<li>
+<p>Third-party services</p>
+</li>
+</ul>
+</li>
+</ul>Data Principles<p>Our data practices – and the ways that we design and develop software – are
+governed by the following main principles.</p>1.
+Purpose Limitation<p>We collect data that is relevant to the examination and characterization of
+networks, particularly with the goal of identifying internet censorship and
+other forms of network interference.</p>
+<p>We also collect data that enables us to improve OONI tools and better serve
+the OONI community.</p>2.
+User Safety<p>OONI Probe is <em>not</em> a privacy tool, but we care about privacy and
+the well-being of our community.</p>
+<p>We therefore design and develop OONI Probe tests (and the broader OONI software
+ecosystem) with user safety in mind.</p>
+<p>This is why, for example, we do our best <em>not</em> to collect any
+personally-identifiable information.</p>3.
+User Control<p>Running OONI Probe can potentially be risky,
+and different users have different threat models.
+It’s therefore important to us
+that OONI Probe users are able to customize their testing depending on their
+threat model and what they feel comfortable with.</p>
+<p>To this end, we provide settings in OONI software that enable users to <strong>opt
+out</strong> from various different types of data collection and publication.
+We also
+enable OONI Probe users to test the URLs of their choice.</p>4.
+Open By Default<p>To increase transparency of internet censorship around the world, the OONI software ecosystem has been designed in such a way
+that we (automatically) <strong>openly publish all OONI Probe measurements</strong> that get
+sent to our servers.
+All OONI software (including our infrastructure) is open source, enabling the independent, third-party verification of statements made in this Data Policy.</p>5.
+Accessible and Usable<p>We openly publish all OONI measurements in machine-readable format, so that they
+can more easily be accessed, used, and integrated into other systems.</p>
+<p>To enable researchers and data scientists to make use of OONI data, we offer several methods for accessing, downloading, and analyzing the data.</p>
+<p>To enable human rights defenders, journalists, and the general public to access
+and use OONI data, we have built OONI Explorer: a web platform that includes
+charts and a search tool for exploring OONI measurements.</p>6.
+Public Archive<p>Our goal is to enable future generations (and current researchers and human
+rights defenders) to learn about internet censorship through longitudinal OONI
+measurements.</p>
+<p>We therefore do our best to preserve a public archive of all OONI
+measurements that we collect and openly publish.</p>
+<p>As a result, we refrain from deleting OONI measurements (unless there are
+user safety concerns), and we continuously work towards improving our analysis
+and storage capabilities for the public archival of all OONI measurements
+collected from around the world.</p>Analytics<p>We primarily use analytics to receive crash reports, which enables us to identify and
+fix bugs, and to improve the performance of the OONI Probe apps.</p>OONI Probe apps<p>For the OONI Probe mobile app, we use:</p>
+<ul>
+<li>
+<p>Countly (self-hosted).
+We use open source Countly
+analytics (which we host ourselves) for <strong>sending push notifications</strong>.
+If
+you opt in to push notifications on OONI Probe Android, we will collect
+information necessary for sending push notifications (see “Data We Collect”
+section for more details).</p>
+</li>
+<li>
+<p>Sentry.
+If you opt in to sharing <strong>crash reports</strong> with us, we
+will collect sanitized technical data, including device identifier information,
+which will help us understand why the OONI Probe app has crashed.
+We do not
+collect the IP address or a unique identifier of the user.</p>
+</li>
+</ul>
+<p>On F-Droid, we do <em>not</em> use any analytics.</p>
+<p>For the OONI Probe desktop app, we use:</p>
+<ul>
+<li>Sentry.
+If you opt in to sharing <strong>crash reports</strong> with us, we will collect
+sanitized technical data, including device identifier information, which will
+help us understand why the OONI Probe app has crashed.
+We do not collect the IP
+address or a unique identifier of the user.</li>
+</ul>
+<p>Details about our specific setup can be found in ooni/sysadmin.</p>
+<p>On both the OONI Probe mobile and desktop apps, you can opt in to sharing
+crash reports during the onboarding process.
+If you
+change your mind, you can opt out through the settings of the apps.</p>OONI website<p>We use the open source Matomo analytics platform (which we host ourselves) to
+collect data on how many visits OONI Explorer and our website receive.
+This is
+done <strong>without the use of cookies</strong>.
+Since we do not use cookies or track any
+personal data, these analytics are enabled by default.</p>
+<p>We do not record the full IP address of users (which is “anonymised” to the
+first 3 octets, ex.
+123.45.67.0).</p>
+<p>You can opt out of our use of analytics on OONI Explorer and the OONI website
+by <strong>unchecking the opt-out box</strong> at the end of this Data Policy.</p>
+<p>We will notify you of any future changes to our use of analytics through an
+update to this Data Policy.</p>OONI ProbeData We Collect<p>We collect different types of network measurements when you run different types
+of OONI Probe tests.
+You can learn how each OONI Probe test works (and what
+types of network measurements are collected) through the OONI Probe test specifications and test descriptions.</p>
+<p>Details about the collected network measurements are available on OONI Explorer and the OONI API.</p>
+<p>You can opt out of sending us your measurements through the settings in the OONI
+Probe apps.</p>
+<p>If you <em>don’t</em> opt out of sending us your measurements, we will collect the
+following types of data by default when you run OONI Probe.</p>Date and time of measurements<p>We <strong>always</strong> collect the time and date of measurements when you run OONI Probe.
+This data helps us evaluate when a measurement was collected and to
+compare measurements over time.
+<strong>You cannot opt out of sending us this type
+of data.</strong>
+</p>Country code<p>By default, we automatically transmit your IP address to our ASN
+database to identify the country in
+which you are located.
+We then obtain a two-letter country code from this
+database (for example, “IT” for Italy) and store it along with the rest of your
+test results.</p>
+<p>Knowing the country from which our users are running OONI Probe allows us to locate any
+network interference the software identifies to a specific country.
+Such
+information may be useful to researchers, journalists, and advocates who aim to
+discover network interference (such as censorship and traffic manipulation).</p>
+<p>You cannot opt out of sending us your country code as this information is
+essential (i.e.
+without the country code, we don’t know where a measurement came
+from, limiting its value).</p>Network information<p>By default, we collect your corresponding network <strong>Autonomous System Number (ASN)</strong>
+when you run OONI Probe.</p>
+<p>Collecting ASNs helps our work by revealing the identity
+of network providers that engage in censorship or other forms of network
+interference.
+For example, if you run OONI Probe on Vodafone Italia, we would collect
+<code>AS30722</code>, which is the corresponding ASN.</p>
+<p>We also collect information to identify if an OONI Probe user is on a <strong>WiFi network</strong> or
+using <strong>mobile data</strong>.</p>
+<p>This information can be useful for distinguishing measurements collected from
+mobile and fixed-line networks, as well as for sending out push notifications
+and encouraging automatic OONI Probe testing.
+For example, if you are on WiFi
+and you have opted-in to push notifications, we may send you a push notification
+encouraging you to test a long list of URLs.</p>
+<p>You cannot opt out of submitting your network ASN or information about the type
+of network (e.g.
+WiFi) you are running OONI Probe on, as this information is
+necessary in order for measurements to be useful.</p>Network measurements<p>We collect different types of network measurements when you run different types
+of OONI Probe tests.</p>
+<p>You can learn how each OONI Probe test works (and what
+types of network measurements are collected) through the OONI Probe test
+specifications and test descriptions.</p>
+<p>Details about the collected network measurements are available on OONI Explorer and the OONI API.</p>
+<p>You can opt out of sending us any of your measurements through the settings in the OONI
+Probe apps.</p>Crash reports<p>During the onboarding process, OONI Probe users can opt in to send us crash
+reports.
+This information is essential for identifying bugs and improving the
+performance of the OONI Probe apps.</p>
+<p>These crash reports include the OONI Probe software version, device identifier
+information, and information about why and how a specific OONI Probe function
+failed to work as expected.</p>
+<p>You can opt in or opt out of sending us crash reports by enabling or disabling
+this option in the settings of the OONI Probe apps.</p>IP addresses and other information<p>We do <em>not</em> aim to collect or store your IP addresses.
+In fact, we take measures
+to remove them from our database of collected measurements to reduce the risk to
+you.</p>
+<p>However, we <strong>might unintentionally</strong> collect your IP addresses and other
+personally-identifiable information if this data is included in the HTTP headers
+or other metadata of OONI measurements.
+This data, for example, might be collected if
+the websites OONI Probe is testing employ tracking technologies or contain custom content.</p>
+<p>If you run the performance tests included in the OONI Probe apps, the Measurement Lab (M-Lab) will collect and publish your IP address, irrespective of your OONI Probe settings.
+Learn more about M-Lab’s data governance through its privacy statement.</p>Information required for push notifications<p>If you <strong>opt in to push notifications</strong> via the OONI Probe mobile app, we will
+collect information required for identifying and authenticating probes to send out push notifications.</p>
+<p>This may include:</p>
+<ul>
+<li>
+<p>Information about the OONI Probe installation (such as software version,
+supported tests, platform, device language, device timezone);</p>
+</li>
+<li>
+<p>Network information (such as probe ASN and network type) and country code;</p>
+</li>
+<li>
+<p>Approximate geographical location (based on your IP address) in order to send
+geo-targeted push notifications;</p>
+</li>
+<li>
+<p>Information necessary to deliver push notifications, such as the push notification token.</p>
+</li>
+</ul>Data We Process<p>We process all the collected OONI Probe network measurements through our
+data processing pipeline.</p>
+<p>We try to make sense of the data and to find answers to the following questions:</p>
+<ul>
+<li>
+<p>Which types of OONI Probe tests were run?</p>
+</li>
+<li>
+<p>In which countries were those tests run?</p>
+</li>
+<li>
+<p>In which networks were those tests run?</p>
+</li>
+<li>
+<p>When were those tests run?</p>
+</li>
+<li>
+<p>What types of network interference occurred?</p>
+</li>
+<li>
+<p>In which countries did network interference occur?</p>
+</li>
+<li>
+<p>In which networks did network interference occur?</p>
+</li>
+<li>
+<p>When did network interference occur?</p>
+</li>
+<li>
+<p>How did network interference occur?</p>
+</li>
+</ul>
+<p>You can opt out of sending us certain types or all of your measurements by
+disabling the relevant options in the settings of the OONI Probe apps.</p>Data We Store<p>By default, we store ALL of the data that your copy of OONI Probe sends us when
+you run a test.
+This may include information that <em>might</em> be personally-identifying,
+such as your IP address or other information contained in the HTTP headers.</p>
+<p>You can opt out of sending us your measurements by
+disabling the relevant setting in the privacy tab of the OONI Probe apps.</p>
+<p>Data required for sending out push notifications will be stored separately on a
+secure database server operated by OONI (which is different from the public
+metadb that hosts OONI Probe measurements).</p>Data We Publish<p>We publish ALL of the OONI Probe network measurement data that we have collected
+and stored to allow third parties to conduct independent studies, verify our
+findings, and answer other research questions.</p>
+<p>Currently, we publish all OONI measurement data both through our OONI API and through an interactive
+web interface, called OONI Explorer.</p>
+<p>For more information on the license under which the data is released, see
+github.com/ooni/license/data.</p>
+<p>We will <em>not</em> publish data related to analytics and push notification support, both of which are securely stored separately from the public measurement metadb.</p>Third-party services<p>The performance tests included in the OONI Probe apps are conducted against third-party servers
+provided by Measurement Lab (M-Lab).
+M-Lab’s
+services require the retention and disclosure of IP addresses for research
+purposes.
+Learn more about M-Lab’s data governance through its privacy statement.</p>
+<p>We reserve all rights to make future changes to this Data Policy at our sole
+discretion.</p>
+<p>For questions and comments on this Data Policy, please contact the OONI team:
+<strong>contact@openobservatory.org</strong>.</p>
+<code>Key ID: 6B2943F00CB177B7
+Fingerprint:
+4C15 DDA9 96C6 C0CF 48BD 3309 6B29 43F0 0CB1 77B7
+</code>
+      

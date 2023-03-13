@@ -1,0 +1,121 @@
+
+         List of Services <ul>
+<li>
+<b>CryptPad</b>: Document storage with embeded editor.</li>
+<li>
+<b>Libreddit</b> and <b>teddit</b>: reddit frontends.
+Libreddit has a look similar to the new reddit layout, whereas teddit uses the old one while additionally serving an API for your RSS/JSON needs.
+</li>
+<li>
+<b>Nitter</b>: Twitter frontend.</li>
+<li>
+<b>PrivateBin</b>: Encrypted temporary text storage ("pastebin").</li>
+<li>
+<b>rimgo</b>: Imgur frontend.</li>
+<li>
+<b>RSS-Bridge</b>: RSS feed generator.</li>
+<li>
+<b>Scribe</b>: Medium frontend.</li>
+<li>
+<b>SearXNG</b>: Frontend for various search engines.</li>
+<li>
+<b>SimplyTranslate</b>: Frontend for various translation engines.</li>
+</ul>
+<p>More services will be provided, so stay tuned!</p> Terms of Service <p>
+<code>bus-hit.me</code> and its affiliated services ("Service" hereafter) are operated from Québec, Canada.
+The terms may change at any time without notice.</p> Prohibited Behaviour <p>You agree to not use any part of the Service to engage or facilitate any of the following activities:</p>
+<ul>
+<li>Any activity deemed illegal under Canadian and international law;</li>
+<li>Interference of the Service's operations, including spam, hacking, (D)DoS, and distribution of malware;</li>
+<li>Excessive usage of resources, such as scraping (<b>this includes running unauthorized uptime checks</b>);</li>
+<li>Harassment of others, including hate speech;</li>
+<li>Commercial activities, unless explicitly permitted by the Service;</li>
+<li> Conducting sweepstakes with prize value over 100 Canadian dollars.
+See here for the relevant law.
+It was designed to combat organized crime, but nowadays this simply opt all Québecois.e.s out of most giveaways.
+</li>
+</ul> No Warranty <p>You understand and agree that the Service is offered "as is" and without warranty of any kind, either express, implied or statutory.
+In no event shall the operator of the Service ("Operator" hereafter) be liable for any claim, damages or other liability arising from, out of or in connection with the Service or the use or other dealings in the Service.
+The Operator expressly disclaims all implied warranties of title, merchantability, fitness for a particular purpose, and non-infringement.
+The Operator does not warrant the reliability, accessibility or quality of the Service.
+You agree that your use of the Service is at your own risk.
+</p> Privacy Policy <p>The policies may change any time without notice (especially when we start providing a new service).</p>
+<p>No identifiable data is shared with third parties, unless such data transfer is initiated by the user, required to combat abuse, or operationally necessary.</p>
+<p>Some services require the use of first-party cookies and/or local storage, which are required to provide the service (such as remembering user preferences) and are not collected by anyone.
+None of the services employ third-party cookies.</p> Data collected by the Operator nginx access logs <p>Unless otherwise noted below, the nginx <code>access.log</code>, containing your IP address, timestamp, path, and User-Agent, is retained for a maximum of 2 days.
+The logs are used to combat abuse, debug, and collect aggregated usage statistics.</p> CryptPad and PrivateBin <p>Document paths, paste IDs and deletion tokens are not recorded in the nginx access log.
+However, <em>even if</em> I am to record them, I will not be able to decrypt the contents, as the decryption token is located in the URI fragment, which is not transmitted to the server, unless malicious JavaScript is injected into the page.
+If you're concerned about that, then simply compare the fetched resources to the master branch of the upstream repositories or any other instance that you trust.</p>
+<p>The contents, including attachments and comments/chats, are encrypted and decrypted client-side, so that only those who have the full URL may decrypt them.
+The encrypted contents are stored in the disk (for CryptPad) or a database controlled by the Operator (for PrivateBin) according to the specific directives as given by the user.</p> Third parties <p>Oracle Corporation ("Oracle") provides the servers, which are located in the "Canada Southeast (Montréal)" region , as defined by Oracle.
+Their privacy policy is available here.Some websites mistakenly identify this server as being in the US due to the IPv6 address, which is indeed located in the US.
+(The IPv4 address is located in Canada, reflecting the server's physical location.) </p>
+<p>Information regarding abusive behaviour occuring on the Service may be shared with other parties in the interest of mutual protection.</p> Takedown <p>
+<b>Please read the following carefully</b> before requesting takedown for any content on <code>bus-hit.me</code> and its subdomains.</p> For Libreddit/teddit, Nitter, rimgo and Scribe <p>These services act as proxies (aka.
+"frontends") for their corresponding platforms.
+It is our understanding that the services are compliant to the provisions set out in Article 31.1 of the <em>Copyright Act</em>, as well as 17 U.S.
+Code § 512.
+As such, takedown requests regarding content on these services should be sent to the proxied platforms (reddit, Twitter, Imgur and Medium).</p>
+<p>Any takedown requests that are addressed to us regarding these services will be <b>ignored</b>.
+Repeated attempts are considered abuse and will be reported to other hosters.</p> For CryptPad and PrivateBin <p>If you have the full URL, please contact me.
+Otherwise, <em>by design</em>, the Operator is unable to read the contents of the paste and thus no takedown can be served.</p> Contact <p>See here.</p>
+<p>You can also follow me on the fediverse!</p> Miscellaneous <ul>
+<li>If the services are useful to you, consider donating to <em>both</em> project maintainers <em>and</em> service operators.
+For the former, the links should be included in the services' respective project repositories.
+For the latter, see here for this server.</li>
+<li>The homepage uses LaTeX.css (MIT License), available here.</li>
+<li>All services are hosted on various resources provided by a Oracle Cloud free tier "subscription".
+Currently, all services occupy a 2-core 12 GB RAM Ampere A1 Compute, which uses armv8 architecture, requiring alternative docker images.
+<ul>
+<li>
+<b>CryptPad</b>: The unofficial <code>nicholaswilde/cryptpad</code> docker image is used.
+This instance is updated to the latest <b>release</b>.</li>
+<li>
+<b>Libreddit</b>: The official <code>spikecodes/libreddit:arm</code> docker image is used.
+This instance is publicly-listed and updated regularly to the master branch.</li>
+<li>
+<b>teddit</b>: The unofficial <code>1337kavin/teddit</code> docker image is used.
+This instance is publicly-listed and updated regularly to the main branch.</li>
+<li>
+<b>Nitter</b>: The semi-official <code>quay.io/unixfox/nitter</code> docker image is used.
+This instance is publicly-listed and updated regularly to the master branch.
+The uptime is tracked.</li>
+<li>
+<b>PrivateBin</b>: Ran directly from the master branch, which I have contributed to.
+This is the first (if not the only) PrivateBin instance that uses an Oracle database as storage.
+This instance is publicly-listed and updated regularly.</li>
+<li>
+<b>rimgo</b>: The official <code>codeberg.org/video-prize-ranch/rimgo</code> docker image is used.
+This instance is publicly-listed and updated regularly to the main branch.</li>
+<li>
+<b>RSS-Bridge</b>: Ran directly from the master branch.
+<b>Restrictions:</b> Feeds that are related to Meta Platforms Inc.
+(more popularly known as Facebook), are already provided by other services (reddit, Twitter, etc.), or have a high probability of returning pornographical content, are removed.
+This instance is publicly-listed and updated regularly.</li>
+<li>
+<b>Scribe</b>: This unofficial docker image is used.
+This instance is publicly-listed and updated regularly to the main branch.</li>
+<li>
+<b>SearXNG</b>: Filtron is installed standalone using searx's installation script (since there exists no prebuilt docker image).
+SearXNG itself uses the official <code>searxng/searxng</code> docker image.
+This instance is publicly-listed and updated regularly to the master branch.</li>
+<li>
+<b>SimplyTranslate</b>: This unofficial docker image is used.
+This instance is publicly-listed and updated regularly to the master branch.</li>
+</ul>
+</li>
+<li>The following services will only be considered if there exists sufficient demand: Facilmap, Mumble, Wallabag, Wikiless, various multiplayer game servers.</li>
+<li>The following services will likely not be operated: <ul>
+<li>I will not consider services that can be used locally and offer no clear benefit for usage on servers.</li>
+<li>Any RSS reader service: I have been told that they use a tremendous amount of resources...</li>
+<li>Bibliogram: F*cebook's authoritarian ratelimit practically crippled it.
+Also this.</li>
+<li>Croodle, Framadate: Abandoned.</li>
+<li>EtherCalc: How old is it?</li>
+<li>Etherpad/Hedgedoc, Yakforms: Not encrypted.</li>
+<li>FilePizza: Doesn't seem to work consistently.</li>
+<li>Invidious/Piped, Lufi/Send, Jitsi Meet, ProxiTok: Resource constraints.</li>
+</ul>
+</li>
+</ul> 
+      

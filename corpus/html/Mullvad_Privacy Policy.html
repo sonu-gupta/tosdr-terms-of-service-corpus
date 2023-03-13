@@ -1,0 +1,212 @@
+
+         Checking connection...
+Mullvad VPN Help Servers Pricing Blog Policies About My account Download No-logging of user activity policy <p> POLICIES </p>
+<p>Last updated: 20 January 2021</p>
+<br>
+<p>We do not keep activity logs of any kind.
+Learn more about what this means and why we choose to operate this way.</p> What this policy covers <ul>
+<li>Policy overview</li>
+<li>Our anonymous, numbered accounts</li>
+<li>How we handle payment information</li>
+<li>Information that we do not log</li>
+<li>Other data that we do handle</li>
+<li>How we handle emails and problem reports</li>
+</ul> All of our policies regarding data and its storage <ul>
+<li>No logging of user activity policy</li>
+<li>Cookie policy</li>
+<li>Privacy policy (including GDPR)</li>
+<li>Swedish legislation relevant to us as a VPN provider</li>
+<li>Terms of service</li>
+</ul> Policy overview <p>The underlying policy of Mullvad is that we never store any activity logs of any kind.
+We strongly believe in having a minimal data retention policy because we want you to remain anonymous.</p>
+<p>However, in some situations we might process your personal data if you, for example, are making payments by a bank wire, PayPal, Swish, Stripe or are sending an e-mail or reporting a problem.
+In those cases, we might process your personal data and the General Data Protection Regulation (“GDPR”) and other data protection laws may apply.
+For more information please read our Privacy Policy.</p>
+<ul>
+</ul> Our anonymous, numbered accounts <p>We want you to remain anonymous.
+When you sign up for Mullvad, we do not ask for any personal information&nbsp;– no username, no password, no email address.
+Instead, a random&nbsp;account number is generated, a so-called numbered account.
+This number is the only identifier a person needs in order to use a Mullvad account.&nbsp;This is a fundamental difference that sets us apart from most other services.</p>
+<p>Anyone at anytime can create as many numbered accounts as they wish on our website.&nbsp;An account can be used by multiple people or by someone other than the person who initially generated it.</p>
+<p>A Mullvad account has two properties: the account number and&nbsp;the time remaining&nbsp;on that account.</p>
+<p>
+<strong>Question: </strong>How many numbered accounts does Mullvad have?<br>
+<strong>Answer: </strong>At the time of writing this post, Mullvad has&nbsp;555,541&nbsp;numbered accounts.
+These accounts could have been created by 555,541 unique people, or by one person 555,541 times.</p>
+<p>Data that we store for an account¹</p> account number | expiry date
+xxxxxxxxxxx | 20170730 <p>Data stored for WireGuard@ configuration (if used)</p> account number | pubkey | tunnel address
+xxxxxxxxxxxx | xxxxxxxx | x <p>Data stored for port-forward configuration (if used)</p> account number | port | wg_peer
+xxxxxxxxxxxx | x | x How Mullvad handles payment information <p>Let's take a transparent look at the information we do store in order to handle payments.</p>
+<p>You can pay money to the numbered account and therefore acquire more VPN time.
+Mullvad accepts cash, Bitcoin, Bitcoin Cash, bank wire, credit card, PayPal, and Swish.
+You can find more information on how we handle each type of payment below.</p>
+<p>Some types of payment mean that personal data will be processed (such as e.g.
+bank account number and PayPal-ID).
+If you choose a payment method where you are providing your personal data to Mullvad, such as PayPal, we will process and protect your information according to the GDPR and other applicable legislations.
+For more information please read our Privacy policy.</p> Cash <p>Put the money in an envelope together with the payment token and send it to us.
+We will open the envelope, add time to the account (corresponding to the amount of cash sent), and then use a shredder to destroy the envelope and its non-money contents.</p>
+<p>We have no way of knowing who made the payment and who the account belongs to.
+Even if a person were to address the envelope, there is still no way to prove that he or she generated the account or is even using it.
+Please avoid writing your name or address on the envelope.</p>
+<p>The GDPR does not apply in this case since the personal data on the envelope does not form a part of a filing system and are not intended to form part of a filing system.</p>
+<p>This is what we store when a cash payment comes in¹:</p>
+<code>payment | account number | amount | currency | timestamp
+xxxxxx | xxxxxxxxxxxx | 5.0 | USD | 2016-12-09 10:38:23</code> Bitcoin and Bitcoin Cash <p>This is digital cash, so the process is the same as with physical cash but without humans or any third parties involved.
+We run our&nbsp;own full node&nbsp;in the blockchains (one for each of the cryptocurrencies) and we verify incoming payments ourselves.
+Again, we don't use third parties for any step in the bitcoin or bitcoin cash payment process, from the generation of QR codes to adding time to accounts.</p>
+<p>We store these payment details for bitcoin and bitcoin cash¹:</p>
+<code>payment | account number | amount | currency | timestamp | bitcoin address xxxxxx | xxxxxxxxxxxx | 0.00564 | BTC | 2016-12-10 06:36:12 | xxxxxxxxxx
+</code> Credit card, PayPal,&nbsp;Swish, and bank wire <p>For credit card, PayPal, Swish, and bank wire, we do use third parties: Stripe, PayPal, and our bank SEB (which handles both Swish and bank wire).
+These kinds of companies log everything.
+For that reason alone,&nbsp;it is out of our control that they have records showing which people have paid us money (i.e.
+processing of personal data).</p>
+<p>As a customer of their services, these entities would allow us to request this information if we chose to do so.&nbsp;In short, your payment actions with these two methods are not anonymous and the GDPR and other relevant data protection regulations may apply if you are making a payment by credit card, PayPal, Swish or by bank wire.</p>
+<p>The data must be kept for the statutory retention period described in&nbsp.
+applicable local laws such as the Swedish Accounting Act (some information must be stored for seven years from the end of the fiscal year).
+If not required by law, the data will be stored for no longer than necessary for the purpose.
+After the periods, the data will be permanently deleted.</p>
+<p>Here's the information we store for bank wires¹:</p>
+<code>payment | account number | amount | currency | timestamp | transaction_id*
+xxxxxx | xxxxxxxxxxxx | 30 | EUR | 2016-12-09 00:01:06 | xxxxxxxxx
+</code>
+<p>
+<code>*transaction_id is deleted 40 days after payment </code>
+</p>
+<p>Here's the information we store for credit card payments via Stripe¹:</p>
+<code>payment | account number | amount | currency | timestamp* | stripe_charge_id*
+xxxxxx | xxxxxxxxxxxx | 10 | EUR | 2016-12-15 20:42:26 | xxxxxxxxx
+</code>
+<p>
+<code>*</code>stripe_charge_id and the time part (hh:mm:ss) of timestamp is deleted 40 days after payment</p>
+<p>Here's the information we store for Swish¹:</p>
+<code>payment | account number | amount | currency | timestamp | swish_request_id
+xxxxxx | xxxxxxxxxxxx | 50 | SEK | 2016-12-15 20:42:26 | xxxxxxxxx
+</code>
+<p>
+<code>*</code>swish_request_id and the time part (hh:mm:ss) of timestamp is deleted 40 days after payment&nbsp;&nbsp;</p>
+<p>Here's the information we store for PayPal transactions¹:</p>
+<code>payment | account number | amount | currency | timestamp* | transaction_id* xxxxxx | xxxxxxx | 15 | EUR | 2016-12-10 06:40:00 | xxxxxxxxxxxxx </code>
+<p>*transaction_id and the time part (hh:mm:ss) of timestamp are deleted 40 days after payment</p>
+<p>
+<strong>Question: </strong>Why do you store transaction_id and payment tokens?<br>
+<strong>Answer: </strong>Since we support 30-day refunds and because we encounter certain transaction issues from PayPal&nbsp;(for example, double payments and subscription problems),&nbsp;we need to be able to track payments in order to give&nbsp;customers&nbsp;the service we offer.
+We only duplicate the information since PayPal already has it.</p>
+<p>It's important to note that payment processors like PayPal and Stripe do not have your Mullvad account number.
+We send them a token* to link the payment to your account.
+If, however, you send a bank wire payment, the account number will exist in the "message" field of the transaction.</p>
+<p>You should also use a token* when sending us cash.
+Do not write down the account number.</p> Activation codes <p>Here's the information we store for activation codes¹:</p>
+<code>payment | account number | amount | timestamp | voucher id | activation code
+xxxxxx | xxxxxxxxxxxx | 30 | 2016-12-09 00:01:06 | xxxxxx | xxxxxxxxxxx
+</code> in-app purchases on iOS <p>Here's the information we store for iOS purchases:</p>
+<code>payment | account number | amount | timestamp | product id | transaction id
+xxxxxx | xxxxxxxxxxxx | 30 | 2016-12-09 00:01:06 | xxxxxx | xxxxxxxxxxx</code> Partner accounts <p>For accounts created by partners, we don't store payment information.<br>
+Instead we store information on when time was added to or refunded from an account:</p> event id | time added/removed | account number | timestamp xxxxxx | 1234 | xxxxxxxxxxxx | 2016-12-09 00:01:06 Tokens <p>A token is created for all payment methods except cryptocurrencies and bank wire.
+The token, instead of your account number, is sent to the payment processor and used as a reference to link a payment to your account.</p>
+<p>This token expires after 40 days and is no longer possible to link to your account.
+Cash tokens that haven’t been accounted for, however, are stored for 120 days in case postal service is slow.</p> What we don't log <p>We log nothing whatsoever that can be connected to a numbered account's activity:</p>
+<ul>
+<li>no logging of traffic</li>
+<li>no logging of DNS requests</li>
+<li>no logging of connections, including when one is made, when it disconnects, for how long, or any kind of timestamp</li>
+<li>no logging of IP addresses</li>
+<li>no logging of user bandwidth</li>
+<li>no logging of account activity except total simultaneous connections (explained below) and the payment information detailed in this post.</li>
+</ul>
+<p>Our OpenVPN server log configuration:</p>
+<code>verb 0
+log-append /dev/null</code>
+<p>
+<strong>Question: </strong>How can you limit the maximum number of simultaneous connections if you're not logging that information?<br>
+<strong>Answer: </strong>Each VPN server reports to a central service.
+When a customer connects to a VPN server, the server asks the central service to validate the account number, whether or not the account has any remaining time, if the account has reached its allowed number of connections, and so on.
+Everything is performed in temporary memory only.
+none of this information is permanently stored to disk.</p> Providing a reliable service <p>We want to ensure that everyone using our VPN experiences a reliable and stable service.
+Through the years we have implemented changes to ensure that even if our API fails we can still continue to provide a VPN that can be relied upon.</p> This was a way of resolving MUL-03-002 WP2 from our Infrastructure Audit in 2020.
+<p>For our OpenVPN relays we have implemented Fail2ban to block non-authorized or malicious attempts at gaining account time.</p>
+<p>Fail2ban works by reading from a frequently wiped list of malicious unauthorized IP addresses in RAM (tmpfs).
+Regular paying customers and successful connections are not included in this, it is only to prevent any bruteforce attempts.</p>
+<p>
+<strong>Question</strong>: Does that mean if I try to authenticate to an OpenVPN server I will have my IP address logged?</p>
+<p>
+<strong>Answer</strong>: No.
+We do not log customers that have a valid account token.
+This blocking is limited to bad actors trying to gain free account time with non-existent, invalid account numbers.</p> Other data that we do handle <p>Our servers send two types of data to our monitoring system:</p>
+<ul>
+<li>aggregated application data, such as total number of current vpn connections</li>
+<li>generic system metrics, such as CPU load per core and total bandwidth used by the server.</li>
+</ul>
+<p>We log the total sum of each of these statistics in order to monitor the health of each individual VPN server.
+We ensure that the system isn't overloaded, and we monitor the servers for potential attacks, bugs, and network issues.</p>
+<p>We also monitor the real-time state of total connections per account as we only allow for five connections simultaneously.
+As we do not save this information, we cannot, for example, tell you how many connections your account had five minutes ago.</p>
+<p>With regard to our web servers, we handle certain types of information in the following ways:</p>
+<ul>
+<li>We store Nginx access logs for up to 5 minutes in the following format (which does not contain IPs): $server_name [$time_local] $request $status</li>
+<li>Information older than 5 minutes is deleted, and only aggregated information about the number of requests and their response codes is saved.</li>
+<li>We refrain from sending usage statistics to external parties such as Google Analytics.</li>
+<li>Our website utilizes a minimum amount of cookies.
+Please read our cookie policy for more information.</li>
+</ul> How we handle emails and problem reports <p>Our support staff answers questions, resolves problems, and gives general support to customers who actively send an email to support@mullvad.net or submit a problem report via our app/client.</p>
+<p>Please consider the following statements about how we handle support-related communication should you ever need to contact us.</p>
+<ol>
+<li>If privacy is of utmost concern, we recommend that you refrain from communicating any personal data to us since plain-text&nbsp;email is not a safe media for communication.
+If necessary, use PGP-encrypted email.</li>
+<li>After "solving" or "closing" a support case, all related emails are archived (removed from the inbox).</li>
+<li>After 6 months, all emails sent to our support address are automatically, permanently erased (from inbox, deleted items, sent items, trash, and archives).</li>
+<li>We do use a third party to operate our email service, so&nbsp;we remind you to carefully read #1 again.</li>
+<li>No private information&nbsp.
+not even your email address&nbsp.
+will ever actively be passed to third parties (except the third party which operates our email service on behalf of us), unless you explicitly ask us to.</li>
+<li>Please note that an e-mail address is generally considered as personal data and even the information in the e-mail message may include personal data.</li>
+</ol> Notes <p>¹The table's format and header names have been simplified for the purpose of making the principles mentioned in this post easy to understand.</p>
+<p>"WireGuard" is a registered trademark of Jason A.
+Donenfeld.</p> Mullvad <ul>
+<li>Help</li>
+<li>Servers</li>
+<li>Pricing</li>
+<li>Blog</li>
+<li>What is a VPN?</li>
+<li>What is privacy?</li>
+<li>Download</li>
+<li>Press</li>
+<li>Jobs</li>
+</ul> Policies <ul>
+<li>Open source</li>
+<li>Privacy policy</li>
+<li>Cookies</li>
+<li>Terms of service</li>
+<li>Partnerships and resellers</li>
+<li>Reviews, ads and affiliates</li>
+<li>Reporting a bug or vulnerability</li>
+</ul> Address <ul>
+<li>Mullvad VPN AB</li>
+<li>Box 53049</li>
+<li>400 14 Gothenburg</li>
+<li>Sweden</li>
+</ul> Follow us <ul>
+<li>
+<i>
+</i> @mullvadnet </li>
+<li>
+<i>
+</i> @mullvadnet </li>
+<li>
+<i>
+</i> MullvadNet </li>
+<li>
+<i>
+</i> Mullvad VPN </li>
+<li>
+<i>
+</i> mullvad </li>
+<li>
+<i>
+</i> support@mullvad.net <i>
+</i> GPG key </li>
+</ul>
+<br>
+<p>Onion service: xcln5hkbriyklr6n.onion</p> Language <i>
+</i> English <i>
+</i> العربيّة Dansk Deutsch English Español فارسی Suomi Français Italiano 日本語 한국어 Nederlands Norsk Polski Português Русский Svenska ภาษาไทย Türkçe 繁體中文 
+      

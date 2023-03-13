@@ -1,0 +1,379 @@
+
+         Mattermost 5.33 <ul>
+<li>Overview<ul>
+<li>Product Overview</li>
+<li>Security Overview<ul>
+<li>Security Features<ul>
+<li>Private Cloud Deployment with Secure Mobile Apps</li>
+<li>Centralized Security and Administration</li>
+<li>Transmission Security</li>
+<li>Integrity and Audit Controls</li>
+<li>Authentication Safeguards</li>
+<li>Access Control Policy</li>
+</ul>
+</li>
+<li>Security Updates</li>
+<li>Security Policies</li>
+<li>HIPAA compliance</li>
+<li>FINRA compliance</li>
+</ul>
+</li>
+<li>Integrations Overview</li>
+<li>Licensing and Subscription</li>
+<li>Mattermost Cloud Overview</li>
+<li>Corporate Directory Integration</li>
+<li>Certifications and Compliance Overview*</li>
+<li>Frequently Asked Questions (FAQ)</li>
+</ul>
+</li>
+<li>Cloud Administrator's Guide</li>
+<li>Self-Managed Administrator's Guide</li>
+<li>User's Guide</li>
+<li>Integration Guide</li>
+<li>Developer's Guide</li>
+</ul>
+<i>
+</i> Mattermost <ul>
+<li>Docs »</li>
+<li>Mattermost Overview »</li>
+<li>Security Overview</li>
+<li> Edit </li>
+</ul> Security Overview¶
+<p>Security in Mattermost software is continually reviewed by developers, IT administrators, and security researchers accountable for deploying the software in their organizations.</p>
+<p>Multiple rounds of penetration testing and security analysis, in addition to internal reviews, have produced a long list of safeguards, processes, policies, and compliance features:</p>
+<p>Contents</p>
+<ul>
+<li>
+<p>Security Overview</p>
+<ul>
+<li>
+<p>Security Features</p>
+<ul>
+<li>
+<p>Private Cloud Deployment with Secure Mobile Apps</p>
+</li>
+<li>
+<p>Centralized Security and Administration</p>
+</li>
+<li>
+<p>Transmission Security</p>
+</li>
+<li>
+<p>Integrity and Audit Controls</p>
+</li>
+<li>
+<p>Authentication Safeguards</p>
+</li>
+<li>
+<p>Access Control Policy</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Security Updates</p>
+</li>
+<li>
+<p>Security Policies</p>
+</li>
+<li>
+<p>HIPAA compliance</p>
+</li>
+<li>
+<p>FINRA compliance</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>To expand on each:</p> Security Features¶
+<p>Mattermost offers a host of features to help keep your private cloud communications secure.</p> Private Cloud Deployment with Secure Mobile Apps¶
+<blockquote>
+<ul>
+<li>
+<p>Mattermost can run entirely behind your firewall as a single Linux binary with MySQL or PostgreSQL.</p>
+</li>
+<li>
+<p>Mattermost mobile apps can be deployed to an internal Enterprise App Store by using source code available for Mattermost mobile apps and push notification service.
+Optionally VPN clients on PC and mobile devices can be used outside your private network.</p>
+</li>
+<li>
+<p>Optionally, Mattermost mobile apps can run without a VPN by opening standard ports on your Mattermost server, such as 80 or 443.
+In this configuration, you have the option of using compiled iOS and Android applications in iTunes and Google Play provided by Mattermost, Inc.
+(E10, E20), as well as enabling multi-factor authentication (E10, E20).</p>
+</li>
+<li>
+<p>User sessions across web, PC, and mobile can be remotely revoked through account settings, or via the System Console by deactivating accounts.</p>
+</li>
+<li>
+<p>Mattermost apps can be packaged into leading Enterprise Mobility Management solutions including AirWatch and Blackberry through AppDome.</p>
+</li>
+</ul>
+</blockquote> Centralized Security and Administration¶
+<blockquote>
+<ul>
+<li>
+<p>Manage users, teams, access control, and system settings in a web-based System Console user interface.</p>
+</li>
+</ul>
+</blockquote> Transmission Security¶
+<blockquote>
+<ul>
+<li>
+<p>Mattermost supports TLS encryption using AES-256 with 2048-bit RSA on all data transmissions between Mattermost client applications and the Mattermost server across both LAN and internet.</p>
+</li>
+<li>
+<p>Connections to Active Directory/LDAP can be optionally secured with TLS or stunnel (E10).</p>
+</li>
+<li>
+<p>Encryption-at-rest is available for messages via hardware and software disk encryption solutions applied to the Mattermost database, which resides on its own server within your infrastructure.
+To enable end user search and compliance reporting of message histories, Mattermost does not offer encryption within the database.</p>
+</li>
+<li>
+<p>Encryption-at-rest is available for files stored via hardware and software disk encryption solutions applied to the server used for local storage or storage via MinIO.</p>
+</li>
+<li>
+<p>Encryption-at-rest is available for files stored in Amazon’s proprietary S3 system using server-side encryption with Amazon S3-managed keys (E20) when users choose not to use open source options.</p>
+</li>
+<li>
+<p>Option to exclude message contents from push notifications to comply with strict compliance policies, such as US HIPAA standards.</p>
+</li>
+<li>
+<p>Ability to exclude or include the contents of messages in push notifications to avoid disclosure on locked mobile screens, and via relay servers from Apple and Google when sending notifications to iOS or Android mobile apps (relevant to compliance standards such as HIPAA).</p>
+</li>
+</ul>
+</blockquote> Integrity and Audit Controls¶
+<blockquote>
+<ul>
+<li>
+<p>By default, Mattermost stores a complete history of messages, including edits and deletes, along with all files uploaded.
+User interface actions for “deleting” messages and channels remove the data only from the user interface.
+the data is retained within your database.
+If your compliance guidelines require it, you can turn off users’ ability to edit and delete their messages after they are posted.</p>
+</li>
+<li>
+<p>Use an antivirus plugin to scan for viruses before uploading a file to Mattermost.
+Supports ClamAV anti-virus software across browser, Desktop App, and Mobile Apps.</p>
+</li>
+<li>
+<p>Custom data retention policies on messages and file uploads is available (E20).
+A daily data deletion job can be scheduled that deletes messages from the database and user interface, and file uploads from local file storage or Amazon S3, which exceed the specified retention period.</p>
+</li>
+<li>
+<p>The output and archives of server logs can be saved to a directory of your choice.
+Mattermost server logs plus logs from your web proxy can provide an end-to-end history of system usage.</p>
+</li>
+<li>
+<p>Ad hoc compliance reports of messaging by user, date range, and keyword, including edited and deleted messages are available (E20).
+To protect against unauthorized use, all ad hoc report requests are logged.</p>
+</li>
+<li>
+<p>Daily compliance reports compatible with third-party compliance solutions such as Global Relay and Actiance are also available (E20).</p>
+</li>
+</ul>
+</blockquote> Authentication Safeguards¶
+<blockquote>
+<ul>
+<li>
+<p>To protect against brute force attacks, you can set rate limiting on APIs, varied by query frequency, memory store size, remote address, and headers.</p>
+</li>
+<li>
+<p>Session length, session cache, and idle timeout can be configured according to your internal policies, automatically forcing a user to re-login after a specified period of time.</p>
+</li>
+<li>
+<p>Remotely revoke user sessions across web, mobile devices, and native desktop apps.</p>
+</li>
+<li>
+<p>Remotely reset user passwords via the System Console or via the command line.</p>
+</li>
+<li>
+<p>Mattermost supports integrated authentication with Active Directory and LDAP (E10) as well as SAML 2.0 SSO integration with providers including Active Directory Federation Services, Okta, among others (E20).</p>
+</li>
+<li>
+<p>The ability to require multi-factor authentication is also available (E10).</p>
+</li>
+</ul>
+</blockquote> Access Control Policy¶
+<p>To prevent account enumeration, if a user logs in and enters incorrect login details a generic error is presented.</p>
+<p>Security is a top concern for organizations who deploy Mattermost in a private network.
+While running under existing policies and auth protocols of the private network, we prioritize a better user experience (telling a user what went wrong on login) ahead of preventing users on the private network from enumerating accounts.</p>
+<p>Mattermost is optimized to be deployed in a highly secure environment.
+However, admins are given a choice as to the deployment environment.</p>
+<p>When Mattermost is deployed outside a firewall, Admins must be aware that their system is exposed to issues inherent in public cloud deployments.
+In this case, we generally follow the standards of leading online services.
+For example, Gmail offers APIs that not only confirm whether an email account exists, but also displays the user’s profile picture by default.</p>
+<p>Mattermost undergoes extensive penetration testing, security reviews, and security updates.
+You can find further details and previous discussion in our GitHub thread.
+In addition, the following policies are provided:</p>
+<blockquote>
+<ul>
+<li>
+<p>Limit communications to specific users, private channels, or team-wide public channels.</p>
+</li>
+<li>
+<p>Increase system security by restricting email-based account creation to email addresses from a list of specific domains, e.g.
+“corp.mattermost.com”, “mattermost.org”, etc.”</p>
+</li>
+<li>
+<p>Choose whether to restrict or enable cross-origin requests.</p>
+</li>
+<li>
+<p>If sharing of public links for account creation or sharing of files and images are enabled, links can be invalidated via the System Console by regenerating salts.</p>
+</li>
+<li>
+<p>Optionally add advanced passwords requirements with minimum numbers of symbols, numbers, lower, and uppercase letters.</p>
+</li>
+<li>
+<p>Optionally restrict creation, renaming, archiving of channels, private channels and integrations to Team Admins, System Admins, or end users (E10).</p>
+</li>
+<li>
+<p>Optionally restrict sending team invites to Team Admins, System Admins, or end users (E10).</p>
+</li>
+</ul>
+</blockquote> Security Updates¶
+<p>Security updates address newly discovered attacks reported to Mattermost, Inc.
+by the security research community.
+Disclosures are made confidentially, under the Mattermost responsible disclosure policy, allowing for Mattermost, Inc.
+to provide security updates to the community prior to public disclosure.</p>
+<p>For more information, please see:</p>
+<ul>
+<li>
+<dl>
+<dt>Mattermost Security Updates Disclosures</dt>
+<dd>
+<ul>
+<li>
+<p>A summary of security updates made based on past and on-going security analysis and penetration testing.</p>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt>Mattermost Responsible Disclosure Policy</dt>
+<dd>
+<ul>
+<li>
+<p>An overview of how security issues are confidentially reported to and addressed by Mattermost, Inc.</p>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul> Security Policies¶
+<p>For information on internal security policies, development guidelines, business continuity plans, and common security-related questions from enterprises, please see our Security Policies documentation.</p>
+<p>Moreover, Mattermost performs a penetration test on the software no less than once per twelve (12) month period.
+Customers may request a copy of any penetration test results upon five (5) days’ written notice at any time, but no more than once per twelve (12) month period.</p> HIPAA compliance¶
+<p>Deploying Mattermost as part of a HIPAA-compliant IT infrastructure requires a deployment team trained on HIPAA-compliance requirements and standards.</p>
+<ul>
+<li>
+<p>Mattermost offers HIPAA-relevant <strong>Technical Safeguards</strong> including:</p>
+<blockquote>
+<ul>
+<li>
+<p>Integrity Controls</p>
+</li>
+<li>
+<p>Access Control</p>
+</li>
+<li>
+<p>Transmission Security</p>
+</li>
+<li>
+<p>Audit Controls</p>
+</li>
+</ul>
+</blockquote>
+</li>
+<li>
+<p>HIPAA-compliant deployments commonly consider the following:</p>
+<blockquote>
+<ul>
+<li>
+<p>Omitting the contents of messages from mobile push and email notifications:</p>
+<blockquote>
+<ul>
+<li>
+<p>If your Push Notifications Contents option is set to <code>Send full message snippet</code> there is a chance Personal Health Information (PHI) contained in messages could be displayed on a user’s locked phone as a notification.
+To avoid this, set the option to <code>Send generic description with user and channel names</code> or <code>Send generic description with only sender name</code>.</p>
+</li>
+<li>
+<p>Similarly, setting Email Notifications Contents to <code>Send generic description with only sender name</code> will only send the team name and name of the person who sent the message, with no information about channel name or message contents included in email notifications.</p>
+</li>
+</ul>
+</blockquote>
+</li>
+</ul>
+</blockquote>
+</li>
+<li>
+<p>Beyond Technical Safeguards, HIPAA compliance deployments also require:</p>
+<blockquote>
+<ul>
+<li>
+<p>Administrative Safeguards</p>
+</li>
+<li>
+<p>Physical Safeguards</p>
+</li>
+<li>
+<p>Organizational requirements and other standards.</p>
+</li>
+</ul>
+</blockquote>
+</li>
+</ul>
+<p>To learn more, please review HIPAA requirements from the US Department of Health and Human Services.</p> FINRA compliance¶
+<p>Mattermost Enterprise Edition E20 is designed to meet the cybersecurity requirements of the United States Financial Industry Regulatory Authority (FINRA) as part of a customer’s existing operational systems, including technology governance, system change management, risk assessments, technical controls, incident response, vendor management, data loss prevention, and staff training.</p>
+<p>FINRA reviews a firm’s ability to protect the confidentiality, integrity, and availability of sensitive customer information.
+This includes reviewing each firm’s compliance with SEC regulations, including:</p>
+<ul>
+<li>
+<p>Regulation S-P (17 CFR §248.30), which requires firms to adopt written policies and procedures to protect customer information against cyber-attacks and other forms of unauthorized access.</p>
+</li>
+<li>
+<p>Regulation S-ID (17 CFR §248.201-202), which outlines a firm’s duties regarding the detection, prevention, and mitigation of identity theft.</p>
+</li>
+<li>
+<p>The Securities Exchange Act of 1934 (17 CFR §240.17a-4(f)), which requires firms to preserve electronically stored records in a non-rewriteable, non-erasable format.</p>
+</li>
+</ul>
+<p>Mattermost supports FINRA compliance as part of a customer’s integrated operations in the following ways:</p>
+<ul>
+<li>
+<p>
+<strong>Continuous archiving:</strong> Configuration as a non-rewriteable, non-erasable system of record for all messages and files entered into the system.
+Moreover, automated compliance exports and integration support for Smarsh/Actiance and Global Relay provide third-party eDiscovery options.</p>
+</li>
+<li>
+<p>
+<strong>Secure deployment:</strong> Deployment within private, public, and on-premesis networks with existing FINRA-compliant safeguards and infrastructure to protect customer information from cyber attack.</p>
+</li>
+<li>
+<p>
+<strong>Support for intrusion detection:</strong> Ability to support multi-layered intrusion detection from authentication systems to application servers to database access, including configuration of proxy, application, and database logging to deeply audit system interactions.</p>
+</li>
+<li>
+<p>
+<strong>Multi-layered disaster recovery:</strong> High Availability configuration, automated data back up, and enterprise information archiving integration to prevent data loss and recover from disaster.</p>
+</li>
+</ul> Next Previous <p> © Copyright 2015-2021 Mattermost.
+</p> Built with Sphinx using a theme provided by Read the Docs.
+&nbsp;&nbsp;Options&nbsp.
+<dl>
+<dt>Contribute</dt>
+<dd> Report a Problem </dd>
+<dd> Edit on GitHub </dd>
+</dl>
+<i>
+</i>
+<i>
+</i>
+<ul>
+<li>Developers</li>
+<li>Product</li>
+<li>Pricing</li>
+<li>Blog</li>
+<li>Download</li>
+<li>Trial</li>
+</ul> 🙂×<p>How would you rate this page?</p> 😀 <p>Excellent</p> 😐 <p>Average</p> 🙁 <p>Poor</p> 
+      
