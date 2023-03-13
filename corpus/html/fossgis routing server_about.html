@@ -1,0 +1,72 @@
+
+        
+OSRM routing server using OpenStreetMap data
+<p>This server provides route instructions for a few select modes
+of transportation.
+It uses free and open data from the
+collaborative OpenStreetMap project
+with the routing engine OSRM.
+The servers
+are sponsored by FOSSGIS.</p>
+Contact
+<p>Map related questions are best asked at one of the places
+mentioned on openstreetmap.org/help</p>
+<p>For questions about the routing engine software, OSRM, there is the
+mailinglist osrm-talk</p>
+<p>You can contact the system administrators at
+fossgis-routing-server@openstreetmap.de</p>
+Privacy
+<p>Your request for a route is sent to our server (because the route is
+calculated on the server and only displayed in your browser) and is saved
+in the server log file.
+Please see
+Datenschutzerklärung
+for more information on privacy.</p>
+Usage policy
+<p>The full usage policy can be found
+on the fossgis website
+in German.
+Here a short excerpt:</p>
+<ul>
+<li>Display the required attribution and display a link to
+"fix the map".</li>
+<li>Use a valid user agent and, if applicable, a correct referrer.</li>
+<li>One request per second max.</li>
+<li>No scraping, no heavy usage.</li>
+</ul>
+General setup
+<p>There are three servers, one is continuously preparing the routing graph
+and fetching the most recent OpenStreetMap data, while the two others are
+serving routes from the precalculated graphs.</p>
+<p>The three servers have 6 cores and 256GB ram each.</p>
+Used software
+<p>Most software running on the servers is available as open source.
+Debian 10 is used as operating system.</p>
+OSRM backend
+<p>Currently running v5.23.0</p>
+<ul>
+<li>hints are disabled, because they can crash the server</li>
+</ul>
+OSRM frontend
+<ul>
+<li>The frontend was hacked to include a profile switch (car, bike and foot)</li>
+<li>Includes the configuration of background layers and routing engine URLs</li>
+</ul>
+routing profiles
+<p>The routing profiles used for these servers.
+They differ
+from the profiles included with the OSRM-backend sources,
+especially the bike and foot profiles.</p>
+<ul>
+<li>car: worldwide</li>
+<li>bike: worldwide</li>
+<li>foot: worldwide</li>
+</ul>
+Overview of routing data updates
+<p>The routing data are updated daily.
+There may be delays in the internal processing and creation of the routing diagram.</p>
+Server configuration
+<p>The server configuration is available as chef scripts in a github repository, too.
+There you can also find auxiliary files like this page.</p>
+
+      

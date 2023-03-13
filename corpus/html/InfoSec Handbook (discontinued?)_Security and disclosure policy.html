@@ -1,0 +1,329 @@
+
+        <i>
+</i>InfoSec HandbookBlog
+News
+Series
+Terminal tips
+Recommendations
+Glossary
+Contact
+About us<ul>
+<li>Menu<ul>
+<li>Blog</li>
+<li>News</li>
+<li>Series</li>
+<li>Terminal tips</li>
+<li>Recommendations</li>
+<li>Glossary</li>
+<li>RSS/Atom</li>
+<li>Contact</li>
+<li>About us</li>
+</ul>
+</li>
+</ul>Security and disclosure policyContents<ul>
+<li>Security contact</li>
+<li>For us, security and privacy take top priority</li>
+<li>Disclosure policy<ul>
+<li>Disclosure process</li>
+<li>Scope and possible bug bounties</li>
+<li>Testing requirements and code of conduct</li>
+</ul>
+</li>
+<li>Acknowledgments</li>
+<li>Changelog</li>
+</ul>
+<p>This page is about our security and disclosure policy.
+Have a look at our privacy policy, if you are looking for privacy-related topics.</p>Security contact<ul>
+<li>We provide a security.txt file for structured security contact information.</li>
+<li>See our contact page for contact details and our OpenPGP key.</li>
+</ul>For us, security and privacy take top priority<p>✅ No logging by default – ✅ Minimal data processing</p>
+<p>We decided to choose the best protection for your personal data: We simply do not collect it.
+You don’t have to trust us, because you keep your data.
+By default, we do not log anything, and we concluded a data processing agreement according to Article 28 GDPR with our server provider (see our privacy policy).
+We do not track you, and we do not set any cookies.</p>
+<p>✅ Single-purpose server – ✅ No databases</p>
+<p>For security, we provide our website using a dedicated virtual server.
+There aren’t any other public services on this server (e.g., no database server, no mail server, no messaging server).</p>
+<p>✅ Security monitoring – ✅ Strong authentication – ✅ Defined processes</p>
+<p>We permanently monitor our server to check for modified files and login attempts.
+Two-factor authentication is needed to access our server.
+The core of our server is a hardened Linux installation.
+Hardening means that we removed unnecessary packages and applied strict configuration at the kernel level.
+Finally, we implemented processes to ensure the installation of security updates within a narrow time frame and quick reaction to reported potential security vulnerabilities.</p>
+<p>✅ 100% static content – ✅ No CMS, PHP, or JavaScript – ✅ No 3rd party content</p>
+<p>Our website consists of 100% static content.
+There is no content management system (CMS) installed, and there is no dynamically-served content like PHP or JavaScript.
+We do not embed any third-party content, and all links to third-party websites are visually marked.
+If you navigate to other websites from the InfoSec Handbook, the new browser tab runs in a separate process in your web browser, and we strip any Referrer information.</p>
+<p>✅ 100% transparency – ✅ Available on archive.org – ✅ No hidden changes</p>
+<p>You find all changes on InfoSec Handbook on codeberg.org<sup>external link</sup>.
+Our commits are cryptographically signed.
+When we update our content, we add a small changelog to the bottom of the post, listing the most significant changes.
+Moreover, our website is listed on archive.org<sup>external link</sup>.
+This way, you can go back in history and check our changes.</p>Disclosure policy<p>Did you find a potential security vulnerability? You find our security-related contact details above.
+We won’t take legal action against you as a penetration tester if you observe the law, and we won’t publish your identity by default.</p>
+<p>Besides, we run a bug bounty program to ensure the highest level of security and privacy.
+Everyone is eligible to participate in the program as described by this policy.</p>Disclosure process<p>We are big fans of “coordinated disclosure.” Due to this, we stay with the following process:</p>1.
+You start to test for security vulnerabilities<p>First of all, thanks for helping us to improve the security of the InfoSec Handbook.
+Please look at the scope and observe the testing requirements.
+If you have any further questions, please do not hesitate to contact us.</p>2.
+You send us a private report<p>You privately report a potential security vulnerability.
+Use the communication channels mentioned above.
+<strong>Use our OpenPGP key, and provide your OpenPGP key!</strong>
+</p>
+<p>You may submit your report anonymously.
+however, we can’t get in touch with you in this case.</p>3.
+We check your report and you get our feedback<p>We check your initial report.
+Depending on our investigation, we either:</p>
+<ul>
+<li>fix the vulnerability and get in touch with you regarding your bug bounty and coordinated disclosure, or</li>
+<li>get in touch with you to request additional information, or</li>
+<li>inform you about the ineligibility of your report.</li>
+</ul>
+<p>Expect our initial feedback within 5 days.</p>4.
+We wait for your feedback<p>After sending our feedback to you, we wait up to 30 days for your response.</p>5.
+We publish information about your report<p>The final step of the coordinated disclosure process can be:</p>
+<ul>
+<li>We agree on coordinated disclosure of the fixed vulnerability.
+Upon request, we add your name to our Acknowledgments section.</li>
+<li>We publish information regarding an invalid vulnerability to inform future testers.</li>
+</ul>Scope and possible bug bounties<p>The disclosure policy on this page is valid for the following domain names (and underlying servers):</p>Domain nameEligible for bug bountieshttps://infosec-handbook.eu/yesAll other domains operated by usno<p>The following bounties are only a guideline.
+We include the actual bug bounty in our responses.
+<strong>If all testing requirements were met</strong>, we offer the following bounties:</p>Type of vulnerabilityBug bounty up toSecurity-relevant configuration weaknessAcknowledgmentInformation leakage (except personal data)€75Code injection (e.g., HTML, JS)€100Unauthorized access (user-level)€100Remote Code Execution (RCE)€150Leakage of personal data€175Unauthorized access (root-level)€175<p>Out-of-scope are vulnerabilities of software that we don’t use, vulnerabilities that require physical access to our servers, and recently disclosed 0-day vulnerabilities.
+If you report out-of-scope vulnerabilities, you may still be eligible to be listed below.</p>
+<p>Bug bounties can only be paid via bank wire transfer (EU countries only) or Stellar Lumens (XLM).
+There may exist additional legal regulations and requirements regarding payments and bug bounties in your country.</p>Testing requirements and code of conduct<p>Please observe our testing requirements and code of conduct:</p>1.
+Check whether you are the first reporter<p>You must be the first reporter of a potential vulnerability.
+Please go to our issue tracker<sup>external link</sup> BEFORE reporting anything, and check whether somebody already reported the potential vulnerability.</p>2.
+Check the scope<p>The reported vulnerability and the domain name must be in scope.</p>3.
+Provide a report<p>Please include the following in your report:</p>
+<ol>
+<li>A brief description of the security vulnerability (Which software is affected? What is the issue?)</li>
+<li>A brief description of risks originating from the security vulnerability (What are risks for our website?)</li>
+<li>A step-by-step guide that allows us to reproduce the issue</li>
+</ol>
+<p>If necessary, add screenshots or proof of concept code.</p>4.
+Do not act unprofessionally<ul>
+<li>Do not randomly attack our server with automated tools.
+Flooding our servers with millions of requests or executing random attacks neither is something a professional penetration tester does nor something that we want to see.</li>
+<li>Do not leak, manipulate, or destroy any data on our servers.</li>
+<li>Do not publish anything regarding a confirmed and unpatched vulnerability without our prior permission.</li>
+<li>Do not use abusive language, act criminally, or impersonate us.</li>
+<li>Do not demand a bug bounty, or try to press us for money.</li>
+</ul>Acknowledgments<p>We would like to thank the following researchers and testers:</p>DateNameVulnerabilityBounty2019-08-28UndisclosedUnintended metadata in some files€25Changelog<p>We updated this page on May 28, 2020.
+For transparency, we provide a complete changelog of this page on codeberg.org<sup>external link</sup>.</p>Latest activity<ul>
+<li>
+<p>tutorial</p>
+<p>KeePassXC and YubiKeys – Setting up the challenge-response mode</p>
+<p>Dec 12, 2020 · NEW</p>
+</li>
+<li>
+<p>myths</p>
+<p>Signal messenger myths</p>
+<p>Nov 5, 2020 · UPDATED</p>
+</li>
+<li>
+<p>Web server security</p>
+<p>Web server security – Part 3: TLS and security headers</p>
+<p>Nov 3, 2020 · UPDATED</p>
+</li>
+<li>
+<p>tutorial</p>
+<p>NTS – Securing NTP with RFC 8915</p>
+<p>Oct 4, 2020 · NEW</p>
+</li>
+<li>
+<p>tutorial</p>
+<p>Signify</p>
+<p>Sep 28, 2020 · NEW</p>
+</li>
+</ul>categories<ul>
+<li>ask-us-anything
+3</li>
+<li>authentication
+5</li>
+<li>discussion
+6</li>
+<li>hack-the-box
+1</li>
+<li>home-network-security
+6</li>
+<li>knowledge
+5</li>
+<li>limits
+3</li>
+<li>monthly-review
+12</li>
+<li>myths
+7</li>
+<li>privacy
+13</li>
+<li>tutorial
+12</li>
+<li>vulnerability
+1</li>
+<li>web-server-security
+9</li>
+</ul>tag cloud2fa
+36c3
+ad-blocking
+afwall
+ama
+android
+apache
+appeals
+assessment
+audit
+blogging
+bluetooth
+caa
+camera
+capec
+career
+certifications
+cms
+comptia
+covid19
+crlite
+cryptcheck
+csp
+ct
+ctf
+curl
+cutycapt
+cve
+cvss
+cwe
+dejablue
+dns
+dnssec
+doh
+dot
+e-foundation
+e-mail
+e2ee
+ecsm2019
+ecsm2020
+encryption
+ethics
+exif
+fail2ban
+federation
+fido2
+firefox
+firewall
+fscrypt
+ftp
+gdm
+gdpr
+gnupg
+grub
+hackthebox
+hardenize
+https
+hugo
+hygiene
+infosechandbook
+ios
+iot
+ips
+isolation
+jitsi-meet
+joomla
+keepassxc
+keybase
+knob
+kr00k
+kresd
+lan
+lets-encrypt
+libreoffice
+lineageos
+lnav
+logging
+luks
+malvertising
+mastodon
+matrix
+metadata
+minisign
+mintotp
+modsecurity
+monitoring
+nas
+nextcloud
+nginx
+nitrokey
+ntp
+ntpsec
+nts
+observatory
+ocsp
+open-source
+openpgp
+openssl
+osint
+ot-security
+owasp
+pam
+password
+pdfex
+pentesting
+photo
+phpbb
+policy
+privacy
+privacy-policy
+privacyscore
+privacytools
+prtg
+python
+rcs
+redaction
+remote-access
+rom
+router
+sandbox
+server-security
+sha1
+side-channel-attack
+signal
+signify
+simjacker
+social-engineering
+software-security
+ssh
+standard
+survey
+tls
+tor
+tracking
+turris-omnia
+u2f
+ultravnc
+usbguard
+verification
+vnc
+waf
+web-server
+webauthn
+webbkoll
+wibattack
+wlan
+wordpress
+wpa2
+wpa3
+xmpp
+yubikeyRSS/Atom
+·
+Sitemap
+·
+Privacy policy
+·
+Security policy
+·
+Changelog
+·
+Copyright<br>
+<br>Mirror (codeberg.org)
+      
