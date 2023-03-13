@@ -9,7 +9,7 @@
 
 ## Description
 
-This repository contains a corpus of 9000 terms of service (TOS) documents, which were scraped from the [TOSDR website](https://edit.tosdr.org/documents) using the Beautiful Soup and Requests libraries in Python. The dataset includes both HTML and text versions of the documents.
+This repository contains a corpus of 12,215 terms of service (TOS) documents, which were scraped from the [TOSDR website](https://edit.tosdr.org/documents) using the Beautiful Soup and Requests libraries in Python. The dataset includes both HTML and text versions of the documents.
 
 The data collection process involved retrieving the document text from TOSDR, saving it in an HTML file, removing non-English files detected through the LangDetect library, removing files less than 2B in size and less than 6 words, and converting the remaining files to a text format.
 
