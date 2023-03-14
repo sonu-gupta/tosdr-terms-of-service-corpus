@@ -29,7 +29,7 @@ I would like to acknowledge the TOSDR team for their good work and the valuable 
 
 ## License
 
-This corpus is based on data from the Terms of Service; Didn't Read (TOS;DR) project, which is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license. As such, this corpus is also released under the CC BY-SA 3.0 license. You are free to use, distribute, and modify this dataset for any purpose, as long as you give appropriate credit to the original creator (i.e., TOS;DR) and share any modifications you make to the corpus under the same license. 
+This corpus is based on data from the Terms of Service; Didn't Read (TOS;DR) project, which is licensed under the GNU General Public License version 3 (GPLv3). As such, this work is also licensed under the GPLv3. For more information about the GPLv3 license, please visit https://www.gnu.org/licenses/gpl-3.0.en.html.
 
 ## Things in Progress
 I am continuously updating and improving this corpus. Currently, I am working on removing the non-TOS documents from the corpus. I am also exploring the use of machine learning and natural language processing techniques to further analyze and extract insights from this corpus. 
@@ -37,7 +37,3 @@ I am continuously updating and improving this corpus. Currently, I am working on
 I am working on a new corpus that would contain TOS documents that are not included in this corpus.
 
 If you are interested in contributing to this project, please feel free to submit a pull request or reach out to us directly. I welcome any and all contributions and feedback.
-<!-- For more information, please see the [license file](./LICENSE.md). -->
-
-<!-- This dataset is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). By downloading and using this dataset, you agree to give attribution to the original source and to share any modifications under the same license.
- -->
