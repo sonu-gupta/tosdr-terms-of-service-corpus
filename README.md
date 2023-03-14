@@ -29,7 +29,7 @@ I would like to acknowledge the TOSDR team for their good work and the valuable 
 
 ## License
 
-This corpus is based on data from the Terms of Service; Didn't Read (TOS; DR) project, licensed under the GNU Affero General Public License version 3 (AGPLv3). As such, this work is also licensed under GNU AGPLv3. For more information about the GPLv3 license, please visit https://www.gnu.org/licenses/licenses.html#AGPL.
+This corpus is based on data from the Terms of Service; Didn't Read (TOS; DR) project, licensed under the GNU Affero General Public License version 3 (AGPLv3). As such, this work is also licensed under GNU AGPLv3. For more information about the AGPLv3 license, please visit https://www.gnu.org/licenses/licenses.html#AGPL.
 
 ## Things in Progress
 I am continuously updating and improving this corpus. Currently, I am working on removing the non-TOS documents from the corpus. I am also exploring the use of machine learning and natural language processing techniques to further analyze and extract insights from this corpus. 
